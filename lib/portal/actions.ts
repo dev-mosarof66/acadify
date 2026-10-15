@@ -4,7 +4,7 @@ import { and, count, eq } from "drizzle-orm";
 import { revalidatePath } from "next/cache";
 
 import { ensureAuthUser } from "@/lib/auth/accounts";
-import { ROLE_LABELS, type InstituteRole } from "@/lib/auth/rbac";
+import { roleLabel, type InstituteRole } from "@/lib/auth/rbac";
 import { assertInstituteMember } from "@/lib/auth/session";
 import { db, instituteMembers, studentAccess, students } from "@/lib/db";
 import { sendEmail } from "@/lib/email/brevo";
@@ -47,10 +47,10 @@ export async function grantPortalAccess(studentId: string, form: FormData): Prom
     .where(and(eq(instituteMembers.userId, account.id), eq(instituteMembers.instituteId, instituteId)))
     .limit(1);
   if (existing && !PORTAL_ROLES.includes(existing.role)) {
-    return { ok: false, error: `${email} is a staff account (${ROLE_LABELS[existing.role]}). Use a different email for portal access.`, field: "email" };
+    return { ok: false, error: `${email} is a staff account (${roleLabel(existing.role, me.active.instituteType)}). Use a different email for portal access.`, field: "email" };
   }
   if (existing && existing.role !== role) {
-    return { ok: false, error: `${email} already has ${ROLE_LABELS[existing.role]} portal access. Use the same role or a different email.`, field: "role" };
+    return { ok: false, error: `${email} already has ${roleLabel(existing.role, me.active.instituteType)} portal access. Use the same role or a different email.`, field: "role" };
   }
 
   const memberId =
@@ -64,7 +64,7 @@ export async function grantPortalAccess(studentId: string, form: FormData): Prom
   if (!existing) {
     const mail = await sendEmail({
       to: { email, name },
-      ...memberWelcomeEmail({ name, email, instituteName: me.active.instituteName, role, newAccount: account.created, addedBy: me.name }),
+      ...memberWelcomeEmail({ name, email, instituteName: me.active.instituteName, instituteType: me.active.instituteType, role, newAccount: account.created, addedBy: me.name }),
     });
     emailed = mail.ok;
   }

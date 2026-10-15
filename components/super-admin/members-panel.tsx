@@ -11,15 +11,15 @@ import { Label } from "@/components/ui/label";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { Panel, PanelHeader } from "@/components/super-admin/ui";
-import { INSTITUTE_ROLES, ROLE_LABELS, ROLE_PERMISSIONS, type InstituteRole } from "@/lib/auth/rbac";
+import { INSTITUTE_ROLES, ROLE_PERMISSIONS, roleLabel, type InstituteRole } from "@/lib/auth/rbac";
 import { addInstituteMember, removeInstituteMember } from "@/lib/super-admin/actions";
 import type { InstituteMemberView } from "@/lib/super-admin/queries";
 import { formatDate, timeAgo } from "@/lib/super-admin/data";
 
-const ROLE_ITEMS = INSTITUTE_ROLES.map((r) => ({ value: r, label: ROLE_LABELS[r] }));
 const CONTROL = "h-11 rounded-xl bg-card text-[14px] md:text-[14px] dark:bg-card";
 
-function AddMemberDialog({ instituteSlug, instituteName }: { instituteSlug: string; instituteName: string }) {
+function AddMemberDialog({ instituteSlug, instituteName, instituteType }: { instituteSlug: string; instituteName: string; instituteType: string }) {
+  const ROLE_ITEMS = INSTITUTE_ROLES.map((r) => ({ value: r, label: roleLabel(r, instituteType) }));
   const [open, setOpen] = React.useState(false);
   const [role, setRole] = React.useState<InstituteRole>("teacher");
   const [showPassword, setShowPassword] = React.useState(false);
@@ -159,11 +159,13 @@ function AddMemberDialog({ instituteSlug, instituteName }: { instituteSlug: stri
 export function MembersPanel({
   instituteSlug,
   instituteName,
+  instituteType,
   members,
   now,
 }: {
   instituteSlug: string;
   instituteName: string;
+  instituteType: string;
   members: InstituteMemberView[];
   /** Request time from the server, so "5 min ago" matches between server and browser. */
   now: number;
@@ -176,7 +178,7 @@ export function MembersPanel({
       <PanelHeader
         title="People with access"
         description={`${members.length} ${members.length === 1 ? "person" : "people"} can sign in for this institute`}
-        action={<AddMemberDialog instituteSlug={instituteSlug} instituteName={instituteName} />}
+        action={<AddMemberDialog instituteSlug={instituteSlug} instituteName={instituteName} instituteType={instituteType} />}
       />
       {members.length === 0 ? (
         <div className="grid justify-items-center gap-2 px-6 py-10 text-center">
@@ -207,7 +209,7 @@ export function MembersPanel({
                   </TableCell>
                   <TableCell>
                     <Badge variant="secondary" className="rounded-full bg-primary-light px-2.5 font-bold text-primary">
-                      {ROLE_LABELS[m.role]}
+                      {roleLabel(m.role, instituteType)}
                     </Badge>
                   </TableCell>
                   <TableCell className="text-[13px] text-muted-foreground">

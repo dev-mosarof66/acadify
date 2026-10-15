@@ -93,6 +93,7 @@ function UploadDialog({ classes, subjects, onClose }: { classes: ClassView[]; su
                   ))}
                 </SelectContent>
               </Select>
+              {classId && subjectItems.length === 1 && <p className="text-[12.5px] text-muted-foreground">This class has no subjects yet. The office adds them under Subjects.</p>}
             </div>
           </div>
           <div className="grid gap-2">

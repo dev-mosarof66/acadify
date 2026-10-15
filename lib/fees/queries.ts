@@ -13,7 +13,7 @@ export type FeeFrequency = "monthly" | "one_time";
 export type PaymentMethod = "cash" | "bkash" | "nagad" | "rocket" | "bank";
 export type BillStatus = "due" | "partial" | "paid" | "waived";
 
-export const METHOD_LABELS: Record<PaymentMethod, string> = { cash: "Cash", bkash: "bKash", nagad: "Nagad", rocket: "Rocket", bank: "Bank" };
+export { METHOD_LABELS } from "./format";
 
 /** "2026-10" for a Dhaka date. */
 export const monthOf = (ms: number) => new Date(ms + 6 * 3600_000).toISOString().slice(0, 7);

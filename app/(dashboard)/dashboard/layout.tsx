@@ -7,7 +7,7 @@ import { TooltipProvider } from "@/components/ui/tooltip";
 import { AccountMenu } from "@/components/global/account-menu";
 import { DashboardSidebar } from "@/components/dashboard/dashboard-sidebar";
 import { DashboardTopbar } from "@/components/dashboard/dashboard-topbar";
-import { ROLE_LABELS } from "@/lib/auth/rbac";
+import { roleLabel } from "@/lib/auth/rbac";
 import { requireInstituteMember } from "@/lib/auth/session";
 import { getLinkedStudents, isPortalRole } from "@/lib/portal/queries";
 
@@ -26,7 +26,7 @@ async function DashboardShell({ children }: { children: React.ReactNode }) {
       <SidebarProvider>
         <DashboardSidebar role={viewer.active.role} instituteName={viewer.active.instituteName} portalChildren={portalChildren} />
         <SidebarInset className="min-w-0 bg-secondary/40">
-          <DashboardTopbar account={<AccountMenu name={viewer.name} email={viewer.email} roleLabel={ROLE_LABELS[viewer.active.role]} area="user" />} />
+          <DashboardTopbar account={<AccountMenu name={viewer.name} email={viewer.email} roleLabel={roleLabel(viewer.active.role, viewer.active.instituteType)} area="user" />} />
           <div className="mx-auto grid w-full max-w-[1300px] gap-6 p-4 sm:p-6">{children}</div>
         </SidebarInset>
       </SidebarProvider>

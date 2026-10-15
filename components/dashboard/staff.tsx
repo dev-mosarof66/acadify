@@ -12,7 +12,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { Panel } from "@/components/super-admin/ui";
 import { CONTROL, FieldLabel, FormError } from "@/components/dashboard/form-bits";
-import { ROLE_LABELS, ROLE_PERMISSIONS, type InstituteRole } from "@/lib/auth/rbac";
+import { ROLE_PERMISSIONS, roleLabel, type InstituteRole } from "@/lib/auth/rbac";
 import { addStaff, removeStaff } from "@/lib/institute/actions";
 import type { StaffRow } from "@/lib/institute/queries";
 import { formatDate, timeAgo } from "@/lib/super-admin/data";
@@ -24,14 +24,14 @@ const ROLE_HINTS: Partial<Record<InstituteRole, string>> = {
   teacher: "Takes attendance, enters marks and hifz progress for their classes.",
 };
 
-export function AddStaffButton({ roles }: { roles: InstituteRole[] }) {
+export function AddStaffButton({ roles, instituteType }: { roles: InstituteRole[]; instituteType: string }) {
   const router = useRouter();
   const [open, setOpen] = React.useState(false);
   const [role, setRole] = React.useState<InstituteRole>(roles.includes("teacher") ? "teacher" : roles[0]);
   const [error, setError] = React.useState<{ message: string; field?: string }>();
   const [done, setDone] = React.useState<string>();
   const [pending, startTransition] = React.useTransition();
-  const items = roles.map((r) => ({ value: r, label: ROLE_LABELS[r] }));
+  const items = roles.map((r) => ({ value: r, label: roleLabel(r, instituteType) }));
 
   const onSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
@@ -124,7 +124,7 @@ export function AddStaffButton({ roles }: { roles: InstituteRole[] }) {
   );
 }
 
-export function StaffTable({ staff, me, removable, now }: { staff: StaffRow[]; me: string; removable: InstituteRole[]; now: number }) {
+export function StaffTable({ staff, me, removable, now, instituteType }: { staff: StaffRow[]; me: string; removable: InstituteRole[]; now: number; instituteType: string }) {
   const router = useRouter();
   const [confirm, setConfirm] = React.useState<string | null>(null);
   const [error, setError] = React.useState<string>();
@@ -183,7 +183,7 @@ export function StaffTable({ staff, me, removable, now }: { staff: StaffRow[]; m
                   </TableCell>
                   <TableCell>
                     <Badge variant="secondary" className="rounded-full bg-primary-light px-2.5 font-bold text-primary">
-                      {ROLE_LABELS[s.role]}
+                      {roleLabel(s.role, instituteType)}
                     </Badge>
                   </TableCell>
                   <TableCell className="text-[13px] text-muted-foreground">

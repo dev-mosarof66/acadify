@@ -25,6 +25,7 @@ async function Home({ searchParams }: { searchParams: PageProps<"/dashboard">["s
       name={viewer.name}
       instituteName={viewer.active.instituteName}
       role={viewer.active.role}
+      instituteType={viewer.active.instituteType}
       stats={stats}
       today={today}
       marksAll={marksAllSections(viewer.active.role)}

@@ -73,14 +73,14 @@ export async function addInstituteMember(instituteSlug: string, form: FormData):
   if (!EMAIL.test(email)) return { ok: false, error: "Enter a valid email address." };
   if (!INSTITUTE_ROLES.includes(role)) return { ok: false, error: "Choose a role." };
 
-  const [inst] = await db.select({ id: institutes.id, name: institutes.name }).from(institutes).where(eq(institutes.slug, instituteSlug)).limit(1);
+  const [inst] = await db.select({ id: institutes.id, name: institutes.name, type: institutes.type }).from(institutes).where(eq(institutes.slug, instituteSlug)).limit(1);
   if (!inst) return { ok: false, error: "Institute not found." };
 
   const access = await grantAccess(inst.id, { name, email, role, password }, admin.id);
   if (!access.ok) return access;
   revalidatePath(`/admin/institutes/${instituteSlug}`);
 
-  const mail = await sendEmail({ to: { email, name }, ...memberWelcomeEmail({ name, email, instituteName: inst.name, role, newAccount: access.created, addedBy: admin.name || undefined }) });
+  const mail = await sendEmail({ to: { email, name }, ...memberWelcomeEmail({ name, email, instituteName: inst.name, instituteType: inst.type, role, newAccount: access.created, addedBy: admin.name || undefined }) });
   return { ok: true, created: access.created, emailed: mail.ok };
 }
 
@@ -286,6 +286,7 @@ export async function createInstitute(form: FormData): Promise<InstituteFormResu
           name: input.contactName,
           email: input.contactEmail,
           instituteName: input.name,
+          instituteType: input.type,
           planName: plan.name,
           monthlyPrice: row.mrr,
           trial: input.plan === TRIAL_PLAN,

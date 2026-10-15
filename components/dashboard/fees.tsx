@@ -25,7 +25,8 @@ import {
   setFeeHeadActive,
   waiveBill,
 } from "@/lib/fees/actions";
-import { METHOD_LABELS, type BillStatus, type BillView, type DueRow, type FeeFrequency, type FeeHeadView, type PaymentMethod, type PaymentRow } from "@/lib/fees/queries";
+import { METHOD_LABELS } from "@/lib/fees/format";
+import { type BillStatus, type BillView, type DueRow, type FeeFrequency, type FeeHeadView, type PaymentMethod, type PaymentRow } from "@/lib/fees/queries";
 import type { ClassView } from "@/lib/institute/queries";
 import { formatDate, timeAgo } from "@/lib/super-admin/data";
 import { cn } from "@/lib/utils";

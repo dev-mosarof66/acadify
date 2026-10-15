@@ -6,7 +6,7 @@ import { ArrowRight, CircleCheck, Circle, School, ShieldAlert, UserRoundCog, Use
 import { Badge } from "@/components/ui/badge";
 import { Card } from "@/components/ui/card";
 import { useLocale } from "@/components/providers/locale-provider";
-import { can, ROLE_LABELS, type InstituteRole, type Permission } from "@/lib/auth/rbac";
+import { can, roleLabel, type InstituteRole, type Permission } from "@/lib/auth/rbac";
 import type { SectionDay } from "@/lib/institute/attendance-queries";
 import { cn } from "@/lib/utils";
 
@@ -77,6 +77,7 @@ export function DashboardHome({
   name,
   instituteName,
   role,
+  instituteType,
   stats,
   today,
   marksAll,
@@ -85,6 +86,7 @@ export function DashboardHome({
   name: string;
   instituteName: string;
   role: InstituteRole;
+  instituteType: string;
   stats: Stats;
   /** Sections this person can mark today, or null if their role doesn't see attendance. */
   today: SectionDay[] | null;
@@ -114,10 +116,10 @@ export function DashboardHome({
       <section className="relative overflow-hidden rounded-[24px] bg-[linear-gradient(160deg,#1F5F1F_0%,#2C7A26_60%,#57B53A_100%)] p-7 text-white sm:p-9">
         <span aria-hidden className="absolute -right-16 -bottom-16 size-64 rounded-full bg-white/10" />
         <div className="relative grid gap-2">
-          <Badge className="w-fit rounded-full bg-white/15 px-3 font-bold text-white">{ROLE_LABELS[role]}</Badge>
+          <Badge className="w-fit rounded-full bg-white/15 px-3 font-bold text-white">{roleLabel(role, instituteType)}</Badge>
           {/* Full name: Bangladeshi names often start with "Md" or "Abdur" */}
           <h1 className="text-[28px] font-extrabold tracking-tight sm:text-[34px]">{t("dashboard.welcome").replace("{name}", name.trim())}</h1>
-          <p className="text-white/85">{t("dashboard.subtitle").replace("{institute}", instituteName).replace("{role}", ROLE_LABELS[role])}</p>
+          <p className="text-white/85">{t("dashboard.subtitle").replace("{institute}", instituteName).replace("{role}", roleLabel(role, instituteType))}</p>
         </div>
       </section>
 

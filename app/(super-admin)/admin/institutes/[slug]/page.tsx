@@ -174,7 +174,7 @@ async function InstituteDetail({ params }: { params: Promise<{ slug: string }> }
         </Panel>
       </section>
 
-      <MembersPanel instituteSlug={inst.slug} instituteName={inst.name} members={members} now={now} />
+      <MembersPanel instituteSlug={inst.slug} instituteName={inst.name} instituteType={inst.type} members={members} now={now} />
 
       <section className="grid gap-4 xl:grid-cols-[minmax(0,1.6fr)_minmax(0,1fr)]">
         <Panel>

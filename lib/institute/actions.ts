@@ -5,7 +5,7 @@ import { and, asc, count, eq, like, max, ne, sql } from "drizzle-orm";
 import { revalidatePath } from "next/cache";
 
 import { ensureAuthUser } from "@/lib/auth/accounts";
-import { ROLE_LABELS, STAFF_ROLES_GRANTABLE, type InstituteRole } from "@/lib/auth/rbac";
+import { roleLabel, STAFF_ROLES_GRANTABLE, type InstituteRole } from "@/lib/auth/rbac";
 import { assertInstituteMember } from "@/lib/auth/session";
 import { classes, db, instituteMembers, sections, students } from "@/lib/db";
 import { sendEmail } from "@/lib/email/brevo";
@@ -330,19 +330,19 @@ export async function addStaff(form: FormData): Promise<ActionResult> {
     .from(instituteMembers)
     .where(and(eq(instituteMembers.userId, account.id), eq(instituteMembers.instituteId, instituteId)))
     .limit(1);
-  if (existing) return { ok: false, error: `${email} already has access as ${ROLE_LABELS[existing.role]}.`, field: "email" };
+  if (existing) return { ok: false, error: `${email} already has access as ${roleLabel(existing.role, me.active.instituteType)}.`, field: "email" };
 
   await db.insert(instituteMembers).values({ userId: account.id, instituteId, role, invitedBy: me.id });
   const mail = await sendEmail({
     to: { email, name },
-    ...memberWelcomeEmail({ name, email, instituteName: me.active.instituteName, role, newAccount: account.created, addedBy: me.name }),
+    ...memberWelcomeEmail({ name, email, instituteName: me.active.instituteName, instituteType: me.active.instituteType, role, newAccount: account.created, addedBy: me.name }),
   });
   refresh("/dashboard/staff");
   return {
     ok: true,
     message: mail.ok
-      ? `${name} was added as ${ROLE_LABELS[role]} and emailed how to sign in.`
-      : `${name} was added as ${ROLE_LABELS[role]}, but the email couldn't be sent. Ask them to use "Forgot password?" on the sign-in page.`,
+      ? `${name} was added as ${roleLabel(role, me.active.instituteType)} and emailed how to sign in.`
+      : `${name} was added as ${roleLabel(role, me.active.instituteType)}, but the email couldn't be sent. Ask them to use "Forgot password?" on the sign-in page.`,
   };
 }
 
@@ -357,7 +357,7 @@ export async function removeStaff(memberId: string): Promise<ActionResult> {
     .limit(1);
   if (!member) return { ok: false, error: "This person no longer has access." };
   if (member.userId === me.id) return { ok: false, error: "You can't remove yourself." };
-  if (!(CAN_ADD[me.active.role] ?? []).includes(member.role)) return { ok: false, error: `Only Acadify can remove a ${ROLE_LABELS[member.role]}.` };
+  if (!(CAN_ADD[me.active.role] ?? []).includes(member.role)) return { ok: false, error: `Only Acadify can remove a ${roleLabel(member.role, me.active.instituteType)}.` };
   await db.delete(instituteMembers).where(eq(instituteMembers.id, memberId));
   refresh("/dashboard/staff");
   return { ok: true };

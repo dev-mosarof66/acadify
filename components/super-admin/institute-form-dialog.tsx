@@ -11,6 +11,7 @@ import { Dialog, DialogClose, DialogContent, DialogDescription, DialogFooter, Di
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@/components/ui/select";
+import { roleLabel } from "@/lib/auth/rbac";
 import { createInstitute, updateInstituteDetails } from "@/lib/super-admin/actions";
 import { APP_DOMAIN, BD_DISTRICTS, findPlan, planPriceLabel, slugify, TRIAL_PLAN, TYPE_LABELS, type Institute, type InstituteType, type Plan, type PlanKey } from "@/lib/super-admin/data";
 import { cn } from "@/lib/utils";
@@ -119,8 +120,8 @@ export function InstituteFormDialog({ open, onOpenChange, slug, initial, fromDem
           : o.error
             ? `The institute was added, but the main contact's account couldn't be created: ${o.error} Add them from "People with access" on the next page.`
             : o.emailed
-              ? `The institute was added and ${contact} has Principal access. We emailed them the welcome email with their plan and next steps.`
-              : `The institute was added and ${contact} has Principal access, but the welcome email couldn't be sent. Ask them to use "Forgot password?" on the sign-in page.`;
+              ? `The institute was added and ${contact} has ${roleLabel("principal", type)} access. We emailed them the welcome email with their plan and next steps.`
+              : `The institute was added and ${contact} has ${roleLabel("principal", type)} access, but the welcome email couldn't be sent. Ask them to use "Forgot password?" on the sign-in page.`;
       setDone({
         slug: result.slug,
         ok: !(o && !o.skipped && (o.error || !o.emailed)) && result.demoEmailed !== false,
@@ -331,7 +332,7 @@ export function InstituteFormDialog({ open, onOpenChange, slug, initial, fromDem
                   className="mt-0.5 size-[18px] rounded-[5px] data-checked:border-primary data-checked:bg-primary"
                 />
                 <span className="grid gap-0.5">
-                  <span className="text-[14px] font-bold">Give the main contact Principal access and email them</span>
+                  <span className="text-[14px] font-bold">Give the main contact {roleLabel("principal", type)} access and email them</span>
                   <span className="text-[13px] text-muted-foreground">They get a welcome email with their plan, a link to set their password, and what to do next.</span>
                 </span>
               </Label>

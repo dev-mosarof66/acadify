@@ -20,9 +20,9 @@ async function Staff() {
       <PageHeader
         title="Staff"
         description={`${staff.length} ${staff.length === 1 ? "person has" : "people have"} access to ${viewer.active.instituteName}`}
-        actions={<AddStaffButton roles={grantable} />}
+        actions={<AddStaffButton roles={grantable} instituteType={viewer.active.instituteType} />}
       />
-      <StaffTable staff={staff} me={viewer.id} removable={grantable} now={now} />
+      <StaffTable staff={staff} me={viewer.id} removable={grantable} now={now} instituteType={viewer.active.instituteType} />
     </>
   );
 }

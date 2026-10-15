@@ -1,3 +1,4 @@
+import { roleLabel } from "@/lib/auth/rbac";
 import type { getReportCard } from "@/lib/exams/queries";
 import { cn } from "@/lib/utils";
 
@@ -86,7 +87,7 @@ export function ReportCard({ card }: { card: Card }) {
       <footer className="mt-6 hidden grid-cols-3 gap-6 pt-10 text-center text-[12px] text-muted-foreground print:grid">
         <p className="border-t pt-1">Class teacher</p>
         <p className="border-t pt-1">Guardian</p>
-        <p className="border-t pt-1">Principal</p>
+        <p className="border-t pt-1">{roleLabel("principal", card.institute.type)}</p>
       </footer>
     </article>
   );

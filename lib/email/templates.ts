@@ -1,6 +1,6 @@
 import "server-only";
 
-import { ROLE_LABELS, type InstituteRole } from "@/lib/auth/rbac";
+import { roleLabel, type InstituteRole } from "@/lib/auth/rbac";
 
 /*
  * Acadify email templates. Table-based with inline styles so they render the same in Gmail, Outlook and phone apps.
@@ -260,8 +260,8 @@ const ROLE_HIGHLIGHTS: Record<InstituteRole, string[]> = {
   guardian: ["See your child's attendance, results and fees"],
 };
 
-export function memberWelcomeEmail(o: { name: string; email: string; instituteName: string; role: InstituteRole; newAccount: boolean; addedBy?: string }): Email {
-  const role = ROLE_LABELS[o.role];
+export function memberWelcomeEmail(o: { name: string; email: string; instituteName: string; instituteType: string; role: InstituteRole; newAccount: boolean; addedBy?: string }): Email {
+  const role = roleLabel(o.role, o.instituteType);
   const fullName = o.name.trim();
   const signIn = `${appUrl()}/login`;
   const setPassword = `${appUrl()}/forgot-password?email=${encodeURIComponent(o.email)}`;
@@ -317,12 +317,13 @@ const taka = (n: number) => `৳${new Intl.NumberFormat("en-IN").format(n)}`;
 
 /**
  * Sent to an institute's main contact when the super admin adds the institute: plan details, their account,
- * and what to do next. They get Principal access; `newAccount` decides between "set your password" and "sign in".
+ * and what to do next. They get Principal (Muhtamim in a madrasah) access; `newAccount` decides between "set your password" and "sign in".
  */
 export function instituteWelcomeEmail(o: {
   name: string;
   email: string;
   instituteName: string;
+  instituteType: string;
   planName: string;
   /** Monthly price in BDT; 0 on the free trial. */
   monthlyPrice: number;
@@ -332,6 +333,7 @@ export function instituteWelcomeEmail(o: {
   newAccount: boolean;
 }): Email {
   const fullName = o.name.trim();
+  const head = roleLabel("principal", o.instituteType);
   const signIn = `${appUrl()}/login`;
   const setPassword = `${appUrl()}/forgot-password?email=${encodeURIComponent(o.email)}`;
   const until = DATE_ONLY.format(new Date(`${o.renewsOn}T00:00:00+06:00`));
@@ -345,7 +347,7 @@ ${heading(`${o.instituteName} is ready on Acadify`, "আপনার প্র�
 
   const body =
     p(
-      `Dear ${esc(fullName)}, welcome to Acadify. Your institute's account is set up and you have <strong>Principal</strong> access, so you can run everything from one place.`
+      `Dear ${esc(fullName)}, welcome to Acadify. Your institute's account is set up and you have <strong>${head}</strong> access, so you can run everything from one place.`
     ) +
     gap(18) +
     details(
@@ -378,7 +380,7 @@ ${heading(`${o.instituteName} is ready on Acadify`, "আপনার প্র�
   });
   const text = [
     `${o.instituteName} is ready on Acadify`,
-    `Dear ${fullName}, welcome to Acadify. You have Principal access.`,
+    `Dear ${fullName}, welcome to Acadify. You have ${head} access.`,
     `Plan: ${planLine}\n${o.trial ? "Trial ends" : "Next bill"}: ${until}\nYour sign-in: ${o.email}`,
     `What to do next:\n1. ${o.newAccount ? `Set your password: ${setPassword}` : `Sign in: ${signIn}`}\n2. Sign in and confirm the emailed code.\n3. Reply to this email with your classes, staff and fee setup, and we'll help you get everything in.`,
   ].join("\n\n");

@@ -3,7 +3,7 @@ import { Suspense } from "react";
 import { Skeleton } from "@/components/ui/skeleton";
 import { TeacherAssignments } from "@/components/dashboard/teachers";
 import { PageHeader } from "@/components/super-admin/ui";
-import { ROLE_LABELS, type InstituteRole } from "@/lib/auth/rbac";
+import { roleLabel, type InstituteRole } from "@/lib/auth/rbac";
 import { requireInstituteMember } from "@/lib/auth/session";
 import { getSectionAssignments } from "@/lib/institute/attendance-queries";
 import { getStaff } from "@/lib/institute/queries";
@@ -19,7 +19,7 @@ async function Teachers() {
   const teachers = staff
     .filter((s) => TEACHING_ROLES.includes(s.role))
     .sort((a, b) => TEACHING_ROLES.indexOf(a.role) - TEACHING_ROLES.indexOf(b.role) || a.name.localeCompare(b.name))
-    .map((s) => ({ memberId: s.memberId, name: s.name, roleLabel: ROLE_LABELS[s.role] }));
+    .map((s) => ({ memberId: s.memberId, name: s.name, roleLabel: roleLabel(s.role, viewer.active.instituteType) }));
   const unassigned = sections.filter((s) => !s.teachers.length).length;
 
   return (

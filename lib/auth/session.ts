@@ -15,6 +15,7 @@ export interface Membership {
   instituteId: string;
   instituteSlug: string;
   instituteName: string;
+  instituteType: string;
   role: InstituteRole;
 }
 
@@ -61,7 +62,7 @@ export async function getViewer(): Promise<Viewer | null> {
 
 export async function getMemberships(userId: string): Promise<Membership[]> {
   const rows = await db
-    .select({ memberId: instituteMembers.id, instituteId: institutes.id, instituteSlug: institutes.slug, instituteName: institutes.name, role: instituteMembers.role })
+    .select({ memberId: instituteMembers.id, instituteId: institutes.id, instituteSlug: institutes.slug, instituteName: institutes.name, instituteType: institutes.type, role: instituteMembers.role })
     .from(instituteMembers)
     .innerJoin(institutes, eq(instituteMembers.instituteId, institutes.id))
     .where(eq(instituteMembers.userId, userId));

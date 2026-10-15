@@ -171,7 +171,7 @@ export async function getReportCard(instituteId: string, examId: string, student
   const exam = await getExam(instituteId, examId);
   if (!exam || !/^[0-9a-f-]{36}$/i.test(studentId)) return null;
   const [st] = await db
-    .select({ sectionId: students.sectionId, guardianName: students.guardianName, instituteName: institutes.name, district: institutes.district })
+    .select({ sectionId: students.sectionId, guardianName: students.guardianName, instituteName: institutes.name, district: institutes.district, instituteType: institutes.type })
     .from(students)
     .innerJoin(institutes, eq(students.instituteId, institutes.id))
     .where(and(eq(students.id, studentId), eq(students.instituteId, instituteId)))
@@ -182,7 +182,7 @@ export async function getReportCard(instituteId: string, examId: string, student
   if (!results || !row) return null;
   return {
     exam,
-    institute: { name: st.instituteName, district: st.district },
+    institute: { name: st.instituteName, district: st.district, type: st.instituteType },
     section: results.section,
     subjects: results.subjects,
     row,

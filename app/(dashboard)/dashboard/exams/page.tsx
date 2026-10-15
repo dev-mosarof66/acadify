@@ -24,7 +24,7 @@ async function Exams() {
         actions={
           admin ? (
             <>
-              <Button variant="outline" nativeButton={false} render={<Link href="/dashboard/exams/subjects" />} className="h-10 gap-1.5 rounded-full px-4 font-bold">
+              <Button variant="outline" nativeButton={false} render={<Link href="/dashboard/subjects" />} className="h-10 gap-1.5 rounded-full px-4 font-bold">
                 <BookOpen className="size-4" />
                 Subjects
               </Button>

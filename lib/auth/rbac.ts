@@ -12,13 +12,20 @@ export type InstituteRole = "principal" | "institute_admin" | "accountant" | "te
 export const INSTITUTE_ROLES: InstituteRole[] = ["principal", "institute_admin", "accountant", "teacher", "student", "guardian"];
 
 export const ROLE_LABELS: Record<InstituteRole, string> = {
-  principal: "Principal / Muhtamim",
+  principal: "Principal",
   institute_admin: "Institute Admin",
   accountant: "Accountant",
   teacher: "Teacher / Ustad",
   student: "Student",
   guardian: "Guardian",
 };
+
+/** In a madrasah the head is called Muhtamim; everywhere else, Principal. */
+const MADRASAH_TYPES = new Set(["qawmi", "alia", "hifz"]);
+
+/** The role's name as this institute calls it. */
+export const roleLabel = (role: InstituteRole, instituteType?: string) =>
+  role === "principal" && instituteType && MADRASAH_TYPES.has(instituteType) ? "Muhtamim" : ROLE_LABELS[role];
 
 export const PERMISSIONS = [
   // Platform (super admin only)

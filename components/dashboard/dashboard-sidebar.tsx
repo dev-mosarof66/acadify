@@ -3,7 +3,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Award, BookOpenText, FileText, GraduationCap, House, LayoutDashboard, ListChecks, School, UserRound, UserRoundCog, Users, Wallet } from "lucide-react";
+import { Award, BookOpenText, BookMarked, FileText, GraduationCap, House, LayoutDashboard, ListChecks, School, UserRound, UserRoundCog, Users, Wallet } from "lucide-react";
 
 import logoImg from "@/assets/logo.png";
 import {
@@ -30,6 +30,7 @@ export const DASHBOARD_NAV: { title: string; href: string; icon: React.ElementTy
   { title: "Hifz tracker", href: "/dashboard/hifz", icon: BookOpenText, permission: "hifz:read" },
   { title: "Lecture sheets", href: "/dashboard/sheets", icon: FileText, permission: "sheets:read" },
   { title: "Classes", href: "/dashboard/classes", icon: School, permission: "institute:settings" },
+  { title: "Subjects", href: "/dashboard/subjects", icon: BookMarked, permission: "institute:settings" },
   { title: "Teachers", href: "/dashboard/teachers", icon: GraduationCap, permission: "institute:settings" },
   { title: "Staff", href: "/dashboard/staff", icon: UserRoundCog, permission: "members:manage" },
 ];
