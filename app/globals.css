@@ -1,0 +1,281 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+@custom-variant dark (&:is(.dark *));
+
+@theme inline {
+  --font-sans: var(--font-sans);
+  --font-bengali: var(--font-bengali);
+  --font-mono: var(--font-mono);
+  --font-heading: var(--font-sans);
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-surface: var(--surface);
+  --color-surface-border: var(--surface-border);
+
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+
+  --color-primary: var(--primary);
+  --color-primary-dark: var(--primary-dark);
+  --color-primary-hover: var(--primary-hover);
+  --color-primary-light: var(--primary-light);
+  --color-primary-bright: var(--primary-bright);
+  --color-primary-foreground: var(--primary-foreground);
+
+  --color-accent: var(--accent);
+  --color-accent-light: var(--accent-light);
+  --color-accent-foreground: var(--accent-foreground);
+
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+
+  --color-success: var(--success);
+  --color-success-light: var(--success-light);
+  --color-warning: var(--warning);
+  --color-warning-light: var(--warning-light);
+  --color-danger: var(--danger);
+  --color-danger-light: var(--danger-light);
+
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+
+  --color-destructive: var(--danger);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-grid: var(--chart-grid);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+}
+
+:root {
+  /* Surface & Base */
+  --background: #FFFFFF;
+  --foreground: #0E1A12;
+  --surface: #FFFFFF;
+  --surface-border: #E4EBE4;
+  --card: #FFFFFF;
+  --card-foreground: #0E1A12;
+  --popover: #FFFFFF;
+  --popover-foreground: #0E1A12;
+
+  /* Primary (template green) */
+  --primary: #2E8B2E;
+  --primary-dark: #1F5F1F;
+  --primary-hover: #256F25;
+  --primary-light: #E6F4E0;
+  --primary-bright: #57B53A;
+  --primary-foreground: #FFFFFF;
+
+  /* Secondary */
+  --secondary: #F3F8F1;
+  --secondary-foreground: #1F5F1F;
+
+  /* Accent */
+  --accent: #F5B301;
+  --accent-light: #FFF4D1;
+  --accent-foreground: #1C1206;
+
+  /* Semantic Statuses */
+  --success: #2E8B2E;
+  --success-light: #E6F4E0;
+  --warning: #F5B301;
+  --warning-light: #FFF4D1;
+  --danger: #DC2626;
+  --danger-light: #FEE2E2;
+  --info: #2E8B2E;
+
+  /* Neutral Muted */
+  --muted: #F3F8F1;
+  --muted-foreground: #5D6B62;
+
+  --border: #E4EBE4;
+  --input: #E4EBE4;
+  --ring: #2E8B2E;
+  --radius: 0.625rem;
+
+  /* Chart marks (validated against the light surface) */
+  --chart-1: #2E8B2E;
+  --chart-2: #2a78d6;
+  --chart-3: #eb6834;
+  --chart-grid: #E4EBE4;
+
+  /* Sidebar Tokens */
+  --sidebar: #FFFFFF;
+  --sidebar-foreground: #0E1A12;
+  --sidebar-primary: #2E8B2E;
+  --sidebar-primary-foreground: #FFFFFF;
+  --sidebar-accent: #E6F4E0;
+  --sidebar-accent-foreground: #1F5F1F;
+  --sidebar-border: #E4EBE4;
+  --sidebar-ring: #2E8B2E;
+}
+
+/* Dark Mode */
+
+.dark {
+  --background: #0C130E;
+  --foreground: #EEF5EF;
+  --surface: #121C15;
+  --surface-border: #22332A;
+  --card: #121C15;
+  --card-foreground: #EEF5EF;
+  --popover: #121C15;
+  --popover-foreground: #EEF5EF;
+
+  --primary: #4CAF3F;
+  --primary-dark: #1B4D1F;
+  --primary-hover: #5CC04E;
+  --primary-light: #1A3320;
+  --primary-bright: #7BD35C;
+  --primary-foreground: #FFFFFF;
+
+  --secondary: #16241A;
+  --secondary-foreground: #7BD35C;
+
+  --accent: #F5B301;
+  --accent-light: #3D2E05;
+  --accent-foreground: #1C1206;
+
+  --success: #4CAF3F;
+  --success-light: #1A3320;
+  --warning: #F5B301;
+  --warning-light: #3D2E05;
+  --danger: #EF4444;
+  --danger-light: #7F1D1D;
+  --info: #7BD35C;
+
+  --muted: #16241A;
+  --muted-foreground: #9DB0A2;
+
+  --border: #22332A;
+  --input: #22332A;
+  --ring: #4CAF3F;
+
+  --chart-1: #43A03A;
+  --chart-2: #3987e5;
+  --chart-3: #d95926;
+  --chart-grid: #22332A;
+
+  --sidebar: #121C15;
+  --sidebar-foreground: #EEF5EF;
+  --sidebar-primary: #4CAF3F;
+  --sidebar-primary-foreground: #FFFFFF;
+  --sidebar-accent: #16241A;
+  --sidebar-accent-foreground: #7BD35C;
+  --sidebar-border: #22332A;
+  --sidebar-ring: #4CAF3F;
+}
+
+body {
+  font-family: var(--font-sans), system-ui, sans-serif;
+  min-height: 100vh;
+  background-color: var(--background);
+  color: var(--foreground);
+}
+
+.font-bengali {
+  font-family: var(--font-bengali), "Noto Sans Bengali", sans-serif;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+
+  html {
+    @apply font-sans;
+  }
+
+  /*
+   * Scrollbars in the app's green, slim and rounded, for light and dark themes.
+   * Chromium/Safari use the ::-webkit-scrollbar rules (exact width). Firefox only supports the
+   * standard properties, which Chromium would also obey and then ignore the width, so they're Firefox-only.
+   */
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  ::-webkit-scrollbar-thumb {
+    background-color: color-mix(in oklab, var(--primary) 45%, transparent);
+    border: 2px solid transparent;
+    border-radius: 999px;
+    background-clip: content-box;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: var(--primary);
+  }
+  ::-webkit-scrollbar-corner {
+    background: transparent;
+  }
+  @supports (-moz-appearance: none) {
+    * {
+      scrollbar-width: thin;
+      scrollbar-color: color-mix(in oklab, var(--primary) 45%, transparent) transparent;
+    }
+  }
+
+  /* Printing (receipts, report cards): only the page content, not the app chrome */
+  @media print {
+    [data-slot="sidebar"],
+    [data-slot="sidebar-gap"],
+    [data-slot="sidebar-container"] {
+      display: none !important;
+    }
+    body {
+      background: #fff !important;
+    }
+  }
+
+  /* Tailwind v4 removed the pointer cursor from buttons; restore it for every clickable control */
+  button:not(:disabled),
+  [role="button"]:not([aria-disabled="true"]),
+  [role="tab"],
+  [role="option"],
+  [role="checkbox"],
+  summary,
+  label[for] {
+    cursor: pointer;
+  }
+}
+
+@keyframes float-y {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+@utility animate-float {
+  animation: float-y 6s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-float { animation: none; }
+}
