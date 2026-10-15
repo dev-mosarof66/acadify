@@ -44,7 +44,7 @@ graph TD
     PaymentGateway["Payment Aggregator<br/>(bKash, Nagad, SSLCommerz, Stripe)"]
     Storage["Object Storage<br/>(Cloudflare R2 / AWS S3)"]
     NeonDB[("Database<br/>Neon PostgreSQL Serverless")]
-    AIProviders["AI Model Providers<br/>(Claude Opus 5.5 / Sonnet 5.5 / Haiku 5.5,<br/>Speech-to-Text, OCR)"]
+    AIProviders["AI Model Providers<br/>(Google Gemini: 3.1 Pro / 3.8 Flash / 3.1 Flash-Lite,<br/>Gemini Embedding 2, Speech-to-Text, OCR)"]
 
     SuperAdmin -->|Manages Tenants & Billing| Acadify
     InstAdmin -->|Configures Institute & 1-Click Ops| Acadify
@@ -120,7 +120,7 @@ graph TB
     Grounding --> NeonDB
     ApprovalQueue --> NeonDB
     AIServices --> BackgroundJobs
-    AIGateway --> AIProviders["AI Model Providers<br/>(Claude, Speech-to-Text, OCR)"]
+    AIGateway --> AIProviders["AI Model Providers<br/>(Google Gemini, Speech-to-Text, OCR)"]
 ```
 
 ---
@@ -178,14 +178,18 @@ To guarantee data isolation while maintaining low infrastructure overhead and in
 One new layer that every module calls; it never writes to students or guardians directly.
 
 - **AI Gateway**: single entry point for all AI calls. Enforces per-institute AI credit, masks personal data (names, phones) where the task does not need it, routes each task to a model, and logs model, prompt version, tokens and cost.
-- **Model routing**:
-  | Task type | Model | Examples |
-  | :--- | :--- | :--- |
-  | Hard judgement | Claude Opus 5.5 | CQ answer-script marking (pilot) |
-  | Generation & analysis | Claude Sonnet 5.5 | Question papers, lecture sheets, lesson plans, Ask Acadify data chat, result analysis |
-  | High-volume chat & short text | Claude Haiku 5.5 | Report card remarks, guardian WhatsApp/SMS replies, AI tutor, notice drafts |
-  | Speech & handwriting | Speech-to-text / OCR services | Hifz recitation check, handwritten note digitiser |
-- **Grounding (RAG)**: uploaded lecture sheets, textbooks and past papers are chunked and embedded with `pgvector` in Neon, filtered by `institute_id`. Generation uses the institute's own material, never the open web, so papers and answers match the taught syllabus and curriculum version (2012 curriculum streams for Grades 9–10, board CQ + MCQ pattern).
+- **Provider: Google Gemini** (decided Oct 2026, replacing the first Claude-based plan). One provider for text, vision (PDF and photo sheets), and embeddings, so grounding needs no second vendor.
+- **Model routing** (Gemini API paid tier, USD per 1M tokens input / output; prices from [ai.google.dev/gemini-api/docs/pricing](https://ai.google.dev/gemini-api/docs/pricing), checked 16 Oct 2026):
+  | Task type | Model | Price now → from 1 Jan 2027 | Examples |
+  | :--- | :--- | :--- | :--- |
+  | Hard judgement | `gemini-3.1-pro-preview` | $2.00 / $12.00 (preview; `gemini-2.5-pro` $1.25 / $10.00 as the stable fallback) | CQ answer-script marking (pilot) |
+  | Generation & analysis | `gemini-3.8-flash` | $0.75 / $3.75 → $1.50 / $7.50 | Question papers, lecture sheets, lesson plans, Ask Acadify data chat, result analysis |
+  | High-volume chat & short text | `gemini-3.1-flash-lite` | $0.25 / $1.50 | Report card remarks, guardian WhatsApp/SMS replies, AI tutor, notice drafts |
+  | Embeddings | `gemini-embedding-2` | $0.20 input | Lecture-sheet and question-bank search (pgvector) |
+  | Speech & handwriting | Gemini multimodal input + OCR/speech services | — | Hifz recitation check, handwritten note digitiser |
+
+  Model IDs live in one config file in the gateway, so a price or model change is a one-line edit. Batch API jobs (term remarks, bulk sheets) are billed at 50%.
+- **Grounding (RAG)**: uploaded lecture sheets, textbooks and past papers are chunked and embedded with `gemini-embedding-2` into `pgvector` in Neon, filtered by `institute_id`. Generation uses the institute's own material, never the open web, so papers and answers match the taught syllabus and curriculum version (2012 curriculum streams for Grades 9–10, board CQ + MCQ pattern).
 - **AI Task Services**:
   - **AI Exam Studio**: generates CQ + MCQ papers from chapters, marks, difficulty mix and board pattern; answer key, CQ rubric per part (knowledge, comprehension, application, higher-order), OMR sheet, Ka/Kha/Ga/Gha sets. Approved papers feed back into the institute's question bank.
   - **Marking Assistant**: OMR marking from phone photos (deterministic); CQ handwritten marking as suggestions with a reason per mark (pilot only).
@@ -196,7 +200,7 @@ One new layer that every module calls; it never writes to students or guardians 
   - **AI Tutor**: Bangla/English/Banglish doubt solver grounded on the institute's sheets; hint-first, locked during exams.
 - **Teacher Approval Queue**: every draft, mark, remark or risk flag lands here first. A teacher approves, edits or rejects; nothing is printed, published or sent before approval. Edits are kept to improve prompts.
 - **Guardrails**: MCQ key self-check, repeat-question check against last year's papers, papers locked until the exam slot, recitation audio deleted after scoring, guardian consent captured at enrolment (PDPO 2025), no profiling or ads, no automatic penalties from risk scores.
-- **Cost envelope** (approximate, Oct 2026 list prices): a question paper with 3 sets ≈ BDT 17, a chapter lecture sheet ≈ BDT 10, a report remark ≈ BDT 0.03, a tutor answer ≈ BDT 0.1. A 1,000-student institute using the Phase 1–2 set plus the tutor ≈ BDT 6–10 per student per month. Bulk jobs (term remarks) run through the background worker on batch pricing (50% cheaper).
+- **Cost envelope** (approximate, Gemini prices from 1 Jan 2027, BDT at ~122 per USD, before thinking-token overhead): a question paper (≈30K in / 8K out on 3.8 Flash) ≈ BDT 13, a chapter lecture sheet ≈ BDT 7, a CQ script marked on 3.1 Pro ≈ BDT 8, a report remark on 3.1 Flash-Lite ≈ BDT 0.08, a tutor answer ≈ BDT 0.3. The tutor dominates: 40 answers a month ≈ BDT 12 per student, so cap tutor questions per student or route them to `gemini-2.5-flash-lite` ($0.10 / $0.40) if quality holds. Bulk jobs run through the background worker on batch pricing (50% cheaper).
 
 ---
 
@@ -769,7 +773,7 @@ sequenceDiagram
     participant UI as Acadify Exam Studio
     participant GW as AI Gateway
     participant DB as Neon (Question Bank + pgvector)
-    participant LLM as Claude Sonnet 5.5
+    participant LLM as Gemini 3.8 Flash
     participant Worker as Background Worker
 
     Teacher->>UI: Class 9 Physics, Ch 3–5, 75 CQ + 25 MCQ, 4 sets, Bangla
@@ -985,3 +989,29 @@ Later (2028): spoken English coach, face attendance, counselling assistant, Kita
 - AI tutor in the student portal, grounded on the institute's sheets, hint-first, locked during exams, with a teacher view of most-asked questions.
 - CQ handwritten marking pilot (suggestions only) and homework photo checker.
 - Hifz recitation checker (word-level mistakes) for Ustads.
+
+---
+
+## 6. AI Implementation Progress
+
+**Status (16 Oct 2026): on hold.** The AI provider is switching from Claude to Google Gemini. The first AI Exam Studio was built against Claude and is merged; its code stays in place, unused, until the Gemini switch is done. No AI feature works in production yet: there is no AI key configured.
+
+| Area | Status | Where |
+| :--- | :--- | :--- |
+| AI tables `ai_jobs`, `ai_approvals`, `question_bank_items`, `plans.ai_credit_bdt` | Done, migration 0018 applied | `lib/db/schema.ts`, `drizzle/0018_ai_exam_studio.sql` |
+| AI gateway (client, cost per call in BDT, monthly AI credit check) | Done for Claude; **needs switching to Gemini** | `lib/ai/claude.ts` |
+| AI Exam Studio: new-paper form (class, subject, chapters, CQ/MCQ counts, language, difficulty, sets, up to 5 PDF/photo lecture sheets) | Done | `app/(dashboard)/dashboard/exam-studio`, `components/dashboard/exam-studio.tsx` |
+| Paper generation in the background with automatic checks (counts, 4 parts per CQ, one valid MCQ answer, repeated options/questions) | Done for Claude; **needs switching to Gemini** | `lib/ai/exam-studio.ts`, `lib/ai/paper.ts` |
+| Teacher review: edit any question, approve or reject; only the requester or principal decides | Done | `lib/ai/actions.ts` |
+| Approved questions added to the question bank | Done | `lib/ai/actions.ts` |
+| Printable Ka/Kha/Ga/Gha sets (shuffled MCQs and options) and answer keys | Done | `components/dashboard/question-paper.tsx`, `.../exam-studio/[jobId]/print` |
+| Super admin UI to set each plan's AI credit | Not started | — |
+| Embeddings + pgvector grounding | Not started (Gemini Embedding 2 planned) | — |
+| OMR marking, lecture sheet generator, report remarks, notice writer (rest of Phase 1) | Not started | — |
+| Phases 2–3 | Not started | — |
+
+**To resume (Gemini switch):**
+1. Add `GEMINI_API_KEY` to `.env.local` and install Google's Gen AI SDK (`@google/genai`).
+2. Replace `lib/ai/claude.ts` with a Gemini gateway (`lib/ai/gemini.ts`): model IDs from the routing table above, Gemini prices in the cost function, same `aiConfigured()` / `getAiCredit()` API.
+3. In `lib/ai/exam-studio.ts`, call `gemini-3.8-flash` with a JSON response schema built from `PaperSchema`, and send lecture sheets as inline PDF/image parts; keep `checkPaper()` and the job flow as they are.
+4. Generate a first real paper end to end (Bangla and English) in a pilot institute, then compare quality and cost with the estimates in section 2.4.
