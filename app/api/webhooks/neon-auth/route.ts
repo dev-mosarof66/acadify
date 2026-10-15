@@ -1,7 +1,10 @@
 import crypto from "node:crypto";
 
+import { db, platformSettings } from "@/lib/db";
 import { sendEmail } from "@/lib/email/brevo";
 import { authEmail, type AuthEmailType } from "@/lib/email/templates";
+import { getSmsProvider } from "@/lib/sms/provider";
+import { bdMobileDigits } from "@/lib/settings/types";
 
 /**
  * Neon Auth webhook: delivers verification, password-reset and sign-in emails with Acadify's own templates.
@@ -16,7 +19,7 @@ type Jwk = crypto.JsonWebKey & { kid?: string };
 type NeonEvent = {
   event_id: string;
   event_type: string;
-  user?: { email?: string; name?: string | null };
+  user?: { email?: string; name?: string | null; phone_number?: string | null };
   event_data?: {
     otp_code?: string;
     otp_type?: AuthEmailType;
@@ -76,6 +79,29 @@ function alreadyDelivered(id: string) {
   return delivered.has(id);
 }
 
+/**
+ * Phone sign-in codes. Sent straight through the SMS provider (not billed to an institute's credits: it's the
+ * platform's own message). Without a provider the code can't go out, so answer 503 and sign-in says so.
+ */
+async function deliverSms(event: NeonEvent) {
+  const code = event.event_data?.otp_code;
+  const to = bdMobileDigits(event.user?.phone_number ?? "");
+  if (!code || !to) return Response.json({ error: "no recipient or code" }, { status: 400 });
+  if (alreadyDelivered(event.event_id)) return Response.json({ ok: true, duplicate: true });
+
+  const provider = getSmsProvider();
+  if (!provider) return Response.json({ error: "sms provider not connected" }, { status: 503 });
+
+  const [settings] = await db.select({ senderId: platformSettings.smsSenderId }).from(platformSettings).limit(1);
+  const result = await provider.send(to, `Your Acadify sign-in code is ${code}. It expires in 60 seconds. Don't share it.`, settings?.senderId ?? "");
+  if (!result.ok) {
+    console.error(`[sms] sign-in code not sent: ${result.error}`);
+    return Response.json({ error: "sms not sent" }, { status: 502 });
+  }
+  delivered.set(event.event_id, Date.now());
+  return Response.json({ ok: true });
+}
+
 export async function POST(request: Request) {
   const rawBody = await request.text();
   if (!(await verify(rawBody, request.headers))) {
@@ -87,7 +113,7 @@ export async function POST(request: Request) {
   const email = event.user?.email;
 
   if (event.event_type !== "send.otp" && event.event_type !== "send.magic_link") return Response.json({ ok: true, ignored: true });
-  if (data.delivery_preference === "sms") return Response.json({ ok: true, ignored: "sms" });
+  if (data.delivery_preference === "sms") return deliverSms(event);
   if (!email) return Response.json({ error: "no recipient" }, { status: 400 });
   if (alreadyDelivered(event.event_id)) return Response.json({ ok: true, duplicate: true });
 

@@ -26,3 +26,25 @@ export async function ensureAuthUser(email: string, name: string): Promise<{ id:
   if (existing) return { id: existing, created: false };
   return { id: await createAuthUser(email, name), created: true };
 }
+
+/** True if another account already uses this E.164 number. */
+export async function phoneInUse(e164: string): Promise<boolean> {
+  const rows = await db.execute<{ id: string }>(sql`select id::text as id from neon_auth."user" where "phoneNumber" = ${e164} limit 1`);
+  return rows.rows.length > 0;
+}
+
+/**
+ * Links a verified mobile number so the person can sign in with a code sent by SMS. The office vouches for the
+ * number, so no code is sent to confirm it. Only used on accounts created in the same request: a number is never
+ * attached to an account that already existed (otherwise staff could point someone else's account at their own phone).
+ */
+export async function linkPhone(userId: string, e164: string): Promise<boolean> {
+  try {
+    const res = await db.execute(
+      sql`update neon_auth."user" set "phoneNumber" = ${e164}, "phoneNumberVerified" = true, "updatedAt" = now() where id::text = ${userId} and "phoneNumber" is null`
+    );
+    return (res.rowCount ?? 0) > 0;
+  } catch {
+    return false;
+  }
+}

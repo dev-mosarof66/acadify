@@ -27,6 +27,7 @@ export function PortalAccessPanel({
   studentId,
   studentName,
   guardianName,
+  guardianPhone,
   access,
   canEdit,
   now,
@@ -34,6 +35,7 @@ export function PortalAccessPanel({
   studentId: string;
   studentName: string;
   guardianName: string;
+  guardianPhone: string;
   access: Access[];
   canEdit: boolean;
   now: number;
@@ -107,6 +109,7 @@ export function PortalAccessPanel({
           studentId={studentId}
           studentName={studentName}
           guardianName={guardianName}
+          guardianPhone={guardianPhone}
           onClose={(text) => {
             setAdding(false);
             if (text) setMessage({ ok: true, text });
@@ -117,7 +120,19 @@ export function PortalAccessPanel({
   );
 }
 
-function GrantDialog({ studentId, studentName, guardianName, onClose }: { studentId: string; studentName: string; guardianName: string; onClose: (message?: string) => void }) {
+function GrantDialog({
+  studentId,
+  studentName,
+  guardianName,
+  guardianPhone,
+  onClose,
+}: {
+  studentId: string;
+  studentName: string;
+  guardianName: string;
+  guardianPhone: string;
+  onClose: (message?: string) => void;
+}) {
   const router = useRouter();
   const [role, setRole] = React.useState("guardian");
   const [name, setName] = React.useState(guardianName);
@@ -174,6 +189,24 @@ function GrantDialog({ studentId, studentName, guardianName, onClose }: { studen
           <div className="grid gap-2">
             <FieldLabel htmlFor="pa-email">Email</FieldLabel>
             <Input id="pa-email" name="email" type="email" required autoComplete="off" aria-invalid={error?.field === "email"} className={CONTROL} />
+          </div>
+          <div className="grid gap-2">
+            <FieldLabel htmlFor="pa-phone" optional>
+              Mobile
+            </FieldLabel>
+            <Input
+              id="pa-phone"
+              name="phone"
+              type="tel"
+              inputMode="tel"
+              autoComplete="off"
+              key={role}
+              defaultValue={role === "guardian" ? guardianPhone : ""}
+              placeholder="01XXXXXXXXX"
+              aria-invalid={error?.field === "phone"}
+              className={CONTROL}
+            />
+            <p className="text-[12.5px] text-muted-foreground">With a mobile number they can sign in with a code sent by SMS.</p>
           </div>
           <FormError>{error?.text}</FormError>
           <DialogFooter>

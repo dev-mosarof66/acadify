@@ -128,7 +128,7 @@ async function StudentProfile({ params }: { params: Promise<{ id: string }> }) {
               </Row>
             </dl>
           </Panel>
-          <PortalAccessPanel studentId={student.id} studentName={student.name} guardianName={student.guardianName} access={access} canEdit={canEdit} now={now} />
+          <PortalAccessPanel studentId={student.id} studentName={student.name} guardianName={student.guardianName} guardianPhone={student.guardianPhone} access={access} canEdit={canEdit} now={now} />
         </div>
       </section>
     </>

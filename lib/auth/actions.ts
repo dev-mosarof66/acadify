@@ -88,6 +88,22 @@ export async function signInAction(form: FormData): Promise<AuthResult> {
   redirect("/dashboard");
 }
 
+/**
+ * Second half of signing in with a mobile number. The browser sends the SMS code to Neon Auth (which sets the
+ * session), then calls this so a phone sign-in goes through the same checks and routing as email and password.
+ */
+export async function completePhoneSignInAction(): Promise<AuthResult> {
+  const viewer = await getViewer();
+  if (!viewer) return { ok: false, code: "invalid" };
+  if (!viewer.isSuperAdmin && !viewer.memberships.length) {
+    await auth.signOut();
+    return { ok: false, code: "no-institute" };
+  }
+  await clearAdminVerified();
+  await touchInstituteActivity(viewer.id, viewer.memberships.map((m) => m.instituteId));
+  redirect(viewer.needsAdminCode ? "/login/verify" : "/dashboard");
+}
+
 export async function signOutAction() {
   await auth.signOut();
   await clearAdminVerified();

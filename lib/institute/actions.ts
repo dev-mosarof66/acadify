@@ -4,7 +4,8 @@ import { randomBytes } from "node:crypto";
 import { and, asc, count, eq, like, max, ne, sql } from "drizzle-orm";
 import { revalidatePath } from "next/cache";
 
-import { ensureAuthUser } from "@/lib/auth/accounts";
+import { ensureAuthUser, linkPhone, phoneInUse } from "@/lib/auth/accounts";
+import { toE164 } from "@/lib/auth/phone";
 import { roleLabel, STAFF_ROLES_GRANTABLE, type InstituteRole } from "@/lib/auth/rbac";
 import { STUDY_GROUPS, type StudyGroup } from "@/lib/ui/labels";
 import { assertInstituteMember } from "@/lib/auth/session";
@@ -316,12 +317,19 @@ export async function addStaff(form: FormData): Promise<ActionResult> {
   if (!EMAIL.test(email)) return { ok: false, error: "Enter a valid email; they sign in with it.", field: "email" };
   if (!allowed.includes(role)) return { ok: false, error: "Choose a role you're allowed to give.", field: "role" };
 
+  // Optional mobile: lets them sign in with an SMS code too
+  const phoneRaw = field(form, "phone", 30);
+  const phone = phoneRaw ? toE164(phoneRaw) : null;
+  if (phoneRaw && !phone) return { ok: false, error: "Enter a valid mobile number (01XXXXXXXXX), or leave it empty.", field: "phone" };
+  if (phone && (await phoneInUse(phone))) return { ok: false, error: "This mobile number already belongs to another account.", field: "phone" };
+
   let account: { id: string; created: boolean };
   try {
     account = await ensureAuthUser(email, name);
   } catch {
     return { ok: false, error: "The sign-in account couldn't be created. Try again in a minute." };
   }
+  if (phone && account.created) await linkPhone(account.id, phone);
 
   const instituteId = me.active.instituteId;
   const [existing] = await db
