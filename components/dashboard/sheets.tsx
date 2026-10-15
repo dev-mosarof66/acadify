@@ -11,6 +11,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import { Panel } from "@/components/super-admin/ui";
 import { CONTROL, FieldLabel, FormError } from "@/components/dashboard/form-bits";
 import type { SubjectView } from "@/lib/exams/queries";
+import { GROUP_LABELS } from "@/lib/ui/labels";
 import type { ClassView } from "@/lib/institute/queries";
 import { deleteSheet, uploadSheet } from "@/lib/sheets/actions";
 import type { SheetRow } from "@/lib/sheets/queries";
@@ -25,7 +26,7 @@ function UploadDialog({ classes, subjects, onClose }: { classes: ClassView[]; su
   const [error, setError] = React.useState<{ message: string; field?: string }>();
   const [pending, startTransition] = React.useTransition();
   const classItems = classes.map((c) => ({ value: c.id, label: c.name }));
-  const subjectItems = [{ value: "", label: "Any subject" }, ...subjects.filter((s) => s.classId === classId).map((s) => ({ value: s.id, label: s.name }))];
+  const subjectItems = [{ value: "", label: "Any subject" }, ...subjects.filter((s) => s.classId === classId).map((s) => ({ value: s.id, label: s.group ? `${s.name} (${GROUP_LABELS[s.group]})` : s.name }))];
 
   const onSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();

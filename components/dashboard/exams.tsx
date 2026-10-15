@@ -16,6 +16,7 @@ import { deleteExam, deleteSubject, saveExam, saveMarks, saveSubject, setExamPub
 import { SCALE_LABELS, type GradingScale } from "@/lib/exams/grading";
 import type { ExamView, SubjectView } from "@/lib/exams/queries";
 import type { ClassView } from "@/lib/institute/queries";
+import { GROUP_LABELS, STUDY_GROUPS, subjectApplies, type StudyGroup } from "@/lib/ui/labels";
 import { cn } from "@/lib/utils";
 
 /* ---------------------------------------------------------------- exams */
@@ -182,15 +183,19 @@ export function ExamsList({ exams }: { exams: ExamView[] }) {
 
 /* ---------------------------------------------------------------- subjects */
 
+const SUBJECT_AUDIENCE = [{ value: "all", label: "Everyone in the class (common)" }, ...STUDY_GROUPS.map((g) => ({ value: g, label: `${GROUP_LABELS[g]} group only` }))];
+
 function SubjectDialog({ cls, subject, onClose }: { cls: ClassView; subject?: SubjectView; onClose: () => void }) {
   const router = useRouter();
   const [error, setError] = React.useState<{ message: string; field?: string }>();
   const [pending, startTransition] = React.useTransition();
+  const [group, setGroup] = React.useState<string>(subject?.group ?? "all");
 
   const onSubmit = (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     const form = new FormData(e.currentTarget);
     form.set("classId", cls.id);
+    form.set("group", group === "all" ? "" : group);
     if (subject) form.set("id", subject.id);
     startTransition(async () => {
       const r = await saveSubject(form);
@@ -228,6 +233,22 @@ function SubjectDialog({ cls, subject, onClose }: { cls: ClassView; subject?: Su
               <FieldLabel htmlFor="subject-pass">Pass marks</FieldLabel>
               <Input id="subject-pass" name="passMarks" inputMode="numeric" defaultValue={subject?.passMarks ?? 33} className={CONTROL} aria-invalid={error?.field === "passMarks" || undefined} />
             </div>
+            <div className="grid gap-2 sm:col-span-2">
+              <FieldLabel htmlFor="subject-group">Taught to</FieldLabel>
+              <Select value={group} onValueChange={(v) => setGroup((v as string) ?? "all")} items={SUBJECT_AUDIENCE}>
+                <SelectTrigger id="subject-group" className={`${CONTROL} w-full`}>
+                  <SelectValue />
+                </SelectTrigger>
+                <SelectContent>
+                  {SUBJECT_AUDIENCE.map((o) => (
+                    <SelectItem key={o.value} value={o.value}>
+                      {o.label}
+                    </SelectItem>
+                  ))}
+                </SelectContent>
+              </Select>
+              <p className="text-[12.5px] text-muted-foreground">Common subjects go to every student in the class. Group subjects only to students of that group.</p>
+            </div>
           </div>
           <DialogFooter>
             <DialogClose render={<Button type="button" variant="outline" className="rounded-full px-5" />}>Cancel</DialogClose>
@@ -240,6 +261,21 @@ function SubjectDialog({ cls, subject, onClose }: { cls: ClassView; subject?: Su
       </DialogContent>
     </Dialog>
   );
+}
+
+/** "7 common · Science 3 · Commerce 3" plus what each group's student sits in total. */
+function subjectSummary(list: SubjectView[]) {
+  const common = list.filter((s) => s.group === null);
+  const groups = STUDY_GROUPS.filter((g) => list.some((s) => s.group === g));
+  if (!groups.length) return `${list.length} subjects · ${list.reduce((n, s) => n + s.fullMarks, 0)} marks in total`;
+  const commonMarks = common.reduce((n, s) => n + s.fullMarks, 0);
+  return [
+    `${common.length} common (${commonMarks} marks)`,
+    ...groups.map((g) => {
+      const own = list.filter((s) => s.group === g);
+      return `${GROUP_LABELS[g]} +${own.length} (${commonMarks + own.reduce((n, s) => n + s.fullMarks, 0)} marks in total)`;
+    }),
+  ].join(" · ");
 }
 
 export function SubjectsBoard({ classes, subjects }: { classes: ClassView[]; subjects: SubjectView[] }) {
@@ -267,7 +303,7 @@ export function SubjectsBoard({ classes, subjects }: { classes: ClassView[]; sub
               <div className="flex items-center justify-between gap-3 border-b border-border px-5 py-4">
                 <div>
                   <p className="font-extrabold">{c.name}</p>
-                  <p className="text-[13px] text-muted-foreground">{list.length ? `${list.length} subjects · ${list.reduce((n, s) => n + s.fullMarks, 0)} marks in total` : "No subjects yet"}</p>
+                  <p className="text-[13px] text-muted-foreground">{list.length ? subjectSummary(list) : "No subjects yet"}</p>
                 </div>
                 <Button variant="outline" size="sm" onClick={() => setDialog({ cls: c })} className="gap-1.5 rounded-full px-3 font-bold">
                   <Plus className="size-3.5" />
@@ -279,6 +315,7 @@ export function SubjectsBoard({ classes, subjects }: { classes: ClassView[]; sub
                   {list.map((s) => (
                     <li key={s.id} className="inline-flex items-center gap-1 rounded-full border bg-card py-1 pr-1 pl-3 text-[13px]">
                       <span className="font-semibold">{s.name}</span>
+                      {s.group && <span className="rounded-full bg-primary-light px-2 text-[11.5px] font-bold text-primary">{GROUP_LABELS[s.group]}</span>}
                       <span className="text-muted-foreground">
                         {s.passMarks}/{s.fullMarks}
                       </span>
@@ -388,8 +425,8 @@ export function MarksSheet({
 }: {
   examId: string;
   sectionId: string;
-  subjects: { id: string; name: string; fullMarks: number; passMarks: number }[];
-  students: { id: string; name: string; roll: number }[];
+  subjects: { id: string; name: string; fullMarks: number; passMarks: number; group: StudyGroup | null }[];
+  students: { id: string; name: string; roll: number; group: StudyGroup | null }[];
   marks: Record<string, { marks: number | null; absent: boolean }>;
   locked: boolean;
 }) {
@@ -397,6 +434,7 @@ export function MarksSheet({
   const [cells, setCells] = React.useState<Record<string, Cell>>(() => {
     const init: Record<string, Cell> = {};
     for (const st of students) for (const sub of subjects) {
+      if (!subjectApplies(sub.group, st.group)) continue;
       const m = marks[`${st.id}:${sub.id}`];
       init[`${st.id}:${sub.id}`] = { marks: m?.marks === null || m?.marks === undefined ? "" : String(m.marks), absent: m?.absent ?? false };
     }
@@ -439,6 +477,7 @@ export function MarksSheet({
                 {subjects.map((s) => (
                   <th key={s.id} className="px-2 py-3 text-center font-bold text-muted-foreground">
                     {s.name}
+                    {s.group && <span className="block text-[11px] font-bold text-primary">{GROUP_LABELS[s.group]}</span>}
                     <span className="block text-[11px] font-semibold">
                       pass {s.passMarks} / {s.fullMarks}
                     </span>
@@ -452,8 +491,16 @@ export function MarksSheet({
                   <td className="sticky left-0 z-10 bg-card px-4 py-2">
                     <span className="mr-2 font-extrabold tabular-nums">{st.roll}</span>
                     <span className="font-semibold">{st.name}</span>
+                    {st.group && <span className="ml-2 text-[11.5px] font-bold text-primary">{GROUP_LABELS[st.group]}</span>}
                   </td>
                   {subjects.map((sub) => {
+                    if (!subjectApplies(sub.group, st.group)) {
+                      return (
+                        <td key={sub.id} className="bg-secondary/50 px-2 py-2 text-center text-muted-foreground" aria-label={`${sub.name} is not taken by ${st.name}`}>
+                          —
+                        </td>
+                      );
+                    }
                     const key = `${st.id}:${sub.id}`;
                     const c = cells[key];
                     const n = Number(c.marks);

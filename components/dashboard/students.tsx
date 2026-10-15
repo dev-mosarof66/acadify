@@ -17,6 +17,7 @@ import { Panel } from "@/components/super-admin/ui";
 import { CONTROL, FieldLabel, FormError, SHIFT_LABELS } from "@/components/dashboard/form-bits";
 import { saveStudent, setStudentStatus, uploadStudentPhoto } from "@/lib/institute/actions";
 import type { ClassView, Gender, StudentRow, StudentStatus } from "@/lib/institute/queries";
+import { GROUP_LABELS, STUDY_GROUPS } from "@/lib/ui/labels";
 import { cn } from "@/lib/utils";
 
 const initials = (name: string) =>
@@ -27,6 +28,8 @@ const initials = (name: string) =>
     .map((w) => w[0])
     .join("")
     .toUpperCase() || name.slice(0, 1).toUpperCase();
+
+const GROUP_ITEMS = [{ value: "none", label: "No group" }, ...STUDY_GROUPS.map((g) => ({ value: g, label: GROUP_LABELS[g] }))];
 
 const prettyPhone = (p: string) => p.replace(/^(01\d{3})(\d{6})$/, "$1-$2");
 
@@ -65,6 +68,7 @@ export function StudentFormDialog({ classes, student, onClose }: { classes: Clas
   const cls = classes.find((c) => c.id === classId);
   const [sectionId, setSectionId] = React.useState(student?.sectionId ?? (cls?.sections.length === 1 ? cls.sections[0].id : ""));
   const [gender, setGender] = React.useState<Gender | "">(student?.gender ?? "");
+  const [group, setGroup] = React.useState<string>(student?.group ?? "none");
   const [error, setError] = React.useState<{ message: string; field?: string }>();
   const [pending, startTransition] = React.useTransition();
 
@@ -76,6 +80,7 @@ export function StudentFormDialog({ classes, student, onClose }: { classes: Clas
     const form = new FormData(e.currentTarget);
     form.set("sectionId", sectionId);
     form.set("gender", gender);
+    form.set("group", group === "none" ? "" : group);
     if (student) form.set("id", student.id);
     setError(undefined);
     startTransition(async () => {
@@ -188,6 +193,24 @@ export function StudentFormDialog({ classes, student, onClose }: { classes: Clas
                   Roll
                 </FieldLabel>
                 <Input id="student-roll" name="roll" inputMode="numeric" defaultValue={student?.roll ?? ""} placeholder="Next free" className={CONTROL} {...invalid("roll")} />
+              </div>
+              <div className="grid gap-2">
+                <FieldLabel htmlFor="student-group" optional>
+                  Study group
+                </FieldLabel>
+                <Select value={group} onValueChange={(v) => setGroup((v as string) ?? "none")} items={GROUP_ITEMS}>
+                  <SelectTrigger id="student-group" className={`${CONTROL} w-full`}>
+                    <SelectValue />
+                  </SelectTrigger>
+                  <SelectContent>
+                    {GROUP_ITEMS.map((o) => (
+                      <SelectItem key={o.value} value={o.value}>
+                        {o.label}
+                      </SelectItem>
+                    ))}
+                  </SelectContent>
+                </Select>
+                <p className="text-[12.5px] text-muted-foreground">For Class 9 and 10. Decides which subjects they sit.</p>
               </div>
             </div>
           </fieldset>

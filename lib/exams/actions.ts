@@ -1,11 +1,12 @@
 "use server";
 
-import { and, count, eq, inArray, max, sql } from "drizzle-orm";
+import { and, count, eq, inArray, max, ne, sql } from "drizzle-orm";
 import { revalidatePath } from "next/cache";
 
 import { assertInstituteMember } from "@/lib/auth/session";
 import { classes, db, examMarks, exams, students, subjects } from "@/lib/db";
 import { canMarkSection } from "@/lib/institute/attendance-queries";
+import { GROUP_LABELS, STUDY_GROUPS, subjectApplies, type StudyGroup } from "@/lib/ui/labels";
 import type { GradingScale } from "./grading";
 
 export type ExamResult = { ok: true; id?: string; message?: string } | { ok: false; error: string; field?: string };
@@ -35,15 +36,29 @@ export async function saveSubject(form: FormData): Promise<ExamResult> {
   const nameBn = field(form, "nameBn", 60);
   const fullMarks = num(form, "fullMarks");
   const passMarks = num(form, "passMarks");
+  const groupRaw = field(form, "group");
+  const group = (STUDY_GROUPS as readonly string[]).includes(groupRaw) ? (groupRaw as StudyGroup) : null;
 
   if (!name) return { ok: false, error: "Enter the subject name.", field: "name" };
   if (!Number.isInteger(fullMarks) || fullMarks < 1 || fullMarks > 1000) return { ok: false, error: "Full marks must be a whole number, e.g. 100.", field: "fullMarks" };
   if (!Number.isInteger(passMarks) || passMarks < 0 || passMarks > fullMarks) return { ok: false, error: "Pass marks must be between 0 and the full marks.", field: "passMarks" };
 
+  // A group subject can't share a name with a common one: those students would see it twice
+  const [own] = id ? await db.select({ classId: subjects.classId }).from(subjects).where(and(eq(subjects.id, id), eq(subjects.instituteId, instituteId))).limit(1) : [];
+  const targetClass = own?.classId ?? classId;
+  const sameName = await db
+    .select({ group: subjects.studyGroup })
+    .from(subjects)
+    .where(and(eq(subjects.instituteId, instituteId), eq(subjects.classId, targetClass), eq(subjects.name, name), id ? ne(subjects.id, id) : undefined));
+  if (sameName.some((s) => s.group === null) || (group === null && sameName.length > 0)) {
+    return { ok: false, error: `${name} already exists in this class for ${group === null ? "a group" : "everyone"}. Use a different name.`, field: "name" };
+  }
+  if (sameName.some((s) => s.group === group)) return { ok: false, error: `This class already has ${name}${group ? ` for ${GROUP_LABELS[group]}` : ""}.`, field: "name" };
+
   if (id) {
     const [row] = await db
       .update(subjects)
-      .set({ name, nameBn, fullMarks, passMarks })
+      .set({ name, nameBn, fullMarks, passMarks, studyGroup: group })
       .where(and(eq(subjects.id, id), eq(subjects.instituteId, instituteId)))
       .returning({ id: subjects.id });
     if (!row) return { ok: false, error: "This subject no longer exists." };
@@ -53,7 +68,7 @@ export async function saveSubject(form: FormData): Promise<ExamResult> {
     const [{ last }] = await db.select({ last: max(subjects.sortOrder) }).from(subjects).where(eq(subjects.classId, classId));
     const [row] = await db
       .insert(subjects)
-      .values({ instituteId, classId, name, nameBn, fullMarks, passMarks, sortOrder: (last ?? -1) + 1 })
+      .values({ instituteId, classId, name, nameBn, fullMarks, passMarks, studyGroup: group, sortOrder: (last ?? -1) + 1 })
       .onConflictDoNothing()
       .returning({ id: subjects.id });
     if (!row) return { ok: false, error: `This class already has ${name}.`, field: "name" };
@@ -136,11 +151,11 @@ export async function saveMarks(examId: string, sectionId: string, entries: Entr
   if (!exam) return { ok: false, error: "This exam no longer exists." };
   if (exam.publishedAt) return { ok: false, error: "Results are published. Ask your principal to unpublish before changing marks." };
 
-  const roster = new Set(
-    (await db.select({ id: students.id }).from(students).where(and(eq(students.sectionId, sectionId), eq(students.status, "active")))).map((s) => s.id)
+  const roster = new Map(
+    (await db.select({ id: students.id, group: students.studyGroup }).from(students).where(and(eq(students.sectionId, sectionId), eq(students.status, "active")))).map((s) => [s.id, s.group] as const)
   );
   const subs = await db
-    .select({ id: subjects.id, fullMarks: subjects.fullMarks, name: subjects.name })
+    .select({ id: subjects.id, fullMarks: subjects.fullMarks, name: subjects.name, group: subjects.studyGroup })
     .from(subjects)
     .where(
       inArray(
@@ -154,7 +169,8 @@ export async function saveMarks(examId: string, sectionId: string, entries: Entr
   const clear: Entry[] = [];
   for (const e of entries) {
     const sub = full.get(e.subjectId);
-    if (!roster.has(e.studentId) || !sub) continue;
+    // Skip students outside this section and subjects the student's group doesn't take
+    if (!roster.has(e.studentId) || !sub || !subjectApplies(sub.group, roster.get(e.studentId) ?? null)) continue;
     if (e.absent) keep.push({ ...e, marks: null });
     else if (e.marks === null) clear.push(e);
     else {

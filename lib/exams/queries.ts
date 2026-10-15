@@ -3,6 +3,7 @@ import "server-only";
 import { and, asc, desc, eq, inArray, sql } from "drizzle-orm";
 
 import { classes, db, examMarks, exams, institutes, sections, students, subjects } from "@/lib/db";
+import { subjectApplies, type StudyGroup } from "@/lib/ui/labels";
 import { gradeSubject, meritPositions, overallResult, type GradingScale, type OverallResult, type SubjectGrade } from "./grading";
 
 export interface SubjectView {
@@ -12,11 +13,13 @@ export interface SubjectView {
   nameBn: string;
   fullMarks: number;
   passMarks: number;
+  /** Only students of this group take it; null = the whole class. */
+  group: StudyGroup | null;
 }
 
 export async function getSubjects(instituteId: string): Promise<SubjectView[]> {
   const rows = await db
-    .select({ id: subjects.id, classId: subjects.classId, name: subjects.name, nameBn: subjects.nameBn, fullMarks: subjects.fullMarks, passMarks: subjects.passMarks })
+    .select({ id: subjects.id, classId: subjects.classId, name: subjects.name, nameBn: subjects.nameBn, fullMarks: subjects.fullMarks, passMarks: subjects.passMarks, group: subjects.studyGroup })
     .from(subjects)
     .innerJoin(classes, eq(subjects.classId, classes.id))
     .where(eq(subjects.instituteId, instituteId))
@@ -54,9 +57,9 @@ export async function getExam(instituteId: string, examId: string): Promise<Exam
   return (await getExams(instituteId)).find((e) => e.id === examId) ?? null;
 }
 
-/** Marks entered vs needed for each section (students × the class's subjects). */
+/** Marks entered vs needed for each section (each student × the subjects that apply to their group). */
 export async function getExamProgress(instituteId: string, examId: string) {
-  const [secs, subjectCounts, studentCounts, entered] = await Promise.all([
+  const [secs, subjectCounts, studentCounts, entered, neededRows] = await Promise.all([
     db
       .select({ sectionId: sections.id, classId: sections.classId, sectionName: sections.name, shift: sections.shift, className: classes.name })
       .from(sections)
@@ -73,9 +76,29 @@ export async function getExamProgress(instituteId: string, examId: string) {
       .select({ sectionId: students.sectionId, n: sql<number>`count(*)::int` })
       .from(examMarks)
       .innerJoin(students, eq(examMarks.studentId, students.id))
-      .where(and(eq(examMarks.examId, examId), eq(students.status, "active")))
+      .innerJoin(subjects, eq(examMarks.subjectId, subjects.id))
+      .where(
+        and(
+          eq(examMarks.examId, examId),
+          eq(students.status, "active"),
+          sql`(${subjects.studyGroup} is null or ${subjects.studyGroup} = ${students.studyGroup})`
+        )
+      )
+      .groupBy(students.sectionId),
+    db
+      .select({ sectionId: students.sectionId, n: sql<number>`count(*)::int` })
+      .from(students)
+      .innerJoin(subjects, eq(subjects.classId, students.classId))
+      .where(
+        and(
+          eq(students.instituteId, instituteId),
+          eq(students.status, "active"),
+          sql`(${subjects.studyGroup} is null or ${subjects.studyGroup} = ${students.studyGroup})`
+        )
+      )
       .groupBy(students.sectionId),
   ]);
+  const neededIn = new Map(neededRows.map((r) => [r.sectionId, r.n]));
   const subjectsIn = new Map(subjectCounts.map((s) => [s.classId, s.n]));
   const studentsIn = new Map(studentCounts.map((s) => [s.sectionId, s.n]));
   const enteredIn = new Map(entered.map((e) => [e.sectionId, e.n]));
@@ -84,7 +107,7 @@ export async function getExamProgress(instituteId: string, examId: string) {
     subjects: subjectsIn.get(s.classId) ?? 0,
     students: studentsIn.get(s.sectionId) ?? 0,
     entered: enteredIn.get(s.sectionId) ?? 0,
-    needed: (subjectsIn.get(s.classId) ?? 0) * (studentsIn.get(s.sectionId) ?? 0),
+    needed: neededIn.get(s.sectionId) ?? 0,
   }));
 }
 
@@ -101,7 +124,7 @@ export async function getMarksSheet(instituteId: string, examId: string, section
   const [subs, roster] = await Promise.all([
     db.select().from(subjects).where(eq(subjects.classId, sec.classId)).orderBy(asc(subjects.sortOrder), asc(subjects.name)),
     db
-      .select({ id: students.id, name: students.name, roll: students.roll, studentCode: students.studentCode })
+      .select({ id: students.id, name: students.name, roll: students.roll, studentCode: students.studentCode, group: students.studyGroup })
       .from(students)
       .where(and(eq(students.sectionId, sectionId), eq(students.status, "active")))
       .orderBy(asc(students.roll)),
@@ -123,7 +146,7 @@ export async function getMarksSheet(instituteId: string, examId: string, section
 
   return {
     section: sec,
-    subjects: subs.map((s) => ({ id: s.id, name: s.name, fullMarks: s.fullMarks, passMarks: s.passMarks })),
+    subjects: subs.map((s) => ({ id: s.id, name: s.name, fullMarks: s.fullMarks, passMarks: s.passMarks, group: s.studyGroup })),
     students: roster,
     marks: Object.fromEntries(marks.map((m) => [`${m.studentId}:${m.subjectId}`, { marks: m.marks, absent: m.absent }])) as Record<string, { marks: number | null; absent: boolean }>,
   };
@@ -134,6 +157,8 @@ export interface ResultRow {
   name: string;
   roll: number;
   studentCode: string;
+  group: StudyGroup | null;
+  /** Only the subjects that apply to this student's group. */
   subjects: (SubjectGrade & { subjectId: string; marks: number | null; absent: boolean })[];
   result: OverallResult;
   position: number | null;
@@ -144,21 +169,28 @@ export async function getSectionResults(instituteId: string, examId: string, sec
   const sheet = await getMarksSheet(instituteId, examId, sectionId);
   if (!sheet) return null;
   const rows = sheet.students.map((st) => {
-    const scores = sheet.subjects.map((sub) => {
-      const m = sheet.marks[`${st.id}:${sub.id}`];
-      return { subjectId: sub.id, marks: m?.marks ?? null, absent: m?.absent ?? false, fullMarks: sub.fullMarks, passMarks: sub.passMarks };
-    });
+    const scores = sheet.subjects
+      .filter((sub) => subjectApplies(sub.group, st.group))
+      .map((sub) => {
+        const m = sheet.marks[`${st.id}:${sub.id}`];
+        return { subjectId: sub.id, marks: m?.marks ?? null, absent: m?.absent ?? false, fullMarks: sub.fullMarks, passMarks: sub.passMarks };
+      });
     return {
       id: st.id,
       studentId: st.id,
       name: st.name,
       roll: st.roll,
       studentCode: st.studentCode,
+      group: st.group,
       subjects: scores.map((s) => ({ ...gradeSubject(scale, s), subjectId: s.subjectId, marks: s.marks, absent: s.absent })),
       result: overallResult(scale, scores),
     };
   });
-  const positions = meritPositions(rows.filter((r) => r.result.complete));
+  // Merit lists are kept per study group: groups sit different subjects and totals
+  const positions = new Map<string, number>();
+  for (const g of new Set(rows.map((r) => r.group))) {
+    for (const [id, p] of meritPositions(rows.filter((r) => r.group === g && r.result.complete))) positions.set(id, p);
+  }
   return {
     section: sheet.section,
     subjects: sheet.subjects,

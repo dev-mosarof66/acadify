@@ -8,6 +8,7 @@ import { PrintPageButton } from "@/components/dashboard/exams";
 import { PageHeader, Panel } from "@/components/super-admin/ui";
 import { requireInstituteMember } from "@/lib/auth/session";
 import { getExam, getSectionResults } from "@/lib/exams/queries";
+import { GROUP_LABELS } from "@/lib/ui/labels";
 import { cn } from "@/lib/utils";
 
 export const metadata = { title: "Results" };
@@ -21,6 +22,7 @@ async function Results({ params }: { params: Promise<{ examId: string; sectionId
   if (!results) notFound();
   const passed = results.rows.filter((r) => r.result.passed).length;
   const complete = results.rows.filter((r) => r.result.complete).length;
+  const hasGroups = results.rows.some((r) => r.group !== null);
 
   return (
     <>
@@ -47,7 +49,7 @@ async function Results({ params }: { params: Promise<{ examId: string; sectionId
                 ))}
                 <th className="px-3 py-3 text-right font-bold">Total</th>
                 <th className="px-3 py-3 text-center font-bold">{exam.gradingScale === "gpa5" ? "GPA" : "Result"}</th>
-                <th className="px-3 py-3 text-center font-bold">Position</th>
+                <th className="px-3 py-3 text-center font-bold">Position{hasGroups && <span className="block text-[11px] font-semibold">in group</span>}</th>
                 <th className="px-3 py-3 print:hidden">
                   <span className="sr-only">Report card</span>
                 </th>
@@ -57,13 +59,20 @@ async function Results({ params }: { params: Promise<{ examId: string; sectionId
               {results.rows.map((r) => (
                 <tr key={r.studentId} className="border-b border-border last:border-0">
                   <td className="px-3 py-2 font-extrabold tabular-nums">{r.roll}</td>
-                  <td className="px-3 py-2 font-semibold">{r.name}</td>
-                  {r.subjects.map((s) => (
-                    <td key={s.subjectId} className={cn("px-2 py-2 text-center tabular-nums", !s.passed && (s.marks !== null || s.absent) && "font-bold text-destructive")}>
-                      {s.absent ? "Abs" : s.marks ?? "—"}
-                      {s.marks !== null && <span className="block text-[11px] text-muted-foreground">{s.grade}</span>}
-                    </td>
-                  ))}
+                  <td className="px-3 py-2 font-semibold">
+                    {r.name}
+                    {r.group && <span className="ml-2 text-[11.5px] font-bold text-primary">{GROUP_LABELS[r.group]}</span>}
+                  </td>
+                  {results.subjects.map((sub) => {
+                    const s = r.subjects.find((x) => x.subjectId === sub.id);
+                    if (!s) return <td key={sub.id} className="bg-secondary/50 px-2 py-2 text-center text-muted-foreground">·</td>;
+                    return (
+                      <td key={sub.id} className={cn("px-2 py-2 text-center tabular-nums", !s.passed && (s.marks !== null || s.absent) && "font-bold text-destructive")}>
+                        {s.absent ? "Abs" : s.marks ?? "—"}
+                        {s.marks !== null && <span className="block text-[11px] text-muted-foreground">{s.grade}</span>}
+                      </td>
+                    );
+                  })}
                   <td className="px-3 py-2 text-right font-bold tabular-nums">
                     {r.result.total}/{r.result.fullTotal}
                   </td>

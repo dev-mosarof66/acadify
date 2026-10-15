@@ -1,7 +1,7 @@
 import { Suspense } from "react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { ArrowLeft, CalendarDays, Hash, Home, Phone, School, UserRound } from "lucide-react";
+import { ArrowLeft, BookOpen, CalendarDays, Hash, Home, Phone, School, UserRound } from "lucide-react";
 
 import { Skeleton } from "@/components/ui/skeleton";
 import { PhotoUpload, StudentProfileActions, StudentStatusBadge } from "@/components/dashboard/students";
@@ -14,7 +14,7 @@ import { dhakaDate, getStudentAttendance } from "@/lib/institute/attendance-quer
 import { getRequestTime } from "@/lib/super-admin/queries";
 import { getStudentAccess } from "@/lib/portal/queries";
 import { formatDate } from "@/lib/super-admin/data";
-import { SHIFT_LABELS } from "@/lib/ui/labels";
+import { GROUP_LABELS, SHIFT_LABELS } from "@/lib/ui/labels";
 
 export const metadata = { title: "Student" };
 
@@ -75,6 +75,11 @@ async function StudentProfile({ params }: { params: Promise<{ id: string }> }) {
               <Row icon={School} label="Class">
                 {student.className}, section {student.sectionName} ({SHIFT_LABELS[student.shift]} shift), roll {student.roll}
               </Row>
+              {student.group && (
+                <Row icon={BookOpen} label="Study group">
+                  {GROUP_LABELS[student.group]}
+                </Row>
+              )}
               <Row icon={UserRound} label="Boy or girl">
                 {student.gender === "female" ? "Girl" : "Boy"}
               </Row>

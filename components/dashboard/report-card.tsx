@@ -1,5 +1,6 @@
 import { roleLabel } from "@/lib/auth/rbac";
 import type { getReportCard } from "@/lib/exams/queries";
+import { GROUP_LABELS } from "@/lib/ui/labels";
 import { cn } from "@/lib/utils";
 
 type Card = NonNullable<Awaited<ReturnType<typeof getReportCard>>>;
@@ -30,6 +31,7 @@ export function ReportCard({ card }: { card: Card }) {
           <dt className="text-[12px] text-muted-foreground">Class</dt>
           <dd className="font-semibold">
             {card.section.className} · {card.section.name} · Roll {row.roll}
+            {row.group && ` · ${GROUP_LABELS[row.group]}`}
           </dd>
         </div>
         <div>
@@ -49,7 +51,8 @@ export function ReportCard({ card }: { card: Card }) {
         </thead>
         <tbody>
           {card.subjects.map((sub) => {
-            const s = row.subjects.find((x) => x.subjectId === sub.id)!;
+            const s = row.subjects.find((x) => x.subjectId === sub.id);
+            if (!s) return null; // not taken by this student's group
             return (
               <tr key={sub.id} className="border-b border-dashed">
                 <td className="py-2 font-semibold">{sub.name}</td>

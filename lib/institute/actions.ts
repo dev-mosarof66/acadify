@@ -6,6 +6,7 @@ import { revalidatePath } from "next/cache";
 
 import { ensureAuthUser } from "@/lib/auth/accounts";
 import { roleLabel, STAFF_ROLES_GRANTABLE, type InstituteRole } from "@/lib/auth/rbac";
+import { STUDY_GROUPS, type StudyGroup } from "@/lib/ui/labels";
 import { assertInstituteMember } from "@/lib/auth/session";
 import { classes, db, instituteMembers, sections, students } from "@/lib/db";
 import { sendEmail } from "@/lib/email/brevo";
@@ -188,6 +189,7 @@ export async function saveStudent(form: FormData): Promise<ActionResult> {
     guardianRelation: field(form, "guardianRelation", 40),
     guardianPhone: localMobile(field(form, "guardianPhone", 30)),
     address: field(form, "address", 300),
+    studyGroup: ((STUDY_GROUPS as readonly string[]).includes(field(form, "group")) ? field(form, "group") : null) as StudyGroup | null,
   };
   const rollRaw = toAsciiDigits(field(form, "roll"));
 

@@ -1,5 +1,6 @@
 import "server-only";
 
+import type { StudyGroup } from "@/lib/ui/labels";
 import { and, asc, count, eq, sql } from "drizzle-orm";
 
 import type { InstituteRole } from "@/lib/auth/rbac";
@@ -64,6 +65,7 @@ export interface StudentRow {
   sectionName: string;
   shift: Shift;
   roll: number;
+  group: StudyGroup | null;
   guardianName: string;
   guardianRelation: string;
   guardianPhone: string;
@@ -95,6 +97,7 @@ function toStudentRow(r: { s: typeof students.$inferSelect; className: string; s
     sectionName: r.sectionName,
     shift: r.shift,
     roll: s.roll,
+    group: s.studyGroup,
     guardianName: s.guardianName,
     guardianRelation: s.guardianRelation,
     guardianPhone: s.guardianPhone,

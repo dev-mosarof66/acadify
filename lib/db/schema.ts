@@ -331,6 +331,9 @@ export const ticketMessages = pgTable(
 
 export const shift = pgEnum("shift", ["morning", "day", "evening"]);
 export const gender = pgEnum("gender", ["male", "female"]);
+
+/** Class 9–10 study groups. A subject with no group is common to everyone in the class. */
+export const studyGroup = pgEnum("study_group", ["science", "commerce", "humanities"]);
 export const studentStatus = pgEnum("student_status", ["active", "left", "graduated"]);
 
 /** A class or grade in one institute, e.g. "Class 6", "Dakhil 9th", "Hifz". */
@@ -389,6 +392,8 @@ export const students = pgTable(
       .notNull()
       .references(() => sections.id, { onDelete: "restrict" }),
     roll: integer("roll").notNull(),
+    /** Study group (Science, Commerce, Humanities); null for classes without groups. */
+    studyGroup: studyGroup("study_group"),
     guardianName: text("guardian_name").notNull(),
     /** "Father", "Mother", "Uncle"… */
     guardianRelation: text("guardian_relation").notNull().default(""),
@@ -620,10 +625,16 @@ export const subjects = pgTable(
     nameBn: text("name_bn").notNull().default(""),
     fullMarks: integer("full_marks").notNull().default(100),
     passMarks: integer("pass_marks").notNull().default(33),
+    /** Only students of this group take it; null = common to the whole class. */
+    studyGroup: studyGroup("study_group"),
     sortOrder: integer("sort_order").notNull().default(0),
     ...timestamps,
   },
-  (t) => [uniqueIndex("subjects_class_name_idx").on(t.classId, t.name)]
+  // A name is unique among a class's common subjects, and again within each group
+  (t) => [
+    uniqueIndex("subjects_class_name_common_idx").on(t.classId, t.name).where(sql`${t.studyGroup} is null`),
+    uniqueIndex("subjects_class_name_group_idx").on(t.classId, t.name, t.studyGroup).where(sql`${t.studyGroup} is not null`),
+  ]
 );
 
 /** An exam (Half-yearly, Annual…) that every class sits. */

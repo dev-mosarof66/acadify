@@ -120,6 +120,13 @@
       "when": 1792089944421,
       "tag": "0016_student_access",
       "breakpoints": true
+    },
+    {
+      "idx": 17,
+      "version": "7",
+      "when": 1792094382013,
+      "tag": "0017_study_groups",
+      "breakpoints": true
     }
   ]
 }
