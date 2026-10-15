@@ -2,6 +2,7 @@ import { Suspense } from "react";
 
 import { Skeleton } from "@/components/ui/skeleton";
 import { SubjectsBoard } from "@/components/dashboard/exams";
+import { ImportSubjectsButton } from "@/components/dashboard/import-buttons";
 import { PageHeader } from "@/components/super-admin/ui";
 import { requireInstituteMember } from "@/lib/auth/session";
 import { getSubjects } from "@/lib/exams/queries";
@@ -14,7 +15,8 @@ async function Subjects() {
   const [classes, subjects] = await Promise.all([getClasses(viewer.active.instituteId), getSubjects(viewer.active.instituteId)]);
   return (
     <>
-      <PageHeader title="Subjects" description="Each class's subjects with full and pass marks, used by exams and lecture sheets" />
+      <PageHeader title="Subjects" description="Each class's subjects with full and pass marks, used by exams and lecture sheets"
+        actions={<ImportSubjectsButton />} />
       <SubjectsBoard classes={classes} subjects={subjects} />
     </>
   );

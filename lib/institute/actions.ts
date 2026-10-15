@@ -12,6 +12,7 @@ import { classes, db, instituteMembers, sections, students } from "@/lib/db";
 import { sendEmail } from "@/lib/email/brevo";
 import { memberWelcomeEmail } from "@/lib/email/templates";
 import { deleteObject, putObject } from "@/lib/files/storage";
+import { BD_MOBILE, localMobile, toAsciiDigits } from "./rules";
 import type { Gender, Shift, StudentStatus } from "./queries";
 
 export type ActionResult = { ok: true; id?: string; message?: string } | { ok: false; error: string; field?: string };
@@ -20,14 +21,10 @@ const NO_PERMISSION: ActionResult = { ok: false, error: "Your role can't do this
 const SHIFTS: Shift[] = ["morning", "day", "evening"];
 const GENDERS: Gender[] = ["male", "female"];
 const STATUSES: StudentStatus[] = ["active", "left", "graduated"];
-const BD_MOBILE = /^01[3-9]\d{8}$/;
 const EMAIL = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
 const UUID = /^[0-9a-f-]{36}$/i;
 
-const toAsciiDigits = (v: string) => v.replace(/[০-৯]/g, (d) => String("০১২৩৪৫৬৭৮৯".indexOf(d)));
 const field = (form: FormData, k: string, max = 120) => String(form.get(k) ?? "").trim().slice(0, max);
-/** "+880 1712-345678" → "01712345678" */
-const localMobile = (v: string) => toAsciiDigits(v).replace(/\D/g, "").replace(/^88(?=01)/, "");
 
 function refresh(...paths: string[]) {
   for (const p of ["/dashboard", ...paths]) revalidatePath(p);

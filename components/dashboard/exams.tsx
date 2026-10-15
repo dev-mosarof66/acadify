@@ -464,9 +464,16 @@ export function MarksSheet({
   };
 
   if (!students.length) return <Panel><p className="px-5 py-10 text-center text-sm text-muted-foreground">No active students in this section.</p></Panel>;
+  // Students with no group only get the common subjects, which is easy to miss
+  const ungrouped = subjects.some((s) => s.group) ? students.filter((s) => s.group === null) : [];
 
   return (
     <div className="grid gap-4 pb-24">
+      {ungrouped.length > 0 && (
+        <p role="status" className="rounded-xl bg-warning-light px-4 py-3 text-sm font-semibold text-accent-foreground dark:text-warning">
+          {ungrouped.length === 1 ? `${ungrouped[0].name} has` : `${ungrouped.length} students have`} no study group, so only the common subjects show for them. Set the group on the student&apos;s page.
+        </p>
+      )}
       {locked && <p className="rounded-xl bg-warning-light px-4 py-3 text-sm font-semibold text-accent-foreground dark:text-warning">Results are published, so marks are locked.</p>}
       <Panel>
         <div className="overflow-x-auto">

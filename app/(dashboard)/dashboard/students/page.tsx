@@ -2,6 +2,7 @@ import { Suspense } from "react";
 
 import { Skeleton } from "@/components/ui/skeleton";
 import { AddStudentButton, StudentsTable } from "@/components/dashboard/students";
+import { ImportStudentsButton } from "@/components/dashboard/import-buttons";
 import { PageHeader } from "@/components/super-admin/ui";
 import { can } from "@/lib/auth/rbac";
 import { requireInstituteMember } from "@/lib/auth/session";
@@ -19,7 +20,14 @@ async function Students() {
       <PageHeader
         title="Students"
         description={students.length ? `${active.toLocaleString("en-IN")} active students in ${classes.length} classes` : "Everyone enrolled at your institute"}
-        actions={can(viewer.active.role, "students:write") ? <AddStudentButton classes={classes} /> : undefined}
+        actions={
+          can(viewer.active.role, "students:write") ? (
+            <div className="flex flex-wrap gap-2">
+              <ImportStudentsButton />
+              <AddStudentButton classes={classes} />
+            </div>
+          ) : undefined
+        }
       />
       <StudentsTable students={students} classes={classes} />
     </>

@@ -299,12 +299,16 @@ export function StudentsTable({ students, classes }: { students: StudentRow[]; c
   const [tab, setTab] = React.useState<Tab>("active");
   const [classId, setClassId] = React.useState("all");
   const [sectionId, setSectionId] = React.useState("all");
+  const [groupFilter, setGroupFilter] = React.useState("all");
   const [query, setQuery] = React.useState("");
   const [shown, setShown] = React.useState(PAGE);
 
   const cls = classes.find((c) => c.id === classId);
   const classItems = [{ value: "all", label: "All classes" }, ...classes.map((c) => ({ value: c.id, label: c.name }))];
   const sectionItems = [{ value: "all", label: "All sections" }, ...(cls?.sections ?? []).map((s) => ({ value: s.id, label: `${s.name} · ${SHIFT_LABELS[s.shift]}` }))];
+
+  const hasGroups = students.some((s) => s.group !== null);
+  const groupFilterItems = [{ value: "all", label: "All groups" }, ...STUDY_GROUPS.map((g) => ({ value: g, label: GROUP_LABELS[g] })), { value: "none", label: "No group" }];
 
   const q = query.trim().toLowerCase();
   const digits = q.replace(/\D/g, "");
@@ -313,6 +317,7 @@ export function StudentsTable({ students, classes }: { students: StudentRow[]; c
       (tab === "all" || s.status === tab) &&
       (classId === "all" || s.classId === classId) &&
       (sectionId === "all" || s.sectionId === sectionId) &&
+      (groupFilter === "all" || (groupFilter === "none" ? s.group === null : s.group === groupFilter)) &&
       (!q || s.name.toLowerCase().includes(q) || s.nameBn.includes(query.trim()) || s.studentCode.includes(q) || (digits.length >= 4 && s.guardianPhone.includes(digits)))
   );
   const counts = TABS.reduce((m, t) => ({ ...m, [t.value]: t.value === "all" ? students.length : students.filter((s) => s.status === t.value).length }), {} as Record<Tab, number>);
@@ -393,6 +398,20 @@ export function StudentsTable({ students, classes }: { students: StudentRow[]; c
               ))}
             </SelectContent>
           </Select>
+          {hasGroups && (
+            <Select value={groupFilter} onValueChange={(v) => (setGroupFilter((v as string) ?? "all"), setShown(PAGE))} items={groupFilterItems}>
+              <SelectTrigger aria-label="Study group" className="h-10 w-[160px] rounded-xl bg-card dark:bg-card">
+                <SelectValue />
+              </SelectTrigger>
+              <SelectContent>
+                {groupFilterItems.map((o) => (
+                  <SelectItem key={o.value} value={o.value}>
+                    {o.label}
+                  </SelectItem>
+                ))}
+              </SelectContent>
+            </Select>
+          )}
         </div>
       </div>
 
@@ -429,7 +448,9 @@ export function StudentsTable({ students, classes }: { students: StudentRow[]; c
                   <TableCell className="font-semibold tabular-nums">{s.studentCode}</TableCell>
                   <TableCell>
                     {s.className} · {s.sectionName}
-                    <span className="block text-[12px] text-muted-foreground">{SHIFT_LABELS[s.shift]} shift</span>
+                    <span className="block text-[12px] text-muted-foreground">
+                      {SHIFT_LABELS[s.shift]} shift{s.group && ` · ${GROUP_LABELS[s.group]}`}
+                    </span>
                   </TableCell>
                   <TableCell className="text-right font-semibold tabular-nums">{s.roll}</TableCell>
                   <TableCell>
