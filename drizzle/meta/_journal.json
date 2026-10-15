@@ -127,6 +127,13 @@
       "when": 1792094382013,
       "tag": "0017_study_groups",
       "breakpoints": true
+    },
+    {
+      "idx": 18,
+      "version": "7",
+      "when": 1792095017886,
+      "tag": "0018_ai_exam_studio",
+      "breakpoints": true
     }
   ]
 }

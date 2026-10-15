@@ -3,7 +3,7 @@
  * Auth users, organizations and members live in Neon Auth's own `neon_auth` schema.
  */
 import { sql } from "drizzle-orm";
-import { boolean, check, date, index, integer, pgEnum, pgTable, text, timestamp, uniqueIndex, uuid } from "drizzle-orm/pg-core";
+import { boolean, check, date, index, integer, jsonb, numeric, pgEnum, pgTable, text, timestamp, uniqueIndex, uuid } from "drizzle-orm/pg-core";
 
 export const instituteType = pgEnum("institute_type", ["school", "college", "qawmi", "alia", "hifz", "coaching", "unified"]);
 export const instituteStatus = pgEnum("institute_status", ["active", "trial", "past_due", "suspended"]);
@@ -38,6 +38,8 @@ export const plans = pgTable("plans", {
   yearlyPriceBdt: integer("yearly_price_bdt"),
   /** Maximum students; null for unlimited. */
   studentLimit: integer("student_limit"),
+  /** AI spend allowed per institute per month, in BDT; null = no monthly cap. */
+  aiCreditBdt: integer("ai_credit_bdt"),
   features: text("features")
     .array()
     .notNull()
@@ -770,4 +772,99 @@ export const studentAccess = pgTable(
     createdAt: timestamp("created_at", { withTimezone: true }).notNull().defaultNow(),
   },
   (t) => [uniqueIndex("student_access_member_student_idx").on(t.memberId, t.studentId), index("student_access_student_idx").on(t.studentId)]
+);
+
+/* ---------------------------------------------------------------- AI layer */
+
+export const aiJobKind = pgEnum("ai_job_kind", ["question_paper"]);
+export const aiJobStatus = pgEnum("ai_job_status", ["queued", "running", "awaiting_approval", "approved", "rejected", "failed"]);
+export const aiApprovalDecision = pgEnum("ai_approval_decision", ["approved", "edited", "rejected"]);
+export const questionType = pgEnum("question_type", ["mcq", "cq"]);
+export const questionSource = pgEnum("question_source", ["teacher", "ai_approved"]);
+
+/**
+ * One AI request: what the teacher asked for, what came back, which model ran it and what it cost.
+ * Nothing in `output` reaches students or guardians until a teacher approves it in ai_approvals.
+ */
+export const aiJobs = pgTable(
+  "ai_jobs",
+  {
+    id: uuid("id").primaryKey().defaultRandom(),
+    instituteId: uuid("institute_id")
+      .notNull()
+      .references(() => institutes.id, { onDelete: "cascade" }),
+    kind: aiJobKind("kind").notNull(),
+    status: aiJobStatus("status").notNull().default("queued"),
+    /** A short name for lists, e.g. "Class 9 · Physics · Half-yearly". */
+    title: text("title").notNull(),
+    /** What the teacher chose (class, subject, chapters, counts, language…). */
+    params: jsonb("params").notNull(),
+    /** The structured result, e.g. the question paper. */
+    output: jsonb("output"),
+    /** Problems the automatic checks found in the output, shown to the approving teacher. */
+    warnings: jsonb("warnings").$type<string[]>().notNull().default([]),
+    /** Lecture sheets sent to the model as source material. */
+    sourceSheetIds: jsonb("source_sheet_ids").$type<string[]>().notNull().default([]),
+    model: text("model").notNull(),
+    promptVersion: text("prompt_version").notNull(),
+    inputTokens: integer("input_tokens").notNull().default(0),
+    outputTokens: integer("output_tokens").notNull().default(0),
+    /** Approximate cost charged against the institute's monthly AI credit. */
+    costBdt: numeric("cost_bdt", { precision: 10, scale: 2, mode: "number" }).notNull().default(0),
+    requestedBy: text("requested_by").notNull(),
+    requestedByName: text("requested_by_name").notNull(),
+    error: text("error"),
+    ...timestamps,
+  },
+  (t) => [index("ai_jobs_institute_created_idx").on(t.instituteId, t.createdAt)]
+);
+
+/** A teacher's decision on an AI job. Printing, publishing and sending wait for a row here. */
+export const aiApprovals = pgTable(
+  "ai_approvals",
+  {
+    id: uuid("id").primaryKey().defaultRandom(),
+    instituteId: uuid("institute_id")
+      .notNull()
+      .references(() => institutes.id, { onDelete: "cascade" }),
+    jobId: uuid("job_id")
+      .notNull()
+      .references(() => aiJobs.id, { onDelete: "cascade" }),
+    decision: aiApprovalDecision("decision").notNull(),
+    /** The version the teacher approved, with their edits. */
+    finalOutput: jsonb("final_output"),
+    note: text("note").notNull().default(""),
+    decidedBy: text("decided_by").notNull(),
+    decidedByName: text("decided_by_name").notNull(),
+    decidedAt: timestamp("decided_at", { withTimezone: true }).notNull().defaultNow(),
+  },
+  (t) => [uniqueIndex("ai_approvals_job_idx").on(t.jobId)]
+);
+
+/** The institute's own question bank. Grows each time a teacher approves an AI question paper. */
+export const questionBankItems = pgTable(
+  "question_bank_items",
+  {
+    id: uuid("id").primaryKey().defaultRandom(),
+    instituteId: uuid("institute_id")
+      .notNull()
+      .references(() => institutes.id, { onDelete: "cascade" }),
+    classId: uuid("class_id")
+      .notNull()
+      .references(() => classes.id, { onDelete: "cascade" }),
+    subjectId: uuid("subject_id")
+      .notNull()
+      .references(() => subjects.id, { onDelete: "cascade" }),
+    chapter: text("chapter").notNull().default(""),
+    type: questionType("type").notNull(),
+    language: text("language").notNull().default("bn"),
+    /** An MCQ (question, options, answer) or a CQ (stimulus and its parts), as in the paper. */
+    body: jsonb("body").notNull(),
+    marks: integer("marks").notNull(),
+    source: questionSource("source").notNull(),
+    jobId: uuid("job_id").references(() => aiJobs.id, { onDelete: "set null" }),
+    createdBy: text("created_by").notNull(),
+    ...timestamps,
+  },
+  (t) => [index("question_bank_institute_subject_idx").on(t.instituteId, t.subjectId)]
 );
