@@ -43,7 +43,10 @@ function mapError(error: UpstreamError): AuthErrorCode {
   if (code.includes("INVALID_OTP") || code.includes("OTP_EXPIRED") || code.includes("INVALID_CODE")) return "bad-code";
   if (code.includes("PASSWORD_TOO") || code.includes("WEAK")) return "weak-password";
   if (code.includes("ALREADY_EXISTS") || code.includes("USER_ALREADY")) return "exists";
-  if (error?.status === 401 || error?.status === 403) return "invalid";
+  if (error?.status === 401) return "invalid";
+  // A 403 here is usually "origin not trusted" (the site's address isn't in Neon Auth's trusted domains).
+  // It must not look like a wrong password or an unknown account, so log it where the host's logs show it.
+  console.error(`[auth] Neon Auth refused the request: status ${error?.status ?? "?"}, code ${error?.code ?? "?"}. If this is a 403, add the site's address under Neon Auth trusted domains.`);
   return "unknown";
 }
 
