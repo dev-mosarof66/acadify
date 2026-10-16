@@ -3,8 +3,7 @@
 import { and, count, eq } from "drizzle-orm";
 import { revalidatePath } from "next/cache";
 
-import { ensureAuthUser, linkPhone, phoneInUse } from "@/lib/auth/accounts";
-import { toE164 } from "@/lib/auth/phone";
+import { ensureAuthUser } from "@/lib/auth/accounts";
 import { roleLabel, type InstituteRole } from "@/lib/auth/rbac";
 import { assertInstituteMember } from "@/lib/auth/session";
 import { db, instituteMembers, studentAccess, students } from "@/lib/db";
@@ -32,11 +31,6 @@ export async function grantPortalAccess(studentId: string, form: FormData): Prom
   if (!name) return { ok: false, error: "Enter their name.", field: "name" };
   if (!EMAIL.test(email)) return { ok: false, error: "Enter a valid email; they sign in with it.", field: "email" };
 
-  const phoneRaw = String(form.get("phone") ?? "").trim().slice(0, 30);
-  const phone = phoneRaw ? toE164(phoneRaw) : null;
-  if (phoneRaw && !phone) return { ok: false, error: "Enter a valid mobile number (01XXXXXXXXX), or leave it empty.", field: "phone" };
-  if (phone && (await phoneInUse(phone))) return { ok: false, error: "This mobile number already belongs to another account.", field: "phone" };
-
   const [st] = await db.select({ id: students.id, name: students.name }).from(students).where(and(eq(students.id, studentId), eq(students.instituteId, instituteId))).limit(1);
   if (!st) return { ok: false, error: "This student isn't in your institute." };
 
@@ -46,8 +40,6 @@ export async function grantPortalAccess(studentId: string, form: FormData): Prom
   } catch {
     return { ok: false, error: "The sign-in account couldn't be created. Try again in a minute." };
   }
-
-  if (phone && account.created) await linkPhone(account.id, phone);
 
   const [existing] = await db
     .select({ id: instituteMembers.id, role: instituteMembers.role })

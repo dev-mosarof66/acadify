@@ -13,7 +13,6 @@ import { useLocale } from "@/components/providers/locale-provider";
 import { SectionTag } from "@/components/landing/shared";
 import { AuthShell } from "@/components/auth/auth-shell";
 import { LoginIllustration } from "@/components/auth/illustrations";
-import { PhoneLoginForm } from "@/components/auth/phone-login-form";
 import { signInAction, type AuthErrorCode } from "@/lib/auth/actions";
 import { cn } from "@/lib/utils";
 
@@ -191,38 +190,6 @@ function LoginForm() {
   );
 }
 
-/** Email and password, or a code sent to a mobile number. */
-function SignInMethods() {
-  const { t } = useLocale();
-  const [method, setMethod] = React.useState<"email" | "phone">("email");
-  const tabs = [
-    { id: "email" as const, label: t("login.use_email") },
-    { id: "phone" as const, label: t("login.use_phone") },
-  ];
-  return (
-    <div className="grid gap-5">
-      <div role="tablist" aria-label={t("login.title")} className="grid grid-cols-2 gap-1 rounded-full border border-border bg-card p-1">
-        {tabs.map((tab) => (
-          <button
-            key={tab.id}
-            type="button"
-            role="tab"
-            aria-selected={method === tab.id}
-            onClick={() => setMethod(tab.id)}
-            className={cn(
-              "h-10 cursor-pointer rounded-full text-sm font-bold transition-colors",
-              method === tab.id ? "bg-primary text-primary-foreground" : "text-muted-foreground hover:text-foreground"
-            )}
-          >
-            {tab.label}
-          </button>
-        ))}
-      </div>
-      {method === "email" ? <LoginForm /> : <PhoneLoginForm />}
-    </div>
-  );
-}
-
 export function LoginPage() {
   const { t } = useLocale();
 
@@ -239,7 +206,7 @@ export function LoginPage() {
         <p className="text-muted-foreground">{t("login.description")}</p>
       </div>
 
-      <SignInMethods />
+      <LoginForm />
 
       <p className="mt-5 text-center text-sm text-muted-foreground">
         {t("login.no_account")}{" "}

@@ -94,13 +94,6 @@ export function AddStaffButton({ roles, instituteType }: { roles: InstituteRole[
                 <Input id="staff-email" name="email" type="email" autoComplete="off" placeholder="name@example.com" className={CONTROL} aria-invalid={error?.field === "email" || undefined} />
               </div>
               <div className="grid gap-2">
-                <FieldLabel htmlFor="staff-phone" optional>
-                  Mobile
-                </FieldLabel>
-                <Input id="staff-phone" name="phone" type="tel" inputMode="tel" autoComplete="off" placeholder="01XXXXXXXXX" className={CONTROL} aria-invalid={error?.field === "phone" || undefined} />
-                <p className="text-[12.5px] text-muted-foreground">With a mobile number they can also sign in with a code sent by SMS.</p>
-              </div>
-              <div className="grid gap-2">
                 <FieldLabel htmlFor="staff-role">Role</FieldLabel>
                 <Select value={role} onValueChange={(v) => v && setRole(v as InstituteRole)} items={items}>
                   <SelectTrigger id="staff-role" className={`${CONTROL} w-full`}>
