@@ -1,6 +1,6 @@
 {
-  "id": "physics-9-10-bn-c01",
-  "textbookId": "physics-9-10-bn",
+  "id": "physics-bn-c01",
+  "textbookId": "physics-bn",
   "number": 1,
   "title": "ভৌত রাশি এবং তাদের পরিমাপ",
   "englishTitle": "Physical Quantities And Their Measurement",
@@ -35,7 +35,7 @@
       "key": "1.3",
       "title": "পদার্থবিজ্ঞানের ক্রমবিকাশ (Development of Physics)",
       "file": "topics/1.3.json",
-      "passages": 27
+      "passages": 28
     },
     {
       "key": "1.4",
@@ -47,19 +47,19 @@
       "key": "1.5",
       "title": "ভৌত রাশি এবং তাদের পরিমাপ",
       "file": "topics/1.5.json",
-      "passages": 37
+      "passages": 36
     },
     {
       "key": "1.6",
       "title": "পরিমাপের যন্ত্রপাতি (Measuring Instruments)",
       "file": "topics/1.6.json",
-      "passages": 42
+      "passages": 36
     },
     {
       "key": "1.7",
       "title": "পরিমাপের ত্রুটি ও নির্ভুলতা (Error and accuracy of measurements)",
       "file": "topics/1.7.json",
-      "passages": 39
+      "passages": 40
     },
     {
       "key": "1.ex",
@@ -70,12 +70,13 @@
   ],
   "stats": {
     "topics": 9,
-    "passages": 218,
+    "passages": 213,
+    "images": 11,
     "byKind": {
-      "figure": 23,
-      "text": 120,
+      "figure": 24,
+      "text": 124,
       "objective": 1,
-      "activity": 15,
+      "activity": 5,
       "table": 6,
       "formula": 4,
       "example": 2,
@@ -83,10 +84,10 @@
     },
     "byReason": {
       "known-confusable-corrected": 28,
-      "latin-junk": 10,
-      "verify-formula": 36,
+      "latin-junk": 9,
+      "verify-formula": 37,
       "verify-table": 6
     },
-    "needsReview": 71
+    "needsReview": 72
   }
 }

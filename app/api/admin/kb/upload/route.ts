@@ -1,12 +1,13 @@
 import { createHash, randomUUID } from "node:crypto";
 import { mkdir, rm, writeFile } from "node:fs/promises";
-import { NextResponse } from "next/server";
+import { after, NextResponse } from "next/server";
 import { PDFDocument } from "pdf-lib";
 
 import { assertSuperAdmin } from "@/lib/auth/session";
-import { createJob, uploadPath } from "@/lib/kb/jobs";
+import { createJob, toJobView, uploadPath } from "@/lib/kb/jobs";
 import { guessMeta } from "@/lib/kb/meta";
 import { KB_UPLOADS_DIR } from "@/lib/kb/paths";
+import { startPlan } from "@/lib/kb/process";
 
 export const maxDuration = 300;
 
@@ -76,14 +77,14 @@ export async function POST(request: Request) {
         sizeBytes: bytes.length,
         sha256: createHash("sha256").update(bytes).digest("hex"),
         pageCount,
-        pageFrom: 1,
-        pageTo: pageCount,
         tier: "agentic",
         createdByName: viewer.name,
       },
       id
     );
-    return NextResponse.json({ job });
+    // Reading the contents page (a few pages) starts at once; parsing chapters waits for the admin
+    after(() => startPlan(job.id));
+    return NextResponse.json({ job: toJobView(job) });
   } catch (err) {
     await rm(uploadPath(id), { force: true });
     return fail(err instanceof Error ? err.message : "Couldn't save the upload.", 500);

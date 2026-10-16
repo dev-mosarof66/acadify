@@ -1,8 +1,8 @@
 {
-  "id": "physics-9-10-bn",
-  "title": "Physics, Class 9-10 (Bangla)",
+  "id": "physics-bn",
+  "title": "Physics Bangla Version",
   "subject": "physics",
-  "classLevel": "9-10",
+  "classLevel": "",
   "language": "bn",
   "editionYear": null,
   "sourceFile": "Physics_Bangla_Version.pdf",
@@ -12,7 +12,6 @@
   "extraction": {
     "method": "llamaparse",
     "tier": "agentic",
-    "parseJobId": null,
     "output": "markdown",
     "corrections": [
       "শত্তি -> শক্তি",

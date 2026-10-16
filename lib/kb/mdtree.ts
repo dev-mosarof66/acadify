@@ -17,6 +17,8 @@ export interface PassageDraft {
   body: string;
   section: string | null;
   caption: string | null;
+  /** File name (in the chapter's assets/ folder) of the picture this figure passage shows, once attached. */
+  image: string | null;
   formulas: string[];
   pdfPageStart: number;
   pdfPageEnd: number;
@@ -140,7 +142,7 @@ export function pageBlocks(markdown: string): Block[] {
  * Builds every chapter found in `pages` (in page order). Pages before the first chapter opener
  * (cover, contents) are ignored.
  */
-export function buildBookTree(pages: PageMarkdown[]): ChapterDraft[] {
+export function buildBookTree(pages: PageMarkdown[], opts: { keepEmpty?: boolean } = {}): ChapterDraft[] {
   const chapters: ChapterDraft[] = [];
   let chapter: ChapterDraft | null = null;
   let topic: TopicDraft | null = null;
@@ -252,6 +254,7 @@ export function buildBookTree(pages: PageMarkdown[]): ChapterDraft[] {
         body,
         section,
         caption: null,
+        image: null,
         formulas: formulasIn(body),
         pdfPageStart: page.number,
         pdfPageEnd: page.number,
@@ -268,5 +271,5 @@ export function buildBookTree(pages: PageMarkdown[]): ChapterDraft[] {
     const stale = carry as PassageDraft | null;
     if (stale && stale.pdfPageEnd !== page.number) carry = null;
   }
-  return chapters.filter((c) => c.topics.some((t) => t.passages.length));
+  return opts.keepEmpty ? chapters : chapters.filter((c) => c.topics.some((t) => t.passages.length));
 }

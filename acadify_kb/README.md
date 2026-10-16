@@ -8,12 +8,13 @@ First target: Class 9-10 core subjects. See `docs/PLAN.md` for the plan and `doc
 
 Super admin dashboard: **Knowledge Base** (`/admin/knowledge-base`).
 
-1. Upload the book PDF with its title, subject key (`physics`), class (`9-10`), language and the number of PDF pages before the book's page 1. Uploading only saves the file.
-2. Choose the page range and press **Parse**. This sends those pages to LlamaParse and uses credits, so try one chapter first.
-3. The page checks on the parser every few seconds. When it finishes, the chapters are structured and written to `kb/`. **Rebuild files** re-runs the structuring from the saved parser output at no cost.
-4. Review the flagged passages in `chapter.md`, then commit `kb/`.
+1. Press **Upload PDF** (top right) and pick the whole book. Nothing else is asked: the title, subject and language come from the file name and the parsed text.
+2. The first 15 pages (the contents) are read automatically. That gives the chapter names and their page ranges, and the offset between the book's page numbers and the PDF's.
+3. Parse chapters one at a time (**Parse**) or all of them (**Parse all**, two at a time). Each chapter is cut out of the PDF and parsed on its own, with its pictures, and uses LlamaParse credits per page.
+4. When a chapter finishes it is structured and written to `kb/`. Click the chapter to read it in the dashboard (formulas rendered, pictures shown, review flags on each passage). **Rebuild (free)** redoes the structuring from the saved parser output.
+5. Review the flagged passages, then commit `kb/`.
 
-The code lives in the app: `lib/kb/` (pipeline), `app/api/admin/kb/upload` (upload), `lib/kb/actions.ts` (buttons), `components/super-admin/kb-console.tsx` (page). Tests: `npx tsx --test lib/kb/mdtree.test.ts`.
+The code lives in the app: `lib/kb/` (pipeline), `app/api/admin/kb/` (upload and picture routes), `lib/kb/actions.ts` (buttons), `components/super-admin/kb-console.tsx` and `kb-chapter.tsx` (page). Tests: `npx tsx --test lib/kb/*.test.ts`.
 
 Needs `LLAMA_CLOUD_API_KEY` in the server environment (`.env.local`) and a server with a writable disk (not Vercel). Set `KB_ROOT` to move this folder.
 
@@ -25,6 +26,7 @@ kb/<subject>/class-<level>/<lang>/        committed, ships with the app
   chapters/NN/chapter.json                title, page ranges, topic index, stats
   chapters/NN/topics/<key>.json           topic with passages (stable ids, kind, body, pdf + printed pages, reviewReasons)
   chapters/NN/chapter.md                  readable copy for review
+  chapters/NN/assets/                     pictures cropped from the book, one per figure
 data/                                     git-ignored: uploads, job state, raw parser pages
 docs/                                     plan and findings
 sql/schema.sql                            sketch of a future PostgreSQL import (not used yet)
