@@ -11,7 +11,7 @@ import { buildBookTree, type PageMarkdown } from "./mdtree";
 import { detectClassLevel, detectEditionYear, detectLanguage } from "./meta";
 import { KB_UPLOADS_DIR } from "./paths";
 import { cutPages } from "./pdf";
-import { planChapters } from "./plan";
+import { checkChapterEdit, planChapters, type ChapterEdit } from "./plan";
 import { ABANDONED_MS, chaptersToSubmit, isIdle, UPLOAD_GRACE_MS } from "./queue";
 
 /**
@@ -209,8 +209,8 @@ export async function structureChapter(jobId: string, number: number, credits?: 
     if (!draft) {
       return await updateChapter(job.id, number, { status: "failed", error: "No chapter heading was found in these pages. Check the chapter's page range." });
     }
-    // The contents page's name for the chapter is clean; the parsed heading is the fallback
-    if (!draft.title) draft.title = plan.title;
+    // A name the admin typed always wins; otherwise the parsed heading, and the contents page's name as the fallback
+    if (plan.titleEdited || !draft.title) draft.title = plan.title;
     const placed = attachImages(draft, saved.images ?? [], plan.pageFrom);
     const result = await exportChapter(job, draft, placed);
     await updateJob(job.id, { outDir: result.outDir });
@@ -224,4 +224,35 @@ export async function structureChapter(jobId: string, number: number, credits?: 
   } catch (err) {
     return await updateChapter(job.id, number, { status: "failed", error: errorMessage(err) });
   }
+}
+
+/**
+ * Applies an admin's correction to a chapter's name and page range (the contents page can be misread).
+ * A rename of a finished chapter just rewrites its files; new pages mean it has to be parsed again.
+ */
+export async function editChapter(jobId: string, number: number, input: ChapterEdit): Promise<{ job?: KbJob; error?: string }> {
+  const job = await getJob(jobId);
+  const chapter = job?.chapters.find((c) => c.number === number);
+  if (!job || !chapter) return { error: "Chapter not found." };
+  if (chapter.status === "parsing") return { error: "This chapter is with the parser right now. Edit it once it has finished." };
+
+  const checked = checkChapterEdit(input, job.pageCount);
+  if (!checked.ok) return { error: checked.error };
+  const { title, pageFrom, pageTo } = checked.value;
+
+  const pagesChanged = pageFrom !== chapter.pageFrom || pageTo !== chapter.pageTo;
+  const titleChanged = title !== chapter.title;
+  if (!pagesChanged && !titleChanged) return { job };
+
+  // Different pages no longer match what was parsed, so a finished or failed chapter goes back to "not parsed"
+  const reset = pagesChanged && (chapter.status === "done" || chapter.status === "failed");
+  let next = await updateChapter(job.id, number, {
+    title,
+    pageFrom,
+    pageTo,
+    titleEdited: chapter.titleEdited || titleChanged,
+    ...(reset ? { status: "pending" as const, error: null, result: null, creditsUsed: null, parseJobId: null } : {}),
+  });
+  if (!pagesChanged && chapter.status === "done") next = await structureChapter(job.id, number);
+  return { job: next };
 }

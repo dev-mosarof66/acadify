@@ -32,6 +32,8 @@ export interface BookMeta {
 export interface ChapterPlan {
   number: number;
   title: string;
+  /** The admin renamed it, so this name wins over the heading the parser read. */
+  titleEdited?: boolean;
   /** PDF pages, 1-based, inclusive. */
   pageFrom: number;
   pageTo: number;

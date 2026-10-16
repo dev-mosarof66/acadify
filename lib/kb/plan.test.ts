@@ -44,3 +44,23 @@ test("explains why a plan can't be made", () => {
   const tooShort = planChapters([page(5, tocTable), page(6, "## প্রথম অধ্যায়\n\n### শিরোনাম")], 40);
   assert.ok(!tooShort.ok && /don't fit/.test(tooShort.error));
 });
+
+import { checkChapterEdit } from "./plan";
+
+test("accepts a corrected chapter and tidies the name", () => {
+  const r = checkChapterEdit({ title: "  স্থির   বিদ্যুৎ ", pageFrom: 275, pageTo: 302 }, 366);
+  assert.deepEqual(r, { ok: true, value: { title: "স্থির বিদ্যুৎ", pageFrom: 275, pageTo: 302 } });
+});
+
+test("rejects names and page ranges that can't be right", () => {
+  for (const bad of [
+    { title: "   ", pageFrom: 1, pageTo: 5 },
+    { title: "x".repeat(201), pageFrom: 1, pageTo: 5 },
+    { title: "ক", pageFrom: 0, pageTo: 5 },
+    { title: "ক", pageFrom: 10, pageTo: 367 },
+    { title: "ক", pageFrom: 20, pageTo: 10 },
+    { title: "ক", pageFrom: 1.5, pageTo: 5 },
+  ]) {
+    assert.equal(checkChapterEdit(bad, 366).ok, false, JSON.stringify(bad));
+  }
+});

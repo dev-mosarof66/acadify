@@ -2,13 +2,14 @@
 
 import * as React from "react";
 import { useRouter } from "next/navigation";
-import { FileUp, Loader2, Play, RefreshCw, Square, Trash2, TriangleAlert } from "lucide-react";
+import { FileUp, Loader2, Pencil, Play, RefreshCw, Square, Trash2, TriangleAlert } from "lucide-react";
 
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { FormError } from "@/components/dashboard/form-bits";
 import { ChapterRow } from "@/components/super-admin/kb-chapter";
 import { KbCard } from "@/components/super-admin/kb-card";
+import { EditChapterDialog } from "@/components/super-admin/kb-edit-chapter";
 import { Panel, PanelHeader } from "@/components/super-admin/ui";
 import { deleteKbJob, pollKbJob, queueAllKbChapters, queueKbChapters, rebuildKbChapter, retryKbPlan, unqueueKbChapters } from "@/lib/kb/actions";
 import { needsWork } from "@/lib/kb/queue";
@@ -106,6 +107,7 @@ function JobCard({ job, onChange, onRemoved }: { job: JobView; onChange: (job: J
   const router = useRouter();
   const [error, setError] = React.useState<string>();
   const [pending, startTransition] = React.useTransition();
+  const [editing, setEditing] = React.useState<ChapterPlanView | null>(null);
 
   const run = (fn: () => Promise<{ job?: JobView; error?: string }>) =>
     startTransition(async () => {
@@ -202,6 +204,12 @@ function JobCard({ job, onChange, onRemoved }: { job: JobView; onChange: (job: J
                           {c.status === "failed" ? "Retry" : "Parse"}
                         </Button>
                       )}
+                      {c.status !== "parsing" && (
+                        <Button size="sm" variant="ghost" disabled={pending} onClick={() => setEditing(c)} className="rounded-lg">
+                          <Pencil />
+                          Edit
+                        </Button>
+                      )}
                       {c.status === "done" && (
                         <Button size="sm" variant="ghost" disabled={pending} onClick={() => run(() => rebuildKbChapter(job.id, c.number))} className="rounded-lg">
                           <RefreshCw />
@@ -237,6 +245,8 @@ function JobCard({ job, onChange, onRemoved }: { job: JobView; onChange: (job: J
           </Button>
         </div>
       )}
+
+      {editing && <EditChapterDialog job={job} chapter={editing} onSaved={onChange} onClose={() => setEditing(null)} />}
     </div>
   );
 }

@@ -3,7 +3,7 @@
 import { assertSuperAdmin } from "@/lib/auth/session";
 import { readKbChapter, type ChapterView } from "./export";
 import { deleteJob, getJob, toJobView, type JobView } from "./jobs";
-import { advanceJob, queueChapters, startPlan, structureChapter, unqueueChapters } from "./process";
+import { advanceJob, editChapter, queueChapters, startPlan, structureChapter, unqueueChapters } from "./process";
 
 type Result = { job?: JobView; error?: string };
 
@@ -50,6 +50,13 @@ export async function pollKbJob(jobId: string): Promise<JobView | null> {
   await assertSuperAdmin();
   const job = await advanceJob(jobId);
   return job ? toJobView(job) : null;
+}
+
+/** Corrects a chapter's name and PDF page range, e.g. when the contents page was misread. */
+export async function editKbChapter(jobId: string, number: number, edit: { title: string; pageFrom: number; pageTo: number }): Promise<Result> {
+  await assertSuperAdmin();
+  const r = await editChapter(jobId, number, { title: String(edit.title ?? ""), pageFrom: Number(edit.pageFrom), pageTo: Number(edit.pageTo) });
+  return r.error ? { error: r.error } : { job: r.job ? toJobView(r.job) : undefined };
 }
 
 /** Rebuilds a chapter's kb/ files from its saved parser output. Free: nothing is sent to the parser. */

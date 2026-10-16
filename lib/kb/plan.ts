@@ -101,3 +101,20 @@ export function planChapters(pages: PageMarkdown[], pageCount: number): PlanResu
   }
   return { ok: true, chapters, printedPageOffset: offset };
 }
+
+export interface ChapterEdit {
+  title: string;
+  pageFrom: number;
+  pageTo: number;
+}
+
+/** Checks an admin's correction to a chapter's name and PDF page range against the book's page count. */
+export function checkChapterEdit(input: ChapterEdit, pageCount: number): { ok: true; value: ChapterEdit } | { ok: false; error: string } {
+  const title = input.title.replace(/\s+/g, " ").trim();
+  if (title.length < 1 || title.length > 200) return { ok: false, error: "Give the chapter a name (up to 200 characters)." };
+  const { pageFrom, pageTo } = input;
+  if (!Number.isInteger(pageFrom) || !Number.isInteger(pageTo)) return { ok: false, error: "Page numbers must be whole numbers." };
+  if (pageFrom < 1 || pageTo > pageCount) return { ok: false, error: `Pages must be between 1 and ${pageCount}, the length of this PDF.` };
+  if (pageFrom > pageTo) return { ok: false, error: "The start page can't be after the end page." };
+  return { ok: true, value: { title, pageFrom, pageTo } };
+}
