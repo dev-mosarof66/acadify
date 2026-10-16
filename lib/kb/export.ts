@@ -156,7 +156,10 @@ export interface KbBookSummary {
   subject: string;
   classLevel: string;
   language: string;
+  /** The folder, relative to the project (what readKbChapter takes). */
   dir: string;
+  /** The folder relative to kb/, e.g. "physics/class-9-10/bn"; used in the book's page address. */
+  slug: string;
   chapters: { number: number; title: string; passages: number; needsReview: number }[];
 }
 
@@ -176,7 +179,7 @@ export async function readKbSummary(): Promise<KbBookSummary[]> {
         if (c) chapters.push({ number: c.number, title: c.title, passages: c.stats.passages, needsReview: c.stats.needsReview });
       }
       chapters.sort((x, y) => x.number - y.number);
-      books.push({ id: book.id, title: book.title ?? book.id, subject: book.subject, classLevel: book.classLevel ?? "", language: book.language, dir: rel(dir), chapters });
+      books.push({ id: book.id, title: book.title ?? book.id, subject: book.subject, classLevel: book.classLevel ?? "", language: book.language, dir: rel(dir), slug: path.relative(KB_OUT_DIR, dir).replaceAll("\\", "/"), chapters });
       return;
     }
     if (depth > 0) for (const name of await ls(dir)) await find(path.join(dir, name), depth - 1);

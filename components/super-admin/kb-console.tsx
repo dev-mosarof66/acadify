@@ -1,8 +1,9 @@
 "use client";
 
 import * as React from "react";
+import Link from "next/link";
 import { useRouter } from "next/navigation";
-import { FileUp, Loader2, Play, RefreshCw, Square, Trash2, TriangleAlert } from "lucide-react";
+import { ChevronRight, FileUp, Loader2, Play, RefreshCw, Square, Trash2, TriangleAlert } from "lucide-react";
 
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
@@ -12,6 +13,7 @@ import { Panel, PanelHeader } from "@/components/super-admin/ui";
 import { deleteKbJob, pollKbJob, rebuildKbChapter, retryKbPlan, startAllKbChapters, startKbChapter, stopKbAutoRun } from "@/lib/kb/actions";
 import type { ChapterPlanView, JobView } from "@/lib/kb/jobs";
 import type { KbBookSummary } from "@/lib/kb/export";
+import { subjectName, versionLabel } from "@/lib/kb/labels";
 
 const POLL_MS = 6000;
 const fmtMb = (bytes: number) => `${(bytes / 1024 / 1024).toFixed(1)} MB`;
@@ -293,19 +295,25 @@ export function KbConsole({ initialJobs, books, apiKeySet, canWrite }: { initial
         {books.length === 0 ? (
           <p className="px-5 py-6 text-sm text-muted-foreground">Nothing exported yet.</p>
         ) : (
-          books.map((b) => (
-            <div key={b.dir} className="grid gap-2 border-b border-border px-5 py-4 last:border-b-0">
-              <div className="flex flex-wrap items-baseline justify-between gap-2">
-                <p className="text-[15px] font-bold">{b.title}</p>
-                <code className="text-[12px] text-muted-foreground">{b.dir}</code>
-              </div>
-              <ul className="grid gap-2 text-[13px]">
-                {b.chapters.map((c) => (
-                  <ChapterRow key={c.number} dir={b.dir} number={c.number} title={c.title} summary={`${c.passages} passages · ${c.needsReview} to review`} />
-                ))}
-              </ul>
-            </div>
-          ))
+          <ul>
+            {books.map((b) => {
+              const passages = b.chapters.reduce((n, c) => n + c.passages, 0);
+              const review = b.chapters.reduce((n, c) => n + c.needsReview, 0);
+              return (
+                <li key={b.dir} className="border-b border-border last:border-b-0">
+                  <Link href={`/admin/knowledge-base/books/${b.slug}`} className="flex items-center justify-between gap-3 px-5 py-4 transition-colors hover:bg-muted/50">
+                    <div className="min-w-0">
+                      <p className="text-[15px] font-bold">{versionLabel(b)}</p>
+                      <p className="text-[13px] text-muted-foreground">
+                        {subjectName(b.subject)} · {b.chapters.length} {b.chapters.length === 1 ? "chapter" : "chapters"} · {passages} passages · {review} to review
+                      </p>
+                    </div>
+                    <ChevronRight className="size-4 shrink-0 text-muted-foreground" />
+                  </Link>
+                </li>
+              );
+            })}
+          </ul>
         )}
       </Panel>
     </div>
