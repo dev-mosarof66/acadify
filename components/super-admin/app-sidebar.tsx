@@ -4,6 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import {
+  BookOpenText,
   Building2,
   CreditCard,
   Inbox,
@@ -54,6 +55,7 @@ const NAV_GROUPS: { label?: string; items: NavItem[] }[] = [
     label: "Content",
     items: [
       { title: "FAQs", href: "/admin/faqs", icon: MessageCircleQuestion },
+      { title: "Knowledge Base", href: "/admin/knowledge-base", icon: BookOpenText },
     ],
   },
   {

@@ -1,0 +1,29 @@
+{
+  "id": "physics-9-10-bn",
+  "title": "Physics, Class 9-10 (Bangla)",
+  "subject": "physics",
+  "classLevel": "9-10",
+  "language": "bn",
+  "editionYear": 2026,
+  "sourceFile": "Physics_Bangla_Version.pdf",
+  "sourceSha256": "a07b3b39443031be268dce826592b69fbea61adffc52cf6d5bea800abcdd004d",
+  "pdfPages": 366,
+  "printedPageOffset": 5,
+  "extraction": {
+    "method": "llamaparse",
+    "tier": "agentic",
+    "output": "markdown",
+    "corrections": [
+      "শত্তি -> শক্তি",
+      "যন্দ্র -> যন্ত্র",
+      "ক্বমবিকাশ -> ক্রমবিকাশ",
+      "উথান -> উত্থান",
+      "যোড়শ -> ষোড়শ",
+      "সূজনশীল -> সৃজনশীল",
+      "ভোত -> ভৌত",
+      "ভোতিক -> ভৌতিক",
+      "সৃক্ষ -> সূক্ষ্ম",
+      "বস্তুরটির -> বস্তুটির"
+    ]
+  }
+}

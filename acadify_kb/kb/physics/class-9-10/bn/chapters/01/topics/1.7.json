@@ -1,0 +1,728 @@
+{
+  "id": "physics-9-10-bn-c01-t1.7",
+  "key": "1.7",
+  "title": "পরিমাপের ত্রুটি ও নির্ভুলতা (Error and accuracy of measurements)",
+  "chapter": 1,
+  "ordinal": 7,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ত্রুটি একটি নেতিবাচক শব্দ এবং ‘পরিমাপে ত্রুটি’ বলা হলে আমাদের মনে হয়, যে মানুষটি পরিমাপ করেছে সে তার দায়িত্ব সঠিকভাবে পালন না করায় একটি ত্রুটি হয়েছে। বিষয়টি তা নয়। যে পরিমাপ করছে; তার অবহেলার কারণে কখনো কখনো ত্রুটি হতে পারে কিন্তু আমাদের জানতে হবে যে আমরা যে যন্ত্রপাতি দিয়ে পরিমাপ করি সেগুলো কখনো নির্ভুল নয়। কাজেই কতটুকু নির্ভুলভাবে পরিমাপ করা সম্ভব তার একটি সীমা আছে অর্থাৎ পরিমাপে ত্রুটি থাকা খুবই স্বাভাবিক। তবে পরিমাপ কতটুকু নির্ভুল হয়েছে তারও একটি পরিমাপ থাকতে হয়। কাজেই একটা পরীক্ষা করে পরীক্ষার ফলাফলটি জানানোর সময় সেটি কতটুকু নির্ভুল সেটাও জানিয়ে দিতে পারলে ফলাফলের বিশ্বাসযোগ্যতা অনেক বেড়ে যায়। পরীক্ষার ফলাফলের নির্ভুলতা বের করার জন্য কিছু প্রচলিত নিয়ম জানা থাকলে তোমরাও তোমাদের পরীক্ষার ফলাফলের নির্ভুলতার একটা পরিমাপ দিতে পারবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 31,
+      "pdfPageEnd": 31,
+      "printedPageStart": 26,
+      "printedPageEnd": 26,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধরা যাক, তুমি একটি স্কেল দিয়ে বস্তুর দৈর্ঘ্য মাপছ। বস্তুটির দৈর্ঘ্য কত নির্ভুলভাবে মাপতে পারবে সেটি নির্ভর করে তোমার স্কেলটিতে কত সূক্ষ্মভাবে দাগ কাটা হয়েছে তার ওপর। যদি প্রতি 1 cm পরপর দাগ কাটা থাকে, তাহলে উত্তরটি অবশ্যই তুমি নির্দিষ্ট সংখ্যক cm এ প্রকাশ করবে। কিন্তু বস্তুর প্রকৃত দৈর্ঘ্যটি যে হুবহু সেই সংখ্যক cm ছিল তা কিন্তু নয়, সেটি সম্ভবত এর কাছাকাছি ছিল, কাজেই তোমার মাपा দৈর্ঘ্যটির ভেতর একটু অনিশ্চয়তা থাকা সম্ভব, সে কারণে প্রচলিত নিয়মে আমরা প্রকৃত উত্তরের সাথে সেই অনিশ্চয়তাটুকু যোগ করে দিই। অর্থাৎ আমরা যদি দেখি দৈর্ঘ্যটি 4 এর কাছাকাছি, তাহলে আমরা বলব বস্তুটির দৈর্ঘ্য:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 31,
+      "pdfPageEnd": 31,
+      "printedPageStart": 26,
+      "printedPageEnd": 26,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p003",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$(4.0 \\pm 0.5) cm$$",
+      "image": null,
+      "formulas": [
+        "(4.0 \\pm 0.5) cm"
+      ],
+      "pdfPageStart": 31,
+      "pdfPageEnd": 31,
+      "printedPageStart": 26,
+      "printedPageEnd": 26,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ বস্তুটির দৈর্ঘ্য 3.5 cm থেকে 4.5 cm এর ভেতর যেকোনো মান হতে পারে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 31,
+      "pdfPageEnd": 31,
+      "printedPageStart": 26,
+      "printedPageEnd": 26,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p005",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন :** ১.১২ চিত্রটিতে দেখানো বস্তুটির দৈর্ঘ্য কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 31,
+      "pdfPageEnd": 31,
+      "printedPageStart": 26,
+      "printedPageEnd": 26,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p006",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** বস্তুটির দৈর্ঘ্য $7 \\pm 0.5$ mm অর্থাৎ বস্তুটির দৈর্ঘ্য 6.5 mm থেকে 7.5 mm এর ভেতরে যেকোনো মান হতে পারে।",
+      "image": null,
+      "formulas": [
+        "7 \\pm 0.5"
+      ],
+      "pdfPageStart": 31,
+      "pdfPageEnd": 31,
+      "printedPageStart": 26,
+      "printedPageEnd": 26,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p007",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "drawing: ruler showing a measurement of 7 mm",
+      "image": "p31-page_26_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 31,
+      "pdfPageEnd": 31,
+      "printedPageStart": 26,
+      "printedPageEnd": 26,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p008",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**চিত্র ১.১২ : স্কেলের পাশে বস্তুটির দৈর্ঘ্য 7 mm এর কাছাকাছি।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 31,
+      "pdfPageEnd": 31,
+      "printedPageStart": 26,
+      "printedPageEnd": 26,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p009",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "এবারে আমরা নির্ভুলতা কীভাবে পরিমাপ করা যায় সেটা নিয়ে আলোচনা করতে পারি। নির্ভুলতার একটা পরিমাপ হচ্ছে চূড়ান্ত ত্রুটি (absolute error)। নামটি দেখেই বোঝা যাচ্ছে, এটি হচ্ছে প্রকৃত মানের তুলনায় পরিমাপ করা মানের পার্থক্যটুকু। তোমরা নিশ্চয়ই বুঝতে পারছ আমরা যখন পরিমাপ করি, তখন প্রকৃত মানটি আসলে জানি না। তাই চূড়ান্ত ত্রুটি হিসেবে আমরা সবচেয়ে বেশি সম্ভাব্য ত্রুটিকেই ব্যবহার করি। অর্থাৎ আমাদের আগের উদাহরণে চূড়ান্ত ত্রুটি হচ্ছে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 31,
+      "pdfPageEnd": 32,
+      "printedPageStart": 26,
+      "printedPageEnd": 27,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p010",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$|\\pm 0.5  mm| = 0.5  mm$$",
+      "image": null,
+      "formulas": [
+        "|\\pm 0.5  mm| = 0.5  mm"
+      ],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p011",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "চূড়ান্ত ত্রুটির পর আমরা Relative Error বা আপেক্ষিক ত্রুটির বিষয়টি দেখতে পারি। ধরা যাক কোনো দৈর্ঘ্য মাপতে গিয়ে আমাদের $\\pm 0.5  mm$ ত্রুটি হয়। বস্তুটির দৈর্ঘ্য যদি $1  mm$ হয়, তাহলে এই ত্রুটিটি খুবই গুরুতর কিন্তু দৈর্ঘ্যটি যদি $1  m$ হয় তাহলে পরিমাপটি যথেষ্ট নির্ভুল। এই বিষয়টুকু বোঝানোর জন্য আপেক্ষিক ত্রুটি বা Relative Error-এর ধারণা আনা হয়েছে।",
+      "image": null,
+      "formulas": [
+        "\\pm 0.5  mm",
+        "1  mm",
+        "1  m"
+      ],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p012",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "অর্থাৎ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p013",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "আপেক্ষিক ত্রুটি = চূড়ান্ত ত্রুটি/পরিমাপ করা মান",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p014",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই আমাদের আগের উদাহরণে:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p015",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "আপেক্ষিক ত্রুটি হচ্ছে: $0.5  mm / 7  mm = 0.071$",
+      "image": null,
+      "formulas": [
+        "0.5  mm / 7  mm = 0.071"
+      ],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p016",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "শতাংশের হিসাবে এটি হচ্ছে $0.071 \\times 100\\% = 7.1\\%$",
+      "image": null,
+      "formulas": [
+        "0.071 \\times 100\\% = 7.1\\%"
+      ],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p017",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "<hr/>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p018",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** ধরা যাক, বর্গাকৃতি একটা বইয়ের দৈর্ঘ্য পরিমাপ করে তুমি $10  cm$ পেয়েছ। ধরা যাক, পরিমাপে $10\\%$ আপেক্ষিক ত্রুটি হয়েছে। বস্তুটির ক্ষেত্রফলে আপেক্ষিক ত্রুটি কত?",
+      "image": null,
+      "formulas": [
+        "10  cm",
+        "10\\%"
+      ],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p019",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** বস্তুটির পরিমাপ করা ক্ষেত্রফল $10 \\times 10 = 100  cm^2$",
+      "image": null,
+      "formulas": [
+        "10 \\times 10 = 100  cm^2"
+      ],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p020",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "যেহেতু বস্তুটির আপেক্ষিক ত্রুটি $10\\%$ কাজেই তার দৈর্ঘ্য পরিমাপ করা হলে সবচেয়ে কম $9  cm$ এবং সবচেয়ে বেশি $11  cm$ হতে পারে।",
+      "image": null,
+      "formulas": [
+        "10\\%",
+        "9  cm",
+        "11  cm"
+      ],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p021",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই ক্ষেত্রফল,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p022",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "সবচেয়ে কম $9  cm \\times 9  cm = 81  cm^2$ এবং\nসবচেয়ে বেশি $11  cm \\times 11  cm = 121  cm^2$ হতে পারে।",
+      "image": null,
+      "formulas": [
+        "9  cm \\times 9  cm = 81  cm^2",
+        "11  cm \\times 11  cm = 121  cm^2"
+      ],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p023",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই চূড়ান্ত ত্রুটি:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p024",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$|100  cm^2 - 81  cm^2| = 19  cm^2$$",
+      "image": null,
+      "formulas": [
+        "|100  cm^2 - 81  cm^2| = 19  cm^2"
+      ],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p025",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "অথবা $|121  cm^2 - 100  cm^2| = 21  cm^2$",
+      "image": null,
+      "formulas": [
+        "|121  cm^2 - 100  cm^2| = 21  cm^2"
+      ],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p026",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "যেহেতু দুটি সমান নয় আমরা বড়টি নিই অর্থাৎ চূড়ান্ত ত্রুটি $21  cm^2$ কাজেই আপেক্ষিক ত্রুটি $21  cm^2 / 100  cm^2 = 0.21$",
+      "image": null,
+      "formulas": [
+        "21  cm^2",
+        "21  cm^2 / 100  cm^2 = 0.21"
+      ],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 33,
+      "printedPageStart": 27,
+      "printedPageEnd": 28,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p027",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "শতাংশের হিসাবে $0.21 \\times 100\\% = 21\\%$",
+      "image": null,
+      "formulas": [
+        "0.21 \\times 100\\% = 21\\%"
+      ],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p028",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "অর্থাৎ দৈর্ঘ্যের পরিমাণে 10% ত্রুটি হলে ক্ষেত্রফলের বেলায় সেটি হবে প্রায় দ্বিগুণ। একইভাবে তুমি দেখাতে পারবে আয়তন মাপা হলে তার ত্রুটি হবে তিন গুণ!",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p029",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "<hr/>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p030",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** তুমি একটি বাক্স এমন একটি রুলার দিয়ে মেপেছ, যেখানে শুধু cm দিয়ে দাগ। তুমি বাক্সটির দৈর্ঘ্য প্রস্তুত এবং উচ্চতা হিসেবে পেয়েছ 10 cm, 5 cm, 4 cm, তোমার মাপে কত শতাংশ ত্রুটি আছে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p031",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** যেহেতু তোমার রুলারে শুধু cm দাগ দেওয়া, কাজেই তোমার ত্রুটি $\\pm 0.5$ cm কাজেই তোমার মাপের ত্রুটি:",
+      "image": null,
+      "formulas": [
+        "\\pm 0.5"
+      ],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p032",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "দৈর্ঘ্য $10 \\pm 0.5$ cm\nপ্রস্তুত $5 \\pm 0.5$ cm\nউচ্চতা $4 \\pm 0.5$ cm",
+      "image": null,
+      "formulas": [
+        "10 \\pm 0.5",
+        "5 \\pm 0.5",
+        "4 \\pm 0.5"
+      ],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p033",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "তোমার মাপা আয়তন: $10  cm \\times 5  cm \\times 4  cm = 200  cm^3$",
+      "image": null,
+      "formulas": [
+        "10  cm \\times 5  cm \\times 4  cm = 200  cm^3"
+      ],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p034",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "সম্ভাব্য সবচেয়ে ছোট আয়তন:\n$(10 - 0.5)  cm \\times (5 - 0.5)  cm \\times (4 - 0.5)  cm = 149.625  cm^3$",
+      "image": null,
+      "formulas": [
+        "(10 - 0.5)  cm \\times (5 - 0.5)  cm \\times (4 - 0.5)  cm = 149.625  cm^3"
+      ],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p035",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "সম্ভাব্য সবচেয়ে বড় আয়তন:\n$(10 + 0.5)  cm \\times (5 + 0.5)  cm \\times (4 + 0.5)  cm = 259.875  cm^3$",
+      "image": null,
+      "formulas": [
+        "(10 + 0.5)  cm \\times (5 + 0.5)  cm \\times (4 + 0.5)  cm = 259.875  cm^3"
+      ],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p036",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই আয়তন $149.625  cm^3 < V < 259.875  cm^3$",
+      "image": null,
+      "formulas": [
+        "149.625  cm^3 < V < 259.875  cm^3"
+      ],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p037",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**চূড়ান্ত ত্রুটি:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p038",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$149.625  cm^3$ থেকে $200  cm^3$ হচ্ছে $200  cm^3 - 149.625  cm^3 = 50.375  cm^3$\n$200  cm^3$ থেকে $259.875  cm^3$ হচ্ছে $259.875  cm^3 - 200  cm^3 = 59.875  cm^3$",
+      "image": null,
+      "formulas": [
+        "149.625  cm^3",
+        "200  cm^3",
+        "200  cm^3 - 149.625  cm^3 = 50.375  cm^3",
+        "200  cm^3",
+        "259.875  cm^3",
+        "259.875  cm^3 - 200  cm^3 = 59.875  cm^3"
+      ],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p039",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "আমরা বড়টি নিই: অর্থাৎ চূড়ান্ত ত্রুটি $59.875  cm^3$",
+      "image": null,
+      "formulas": [
+        "59.875  cm^3"
+      ],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.7-p040",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "আপেক্ষিক ত্রুটি: $59.875  cm^3 / 200  cm^3 \\times 100\\% = 29.9375\\% \\cong 30\\%$",
+      "image": null,
+      "formulas": [
+        "59.875  cm^3 / 200  cm^3 \\times 100\\% = 29.9375\\% \\cong 30\\%"
+      ],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "physics-9-10-bn-c01",
+  "textbookId": "physics-9-10-bn",
+  "number": 1,
+  "title": "ভৌত রাশি এবং তাদের পরিমাপ",
+  "englishTitle": "Physical Quantities And Their Measurement",
+  "pdfPages": [
+    6,
+    36
+  ],
+  "printedPages": [
+    1,
+    31
+  ],
+  "topics": [
+    {
+      "key": "1.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/1.0.json",
+      "passages": 5
+    },
+    {
+      "key": "1.1",
+      "title": "পদার্থবিজ্ঞান (Physics)",
+      "file": "topics/1.1.json",
+      "passages": 2
+    },
+    {
+      "key": "1.2",
+      "title": "পদার্থবিজ্ঞানের পরিসর (Scope of Physics)",
+      "file": "topics/1.2.json",
+      "passages": 7
+    },
+    {
+      "key": "1.3",
+      "title": "পদার্থবিজ্ঞানের ক্রমবিকাশ (Development of Physics)",
+      "file": "topics/1.3.json",
+      "passages": 28
+    },
+    {
+      "key": "1.4",
+      "title": "পদার্থবিজ্ঞানের উদ্দেশ্য (Objectives of Physics)",
+      "file": "topics/1.4.json",
+      "passages": 10
+    },
+    {
+      "key": "1.5",
+      "title": "ভৌত রাশি এবং তাদের পরিমাপ",
+      "file": "topics/1.5.json",
+      "passages": 36
+    },
+    {
+      "key": "1.6",
+      "title": "পরিমাপের যন্ত্রপাতি (Measuring Instruments)",
+      "file": "topics/1.6.json",
+      "passages": 36
+    },
+    {
+      "key": "1.7",
+      "title": "পরিমাপের ত্রুটি ও নির্ভুলতা (Error and accuracy of measurements)",
+      "file": "topics/1.7.json",
+      "passages": 40
+    },
+    {
+      "key": "1.ex",
+      "title": "নমুনা প্রশ্ন",
+      "file": "topics/1.ex.json",
+      "passages": 49
+    }
+  ],
+  "stats": {
+    "topics": 9,
+    "passages": 213,
+    "images": 11,
+    "byKind": {
+      "figure": 24,
+      "text": 124,
+      "objective": 1,
+      "activity": 5,
+      "table": 6,
+      "formula": 4,
+      "example": 2,
+      "exercise": 47
+    },
+    "byReason": {
+      "known-confusable-corrected": 28,
+      "latin-junk": 9,
+      "verify-formula": 37,
+      "verify-table": 6
+    },
+    "needsReview": 72
+  }
+}
