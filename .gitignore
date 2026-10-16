@@ -39,3 +39,6 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# textbook PDFs (large; the parsed kb/ folder is what ships)
+.books/

@@ -1,0 +1,579 @@
+{
+  "id": "physics-9-10-bn-c01-t1.5",
+  "key": "1.5",
+  "title": "ভৌত রাশি এবং তাদের পরিমাপ",
+  "chapter": 1,
+  "ordinal": 5,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p001",
+      "kind": "text",
+      "section": "(Physical Quantities and Their Measurement )",
+      "caption": null,
+      "body": "পানি ঠান্ডা হলে সেটা বরফ হয়ে যায়, গরম করলে সেটা বাষ্প হয়ে যায় – এটা আমরা সবাই জানি। মানুষ প্রাচীনকাল থেকেই এটা দেখে আসছে। এই জ্ঞানটুকু কিন্তু পুরোপুরি বিজ্ঞান হতে পারবে না, যতক্ষণ পর্যন্ত না আমরা বলতে পারব, কোন অবস্থায় ঠিক কত তাপমাত্রায় পানি জমে বরফ হয় কিংবা সেটা বাড়িয়ে কোন অবস্থায় কত তাপমাত্রায় নিয়ে গেলে সেটা ফুটতে থাকে, বাষ্পে পরিণত হতে শুরু করে। তার অর্থ প্রকৃত বিজ্ঞান করতে হলে সবকিছুর পরিমাপ করতে হয়। বিজ্ঞানের সবচেয়ে গুরুত্বপূর্ণ বিষয় হচ্ছে, এই পরিমাপ করে সব কিছুকে নির্ধারিতভাবে ব্যাখ্যা করা।",
+      "formulas": [],
+      "pdfPageStart": 19,
+      "pdfPageEnd": 19,
+      "printedPageStart": 14,
+      "printedPageEnd": 14,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p002",
+      "kind": "text",
+      "section": "(Physical Quantities and Their Measurement )",
+      "caption": null,
+      "body": "**টেবিল ১.০১ : SI ইউনিটে সাতটি ভিন্ন ভিন্ন ভৌত রাশি**",
+      "formulas": [],
+      "pdfPageStart": 19,
+      "pdfPageEnd": 19,
+      "printedPageStart": 14,
+      "printedPageEnd": 14,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p003",
+      "kind": "table",
+      "section": "(Physical Quantities and Their Measurement )",
+      "caption": null,
+      "body": "<table><tr><th>রাশি</th><th>একক</th><th>প্রতীক</th></tr>\n<tr><td>দৈর্ঘ্য</td><td>মিটার (meter)</td><td>m</td></tr>\n<tr><td>ভর</td><td>কিলোগ্রাম (kilogram)</td><td>kg</td></tr>\n<tr><td>সময়</td><td>সেকেন্ড ( second )</td><td>s</td></tr>\n<tr><td>বৈদ্যুতিক প্রবাহ</td><td>অ্যাম্পিয়ার (ampere)</td><td>A</td></tr>\n<tr><td>তাপমাত্রা</td><td>কেলভিন (kelvin)</td><td>K</td></tr>\n<tr><td>পদার্থের পরিমাণ</td><td>মোল (mole)</td><td>mol</td></tr>\n<tr><td>দীপন তীব্রতা</td><td>ক্যান্ডেলা (candela)</td><td>cd</td></tr></table>",
+      "formulas": [],
+      "pdfPageStart": 19,
+      "pdfPageEnd": 19,
+      "printedPageStart": 14,
+      "printedPageEnd": 14,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p004",
+      "kind": "text",
+      "section": "(Physical Quantities and Their Measurement )",
+      "caption": null,
+      "body": "এই জগতে যা কিছু আমরা পরিমাপ করতে পারি, তাকে আমরা রাশি বলি। এই ভৌতজগতে অসংখ্য বিষয় রয়েছে, যা পরিমাপ করা সম্ভব। উদাহরণ দেওয়ার জন্য বলা যেতে পারে, কোনো কিছুর দৈর্ঘ্য, প্রস্থ, উচ্চতা, আয়তন, ওজন, তাপমাত্রা, রং, কার্ঠন্য, তার অবস্থান, বেগ, তার ভেতরকার উপাদান, বিদ্যুৎ পরিবাহিতা, অপরিবাহিতা, স্থিতিস্থাপকতা, তাপ পরিবাহিতা, অপরিবাহিতা, যনত্ব, আপেক্ষিক তাপ, চাপ, গলনাঙ্ক, স্ফুটনাঙ্ক ইত্যাদি, অর্থাৎ আমরা বলে শেষ করতে পারব না। এক কথায় ভৌতজগতে রাশিমালার কোনো শেষ নেই। তোমাদের তাই মনে হতে পারে এই অসংখ্য রাশিমালার পরিমাপ করার জন্য আমাদের বুঝি অসংখ্য রাশির সংজ্ঞা আর অসংখ্য একক তৈরি করে রাখতে হবে! আসলে সেটি সত্যি নয়, তোমরা শুনে খুবই অবাক হবে (এবং নিশ্চয়ই খুশি হবে) যে মাত্র সাতটি রাশির সাতটি একক ঠিক করে নিলে, সেই সাতটি একক ব্যবহার করে আমরা অন্য সব একক বের করে ফেলতে পারব। এই সাতটি রাশিকে বলে মৌলিক রাশি এবং এই মৌলিক রাশি ব্যবহার করে যখন অন্য কোনো রাশি প্রকাশ করি সেটি হচ্ছে লবধ রাশি। মৌলিক রাশিগুলো হচ্ছে দৈর্ঘ্য, ভর, সময়, বৈদ্যুতিক প্রবাহ, তাপমাত্রা, পদার্থের পরিমাণ এবং দীপন তীব্রতা। এই সাতটি মৌলিক রাশির আন্তর্জাতিকভাবে স্বীকৃত সাতটি একককে বলে SI একক, (SI এসেছে ফরাসি ভাষার Systeme International d’Unites কথ্যাটি থেকে) এবং সেগুলো ১.০১ টেবিলে দেখানো হয়েছে। ১.০২ টেবিলে অনেক বড়ো থেকে অনেক ছোটো কিছু দূরত্ব, ভর এবং সময় দেখানো হয়েছে।",
+      "formulas": [],
+      "pdfPageStart": 19,
+      "pdfPageEnd": 20,
+      "printedPageStart": 14,
+      "printedPageEnd": 15,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p005",
+      "kind": "table",
+      "section": "(Physical Quantities and Their Measurement )",
+      "caption": "টেবিল ১.০২: অনেক বড়ো থেকে অনেক ছোটো দূরত্ব, ভর এবং সময়",
+      "body": "<table><tr><th>দূরত্ব</th><th>m</th><th>ভর</th><th>kg</th><th>সময়</th><th>s</th></tr>\n<tr><td>নিকটতম<br />গ্যালাক্সি</td><td>2 × 10<sup>22</sup></td><td>আমাদের<br />গ্যালাক্সি</td><td>2 × 10<sup>41</sup></td><td>বিগ ব্যাংয়ের পর<br />থেকে অতিবাহিত সময়</td><td>4 × 10<sup>17</sup></td></tr>\n<tr><td>নিকটতম<br />নক্ষত্র</td><td>4 × 10<sup>16</sup></td><td>সূর্য</td><td>2 × 10<sup>30</sup></td><td>ডাইনোসরের ধ্বংসের<br />পর থেকে অতিবাহিত<br />সময়</td><td>2 × 10<sup>14</sup></td></tr>\n<tr><td>সৌরজগতের<br />ব্যাসাধ্</td><td>6 × 10<sup>12</sup></td><td>পৃথিবী</td><td>6 × 10<sup>24</sup></td><td>মানুষের অভুদয়ের পর<br />থেকে অতিবাহিত সময়</td><td>8 × 10<sup>12</sup></td></tr>\n<tr><td>পৃথিবীর<br />ব্যাসাধ্</td><td>6 × 10<sup>6</sup></td><td>জাহাজ</td><td>7 × 10<sup>7</sup></td><td>এক দিন</td><td>9 × 10<sup>4</sup></td></tr>\n<tr><td>এভারেস্টের<br />উচ্চতা</td><td>9 × 10<sup>3</sup></td><td>হাতি</td><td>5 × 10<sup>3</sup></td><td>মানুষের হৃৎস্পন্দন</td><td>1</td></tr>\n<tr><td>ভাইরাসের<br />দৈর্ঘ্য</td><td>1 × 10<sup>-8</sup></td><td>মানুষ</td><td>6 × 10<sup>1</sup></td><td>মিউওনের আয়ু</td><td>2 × 10<sup>-6</sup></td></tr>\n<tr><td>হাইড্রোজেন<br />পরমাণুর<br />ব্যাসাধ্</td><td>5 × 10<sup>-11</sup></td><td>ধূলিকণা</td><td>7 × 10<sup>-7</sup></td><td>স্পন্দনকাল:<br />সবুজ আলো</td><td>2 × 10<sup>-15</sup></td></tr>\n<tr><td>প্রোটনের<br />ব্যাসাধ্</td><td>1 × 10<sup>-15</sup></td><td>ইলেকট্রন</td><td>9 × 10<sup>-31</sup></td><td>স্পন্দনকাল:<br />এক MeV গামা রশ্মি</td><td>4 × 10<sup>-21</sup></td></tr></table>",
+      "formulas": [],
+      "pdfPageStart": 20,
+      "pdfPageEnd": 20,
+      "printedPageStart": 15,
+      "printedPageEnd": 15,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p006",
+      "kind": "text",
+      "section": "১.৫.১ পরিমাপের একক (Units of Measurements)",
+      "caption": null,
+      "body": "এই এককগুলোর ভেতর সেকেন্ড, মিটার এবং ক্যান্ডেলার পরিমাপ আগেই কয়েকটি ধ্রুব দিয়ে সংজ্ঞায়িত করা হয়েছিল। 2019 সালের মে মাস থেকে কিলোগ্রাম, কেলভিন, মোল এবং অ্যাম্পিয়ারকেও পদার্থবিজ্ঞানের মৌলিক কিছু ধ্রুব ব্যবহার করে নতুনভাবে সংজ্ঞায়িত করা হয়েছে। কাজেই এখন পৃথিবীর যেকোনো ল্যাবরেটরিতে এই ধ্রুবগুলো পরিমাপ করে সেখান থেকে সবগুলো এককের পরিমাপ অনেক সুস্পষ্টভাবে পরিমাপ করা সম্ভব হবে। সাতটি একক পরিমাপ করার জন্য যে মৌলিক ধ্রুবগুলোর মান চিরদিনের জন্য নির্দিষ্ট করে দেওয়া হয়েছে সেগুলো ১.০৩ টেবিলে দেখানো হয়েছে। কোন ধ্রুব ব্যবহার করে কোন একক পরিমাপ করা হয় সেটি ১.০৪ টেবিলে দেখানো হয়েছে। এককগুলোর নতুন এবং সহজ সংজ্ঞাগুলো এরকম:",
+      "formulas": [],
+      "pdfPageStart": 20,
+      "pdfPageEnd": 20,
+      "printedPageStart": 15,
+      "printedPageEnd": 15,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p007",
+      "kind": "table",
+      "section": "১.৫.১ পরিমাপের একক (Units of Measurements)",
+      "caption": "টেবিল ১.০৩: সাতটি ধ্রুবের নির্দিষ্ট করে দেওয়া মান",
+      "body": "<table><tr><th>ধ্রুব</th><th>মান</th></tr>\n<tr><td>আলোর বেগ (c)</td><td>299,792,458 meter/second</td></tr>\n<tr><td>প্লাঙ্কের ধ্রুব (h)</td><td>6.626 070 15 × 10<sup>-34</sup> Joule second</td></tr>\n<tr><td>ইলেকট্রনের চার্জ (e)</td><td>1.602176634 × 10<sup>-19</sup> coulomb</td></tr>\n<tr><td>Cs<sup>133</sup> পরমাণুর<br />স্পন্দন (Δv) কম্পাঙ্ক</td><td>9,192,631,770 hertz</td></tr>\n<tr><td>বোল্টজম্যান ধ্রুব (k)</td><td>1.380649 × 10<sup>-23</sup> joule/kelvin</td></tr>\n<tr><td>এভোগাড্রো ধ্রুব (N<sub>A</sub>)</td><td>6.02214076 × 10<sup>23</sup> particles/mole</td></tr>\n<tr><td>বিকিরণ তীব্রতা (K<sub>cd</sub>)</td><td>683 lumens/watt</td></tr></table>",
+      "formulas": [],
+      "pdfPageStart": 21,
+      "pdfPageEnd": 21,
+      "printedPageStart": 16,
+      "printedPageEnd": 16,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p008",
+      "kind": "text",
+      "section": "১.৫.১ পরিমাপের একক (Units of Measurements)",
+      "caption": null,
+      "body": "সেকেন্ড (s): সিজিয়াম 133 (Cs<sup>133</sup>) পরমাণুর 9,192,631,770 টি স্পন্দন সম্পন্ন করতে যে পরিমাণ সময় নেয় সেটি হচ্ছে এক সেকেন্ড।",
+      "formulas": [],
+      "pdfPageStart": 21,
+      "pdfPageEnd": 21,
+      "printedPageStart": 16,
+      "printedPageEnd": 16,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p009",
+      "kind": "text",
+      "section": "১.৫.১ পরিমাপের একক (Units of Measurements)",
+      "caption": null,
+      "body": "মিটার (m): শূন্য মাধ্যমে এক সেকেন্ডের 299,792,458 ভাগের এক ভাগ সময়ে আলো যে দূরত্ব অতিক্রম করে সেটি হচ্ছে এক মিটার।",
+      "formulas": [],
+      "pdfPageStart": 21,
+      "pdfPageEnd": 21,
+      "printedPageStart": 16,
+      "printedPageEnd": 16,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p010",
+      "kind": "text",
+      "section": "১.৫.১ পরিমাপের একক (Units of Measurements)",
+      "caption": null,
+      "body": "কিলোগ্রাম (kg): প্লাঙ্কের ধ্রুবকে 6.626 070 15 × 10<sup>-34</sup> m<sup>2</sup>/s দিয়ে ভাগ দিলে যে ভর পাওয়া যায় সেটি হচ্ছে এক কিলোগ্রাম।",
+      "formulas": [],
+      "pdfPageStart": 21,
+      "pdfPageEnd": 21,
+      "printedPageStart": 16,
+      "printedPageEnd": 16,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p011",
+      "kind": "text",
+      "section": "১.৫.১ পরিমাপের একক (Units of Measurements)",
+      "caption": null,
+      "body": "অ্যাম্পিয়ার (A): প্রতি সেকেন্ডে 1/(1.602176634 × 10<sup>-19</sup>) সংখ্যক ইলেকট্রনের সমপরিমাণ চার্জ প্রবাহিত হলে সেটি হচ্ছে এক অ্যাম্পিয়ার।",
+      "formulas": [],
+      "pdfPageStart": 21,
+      "pdfPageEnd": 21,
+      "printedPageStart": 16,
+      "printedPageEnd": 16,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p012",
+      "kind": "text",
+      "section": "১.৫.১ পরিমাপের একক (Units of Measurements)",
+      "caption": null,
+      "body": "মোল (Mol): যে পরিমাণ বস্তুরে এভোগাড্রো ধ্রুব 6.02214076 × 10<sup>23</sup> সংখ্যক কণা থাকে সেটি হচ্ছে এক মোল।",
+      "formulas": [],
+      "pdfPageStart": 21,
+      "pdfPageEnd": 21,
+      "printedPageStart": 16,
+      "printedPageEnd": 16,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p013",
+      "kind": "text",
+      "section": "১.৫.১ পরিমাপের একক (Units of Measurements)",
+      "caption": null,
+      "body": "কেলভিন (K): যে পরিমাণ তাপমাত্রার পরিবর্তনে তাপশক্তির 1.380649 × 10<sup>-23</sup> joule পরিবর্তন হয় সেটি হচ্ছে কেলভিন।",
+      "formulas": [],
+      "pdfPageStart": 21,
+      "pdfPageEnd": 21,
+      "printedPageStart": 16,
+      "printedPageEnd": 16,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p014",
+      "kind": "text",
+      "section": "১.৫.১ পরিমাপের একক (Units of Measurements)",
+      "caption": null,
+      "body": "ক্যান্ডেলা (cd): সেকেন্ডে 540 × 10<sup>12</sup> বার কম্পনরত আলোর উৎস থেকে যদি এক স্টেরেডিয়ান (Steradian) ঘনকোণে এক ওয়াটের 683 ভাগের এক ভাগ বিকিরণ তীব্রতা পৌঁছায়, তাহলে সেই আলোর তীব্রতা হচ্ছে এক ক্যান্ডেলা।",
+      "formulas": [],
+      "pdfPageStart": 21,
+      "pdfPageEnd": 21,
+      "printedPageStart": 16,
+      "printedPageEnd": 16,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p015",
+      "kind": "text",
+      "section": "১.৫.১ পরিমাপের একক (Units of Measurements)",
+      "caption": null,
+      "body": "টেবিল ১.০৪: নতুন SI একক",
+      "formulas": [],
+      "pdfPageStart": 21,
+      "pdfPageEnd": 21,
+      "printedPageStart": 16,
+      "printedPageEnd": 16,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p016",
+      "kind": "figure",
+      "section": "১.৫.১ পরিমাপের একক (Units of Measurements)",
+      "caption": null,
+      "body": "image: SI base units diagram",
+      "formulas": [],
+      "pdfPageStart": 21,
+      "pdfPageEnd": 21,
+      "printedPageStart": 16,
+      "printedPageEnd": 16,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p017",
+      "kind": "text",
+      "section": "১.৫.১ পরিমাপের একক (Units of Measurements)",
+      "caption": null,
+      "body": "এক মিটার বলতে কতটুকু দূরত্ব বোঝায় বা এক কেজি ঠিক কতখানি ভর, কিংবা এক সেকেন্ড কতটুকু সময়, এক ডিগ্রি কেলভিন তাপমাত্রা কতটুকু উত্তাপ কিংবা এক অ্যাম্পিয়ার কতখানি কারেন্ট অথবা এক মোল পদার্থ বলতে কী বোঝায় বা এক ক্যান্ডেলা কতখানি আলো সেটা সম্পর্কে তোমাদের সবারই একটা বাস্তব ধারণা থাকা উচিত! এই বেলা তোমাদের সেই বাস্তব ধারণাটা দেওয়ার চেষ্টা করে দেখা যাক। তোমাদের শুধু জানলে হবে না, খানিকটা কিন্তু অনুভবও করতে হবে। সাধারণভাবে বলা যায়:",
+      "formulas": [],
+      "pdfPageStart": 21,
+      "pdfPageEnd": 22,
+      "printedPageStart": 16,
+      "printedPageEnd": 17,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p018",
+      "kind": "text",
+      "section": "১.৫.১ পরিমাপের একক (Units of Measurements)",
+      "caption": null,
+      "body": "* স্বাভাবিক উচ্চতার একজন মানুষের মাটি থেকে পেট পর্যন্ত দূরত্বটা মোটামুটি এক মিটার।\n* এক লিটার পানির বোতলে কিংবা চার ঘ্লাসে যেটুকু পানি থাকে তার ভর হচ্ছে এক কেজির কাছাকাছি।\n* ‘এক হাজার এক’ এই তিনটি শব্দ বলতে যেটুকু সময় লাগে সেটা মোটামুটি এক সেকেন্ড!\n* বলা যেতে পারে তিনটা মোবাইল ফোন একসাথে চার্জ করা হলে এক অ্যাক্সিসিয়ার বিদুৎ ব্যবহার করা হয়। (মোবাইল ফোন ৫ ভোল্টের কাছাকাছি বিভব পার্থক্যে চার্জ করা হয়। তাই এখানে খরচ হবে ৫ ওয়াট। যদি বাসার বালি, পাখা, ফ্রিজের 220 ভোল্টের কিছুতে এক অ্যাক্সিসিয়ার বিদুৎ ব্যবহার হয়, তখন কিন্তু খরচ হবে 220 ওয়াট!)\n* হাত দিয়ে আমরা যদি কারো জ্বর অনুভব করতে পারি, বলা যেতে পারে তার তাপমাত্রা স্বাভাবিকের তুলনায় এক কেলভিন বেড়েছে।\n* মোলটা অনুভব করা একটু কঠিন, বলা যেতে পারে একটা বড় চামচের এক চামচ পানিতে মোটামুটি এক মোল পানির অণু থাকে। এক কাপ পানিতে প্রায় দশ মোল পানি থাকে।\n* একটা মোমবাতির আলোকে মোটামুটিভাবে এক ক্যান্ডেলা বলা যায়।",
+      "formulas": [],
+      "pdfPageStart": 22,
+      "pdfPageEnd": 22,
+      "printedPageStart": 17,
+      "printedPageEnd": 17,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p019",
+      "kind": "text",
+      "section": "১.৫.১ পরিমাপের একক (Units of Measurements)",
+      "caption": null,
+      "body": "দেখতেই পাচ্ছ এর কোনোটাই নির্ধূত পরিমাণ নয় কিন্তু অনুভব করার জন্য সহজ। যদি এই পরিমাণ নিয়ে অভ্যস্ত হয়ে যাও, তাহলে ভবিষ্যতে যখন কোনো একটা হিসাব করবে, তখন সেটা নিয়ে তোমাদের একটা মাত্রাঞ্জান থাকবে!",
+      "formulas": [],
+      "pdfPageStart": 22,
+      "pdfPageEnd": 22,
+      "printedPageStart": 17,
+      "printedPageEnd": 17,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p020",
+      "kind": "text",
+      "section": "১.৫.২ উপসর্গ বা গুণিতক (Prefix)",
+      "caption": null,
+      "body": "বিজ্ঞান বা পদার্থবিজ্ঞান চর্চার জন্য আমাদের নানা কিছু পরিমাণ করতে হয়। কখনো আমাদের হয়তো গ্যালাক্সির দৈর্ঘ্য মাপতে হয় ($6 \\times 10^{24}$ m) আবার কখনো একটা নিউক্লিয়াসের ব্যাসার্ধ মাপতে হয় ($1 \\times 10^{-15}$ m); দূরত্বের মাঝে এই বিশাল পার্থক্য মাপার জন্য সব সময়েই একই ধরনের সংখ্যা ব্যবহার করা বুদ্ধিমানের কাজ নয়, তাই আন্তর্জাতিকভাবে কিছু SI উপসর্গ বা গুণিতক (Prefix) তৈরি করে নেওয়া হয়েছে। এই গুণিতক থাকার কারণে একটা ছোট উপসর্গ লিখে অনেক বড় কিংবা অনেক ছোট সংখ্যা বোঝাতে পারব। উপসর্গগুলো টেবিল ১.০৫ এ দেখানো হয়েছে। আমরা দৈনন্দিন জীবনে কিন্তু এগুলো সব সময় ব্যবহার করি। দূরত্ব বোঝানোর জন্য এক হাজার মিটার না বলে এক কিলোমিটার বলি। পানির আয়তন বোঝানোর জন্য এক লিটারের এক শতাংশ না বলে ১০ মিলিমিটার বলি।",
+      "formulas": [
+        "6 \\times 10^{24}",
+        "1 \\times 10^{-15}"
+      ],
+      "pdfPageStart": 22,
+      "pdfPageEnd": 23,
+      "printedPageStart": 17,
+      "printedPageEnd": 18,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p021",
+      "kind": "table",
+      "section": "১.৫.২ উপসর্গ বা গুণিতক (Prefix)",
+      "caption": "টেবিল ১.০৫: SI ইউনিটে ব্যবহৃত গুণিতক বা উপসর্গ",
+      "body": "<table><tr><td>ডেকা</td><td>da</td><td>10<sup>1</sup></td></tr>\n<tr><td>হেক্টো</td><td>h</td><td>10<sup>2</sup></td></tr>\n<tr><td>কিলো</td><td>k</td><td>10<sup>3</sup></td></tr>\n<tr><td>মেগা</td><td>M</td><td>10<sup>6</sup></td></tr>\n<tr><td>গিগা</td><td>G</td><td>10<sup>9</sup></td></tr>\n<tr><td>টেরা</td><td>T</td><td>10<sup>12</sup></td></tr>\n<tr><td>পেটা</td><td>P</td><td>10<sup>15</sup></td></tr>\n<tr><td>এক্সা</td><td>E</td><td>10<sup>18</sup></td></tr></table>",
+      "formulas": [],
+      "pdfPageStart": 23,
+      "pdfPageEnd": 23,
+      "printedPageStart": 18,
+      "printedPageEnd": 18,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p022",
+      "kind": "table",
+      "section": "১.৫.২ উপসর্গ বা গুণিতক (Prefix)",
+      "caption": null,
+      "body": "<table><tr><td>ডেসি</td><td>d</td><td>10<sup>-1</sup></td></tr>\n<tr><td>সেন্টি</td><td>c</td><td>10<sup>-2</sup></td></tr>\n<tr><td>মিলি</td><td>m</td><td>10<sup>-3</sup></td></tr>\n<tr><td>মাইক্রো</td><td>µ</td><td>10<sup>-6</sup></td></tr>\n<tr><td>ন্যানো</td><td>n</td><td>10<sup>-9</sup></td></tr>\n<tr><td>পিকো</td><td>p</td><td>10<sup>-12</sup></td></tr>\n<tr><td>ফেমটো</td><td>f</td><td>10<sup>-15</sup></td></tr>\n<tr><td>এটো</td><td>a</td><td>10<sup>-18</sup></td></tr></table>",
+      "formulas": [],
+      "pdfPageStart": 23,
+      "pdfPageEnd": 23,
+      "printedPageStart": 18,
+      "printedPageEnd": 18,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p023",
+      "kind": "text",
+      "section": "১.৫.৩ মাত্রা (Dimension)",
+      "caption": null,
+      "body": "আমরা জেনে গেছি যে আমাদের চারপাশে অসংখ্য রাশি থাকলেও মাত্র সাতটি একক দিয়ে এই রাশিগুলোকে পরিমাণ করা যায়। একটা রাশি কোন একক দিয়ে প্রকাশ করা যায়, সেটি আমাদের জানতেই হয়। প্রায়ই রাশিটি কোন কোন মৌলিক রাশি (দৈর্ঘ্য *L*, সময় *T*, ভর *M* ইত্যাদি) দিয়ে কীভাবে তৈরি হয়েছে, সেটাও জানা থাকতে হয়। একটা রাশিতে বিভিন্ন মৌলিক রাশি যে সূচকে (পাওয়ারে) আছে, সেটাকে তার মাত্রা বলে। যেমন আমরা পরে দেখব বল হচ্ছে ভর এবং ত্বরণের গুণফল। ত্বরণ আবার সময়ের সাথে বেগের পরিবর্তনের হার। বেগ আবার সময়ের সাথে অবস্থানের পরিবর্তনের হার। কাজেই",
+      "formulas": [],
+      "pdfPageStart": 23,
+      "pdfPageEnd": 23,
+      "printedPageStart": 18,
+      "printedPageEnd": 18,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p024",
+      "kind": "text",
+      "section": "১.৫.৩ মাত্রা (Dimension)",
+      "caption": null,
+      "body": "বেগের মাত্রা: $\\left[ \\frac{দূরত্ব}{সময়} \\right] = \\frac{L}{T} = LT^{-1}$",
+      "formulas": [
+        "\\left[ \\frac{দূরত্ব}{সময়} \\right] = \\frac{L}{T} = LT^{-1}"
+      ],
+      "pdfPageStart": 23,
+      "pdfPageEnd": 23,
+      "printedPageStart": 18,
+      "printedPageEnd": 18,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p025",
+      "kind": "text",
+      "section": "১.৫.৩ মাত্রা (Dimension)",
+      "caption": null,
+      "body": "ত্বরণের মাত্রা: $\\left[ \\frac{দূরত্ব}{সময়^2} \\right] = \\frac{L}{T^2} = LT^{-2}$",
+      "formulas": [
+        "\\left[ \\frac{দূরত্ব}{সময়^2} \\right] = \\frac{L}{T^2} = LT^{-2}"
+      ],
+      "pdfPageStart": 23,
+      "pdfPageEnd": 23,
+      "printedPageStart": 18,
+      "printedPageEnd": 18,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p026",
+      "kind": "text",
+      "section": "১.৫.৩ মাত্রা (Dimension)",
+      "caption": null,
+      "body": "আমরা এই বহিয়ে যখনই নতুন একটি রাশিমালার কথা বলব, সাথে সাথেই তার মাত্রাটির কথা বলে দেওয়ার চেষ্টা করব। দেখবে সেটা সব সময় রাশিটিকে বুঝতে অন্যভাবে সাহায্য করবে। এই বহিয়ে একটা রাশির মাত্রা বোঝাতে হলে সেটিকে তৃতীয় বন্ধনী বা স্কোয়ার ব্র্যাকেটের (square bracket) ভেতর রেখে দেখানো হবে। যেরকম বল $F$ হলে, $[F] = MLT^{-2}$",
+      "formulas": [
+        "F",
+        "[F] = MLT^{-2}"
+      ],
+      "pdfPageStart": 23,
+      "pdfPageEnd": 24,
+      "printedPageStart": 18,
+      "printedPageEnd": 19,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p027",
+      "kind": "text",
+      "section": "১.৫.৪ বৈজ্ঞানিক প্রতীক ও সংকেত (Scientific Symbols and Notations)",
+      "caption": null,
+      "body": "এককের সংকেত লেখার জন্য নিচের পদ্ধতিগুলো অনুসরণ করা হয়ে থাকে:",
+      "formulas": [],
+      "pdfPageStart": 24,
+      "pdfPageEnd": 24,
+      "printedPageStart": 19,
+      "printedPageEnd": 19,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p028",
+      "kind": "text",
+      "section": "১.৫.৪ বৈজ্ঞানিক প্রতীক ও সংকেত (Scientific Symbols and Notations)",
+      "caption": null,
+      "body": "1. কোনো রাশির মান প্রকাশ করার জন্য একটি সংখ্যা লিখে তারপর একটি ফাঁকা জায়গা (Space) রেখে এককের সংকেতটি লিখতে হয়। যেমন 2.21 kg, $7.3 \\times 10^2$ m$^2$ কিংবা 22 K, শতকরা চিহ্নও (%) এই নিয়ম মেনে চলে। তবে ডিগ্রি (°) মিনিট (') এবং সেকেন্ড (\") লেখার সময় সংখ্যার পর কোনো ফাঁকা জায়গা বা space রাখতে হয় না।",
+      "formulas": [
+        "7.3 \\times 10^2",
+        "^2"
+      ],
+      "pdfPageStart": 24,
+      "pdfPageEnd": 24,
+      "printedPageStart": 19,
+      "printedPageEnd": 19,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p029",
+      "kind": "text",
+      "section": "১.৫.৪ বৈজ্ঞানিক প্রতীক ও সংকেত (Scientific Symbols and Notations)",
+      "caption": null,
+      "body": "2. গুণ করে পাওয়া লক্ষ্য একক লেখার সময় দুটি এককের মাঝখানে একটি ফাঁকা জায়গা বা Space দিতে হয়। যেমন: 2.35 N m",
+      "formulas": [],
+      "pdfPageStart": 24,
+      "pdfPageEnd": 24,
+      "printedPageStart": 19,
+      "printedPageEnd": 19,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p030",
+      "kind": "text",
+      "section": "১.৫.৪ বৈজ্ঞানিক প্রতীক ও সংকেত (Scientific Symbols and Notations)",
+      "caption": null,
+      "body": "3. ভাগ করে পাওয়া লক্ষ্য এককের বোঝায় ঋণাত্মক সূচক বা Slash (যেমন ms$^{-1}$ কিংবা m/s) দিয়ে প্রকাশ করা হয়।",
+      "formulas": [
+        "^{-1}"
+      ],
+      "pdfPageStart": 24,
+      "pdfPageEnd": 24,
+      "printedPageStart": 19,
+      "printedPageEnd": 19,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p031",
+      "kind": "text",
+      "section": "১.৫.৪ বৈজ্ঞানিক প্রতীক ও সংকেত (Scientific Symbols and Notations)",
+      "caption": null,
+      "body": "4. প্রতীকগুলো যেহেতু গাণিতিক প্রকাশ, কোনো কিছুর সংক্ষিপ্ত রূপ নয়, তাই তাদের সাথে কোনো যতিচিহ্ন (.) বা Period ব্যবহত হয় না।",
+      "formulas": [],
+      "pdfPageStart": 24,
+      "pdfPageEnd": 24,
+      "printedPageStart": 19,
+      "printedPageEnd": 19,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p032",
+      "kind": "text",
+      "section": "১.৫.৪ বৈজ্ঞানিক প্রতীক ও সংকেত (Scientific Symbols and Notations)",
+      "caption": null,
+      "body": "5. এককের সংকেত লেখা হয় সোজা অক্ষরে। যেমন—মিটারের জন্য m, সেকেন্ডের জন্য s ইত্যাদি। তবে রাশির সংকেত লেখা হয় italic বা বাঁকা অক্ষরে। যেমন—ভরের জন্য $m$, বেগের জন্য $v$ ইত্যাদি।",
+      "formulas": [
+        "m",
+        "v"
+      ],
+      "pdfPageStart": 24,
+      "pdfPageEnd": 24,
+      "printedPageStart": 19,
+      "printedPageEnd": 19,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p033",
+      "kind": "text",
+      "section": "১.৫.৪ বৈজ্ঞানিক প্রতীক ও সংকেত (Scientific Symbols and Notations)",
+      "caption": null,
+      "body": "6. এককের সংকেত ছোট হাতের অক্ষরে লেখা হয়। যেমন—cm, s, mol ইত্যাদি। তবে যেগুলো কোনো বিজ্ঞানীর নাম থেকে নেওয়া হয়েছে, সেখানে বড় হাতের অক্ষর (নিউটনের নাম অনুসারে N) হবে। একাধিক অক্ষর হলে শুধু প্রথমটি বড় হাতের অক্ষর হবে (প্যাস্কেলের নামানুসারে গৃহীত একক Pa)।",
+      "formulas": [],
+      "pdfPageStart": 24,
+      "pdfPageEnd": 24,
+      "printedPageStart": 19,
+      "printedPageEnd": 19,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p034",
+      "kind": "text",
+      "section": "১.৫.৪ বৈজ্ঞানিক প্রতীক ও সংকেত (Scientific Symbols and Notations)",
+      "caption": null,
+      "body": "7. এককের উপসর্গ (k, G, M) এককের (m, W, Hz) সাথে কোনো ফাঁক ছাড়া যুক্ত হবে। যেমন—km, GW, MHz.",
+      "formulas": [],
+      "pdfPageStart": 24,
+      "pdfPageEnd": 24,
+      "printedPageStart": 19,
+      "printedPageEnd": 19,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p035",
+      "kind": "text",
+      "section": "১.৫.৪ বৈজ্ঞানিক প্রতীক ও সংকেত (Scientific Symbols and Notations)",
+      "caption": null,
+      "body": "8. কিলো ($10^3$) থেকে সব বড় উপসর্গ বড় হাতের অক্ষর হবে (M, G, T)।",
+      "formulas": [
+        "10^3"
+      ],
+      "pdfPageStart": 24,
+      "pdfPageEnd": 24,
+      "printedPageStart": 19,
+      "printedPageEnd": 19,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p036",
+      "kind": "text",
+      "section": "১.৫.৪ বৈজ্ঞানিক প্রতীক ও সংকেত (Scientific Symbols and Notations)",
+      "caption": null,
+      "body": "9. এককের সংকেতগুলো কখনো বহুবচন হবে না (25 kgs নয়, সব সময় 25 kg)।",
+      "formulas": [],
+      "pdfPageStart": 24,
+      "pdfPageEnd": 24,
+      "printedPageStart": 19,
+      "printedPageEnd": 19,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c01-t1.5-p037",
+      "kind": "text",
+      "section": "১.৫.৪ বৈজ্ঞানিক প্রতীক ও সংকেত (Scientific Symbols and Notations)",
+      "caption": null,
+      "body": "10. কোনো সংখ্যা বা যৌগিক একক এক লাইনে লেখার চেষ্টা করতে হবে। খুব প্রয়োজন হলে সংখ্যা এবং এককের মাঝখানে line break দেওয়া যেতে পারে।",
+      "formulas": [],
+      "pdfPageStart": 24,
+      "pdfPageEnd": 24,
+      "printedPageStart": 19,
+      "printedPageEnd": 19,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    }
+  ]
+}

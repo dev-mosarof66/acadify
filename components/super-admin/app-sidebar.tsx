@@ -4,6 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import {
+  BookOpenText,
   Building2,
   CreditCard,
   Inbox,
@@ -37,6 +38,7 @@ const MAIN_NAV = [
   { title: "Billing", href: "/admin/billing", icon: CreditCard },
   { title: "Plans & Pricing", href: "/admin/plans", icon: Package },
   { title: "FAQs", href: "/admin/faqs", icon: MessageCircleQuestion },
+  { title: "Knowledge Base", href: "/admin/knowledge-base", icon: BookOpenText },
   { title: "SMS Gateway", href: "/admin/sms", icon: MessageSquareText },
   { title: "Support Tickets", href: "/admin/support", icon: LifeBuoy },
   { title: "Platform Settings", href: "/admin/settings", icon: Settings },
