@@ -80,3 +80,31 @@ test("finds several chapters in one book, in Bangla and English, and ignores pag
   assert.deepEqual(en.map((c) => [c.number, c.title]), [[1, "Physical Quantities"], [2, "Motion"]]);
   assert.deepEqual(en[1].topics.map((t) => t.key), ["2.0", "2.1"]);
 });
+
+test("when the chapter is known, a misread opener heading still starts it", () => {
+  // "ত্রয়োদশ অধ্যায়" came back as "অয়োদশ অধ্যায়"
+  const [ch, ...rest] = buildBookTree(
+    [
+      page(351, "## অয়োদশ অধ্যায়\n\n### তেজস্ক্রিয়তা ও ইলেকট্রনিকস\n\nভূমিকা।"),
+      page(353, "## ১৩.১ তেজস্ক্রিয়তা (Radioactivity)\n\nলেখা।"),
+    ],
+    { expect: { number: 13, title: "পরিকল্পনার নাম" } }
+  );
+  assert.equal(rest.length, 0);
+  assert.equal(ch.number, 13);
+  assert.equal(ch.title, "তেজস্ক্রিয়তা ও ইলেকট্রনিকস");
+  assert.equal(ch.pdfPageStart, 351);
+  assert.deepEqual(ch.topics.map((t) => t.key), ["13.0", "13.1"]);
+});
+
+test("when the chapter is known but no opener heading exists, the pages still become that chapter", () => {
+  const [ch] = buildBookTree([page(40, "## ২.১ প্রথম বিষয়\n\nলেখা।")], { expect: { number: 2, title: "গতি" } });
+  assert.equal(ch.title, "গতি");
+  assert.deepEqual(ch.topics.map((t) => t.key), ["2.0", "2.1"]);
+});
+
+test("a heading for a different chapter number inside the pages does not start a new chapter", () => {
+  const found = buildBookTree([page(10, "## তৃতীয় অধ্যায়\n\n### শিরোনাম\n\nলেখা।\n\n## দ্বিতীয় অধ্যায়\n\nরেফারেন্স।")], { expect: { number: 3, title: "বল" } });
+  assert.equal(found.length, 1);
+  assert.equal(found[0].number, 3);
+});

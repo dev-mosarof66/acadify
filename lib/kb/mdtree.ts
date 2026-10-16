@@ -79,6 +79,9 @@ function chapterOpener(text: string): { number: number; title: string } | null {
   return null;
 }
 
+// "<one word> অধ্যায়" with nothing else: how a chapter opener looks when the number word is misread
+const LOOSE_OPENER = /^\S{2,}\s+অধ্যায়$/;
+
 type Mode = "text" | "objective" | "activity" | "example" | "exercise";
 
 // Headings that change what the following blocks are (not new sections).
@@ -142,7 +145,7 @@ export function pageBlocks(markdown: string): Block[] {
  * Builds every chapter found in `pages` (in page order). Pages before the first chapter opener
  * (cover, contents) are ignored.
  */
-export function buildBookTree(pages: PageMarkdown[], opts: { keepEmpty?: boolean } = {}): ChapterDraft[] {
+export function buildBookTree(pages: PageMarkdown[], opts: { keepEmpty?: boolean; expect?: { number: number; title: string } } = {}): ChapterDraft[] {
   const chapters: ChapterDraft[] = [];
   let chapter: ChapterDraft | null = null;
   let topic: TopicDraft | null = null;
@@ -162,6 +165,16 @@ export function buildBookTree(pages: PageMarkdown[], opts: { keepEmpty?: boolean
     section = null;
   };
 
+  // When the caller knows which chapter these pages are, start it now so content is kept even if no opener heading is found
+  let synthetic = false;
+  if (opts.expect) {
+    const start = pages[0]?.number ?? 0;
+    chapter = { number: opts.expect.number, title: opts.expect.title, englishTitle: null, pdfPageStart: start, pdfPageEnd: start, topics: [] };
+    chapters.push(chapter);
+    newTopic(chapter, `${opts.expect.number}.0`, "ভূমিকা ও শিখনফল");
+    synthetic = true;
+  }
+
   for (const page of pages) {
     let first = true;
     for (const b of pageBlocks(page.markdown)) {
@@ -170,7 +183,25 @@ export function buildBookTree(pages: PageMarkdown[], opts: { keepEmpty?: boolean
         first = false;
         const text = b.text;
 
-        const opener = chapterOpener(text);
+        let opener = chapterOpener(text);
+        if (opts.expect) {
+          // We cut this chapter out ourselves, so its opener is whichever "<word> অধ্যায়" heading comes first,
+          // even if the parser misread the number word ("ত্রয়োদশ" came back as "অয়োদশ")
+          if (opener && opener.number !== opts.expect.number) opener = null;
+          if (!opener && synthetic && LOOSE_OPENER.test(text)) opener = { number: opts.expect.number, title: "" };
+        }
+        if (opener && synthetic && chapter) {
+          // the chapter was created up front; this heading is its real start
+          synthetic = false;
+          chapter.pdfPageStart = page.number;
+          chapter.title = opener.title;
+          seq = 0;
+          caption = null;
+          mode = "text";
+          section = null;
+          expectTitle = !opener.title;
+          continue;
+        }
         if (opener) {
           chapter = { number: opener.number, title: opener.title, englishTitle: null, pdfPageStart: page.number, pdfPageEnd: page.number, topics: [] };
           chapters.push(chapter);

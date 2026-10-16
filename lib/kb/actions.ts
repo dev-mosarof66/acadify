@@ -2,27 +2,39 @@
 
 import { assertSuperAdmin } from "@/lib/auth/session";
 import { readKbChapter, type ChapterView } from "./export";
-import { deleteJob, getJob, toJobView, updateJob, type JobView } from "./jobs";
-import { advanceJob, startAll, startChapter, startPlan, structureChapter } from "./process";
+import { deleteJob, getJob, toJobView, type JobView } from "./jobs";
+import { advanceJob, queueChapters, startPlan, structureChapter, unqueueChapters } from "./process";
 
 type Result = { job?: JobView; error?: string };
 
-/** Parses one chapter. This is the step that uses LlamaParse credits. */
-export async function startKbChapter(jobId: string, number: number): Promise<Result> {
+/**
+ * Queues chapters for parsing and returns at once; the background worker does the rest, so the page
+ * can be closed. Parsing uses LlamaParse credits.
+ */
+export async function queueKbChapters(jobId: string, numbers: number[]): Promise<Result> {
   await assertSuperAdmin();
   const job = await getJob(jobId);
   if (!job) return { error: "Job not found." };
-  if (!job.chapters.some((c) => c.number === number)) return { error: "No such chapter." };
-  return { job: toJobView(await startChapter(job.id, number)) };
+  const known = new Set(job.chapters.map((c) => c.number));
+  if (!numbers.length || !numbers.every((n) => known.has(n))) return { error: "No such chapter." };
+  return { job: toJobView(await queueChapters(job.id, numbers)) };
 }
 
-/** Parses every chapter that isn't done, a couple at a time. */
-export async function startAllKbChapters(jobId: string): Promise<Result> {
+/** Queues every chapter that isn't done or already running. */
+export async function queueAllKbChapters(jobId: string): Promise<Result> {
   await assertSuperAdmin();
   const job = await getJob(jobId);
   if (!job) return { error: "Job not found." };
-  const next = await startAll(job.id);
-  return next ? { job: toJobView(next) } : { error: "Job not found." };
+  const todo = job.chapters.filter((c) => c.status === "pending" || c.status === "failed").map((c) => c.number);
+  return { job: toJobView(await queueChapters(job.id, todo)) };
+}
+
+/** Takes chapters that are still waiting out of the queue. Ones already with the parser finish. */
+export async function unqueueKbChapters(jobId: string): Promise<Result> {
+  await assertSuperAdmin();
+  const job = await getJob(jobId);
+  if (!job) return { error: "Job not found." };
+  return { job: toJobView(await unqueueChapters(job.id)) };
 }
 
 /** Tries reading the contents page again, e.g. after a failure. */
@@ -33,7 +45,7 @@ export async function retryKbPlan(jobId: string): Promise<Result> {
   return { job: toJobView(await startPlan(job.id)) };
 }
 
-/** Called every few seconds while anything is running; cheap when there is nothing new. */
+/** What the page shows while it is open. The worker moves jobs along on its own; this also nudges it. */
 export async function pollKbJob(jobId: string): Promise<JobView | null> {
   await assertSuperAdmin();
   const job = await advanceJob(jobId);
@@ -46,12 +58,6 @@ export async function rebuildKbChapter(jobId: string, number: number): Promise<R
   const job = await getJob(jobId);
   if (!job) return { error: "Job not found." };
   return { job: toJobView(await structureChapter(job.id, number)) };
-}
-
-/** Stops "parse all" so chapters already running finish but no new ones start. */
-export async function stopKbAutoRun(jobId: string): Promise<Result> {
-  await assertSuperAdmin();
-  return { job: toJobView(await updateJob(jobId, { autoRun: false })) };
 }
 
 /** Removes the upload and the job record. Chapters already written to kb/ are kept. */

@@ -10,7 +10,8 @@ import { FormError } from "@/components/dashboard/form-bits";
 import { ChapterRow } from "@/components/super-admin/kb-chapter";
 import { KbCard } from "@/components/super-admin/kb-card";
 import { Panel, PanelHeader } from "@/components/super-admin/ui";
-import { deleteKbJob, pollKbJob, rebuildKbChapter, retryKbPlan, startAllKbChapters, startKbChapter, stopKbAutoRun } from "@/lib/kb/actions";
+import { deleteKbJob, pollKbJob, queueAllKbChapters, queueKbChapters, rebuildKbChapter, retryKbPlan, unqueueKbChapters } from "@/lib/kb/actions";
+import { needsWork } from "@/lib/kb/queue";
 import type { ChapterPlanView, JobView } from "@/lib/kb/jobs";
 import type { KbBookSummary } from "@/lib/kb/export";
 import { groupBooks, versionLabel } from "@/lib/kb/labels";
@@ -92,13 +93,14 @@ const JOB_STATUS: Record<JobView["status"], { label: string; variant: React.Comp
 
 const CHAPTER_STATUS: Record<ChapterPlanView["status"], { label: string; variant: React.ComponentProps<typeof Badge>["variant"] }> = {
   pending: { label: "Not parsed", variant: "secondary" },
+  queued: { label: "Queued", variant: "secondary" },
   parsing: { label: "Parsing…", variant: "default" },
   done: { label: "Done", variant: "outline" },
   failed: { label: "Failed", variant: "destructive" },
 };
 
-/** A job needs checking on while the contents are being read, a chapter is parsing, or "parse all" has chapters left to start. */
-const isActive = (j: JobView) => j.status === "planning" || j.status === "uploaded" || j.chapters.some((c) => c.status === "parsing") || (j.autoRun && j.chapters.some((c) => c.status === "pending"));
+/** The background worker does the work; the open page just re-reads the job while there is some. */
+const isActive = (j: JobView) => needsWork(j);
 
 function JobCard({ job, onChange, onRemoved }: { job: JobView; onChange: (job: JobView) => void; onRemoved: (id: string) => void }) {
   const router = useRouter();
@@ -116,7 +118,8 @@ function JobCard({ job, onChange, onRemoved }: { job: JobView; onChange: (job: J
 
   const done = job.chapters.filter((c) => c.status === "done").length;
   const parsing = job.chapters.filter((c) => c.status === "parsing").length;
-  const todo = job.chapters.filter((c) => c.status === "pending" || c.status === "failed").length;
+  const queued = job.chapters.filter((c) => c.status === "queued").length;
+  const todo =job.chapters.filter((c) => c.status === "pending" || c.status === "failed").length;
 
   return (
     <div className="grid gap-3 border-b border-border px-5 py-4 last:border-b-0">
@@ -158,19 +161,19 @@ function JobCard({ job, onChange, onRemoved }: { job: JobView; onChange: (job: J
       {job.chapters.length > 0 && (
         <>
           <div className="flex flex-wrap items-center gap-3">
-            {job.autoRun ? (
-              <Button variant="outline" disabled={pending} onClick={() => run(() => stopKbAutoRun(job.id))} className="rounded-xl">
+            <Button disabled={pending || todo === 0} onClick={() => run(() => queueAllKbChapters(job.id))} className="rounded-xl">
+              {pending ? <Loader2 className="animate-spin" /> : <Play />}
+              Parse all {todo} remaining {todo === 1 ? "chapter" : "chapters"}
+            </Button>
+            {queued > 0 && (
+              <Button variant="outline" disabled={pending} onClick={() => run(() => unqueueKbChapters(job.id))} className="rounded-xl">
                 <Square />
-                Stop after the running chapters
-              </Button>
-            ) : (
-              <Button disabled={pending || todo === 0} onClick={() => run(() => startAllKbChapters(job.id))} className="rounded-xl">
-                {pending ? <Loader2 className="animate-spin" /> : <Play />}
-                Parse all {todo} remaining {todo === 1 ? "chapter" : "chapters"}
+                Cancel the {queued} waiting
               </Button>
             )}
             <p className="text-[13px] text-muted-foreground">
-              {done} of {job.chapters.length} done{parsing ? ` · ${parsing} parsing` : ""}. Each chapter is parsed on its own and uses LlamaParse credits per page.
+              {done} of {job.chapters.length} done{parsing ? ` · ${parsing} parsing` : ""}
+              {queued ? ` · ${queued} queued` : ""}. Parsing runs in the background, so you can close this page. Each chapter uses LlamaParse credits per page.
             </p>
           </div>
           <ul className="grid gap-3 text-[13px]">
@@ -194,7 +197,7 @@ function JobCard({ job, onChange, onRemoved }: { job: JobView; onChange: (job: J
                         {CHAPTER_STATUS[c.status].label}
                       </Badge>
                       {(c.status === "pending" || c.status === "failed") && (
-                        <Button size="sm" variant="outline" disabled={pending} onClick={() => run(() => startKbChapter(job.id, c.number))} className="rounded-lg">
+                        <Button size="sm" variant="outline" disabled={pending} onClick={() => run(() => queueKbChapters(job.id, [c.number]))} className="rounded-lg">
                           <Play />
                           {c.status === "failed" ? "Retry" : "Parse"}
                         </Button>

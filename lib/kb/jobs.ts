@@ -14,7 +14,7 @@ import { KB_JOBS_DIR, KB_UPLOADS_DIR } from "./paths";
  * parse each chapter on its own.
  */
 export type JobStatus = "uploaded" | "planning" | "planned" | "failed";
-export type ChapterStatus = "pending" | "parsing" | "done" | "failed";
+export type ChapterStatus = "pending" | "queued" | "parsing" | "done" | "failed";
 
 export interface BookMeta {
   title: string;
@@ -54,8 +54,6 @@ export interface KbJob {
   /** The parse of the contents pages, while planning. */
   planJobId: string | null;
   chapters: ChapterPlan[];
-  /** Parse every pending chapter, a couple at a time, without further clicks. */
-  autoRun: boolean;
   /** Folder (relative to the project) the chapters are written to, once the first one is. */
   outDir: string | null;
   error: string | null;
@@ -85,7 +83,7 @@ type NewJob = Pick<KbJob, "meta" | "fileName" | "sizeBytes" | "sha256" | "pageCo
 
 export async function createJob(input: NewJob, id = randomUUID()) {
   const now = new Date().toISOString();
-  const job: KbJob = { ...input, id, status: "uploaded", planJobId: null, chapters: [], autoRun: false, outDir: null, error: null, createdAt: now, updatedAt: now };
+  const job: KbJob = { ...input, id, status: "uploaded", planJobId: null, chapters: [], outDir: null, error: null, createdAt: now, updatedAt: now };
   await writeJob(job);
   return job;
 }
@@ -139,7 +137,7 @@ export async function deleteJob(id: string) {
 
 /** What the page needs to show a job. Never includes server file paths or the parser's job ids. */
 export type ChapterPlanView = Omit<ChapterPlan, "parseJobId">;
-export type JobView = Pick<KbJob, "id" | "status" | "meta" | "fileName" | "sizeBytes" | "pageCount" | "tier" | "autoRun" | "outDir" | "error" | "createdByName" | "createdAt" | "updatedAt"> & {
+export type JobView = Pick<KbJob, "id" | "status" | "meta" | "fileName" | "sizeBytes" | "pageCount" | "tier" | "outDir" | "error" | "createdByName" | "createdAt" | "updatedAt"> & {
   chapters: ChapterPlanView[];
 };
 
@@ -151,7 +149,6 @@ export const toJobView = (j: KbJob): JobView => ({
   sizeBytes: j.sizeBytes,
   pageCount: j.pageCount,
   tier: j.tier,
-  autoRun: j.autoRun,
   outDir: j.outDir,
   error: j.error,
   createdByName: j.createdByName,
