@@ -140,7 +140,7 @@ export function ChapterRow({ dir, number, title, summary, trailing }: { dir: str
         {trailing && <div className="flex flex-wrap items-center gap-2">{trailing}</div>}
       </div>
       {open && dir && (
-        <div className="rounded-xl border border-border bg-card p-4">
+        <div className="max-h-[70vh] overflow-y-auto overscroll-contain rounded-xl border border-border bg-card p-4">
           {chapter ? <ChapterContent chapter={chapter} dir={dir} /> : failed ? <p className="text-sm text-destructive">Couldn&apos;t read this chapter&apos;s files.</p> : <p className="text-sm text-muted-foreground">Loading…</p>}
         </div>
       )}
