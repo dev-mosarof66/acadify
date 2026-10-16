@@ -13,6 +13,11 @@ const nextConfig: NextConfig = {
   logging: {
     serverFunctions: false,
   },
+  // The knowledge base (acadify_kb/kb) is read from disk at runtime, so ship it with the routes that read it
+  outputFileTracingIncludes: {
+    "/admin/knowledge-base/**": ["./acadify_kb/kb/**/*"],
+    "/api/admin/kb/asset": ["./acadify_kb/kb/**/*"],
+  },
   cacheComponents: true,
   partialPrefetching: true,
   turbopack: {

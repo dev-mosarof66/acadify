@@ -217,7 +217,8 @@ export interface ChapterView {
 
 /** `dir` as listed by readKbSummary, resolved and checked to be inside kb/. */
 export function bookDirInKb(dir: string): string | null {
-  const resolved = path.resolve(process.cwd(), dir);
+  // `dir` is checked against KB_OUT_DIR on the next line, so tell Turbopack not to trace the whole project for this path
+  const resolved = path.resolve(/* turbopackIgnore: true */ process.cwd(), dir);
   return resolved.startsWith(KB_OUT_DIR + path.sep) ? resolved : null;
 }
 
