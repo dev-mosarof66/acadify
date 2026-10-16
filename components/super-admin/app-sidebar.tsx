@@ -33,7 +33,7 @@ import {
 
 type NavItem = { title: string; href: string; icon: React.ElementType; badge?: boolean };
 
-/** Grouped by what the super admin is doing: who the customers are, helping them, and running the platform. */
+/** Grouped by task: the customers and helping them, the money, the public website content, and the platform itself. */
 const NAV_GROUPS: { label?: string; items: NavItem[] }[] = [
   { items: [{ title: "Overview", href: "/admin", icon: LayoutDashboard }] },
   {
@@ -41,14 +41,19 @@ const NAV_GROUPS: { label?: string; items: NavItem[] }[] = [
     items: [
       { title: "Institutes", href: "/admin/institutes", icon: Building2 },
       { title: "Demo Requests", href: "/admin/demo-requests", icon: Inbox, badge: true },
+      { title: "Support Tickets", href: "/admin/support", icon: LifeBuoy },
+    ],
+  },
+  {
+    label: "Revenue",
+    items: [
       { title: "Billing", href: "/admin/billing", icon: CreditCard },
       { title: "Plans & Pricing", href: "/admin/plans", icon: Package },
     ],
   },
   {
-    label: "Support & content",
+    label: "Content",
     items: [
-      { title: "Support Tickets", href: "/admin/support", icon: LifeBuoy },
       { title: "FAQs", href: "/admin/faqs", icon: MessageCircleQuestion },
       { title: "Knowledge Base", href: "/admin/knowledge-base", icon: BookOpenText },
     ],
