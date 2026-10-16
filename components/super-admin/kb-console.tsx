@@ -1,14 +1,14 @@
 "use client";
 
 import * as React from "react";
-import Link from "next/link";
 import { useRouter } from "next/navigation";
-import { ChevronRight, FileUp, Loader2, Play, RefreshCw, Square, Trash2, TriangleAlert } from "lucide-react";
+import { FileUp, Loader2, Play, RefreshCw, Square, Trash2, TriangleAlert } from "lucide-react";
 
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
 import { FormError } from "@/components/dashboard/form-bits";
 import { ChapterRow } from "@/components/super-admin/kb-chapter";
+import { KbCard } from "@/components/super-admin/kb-card";
 import { Panel, PanelHeader } from "@/components/super-admin/ui";
 import { deleteKbJob, pollKbJob, rebuildKbChapter, retryKbPlan, startAllKbChapters, startKbChapter, stopKbAutoRun } from "@/lib/kb/actions";
 import type { ChapterPlanView, JobView } from "@/lib/kb/jobs";
@@ -290,32 +290,36 @@ export function KbConsole({ initialJobs, books, apiKeySet, canWrite }: { initial
         ))}
       </Panel>
 
-      <Panel>
-        <PanelHeader title="Knowledge base" description="What is in the kb/ folder right now. This is what ships with the app." />
+      <section className="grid gap-4">
+        <div>
+          <h2 className="text-[15px] font-extrabold tracking-tight">Knowledge base</h2>
+          <p className="mt-0.5 text-[13px] text-muted-foreground">What is in the kb/ folder right now. This is what ships with the app.</p>
+        </div>
         {books.length === 0 ? (
-          <p className="px-5 py-6 text-sm text-muted-foreground">Nothing exported yet.</p>
+          <Panel>
+            <p className="px-5 py-6 text-sm text-muted-foreground">Nothing exported yet.</p>
+          </Panel>
         ) : (
-          <ul>
+          <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
             {groupBooks(books).map((g) => {
               const chapters = g.books.reduce((n, b) => n + b.chapters.length, 0);
               const review = g.books.reduce((n, b) => n + b.chapters.reduce((m, c) => m + c.needsReview, 0), 0);
               return (
-                <li key={g.key} className="border-b border-border last:border-b-0">
-                  <Link href={`/admin/knowledge-base/versions/${g.key}`} className="flex items-center justify-between gap-3 px-5 py-4 transition-colors hover:bg-muted/50">
-                    <div className="min-w-0">
-                      <p className="text-[15px] font-bold">{versionLabel(g)}</p>
-                      <p className="text-[13px] text-muted-foreground">
-                        {g.books.length} {g.books.length === 1 ? "subject" : "subjects"} · {chapters} {chapters === 1 ? "chapter" : "chapters"} · {review} to review
-                      </p>
-                    </div>
-                    <ChevronRight className="size-4 shrink-0 text-muted-foreground" />
-                  </Link>
-                </li>
+                <KbCard
+                  key={g.key}
+                  href={`/admin/knowledge-base/versions/${g.key}`}
+                  title={versionLabel(g)}
+                  stats={[
+                    { label: `${g.books.length} ${g.books.length === 1 ? "subject" : "subjects"}` },
+                    { label: `${chapters} ${chapters === 1 ? "chapter" : "chapters"}` },
+                    ...(review ? [{ label: `${review} to review`, warn: true }] : []),
+                  ]}
+                />
               );
             })}
-          </ul>
+          </div>
         )}
-      </Panel>
+      </section>
     </div>
   );
 }
