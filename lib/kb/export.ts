@@ -3,6 +3,7 @@ import "server-only";
 import { access, mkdir, readFile, readdir, rm, writeFile } from "node:fs/promises";
 import path from "node:path";
 
+import { buildAiReady, classify, type AiDecision, type AiPassage, type AiReport, type Curation } from "./aiready";
 import type { PlacedImage } from "./images";
 import type { KbJob } from "./jobs";
 import type { ChapterDraft } from "./mdtree";
@@ -188,23 +189,30 @@ export async function readKbSummary(): Promise<KbBookSummary[]> {
   return books;
 }
 
+export interface ChapterViewPassage {
+  id: string;
+  kind: string;
+  section: string | null;
+  caption: string | null;
+  /** The text as it stands now: the reviewer's edit when there is one. */
+  body: string;
+  image: string | null;
+  printedPageStart: number;
+  reviewReasons: string[];
+  /** Whether this passage goes to the AI, and why. */
+  ai: AiDecision;
+  /** A reviewer changed the text. */
+  edited: boolean;
+  /** A reviewer decided about this passage. */
+  reviewed: "kept" | "excluded" | null;
+}
+
 export interface ChapterView {
   number: number;
   title: string;
-  topics: {
-    key: string;
-    title: string;
-    passages: {
-      id: string;
-      kind: string;
-      section: string | null;
-      caption: string | null;
-      body: string;
-      image: string | null;
-      printedPageStart: number;
-      reviewReasons: string[];
-    }[];
-  }[];
+  topics: { key: string; title: string; passages: ChapterViewPassage[] }[];
+  /** What the AI-ready copy of this chapter holds. */
+  ai: AiReport;
 }
 
 /** `dir` as listed by readKbSummary, resolved and checked to be inside kb/. */
@@ -213,8 +221,25 @@ export function bookDirInKb(dir: string): string | null {
   return resolved.startsWith(KB_OUT_DIR + path.sep) ? resolved : null;
 }
 
-/** The extracted content of one exported chapter, read back from its files for display. */
-export async function readKbChapter(dir: string, number: number): Promise<ChapterView | null> {
+type RawPassage = AiPassage & { image?: string | null };
+interface LoadedChapter {
+  chDir: string;
+  number: number;
+  title: string;
+  topics: { key: string; title: string; passages: RawPassage[] }[];
+  curation: Record<string, Curation>;
+}
+
+const curationFile = (chDir: string) => path.join(chDir, "curation.json");
+
+async function readCuration(chDir: string): Promise<Record<string, Curation>> {
+  return readFile(curationFile(chDir), "utf8").then((t) => JSON.parse(t) as Record<string, Curation>).catch(() => ({}));
+}
+
+/** Reviewer decisions only count while the parsed text is the text they were made against. */
+const currentCuration = (curation: Record<string, Curation>, p: RawPassage) => (curation[p.id]?.original === p.body ? curation[p.id] : undefined);
+
+async function loadChapter(dir: string, number: number): Promise<LoadedChapter | null> {
   const bookDir = bookDirInKb(dir);
   if (!bookDir || !Number.isInteger(number) || number < 1 || number > 99) return null;
 
@@ -222,7 +247,7 @@ export async function readKbChapter(dir: string, number: number): Promise<Chapte
   const chapter = await readFile(path.join(chDir, "chapter.json"), "utf8").then(JSON.parse).catch(() => null);
   if (!chapter) return null;
 
-  const topics: ChapterView["topics"] = [];
+  const topics: LoadedChapter["topics"] = [];
   for (const t of chapter.topics as { key: string; file: string }[]) {
     // topic files are named by key; never trust a path read from JSON
     const topic = await readFile(path.join(chDir, "topics", path.basename(t.file)), "utf8").then(JSON.parse).catch(() => null);
@@ -230,19 +255,85 @@ export async function readKbChapter(dir: string, number: number): Promise<Chapte
     topics.push({
       key: topic.key,
       title: topic.title,
-      passages: topic.passages.map((p: ChapterView["topics"][number]["passages"][number]) => ({
-        id: p.id,
-        kind: p.kind,
-        section: p.section ?? null,
-        caption: p.caption ?? null,
-        body: p.body,
-        image: p.image ?? null,
-        printedPageStart: p.printedPageStart,
-        reviewReasons: p.reviewReasons ?? [],
-      })),
+      passages: topic.passages.map((p: RawPassage & { reviewReasons?: string[] }) => ({ ...p, reviewReasons: p.reviewReasons ?? [], section: p.section ?? null, caption: p.caption ?? null, image: p.image ?? null })),
     });
   }
-  return { number: chapter.number, title: chapter.title, topics };
+  return { chDir, number: chapter.number, title: chapter.title, topics, curation: await readCuration(chDir) };
+}
+
+function viewOf(p: RawPassage, curation: Record<string, Curation>): ChapterViewPassage {
+  const cur = currentCuration(curation, p);
+  return {
+    id: p.id,
+    kind: p.kind,
+    section: p.section,
+    caption: p.caption,
+    body: cur?.body ?? p.body,
+    image: p.image ?? null,
+    printedPageStart: p.printedPageStart,
+    reviewReasons: p.reviewReasons,
+    ai: classify(p, cur),
+    edited: cur?.body !== undefined,
+    reviewed: cur?.status ?? null,
+  };
+}
+
+const aiInput = (c: LoadedChapter) => ({
+  number: c.number,
+  title: c.title,
+  topics: c.topics.map((t) => ({ key: t.key, title: t.title, passages: t.passages.map((p) => ({ ...p, curation: currentCuration(c.curation, p) })) })),
+});
+
+/** The extracted content of one exported chapter, read back from its files for display. */
+export async function readKbChapter(dir: string, number: number): Promise<ChapterView | null> {
+  const c = await loadChapter(dir, number);
+  if (!c) return null;
+  return {
+    number: c.number,
+    title: c.title,
+    topics: c.topics.map((t) => ({ key: t.key, title: t.title, passages: t.passages.map((p) => viewOf(p, c.curation)) })),
+    ai: buildAiReady(aiInput(c)).report,
+  };
+}
+
+/**
+ * Writes the AI-ready copy of a chapter next to it: ai/passages.jsonl (what may be fed to an AI),
+ * ai/exercises.jsonl (questions, kept apart) and ai/report.json. Rebuilt after every export and review change.
+ */
+export async function writeAiReady(dir: string, number: number): Promise<AiReport | null> {
+  const c = await loadChapter(dir, number);
+  if (!c) return null;
+  const { records, exercises, report } = buildAiReady(aiInput(c));
+  const out = path.join(c.chDir, "ai");
+  await mkdir(out, { recursive: true });
+  const lines = (rows: unknown[]) => rows.map((r) => JSON.stringify(r)).join("\n") + (rows.length ? "\n" : "");
+  await writeFile(path.join(out, "passages.jsonl"), lines(records), "utf8");
+  await writeFile(path.join(out, "exercises.jsonl"), lines(exercises), "utf8");
+  await writeJson(path.join(out, "report.json"), report);
+  return report;
+}
+
+export type CurateAction = { type: "keep" } | { type: "exclude" } | { type: "edit"; body: string } | { type: "reset" };
+
+/** Records a reviewer's decision about one passage, then rebuilds the AI-ready files. */
+export async function curatePassage(dir: string, number: number, passageId: string, action: CurateAction): Promise<{ passage: ChapterViewPassage; ai: AiReport } | { error: string }> {
+  const c = await loadChapter(dir, number);
+  if (!c) return { error: "Chapter not found." };
+  const raw = c.topics.flatMap((t) => t.passages).find((p) => p.id === passageId);
+  if (!raw) return { error: "Passage not found." };
+
+  if (action.type === "reset") delete c.curation[raw.id];
+  else if (action.type === "keep") c.curation[raw.id] = { status: "kept", original: raw.body };
+  else if (action.type === "exclude") c.curation[raw.id] = { status: "excluded", original: raw.body };
+  else {
+    const body = action.body.replace(/\r/g, "").trim();
+    if (!body || body.length > 20000) return { error: "The text must be between 1 and 20,000 characters." };
+    // Saving the text unchanged is the same as keeping it
+    c.curation[raw.id] = body === raw.body ? { status: "kept", original: raw.body } : { status: "kept", body, original: raw.body };
+  }
+  await writeJson(curationFile(c.chDir), c.curation);
+  const ai = (await writeAiReady(dir, number)) ?? buildAiReady(aiInput(c)).report;
+  return { passage: viewOf(raw, c.curation), ai };
 }
 
 const IMAGE_TYPES: Record<string, string> = { ".jpg": "image/jpeg", ".jpeg": "image/jpeg", ".png": "image/png", ".webp": "image/webp", ".gif": "image/gif" };

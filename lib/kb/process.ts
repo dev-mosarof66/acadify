@@ -4,7 +4,7 @@ import { createReadStream } from "node:fs";
 import { mkdir, readFile, rm, writeFile } from "node:fs/promises";
 import LlamaCloud from "@llamaindex/llama-cloud";
 
-import { exportChapter } from "./export";
+import { exportChapter, writeAiReady } from "./export";
 import { attachImages, type ParsedImage } from "./images";
 import { cutPath, getJob, pagesPath, updateChapter, updateJob, uploadPath, type ChapterPlan, type KbJob } from "./jobs";
 import { buildBookTree, type PageMarkdown } from "./mdtree";
@@ -213,6 +213,7 @@ export async function structureChapter(jobId: string, number: number, credits?: 
     if (plan.titleEdited || !draft.title) draft.title = plan.title;
     const placed = attachImages(draft, saved.images ?? [], plan.pageFrom);
     const result = await exportChapter(job, draft, placed);
+    await writeAiReady(result.outDir, number);
     await updateJob(job.id, { outDir: result.outDir });
     return await updateChapter(job.id, number, {
       status: "done",

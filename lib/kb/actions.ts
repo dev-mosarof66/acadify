@@ -1,7 +1,8 @@
 "use server";
 
 import { assertSuperAdmin } from "@/lib/auth/session";
-import { readKbChapter, type ChapterView } from "./export";
+import { curatePassage, readKbChapter, type ChapterView, type ChapterViewPassage, type CurateAction } from "./export";
+import type { AiReport } from "./aiready";
 import { deleteJob, getJob, toJobView, type JobView } from "./jobs";
 import { advanceJob, editChapter, queueChapters, startPlan, structureChapter, unqueueChapters } from "./process";
 
@@ -78,4 +79,12 @@ export async function deleteKbJob(jobId: string): Promise<{ ok: boolean }> {
 export async function readChapter(dir: string, number: number): Promise<ChapterView | null> {
   await assertSuperAdmin();
   return readKbChapter(dir, number);
+}
+
+/** A reviewer keeps, leaves out, edits or resets one passage; the chapter's AI-ready files are rebuilt. */
+export async function curateKbPassage(dir: string, number: number, passageId: string, action: CurateAction): Promise<{ passage: ChapterViewPassage; ai: AiReport } | { error: string }> {
+  await assertSuperAdmin();
+  const ok = (action.type === "keep" || action.type === "exclude" || action.type === "reset") || (action.type === "edit" && typeof action.body === "string");
+  if (!ok) return { error: "Unknown action." };
+  return curatePassage(dir, number, String(passageId), action.type === "edit" ? { type: "edit", body: action.body } : { type: action.type });
 }
