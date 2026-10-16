@@ -31,17 +31,35 @@ import {
   SidebarRail,
 } from "@/components/ui/sidebar";
 
-const MAIN_NAV = [
-  { title: "Overview", href: "/admin", icon: LayoutDashboard },
-  { title: "Institutes", href: "/admin/institutes", icon: Building2 },
-  { title: "Demo Requests", href: "/admin/demo-requests", icon: Inbox, badge: true },
-  { title: "Billing", href: "/admin/billing", icon: CreditCard },
-  { title: "Plans & Pricing", href: "/admin/plans", icon: Package },
-  { title: "FAQs", href: "/admin/faqs", icon: MessageCircleQuestion },
-  { title: "Knowledge Base", href: "/admin/knowledge-base", icon: BookOpenText },
-  { title: "SMS Gateway", href: "/admin/sms", icon: MessageSquareText },
-  { title: "Support Tickets", href: "/admin/support", icon: LifeBuoy },
-  { title: "Platform Settings", href: "/admin/settings", icon: Settings },
+type NavItem = { title: string; href: string; icon: React.ElementType; badge?: boolean };
+
+/** Grouped by what the super admin is doing: who the customers are, helping them, and running the platform. */
+const NAV_GROUPS: { label?: string; items: NavItem[] }[] = [
+  { items: [{ title: "Overview", href: "/admin", icon: LayoutDashboard }] },
+  {
+    label: "Customers",
+    items: [
+      { title: "Institutes", href: "/admin/institutes", icon: Building2 },
+      { title: "Demo Requests", href: "/admin/demo-requests", icon: Inbox, badge: true },
+      { title: "Billing", href: "/admin/billing", icon: CreditCard },
+      { title: "Plans & Pricing", href: "/admin/plans", icon: Package },
+    ],
+  },
+  {
+    label: "Support & content",
+    items: [
+      { title: "Support Tickets", href: "/admin/support", icon: LifeBuoy },
+      { title: "FAQs", href: "/admin/faqs", icon: MessageCircleQuestion },
+      { title: "Knowledge Base", href: "/admin/knowledge-base", icon: BookOpenText },
+    ],
+  },
+  {
+    label: "Platform",
+    items: [
+      { title: "SMS Gateway", href: "/admin/sms", icon: MessageSquareText },
+      { title: "Platform Settings", href: "/admin/settings", icon: Settings },
+    ],
+  },
 ];
 
 /** `newDemosBadge` is rendered by the server layout (it reads the database inside Suspense). */
@@ -69,12 +87,12 @@ export function AppSidebar({ newDemosBadge }: { newDemosBadge?: React.ReactNode 
       </SidebarHeader>
 
       <SidebarContent>
-        <SidebarGroup>
-          <SidebarGroupLabel>Platform</SidebarGroupLabel>
-          <SidebarGroupContent>
-            <SidebarMenu>
-              {MAIN_NAV.map((item) => {
-                return (
+        {NAV_GROUPS.map((group, i) => (
+          <SidebarGroup key={group.label ?? i}>
+            {group.label && <SidebarGroupLabel>{group.label}</SidebarGroupLabel>}
+            <SidebarGroupContent>
+              <SidebarMenu>
+                {group.items.map((item) => (
                   <SidebarMenuItem key={item.href}>
                     <SidebarMenuButton
                       render={<Link href={item.href} />}
@@ -85,13 +103,13 @@ export function AppSidebar({ newDemosBadge }: { newDemosBadge?: React.ReactNode 
                       <item.icon />
                       <span>{item.title}</span>
                     </SidebarMenuButton>
-                    {"badge" in item && item.badge && newDemosBadge}
+                    {item.badge && newDemosBadge}
                   </SidebarMenuItem>
-                );
-              })}
-            </SidebarMenu>
-          </SidebarGroupContent>
-        </SidebarGroup>
+                ))}
+              </SidebarMenu>
+            </SidebarGroupContent>
+          </SidebarGroup>
+        ))}
       </SidebarContent>
 
       <SidebarRail />
