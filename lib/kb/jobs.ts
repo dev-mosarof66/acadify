@@ -16,9 +16,10 @@ export interface BookMeta {
   title: string;
   /** Lower-case folder key, e.g. "physics" or "higher-math". */
   subject: string;
-  /** Class band as printed, e.g. "9-10". */
+  /** Class band as printed, e.g. "9-10"; empty when not known. */
   classLevel: string;
-  language: "bn" | "en";
+  /** "auto" is resolved from the parsed text when the chapters are written. */
+  language: "bn" | "en" | "auto";
   editionYear: number | null;
   /** Printed page number = PDF page - this. Used for citations. */
   printedPageOffset: number;

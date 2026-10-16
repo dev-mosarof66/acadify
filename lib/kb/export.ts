@@ -21,7 +21,7 @@ const writeJson = (file: string, value: unknown) => writeFile(file, JSON.stringi
 export async function exportChapters(job: KbJob, chapters: ChapterDraft[]): Promise<JobResult> {
   const { meta } = job;
   const base = bookOutDir(meta.subject, meta.classLevel, meta.language);
-  const bookId = `${meta.subject}-${meta.classLevel}-${meta.language}`;
+  const bookId = [meta.subject, meta.classLevel, meta.language].filter(Boolean).join("-");
   const offset = meta.printedPageOffset;
   await mkdir(path.join(base, "chapters"), { recursive: true });
 
@@ -142,21 +142,22 @@ export async function readKbSummary(): Promise<KbBookSummary[]> {
   const books: KbBookSummary[] = [];
   const ls = async (dir: string) => (await readdir(dir, { withFileTypes: true }).catch(() => [])).filter((e) => e.isDirectory()).map((e) => e.name);
 
-  for (const subject of await ls(KB_OUT_DIR)) {
-    for (const cls of await ls(path.join(KB_OUT_DIR, subject))) {
-      for (const language of await ls(path.join(KB_OUT_DIR, subject, cls))) {
-        const dir = path.join(KB_OUT_DIR, subject, cls, language);
-        const book = await readFile(path.join(dir, "textbook.json"), "utf8").then(JSON.parse).catch(() => null);
-        if (!book) continue;
-        const chapters: KbBookSummary["chapters"] = [];
-        for (const ch of await ls(path.join(dir, "chapters"))) {
-          const c = await readFile(path.join(dir, "chapters", ch, "chapter.json"), "utf8").then(JSON.parse).catch(() => null);
-          if (c) chapters.push({ number: c.number, title: c.title, passages: c.stats.passages, needsReview: c.stats.needsReview });
-        }
-        chapters.sort((a, b) => a.number - b.number);
-        books.push({ id: book.id, title: book.title ?? book.id, subject, classLevel: book.classLevel, language, dir: path.relative(process.cwd(), dir).replaceAll("\\", "/"), chapters });
+  // A book folder is any folder (up to three levels under kb/) that holds a textbook.json:
+  // kb/<subject>/<lang>/ or kb/<subject>/class-<level>/<lang>/
+  const find = async (dir: string, depth: number): Promise<void> => {
+    const book = await readFile(path.join(dir, "textbook.json"), "utf8").then(JSON.parse).catch(() => null);
+    if (book) {
+      const chapters: KbBookSummary["chapters"] = [];
+      for (const ch of await ls(path.join(dir, "chapters"))) {
+        const c = await readFile(path.join(dir, "chapters", ch, "chapter.json"), "utf8").then(JSON.parse).catch(() => null);
+        if (c) chapters.push({ number: c.number, title: c.title, passages: c.stats.passages, needsReview: c.stats.needsReview });
       }
+      chapters.sort((x, y) => x.number - y.number);
+      books.push({ id: book.id, title: book.title ?? book.id, subject: book.subject, classLevel: book.classLevel ?? "", language: book.language, dir: path.relative(process.cwd(), dir).replaceAll("\\", "/"), chapters });
+      return;
     }
-  }
+    if (depth > 0) for (const name of await ls(dir)) await find(path.join(dir, name), depth - 1);
+  };
+  await find(KB_OUT_DIR, 3);
   return books;
 }

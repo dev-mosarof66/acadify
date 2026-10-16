@@ -5,6 +5,7 @@ import { PDFDocument } from "pdf-lib";
 
 import { assertSuperAdmin } from "@/lib/auth/session";
 import { createJob, uploadPath } from "@/lib/kb/jobs";
+import { guessMeta } from "@/lib/kb/meta";
 import { KB_UPLOADS_DIR } from "@/lib/kb/paths";
 
 export const maxDuration = 300;
@@ -36,18 +37,20 @@ export async function POST(request: Request) {
   if (!(file instanceof File) || file.size === 0) return fail("Choose a PDF file.");
   if (file.size > MAX_BYTES) return fail("The PDF is larger than 300 MB.", 413);
 
+  // Only the PDF is required. Anything left blank is worked out from the file name, and the language from the parsed text.
+  const guess = guessMeta(file.name);
   const text = (name: string) => String(form.get(name) ?? "").trim();
-  const title = text("title");
-  const subject = text("subject").toLowerCase();
-  const classLevel = text("classLevel");
-  const language = text("language");
+  const title = text("title") || guess.title;
+  const subject = (text("subject") || guess.subject).toLowerCase();
+  const classLevel = form.has("classLevel") && text("classLevel") === "" ? guess.classLevel : text("classLevel") || guess.classLevel;
+  const language = text("language") && text("language") !== "auto" ? text("language") : guess.language;
   const editionYear = text("editionYear") ? Number(text("editionYear")) : null;
   const printedPageOffset = text("printedPageOffset") ? Number(text("printedPageOffset")) : 0;
 
-  if (title.length < 3 || title.length > 200) return fail("Give the book a title (3 to 200 characters).");
+  if (title.length < 3 || title.length > 200) return fail("The title must be 3 to 200 characters.");
   if (!SLUG.test(subject) || subject.length > 40) return fail("Subject must be a short key like physics or higher-math (letters, digits, hyphens).");
-  if (!CLASS_LEVEL.test(classLevel)) return fail("Class must look like 9-10 or 6.");
-  if (language !== "bn" && language !== "en") return fail("Choose Bangla or English.");
+  if (classLevel && !CLASS_LEVEL.test(classLevel)) return fail("Class must look like 9-10 or 6, or be left blank.");
+  if (language !== "bn" && language !== "en" && language !== "auto") return fail("Language must be Bangla, English or automatic.");
   if (editionYear !== null && (!Number.isInteger(editionYear) || editionYear < 2000 || editionYear > 2100)) return fail("Edition year looks wrong.");
   if (!Number.isInteger(printedPageOffset) || printedPageOffset < 0 || printedPageOffset > 500) return fail("Page offset must be a whole number from 0 to 500.");
 

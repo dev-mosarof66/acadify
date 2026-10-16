@@ -7,6 +7,7 @@ import LlamaCloud from "@llamaindex/llama-cloud";
 import { exportChapters } from "./export";
 import { getJob, pagesPath, updateJob, uploadPath, type KbJob } from "./jobs";
 import { buildBookTree, type PageMarkdown } from "./mdtree";
+import { detectLanguage } from "./meta";
 
 /**
  * The processing steps behind the dashboard buttons. Parsing a whole book takes minutes, so nothing
@@ -21,7 +22,7 @@ function client() {
   return new LlamaCloud({ apiKey });
 }
 
-const langsFor = (language: KbJob["meta"]["language"]): ("bn" | "en")[] => (language === "bn" ? ["bn", "en"] : ["en"]);
+const langsFor = (language: KbJob["meta"]["language"]): ("bn" | "en")[] => (language === "en" ? ["en"] : ["bn", "en"]);
 
 /** Sends the PDF (the chosen page range) to the parser and records its job id. */
 export async function startParse(jobId: string) {
@@ -98,11 +99,14 @@ export async function structureJob(jobId: string, credits?: number | null): Prom
   if (!job) throw new Error("Job not found");
   try {
     const { pages } = JSON.parse(await readFile(pagesPath(job.id), "utf8")) as { pages: PageMarkdown[] };
+    // An unknown language is decided from what the parser actually read
+    const language = job.meta.language === "auto" ? detectLanguage(pages.map((p) => p.markdown).join("\n")) : job.meta.language;
+    const ready = job.meta.language === "auto" ? await updateJob(job.id, { meta: { ...job.meta, language } }) : job;
     const chapters = buildBookTree(pages);
     if (!chapters.length) {
       return await updateJob(job.id, { status: "failed", error: "No chapters were found in these pages. Check the page range and that the book's chapter headings are in the pages." });
     }
-    const result = await exportChapters(job, chapters);
+    const result = await exportChapters(ready, chapters);
     return await updateJob(job.id, { status: "done", error: null, result, ...(credits !== undefined ? { creditsUsed: credits } : {}) });
   } catch (err) {
     return updateJob(job.id, { status: "failed", error: errorMessage(err) });

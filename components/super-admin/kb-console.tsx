@@ -15,7 +15,7 @@ import type { KbBookSummary } from "@/lib/kb/export";
 
 const POLL_MS = 6000;
 const fmtMb = (bytes: number) => `${(bytes / 1024 / 1024).toFixed(1)} MB`;
-const LANG = { bn: "Bangla", en: "English" } as const;
+const LANG = { bn: "Bangla", en: "English", auto: "language auto-detected" } as const;
 
 /** The upload form. Uses XMLHttpRequest because fetch can't report upload progress for a 100 MB file. */
 function UploadForm({ onUploaded }: { onUploaded: (job: JobView) => void }) {
@@ -60,39 +60,6 @@ function UploadForm({ onUploaded }: { onUploaded: (job: JobView) => void }) {
   return (
     <form ref={formRef} onSubmit={onSubmit} className="grid gap-4 p-5" noValidate>
       <FormError>{error}</FormError>
-      <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-        <div className="grid gap-2 sm:col-span-2 lg:col-span-1">
-          <FieldLabel htmlFor="kb-title">Book title</FieldLabel>
-          <Input id="kb-title" name="title" placeholder="e.g. Physics, Class 9-10 (Bangla)" className={CONTROL} disabled={uploading} />
-        </div>
-        <div className="grid gap-2">
-          <FieldLabel htmlFor="kb-subject">Subject key</FieldLabel>
-          <Input id="kb-subject" name="subject" placeholder="physics, chemistry, higher-math" className={CONTROL} disabled={uploading} />
-        </div>
-        <div className="grid gap-2">
-          <FieldLabel htmlFor="kb-class">Class</FieldLabel>
-          <Input id="kb-class" name="classLevel" defaultValue="9-10" placeholder="9-10" className={CONTROL} disabled={uploading} />
-        </div>
-        <div className="grid gap-2">
-          <FieldLabel htmlFor="kb-language">Language</FieldLabel>
-          <select id="kb-language" name="language" defaultValue="bn" disabled={uploading} className={`${CONTROL} border-input w-full rounded-xl border px-3`}>
-            <option value="bn">Bangla</option>
-            <option value="en">English</option>
-          </select>
-        </div>
-        <div className="grid gap-2">
-          <FieldLabel htmlFor="kb-edition" optional>
-            Edition year
-          </FieldLabel>
-          <Input id="kb-edition" name="editionYear" inputMode="numeric" placeholder="2025" className={CONTROL} disabled={uploading} />
-        </div>
-        <div className="grid gap-2">
-          <FieldLabel htmlFor="kb-offset" optional>
-            PDF pages before the book&apos;s page 1
-          </FieldLabel>
-          <Input id="kb-offset" name="printedPageOffset" inputMode="numeric" defaultValue="0" className={CONTROL} disabled={uploading} />
-        </div>
-      </div>
       <div className="grid gap-2">
         <FieldLabel htmlFor="kb-file">Book PDF</FieldLabel>
         <Input id="kb-file" name="file" type="file" accept="application/pdf,.pdf" className={`${CONTROL} pt-2.5`} disabled={uploading} />
@@ -140,7 +107,8 @@ function JobCard({ job, onChange, onRemoved }: { job: JobView; onChange: (job: J
         <div className="min-w-0">
           <p className="truncate text-[15px] font-bold">{job.meta.title}</p>
           <p className="text-[13px] text-muted-foreground">
-            {job.meta.subject} · class {job.meta.classLevel} · {LANG[job.meta.language]} · {job.pageCount} pages · {fmtMb(job.sizeBytes)} · by {job.createdByName}
+            {job.meta.subject}
+            {job.meta.classLevel ? ` · class ${job.meta.classLevel}` : ""} · {LANG[job.meta.language]} · {job.pageCount} pages · {fmtMb(job.sizeBytes)} · by {job.createdByName}
           </p>
         </div>
         <Badge variant={STATUS[job.status].variant}>{job.status === "parsing" && <Loader2 className="animate-spin" />}{STATUS[job.status].label}</Badge>
