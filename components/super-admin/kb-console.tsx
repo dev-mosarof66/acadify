@@ -13,7 +13,7 @@ import { Panel, PanelHeader } from "@/components/super-admin/ui";
 import { deleteKbJob, pollKbJob, rebuildKbChapter, retryKbPlan, startAllKbChapters, startKbChapter, stopKbAutoRun } from "@/lib/kb/actions";
 import type { ChapterPlanView, JobView } from "@/lib/kb/jobs";
 import type { KbBookSummary } from "@/lib/kb/export";
-import { subjectName, versionLabel } from "@/lib/kb/labels";
+import { groupBooks, versionLabel } from "@/lib/kb/labels";
 
 const POLL_MS = 6000;
 const fmtMb = (bytes: number) => `${(bytes / 1024 / 1024).toFixed(1)} MB`;
@@ -296,16 +296,16 @@ export function KbConsole({ initialJobs, books, apiKeySet, canWrite }: { initial
           <p className="px-5 py-6 text-sm text-muted-foreground">Nothing exported yet.</p>
         ) : (
           <ul>
-            {books.map((b) => {
-              const passages = b.chapters.reduce((n, c) => n + c.passages, 0);
-              const review = b.chapters.reduce((n, c) => n + c.needsReview, 0);
+            {groupBooks(books).map((g) => {
+              const chapters = g.books.reduce((n, b) => n + b.chapters.length, 0);
+              const review = g.books.reduce((n, b) => n + b.chapters.reduce((m, c) => m + c.needsReview, 0), 0);
               return (
-                <li key={b.dir} className="border-b border-border last:border-b-0">
-                  <Link href={`/admin/knowledge-base/books/${b.slug}`} className="flex items-center justify-between gap-3 px-5 py-4 transition-colors hover:bg-muted/50">
+                <li key={g.key} className="border-b border-border last:border-b-0">
+                  <Link href={`/admin/knowledge-base/versions/${g.key}`} className="flex items-center justify-between gap-3 px-5 py-4 transition-colors hover:bg-muted/50">
                     <div className="min-w-0">
-                      <p className="text-[15px] font-bold">{versionLabel(b)}</p>
+                      <p className="text-[15px] font-bold">{versionLabel(g)}</p>
                       <p className="text-[13px] text-muted-foreground">
-                        {subjectName(b.subject)} · {b.chapters.length} {b.chapters.length === 1 ? "chapter" : "chapters"} · {passages} passages · {review} to review
+                        {g.books.length} {g.books.length === 1 ? "subject" : "subjects"} · {chapters} {chapters === 1 ? "chapter" : "chapters"} · {review} to review
                       </p>
                     </div>
                     <ChevronRight className="size-4 shrink-0 text-muted-foreground" />

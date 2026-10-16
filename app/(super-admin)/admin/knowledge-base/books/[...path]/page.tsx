@@ -9,14 +9,14 @@ import { PageHeader, Panel, PanelHeader } from "@/components/super-admin/ui";
 import { Button } from "@/components/ui/button";
 import { Skeleton } from "@/components/ui/skeleton";
 import { readKbSummary } from "@/lib/kb/export";
-import { bookLabel, subjectName, versionLabel } from "@/lib/kb/labels";
+import { groupKey, subjectName, versionLabel } from "@/lib/kb/labels";
 
 export const metadata = { title: "Knowledge Base" };
 
-const BackButton = () => (
-  <Button variant="outline" nativeButton={false} render={<Link href="/admin/knowledge-base" />} className="rounded-xl">
+const BackButton = ({ href, label }: { href: string; label: string }) => (
+  <Button variant="outline" nativeButton={false} render={<Link href={href} />} className="rounded-xl">
     <ArrowLeft />
-    Knowledge Base
+    {label}
   </Button>
 );
 
@@ -33,9 +33,13 @@ async function Book({ params }: { params: Promise<{ path: string[] }> }) {
 
   return (
     <>
-      <PageHeader title={versionLabel(book)} description={`${subjectName(book.subject)} · ${book.chapters.length} chapters · ${passages} passages · ${review} to review`} actions={<BackButton />} />
+      <PageHeader
+        title={subjectName(book.subject)}
+        description={`${versionLabel(book)} · ${book.chapters.length} ${book.chapters.length === 1 ? "chapter" : "chapters"} · ${passages} passages · ${review} to review`}
+        actions={<BackButton href={`/admin/knowledge-base/versions/${groupKey(book)}`} label={versionLabel(book)} />}
+      />
       <Panel>
-        <PanelHeader title="Chapters" description={`${bookLabel(book)}. Open a chapter to read what was extracted.`} />
+        <PanelHeader title="Chapters" description="Open a chapter to read what was extracted." />
         <ul className="grid gap-3 px-5 py-4 text-[13px]">
           {book.chapters.map((c) => (
             <ChapterRow key={c.number} dir={book.dir} number={c.number} title={c.title} summary={`${c.passages} passages · ${c.needsReview} to review`} />
