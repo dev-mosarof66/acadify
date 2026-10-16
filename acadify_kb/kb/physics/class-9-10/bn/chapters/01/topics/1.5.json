@@ -1,12 +1,12 @@
 {
-  "id": "physics-bn-c01-t1.5",
+  "id": "physics-9-10-bn-c01-t1.5",
   "key": "1.5",
   "title": "ভৌত রাশি এবং তাদের পরিমাপ",
   "chapter": 1,
   "ordinal": 5,
   "passages": [
     {
-      "id": "physics-bn-c01-t1.5-p001",
+      "id": "physics-9-10-bn-c01-t1.5-p001",
       "kind": "text",
       "section": "(Physical Quantities and Their Measurement )",
       "caption": null,
@@ -21,7 +21,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.5-p002",
+      "id": "physics-9-10-bn-c01-t1.5-p002",
       "kind": "text",
       "section": "(Physical Quantities and Their Measurement )",
       "caption": null,
@@ -36,7 +36,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.5-p003",
+      "id": "physics-9-10-bn-c01-t1.5-p003",
       "kind": "table",
       "section": "(Physical Quantities and Their Measurement )",
       "caption": null,
@@ -53,7 +53,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.5-p004",
+      "id": "physics-9-10-bn-c01-t1.5-p004",
       "kind": "text",
       "section": "(Physical Quantities and Their Measurement )",
       "caption": null,
@@ -68,7 +68,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.5-p005",
+      "id": "physics-9-10-bn-c01-t1.5-p005",
       "kind": "table",
       "section": "(Physical Quantities and Their Measurement )",
       "caption": "টেবিল ১.০২: অনেক বড়ো থেকে অনেক ছোটো দূরত্ব, ভর এবং সময়",
@@ -85,7 +85,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.5-p006",
+      "id": "physics-9-10-bn-c01-t1.5-p006",
       "kind": "text",
       "section": "১.৫.১ পরিমাপের একক (Units of Measurements)",
       "caption": null,
@@ -100,7 +100,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.5-p007",
+      "id": "physics-9-10-bn-c01-t1.5-p007",
       "kind": "table",
       "section": "১.৫.১ পরিমাপের একক (Units of Measurements)",
       "caption": "টেবিল ১.০৩: সাতটি ধ্রুবের নির্দিষ্ট করে দেওয়া মান",
@@ -117,7 +117,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.5-p008",
+      "id": "physics-9-10-bn-c01-t1.5-p008",
       "kind": "text",
       "section": "১.৫.১ পরিমাপের একক (Units of Measurements)",
       "caption": null,
@@ -132,7 +132,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.5-p009",
+      "id": "physics-9-10-bn-c01-t1.5-p009",
       "kind": "text",
       "section": "১.৫.১ পরিমাপের একক (Units of Measurements)",
       "caption": null,
@@ -147,7 +147,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.5-p010",
+      "id": "physics-9-10-bn-c01-t1.5-p010",
       "kind": "text",
       "section": "১.৫.১ পরিমাপের একক (Units of Measurements)",
       "caption": null,
@@ -162,7 +162,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.5-p011",
+      "id": "physics-9-10-bn-c01-t1.5-p011",
       "kind": "text",
       "section": "১.৫.১ পরিমাপের একক (Units of Measurements)",
       "caption": null,
@@ -177,7 +177,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.5-p012",
+      "id": "physics-9-10-bn-c01-t1.5-p012",
       "kind": "text",
       "section": "১.৫.১ পরিমাপের একক (Units of Measurements)",
       "caption": null,
@@ -192,7 +192,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.5-p013",
+      "id": "physics-9-10-bn-c01-t1.5-p013",
       "kind": "text",
       "section": "১.৫.১ পরিমাপের একক (Units of Measurements)",
       "caption": null,
@@ -207,7 +207,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.5-p014",
+      "id": "physics-9-10-bn-c01-t1.5-p014",
       "kind": "text",
       "section": "১.৫.১ পরিমাপের একক (Units of Measurements)",
       "caption": null,
@@ -222,7 +222,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.5-p015",
+      "id": "physics-9-10-bn-c01-t1.5-p015",
       "kind": "figure",
       "section": "১.৫.১ পরিমাপের একক (Units of Measurements)",
       "caption": null,
@@ -237,7 +237,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.5-p016",
+      "id": "physics-9-10-bn-c01-t1.5-p016",
       "kind": "text",
       "section": "১.৫.১ পরিমাপের একক (Units of Measurements)",
       "caption": null,
@@ -252,7 +252,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.5-p017",
+      "id": "physics-9-10-bn-c01-t1.5-p017",
       "kind": "text",
       "section": "১.৫.১ পরিমাপের একক (Units of Measurements)",
       "caption": null,
@@ -267,7 +267,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.5-p018",
+      "id": "physics-9-10-bn-c01-t1.5-p018",
       "kind": "text",
       "section": "১.৫.১ পরিমাপের একক (Units of Measurements)",
       "caption": null,
@@ -282,7 +282,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.5-p019",
+      "id": "physics-9-10-bn-c01-t1.5-p019",
       "kind": "text",
       "section": "১.৫.২ উপসর্গ বা গুণিতক (Prefix)",
       "caption": null,
@@ -302,7 +302,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.5-p020",
+      "id": "physics-9-10-bn-c01-t1.5-p020",
       "kind": "table",
       "section": "১.৫.২ উপসর্গ বা গুণিতক (Prefix)",
       "caption": "টেবিল ১.০৫: SI ইউনিটে ব্যবহৃত গুণিতক বা উপসর্গ",
@@ -319,7 +319,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.5-p021",
+      "id": "physics-9-10-bn-c01-t1.5-p021",
       "kind": "table",
       "section": "১.৫.২ উপসর্গ বা গুণিতক (Prefix)",
       "caption": null,
@@ -336,7 +336,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.5-p022",
+      "id": "physics-9-10-bn-c01-t1.5-p022",
       "kind": "text",
       "section": "১.৫.৩ মাত্রা (Dimension)",
       "caption": null,
@@ -351,7 +351,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.5-p023",
+      "id": "physics-9-10-bn-c01-t1.5-p023",
       "kind": "text",
       "section": "১.৫.৩ মাত্রা (Dimension)",
       "caption": null,
@@ -370,7 +370,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.5-p024",
+      "id": "physics-9-10-bn-c01-t1.5-p024",
       "kind": "text",
       "section": "১.৫.৩ মাত্রা (Dimension)",
       "caption": null,
@@ -389,7 +389,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.5-p025",
+      "id": "physics-9-10-bn-c01-t1.5-p025",
       "kind": "text",
       "section": "১.৫.৩ মাত্রা (Dimension)",
       "caption": null,
@@ -409,7 +409,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.5-p026",
+      "id": "physics-9-10-bn-c01-t1.5-p026",
       "kind": "text",
       "section": "১.৫.৪ বৈজ্ঞানিক প্রতীক ও সংকেত (Scientific Symbols and Notations)",
       "caption": null,
@@ -424,7 +424,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.5-p027",
+      "id": "physics-9-10-bn-c01-t1.5-p027",
       "kind": "text",
       "section": "১.৫.৪ বৈজ্ঞানিক প্রতীক ও সংকেত (Scientific Symbols and Notations)",
       "caption": null,
@@ -444,7 +444,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.5-p028",
+      "id": "physics-9-10-bn-c01-t1.5-p028",
       "kind": "text",
       "section": "১.৫.৪ বৈজ্ঞানিক প্রতীক ও সংকেত (Scientific Symbols and Notations)",
       "caption": null,
@@ -459,7 +459,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.5-p029",
+      "id": "physics-9-10-bn-c01-t1.5-p029",
       "kind": "text",
       "section": "১.৫.৪ বৈজ্ঞানিক প্রতীক ও সংকেত (Scientific Symbols and Notations)",
       "caption": null,
@@ -474,7 +474,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.5-p030",
+      "id": "physics-9-10-bn-c01-t1.5-p030",
       "kind": "text",
       "section": "১.৫.৪ বৈজ্ঞানিক প্রতীক ও সংকেত (Scientific Symbols and Notations)",
       "caption": null,
@@ -489,7 +489,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.5-p031",
+      "id": "physics-9-10-bn-c01-t1.5-p031",
       "kind": "text",
       "section": "১.৫.৪ বৈজ্ঞানিক প্রতীক ও সংকেত (Scientific Symbols and Notations)",
       "caption": null,
@@ -506,7 +506,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.5-p032",
+      "id": "physics-9-10-bn-c01-t1.5-p032",
       "kind": "text",
       "section": "১.৫.৪ বৈজ্ঞানিক প্রতীক ও সংকেত (Scientific Symbols and Notations)",
       "caption": null,
@@ -521,7 +521,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.5-p033",
+      "id": "physics-9-10-bn-c01-t1.5-p033",
       "kind": "text",
       "section": "১.৫.৪ বৈজ্ঞানিক প্রতীক ও সংকেত (Scientific Symbols and Notations)",
       "caption": null,
@@ -538,7 +538,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.5-p034",
+      "id": "physics-9-10-bn-c01-t1.5-p034",
       "kind": "text",
       "section": "১.৫.৪ বৈজ্ঞানিক প্রতীক ও সংকেত (Scientific Symbols and Notations)",
       "caption": null,
@@ -557,7 +557,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.5-p035",
+      "id": "physics-9-10-bn-c01-t1.5-p035",
       "kind": "text",
       "section": "১.৫.৪ বৈজ্ঞানিক প্রতীক ও সংকেত (Scientific Symbols and Notations)",
       "caption": null,
@@ -572,7 +572,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.5-p036",
+      "id": "physics-9-10-bn-c01-t1.5-p036",
       "kind": "text",
       "section": "১.৫.৪ বৈজ্ঞানিক প্রতীক ও সংকেত (Scientific Symbols and Notations)",
       "caption": null,

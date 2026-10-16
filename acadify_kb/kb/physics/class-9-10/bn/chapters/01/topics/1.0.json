@@ -1,12 +1,12 @@
 {
-  "id": "physics-bn-c01-t1.0",
+  "id": "physics-9-10-bn-c01-t1.0",
   "key": "1.0",
   "title": "ভূমিকা ও শিখনফল",
   "chapter": 1,
   "ordinal": 0,
   "passages": [
     {
-      "id": "physics-bn-c01-t1.0-p001",
+      "id": "physics-9-10-bn-c01-t1.0-p001",
       "kind": "figure",
       "section": null,
       "caption": null,
@@ -21,7 +21,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.0-p002",
+      "id": "physics-9-10-bn-c01-t1.0-p002",
       "kind": "text",
       "section": null,
       "caption": null,
@@ -36,7 +36,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.0-p003",
+      "id": "physics-9-10-bn-c01-t1.0-p003",
       "kind": "text",
       "section": null,
       "caption": null,
@@ -51,7 +51,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.0-p004",
+      "id": "physics-9-10-bn-c01-t1.0-p004",
       "kind": "text",
       "section": null,
       "caption": null,
@@ -66,7 +66,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.0-p005",
+      "id": "physics-9-10-bn-c01-t1.0-p005",
       "kind": "objective",
       "section": "এ অধ্যায় শেষে আমরা –",
       "caption": null,

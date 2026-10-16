@@ -1,12 +1,12 @@
 {
-  "id": "physics-bn-c01-t1.1",
+  "id": "physics-9-10-bn-c01-t1.1",
   "key": "1.1",
   "title": "পদার্থবিজ্ঞান (Physics)",
   "chapter": 1,
   "ordinal": 1,
   "passages": [
     {
-      "id": "physics-bn-c01-t1.1-p001",
+      "id": "physics-9-10-bn-c01-t1.1-p001",
       "kind": "text",
       "section": null,
       "caption": null,
@@ -21,7 +21,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.1-p002",
+      "id": "physics-9-10-bn-c01-t1.1-p002",
       "kind": "text",
       "section": null,
       "caption": null,

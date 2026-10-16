@@ -1,12 +1,12 @@
 {
-  "id": "physics-bn-c01-t1.6",
+  "id": "physics-9-10-bn-c01-t1.6",
   "key": "1.6",
   "title": "পরিমাপের যন্ত্রপাতি (Measuring Instruments)",
   "chapter": 1,
   "ordinal": 6,
   "passages": [
     {
-      "id": "physics-bn-c01-t1.6-p001",
+      "id": "physics-9-10-bn-c01-t1.6-p001",
       "kind": "text",
       "section": null,
       "caption": null,
@@ -21,7 +21,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.6-p002",
+      "id": "physics-9-10-bn-c01-t1.6-p002",
       "kind": "text",
       "section": "১.৬.১ স্কেল (Scale) বা রুলার (Ruler)",
       "caption": null,
@@ -36,7 +36,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.6-p003",
+      "id": "physics-9-10-bn-c01-t1.6-p003",
       "kind": "text",
       "section": "১.৬.১ স্কেল (Scale) বা রুলার (Ruler)",
       "caption": null,
@@ -51,7 +51,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.6-p004",
+      "id": "physics-9-10-bn-c01-t1.6-p004",
       "kind": "text",
       "section": "স্লাইড/ভার্নিয়ার ক্যালিপার্স (Slide Calipers/Vernier Calipers)",
       "caption": null,
@@ -75,7 +75,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.6-p005",
+      "id": "physics-9-10-bn-c01-t1.6-p005",
       "kind": "figure",
       "section": "স্লাইড/ভার্নিয়ার ক্যালিপার্স (Slide Calipers/Vernier Calipers)",
       "caption": null,
@@ -90,7 +90,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.6-p006",
+      "id": "physics-9-10-bn-c01-t1.6-p006",
       "kind": "figure",
       "section": "স্লাইড/ভার্নিয়ার ক্যালিপার্স (Slide Calipers/Vernier Calipers)",
       "caption": null,
@@ -105,7 +105,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.6-p007",
+      "id": "physics-9-10-bn-c01-t1.6-p007",
       "kind": "text",
       "section": "স্লাইড/ভার্নিয়ার ক্যালিপার্স (Slide Calipers/Vernier Calipers)",
       "caption": null,
@@ -125,7 +125,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.6-p008",
+      "id": "physics-9-10-bn-c01-t1.6-p008",
       "kind": "formula",
       "section": "স্লাইড/ভার্নিয়ার ক্যালিপার্স (Slide Calipers/Vernier Calipers)",
       "caption": null,
@@ -144,7 +144,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.6-p009",
+      "id": "physics-9-10-bn-c01-t1.6-p009",
       "kind": "text",
       "section": "স্লাইড/ভার্নিয়ার ক্যালিপার্স (Slide Calipers/Vernier Calipers)",
       "caption": null,
@@ -159,7 +159,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.6-p010",
+      "id": "physics-9-10-bn-c01-t1.6-p010",
       "kind": "figure",
       "section": "স্লাইড/ভার্নিয়ার ক্যালিপার্স (Slide Calipers/Vernier Calipers)",
       "caption": null,
@@ -174,7 +174,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.6-p011",
+      "id": "physics-9-10-bn-c01-t1.6-p011",
       "kind": "figure",
       "section": "স্লাইড/ভার্নিয়ার ক্যালিপার্স (Slide Calipers/Vernier Calipers)",
       "caption": null,
@@ -189,7 +189,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.6-p012",
+      "id": "physics-9-10-bn-c01-t1.6-p012",
       "kind": "text",
       "section": "স্কু-গেইজ (Screw Gauge)",
       "caption": null,
@@ -209,7 +209,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.6-p013",
+      "id": "physics-9-10-bn-c01-t1.6-p013",
       "kind": "figure",
       "section": "স্কু-গেইজ (Screw Gauge)",
       "caption": null,
@@ -224,7 +224,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.6-p014",
+      "id": "physics-9-10-bn-c01-t1.6-p014",
       "kind": "figure",
       "section": "স্কু-গেইজ (Screw Gauge)",
       "caption": null,
@@ -239,7 +239,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.6-p015",
+      "id": "physics-9-10-bn-c01-t1.6-p015",
       "kind": "text",
       "section": "স্কু-গেইজ (Screw Gauge)",
       "caption": null,
@@ -254,7 +254,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.6-p016",
+      "id": "physics-9-10-bn-c01-t1.6-p016",
       "kind": "text",
       "section": "১.৬.২ ব্যালান্স (ভর মাপার যন্ত্র)",
       "caption": null,
@@ -272,7 +272,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.6-p017",
+      "id": "physics-9-10-bn-c01-t1.6-p017",
       "kind": "figure",
       "section": "১.৬.২ ব্যালান্স (ভর মাপার যন্ত্র)",
       "caption": null,
@@ -287,7 +287,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.6-p018",
+      "id": "physics-9-10-bn-c01-t1.6-p018",
       "kind": "figure",
       "section": "১.৬.২ ব্যালান্স (ভর মাপার যন্ত্র)",
       "caption": null,
@@ -302,7 +302,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.6-p019",
+      "id": "physics-9-10-bn-c01-t1.6-p019",
       "kind": "figure",
       "section": "১.৬.২ ব্যালান্স (ভর মাপার যন্ত্র)",
       "caption": null,
@@ -317,7 +317,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.6-p020",
+      "id": "physics-9-10-bn-c01-t1.6-p020",
       "kind": "figure",
       "section": "১.৬.২ ব্যালান্স (ভর মাপার যন্ত্র)",
       "caption": null,
@@ -332,7 +332,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.6-p021",
+      "id": "physics-9-10-bn-c01-t1.6-p021",
       "kind": "text",
       "section": "১.৬.৩ থামা ঘড়ি (Stop Watch)",
       "caption": null,
@@ -347,7 +347,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.6-p022",
+      "id": "physics-9-10-bn-c01-t1.6-p022",
       "kind": "activity",
       "section": "নিজে করো",
       "caption": null,
@@ -362,7 +362,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.6-p023",
+      "id": "physics-9-10-bn-c01-t1.6-p023",
       "kind": "figure",
       "section": "নিজে করো",
       "caption": null,
@@ -377,7 +377,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.6-p024",
+      "id": "physics-9-10-bn-c01-t1.6-p024",
       "kind": "figure",
       "section": "নিজে করো",
       "caption": null,
@@ -392,7 +392,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.6-p025",
+      "id": "physics-9-10-bn-c01-t1.6-p025",
       "kind": "figure",
       "section": "নিজে করো",
       "caption": null,
@@ -407,7 +407,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.6-p026",
+      "id": "physics-9-10-bn-c01-t1.6-p026",
       "kind": "activity",
       "section": "নিজে করো",
       "caption": null,
@@ -422,7 +422,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.6-p027",
+      "id": "physics-9-10-bn-c01-t1.6-p027",
       "kind": "activity",
       "section": "অনুসন্ধান ১.০১",
       "caption": null,
@@ -437,7 +437,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.6-p028",
+      "id": "physics-9-10-bn-c01-t1.6-p028",
       "kind": "text",
       "section": "অনুসন্ধান ১.০১",
       "caption": null,
@@ -454,7 +454,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.6-p029",
+      "id": "physics-9-10-bn-c01-t1.6-p029",
       "kind": "text",
       "section": "অনুসন্ধান ১.০১",
       "caption": null,
@@ -469,7 +469,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.6-p030",
+      "id": "physics-9-10-bn-c01-t1.6-p030",
       "kind": "text",
       "section": "অনুসন্ধান ১.০১",
       "caption": null,
@@ -486,7 +486,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.6-p031",
+      "id": "physics-9-10-bn-c01-t1.6-p031",
       "kind": "text",
       "section": "অনুসন্ধান ১.০১",
       "caption": null,
@@ -501,7 +501,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.6-p032",
+      "id": "physics-9-10-bn-c01-t1.6-p032",
       "kind": "text",
       "section": "অনুসন্ধান ১.০১",
       "caption": null,
@@ -520,7 +520,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.6-p033",
+      "id": "physics-9-10-bn-c01-t1.6-p033",
       "kind": "text",
       "section": "অনুসন্ধান ১.০১",
       "caption": null,
@@ -539,7 +539,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.6-p034",
+      "id": "physics-9-10-bn-c01-t1.6-p034",
       "kind": "text",
       "section": "অনুসন্ধান ১.০১",
       "caption": null,
@@ -558,7 +558,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.6-p035",
+      "id": "physics-9-10-bn-c01-t1.6-p035",
       "kind": "text",
       "section": "অনুসন্ধান ১.০১",
       "caption": null,
@@ -573,7 +573,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.6-p036",
+      "id": "physics-9-10-bn-c01-t1.6-p036",
       "kind": "table",
       "section": "অনুসন্ধান ১.০১",
       "caption": null,

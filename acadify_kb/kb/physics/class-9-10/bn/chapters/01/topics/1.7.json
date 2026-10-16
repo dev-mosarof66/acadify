@@ -1,12 +1,12 @@
 {
-  "id": "physics-bn-c01-t1.7",
+  "id": "physics-9-10-bn-c01-t1.7",
   "key": "1.7",
   "title": "পরিমাপের ত্রুটি ও নির্ভুলতা (Error and accuracy of measurements)",
   "chapter": 1,
   "ordinal": 7,
   "passages": [
     {
-      "id": "physics-bn-c01-t1.7-p001",
+      "id": "physics-9-10-bn-c01-t1.7-p001",
       "kind": "text",
       "section": null,
       "caption": null,
@@ -21,7 +21,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.7-p002",
+      "id": "physics-9-10-bn-c01-t1.7-p002",
       "kind": "text",
       "section": null,
       "caption": null,
@@ -38,7 +38,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.7-p003",
+      "id": "physics-9-10-bn-c01-t1.7-p003",
       "kind": "formula",
       "section": null,
       "caption": null,
@@ -57,7 +57,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.7-p004",
+      "id": "physics-9-10-bn-c01-t1.7-p004",
       "kind": "text",
       "section": null,
       "caption": null,
@@ -74,7 +74,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.7-p005",
+      "id": "physics-9-10-bn-c01-t1.7-p005",
       "kind": "example",
       "section": "উদাহরণ",
       "caption": null,
@@ -91,7 +91,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.7-p006",
+      "id": "physics-9-10-bn-c01-t1.7-p006",
       "kind": "example",
       "section": "উদাহরণ",
       "caption": null,
@@ -111,7 +111,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.7-p007",
+      "id": "physics-9-10-bn-c01-t1.7-p007",
       "kind": "figure",
       "section": "উদাহরণ",
       "caption": null,
@@ -126,7 +126,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.7-p008",
+      "id": "physics-9-10-bn-c01-t1.7-p008",
       "kind": "figure",
       "section": "উদাহরণ",
       "caption": null,
@@ -143,7 +143,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.7-p009",
+      "id": "physics-9-10-bn-c01-t1.7-p009",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -158,7 +158,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.7-p010",
+      "id": "physics-9-10-bn-c01-t1.7-p010",
       "kind": "formula",
       "section": "উদাহরণ",
       "caption": null,
@@ -177,7 +177,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.7-p011",
+      "id": "physics-9-10-bn-c01-t1.7-p011",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -199,7 +199,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.7-p012",
+      "id": "physics-9-10-bn-c01-t1.7-p012",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -214,7 +214,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.7-p013",
+      "id": "physics-9-10-bn-c01-t1.7-p013",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -229,7 +229,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.7-p014",
+      "id": "physics-9-10-bn-c01-t1.7-p014",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -244,7 +244,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.7-p015",
+      "id": "physics-9-10-bn-c01-t1.7-p015",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -263,7 +263,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.7-p016",
+      "id": "physics-9-10-bn-c01-t1.7-p016",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -282,7 +282,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.7-p017",
+      "id": "physics-9-10-bn-c01-t1.7-p017",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -297,7 +297,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.7-p018",
+      "id": "physics-9-10-bn-c01-t1.7-p018",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -318,7 +318,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.7-p019",
+      "id": "physics-9-10-bn-c01-t1.7-p019",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -338,7 +338,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.7-p020",
+      "id": "physics-9-10-bn-c01-t1.7-p020",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -360,7 +360,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.7-p021",
+      "id": "physics-9-10-bn-c01-t1.7-p021",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -375,7 +375,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.7-p022",
+      "id": "physics-9-10-bn-c01-t1.7-p022",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -395,7 +395,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.7-p023",
+      "id": "physics-9-10-bn-c01-t1.7-p023",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -410,7 +410,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.7-p024",
+      "id": "physics-9-10-bn-c01-t1.7-p024",
       "kind": "formula",
       "section": "উদাহরণ",
       "caption": null,
@@ -429,7 +429,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.7-p025",
+      "id": "physics-9-10-bn-c01-t1.7-p025",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -448,7 +448,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.7-p026",
+      "id": "physics-9-10-bn-c01-t1.7-p026",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -468,7 +468,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.7-p027",
+      "id": "physics-9-10-bn-c01-t1.7-p027",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -487,7 +487,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.7-p028",
+      "id": "physics-9-10-bn-c01-t1.7-p028",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -502,7 +502,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.7-p029",
+      "id": "physics-9-10-bn-c01-t1.7-p029",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -517,7 +517,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.7-p030",
+      "id": "physics-9-10-bn-c01-t1.7-p030",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -532,7 +532,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.7-p031",
+      "id": "physics-9-10-bn-c01-t1.7-p031",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -551,7 +551,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.7-p032",
+      "id": "physics-9-10-bn-c01-t1.7-p032",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -572,7 +572,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.7-p033",
+      "id": "physics-9-10-bn-c01-t1.7-p033",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -591,7 +591,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.7-p034",
+      "id": "physics-9-10-bn-c01-t1.7-p034",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -610,7 +610,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.7-p035",
+      "id": "physics-9-10-bn-c01-t1.7-p035",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -629,7 +629,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.7-p036",
+      "id": "physics-9-10-bn-c01-t1.7-p036",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -648,7 +648,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.7-p037",
+      "id": "physics-9-10-bn-c01-t1.7-p037",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -663,7 +663,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-bn-c01-t1.7-p038",
+      "id": "physics-9-10-bn-c01-t1.7-p038",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -687,7 +687,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.7-p039",
+      "id": "physics-9-10-bn-c01-t1.7-p039",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -706,7 +706,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-bn-c01-t1.7-p040",
+      "id": "physics-9-10-bn-c01-t1.7-p040",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,

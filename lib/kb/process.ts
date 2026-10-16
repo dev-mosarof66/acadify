@@ -8,7 +8,7 @@ import { exportChapter } from "./export";
 import { attachImages, type ParsedImage } from "./images";
 import { cutPath, getJob, pagesPath, updateChapter, updateJob, uploadPath, type ChapterPlan, type KbJob } from "./jobs";
 import { buildBookTree, type PageMarkdown } from "./mdtree";
-import { detectLanguage } from "./meta";
+import { detectClassLevel, detectEditionYear, detectLanguage } from "./meta";
 import { KB_UPLOADS_DIR } from "./paths";
 import { cutPages } from "./pdf";
 import { planChapters } from "./plan";
@@ -133,9 +133,13 @@ async function finishPlan(job: KbJob): Promise<KbJob | null> {
     const plan = planChapters(pages, job.pageCount);
     if (!plan.ok) return await updateJob(job.id, { status: "failed", error: plan.error });
 
-    const language = job.meta.language === "auto" ? detectLanguage(pages.map((p) => p.markdown).join("\n")) : job.meta.language;
+    // What the file name doesn't say is read from the front pages: the cover prints the class and edition
+    const text = pages.map((p) => p.markdown).join("\n");
+    const language = job.meta.language === "auto" ? detectLanguage(text) : job.meta.language;
+    const classLevel = job.meta.classLevel || detectClassLevel(text);
+    const editionYear = job.meta.editionYear ?? detectEditionYear(text);
     const chapters: ChapterPlan[] = plan.chapters.map((c) => ({ ...c, status: "pending", parseJobId: null, creditsUsed: null, error: null, result: null }));
-    return await updateJob(job.id, { status: "planned", chapters, meta: { ...job.meta, language, printedPageOffset: plan.printedPageOffset }, error: null });
+    return await updateJob(job.id, { status: "planned", chapters, meta: { ...job.meta, language, classLevel, editionYear, printedPageOffset: plan.printedPageOffset }, error: null });
   } catch (err) {
     return await updateJob(job.id, { status: "failed", error: errorMessage(err) });
   }
