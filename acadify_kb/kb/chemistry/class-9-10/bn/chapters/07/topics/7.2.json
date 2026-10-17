@@ -1,0 +1,1597 @@
+{
+  "id": "chemistry-9-10-bn-c07-t7.2",
+  "key": "7.2",
+  "title": "রাসায়নিক বিক্রিয়ার শ্রেণিবিভাগ",
+  "chapter": 7,
+  "ordinal": 2,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p001",
+      "kind": "text",
+      "section": "(Classification of Chemical Reactions)",
+      "caption": null,
+      "body": "রাসায়নিক বিক্রিয়াকে নিম্নলিখিত বিষয়গুলোর উপর ভিত্তি করে শ্রেণিবিভাগ করা যায়:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 150,
+      "pdfPageEnd": 150,
+      "printedPageStart": 145,
+      "printedPageEnd": 145,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p002",
+      "kind": "text",
+      "section": "৭.২.১ রাসায়নিক বিক্রিয়ার দিক",
+      "caption": null,
+      "body": "বিক্রিয়ার দিকের উপর ভিত্তি করে রাসায়নিক বিক্রিয়াকে দুই ভাগে ভাগ করা যায়। একমুখী বিক্রিয়া ও উভমুখী বিক্রিয়া।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 150,
+      "pdfPageEnd": 150,
+      "printedPageStart": 145,
+      "printedPageEnd": 145,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p003",
+      "kind": "text",
+      "section": "একমুখী বিক্রিয়া (Irreversible Reactions)",
+      "caption": null,
+      "body": "যে রাসায়নিক বিক্রিয়ায় বিক্রয়ক পদার্থগুলো উৎপাদে পরিণত হয়, কিন্তু উৎপাদ পদার্থগুলো পুনরায় বিক্রিয়কে পরিণত হয় না তাকে একমুখী বিক্রিয়া বলা হয়। যেমন: তুমি যদি ক্যালসিয়াম কার্বনেটকে একটি খোলা পাত্রে নিয়ে তাপ দাও তাহলে দেখবে ক্যালসিয়াম কার্বনেট ভেঙে গিয়ে কঠিন চুন ও গ্যাসীয় কার্বন ডাই-অক্সাইডে পরিণত হবে। গ্যাসীয় কার্বন ডাই-অক্সাইড বিক্রিয়া পাত্র থেকে অপসারিত হয় এ অবস্থায় কঠিন চুন পুনরায় ক্যালসিয়াম কার্বনেটে পরিণত হয় না। সুতরাং এটি একটি একমুখী বিক্রিয়া। একমুখী বিক্রিয়ার সমীকরণে বিক্রয়ক ও উৎপাদের মধ্যে একটি ডানমুখী তির চিহ্ন (→) ব্যবহার করা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 150,
+      "pdfPageEnd": 150,
+      "printedPageStart": 145,
+      "printedPageEnd": 145,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p004",
+      "kind": "formula",
+      "section": "একমুখী বিক্রিয়া (Irreversible Reactions)",
+      "caption": null,
+      "body": "$$CaCO_3 (s) \\xrightarrow{তাপ} CaO (s) + CO_2(g)$$",
+      "image": null,
+      "formulas": [
+        "CaCO_3 (s) \\xrightarrow{তাপ} CaO (s) + CO_2(g)"
+      ],
+      "pdfPageStart": 150,
+      "pdfPageEnd": 150,
+      "printedPageStart": 145,
+      "printedPageEnd": 145,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p005",
+      "kind": "text",
+      "section": "উভমুখী বিক্রিয়া (Reversible Reactions)",
+      "caption": null,
+      "body": "যে রাসায়নিক বিক্রিয়ায় বিক্রয়ক পদার্থ বিক্রিয়া করে উৎপাদে পরিণত হয় আবার উৎপাদ পদার্থগুলো বিক্রিয়া করে পুনরায় বিক্রয়ক পদার্থে পরিণত হয়। এই ধরনের রাসায়নিক বিক্রিয়াকে উভমুখী বিক্রিয়া বলে। উভমুখী বিক্রিয়ায় বিক্রয়ক হতে উৎপাদ হওয়ার বিক্রিয়াকে সম্মুখমুখী বিক্রিয়া এবং উৎপাদ হতে বিক্রিয়কে পরিণত হওয়ার বিক্রিয়াকে পশ্চাৎমুখী বা বিপরীতমুখী বিক্রিয়া বলা হয়। উভমুখী বিক্রিয়ায় বিক্রয়ক ও উৎপাদের মধ্যে বিপরীতমুখী দুটি অর্থ তির চিহ্ন ($\\rightleftharpoons$) ব্যবহার করে সমীকরণ উপস্থাপন করা হয়। যেমন: হাইড্রোক্লোরিক এসিডের উপস্থিতিতে ইথানল ও ইথানয়িক এসিড পরস্পরের সাথে বিক্রিয়া করে ইথাইল ইথানয়েট এস্টার ও পানি উৎপন্ন করে। অপরদিকে, উৎপন্ন ইথাইল ইথানয়েট এস্টার ও পানি পরস্পরের সাথে বিক্রিয়া করে ইথানল ও ইথানয়িক এসিড উৎপন্ন করে। একে নিম্নরূপে দেখানো যায়:",
+      "image": null,
+      "formulas": [
+        "\\rightleftharpoons"
+      ],
+      "pdfPageStart": 150,
+      "pdfPageEnd": 151,
+      "printedPageStart": 145,
+      "printedPageEnd": 146,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p006",
+      "kind": "text",
+      "section": "উভমুখী বিক্রিয়া (Reversible Reactions)",
+      "caption": null,
+      "body": "$$C_2H_5OH + CH_3COOH \\xrightleftharpoons[HCl]{} CH_3COOC_2H_5 + H_2O$$\nইথানল ইথানয়িক এসিড ইথাইল ইথানয়েট এস্টার পানি",
+      "image": null,
+      "formulas": [
+        "C_2H_5OH + CH_3COOH \\xrightleftharpoons[HCl]{} CH_3COOC_2H_5 + H_2O"
+      ],
+      "pdfPageStart": 151,
+      "pdfPageEnd": 151,
+      "printedPageStart": 146,
+      "printedPageEnd": 146,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p007",
+      "kind": "text",
+      "section": "উভমুখী বিক্রিয়া (Reversible Reactions)",
+      "caption": null,
+      "body": "হাইড্রোজেন এবং আয়োডিন বিক্রিয়া করে হাইড্রোজেন আয়োডাইড উৎপাদ উৎপন্ন করে। আবার, উৎপাদ হাইড্রোজেন আয়োডাইড ভেঙে পুনরায় হাইড্রোজেন ও আয়োডিনে পরিণত হয়। কাজেই এ বিক্রিয়াটিও উভমুখী:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 151,
+      "pdfPageEnd": 151,
+      "printedPageStart": 146,
+      "printedPageEnd": 146,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p008",
+      "kind": "formula",
+      "section": "উভমুখী বিক্রিয়া (Reversible Reactions)",
+      "caption": null,
+      "body": "$$H_2 + I_2 \\xrightleftharpoons{} 2HI$$",
+      "image": null,
+      "formulas": [
+        "H_2 + I_2 \\xrightleftharpoons{} 2HI"
+      ],
+      "pdfPageStart": 151,
+      "pdfPageEnd": 151,
+      "printedPageStart": 146,
+      "printedPageEnd": 146,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p009",
+      "kind": "text",
+      "section": "উভমুখী বিক্রিয়া (Reversible Reactions)",
+      "caption": null,
+      "body": "আসলে উপর্যুক্ত শর্তে সব বিক্রিয়াই উভমুখী, তবে কিছু বিক্রিয়ার বেলায় সম্মুখমুখী বিক্রিয়ার তুলনায় বিপরীতমুখী বিক্রিয়ার পরিমাণ এত কম থাকে যে বিক্রিয়াকে একমুখী মনে হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 151,
+      "pdfPageEnd": 151,
+      "printedPageStart": 146,
+      "printedPageEnd": 146,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p010",
+      "kind": "text",
+      "section": "৭.২.২ রাসায়নিক বিক্রিয়ায় তাপের পরিবর্তন",
+      "caption": null,
+      "body": "ইতঃপূর্বে তোমরা জেনেছ যে, তাপীয় পরিবর্তনের মাধ্যমে রাসায়নিক বিক্রিয়া সংঘটিত হয়। তাপের শোষণ এবং তাপ উৎপন্ন হওয়ার উপর ভিত্তি করে রাসায়নিক বিক্রিয়াকে দুইভাগে ভাগ করা যায় যথা: তাপোৎপাদী বিক্রিয়া এবং তাপহারাী বিক্রিয়া।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 151,
+      "pdfPageEnd": 151,
+      "printedPageStart": 146,
+      "printedPageEnd": 146,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p011",
+      "kind": "text",
+      "section": "তাপোৎপাদী বিক্রিয়া (Exothermic Reactions)",
+      "caption": null,
+      "body": "যে রাসায়নিক বিক্রিয়ায় তাপ উৎপন্ন হয় তাকে তাপোৎপাদী বিক্রিয়া বলে। যেমন: হেবার প্রণালিতে ১ মোল নাইট্রোজেন ও ৩ মোল হাইড্রোজেন হতে ২ মোল অ্যামোনিয়া উৎপাদনের সময় ৯২ কিলোজুল তাপ উৎপন্ন হয়। বিক্রিয়াটি নিম্নরূপ:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 151,
+      "pdfPageEnd": 151,
+      "printedPageStart": 146,
+      "printedPageEnd": 146,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p012",
+      "kind": "text",
+      "section": "তাপোৎপাদী বিক্রিয়া (Exothermic Reactions)",
+      "caption": null,
+      "body": "$$N_2  (g) + 3H_2  (g) \\xrightleftharpoons[\\substack{200-250  atm \\\\ 450^\\circC-550^\\circC}]{Fe} 2NH_3  (g) + 92  kJ$$\nনাইট্রোজেন হাইড্রোজেন অ্যামোনিয়া তাপ এখানে Fe চূর্ণ প্রভাবক হিসেবে কাজ করে। সমতাকৃত সমীকরণ অনুযায়ী একটি রাসায়নিক বিক্রিয়া সংঘটিত হতে তাপের যে পরিবর্তন হয় তাকে বিক্রিয়া তাপ বলে। বিক্রিয়ার তাপকে $\\Delta H$ দ্বারা প্রকাশ করা হয়। বিক্রিয়ায় তাপ উৎপাদন হলে $\\Delta H$ এর মান ঋণাত্মক হয়। কাজেই আমরা আগের বিক্রিয়াকে এভাবে লিখতে পারি:",
+      "image": null,
+      "formulas": [
+        "N_2  (g) + 3H_2  (g) \\xrightleftharpoons[\\substack{200-250  atm \\\\ 450^\\circC-550^\\circC}]{Fe} 2NH_3  (g) + 92  kJ",
+        "\\Delta H",
+        "\\Delta H"
+      ],
+      "pdfPageStart": 151,
+      "pdfPageEnd": 152,
+      "printedPageStart": 146,
+      "printedPageEnd": 147,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p013",
+      "kind": "formula",
+      "section": "তাপোৎপাদী বিক্রিয়া (Exothermic Reactions)",
+      "caption": null,
+      "body": "$$N_2(g) + 3H_2(g) \\xrightleftharpoons[Fe]{200-250  atm} 2NH_3(g) \\quad ; \\quad \\Delta H = -92  kJ$$",
+      "image": null,
+      "formulas": [
+        "N_2(g) + 3H_2(g) \\xrightleftharpoons[Fe]{200-250  atm} 2NH_3(g) \\quad ; \\quad \\Delta H = -92  kJ"
+      ],
+      "pdfPageStart": 152,
+      "pdfPageEnd": 152,
+      "printedPageStart": 147,
+      "printedPageEnd": 147,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p014",
+      "kind": "text",
+      "section": "তাপোৎপাদী বিক্রিয়া (Exothermic Reactions)",
+      "caption": null,
+      "body": "নাইট্রোজেন হাইড্রোজেন 450°C-550°C অ্যামোনিয়া তাপ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 152,
+      "pdfPageEnd": 152,
+      "printedPageStart": 147,
+      "printedPageEnd": 147,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p015",
+      "kind": "text",
+      "section": "তাপহারী বিক্রিয়া বা তাপশোষী বিক্রিয়া (Endothermic Reactions)",
+      "caption": null,
+      "body": "যে রাসায়নিক বিক্রিয়ায় তাপশক্তির শোষণ ঘটে সেই রাসায়নিক বিক্রিয়াকে তাপহারি বা তাপশোষী বিক্রিয়া বলে। যেমন- 1 মোল নাইট্রোজেন ও 1 মোল অক্সিজেন পরস্পরের সাথে বিক্রিয়া করে 2 মোল নাইট্রিক অক্সাইড উৎপন্ন হওয়ার সময় 180 kJ তাপ শোষিত হয়। এটি তাপশোষী বিক্রিয়া।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 152,
+      "pdfPageEnd": 152,
+      "printedPageStart": 147,
+      "printedPageEnd": 147,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p016",
+      "kind": "formula",
+      "section": "তাপহারী বিক্রিয়া বা তাপশোষী বিক্রিয়া (Endothermic Reactions)",
+      "caption": null,
+      "body": "$$N_2(g) + O_2(g) + 180  kJ \\xrightleftharpoons[ ]{} 2NO(g)$$",
+      "image": null,
+      "formulas": [
+        "N_2(g) + O_2(g) + 180  kJ \\xrightleftharpoons[ ]{} 2NO(g)"
+      ],
+      "pdfPageStart": 152,
+      "pdfPageEnd": 152,
+      "printedPageStart": 147,
+      "printedPageEnd": 147,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p017",
+      "kind": "text",
+      "section": "তাপহারী বিক্রিয়া বা তাপশোষী বিক্রিয়া (Endothermic Reactions)",
+      "caption": null,
+      "body": "আমরা বিক্রিয়া তাপ $\\Delta H$ ব্যবহার করেও লিখতে পারি। তাপশোষী বিক্রিয়ায় $\\Delta H$ এর মান ধনাত্মক।",
+      "image": null,
+      "formulas": [
+        "\\Delta H",
+        "\\Delta H"
+      ],
+      "pdfPageStart": 152,
+      "pdfPageEnd": 152,
+      "printedPageStart": 147,
+      "printedPageEnd": 147,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p018",
+      "kind": "formula",
+      "section": "তাপহারী বিক্রিয়া বা তাপশোষী বিক্রিয়া (Endothermic Reactions)",
+      "caption": null,
+      "body": "$$N_2(g) + O_2(g) \\xrightleftharpoons[ ]{} 2NO(g) \\quad ; \\quad \\Delta H = + 180  kJ$$",
+      "image": null,
+      "formulas": [
+        "N_2(g) + O_2(g) \\xrightleftharpoons[ ]{} 2NO(g) \\quad ; \\quad \\Delta H = + 180  kJ"
+      ],
+      "pdfPageStart": 152,
+      "pdfPageEnd": 152,
+      "printedPageStart": 147,
+      "printedPageEnd": 147,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p019",
+      "kind": "text",
+      "section": "৭.২.৩ ইলেকট্রন স্থানান্তর",
+      "caption": null,
+      "body": "ইলেকট্রন স্থানান্তরের উপর ভিত্তি করে রাসায়নিক বিক্রিয়াকে দুইভাগে ভাগ করা যায়। যথা: রেডক্স বিক্রিয়া এবং নন-রেডক্স বিক্রিয়া।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 152,
+      "pdfPageEnd": 152,
+      "printedPageStart": 147,
+      "printedPageEnd": 147,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p020",
+      "kind": "text",
+      "section": "রেডক্স (Redox) বিক্রিয়া",
+      "caption": null,
+      "body": "Reduction (বিজারণ) শব্দের এর প্রথমার্শ Red এবং Oxidation (জারণ) শব্দের প্রথমার্শ ox এর সমষ্টিয়ে গঠিত শব্দ হলো Redox অর্থাৎ এর নাম থেকেই বোঝা যাচ্ছে যে রেডক্স (Redox) অর্থ জারণ-বিজারণ। জারণ-বিজারণ বিক্রিয়ায় বিক্রিয়কসমূহের মধ্যে ইলেকট্রনের আদানপ্রদান ঘটে। একটি বিক্রিয়ক ইলেকট্রন ত্যাগ করে এবং অপর বিক্রিয়কটি সেই ইলেকট্রনকে গ্রহণ করে। সুতরাং জারণ-বিজারণ বিক্রিয়া দুটি অর্ধাংশে বিভক্ত। এক অর্ধাংশে বিক্রিয়ক ইলেকট্রন ত্যাগ করে যাকে জারণ অর্ধবিক্রিয়া বলে। অপর অর্ধাংশে অন্য একটি বিক্রিয়ক ইলেকট্রন গ্রহণ করে যাকে বিজারণ অর্ধবিক্রিয়া বলে। উল্লেখ্য যে, জারণ-বিজারণ বিক্রিয়ায় যে বিক্রিয়কটি ইলেকট্রন ত্যাগ করে তাকে বিজারক পদার্থ বলা হয় এবং যে বিক্রিয়কটি ইলেকট্রন গ্রহণ করে তাকে জারক পদার্থ বলা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 152,
+      "pdfPageEnd": 153,
+      "printedPageStart": 147,
+      "printedPageEnd": 148,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p021",
+      "kind": "formula",
+      "section": "রেডক্স (Redox) বিক্রিয়া",
+      "caption": null,
+      "body": "$$Na + \\frac{1}{2} Cl_2 \\longrightarrow NaCl$$",
+      "image": null,
+      "formulas": [
+        "Na + \\frac{1}{2} Cl_2 \\longrightarrow NaCl"
+      ],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p022",
+      "kind": "text",
+      "section": "রেডক্স (Redox) বিক্রিয়া",
+      "caption": null,
+      "body": "এই বিক্রিয়ায় Na ইলেকট্রন ত্যাগ করেছে, সুতরাং Na বিজারক পদার্থ। অপরদিকে, Cl ইলেকট্রন গ্রহণ করেছে তাই Cl জারক পদার্থ।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p023",
+      "kind": "text",
+      "section": "রেডক্স (Redox) বিক্রিয়া",
+      "caption": null,
+      "body": "যে বিক্রিয়ায় কোনো পরমাণুর ইলেকট্রনের দান ঘটে অর্থাৎ ঐ পরমাণুর ধনাত্মক চার্জের সংখ্যা বৃদ্ধি পায় বা ঋণাত্মক চার্জের সংখ্যা হ্রাস পায় সেই বিক্রিয়াকে জারণ বিক্রিয়া বলে। যেমন-",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p024",
+      "kind": "text",
+      "section": "রেডক্স (Redox) বিক্রিয়া",
+      "caption": null,
+      "body": "$$Fe^{2+} \\rightarrow Fe^{3+} + e^-  [জারণ বিক্রিয়া]$$\n$$Na^0 \\rightarrow Na^{1+} + e^-  [জারণ বিক্রিয়া]$$",
+      "image": null,
+      "formulas": [
+        "Fe^{2+} \\rightarrow Fe^{3+} + e^-  [জারণ বিক্রিয়া]",
+        "Na^0 \\rightarrow Na^{1+} + e^-  [জারণ বিক্রিয়া]"
+      ],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p025",
+      "kind": "text",
+      "section": "রেডক্স (Redox) বিক্রিয়া",
+      "caption": null,
+      "body": "যে বিক্রিয়ায় কোনো পরমাণুর ইলেকট্রনের গ্রহণ ঘটে অর্থাৎ ঐ পরমাণুর ধনাত্মক চার্জের সংখ্যা হ্রাস পায় বা ঋণাত্মক চার্জের সংখ্যা বৃদ্ধি পায় সেই বিক্রিয়াকে বিজারণ বিক্রিয়া বলে। যেমন-",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p026",
+      "kind": "text",
+      "section": "রেডক্স (Redox) বিক্রিয়া",
+      "caption": null,
+      "body": "$$Cl^0 + e^- \\rightarrow Cl^{1-}  [বিজারণ বিক্রিয়া]$$\n$$Cu^{2+} + e^- \\rightarrow Cu^{1+}  [বিজারণ বিক্রিয়া]$$",
+      "image": null,
+      "formulas": [
+        "Cl^0 + e^- \\rightarrow Cl^{1-}  [বিজারণ বিক্রিয়া]",
+        "Cu^{2+} + e^- \\rightarrow Cu^{1+}  [বিজারণ বিক্রিয়া]"
+      ],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p027",
+      "kind": "text",
+      "section": "রেডক্স (Redox) বিক্রিয়া",
+      "caption": null,
+      "body": "**জারণ সংখ্যা:** কোনো অণু বা যৌগমূলকের মধ্যে অবস্থিত পরমাণুগুলোর কোনোটি ইলেকট্রন ছেড়ে দেওয়ার আবার কোনোটি ইলেকট্রন গ্রহণ করার প্রবণতা দেখায়। অণু বা যৌগমূলকের মধ্যে অবস্থিত কোনো পরমাণুর ইলেকট্রন ছাড়ার প্রবণতাকে ধনাত্মক চিহ্নযুক্ত একটি সংখ্যা দিয়ে আর কোনো পরমাণুর ইলেকট্রন গ্রহণ করার প্রবণতাকে ঋণাত্মক চিহ্নযুক্ত সংখ্যা দিয়ে প্রকাশ করা হয়। অণু বা যৌগমূলকের মধ্যে অবস্থিত কোনো পরমাণুর এই ধনাত্মক বা ঋণাত্মক চিহ্নযুক্ত সংখ্যাকেই তার জারণ সংখ্যা (Oxidation Number) বলে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p028",
+      "kind": "text",
+      "section": "রেডক্স (Redox) বিক্রিয়া",
+      "caption": null,
+      "body": "একক পরমাণু যেমন: Na, Mg, Fe ইত্যাদিতে সংশ্লিষ্ট পরমাণুসমূহের জারণ সংখ্যা শূন্য ধরা হয়। আবার, একই পরমাণু দিয়ে গঠিত অণু যেমন: H<sub>2</sub>, O<sub>2</sub>, N<sub>2</sub>, Cl<sub>2</sub>, Br<sub>2</sub> ইত্যাদিতে সংশ্লিষ্ট পরমাণুসমূহের জারণ সংখ্যা শূন্য (0)।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p029",
+      "kind": "text",
+      "section": "রেডক্স (Redox) বিক্রিয়া",
+      "caption": null,
+      "body": "FeSO<sub>4</sub> অণুতে Fe এর জারণ সংখ্যা +2 আবার Fe ধাতুতে Fe এর জারণ সংখ্যা শূন্য। HCl এ Cl এর জারণ সংখ্যা -1 আবার Cl<sub>2</sub> অণুতে এর জারণ সংখ্যা শূন্য (0)।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p030",
+      "kind": "text",
+      "section": "রেডক্স (Redox) বিক্রিয়া",
+      "caption": null,
+      "body": "**জারণ সংখ্যা নির্ণয়:** একটি যৌগে কোনো একটি মৌলের জারণ সংখ্যা যৌগের অন্যান্য মৌলের জারণ সংখ্যার উপর নির্ভর করে। যৌগে কোনো একটি মৌলের জারণ সংখ্যা বের করার জন্য যৌগের অন্যান্য মৌলের জারণ সংখ্যা জানতে হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p031",
+      "kind": "table",
+      "section": "রেডক্স (Redox) বিক্রিয়া",
+      "caption": "টেবিল ৭.০১: বিভিন্ন যৌগে পরমাণুর জারণ সংখ্যা",
+      "body": "<table><tr><th>জারণ সংখ্যার নিয়ম</th><th>যৌগের সংকেত</th><th>মৌল ও জারণ সংখ্যা</th></tr>\n<tr><td>ধাতুসমূহের জারণ সংখ্যা ধনাত্মক এবং অধাতুসমূহের জারণ সংখ্যা ঋণাত্মক হয়।</td><td>NaCl</td><td>Na = +1<br />Cl = -1</td></tr>\n<tr><td>নিরপেক্ষ পরমাণু বা মুক্ত মৌলের জারণ সংখ্যা শূন্য হয়।</td><td>Fe, H<sub>2</sub></td><td>Fe = 0<br />H = 0</td></tr>\n<tr><td>নিরপেক্ষ যৌগে পরমাণুসমূহের মোট জারণ সংখ্যা শূন্য হয়।</td><td>H<sub>2</sub>O</td><td>H = +1<br />O = -2<br />মোট = 0</td></tr>\n<tr><td>আধানবিশিষ্ট আয়নে পরমাণুসমূহের মোট জারণ সংখ্যা আধান সংখ্যার সমান হয়।</td><td>SO<sub>4</sub><sup>-2</sup>, NH<sub>4</sub><sup>+</sup></td><td>SO<sub>4</sub><sup>2-</sup> = -2<br />NH<sub>4</sub><sup>+</sup> = +1</td></tr>\n<tr><td>যৌগে ক্ষার ধাতুসমূহের জারণ সংখ্যা +1 হয়।</td><td>KCl, K<sub>2</sub>CO<sub>3</sub></td><td>K = +1</td></tr>\n<tr><td>যৌগে মুংস্কার ধাতুসমূহের জারণ সংখ্যা +2 হয়।</td><td>CaO, MgSO<sub>4</sub></td><td>Ca = +2<br />Mg = +2</td></tr>\n<tr><td>ধাতব হাইডাইড হ্যালোজেনের জারণ সংখ্যা -1 হয়।</td><td>MgCl<sub>2</sub>, LiCl</td><td>Cl = -1</td></tr>\n<tr><td>অধিকায়শ যৌগে হাইড্রোজেনের জারণ সংখ্যা +1 কিন্তু ধাতব হাইডাইডে হাইড্রোজেনের জারণ সংখ্যা -1 হয়।</td><td>NH<sub>3</sub>, LiAlH<sub>4</sub></td><td>H = +1<br />H = -1</td></tr>\n<tr><td>অধিকায়শ যৌগে (অক্সাইডে) অক্সিজেনের জারণ সংখ্যা -2 কিন্তু পার-অক্সাইডে অক্সিজেনের জারণ সংখ্যা -1 হয় এবং সুপার-অক্সাইডে অক্সিজেনের জারণ সংখ্যা -<sup>1</sup>/<sub>2</sub>।</td><td>K<sub>2</sub>O, CaO<br />K<sub>2</sub>O<sub>2</sub>, H<sub>2</sub>O<sub>2</sub><br />NaO<sub>2</sub>, KO<sub>2</sub></td><td>O = -2<br />O = -1<br />O = -<sup>1</sup>/<sub>2</sub></td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 154,
+      "pdfPageEnd": 154,
+      "printedPageStart": 149,
+      "printedPageEnd": 149,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p032",
+      "kind": "text",
+      "section": "রেডক্স (Redox) বিক্রিয়া",
+      "caption": null,
+      "body": "কোনো অণু বা আয়নে সংশ্লিষ্ট পরমাণুর জারণ সংখ্যা নিচের পদ্ধতিতে নির্ণয় করা যায়:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 154,
+      "pdfPageEnd": 154,
+      "printedPageStart": 149,
+      "printedPageEnd": 149,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p033",
+      "kind": "text",
+      "section": "রেডক্স (Redox) বিক্রিয়া",
+      "caption": null,
+      "body": "1. যৌগ বা আয়নে অবস্থিত যে পরমাণুটির জারণ সংখ্যা বের করতে হবে ধরে নেই তার জারণ সংখ্যা x।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 154,
+      "pdfPageEnd": 154,
+      "printedPageStart": 149,
+      "printedPageEnd": 149,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p034",
+      "kind": "text",
+      "section": "রেডক্স (Redox) বিক্রিয়া",
+      "caption": null,
+      "body": "2. যৌগ বা আয়নের সকল মৌলের জারণ সংখ্যাকে তাদের নিজ নিজ নিজ পরমাণু সংখ্যা দ্বারা গুণ করে তাদের সমষ্টি বের করতে হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 154,
+      "pdfPageEnd": 154,
+      "printedPageStart": 149,
+      "printedPageEnd": 149,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p035",
+      "kind": "text",
+      "section": "রেডক্স (Redox) বিক্রিয়া",
+      "caption": null,
+      "body": "3. জারণ সংখ্যার সমষ্টি হবে অণুর ক্ষেত্রে শূন্য (0) এবং আয়নের ক্ষেত্রে তার চিহ্নসহ চার্জ সংখ্যার সমান। এখান থেকে পরমাণুর জারণ সংখ্যা x বের করা যাবে। যেমন: ধরা যাক KMnO<sub>4</sub> অণুতে কেন্দ্রীয় পরমাণু Mn এর জারণ মান বের করতে হবে। ধরা যাক, Mn এর জারণ মান ধরো x, K এর জারণ মান +1 এবং O এর জারণ মান -2 নিয়ে সকল মৌলের জারণ সংখাকে তাদের পরমাণু সংখ্যা দ্বারা গুণ করে যোগ করো। উক্ত যোগফল হবে KMnO<sub>4</sub> এর জারণ সংখ্যার সমান। KMnO<sub>4</sub> একটি আধান নিরপেক্ষ অণু, সুতরাং এর আধান শূন্য, কাজেই",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 154,
+      "pdfPageEnd": 155,
+      "printedPageStart": 149,
+      "printedPageEnd": 150,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p036",
+      "kind": "text",
+      "section": "রেডক্স (Redox) বিক্রিয়া",
+      "caption": null,
+      "body": "$$(+1) \\times 1 + x \\times 1 + (-2) \\times 4 = 0$$\nবা $x = 7$",
+      "image": null,
+      "formulas": [
+        "(+1) \\times 1 + x \\times 1 + (-2) \\times 4 = 0",
+        "x = 7"
+      ],
+      "pdfPageStart": 155,
+      "pdfPageEnd": 155,
+      "printedPageStart": 150,
+      "printedPageEnd": 150,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p037",
+      "kind": "text",
+      "section": "রেডক্স (Redox) বিক্রিয়া",
+      "caption": null,
+      "body": "অর্থাৎ Mn এর জারণ সংখ্যা +7",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 155,
+      "pdfPageEnd": 155,
+      "printedPageStart": 150,
+      "printedPageEnd": 150,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p038",
+      "kind": "text",
+      "section": "রেডক্স (Redox) বিক্রিয়া",
+      "caption": null,
+      "body": "4. সাধারণত ধাতব হাইড্রাইড (যেমন: LiH, LiAlH<sub>4</sub>) ব্যতীত সকল ক্ষেত্রে H এর জারণ সংখ্যা +1। হাইড্রোজেন পার-অক্সাইড (H<sub>2</sub>O<sub>2</sub>), সোডিয়াম পার-অক্সাইড (Na<sub>2</sub>O<sub>2</sub>) এ অক্সিজেনের জারণ সংখ্যা -1, সুপার-অক্সাইড যেমন: সোডিয়াম সুপার-অক্সাইড (NaO<sub>2</sub>), পটাশিয়াম সুপার-অক্সাইড (KO<sub>2</sub>) এ অক্সিজেনের জারণ সংখ্যা $-\\frac{1}{2}$ হয়। এছাড়া সকল ক্ষেত্রে অক্সিজেনের জারণ সংখ্যা -2।",
+      "image": null,
+      "formulas": [
+        "-\\frac{1}{2}"
+      ],
+      "pdfPageStart": 155,
+      "pdfPageEnd": 155,
+      "printedPageStart": 150,
+      "printedPageEnd": 150,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p039",
+      "kind": "text",
+      "section": "রেডক্স (Redox) বিক্রিয়া",
+      "caption": null,
+      "body": "**H<sub>2</sub>SO<sub>4</sub> এ S এর জারণ সংখ্যা নির্ণয়:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 155,
+      "pdfPageEnd": 155,
+      "printedPageStart": 150,
+      "printedPageEnd": 150,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p040",
+      "kind": "text",
+      "section": "রেডক্স (Redox) বিক্রিয়া",
+      "caption": null,
+      "body": "ধরি, H<sub>2</sub>SO<sub>4</sub> এ S এর জারণ সংখ্যা = x\nঅতএব, $(+1) \\times 2 + x + (-2) \\times 4 = 0$\n$x = 6$",
+      "image": null,
+      "formulas": [
+        "(+1) \\times 2 + x + (-2) \\times 4 = 0",
+        "x = 6"
+      ],
+      "pdfPageStart": 155,
+      "pdfPageEnd": 155,
+      "printedPageStart": 150,
+      "printedPageEnd": 150,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p041",
+      "kind": "text",
+      "section": "রেডক্স (Redox) বিক্রিয়া",
+      "caption": null,
+      "body": "অতএব, H<sub>2</sub>SO<sub>4</sub> এ S এর জারণ সংখ্যা = +6।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 155,
+      "pdfPageEnd": 155,
+      "printedPageStart": 150,
+      "printedPageEnd": 150,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p042",
+      "kind": "text",
+      "section": "রেডক্স (Redox) বিক্রিয়া",
+      "caption": null,
+      "body": "নিম্নলিখিত যৌগে লাল বর্ণে লেখা মৌলের জারণ সংখ্যা নির্ণয় করো: CuS<sub>2</sub>O<sub>4</sub>, HNO<sub>3</sub>, H<sub>3</sub>PO<sub>4</sub>, MnO<sub>2</sub>, K<sub>2</sub>Cr<sub>2</sub>O<sub>7</sub>, Na<sub>2</sub>S<sub>2</sub>O<sub>3</sub> এবং CuI",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 155,
+      "pdfPageEnd": 155,
+      "printedPageStart": 150,
+      "printedPageEnd": 150,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p043",
+      "kind": "text",
+      "section": "রেডক্স (Redox) বিক্রিয়া",
+      "caption": null,
+      "body": "দেওয়া আছে, Cu এর জারণ মান = +2, O এর জারণ মান = -2, H এর জারণ মান = +1, K এর জারণ মান = +1, Na এর জারণ মান = +1, I এর জারণ মান = -1",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 155,
+      "pdfPageEnd": 155,
+      "printedPageStart": 150,
+      "printedPageEnd": 150,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p044",
+      "kind": "text",
+      "section": "রেডক্স (Redox) বিক্রিয়া",
+      "caption": null,
+      "body": "জারণ সংখ্যা এবং যোজনী একই বিষয় নয়, জারণ সংখ্যা হলো পরমাণু বা আয়নে উপস্থিত চার্জ সংখ্যা (চিহ্নসহ)। এটি ধনাত্মক বা ঋণাত্মক, পূর্ণসংখ্যা, শূন্য এমনকি ভগ্নাংশও হতে পারে। শুধু তাই নয়, একই মৌলের জারণ সংখ্যা বিভিন্ন যৌগে বিভিন্ন হতে দেখা যায়। অন্যদিকে যোজনী হলো একটি মৌল অন্য মৌলের সাথে যুক্ত হওয়ার সমর্থ্য। যোজনী ধনাত্মক বা ঋণাত্মক হয় না, এটি সর্বদাই পূর্ণসংখ্যা হয়। শুধু নিস্ক্রিয় গ্যাসের যোজনী শূন্য হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 155,
+      "pdfPageEnd": 155,
+      "printedPageStart": 150,
+      "printedPageEnd": 150,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p045",
+      "kind": "text",
+      "section": "জারণ-বিজারণ একটি যুগপৎক্রিয়া",
+      "caption": null,
+      "body": "তোমরা জানো, যে রাসায়নিক বিক্রিয়ায় ইলেকট্রনের দান ঘটে তাকে জারণ বিক্রিয়া এবং যে রাসায়নিক বিক্রিয়ায় ইলেকট্রনের গ্রহণ ঘটে তাকে বিজারণ বিক্রিয়া বলা হয়। আবার, যে পদার্থ ইলেকট্রন ত্যাগ করে তাদেরকে বিজারক এবং যে পদার্থ ইলেকট্রন গ্রহণ করে তাদেরকে জারক পদার্থ বলে। জারণ-বিজারণ বিক্রিয়া একই সাথে সংঘটিত হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 156,
+      "pdfPageEnd": 156,
+      "printedPageStart": 151,
+      "printedPageEnd": 151,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p046",
+      "kind": "text",
+      "section": "জারণ-বিজারণ একটি যুগপৎক্রিয়া",
+      "caption": null,
+      "body": "আমরা নিচের বিক্রিয়াটি বিবেচনা করতে পারি:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 156,
+      "pdfPageEnd": 156,
+      "printedPageStart": 151,
+      "printedPageEnd": 151,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p047",
+      "kind": "formula",
+      "section": "জারণ-বিজারণ একটি যুগপৎক্রিয়া",
+      "caption": null,
+      "body": "$$Na + \\frac{1}{2} Cl_2 \\longrightarrow NaCl$$",
+      "image": null,
+      "formulas": [
+        "Na + \\frac{1}{2} Cl_2 \\longrightarrow NaCl"
+      ],
+      "pdfPageStart": 156,
+      "pdfPageEnd": 156,
+      "printedPageStart": 151,
+      "printedPageEnd": 151,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p048",
+      "kind": "text",
+      "section": "জারণ-বিজারণ একটি যুগপৎক্রিয়া",
+      "caption": null,
+      "body": "এখানে বিজারক পদার্থ Na তার বাইরের শেলের 1টি ইলেকট্রন ত্যাগ করে জারণ অর্ধবিক্রিয়া সম্পন্ন করেছে। অপরদিকে বিজারক Na যে ইলেকট্রন ত্যাগ করেছে, জারক পদার্থ Cl সেই ইলেকট্রনকে গ্রহণ করে বিজারণ অর্ধবিক্রিয়া সম্পন্ন করেছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 156,
+      "pdfPageEnd": 156,
+      "printedPageStart": 151,
+      "printedPageEnd": 151,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p049",
+      "kind": "text",
+      "section": "জারণ-বিজারণ একটি যুগপৎক্রিয়া",
+      "caption": null,
+      "body": "জারণ অর্ধবিক্রিয়া $Na^0 \\rightarrow Na^+ + e^-$\nবিজারণ অর্ধবিক্রিয়া $Cl^0 + e^- \\rightarrow Cl^-$",
+      "image": null,
+      "formulas": [
+        "Na^0 \\rightarrow Na^+ + e^-",
+        "Cl^0 + e^- \\rightarrow Cl^-"
+      ],
+      "pdfPageStart": 156,
+      "pdfPageEnd": 156,
+      "printedPageStart": 151,
+      "printedPageEnd": 151,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p050",
+      "kind": "text",
+      "section": "জারণ-বিজারণ একটি যুগপৎক্রিয়া",
+      "caption": null,
+      "body": "এই দুই অর্ধ-বিক্রিয়াকে যোগ করলে জারণ-বিজারণ বিক্রিয়া পাওয়া যায়:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 156,
+      "pdfPageEnd": 156,
+      "printedPageStart": 151,
+      "printedPageEnd": 151,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p051",
+      "kind": "text",
+      "section": "জারণ-বিজারণ একটি যুগপৎক্রিয়া",
+      "caption": null,
+      "body": "জারণ-বিজারণ বিক্রিয়া: $Na^0 + Cl^0 \\rightarrow Na^+ + Cl^- \\equiv NaCl$",
+      "image": null,
+      "formulas": [
+        "Na^0 + Cl^0 \\rightarrow Na^+ + Cl^- \\equiv NaCl"
+      ],
+      "pdfPageStart": 156,
+      "pdfPageEnd": 156,
+      "printedPageStart": 151,
+      "printedPageEnd": 151,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p052",
+      "kind": "text",
+      "section": "জারণ-বিজারণ একটি যুগপৎক্রিয়া",
+      "caption": null,
+      "body": "এখানে স্পষ্টত জারণে বিজারক পদার্থ ইলেকট্রন ত্যাগ করেছে, অপরদিকে বিজারণে জারক পদার্থ ঐ ইলেকট্রন গ্রহণ করেছে। যদি জারক পদার্থ Cl ইলেকট্রন গ্রহণ না করতো তাহলে বিজারক পদার্থ Na ইলেকট্রন দান করতে পারত না। কাজেই বলা যায় জারণ যখনই ঘটেবে সাথে সাথে সেখানে বিজারণও ঘটেবে। অর্থাৎ জারণ-বিজারণ একটি যুগপৎ প্রক্রিয়া (Simultaneous Process)।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 156,
+      "pdfPageEnd": 156,
+      "printedPageStart": 151,
+      "printedPageEnd": 151,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p053",
+      "kind": "text",
+      "section": "জারণ-বিজারণ একটি যুগপৎক্রিয়া",
+      "caption": null,
+      "body": "যেহেতু বিজারক ইলেকট্রন দান করে এবং জারক উক্ত ইলেকট্রন গ্রহণ করে কাজেই বলা যায় জারণ-বিজারণ বিক্রিয়া মানেই ইলেকট্রন স্থানান্তর প্রক্রিয়া।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 156,
+      "pdfPageEnd": 156,
+      "printedPageStart": 151,
+      "printedPageEnd": 151,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p054",
+      "kind": "text",
+      "section": "জারণ-বিজারণ একটি যুগপৎক্রিয়া",
+      "caption": null,
+      "body": "বেশ কিছু বিক্রিয়া আছে যেখানে জারণ-বিজারণ বিক্রিয়া ঘটে। সেগুলো হচ্ছে:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 156,
+      "pdfPageEnd": 156,
+      "printedPageStart": 151,
+      "printedPageEnd": 151,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p055",
+      "kind": "text",
+      "section": "জারণ-বিজারণ একটি যুগপৎক্রিয়া",
+      "caption": null,
+      "body": "1. সংয়োজন বিক্রিয়া\n2. বিয়োজন বিক্রিয়া\n3. প্রতিস্থাপন বিক্রিয়া\n4. দহন বিক্রিয়া",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 156,
+      "pdfPageEnd": 156,
+      "printedPageStart": 151,
+      "printedPageEnd": 151,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p056",
+      "kind": "text",
+      "section": "জারণ-বিজারণ একটি যুগপৎক্রিয়া",
+      "caption": null,
+      "body": "**1. সংযোজন বিক্রিয়া (Addition Reaction):** যে জারণ-বিজারণ বিক্রিয়ায় দুই বা ততোধিক রাসায়নিক পদার্থ পরস্পরের সাথে যুক্ত হয়ে একটিমাত্র উৎপাদ উৎপন্ন করে তাকে সংযোজন বিক্রিয়া বলে। যেমন: ফেরাস ক্লোরাইডের সাথে ক্লোরিন যুক্ত হয়ে ফেরিক ক্লোরাইড উৎপন্ন করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p057",
+      "kind": "formula",
+      "section": "জারণ-বিজারণ একটি যুগপৎক্রিয়া",
+      "caption": null,
+      "body": "$$2FeCl_2(aq) + Cl_2(g) \\longrightarrow FeCl_3(aq)$$",
+      "image": null,
+      "formulas": [
+        "2FeCl_2(aq) + Cl_2(g) \\longrightarrow FeCl_3(aq)"
+      ],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p058",
+      "kind": "text",
+      "section": "জারণ-বিজারণ একটি যুগপৎক্রিয়া",
+      "caption": null,
+      "body": "আবার, হাইড্রোজেন গ্যাস নাইট্রোজেন গ্যাসের সাথে যুক্ত হয়ে অ্যামোনিয়া গ্যাস উৎপন্ন করে। এটিও সংযোজন বিক্রিয়ার উদাহরণ।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p059",
+      "kind": "formula",
+      "section": "জারণ-বিজারণ একটি যুগপৎক্রিয়া",
+      "caption": null,
+      "body": "$$N_2 + 3H_2 \\longrightarrow 2NH_3$$",
+      "image": null,
+      "formulas": [
+        "N_2 + 3H_2 \\longrightarrow 2NH_3"
+      ],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p060",
+      "kind": "text",
+      "section": "জারণ-বিজারণ একটি যুগপৎক্রিয়া",
+      "caption": null,
+      "body": "তবে যেসব সংযোজন বিক্রিয়ায় শুধু মৌলিক পদার্থ যুক্ত হয়ে যৌগ গঠন করে, তাদেরকে সংশ্লেষণ বিক্রিয়াও বলে। সুতরাং অ্যামোনিয়া গ্যাস উৎপন্ন করার বিক্রিয়াটি একাধারে সংযোজন বা সংশ্লেষণ বিক্রিয়া হিসেবে বিবেচিত।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p061",
+      "kind": "text",
+      "section": "জারণ-বিজারণ একটি যুগপৎক্রিয়া",
+      "caption": null,
+      "body": "**2. বিয়োজন বিক্রিয়া (Decomposition Reaction):** যে বিক্রিয়ায় একটি যৌগ ভেঙে একাধিক যৌগ বা মৌল উৎপন্ন হয় তাকে বিয়োজন বিক্রিয়া বলা হয়। যেমন: ফসফরাস পেন্টাক্লোরাইডকে তাপ দিলে তা বিয়োজিত হয়ে ফসফরাস ট্রাইক্লোরাইড ও ক্লোরিন উৎপন্ন করে। এটি বিয়োজন বিক্রিয়া।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p062",
+      "kind": "formula",
+      "section": "জারণ-বিজারণ একটি যুগপৎক্রিয়া",
+      "caption": null,
+      "body": "$$\\begin{array}{c} তাপ \\\\ \\downarrow \\\\ PCl_5 \\xrightarrow{তাপ} PCl_3 + Cl_2 \\\\ ফসফরাস পেন্টাক্লোরাইড \\quad ফসফরাস ট্রাইক্লোরাইড \\quad ক্লোরিন \\end{array}$$",
+      "image": null,
+      "formulas": [
+        "\\begin{array}{c} তাপ \\\\ \\downarrow \\\\ PCl_5 \\xrightarrow{তাপ} PCl_3 + Cl_2 \\\\ ফসফরাস পেন্টাক্লোরাইড \\quad ফসফরাস ট্রাইক্লোরাইড \\quad ক্লোরিন \\end{array}"
+      ],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p063",
+      "kind": "text",
+      "section": "জারণ-বিজারণ একটি যুগপৎক্রিয়া",
+      "caption": null,
+      "body": "আবার, পানিকে তাড়িৎবিশ্লেষণ করলে একটি অণু ভেঙে দুটি অণুতে পরিণত হয়। অ্যানোডে অক্সিজেন গ্যাস ও ক্যাথোডে হাইড্রোজেন গ্যাস উৎপন্ন হয়। এটিও বিয়োজন বিক্রিয়ার উদাহরণ:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p064",
+      "kind": "formula",
+      "section": "জারণ-বিজারণ একটি যুগপৎক্রিয়া",
+      "caption": null,
+      "body": "$$\\begin{array}{c} তড়িৎবিশ্লেষণ \\\\ \\downarrow \\\\ 2H_2O(l) \\longrightarrow 2H_2(g) + O_2(g) \\\\ পানি \\quad \\quad \\quad হাইড্রোজেন \\quad অক্সিজেন \\end{array}$$",
+      "image": null,
+      "formulas": [
+        "\\begin{array}{c} তড়িৎবিশ্লেষণ \\\\ \\downarrow \\\\ 2H_2O(l) \\longrightarrow 2H_2(g) + O_2(g) \\\\ পানি \\quad \\quad \\quad হাইড্রোজেন \\quad অক্সিজেন \\end{array}"
+      ],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p065",
+      "kind": "text",
+      "section": "জারণ-বিজারণ একটি যুগপৎক্রিয়া",
+      "caption": null,
+      "body": "**3. প্রতিস্থাপন বিক্রিয়া (Substitution or Displacement Reaction):** কোনো অধিক সক্রিয় মৌল বা যৌগমূলক অপর কোনো কম সক্রিয় মৌল বা যৌগমূলককে প্রতিস্থাপন করে নতুন যৌগ উৎপন্ন করার প্রক্রিয়াকে প্রতিস্থাপন বিক্রিয়া বলে। যেমন: জিংক ধাতু সালফিউরিক এসিডের হাইড্রোজেনকে প্রতিস্থাপিত করে জিংক সালফেট ও হাইড্রোজেন গ্যাস উৎপন্ন করে। এটি প্রতিস্থাপন বিক্রিয়ার উদাহরণ:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p066",
+      "kind": "text",
+      "section": "জারণ-বিজারণ একটি যুগপৎক্রিয়া",
+      "caption": null,
+      "body": "$$Zn(s) + H_2SO_4(l) \\longrightarrow ZnSO_4(aq) + H_2(g)$$\nজিংক সালফেট",
+      "image": null,
+      "formulas": [
+        "Zn(s) + H_2SO_4(l) \\longrightarrow ZnSO_4(aq) + H_2(g)"
+      ],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p067",
+      "kind": "figure",
+      "section": "৪. দহন বিক্রিয়া (Combustion Reaction): কোনো মৌল বা যৌগকে বাতাসের অক্সিজেনের উপস্থিতিতে পুড়িয়ে তার উপাদান মৌলের অক্সাইডে পরিণত করার প্রক্রিয়াকে দহন বিক্রিয়া বলে। দহন বিক্রিয়ায় সব সময় তাপ উৎপন্ন হয়। এই প্রক্রিয়ায় ইলেকট্রন এর আদান-প্রদান ঘটে। যেমন- প্রাকৃতিক গ্যাস বা মিথেন বাতাসের অক্সিজেনের সাথে বিক্রিয়ায় করে কার্বন ডাই-অক্সাইড ও পানি উৎপন্ন করে। এটি দহন বিক্রিয়ার উদাহরণ:",
+      "caption": null,
+      "body": "photo: Bunsen burner flame",
+      "image": "p158-page_12_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 158,
+      "pdfPageEnd": 158,
+      "printedPageStart": 153,
+      "printedPageEnd": 153,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p068",
+      "kind": "figure",
+      "section": "৪. দহন বিক্রিয়া (Combustion Reaction): কোনো মৌল বা যৌগকে বাতাসের অক্সিজেনের উপস্থিতিতে পুড়িয়ে তার উপাদান মৌলের অক্সাইডে পরিণত করার প্রক্রিয়াকে দহন বিক্রিয়া বলে। দহন বিক্রিয়ায় সব সময় তাপ উৎপন্ন হয়। এই প্রক্রিয়ায় ইলেকট্রন এর আদান-প্রদান ঘটে। যেমন- প্রাকৃতিক গ্যাস বা মিথেন বাতাসের অক্সিজেনের সাথে বিক্রিয়ায় করে কার্বন ডাই-অক্সাইড ও পানি উৎপন্ন করে। এটি দহন বিক্রিয়ার উদাহরণ:",
+      "caption": null,
+      "body": "**চিত্র ৭.০১: জ্বালানির দহন**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 158,
+      "pdfPageEnd": 158,
+      "printedPageStart": 153,
+      "printedPageEnd": 153,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p069",
+      "kind": "formula",
+      "section": "৪. দহন বিক্রিয়া (Combustion Reaction): কোনো মৌল বা যৌগকে বাতাসের অক্সিজেনের উপস্থিতিতে পুড়িয়ে তার উপাদান মৌলের অক্সাইডে পরিণত করার প্রক্রিয়াকে দহন বিক্রিয়া বলে। দহন বিক্রিয়ায় সব সময় তাপ উৎপন্ন হয়। এই প্রক্রিয়ায় ইলেকট্রন এর আদান-প্রদান ঘটে। যেমন- প্রাকৃতিক গ্যাস বা মিথেন বাতাসের অক্সিজেনের সাথে বিক্রিয়ায় করে কার্বন ডাই-অক্সাইড ও পানি উৎপন্ন করে। এটি দহন বিক্রিয়ার উদাহরণ:",
+      "caption": null,
+      "body": "$$CH_4(g) + 2O_2(g) \\longrightarrow CO_2(g) + 2H_2O(g) + তাপ$$",
+      "image": null,
+      "formulas": [
+        "CH_4(g) + 2O_2(g) \\longrightarrow CO_2(g) + 2H_2O(g) + তাপ"
+      ],
+      "pdfPageStart": 158,
+      "pdfPageEnd": 158,
+      "printedPageStart": 153,
+      "printedPageEnd": 153,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p070",
+      "kind": "text",
+      "section": "৪. দহন বিক্রিয়া (Combustion Reaction): কোনো মৌল বা যৌগকে বাতাসের অক্সিজেনের উপস্থিতিতে পুড়িয়ে তার উপাদান মৌলের অক্সাইডে পরিণত করার প্রক্রিয়াকে দহন বিক্রিয়া বলে। দহন বিক্রিয়ায় সব সময় তাপ উৎপন্ন হয়। এই প্রক্রিয়ায় ইলেকট্রন এর আদান-প্রদান ঘটে। যেমন- প্রাকৃতিক গ্যাস বা মিথেন বাতাসের অক্সিজেনের সাথে বিক্রিয়ায় করে কার্বন ডাই-অক্সাইড ও পানি উৎপন্ন করে। এটি দহন বিক্রিয়ার উদাহরণ:",
+      "caption": null,
+      "body": "একইভাবে S, C, Mg ও H<sub>2</sub> কে দহন করলে তাদের অক্সাইড উৎপন্ন হয় এবং তাপ উৎপন্ন হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 158,
+      "pdfPageEnd": 158,
+      "printedPageStart": 153,
+      "printedPageEnd": 153,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p071",
+      "kind": "text",
+      "section": "৪. দহন বিক্রিয়া (Combustion Reaction): কোনো মৌল বা যৌগকে বাতাসের অক্সিজেনের উপস্থিতিতে পুড়িয়ে তার উপাদান মৌলের অক্সাইডে পরিণত করার প্রক্রিয়াকে দহন বিক্রিয়া বলে। দহন বিক্রিয়ায় সব সময় তাপ উৎপন্ন হয়। এই প্রক্রিয়ায় ইলেকট্রন এর আদান-প্রদান ঘটে। যেমন- প্রাকৃতিক গ্যাস বা মিথেন বাতাসের অক্সিজেনের সাথে বিক্রিয়ায় করে কার্বন ডাই-অক্সাইড ও পানি উৎপন্ন করে। এটি দহন বিক্রিয়ার উদাহরণ:",
+      "caption": null,
+      "body": "$$S(s) + O_2(g) \\longrightarrow SO_2(g) + তাপ$$\n$$C(s) + O_2(g) \\longrightarrow CO_2(g) + তাপ$$\n$$2Mg(s) + O_2(g) \\longrightarrow 2MgO(g) + তাপ$$\n$$2H_2(g) + O_2(g) \\longrightarrow 2H_2O(g) + তাপ$$",
+      "image": null,
+      "formulas": [
+        "S(s) + O_2(g) \\longrightarrow SO_2(g) + তাপ",
+        "C(s) + O_2(g) \\longrightarrow CO_2(g) + তাপ",
+        "2Mg(s) + O_2(g) \\longrightarrow 2MgO(g) + তাপ",
+        "2H_2(g) + O_2(g) \\longrightarrow 2H_2O(g) + তাপ"
+      ],
+      "pdfPageStart": 158,
+      "pdfPageEnd": 158,
+      "printedPageStart": 153,
+      "printedPageEnd": 153,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p072",
+      "kind": "text",
+      "section": "৪. দহন বিক্রিয়া (Combustion Reaction): কোনো মৌল বা যৌগকে বাতাসের অক্সিজেনের উপস্থিতিতে পুড়িয়ে তার উপাদান মৌলের অক্সাইডে পরিণত করার প্রক্রিয়াকে দহন বিক্রিয়া বলে। দহন বিক্রিয়ায় সব সময় তাপ উৎপন্ন হয়। এই প্রক্রিয়ায় ইলেকট্রন এর আদান-প্রদান ঘটে। যেমন- প্রাকৃতিক গ্যাস বা মিথেন বাতাসের অক্সিজেনের সাথে বিক্রিয়ায় করে কার্বন ডাই-অক্সাইড ও পানি উৎপন্ন করে। এটি দহন বিক্রিয়ার উদাহরণ:",
+      "caption": null,
+      "body": "দহন বিক্রিয়ার প্রতিক্ষেত্রেই অক্সিজেন ইলেকট্রন গ্রহণ করে অপর যৌগ বা মৌল ইলেকট্রন ত্যাগ করে। সুতরাং দহন বিক্রিয়া জারণ-বিজারণ বিক্রিয়ার অন্তর্ভুক্ত।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 158,
+      "pdfPageEnd": 158,
+      "printedPageStart": 153,
+      "printedPageEnd": 153,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p073",
+      "kind": "text",
+      "section": "নন-রেডক্স (Non Redox) বিক্রিয়া",
+      "caption": null,
+      "body": "এমন অনেক রাসায়নিক বিক্রিয়া দেখা যায় যেখানে ইলেকট্রনের আদান-প্রদান ঘটে না। এ ধরনের রাসায়নিক বিক্রিয়াকে নন-রেডক্স বিক্রিয়া বলে। এ ধরনের বিক্রিয়ায় যেহেতু ইলেকট্রনের আদান-প্রদান ঘটে না সুতরাং বিক্রিয়ায় কোনো পরমাণুর জারণ সংখ্যার হ্রাস বা বৃদ্ধি ঘটে না। নিমে বিভিন্ন প্রকার নন-রেডক্স বিক্রিয়া দেখানো হলো যেমন: (1) প্রশমন বিক্রিয়া (2) অধঃক্ষেপণ বিক্রিয়া ইত্যাদি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 158,
+      "pdfPageEnd": 158,
+      "printedPageStart": 153,
+      "printedPageEnd": 153,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p074",
+      "kind": "formula",
+      "section": "১. প্রশমন বিক্রিয়া (Neutralization Reaction): একটি এসিড ও একটি ক্ষার পরস্পরের সাথে বিক্রিয়া করে প্রশমিত হয়ে লবণ ও পানি উৎপন্ন করে। এই বিক্রিয়াকে প্রশমন বিক্রিয়া বলা হয়। এ ধরনের বিক্রিয়াকে এসিড-ক্ষার বিক্রিয়াও বলা হয়। যেমন- HCl ও NaOH পরস্পরের সাথে বিক্রিয়া করে NaCl লবণ ও পানি উৎপন্ন করে। এটি একটি প্রশমন বিক্রিয়া। একে এভাবে দেখানো যায়:",
+      "caption": null,
+      "body": "$$HCl(aq) + NaOH(aq) \\longrightarrow NaCl(aq) + H_2O(l)$$",
+      "image": null,
+      "formulas": [
+        "HCl(aq) + NaOH(aq) \\longrightarrow NaCl(aq) + H_2O(l)"
+      ],
+      "pdfPageStart": 158,
+      "pdfPageEnd": 158,
+      "printedPageStart": 153,
+      "printedPageEnd": 153,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p075",
+      "kind": "text",
+      "section": "১. প্রশমন বিক্রিয়া (Neutralization Reaction): একটি এসিড ও একটি ক্ষার পরস্পরের সাথে বিক্রিয়া করে প্রশমিত হয়ে লবণ ও পানি উৎপন্ন করে। এই বিক্রিয়াকে প্রশমন বিক্রিয়া বলা হয়। এ ধরনের বিক্রিয়াকে এসিড-ক্ষার বিক্রিয়াও বলা হয়। যেমন- HCl ও NaOH পরস্পরের সাথে বিক্রিয়া করে NaCl লবণ ও পানি উৎপন্ন করে। এটি একটি প্রশমন বিক্রিয়া। একে এভাবে দেখানো যায়:",
+      "caption": null,
+      "body": "প্রশমন বিক্রিয়ায় সর্বদাই তাপ উৎপন্ন হয়। অর্থাৎ প্রশমন বিক্রিয়া তাপোৎপাদী বিক্রিয়া এবং এসিড ও ক্ষার উভয়ই তীব্র হলে এই তাপের মান হয় $\\Delta H = -57.34 kJ$। প্রশমন বিক্রিয়ায় এসিড হাইড্রোজেন আয়ন ($H^+$) সরবরাহ করে এবং ক্ষার হাইড্রোক্সাইড আয়ন ($OH^-$) সরবরাহ করে। এরপর উক্ত আয়ন দুটি পরস্পরের সাথে বিক্রিয়া করে পানি উৎপন্ন করে। NaCl জলীয় দ্রবণে $Na^+$ এবং $Cl^-$ আয়ন হিসেবে থাকে।",
+      "image": null,
+      "formulas": [
+        "\\Delta H = -57.34 kJ",
+        "H^+",
+        "OH^-",
+        "Na^+",
+        "Cl^-"
+      ],
+      "pdfPageStart": 159,
+      "pdfPageEnd": 159,
+      "printedPageStart": 154,
+      "printedPageEnd": 154,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p076",
+      "kind": "formula",
+      "section": "১. প্রশমন বিক্রিয়া (Neutralization Reaction): একটি এসিড ও একটি ক্ষার পরস্পরের সাথে বিক্রিয়া করে প্রশমিত হয়ে লবণ ও পানি উৎপন্ন করে। এই বিক্রিয়াকে প্রশমন বিক্রিয়া বলা হয়। এ ধরনের বিক্রিয়াকে এসিড-ক্ষার বিক্রিয়াও বলা হয়। যেমন- HCl ও NaOH পরস্পরের সাথে বিক্রিয়া করে NaCl লবণ ও পানি উৎপন্ন করে। এটি একটি প্রশমন বিক্রিয়া। একে এভাবে দেখানো যায়:",
+      "caption": null,
+      "body": "$$H^+ + Cl^- + Na^+ + OH^- \\longrightarrow Na^+ + Cl^- + H_2O$$",
+      "image": null,
+      "formulas": [
+        "H^+ + Cl^- + Na^+ + OH^- \\longrightarrow Na^+ + Cl^- + H_2O"
+      ],
+      "pdfPageStart": 159,
+      "pdfPageEnd": 159,
+      "printedPageStart": 154,
+      "printedPageEnd": 154,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p077",
+      "kind": "text",
+      "section": "১. প্রশমন বিক্রিয়া (Neutralization Reaction): একটি এসিড ও একটি ক্ষার পরস্পরের সাথে বিক্রিয়া করে প্রশমিত হয়ে লবণ ও পানি উৎপন্ন করে। এই বিক্রিয়াকে প্রশমন বিক্রিয়া বলা হয়। এ ধরনের বিক্রিয়াকে এসিড-ক্ষার বিক্রিয়াও বলা হয়। যেমন- HCl ও NaOH পরস্পরের সাথে বিক্রিয়া করে NaCl লবণ ও পানি উৎপন্ন করে। এটি একটি প্রশমন বিক্রিয়া। একে এভাবে দেখানো যায়:",
+      "caption": null,
+      "body": "এই দ্রবণে উপস্থিত $Na^+$ ও $Cl^-$ আয়নদ্বয় বিক্রিয়ায় অংশগ্রহণ করে না। এদেরকে দর্শক আয়ন বলে। প্রশমন বিক্রিয়ার প্রকৃত সমীকরণ হলো:",
+      "image": null,
+      "formulas": [
+        "Na^+",
+        "Cl^-"
+      ],
+      "pdfPageStart": 159,
+      "pdfPageEnd": 159,
+      "printedPageStart": 154,
+      "printedPageEnd": 154,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p078",
+      "kind": "formula",
+      "section": "১. প্রশমন বিক্রিয়া (Neutralization Reaction): একটি এসিড ও একটি ক্ষার পরস্পরের সাথে বিক্রিয়া করে প্রশমিত হয়ে লবণ ও পানি উৎপন্ন করে। এই বিক্রিয়াকে প্রশমন বিক্রিয়া বলা হয়। এ ধরনের বিক্রিয়াকে এসিড-ক্ষার বিক্রিয়াও বলা হয়। যেমন- HCl ও NaOH পরস্পরের সাথে বিক্রিয়া করে NaCl লবণ ও পানি উৎপন্ন করে। এটি একটি প্রশমন বিক্রিয়া। একে এভাবে দেখানো যায়:",
+      "caption": null,
+      "body": "$$H^+ + OH^- \\longrightarrow H_2O + 57.34 kJ$$",
+      "image": null,
+      "formulas": [
+        "H^+ + OH^- \\longrightarrow H_2O + 57.34 kJ"
+      ],
+      "pdfPageStart": 159,
+      "pdfPageEnd": 159,
+      "printedPageStart": 154,
+      "printedPageEnd": 154,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p079",
+      "kind": "text",
+      "section": "১. প্রশমন বিক্রিয়া (Neutralization Reaction): একটি এসিড ও একটি ক্ষার পরস্পরের সাথে বিক্রিয়া করে প্রশমিত হয়ে লবণ ও পানি উৎপন্ন করে। এই বিক্রিয়াকে প্রশমন বিক্রিয়া বলা হয়। এ ধরনের বিক্রিয়াকে এসিড-ক্ষার বিক্রিয়াও বলা হয়। যেমন- HCl ও NaOH পরস্পরের সাথে বিক্রিয়া করে NaCl লবণ ও পানি উৎপন্ন করে। এটি একটি প্রশমন বিক্রিয়া। একে এভাবে দেখানো যায়:",
+      "caption": null,
+      "body": "সুতরাং প্রশমন বিক্রিয়া বলতে আমরা $H^+$ আয়ন ও $OH^-$ আয়নের সহযোগে পানি উৎপন্ন করার বিক্রিয়াকে বুঝে থাকি।",
+      "image": null,
+      "formulas": [
+        "H^+",
+        "OH^-"
+      ],
+      "pdfPageStart": 159,
+      "pdfPageEnd": 159,
+      "printedPageStart": 154,
+      "printedPageEnd": 154,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p080",
+      "kind": "text",
+      "section": "১. প্রশমন বিক্রিয়া (Neutralization Reaction): একটি এসিড ও একটি ক্ষার পরস্পরের সাথে বিক্রিয়া করে প্রশমিত হয়ে লবণ ও পানি উৎপন্ন করে। এই বিক্রিয়াকে প্রশমন বিক্রিয়া বলা হয়। এ ধরনের বিক্রিয়াকে এসিড-ক্ষার বিক্রিয়াও বলা হয়। যেমন- HCl ও NaOH পরস্পরের সাথে বিক্রিয়া করে NaCl লবণ ও পানি উৎপন্ন করে। এটি একটি প্রশমন বিক্রিয়া। একে এভাবে দেখানো যায়:",
+      "caption": null,
+      "body": "আবার, এসিড হিসেবে আমরা যেকোনো তীব্র এসিড নিই না কেন প্রতি ক্ষেত্রে সে হাইড্রোজেন আয়ন $H^+$ সরবরাহ করবে এবং ক্ষার হিসেবে যেকোনো তীব্র ক্ষার নিলে সেটি হাইড্রোক্সাইড $OH^-$ সরবরাহ করবে। অতঃপর এরা পরস্পরের সাথে যুক্ত হয়ে পানি উৎপন্ন করবে। ১ মোল পানি উৎপন্ন করতে যে পরিমাণ তাপ উৎপন্ন হয় তাকে প্রশমন তাপ বলে। হিসাব করে দেখা গেছে ১ মোল পানি উৎপন্ন করার জন্য 57.34 kJ তাপ উৎপন্ন হয়।",
+      "image": null,
+      "formulas": [
+        "H^+",
+        "OH^-"
+      ],
+      "pdfPageStart": 159,
+      "pdfPageEnd": 159,
+      "printedPageStart": 154,
+      "printedPageEnd": 154,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p081",
+      "kind": "text",
+      "section": "পরীক্ষণের মাধ্যমে প্রশমন বিক্রিয়া প্রদর্শন।",
+      "caption": null,
+      "body": "এসিড ও ক্ষার বিক্রিয়া করে লবণ ও পানি উৎপন্ন করে, এই বিক্রিয়াকে প্রশমন বিক্রিয়া বলা হয়। একটি কাচপাত্র বা বিকারে 10 mL NaOH দ্রবণ নাও। অপর একটি বিকারের মধ্যে HCl দ্রবণ নাও। বিকারের দ্রবণের মধ্যে একটি নীল লিটমাস পেপার নিমজ্জিত করো। এবার ডুপার ব্যবহার করে বাম হাত দিয়ে HCl দ্রবণকে ধীরে ধীরে NaOH দ্রবণের মধ্যে ঢালতে থাকো। একই সাথে ডান হাত দিয়ে একটি কাচদণ্ড দিয়ে নেড়ে নেড়ে HCl দ্রবণকে NaOH দ্রবণের মধ্যে মিশ্রিত করো। যে মুহূর্তে লিটমাস পেপারের রং লাল হয়ে যাবে, সেই মুহূর্তে মনে করতে হবে বিকারের NaOH দ্রবণ HCl দ্রবণ দ্বারা প্রশমিত হয়ে গেছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 159,
+      "pdfPageEnd": 159,
+      "printedPageStart": 154,
+      "printedPageEnd": 154,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p082",
+      "kind": "formula",
+      "section": "পরীক্ষণের মাধ্যমে প্রশমন বিক্রিয়া প্রদর্শন।",
+      "caption": null,
+      "body": "$$HCl(aq) + NaOH(aq) \\longrightarrow NaCl(aq) + H_2O(l)$$",
+      "image": null,
+      "formulas": [
+        "HCl(aq) + NaOH(aq) \\longrightarrow NaCl(aq) + H_2O(l)"
+      ],
+      "pdfPageStart": 159,
+      "pdfPageEnd": 159,
+      "printedPageStart": 154,
+      "printedPageEnd": 154,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p083",
+      "kind": "text",
+      "section": "পরীক্ষণের মাধ্যমে প্রশমন বিক্রিয়া প্রদর্শন।",
+      "caption": null,
+      "body": "**২. অধঃক্ষেপণ বিক্রিয়া (Precipitation Reaction):** একই দ্রাবকে দুটি যৌগ মিশ্রিত করলে তারা পরস্পরের সাথে বিক্রিয়া করে যে উৎপাদগুলো উৎপন্ন করে তাদের মধ্যে কোনোটি যদি ঐ দ্রাবকে অদ্রবণীয় বা খুবই কম পরিমাণে দ্রবণীয় হয় তবে তা বিক্রিয়া পাত্রের তলায় কঠিন অবস্থায় তলানি হিসেবে জমা হয়। এ তলানিকে অধঃক্ষেপ (precipitate) বলে। যে বিক্রিয়ায় দ্রবণীয় বিক্রিয়ক পদার্থ বিক্রিয়া করে অদ্রবণীয় কঠিন উৎপাদে পরিণত হয় তাকে অধঃক্ষেপণ বিক্রিয়া বলে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 160,
+      "pdfPageEnd": 160,
+      "printedPageStart": 155,
+      "printedPageEnd": 155,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p084",
+      "kind": "text",
+      "section": "পরীক্ষণের মাধ্যমে প্রশমন বিক্রিয়া প্রদর্শন।",
+      "caption": null,
+      "body": "যেমন: সোডিয়াম ক্লোরাইডের (NaCl) জলীয় দ্রবণের মধ্যে সিলভার নাইট্রেট (AgNO<sub>3</sub>) জলীয় দ্রবণ যোগ করলে তাদের মধ্যে বিক্রিয়া ঘটে, ফলে সিলভার ক্লোরাইড (AgCl) এবং সোডিয়াম নাইট্রেট (NaNO<sub>3</sub>) উৎপন্ন হয়। পানিতে NaNO<sub>3</sub> এর দ্রবণীয়তা বেশি। তাই NaNO<sub>3</sub> পানিতে দ্রবীভূত অবস্থায় থাকে। কিন্তু পানিতে AgCl এর দ্রবণীয়তা অত্যন্ত কম বলে তা বিক্রিয়ার পর পাত্রের তলায় অধঃক্ষেপ হিসেবে জমা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 160,
+      "pdfPageEnd": 160,
+      "printedPageStart": 155,
+      "printedPageEnd": 155,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p085",
+      "kind": "formula",
+      "section": "পরীক্ষণের মাধ্যমে প্রশমন বিক্রিয়া প্রদর্শন।",
+      "caption": null,
+      "body": "$$NaCl(aq) + AgNO_3(aq) \\longrightarrow AgCl(s)\\downarrow + NaNO_3(aq)$$",
+      "image": null,
+      "formulas": [
+        "NaCl(aq) + AgNO_3(aq) \\longrightarrow AgCl(s)\\downarrow + NaNO_3(aq)"
+      ],
+      "pdfPageStart": 160,
+      "pdfPageEnd": 160,
+      "printedPageStart": 155,
+      "printedPageEnd": 155,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p086",
+      "kind": "text",
+      "section": "পরীক্ষণের মাধ্যমে প্রশমন বিক্রিয়া প্রদর্শন।",
+      "caption": null,
+      "body": "সোডিয়াম সালফেট (Na<sub>2</sub>SO<sub>4</sub>) দ্রবণে বেরিয়াম ক্লোরাইড দ্রবণ যোগ করলে বেরিয়াম সালফেট (BaSO<sub>4</sub>) ও সোডিয়াম ক্লোরাইড উৎপন্ন করে। বেরিয়াম সালফেট অধঃক্ষিপ্ত হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 160,
+      "pdfPageEnd": 160,
+      "printedPageStart": 155,
+      "printedPageEnd": 155,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p087",
+      "kind": "formula",
+      "section": "পরীক্ষণের মাধ্যমে প্রশমন বিক্রিয়া প্রদর্শন।",
+      "caption": null,
+      "body": "$$Na_2SO_4(aq) + BaCl_2(aq) \\longrightarrow BaSO_4(s)\\downarrow + 2NaCl(aq)$$",
+      "image": null,
+      "formulas": [
+        "Na_2SO_4(aq) + BaCl_2(aq) \\longrightarrow BaSO_4(s)\\downarrow + 2NaCl(aq)"
+      ],
+      "pdfPageStart": 160,
+      "pdfPageEnd": 160,
+      "printedPageStart": 155,
+      "printedPageEnd": 155,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p088",
+      "kind": "text",
+      "section": "পরীক্ষণের মাধ্যমে প্রশমন বিক্রিয়া প্রদর্শন।",
+      "caption": null,
+      "body": "তবে কিছু অধঃক্ষেপণ বিক্রিয়া রয়েছে যেখানে ইলেকট্রনের স্থানান্তর ঘটে। এ সম্পর্কে পরবর্তী শ্রেণিতে জানতে পারবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 160,
+      "pdfPageEnd": 160,
+      "printedPageStart": 155,
+      "printedPageEnd": 155,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p089",
+      "kind": "figure",
+      "section": "পরীক্ষণের মাধ্যমে প্রশমন বিক্রিয়া প্রদর্শন।",
+      "caption": null,
+      "body": "drawing: chemical reaction diagram showing the addition of NaOH to FeSO4 solution resulting in Fe(OH)2 precipitate",
+      "image": "p160-page_14_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 160,
+      "pdfPageEnd": 160,
+      "printedPageStart": 155,
+      "printedPageEnd": 155,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p090",
+      "kind": "figure",
+      "section": "পরীক্ষণের মাধ্যমে প্রশমন বিক্রিয়া প্রদর্শন।",
+      "caption": null,
+      "body": "**চিত্র ৯.০২: অধঃক্ষেপণ বিক্রিয়া**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 160,
+      "pdfPageEnd": 160,
+      "printedPageStart": 155,
+      "printedPageEnd": 155,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p091",
+      "kind": "text",
+      "section": "পরীক্ষণের মাধ্যমে প্রশমন বিক্রিয়া প্রদর্শন।",
+      "caption": null,
+      "body": "**পরীক্ষণের মাধ্যমে অধঃক্ষেপণ বিক্রিয়া প্রদর্শন।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 160,
+      "pdfPageEnd": 160,
+      "printedPageStart": 155,
+      "printedPageEnd": 155,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p092",
+      "kind": "text",
+      "section": "পরীক্ষণের মাধ্যমে প্রশমন বিক্রিয়া প্রদর্শন।",
+      "caption": null,
+      "body": "একটি পরীক্ষা নলে ২-৩ মিলি ফেরাস সালফেট দ্রবণে ফোঁটায় ফোঁটায় NaOH দ্রবণ যোগ করো। দেখবে দ্রবণে ধীরে ধীরে সবুজ বর্ণের অধঃক্ষেপ তৈরি হচ্ছে এবং তা নিচে জমা পড়েছে। তরল FeSO<sub>4</sub> দ্রবণ তরল NaOH দ্রবণের সাথে বিক্রিয়া করে কঠিন Fe(OH)<sub>2</sub> এর অধঃক্ষেপ তৈরি করছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 160,
+      "pdfPageEnd": 160,
+      "printedPageStart": 155,
+      "printedPageEnd": 155,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p093",
+      "kind": "formula",
+      "section": "পরীক্ষণের মাধ্যমে প্রশমন বিক্রিয়া প্রদর্শন।",
+      "caption": null,
+      "body": "$$FeSO_4 + NaOH \\longrightarrow Fe(OH)_2 \\downarrow + Na_2SO_4$$",
+      "image": null,
+      "formulas": [
+        "FeSO_4 + NaOH \\longrightarrow Fe(OH)_2 \\downarrow + Na_2SO_4"
+      ],
+      "pdfPageStart": 160,
+      "pdfPageEnd": 160,
+      "printedPageStart": 155,
+      "printedPageEnd": 155,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.2-p094",
+      "kind": "text",
+      "section": "পরীক্ষণের মাধ্যমে প্রশমন বিক্রিয়া প্রদর্শন।",
+      "caption": null,
+      "body": "যে যৌগের অধঃক্ষেপ উৎপন্ন হয় বিক্রিয়ায় সেই যৌগের ডানপাশে নিচের দিকে তির চিহ্ন ($\\downarrow$) দ্বারা বোঝানো হয়।",
+      "image": null,
+      "formulas": [
+        "\\downarrow"
+      ],
+      "pdfPageStart": 161,
+      "pdfPageEnd": 161,
+      "printedPageStart": 156,
+      "printedPageEnd": 156,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "id": "physics-9-10-bn-c07-t7.1",
+  "key": "7.1",
+  "title": "সরল স্পন্দন গতি (Simple Harmonic Motion)",
+  "chapter": 7,
+  "ordinal": 1,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c07-t7.1-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "একটা উল্লেখ স্পিংয়ের নিচে একটা ভর লাগিয়ে সেটা নিচের দিকে টেনে ছেড়ে দিলে সেটা উপরে-নিচে দুলতে থাকে। (তৃতীয় এবং চতুর্থ অধ্যায়ে আমরা এই গতিটি ব্যাখ্যা করছি।) আমরা দেখেছি, ঘর্ষণের জন্য বা অন্য কোনো কারণে শক্তি ক্ষয় হয়ে বলে এটা একসময় থেমে যায়। তা না হলে এটা অনন্তকাল উপরে-নিচে দুলতে থাকত। আমরা এটাও দেখেছি যে স্পিংয়ের সাথে লাগানো ভরটির গতিশক্তি এবং স্থিতি শক্তির মার্ফে আদান-প্রদান ঘটে। ধরে নেওয়া যেতে পারে যে স্পিংটি হুক (Hooke) -এর সূত্র মনে চলে। সূত্রটি আবার মনে করিয়ে দেয়া যাক। স্পিং-এর ধ্রুবক যদি হয় $k$, এবং স্পিং-এর শেষ প্রান্তের অবস্থান যদি হয় তার সাম্যাবস্থা থেকে $x$ দূরেছে, তাহলে স্পিং-এর প্রত্যয়নী বল $F$ হলো",
+      "image": null,
+      "formulas": [
+        "k",
+        "x",
+        "F"
+      ],
+      "pdfPageStart": 193,
+      "pdfPageEnd": 193,
+      "printedPageStart": 188,
+      "printedPageEnd": 188,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c07-t7.1-p002",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$F = -kx$$",
+      "image": null,
+      "formulas": [
+        "F = -kx"
+      ],
+      "pdfPageStart": 193,
+      "pdfPageEnd": 193,
+      "printedPageStart": 188,
+      "printedPageEnd": 188,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c07-t7.1-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "হুকের সূত্রের কারণে যে ছন্দিত বা স্পন্দন গতি হয়, সেটাকে বলে সরল স্পন্দন গতি। পদার্থবিজ্ঞানের সবচেয়ে গুরুত্বপূর্ণ গতিগুলোর একটি হচ্ছে এই গতি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 193,
+      "pdfPageEnd": 193,
+      "printedPageStart": 188,
+      "printedPageEnd": 188,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c07-t7.1-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তোমাদের এই বইয়ে এটা বের করে দেখানোর সুযোগ নেই কিন্তু জানিয়ে রাখতে স্মৃতি কী? যদি একটা স্পিংয়ের ধ্রুবক হয় $k$ এবং স্পিং-এর সাথে সংযুক্ত ভর হয় $m$ তাহলে ভরটির গতির দোলনকাল হবে",
+      "image": null,
+      "formulas": [
+        "k",
+        "m"
+      ],
+      "pdfPageStart": 193,
+      "pdfPageEnd": 193,
+      "printedPageStart": 188,
+      "printedPageEnd": 188,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c07-t7.1-p005",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$T = 2\\pi \\sqrt{\\frac{m}{k}}$$",
+      "image": null,
+      "formulas": [
+        "T = 2\\pi \\sqrt{\\frac{m}{k}}"
+      ],
+      "pdfPageStart": 193,
+      "pdfPageEnd": 193,
+      "printedPageStart": 188,
+      "printedPageEnd": 188,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c07-t7.1-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যদি এটা স্পিং না হয়ে একটা পেন্ডুলাম হতো, পেন্ডুলামের দৈর্ঘ্য হতো $l$, আর মাধ্যাকর্ষণজনিত ত্বরণ হতো $g$, তাহলে দোলনকাল হতো",
+      "image": null,
+      "formulas": [
+        "l",
+        "g"
+      ],
+      "pdfPageStart": 193,
+      "pdfPageEnd": 193,
+      "printedPageStart": 188,
+      "printedPageEnd": 188,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c07-t7.1-p007",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$T = 2\\pi \\sqrt{\\frac{l}{g}}$$",
+      "image": null,
+      "formulas": [
+        "T = 2\\pi \\sqrt{\\frac{l}{g}}"
+      ],
+      "pdfPageStart": 193,
+      "pdfPageEnd": 193,
+      "printedPageStart": 188,
+      "printedPageEnd": 188,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c07-t7.1-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(না, কোনো ভুল হয়নি, তুমি একটা হালকা ভরই বোলাও আর ভারী ভরই বোলাও, দোলনকাল একই হয়, এটা ভরের ওপর নির্ভর করে না।)",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 193,
+      "pdfPageEnd": 193,
+      "printedPageStart": 188,
+      "printedPageEnd": 188,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c07-t7.1-p009",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** 1 m লম্বা একটা সুতা দিয়ে 10 gm ভরের একটা পাথর ঝুলিয়ে দাও। তার দোলনকাল কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 193,
+      "pdfPageEnd": 193,
+      "printedPageStart": 188,
+      "printedPageEnd": 188,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c07-t7.1-p010",
+      "kind": "formula",
+      "section": "উত্তর:",
+      "caption": null,
+      "body": "$$T = 2\\pi \\sqrt{\\frac{l}{g}} = 2\\pi \\sqrt{\\frac{1 m}{9.8 m/s^2}} = 2.0 s$$",
+      "image": null,
+      "formulas": [
+        "T = 2\\pi \\sqrt{\\frac{l}{g}} = 2\\pi \\sqrt{\\frac{1 m}{9.8 m/s^2}} = 2.0 s"
+      ],
+      "pdfPageStart": 194,
+      "pdfPageEnd": 194,
+      "printedPageStart": 189,
+      "printedPageEnd": 189,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c07-t7.1-p011",
+      "kind": "text",
+      "section": "উত্তর:",
+      "caption": null,
+      "body": "পাথরটার ওজন 10 gm না হয়ে অন্য কিছু হলেও দোলনকাল একই থাকত। ইচ্ছা করলে তুমি এখনই দোলনকাল মেপে সেখান থেকে $g$ এর মান বের করতে পারবে। চেষ্টা করে দেখো!",
+      "image": null,
+      "formulas": [
+        "g"
+      ],
+      "pdfPageStart": 194,
+      "pdfPageEnd": 194,
+      "printedPageStart": 189,
+      "printedPageEnd": 189,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c07-t7.1-p012",
+      "kind": "text",
+      "section": "উত্তর:",
+      "caption": null,
+      "body": "একটা স্পিংয়ের নিচে একটা ভর ঝুলিয়ে দিলে ভরটা স্পিংটাকে টেনে একটু লম্বা করে সেই অবস্থানে স্থির হয়ে থাকবে। স্পিংয়ের এই অবস্থাটাকে বলা যায় সাম্য অবস্থা (চিত্র ৭.০১-০)।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 194,
+      "pdfPageEnd": 194,
+      "printedPageStart": 189,
+      "printedPageEnd": 189,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c07-t7.1-p013",
+      "kind": "text",
+      "section": "উত্তর:",
+      "caption": null,
+      "body": "এখন যদি ভরটাকে টেনে একটু নিচে $a$ দূরত্ব নামিয়ে এনে ছেড়ে দিই (চিত্র ৭.০১-১) তাহলে ভরটা উপরের দিকে উঠতে থাকবে, সাম্যাবস্থা পার হয়ে এটা উপরে $a$ দূরত্বে উঠে যাবে। তারপর আবার নিচে নামতে থাকবে। সাম্যাবস্থা পার হয়ে নিচে নেমে যাবে এবং এটা চলতেই থাকবে।",
+      "image": null,
+      "formulas": [
+        "a",
+        "a"
+      ],
+      "pdfPageStart": 194,
+      "pdfPageEnd": 194,
+      "printedPageStart": 189,
+      "printedPageEnd": 189,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c07-t7.1-p014",
+      "kind": "figure",
+      "section": "উত্তর:",
+      "caption": null,
+      "body": "drawing: A diagram showing a mass on a spring oscillating through equilibrium positions (0-9) with labels for displacement 'a' and velocity 'v' at various points.",
+      "image": "p194-page_4_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 194,
+      "pdfPageEnd": 194,
+      "printedPageStart": 189,
+      "printedPageEnd": 189,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c07-t7.1-p015",
+      "kind": "figure",
+      "section": "উত্তর:",
+      "caption": null,
+      "body": "**চিত্র ৭.০১: (0) হচ্ছে সাম্য অবস্থা। টেনে (1) অবস্থানে নিয়ে ছেড়ে দেবার পর স্পিংটি সরল স্পন্দিত বেগে দুলছে।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 194,
+      "pdfPageEnd": 194,
+      "printedPageStart": 189,
+      "printedPageEnd": 189,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c07-t7.1-p016",
+      "kind": "text",
+      "section": "উত্তর:",
+      "caption": null,
+      "body": "ভরটা যখন $2 \\rightarrow 3 \\rightarrow 4 \\rightarrow 5$ অবস্থান শেষ করে যে অবস্থানে শুরু করেছিল ঠিক একই অবস্থানে (৬) একই অবস্থায় ফিরে আসে (উপরের দিকে $v$ বেগে গতিশীল) তখন আমরা বলি একটা পূর্ণ স্পন্দন হয়েছে। মনে রাখতে হবে $2 \\rightarrow 3$ শেষ করে $4$ এলেও কিন্তু যে অবস্থান থেকে শুরু করেছে সেই অবস্থানে ফিরে আসবে, এটা পূর্ণ স্পন্দন নয় কারণ প্রথম $2$ অবস্থানটিতে ভরটি উপরের দিকে যাচ্ছে এবং পরের $4$ অবস্থানটিতে নিচের দিকে যাচ্ছে। কাজেই এক অবস্থানে একই অবস্থায় ফিরে আসা হলো না।",
+      "image": null,
+      "formulas": [
+        "2 \\rightarrow 3 \\rightarrow 4 \\rightarrow 5",
+        "v",
+        "2 \\rightarrow 3",
+        "4",
+        "2",
+        "4"
+      ],
+      "pdfPageStart": 195,
+      "pdfPageEnd": 195,
+      "printedPageStart": 190,
+      "printedPageEnd": 190,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c07-t7.1-p017",
+      "kind": "text",
+      "section": "উত্তর:",
+      "caption": null,
+      "body": "সরল স্পন্দন গতি বিশ্লেষণ করতে হলে আমাদের কয়েকটা রাশি ব্যাখ্যা করে নেওয়া ভালো। প্রথমটি হতে পারে পর্যায় কাল (Time Period) বা দোলনকাল $T$। একটা পূর্ণ স্পন্দন হতে যে সময় নেয় সেটা হচ্ছে পর্যায়কাল বা দোলনকাল। কম্পাঙ্ক $f$ হচ্ছে প্রতি সেকেন্ড পূর্ণ স্পন্দনের সংখ্যা অর্থাৎ $f = \\frac{1}{T}$, এখন পর্যায়কাল $T$ যদি সেকেন্ডে প্রকাশ করি, তাহলে $f$ এর একক হার্টজ (Hz) বা $s^{-1}$ হবে।",
+      "image": null,
+      "formulas": [
+        "T",
+        "f",
+        "f = \\frac{1}{T}",
+        "T",
+        "f",
+        "s^{-1}"
+      ],
+      "pdfPageStart": 195,
+      "pdfPageEnd": 195,
+      "printedPageStart": 190,
+      "printedPageEnd": 190,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c07-t7.1-p018",
+      "kind": "text",
+      "section": "উত্তর:",
+      "caption": null,
+      "body": "সরল স্পন্দিত গতিতে সাম্যাবস্থা থেকে উপরে কিংবা নিচে সবচেয়ে বেশি যে সরণ হয়, তাকে বলে বিস্তার (Amplitude)। ৭.০১ চিত্রে যেভাবে দেখানো হয়েছে তাতে বিস্তার হচ্ছে $a$।",
+      "image": null,
+      "formulas": [
+        "a"
+      ],
+      "pdfPageStart": 195,
+      "pdfPageEnd": 195,
+      "printedPageStart": 190,
+      "printedPageEnd": 190,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c07-t7.1-p019",
+      "kind": "text",
+      "section": "উত্তর:",
+      "caption": null,
+      "body": "এর পরের রাশিটি হচ্ছে দশা (Phase)। স্পিংয়ে লাগানো ভরটি যখন ওঠানামা করছে, তখন কোনো এক মুহূর্তে যদি ভরটির দিকে তাকাই তাহলে আমরা দেখব সেটি সাম্যাবস্থা থেকে কোনো একটি দূরত্বে কোনো এক দিকে ধাবমান আছে, সেই অবস্থাটি হচ্ছে তার দশা। সরল স্পন্দন গতিতে ভর এবং স্পিংয়ের এই নির্দিষ্ট অবস্থাটি তুবহু একইভাবে ফিরে আসবে, আবার ঠিক এক পর্যায়কাল পরে। পদার্থবিজ্ঞানের ভাষায় বলা যায় সরল স্পন্দন গতিতে কোনো এক মুহূর্তে যে দশা হয়, এক দোলনকাল পর আবার সেই দশা ফিরে আসে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 195,
+      "pdfPageEnd": 195,
+      "printedPageStart": 190,
+      "printedPageEnd": 190,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "id": "chemistry-9-10-bn-c03-t3.3",
+  "key": "3.3",
+  "title": "মৌলের প্রতীক (Symbols of Elements)",
+  "chapter": 3,
+  "ordinal": 3,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c03-t3.3-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কোনো মৌলের ইংরেজি বা ল্যাটিন নামের সংক্ষিপ্ত রূপকে প্রতীক বলে। প্রত্যেকটি মৌলকে সংক্ষিপে প্রকাশ করতে তাদের আলাদা আলাদা প্রতীক ব্যবহার করা হয়। মৌলের প্রতীক লিখতে কিছু নিয়ম অনুসরণ করতে হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 43,
+      "pdfPageEnd": 43,
+      "printedPageStart": 38,
+      "printedPageEnd": 38,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.3-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(a) প্রথমত মৌলের ইংরেজি নামের প্রথম অক্ষর দিয়ে প্রতীক লেখা হয় এবং তা ইংরেজি বর্ণমালার বড় হাতের অক্ষর দিয়ে প্রকাশ করা হয়। যেমন- হাইড্রোজেন (Hydrogen) এর প্রতীক (H), কার্বন (Carbon) এর প্রতীক (C), অক্সিজেনের প্রতীক (O) ইত্যাদি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 43,
+      "pdfPageEnd": 43,
+      "printedPageStart": 38,
+      "printedPageEnd": 38,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.3-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(b) যদি দুই বা দুইয়ের অধিক মৌলের ইংরেজি নামের প্রথম অক্ষর একই হয় তবে একটি মৌলকে নামের প্রথম অক্ষর (ইংরেজি বর্ণমালার বড় হাতের) দিয়ে প্রকাশ করা হয়। অন্যগুলোর ক্ষেত্রে প্রতীকটি দুই অক্ষরে লেখা হয়। নামের প্রথম অক্ষরটি ইংরেজি বর্ণমালার বড় হাতের অক্ষর এবং নামের অন্য একটি অক্ষর ছোট হাতের অক্ষর দিয়ে লেখা হয়। যেমন-",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 43,
+      "pdfPageEnd": 43,
+      "printedPageStart": 38,
+      "printedPageEnd": 38,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.3-p004",
+      "kind": "table",
+      "section": null,
+      "caption": "টেবিল ৩.০১: মৌলের নামকরণ",
+      "body": "<table><tr><th>মৌল</th><th>ইংরেজি নাম</th><th>প্রতীক</th></tr>\n<tr><td>হাইড্রোজেন</td><td>Hydrogen</td><td>H</td></tr>\n<tr><td>অক্সিজেন</td><td>Oxygen</td><td>O</td></tr>\n<tr><td>নাইট্রোজেন</td><td>Nitrogen</td><td>N</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 43,
+      "pdfPageEnd": 43,
+      "printedPageStart": 38,
+      "printedPageEnd": 38,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.3-p005",
+      "kind": "table",
+      "section": null,
+      "caption": "টেবিল ৩.০২: মৌলের নামকরণ (প্রথম অক্ষর এক)",
+      "body": "<table><tr><th>মৌল</th><th>ইংরেজি নাম</th><th>প্রতীক</th></tr>\n<tr><td>কার্বন</td><td>Carbon</td><td>C</td></tr>\n<tr><td>ক্লোরিন</td><td>Chlorine</td><td>Cl</td></tr>\n<tr><td>ক্যালসিয়াম</td><td>Calcium</td><td>Ca</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 43,
+      "pdfPageEnd": 43,
+      "printedPageStart": 38,
+      "printedPageEnd": 38,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.3-p006",
+      "kind": "table",
+      "section": null,
+      "caption": null,
+      "body": "<table><tr><th>মৌল</th><th>ইংরেজি নাম</th><th>প্রতীক</th></tr>\n<tr><td>কোবাল্ট</td><td>Cobalt</td><td>Co</td></tr>\n<tr><td>ক্যাডমিয়াম</td><td>Cadmium</td><td>Cd</td></tr>\n<tr><td>ক্রোমিয়াম</td><td>Chromium</td><td>Cr</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 43,
+      "pdfPageEnd": 43,
+      "printedPageStart": 38,
+      "printedPageEnd": 38,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.3-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(c) কিছু মৌলের প্রতীক তাদের ল্যাটিন নাম থেকে নেওয়া হয়েছে। যেমন-",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 43,
+      "pdfPageEnd": 43,
+      "printedPageStart": 38,
+      "printedPageEnd": 38,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.3-p008",
+      "kind": "table",
+      "section": null,
+      "caption": "টেবিল ৩.০৩: মৌলের নামকরণ (ল্যাটিন নাম)",
+      "body": "<table><tr><th>মৌল</th><th>ল্যাটিন নাম</th><th>প্রতীক</th></tr>\n<tr><td>সোডিয়াম</td><td>Natrium</td><td>Na</td></tr>\n<tr><td>কপার</td><td>Cuprum</td><td>Cu</td></tr>\n<tr><td>পটাশিয়াম</td><td>Kalium</td><td>K</td></tr>\n<tr><td>সিলভার</td><td>Argentum</td><td>Ag</td></tr>\n<tr><td>টিন</td><td>Stannum</td><td>Sn</td></tr>\n<tr><td>এন্টিমনি</td><td>Stibium</td><td>Sb</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 43,
+      "pdfPageEnd": 43,
+      "printedPageStart": 38,
+      "printedPageEnd": 38,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.3-p009",
+      "kind": "table",
+      "section": null,
+      "caption": null,
+      "body": "<table><tr><th>মৌল</th><th>ল্যাটিন নাম</th><th>প্রতীক</th></tr>\n<tr><td>গোল্ড</td><td>Aurum</td><td>Au</td></tr>\n<tr><td>লেড</td><td>Plumbum</td><td>Pb</td></tr>\n<tr><td>ট্যাংস্টেন</td><td>Wolfram</td><td>W</td></tr>\n<tr><td>আয়রন</td><td>Ferrum</td><td>Fe</td></tr>\n<tr><td>মারকরি</td><td>Hydrurgyrum</td><td>Hg</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 43,
+      "pdfPageEnd": 43,
+      "printedPageStart": 38,
+      "printedPageEnd": 38,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.3-p010",
+      "kind": "activity",
+      "section": "একক কাজ",
+      "caption": null,
+      "body": "**কাজ:** চতুর্থ অধ্যায়ের পর্যায় সারণি থেকে কিছু মৌলের নাম ও প্রতীক সংগ্রহ করে তোমার রসায়ন শিক্ষককে দেখাও।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 44,
+      "pdfPageEnd": 44,
+      "printedPageStart": 39,
+      "printedPageEnd": 39,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

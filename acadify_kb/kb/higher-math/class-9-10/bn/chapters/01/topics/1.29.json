@@ -1,0 +1,1025 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.29",
+  "key": "1.29",
+  "title": "বিপরীত ফাংশন (Inverse Function)",
+  "chapter": 1,
+  "ordinal": 30,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "নিচের তিনটি চিত্রে তিনটি ফাংশন বর্ণনা করা হয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 29,
+      "pdfPageEnd": 29,
+      "printedPageStart": 24,
+      "printedPageEnd": 24,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p002",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: three mathematical function diagrams labeled A-B, A-C, and A-D",
+      "image": "p29-page_24_image_4_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 29,
+      "pdfPageEnd": 29,
+      "printedPageStart": 24,
+      "printedPageEnd": 24,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) উপরের বামের চিত্রের ফাংশনটির অধীনে $a \\to 1, b \\to 2, c \\to 4$। এই ফাংশনটি এক-এক কিন্তু সার্বিক নয় কেননা ৩ এর কোনো প্রাক প্রতিবিষ্টি নেই।",
+      "image": null,
+      "formulas": [
+        "a \\to 1, b \\to 2, c \\to 4"
+      ],
+      "pdfPageStart": 29,
+      "pdfPageEnd": 29,
+      "printedPageStart": 24,
+      "printedPageEnd": 24,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) উপরের মার্কের চিত্রে ফাংশনটির অধীনে $a \\to 1, b \\to 2, c \\to 2$। এই ফাংশনটি সার্বিক কিন্তু এক-এক নয় কেননা $b$ ও $c$ এর প্রতিবিস্ব ২।",
+      "image": null,
+      "formulas": [
+        "a \\to 1, b \\to 2, c \\to 2",
+        "b",
+        "c"
+      ],
+      "pdfPageStart": 30,
+      "pdfPageEnd": 30,
+      "printedPageStart": 25,
+      "printedPageEnd": 25,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) উপরের ডানের চিত্রে ফাংশনটির অধীনে $a \\to 2, b \\to 1, c \\to 3$। এই ফাংশনটি এক-এক ও সার্বিক। শেখোন্ত্র ক্ষেত্রে কোডোমেন $D$ এর প্রত্যেক উপাদানের জন্য ডোমেন $A$ এর একটি ও কেবল একটি উপাদান নির্দিষ্ট হয়েছে। ফলে, $D$ হতে $A$ তে একটি ফাংশন বর্ণিত হয়েছে, যেই ফাংশনকে প্রদত্ত ফাংশনের বিপরীত ফাংশন বলা হয়।",
+      "image": null,
+      "formulas": [
+        "a \\to 2, b \\to 1, c \\to 3",
+        "D",
+        "A",
+        "D",
+        "A"
+      ],
+      "pdfPageStart": 30,
+      "pdfPageEnd": 30,
+      "printedPageStart": 25,
+      "printedPageEnd": 25,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p006",
+      "kind": "definition",
+      "section": null,
+      "caption": null,
+      "body": "**সংজ্ঞা ৯ (বিপরীত ফাংশন):** মনে করি, $f : A \\to B$ একটি এক-এক ও সার্বিক ফাংশন। একটি ফাংশন $g : B \\to A$ বর্ণিত হয় যেখানে প্রত্যেক $b \\in B$ এর জন্য $g(b) = a$ যদি ও কেবল যদি $f(a) = b$ হয়। এই ফাংশন $g$ কে $f$ এর বিপরীত ফাংশন বলা হয় এবং $f^{-1}$ দ্বারা নির্দেশ করা হয় অর্থাৎ $g = f^{-1}$।",
+      "image": null,
+      "formulas": [
+        "f : A \\to B",
+        "g : B \\to A",
+        "b \\in B",
+        "g(b) = a",
+        "f(a) = b",
+        "g",
+        "f",
+        "f^{-1}",
+        "g = f^{-1}"
+      ],
+      "pdfPageStart": 30,
+      "pdfPageEnd": 30,
+      "printedPageStart": 25,
+      "printedPageEnd": 25,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "পূর্বে পৃষ্ঠার ডানের চিত্রে বর্ণিত ফাংশনটি $f$ হলে $f^{-1} : D \\to A$ এবং $f^{-1}(1) = b, f^{-1}(2) = a, f^{-1}(3) = c$। উপরের অন্য দুটি চিত্রে বর্ণিত ফাংশন দুটির বিপরীত ফাংশন সন্বব নয়।",
+      "image": null,
+      "formulas": [
+        "f",
+        "f^{-1} : D \\to A",
+        "f^{-1}(1) = b, f^{-1}(2) = a, f^{-1}(3) = c"
+      ],
+      "pdfPageStart": 30,
+      "pdfPageEnd": 30,
+      "printedPageStart": 25,
+      "printedPageEnd": 25,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৪.** মনে করি, $A = \\{2, 3, 5, 7\\}$ এবং $B = \\{1, 2, 4, 7, 10\\}$। $A$ এর যে যে সদস্য দ্বারা $B$ এর যে যে সদস্য বিভাজ্য হয় এদেরকে নিচের চিত্রে তীর চিহ্নিত করে দেখানো হলো:",
+      "image": null,
+      "formulas": [
+        "A = \\{2, 3, 5, 7\\}",
+        "B = \\{1, 2, 4, 7, 10\\}",
+        "A",
+        "B"
+      ],
+      "pdfPageStart": 30,
+      "pdfPageEnd": 30,
+      "printedPageStart": 25,
+      "printedPageEnd": 25,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "```mermaid\nflowchart LR\n    subgraph A\n        A1[\"2\"]\n        A2[\"3\"]\n        A3[\"5\"]\n        A4[\"7\"]\n    end\n    subgraph B\n        B1[\"1\"]\n        B2[\"2\"]\n        B3[\"4\"]\n        B4[\"7\"]\n        B5[\"10\"]\n    end\n    A1 --> B2\n    A1 --> B3\n    A2 --> B3\n    A2 --> B4\n    A3 --> B4\n    A4 --> B5\n```",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 30,
+      "pdfPageEnd": 30,
+      "printedPageStart": 25,
+      "printedPageEnd": 25,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে $D = \\{(2,2), (2,4), (2,10), (5,10), (7,7)\\}$ এরূপ অস্বিত সদস্যদের দ্বারা গঠিত ক্রমজোড়গুলোর সেট, যা দ্বারা এই বিভাজ্যতা সম্পর্কটি বর্ণনা করা যায়। $D$ সেট অন্তর্ভুক্ত ক্রমজোড়গুলোর প্রথম অংশ $A$ এর সদস্য ও দ্বিতীয় অংশ $B$ এর সদস্য যেখানে প্রথম অংশ দ্বারা দ্বিতীয় অংশ বিভাজ্য। অর্থাৎ, $D \\subset A \\times B$ এবং $D = \\{(x,y) : x \\in A, y \\in B  এবং  x  দ্বারা  y  বিভাজ্য\\}$, এখানে $D$ সেটটি $A$ সেট থেকে $B$ সেটে একটি অস্বয়।",
+      "image": null,
+      "formulas": [
+        "D = \\{(2,2), (2,4), (2,10), (5,10), (7,7)\\}",
+        "D",
+        "A",
+        "B",
+        "D \\subset A \\times B",
+        "D = \\{(x,y) : x \\in A, y \\in B  এবং  x  দ্বারা  y  বিভাজ্য\\}",
+        "D",
+        "A",
+        "B"
+      ],
+      "pdfPageStart": 30,
+      "pdfPageEnd": 30,
+      "printedPageStart": 25,
+      "printedPageEnd": 25,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৫.** বাস্তব সংখ্যার ক্রমজোড়ের সেট $L = \\{(x,y) : x \\in R, y \\in R  এবং  x < y\\}$ বিবেচনা করি। দুটি বাস্তব সংখ্যা $a, b$ এর জন্য $a < b$ যদি ও কেবল যদি $(a,b) \\in L$ হয়। সুতরাং $L$ সেট দ্বারা বাস্তব সংখ্যার ছোটো-বড়ো সম্পর্ক বর্ণিত হয়।",
+      "image": null,
+      "formulas": [
+        "L = \\{(x,y) : x \\in R, y \\in R  এবং  x < y\\}",
+        "a, b",
+        "a < b",
+        "(a,b) \\in L",
+        "L"
+      ],
+      "pdfPageStart": 30,
+      "pdfPageEnd": 30,
+      "printedPageStart": 25,
+      "printedPageEnd": 25,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৬.** নিচের কোন অস্বয়টি (relation) ফাংশন নয়? যুক্তি দাও।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 30,
+      "pdfPageEnd": 30,
+      "printedPageStart": 25,
+      "printedPageEnd": 25,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "```mermaid\nflowchart LR\n    subgraph X1 [\"X\"]\n        A1[\"1\"]\n        A2[\"2\"]\n        A3[\"3\"]\n    end\n    subgraph Y1 [\"Y\"]\n        B1[\"2\"]\n        B2[\"4\"]\n        B3[\"5\"]\n    end\n    A1 --> B1\n    A2 --> B2\n    A2 --> B3\n    A3 --> B2\n    A3 --> B3\n    subgraph X2 [\"X\"]\n        C1[\"1\"]\n        C2[\"2\"]\n        C3[\"3\"]\n    end\n    subgraph Y2 [\"Y\"]\n        D1[\"2\"]\n        D2[\"4\"]\n        D3[\"7\"]\n    end\n    C1 --> D1\n    C2 --> D2\n    C3 --> D3\n    subgraph X3 [\"X\"]\n        E1[\"1\"]\n        E2[\"2\"]\n        E3[\"3\"]\n    end\n    subgraph Y3 [\"Y\"]\n        F1[\"2\"]\n        F2[\"4\"]\n        F3[\"7\"]\n        F4[\"8\"]\n    end\n    E1 --> F1\n    E2 --> F2\n    E3 --> F4\n    subgraph X4 [\"X\"]\n        G1[\"1\"]\n        G2[\"2\"]\n        G3[\"3\"]\n    end\n    subgraph Y4 [\"Y\"]\n        H1[\"8\"]\n        H2[\"2\"]\n    end\n    G1 --> H1\n    G2 --> H1\n    G3 --> H2\n```",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 30,
+      "pdfPageEnd": 30,
+      "printedPageStart": 25,
+      "printedPageEnd": 25,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** উপরের বাম পাশের সম্পর্কটি ফাংশন নয় কারণ $2 \\to 4$, $2 \\to 5$ এবং $3 \\to 4$, $3 \\to 5$। বাকি তিনটি সম্পর্কই ফাংশন।",
+      "image": null,
+      "formulas": [
+        "2 \\to 4",
+        "2 \\to 5",
+        "3 \\to 4",
+        "3 \\to 5"
+      ],
+      "pdfPageStart": 31,
+      "pdfPageEnd": 31,
+      "printedPageStart": 26,
+      "printedPageEnd": 26,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৭.** $f : x \\to 2x^2 + 1$ ফাংশনের রেঞ্জ নির্ণয় কর যেখানে ডোমেন $X = \\{1, 2, 3\\}$।",
+      "image": null,
+      "formulas": [
+        "f : x \\to 2x^2 + 1",
+        "X = \\{1, 2, 3\\}"
+      ],
+      "pdfPageStart": 31,
+      "pdfPageEnd": 31,
+      "printedPageStart": 26,
+      "printedPageEnd": 26,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $f(x) = 2x^2 + 1$ যেখানে $x \\in X$।",
+      "image": null,
+      "formulas": [
+        "f(x) = 2x^2 + 1",
+        "x \\in X"
+      ],
+      "pdfPageStart": 31,
+      "pdfPageEnd": 31,
+      "printedPageStart": 26,
+      "printedPageEnd": 26,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$f(1) = 2(1)^2 + 1 = 3$, $f(2) = 2(2)^2 + 1 = 9$ এবং $f(3) = 2(3)^2 + 1 = 19$।",
+      "image": null,
+      "formulas": [
+        "f(1) = 2(1)^2 + 1 = 3",
+        "f(2) = 2(2)^2 + 1 = 9",
+        "f(3) = 2(3)^2 + 1 = 19"
+      ],
+      "pdfPageStart": 31,
+      "pdfPageEnd": 31,
+      "printedPageStart": 26,
+      "printedPageEnd": 26,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\{1, 2, 3\\}$ এর রেঞ্জ সেট $= \\{3, 9, 19\\}$।",
+      "image": null,
+      "formulas": [
+        "\\therefore \\{1, 2, 3\\}",
+        "= \\{3, 9, 19\\}"
+      ],
+      "pdfPageStart": 31,
+      "pdfPageEnd": 31,
+      "printedPageStart": 26,
+      "printedPageEnd": 26,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৮.** $f : x \\to mx + c$ ফাংশনের জন্য 2 এবং 4 এর প্রতিবিম্ব যথাক্রমে 7 ও $-1$। তাহলে নির্ণয় করো:",
+      "image": null,
+      "formulas": [
+        "f : x \\to mx + c",
+        "-1"
+      ],
+      "pdfPageStart": 31,
+      "pdfPageEnd": 31,
+      "printedPageStart": 26,
+      "printedPageEnd": 26,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $m$ এবং $c$ এর মান।\nখ) $f$ এর অধীনে 5 এর প্রতিবিম্ব।\nগ) $f$ এর অধীনে 3 এর প্রাক প্রতিবিম্ব।",
+      "image": null,
+      "formulas": [
+        "m",
+        "c",
+        "f",
+        "f"
+      ],
+      "pdfPageStart": 31,
+      "pdfPageEnd": 31,
+      "printedPageStart": 26,
+      "printedPageEnd": 26,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 31,
+      "pdfPageEnd": 31,
+      "printedPageStart": 26,
+      "printedPageEnd": 26,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $f(x) = mx + c$ এ দেওয়া আছে",
+      "image": null,
+      "formulas": [
+        "f(x) = mx + c"
+      ],
+      "pdfPageStart": 31,
+      "pdfPageEnd": 31,
+      "printedPageStart": 26,
+      "printedPageEnd": 26,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$f : 2 \\to 7$ অর্থাৎ $f(2) = 7$ বা, $2m + c = 7$ (1)",
+      "image": null,
+      "formulas": [
+        "f : 2 \\to 7",
+        "f(2) = 7",
+        "2m + c = 7"
+      ],
+      "pdfPageStart": 31,
+      "pdfPageEnd": 31,
+      "printedPageStart": 26,
+      "printedPageEnd": 26,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$f : 4 \\to -1$ অর্থাৎ $f(4) = -1$ বা, $4m + c = -1$ (2)",
+      "image": null,
+      "formulas": [
+        "f : 4 \\to -1",
+        "f(4) = -1",
+        "4m + c = -1"
+      ],
+      "pdfPageStart": 31,
+      "pdfPageEnd": 31,
+      "printedPageStart": 26,
+      "printedPageEnd": 26,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p025",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(1) ও (2) থেকে পাই $m = -4$ এবং $c = 15$",
+      "image": null,
+      "formulas": [
+        "m = -4",
+        "c = 15"
+      ],
+      "pdfPageStart": 31,
+      "pdfPageEnd": 31,
+      "printedPageStart": 26,
+      "printedPageEnd": 26,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p026",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $f$ এর অধীনে 5 এর প্রতিবিম্ব $f(5) = -4 \\times 5 + 15 = -5$",
+      "image": null,
+      "formulas": [
+        "f",
+        "f(5) = -4 \\times 5 + 15 = -5"
+      ],
+      "pdfPageStart": 31,
+      "pdfPageEnd": 31,
+      "printedPageStart": 26,
+      "printedPageEnd": 26,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p027",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) 3 এর প্রাক প্রতিবিম্ব $x$ হলে $f(x) = 3$ অর্থাৎ $-4x + 15 = 3$ বা $x = 3$",
+      "image": null,
+      "formulas": [
+        "x",
+        "f(x) = 3",
+        "-4x + 15 = 3",
+        "x = 3"
+      ],
+      "pdfPageStart": 31,
+      "pdfPageEnd": 31,
+      "printedPageStart": 26,
+      "printedPageEnd": 26,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p028",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "> **কাজ:** $F = \\{(-2, 4), (-1, 1), (0, 0), (1, 1), (2, 4)\\}$ অস্বয়টি কী ফাংশন? এর ডোমেন ও রেঞ্জ নির্ণয় কর। সম্ভব হলে $F$ এর জন্য একটি সূত্র নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "F = \\{(-2, 4), (-1, 1), (0, 0), (1, 1), (2, 4)\\}",
+        "F"
+      ],
+      "pdfPageStart": 31,
+      "pdfPageEnd": 31,
+      "printedPageStart": 26,
+      "printedPageEnd": 26,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p029",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মনতব্য:** কোনো ফাংশন $F$ এর ডোমেন এবং ডোমেনের প্রত্যেক সদস্য $x$ এর অনন্য প্রতিবিম্ব $F(x)$ নির্দিষ্ট করা হলেই ফাংশনটি নির্ধারিত হয়। অনেক সময় ডোমেন উহু রাখা হয়। এরূপ ক্ষেত্রে ডোমেন হিসেবে ঐ সেটকে গ্রহণ করা হয়, যার প্রত্যেক উপাদানের জন্য $F(x)$ নির্ধারিত থাকে।",
+      "image": null,
+      "formulas": [
+        "F",
+        "x",
+        "F(x)",
+        "F(x)"
+      ],
+      "pdfPageStart": 31,
+      "pdfPageEnd": 31,
+      "printedPageStart": 26,
+      "printedPageEnd": 26,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p030",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৯.** $F(x) = \\sqrt{1 - x}$ দ্বারা বর্ণিত ফাংশনের ডোমেন নির্ণয় করো। $F(-3), F(0), F\\left(\\frac{1}{2}\\right), F(1), F(2)$ এর মধ্যে যেগুলো সংজ্ঞায়িত সেগুলো নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "F(x) = \\sqrt{1 - x}",
+        "F(-3), F(0), F\\left(\\frac{1}{2}\\right), F(1), F(2)"
+      ],
+      "pdfPageStart": 31,
+      "pdfPageEnd": 31,
+      "printedPageStart": 26,
+      "printedPageEnd": 26,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p031",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $F(x) = \\sqrt{1 - x} \\in R$ যদি ও কেবল যদি $1 - x \\ge 0$ বা $1 \\ge x$ অর্থাৎ, $x \\le 1$",
+      "image": null,
+      "formulas": [
+        "F(x) = \\sqrt{1 - x} \\in R",
+        "1 - x \\ge 0",
+        "1 \\ge x",
+        "x \\le 1"
+      ],
+      "pdfPageStart": 31,
+      "pdfPageEnd": 31,
+      "printedPageStart": 26,
+      "printedPageEnd": 26,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p032",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং ডোম $F = \\{x : x \\in R  এবং  x \\le 1\\}$ এখানে $F(-3) = \\sqrt{1 - (-3)} = \\sqrt{4} = 2$",
+      "image": null,
+      "formulas": [
+        "F = \\{x : x \\in R  এবং  x \\le 1\\}",
+        "F(-3) = \\sqrt{1 - (-3)} = \\sqrt{4} = 2"
+      ],
+      "pdfPageStart": 31,
+      "pdfPageEnd": 32,
+      "printedPageStart": 26,
+      "printedPageEnd": 27,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p033",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$F(0) = \\sqrt{1 - 0} = \\sqrt{1} = 1$",
+      "image": null,
+      "formulas": [
+        "F(0) = \\sqrt{1 - 0} = \\sqrt{1} = 1"
+      ],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p034",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$F\\left(\\frac{1}{2}\\right) = \\sqrt{1 - \\frac{1}{2}} = \\sqrt{\\frac{1}{2}} = \\frac{1}{\\sqrt{2}}$",
+      "image": null,
+      "formulas": [
+        "F\\left(\\frac{1}{2}\\right) = \\sqrt{1 - \\frac{1}{2}} = \\sqrt{\\frac{1}{2}} = \\frac{1}{\\sqrt{2}}"
+      ],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p035",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$F(1) = \\sqrt{1 - 1} = 0$",
+      "image": null,
+      "formulas": [
+        "F(1) = \\sqrt{1 - 1} = 0"
+      ],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p036",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$F(2)$ সংজ্ঞায়িত নয়, কেননা $2 \\notin$ ডোমেন $F$।",
+      "image": null,
+      "formulas": [
+        "F(2)",
+        "2 \\notin",
+        "F"
+      ],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p037",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "ক) নিচের কোন অস্বয়টি ফাংশন নয়? যুক্তি দাও।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p038",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "```mermaid\nflowchart LR\n    subgraph X1 [X]\n        A1[2]\n        A2[3]\n        A3[8]\n    end\n    subgraph Y1 [Y]\n        B1[1]\n        B2[2]\n        B3[9]\n    end\n    A1 --> B1\n    A2 --> B2\n    A3 --> B3\n```",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p039",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "```mermaid\nflowchart LR\n    subgraph X2 [X]\n        C1[2]\n        C2[5]\n        C3[8]\n    end\n    subgraph Y2 [Y]\n        D1[3]\n        D2[1]\n        D3[2]\n        D4[9]\n    end\n    C1 --> D1\n    C2 --> D2\n    C2 --> D3\n    C3 --> D4\n```",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p040",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "```mermaid\nflowchart LR\n    subgraph X3 [X]\n        E1[1]\n        E2[2]\n        E3[3]\n    end\n    subgraph Y3 [Y]\n        F1[2]\n        F2[4]\n        F3[7]\n        F4[8]\n    end\n    E1 --> F1\n    E2 --> F3\n    E3 --> F4\n```",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p041",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "```mermaid\nflowchart LR\n    subgraph X4 [X]\n        G1[1]\n        G2[2]\n    end\n    subgraph Y4 [Y]\n        H1[3]\n        H2[4]\n    end\n    G1 --> H1\n    G2 --> H2\n```",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p042",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "খ) $f : x \\to 4x + 2$ দ্বারা বর্ণিত ফাংশন যার ডোমেন $D = \\{-1, 3, 5\\}$। ফাংশনটির রেঞ্জ সেট নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "f : x \\to 4x + 2",
+        "D = \\{-1, 3, 5\\}"
+      ],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p043",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "গ) প্রদত্ত $S$ অস্বয়টিকে তালিকা পদ্ধতিতে বর্ণনা কর এবং কোনগুলো ফাংশন তা নির্ধারণ করো। ডোমেন $S$ ও রেঞ্জ $S$ নির্ণয় করো, যেখানে $A = \\{-2, -1, 0, 1, 2\\}$।",
+      "image": null,
+      "formulas": [
+        "S",
+        "S",
+        "S",
+        "A = \\{-2, -1, 0, 1, 2\\}"
+      ],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p044",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "(১) $S = \\{(x, y) : x \\in A, y \\in A  এবং  x + y = 1\\}$",
+      "image": null,
+      "formulas": [
+        "S = \\{(x, y) : x \\in A, y \\in A  এবং  x + y = 1\\}"
+      ],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p045",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "(২) $S = \\{(x, y) : x \\in A, y \\in A  এবং  x - y = 1\\}$",
+      "image": null,
+      "formulas": [
+        "S = \\{(x, y) : x \\in A, y \\in A  এবং  x - y = 1\\}"
+      ],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p046",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "(৩) $S = \\{(x, y) : x \\in A, y \\in A  এবং  y = x^2\\}$",
+      "image": null,
+      "formulas": [
+        "S = \\{(x, y) : x \\in A, y \\in A  এবং  y = x^2\\}"
+      ],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p047",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "(৪) $S = \\{(x, y) : x \\in A, y \\in A  এবং  y^2 = x\\}$",
+      "image": null,
+      "formulas": [
+        "S = \\{(x, y) : x \\in A, y \\in A  এবং  y^2 = x\\}"
+      ],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p048",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "ঘ) $F(x) = 2x - 1$ দ্বারা বর্ণিত ফাংশনের জন্য",
+      "image": null,
+      "formulas": [
+        "F(x) = 2x - 1"
+      ],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p049",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "(১) $F(-2), F(0)$, এবং $F(2)$ নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "F(-2), F(0)",
+        "F(2)"
+      ],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p050",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "(২) $F\\left(\\frac{a + 1}{2}\\right)$ নির্ণয় করো, যেখানে $a \\in R$।",
+      "image": null,
+      "formulas": [
+        "F\\left(\\frac{a + 1}{2}\\right)",
+        "a \\in R"
+      ],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p051",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "(৩) $F(x) = 5$ হলে $x$ নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "F(x) = 5",
+        "x"
+      ],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.29-p052",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "(৪) $F(x) = y$ হলে $x$ নির্ণয় করো, যেখানে $y \\in R$।",
+      "image": null,
+      "formulas": [
+        "F(x) = y",
+        "x",
+        "y \\in R"
+      ],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

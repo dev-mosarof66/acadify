@@ -1,0 +1,51 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.12",
+  "key": "1.12",
+  "title": "সেটের সংযোগ (Union of Sets)",
+  "chapter": 1,
+  "ordinal": 12,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.12-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$A$ ও $B$ সেট হলে এদের সংযোগ সেট হচ্ছে $A \\cup B = \\{x : x \\in A  অথবা  x \\in B\\}$।",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "A \\cup B = \\{x : x \\in A  অথবা  x \\in B\\}"
+      ],
+      "pdfPageStart": 10,
+      "pdfPageEnd": 10,
+      "printedPageStart": 5,
+      "printedPageEnd": 5,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.12-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ $A$ ও $B$ উভয় সেটের সকল উপাদান নিয়ে গঠিত সেটই $A \\cup B$।",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "A \\cup B"
+      ],
+      "pdfPageStart": 10,
+      "pdfPageEnd": 10,
+      "printedPageStart": 5,
+      "printedPageEnd": 5,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

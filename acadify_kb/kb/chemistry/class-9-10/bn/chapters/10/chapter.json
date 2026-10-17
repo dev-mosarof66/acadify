@@ -1,0 +1,79 @@
+{
+  "id": "chemistry-9-10-bn-c10",
+  "textbookId": "chemistry-9-10-bn",
+  "number": 10,
+  "title": "খনিজ সম্পদ: ধাতু-অধাতু",
+  "englishTitle": "Mineral Resources: Metals and Non-metals",
+  "pdfPages": [
+    238,
+    265
+  ],
+  "printedPages": [
+    233,
+    260
+  ],
+  "topics": [
+    {
+      "key": "10.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/10.0.json",
+      "passages": 4
+    },
+    {
+      "key": "10.1",
+      "title": "খনিজ সম্পদ (Mineral Resources)",
+      "file": "topics/10.1.json",
+      "passages": 23
+    },
+    {
+      "key": "10.2",
+      "title": "ধাতু নিষ্কাশন (Metal Extraction)",
+      "file": "topics/10.2.json",
+      "passages": 70
+    },
+    {
+      "key": "10.3",
+      "title": "নির্বাচিত সংকর ধাতু (Selected Alloys)",
+      "file": "topics/10.3.json",
+      "passages": 3
+    },
+    {
+      "key": "10.4",
+      "title": "কতিপয় ধাতু এবং সংকর ধাতুর ক্ষয় হওয়ার লক্ষণ, কারণ ও প্রতিকার (Symptoms, Causes and Prevention of Corrosion of Certain Metals and Alloys)",
+      "file": "topics/10.4.json",
+      "passages": 28
+    },
+    {
+      "key": "10.5",
+      "title": "খনিজ অধাতু (Nonmetal Minerals)",
+      "file": "topics/10.5.json",
+      "passages": 38
+    },
+    {
+      "key": "10.ex",
+      "title": "নমুনা প্রশ্ন",
+      "file": "topics/10.ex.json",
+      "passages": 28
+    }
+  ],
+  "stats": {
+    "topics": 7,
+    "passages": 194,
+    "images": 15,
+    "byKind": {
+      "figure": 29,
+      "text": 98,
+      "table": 6,
+      "formula": 26,
+      "activity": 11,
+      "exercise": 24
+    },
+    "byReason": {
+      "known-confusable-corrected": 15,
+      "verify-table": 6,
+      "verify-formula": 37,
+      "latin-junk": 10
+    },
+    "needsReview": 64
+  }
+}

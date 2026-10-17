@@ -1,0 +1,998 @@
+{
+  "id": "chemistry-9-10-bn-c09-t9.1",
+  "key": "9.1",
+  "title": "এসিড (Acid)",
+  "chapter": 9,
+  "ordinal": 1,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "রাসায়নিক দ্রব্যাদির মধ্যে এসিড খুবই গুরুত্বপূর্ণ। এসিড এক ধরনের গুরুত্বপূর্ণ রাসায়নিক দ্রব্য যা পানিতে দ্রবীভূত করলে এসিডের অণু বিয়োজিত হয়ে (ভেঙে) হাইড্রোজেন আয়ন বা প্রোটন (H<sup>+</sup>) দান করে। যেমন— হাইড্রোক্লোরিক এসিড (HCl), সালফিউরিক এসিড (H<sub>2</sub>SO<sub>4</sub>) এবং তীব্র এসিড অতএব, এরা জলীয় দ্রবণে নিম্নরূপে বিয়োজিত হয়:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p002",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$HCl(aq) \\longrightarrow H^+(aq) + Cl^-(aq)$$",
+      "image": null,
+      "formulas": [
+        "HCl(aq) \\longrightarrow H^+(aq) + Cl^-(aq)"
+      ],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p003",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$H_2SO_4(aq) \\longrightarrow 2H^+(aq) + SO_4^{2-}(aq)$$",
+      "image": null,
+      "formulas": [
+        "H_2SO_4(aq) \\longrightarrow 2H^+(aq) + SO_4^{2-}(aq)"
+      ],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কার্বনিক এসিড (H<sub>2</sub>CO<sub>3</sub>), এসিটিক এসিড (CH<sub>3</sub>COOH) এবং মৃদু এসিড। এরা জলীয় দ্রবণে নিম্নরূপে বিয়োজিত হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p005",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$H_2CO_3(aq) \\rightleftharpoons 2H^+(aq) + CO_3^{2-}(aq)$$",
+      "image": null,
+      "formulas": [
+        "H_2CO_3(aq) \\rightleftharpoons 2H^+(aq) + CO_3^{2-}(aq)"
+      ],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p006",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$CH_3COOH(aq) \\rightleftharpoons H^+(aq) + CH_3COO^-(aq)$$",
+      "image": null,
+      "formulas": [
+        "CH_3COOH(aq) \\rightleftharpoons H^+(aq) + CH_3COO^-(aq)"
+      ],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "HCl ও H<sub>2</sub>SO<sub>4</sub> এর ক্ষেত্রে বিয়োজন বোঝাতে একটিমাত্র তির চিহ্ন ব্যবহার করা হয়েছে। এর অর্থ হলো HCl ও H<sub>2</sub>SO<sub>4</sub> পানিতে সম্পূর্ণ (100%) বিয়োজিত হয়। তাই এ ধরনের এসিডকে তীব্র এসিড বা সবল এসিড বলে। অন্য দুইটি এসিড CH<sub>3</sub>COOH ও H<sub>2</sub>CO<sub>3</sub> এর বিয়োজন বোঝাতে উভমুখী তির চিহ্ন ($\\rightleftharpoons$) ব্যবহার করা হয়েছে। অর্থাৎ এরা পানিতে আংশিক বিয়োজিত হয়। তাই এ ধরনের এসিডকে মৃদু এসিড বা দুর্বল এসিড বলে। উদাহরণ হিসেবে বলা যায়, 25°C তাপমাত্রায় 1000টি CH<sub>3</sub>COOH অণুর মধ্যে পানিতে মাত্র ৪টি অণু বিয়োজিত হয়। বাকি ৯৯৬টি অণু অবিয়োজিত অবস্থায়ই পানিতে থেকে যায়। এসিড ও পানির দ্রবণে এসিডের পরিমাণ যদি বেশি থাকে তবে তাকে গাঢ় এসিড বলে। আবার, এসিডের জলীয় দ্রবণে পানির পরিমাণ যদি এসিডের তুলনায় অনেক বেশি হয় তবে তাকে লঘু এসিড বলে। এসিড টক স্বাদযুক্ত। তোমরা নিশ্চয় তেঁতুল খেয়েছ, যা খুব টক। তেঁতুলের ভিতরে টারটারিক এসিড থাকে। তাই তেঁতুল এত টক। এসিড দ্রবণ নীল রঙের লিটমাস পেপারকে লাল রঙের লিটমাস পেপারে রূপান্তরিত করে।",
+      "image": null,
+      "formulas": [
+        "\\rightleftharpoons"
+      ],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এসিড ধাতব অক্সাইডের সাথে বিক্রিয়া করে লবণ ও পানি উৎপন্ন করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p009",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$CaO + 2HCl \\longrightarrow CaCl_2 + H_2O$$",
+      "image": null,
+      "formulas": [
+        "CaO + 2HCl \\longrightarrow CaCl_2 + H_2O"
+      ],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক্যালসিয়াম অক্সাইড হাইড্রোক্লোরিক এসিড ক্যালসিয়াম ক্লোরাইড পানি\n(ধাতব অক্সাইড) (এসিড) (লবণ)",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এসিড সক্রিয় ধাতুর সাথে বিক্রিয়া করে লবণ ও হাইড্রোজেন গ্যাস তৈরি করে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p012",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$2Na + 2HCl \\longrightarrow 2NaCl + H_2$$",
+      "image": null,
+      "formulas": [
+        "2Na + 2HCl \\longrightarrow 2NaCl + H_2"
+      ],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সোডিয়াম হাইড্রোক্লোরিক এসিড সোডিয়াম ক্লোরাইড হাইড্রোজেন গ্যাস\n(ধাতু) (এসিড) (লবণ)",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা প্রতিদিন অনেক খাবার গ্রহণ করি যেগুলোর মাঝে বিভিন্ন ধরনের এসিড থাকে। যেমন—দুধের মধ্যে ল্যাকটিক এসিড, সফট ড্রিংকসে কার্বনিক এসিড, কমলালেবু বা লেবুতে সাইট্রিক এসিড, তৈঁতুলে টারটারিক এসিড, ভিনেগারে ইথানয়িক এসিড, চায়ে ট্যানিক এসিড ইত্যাদি। এই খাদ্যগুলো যখন আমরা খাই তখন খাদ্যের মাধ্যমে সংশ্লিষ্ট এসিডগুলো আমাদের শরীরে প্রবেশ করে। এসিডগুলো আমাদের খাদ্য পরিপাকে সাহায্য করে এবং শরীরের রোগ প্রতিরোধ করে। আবার, আচারজাতীয় অনেক এসিডযুক্ত খাদ্য আছে যেগুলো আমাদের খাওয়ার বৃতি বৃদ্ধি করে। এসব এসিড খুবই দুর্বল প্রকৃতির হওয়ায় এগুলো আমাদের শরীরের ক্ষতি করে না। আবার, এগুলো খেতে টক স্বাদযুক্ত। আমাদের পাকস্থলীর দেয়াল থেকে হাইড্রোক্লোরিক এসিড উৎপন্ন হয়। এটি অত্যন্ত শক্তিশালী এসিড। এটি পাকস্থলীতে খাদ্যকে ভাঙতে ব্যবহৃত হয়। কিন্তু অনেক সময় দেখা যায় পাকস্থলীর দেয়াল থেকে অতিরিক্ত হাইড্রোক্লোরিক এসিড (HCl) নিঃসরিত হয়ে তা পাকস্থলীর দেয়ালের কোষগুলোকে ভাঙতে শুরু করে। আবার, খাদ্য গ্রহণ না করে স্ফুর্তার অবস্থায় থাকলে অর্থাৎ পাকস্থলী খালি রাখলে নিঃসরিত হাইড্রোক্লোরিক এসিড (HCl) পাকস্থলীর দেয়ালের কোষগুলোকে ভেঙে সেখানে ক্ষতের সৃষ্টি করে। ফলে পেটে ব্যথা শুরু হয়। এ অবস্থাকে আমরা পেপটিক আলসার বলা। কাজেই যেসব খাদ্য খেলে অতিরিক্ত এসিড নিঃসরিত হয় সেগুলো পরিহার করতে হবে। আবার, বেশি সময় ধরে পেট খালি রাখাও পরিহার করতে হবে। এ অধ্যায়ে এসিডের আরও ধর্ম এবং তাদের ব্যবহার সম্পর্কে জানতে পারবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p015",
+      "kind": "text",
+      "section": "৯.১.১ লঘু এসিডের ধর্মসমূহ ও এদের পরীক্ষামূলক প্রমাণ",
+      "caption": null,
+      "body": "**(i) স্বাদ:** সকল লঘু এসিড টক স্বাদযুক্ত। আমরা ইতঃপূর্বে দেখেছি এসিডযুক্ত খাবারগুলো টক। তবে সাবধান ল্যাবরেটরিতে কোনো এসিডের স্বাদ মুখে নেওয়া যাবে না। কেননা এগুলো জিহ্বায় লাগলে সজ্জা সজ্জো জিহ্বায় ক্ষত সৃষ্টি করে ফেলবে। তবে তৈঁতুলের মধ্যে টারটারিক এসিড থাকে। যদি তৈঁতুল মুখে নাও তবে তৈঁতুল টক স্বাদযুক্ত পাবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p016",
+      "kind": "text",
+      "section": "৯.১.১ লঘু এসিডের ধর্মসমূহ ও এদের পরীক্ষামূলক প্রমাণ",
+      "caption": null,
+      "body": "**(ii) স্ফয়কারী:** এসিডগুলো স্ফয়কারী পদার্থ হিসেবে পরিচিত। যেমন—এসিডের মধ্যে এক খণ্ড লোহার পাত রাখলে লোহার পাতটির পৃষ্ঠতল ক্ষয়ে ঝাঁজরা হয়ে যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p017",
+      "kind": "text",
+      "section": "৯.১.১ লঘু এসিডের ধর্মসমূহ ও এদের পরীক্ষামূলক প্রমাণ",
+      "caption": null,
+      "body": "**(iii) লিটমাস পরীক্ষা:** এসিড নীল বর্ণের লিটমাসকে লাল বর্ণে পরিণত করে। একটি পরীক্ষা নলে 2-3 মিলি হাইড্রোক্লোরিক এসিড নিয়ে এতে এক টুকরা নীল লিটমাস কাগজ যোগ করো। দেখবে নীল রঙের লিটমাস কাগজটি লাল বর্ণে পরিণত হয়েছে। একইভাবে, H<sub>2</sub>SO<sub>4</sub>, HNO<sub>3</sub> বা অন্য যেকোনো এসিড নিয়ে এই পরীক্ষা করতে পারো। এমনকি তেঁতুল বা আচারের মধ্যেও পানিতে ভেজা নীল লিটমাস যোগ করলে নীল লিটমাস কাগজ লাল বর্ণে পরিণত হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 215,
+      "printedPageStart": 209,
+      "printedPageEnd": 210,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p018",
+      "kind": "text",
+      "section": "৯.১.১ লঘু এসিডের ধর্মসমূহ ও এদের পরীক্ষামূলক প্রমাণ",
+      "caption": null,
+      "body": "**(iv) সক্রিয় ধাতুর সাথে এসিডের বিক্রিয়া:** এসিড সক্রিয় ধাতুর (যেমন– K, Na, Mg ইত্যাদি) সাথে বিক্রিয়া করে সংশ্লিষ্ট ধাতুটির লবণ এবং হাইড্রোজেন গ্যাস উৎপন্ন করে। যেমন– Mg ধাতু, সালফিউরিক এসিডের সাথে বিক্রিয়া করে MgSO<sub>4</sub> এবং H<sub>2</sub> গ্যাস উৎপন্ন করে। বিক্রিয়াটি হচ্ছে:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p019",
+      "kind": "formula",
+      "section": "৯.১.১ লঘু এসিডের ধর্মসমূহ ও এদের পরীক্ষামূলক প্রমাণ",
+      "caption": null,
+      "body": "$$Mg + H_2SO_4 \\longrightarrow MgSO_4 + H_2 \\uparrow$$",
+      "image": null,
+      "formulas": [
+        "Mg + H_2SO_4 \\longrightarrow MgSO_4 + H_2 \\uparrow"
+      ],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p020",
+      "kind": "text",
+      "section": "৯.১.১ লঘু এসিডের ধর্মসমূহ ও এদের পরীক্ষামূলক প্রমাণ",
+      "caption": null,
+      "body": "**(v) ধাতব কার্বনেটের সাথে লঘু এসিডের বিক্রিয়া:** লঘু এসিড ধাতব কার্বনেটের সাথে বিক্রিয়া করে লবণ, পানি ও কার্বন ডাই-অক্সাইড উৎপন্ন করে। যেমন– ক্যালসিয়াম কার্বনেটের সাথে লঘু HCl বিক্রিয়া করে ক্যালসিয়াম ক্লোরাইড লবণ, পানি আর কার্বন ডাই-অক্সাইড গ্যাস উৎপন্ন করে। এখানে CO<sub>2</sub> গ্যাস বুদ্ধবুদ্ধ আকারে বেরিয়ে আসে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p021",
+      "kind": "formula",
+      "section": "৯.১.১ লঘু এসিডের ধর্মসমূহ ও এদের পরীক্ষামূলক প্রমাণ",
+      "caption": null,
+      "body": "$$CaCO_3 + 2HCl \\longrightarrow CaCl_2 + H_2O + CO_2 \\uparrow$$",
+      "image": null,
+      "formulas": [
+        "CaCO_3 + 2HCl \\longrightarrow CaCl_2 + H_2O + CO_2 \\uparrow"
+      ],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p022",
+      "kind": "text",
+      "section": "৯.১.১ লঘু এসিডের ধর্মসমূহ ও এদের পরীক্ষামূলক প্রমাণ",
+      "caption": null,
+      "body": "উৎপন্ন কার্বন ডাই-অক্সাইড (CO<sub>2</sub>) কে চূনের পানির মধ্যে চালনা করলে চূনের পানি প্রথমে ঘোলা হয়। সংশ্লিষ্ট বিক্রিয়াটি হচ্ছে:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p023",
+      "kind": "formula",
+      "section": "৯.১.১ লঘু এসিডের ধর্মসমূহ ও এদের পরীক্ষামূলক প্রমাণ",
+      "caption": null,
+      "body": "$$Ca(OH)_2 + CO_2 \\longrightarrow CaCO_3 + H_2O$$",
+      "image": null,
+      "formulas": [
+        "Ca(OH)_2 + CO_2 \\longrightarrow CaCO_3 + H_2O"
+      ],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p024",
+      "kind": "text",
+      "section": "৯.১.১ লঘু এসিডের ধর্মসমূহ ও এদের পরীক্ষামূলক প্রমাণ",
+      "caption": null,
+      "body": "এখানে অদ্রবণীয় CaCO<sub>3</sub> উৎপন্ন হওয়ার জন্য চূনের পানিকে ঘোলা দেখায়। এই ঘোলা চূনের পানিতে অতিরিক্ত CO<sub>2</sub> গ্যাসকে চালনা করলে সেটি আবার স্বচ্ছ হয়ে যায়। এক্ষেত্রে অদ্রবণীয় CaCO<sub>3</sub> এর সাথে CO<sub>2</sub> এবং H<sub>2</sub>O বিক্রিয়া করে দ্রবণীয় ক্যালসিয়াম বাইকার্বনেট [Ca(HCO<sub>3</sub>)<sub>2</sub>] উৎপন্ন করার কারণে ঘোলা চূনের পানিকে স্বচ্ছ দেখায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p025",
+      "kind": "formula",
+      "section": "৯.১.১ লঘু এসিডের ধর্মসমূহ ও এদের পরীক্ষামূলক প্রমাণ",
+      "caption": null,
+      "body": "$$CaCO_3 + CO_2 + H_2O \\longrightarrow Ca(HCO_3)_2$$",
+      "image": null,
+      "formulas": [
+        "CaCO_3 + CO_2 + H_2O \\longrightarrow Ca(HCO_3)_2"
+      ],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p026",
+      "kind": "text",
+      "section": "৯.১.১ লঘু এসিডের ধর্মসমূহ ও এদের পরীক্ষামূলক প্রমাণ",
+      "caption": null,
+      "body": "একইভাবে ধাতব কার্বনেটগুলো লঘু সালফিউরিক এসিড কিংবা লঘু নাইট্রিক এসিডের সাথে একই ধরনের বিক্রিয়া করে সালফেট লবণ বা নাইট্রেট লবণ উৎপন্ন করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p027",
+      "kind": "text",
+      "section": "৯.১.১ লঘু এসিডের ধর্মসমূহ ও এদের পরীক্ষামূলক প্রমাণ",
+      "caption": null,
+      "body": "$$Na_2CO_3 + H_2SO_4 \\longrightarrow Na_2SO_4 + H_2O + CO_2$$\n$$CaCO_3 + 2HNO_3 \\longrightarrow Ca(NO_3)_2 + H_2O + CO_2$$",
+      "image": null,
+      "formulas": [
+        "Na_2CO_3 + H_2SO_4 \\longrightarrow Na_2SO_4 + H_2O + CO_2",
+        "CaCO_3 + 2HNO_3 \\longrightarrow Ca(NO_3)_2 + H_2O + CO_2"
+      ],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p028",
+      "kind": "text",
+      "section": "৯.১.১ লঘু এসিডের ধর্মসমূহ ও এদের পরীক্ষামূলক প্রমাণ",
+      "caption": null,
+      "body": "**(vi) ধাতব বাইকার্বনেটের সাথে লঘু এসিডের বিক্রিয়া:** ধাতব হাইড্রোজেন কার্বনেট বা ধাতব বাইকার্বনেটগুলোও লঘু এসিডের সাথে বিক্রিয়া করে লবণ, পানি এবং কার্বন ডাই-অক্সাইড উৎপন্ন করে। যেমন:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p029",
+      "kind": "formula",
+      "section": "৯.১.১ লঘু এসিডের ধর্মসমূহ ও এদের পরীক্ষামূলক প্রমাণ",
+      "caption": null,
+      "body": "$$Ca(HCO_3)_2 + 2HCl \\longrightarrow CaCl_2 + 2H_2O + 2CO_2$$",
+      "image": null,
+      "formulas": [
+        "Ca(HCO_3)_2 + 2HCl \\longrightarrow CaCl_2 + 2H_2O + 2CO_2"
+      ],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p030",
+      "kind": "formula",
+      "section": "৯.১.১ লঘু এসিডের ধর্মসমূহ ও এদের পরীক্ষামূলক প্রমাণ",
+      "caption": null,
+      "body": "$$2NaHCO_3 + H_2SO_4 \\longrightarrow Na_2SO_4 + 2H_2O + 2CO_2$$",
+      "image": null,
+      "formulas": [
+        "2NaHCO_3 + H_2SO_4 \\longrightarrow Na_2SO_4 + 2H_2O + 2CO_2"
+      ],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p031",
+      "kind": "formula",
+      "section": "৯.১.১ লঘু এসিডের ধর্মসমূহ ও এদের পরীক্ষামূলক প্রমাণ",
+      "caption": null,
+      "body": "$$NaHCO_3 + HNO_3 \\longrightarrow NaNO_3 + H_2O + CO_2$$",
+      "image": null,
+      "formulas": [
+        "NaHCO_3 + HNO_3 \\longrightarrow NaNO_3 + H_2O + CO_2"
+      ],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p032",
+      "kind": "text",
+      "section": "৯.১.১ লঘু এসিডের ধর্মসমূহ ও এদের পরীক্ষামূলক প্রমাণ",
+      "caption": null,
+      "body": "**(vii) ধাতুর হাইড্রোক্সাইডের (ক্ষারের) সাথে এসিডের বিক্রিয়া:** ধাতুর হাইড্রোক্সাইড তথা ক্ষারের সাথে এসিড বিক্রিয়া করে লবণ এবং পানি উৎপন্ন করে। এটি একটি প্রশমন বিক্রিয়া। যেমন— লঘু NaOH দ্রবণে ধীরে ধীরে লঘু HCl দ্রবণ যোগ করলে NaCl (লবণ) এবং পানি উৎপন্ন হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p033",
+      "kind": "formula",
+      "section": "৯.১.১ লঘু এসিডের ধর্মসমূহ ও এদের পরীক্ষামূলক প্রমাণ",
+      "caption": null,
+      "body": "$$NaOH + HCl \\longrightarrow NaCl + H_2O$$",
+      "image": null,
+      "formulas": [
+        "NaOH + HCl \\longrightarrow NaCl + H_2O"
+      ],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p034",
+      "kind": "text",
+      "section": "৯.১.১ লঘু এসিডের ধর্মসমূহ ও এদের পরীক্ষামূলক প্রমাণ",
+      "caption": null,
+      "body": "**(viii) ধাতুর অক্সাইডের সাথে এসিডের বিক্রিয়া:** ধাতুর অক্সাইডের সাথে এসিড বিক্রিয়া করে লবণ এবং পানি উৎপন্ন করে। ধাতুর অক্সাইডগুলো সাধারণত ক্ষারীয় প্রকৃতির হয়। তাই এ ক্ষেত্রেও বিক্রিয়াটি প্রশমন প্রকৃতির হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p035",
+      "kind": "formula",
+      "section": "৯.১.১ লঘু এসিডের ধর্মসমূহ ও এদের পরীক্ষামূলক প্রমাণ",
+      "caption": null,
+      "body": "$$CaO + 2HCl \\longrightarrow CaCl_2 + H_2O$$",
+      "image": null,
+      "formulas": [
+        "CaO + 2HCl \\longrightarrow CaCl_2 + H_2O"
+      ],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p036",
+      "kind": "text",
+      "section": "৯.১.১ লঘু এসিডের ধর্মসমূহ ও এদের পরীক্ষামূলক প্রমাণ",
+      "caption": null,
+      "body": "একইভাবে লঘু সালফিউরিক এসিডের সাথে কপার অক্সাইড বিক্রিয়ায় কপার সালফেট ও পানি উৎপন্ন হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p037",
+      "kind": "formula",
+      "section": "৯.১.১ লঘু এসিডের ধর্মসমূহ ও এদের পরীক্ষামূলক প্রমাণ",
+      "caption": null,
+      "body": "$$H_2SO_4 + CuO \\longrightarrow CuSO_4 + H_2O$$",
+      "image": null,
+      "formulas": [
+        "H_2SO_4 + CuO \\longrightarrow CuSO_4 + H_2O"
+      ],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p038",
+      "kind": "text",
+      "section": "৯.১.১ লঘু এসিডের ধর্মসমূহ ও এদের পরীক্ষামূলক প্রমাণ",
+      "caption": null,
+      "body": "কিংবা লঘু নাইট্রিক এসিডের সাথে ক্যালসিয়াম অক্সাইড বিক্রিয়া করে ক্যালসিয়াম নাইট্রেট এবং পানি উৎপন্ন করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p039",
+      "kind": "formula",
+      "section": "৯.১.১ লঘু এসিডের ধর্মসমূহ ও এদের পরীক্ষামূলক প্রমাণ",
+      "caption": null,
+      "body": "$$2HNO_3 + CaO \\longrightarrow Ca(NO_3)_2 + H_2O$$",
+      "image": null,
+      "formulas": [
+        "2HNO_3 + CaO \\longrightarrow Ca(NO_3)_2 + H_2O"
+      ],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p040",
+      "kind": "text",
+      "section": "৯.১.২ এসিডের রাসায়নিক ধর্মে পানির ভূমিকা",
+      "caption": null,
+      "body": "এতক্ষণ যে আলোচনা করা হয়েছে তার প্রতি ক্ষেত্রেই আমরা ‘লঘু এসিড দ্রবণ’ কথাটি উল্লেখ করেছি। লঘু এসিড দ্রবণ অর্থ পানির মধ্যে এসিড যোগ করে এসিডের দ্রবণ তৈরি করা হয়েছে। প্রশ্ন হলো এসিডের সাথে পানি যুক্ত থাকলে এসিডের ধর্মে কি কোনো পরিবর্তন ঘটে? ধরা যাক, তুমি কিছু দানাদার অক্সালিক এসিডের উপর শুষ্ক নীল লিটমাস পেপার স্পর্শ করিয়েছ, তুমি দেখবে লিটমাস পেপারের রং পরিবর্তিত হয়নি। পরিবর্তন না হওয়ার কারণ অনার্ড অক্সালিক এসিডের দানাতে কোনো হাইড্রোজেন আয়ন নেই। অনার্ড অক্সালিক এসিডকে পানিতে দ্রবীভূত করলে এটি পানিতে বিয়োজিত হয়ে H<sup>+</sup> আয়ন প্রদান করবে, যা নীল লিটমাস পেপারকে লাল বর্ণে পরিণত করবে। অর্থাৎ জলীয় দ্রবণে উপস্থিত হাইড্রোজেন আয়ন অম্ল ধর্ম প্রদর্শন করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 217,
+      "printedPageStart": 211,
+      "printedPageEnd": 212,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p041",
+      "kind": "text",
+      "section": "৯.১.২ এসিডের রাসায়নিক ধর্মে পানির ভূমিকা",
+      "caption": null,
+      "body": "জলীয় দ্রবণে সাইট্রিক এসিড আংশিক বিয়োজিত হয়। ইথানয়িক এসিড, কার্বনিক এসিডও জলীয় দ্রবণে আংশিক বিয়োজিত হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 217,
+      "pdfPageEnd": 217,
+      "printedPageStart": 212,
+      "printedPageEnd": 212,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p042",
+      "kind": "text",
+      "section": "৯.১.২ এসিডের রাসায়নিক ধর্মে পানির ভূমিকা",
+      "caption": null,
+      "body": "আংশিক বিয়োজিত হবার অর্থ হলো যতটি অণু দ্রবণে যোগ করা হলো তার মধ্যে অল্প কিছু অণু ভেঙে যায় বা বিয়োজিত হয় এবং বাকি অণুগুলো বিয়োজিত হয় না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 217,
+      "pdfPageEnd": 217,
+      "printedPageStart": 212,
+      "printedPageEnd": 212,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p043",
+      "kind": "text",
+      "section": "৯.১.২ এসিডের রাসায়নিক ধর্মে পানির ভূমিকা",
+      "caption": null,
+      "body": "$$সাইট্রিক এসিড দানা + পানি \\longrightarrow সাইট্রিক এসিড (aq)$$\n$$সাইট্রিক এসিড (aq) \\longrightarrow H^+(aq) + সাইট্রেট আয়ন$$",
+      "image": null,
+      "formulas": [
+        "সাইট্রিক এসিড দানা + পানি \\longrightarrow সাইট্রিক এসিড (aq)",
+        "সাইট্রিক এসিড (aq) \\longrightarrow H^+(aq) + সাইট্রেট আয়ন"
+      ],
+      "pdfPageStart": 217,
+      "pdfPageEnd": 217,
+      "printedPageStart": 212,
+      "printedPageEnd": 212,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p044",
+      "kind": "text",
+      "section": "৯.১.২ এসিডের রাসায়নিক ধর্মে পানির ভূমিকা",
+      "caption": null,
+      "body": "জলীয় দ্রবণে হাইড্রোজেন ক্লোরাইড সম্পূর্ণরূপে আয়নিত হয় এবং হাইড্রোজেন আয়ন উৎপন্ন করে:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 217,
+      "pdfPageEnd": 217,
+      "printedPageStart": 212,
+      "printedPageEnd": 212,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p045",
+      "kind": "text",
+      "section": "৯.১.২ এসিডের রাসায়নিক ধর্মে পানির ভূমিকা",
+      "caption": null,
+      "body": "$$হাইড্রোজেন ক্লোরাইড + পানি \\longrightarrow HCl(aq)$$\n$$HCl(aq) \\longrightarrow H^+(aq) + Cl^-(aq)$$",
+      "image": null,
+      "formulas": [
+        "হাইড্রোজেন ক্লোরাইড + পানি \\longrightarrow HCl(aq)",
+        "HCl(aq) \\longrightarrow H^+(aq) + Cl^-(aq)"
+      ],
+      "pdfPageStart": 217,
+      "pdfPageEnd": 217,
+      "printedPageStart": 212,
+      "printedPageEnd": 212,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p046",
+      "kind": "text",
+      "section": "৯.১.২ এসিডের রাসায়নিক ধর্মে পানির ভূমিকা",
+      "caption": null,
+      "body": "বিশুদ্ধ সালফিউরিক এসিড এবং নাইট্রিক এসিড বর্গহীন তরল পদার্থ। এতে যোগ দুটি আণবিক অবস্থায় থাকে। আয়নিত নয় বলে অর্থাৎ হাইড্রোজেন আয়ন উপস্থিত নয় বলে বিশুদ্ধ সালফিউরিক এসিড এবং নাইট্রিক এসিড এসিডের ধর্ম প্রদর্শন করবে না, তেমনি বিদ্যুৎ পরিবহণও করবে না। এই এসিডগুলোকে শুধু পানিতে দ্রবীভূত করলেই হাইড্রোজেন আয়ন উৎপন্ন করে, এসিডের ধর্ম প্রদর্শন করে এবং বিদ্যুৎ পরিবহণ করে। অর্থাৎ আমরা লিখতে পারি:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 217,
+      "pdfPageEnd": 217,
+      "printedPageStart": 212,
+      "printedPageEnd": 212,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p047",
+      "kind": "text",
+      "section": "৯.১.২ এসিডের রাসায়নিক ধর্মে পানির ভূমিকা",
+      "caption": null,
+      "body": "$$H_2SO_4(l) + পানি \\longrightarrow H_2SO_4(aq)$$\n$$H_2SO_4(aq) \\longrightarrow 2H^+ (aq) + SO_4^{2-}(aq)$$",
+      "image": null,
+      "formulas": [
+        "H_2SO_4(l) + পানি \\longrightarrow H_2SO_4(aq)",
+        "H_2SO_4(aq) \\longrightarrow 2H^+ (aq) + SO_4^{2-}(aq)"
+      ],
+      "pdfPageStart": 217,
+      "pdfPageEnd": 217,
+      "printedPageStart": 212,
+      "printedPageEnd": 212,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p048",
+      "kind": "text",
+      "section": "৯.১.২ এসিডের রাসায়নিক ধর্মে পানির ভূমিকা",
+      "caption": null,
+      "body": "একইভাবে:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 217,
+      "pdfPageEnd": 217,
+      "printedPageStart": 212,
+      "printedPageEnd": 212,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p049",
+      "kind": "text",
+      "section": "৯.১.২ এসিডের রাসায়নিক ধর্মে পানির ভূমিকা",
+      "caption": null,
+      "body": "$$HNO_3 (l) + পানি \\longrightarrow HNO_3(aq)$$\n$$HNO_3(aq) \\longrightarrow H^+ (aq) + NO_3^-(aq)$$",
+      "image": null,
+      "formulas": [
+        "HNO_3 (l) + পানি \\longrightarrow HNO_3(aq)",
+        "HNO_3(aq) \\longrightarrow H^+ (aq) + NO_3^-(aq)"
+      ],
+      "pdfPageStart": 217,
+      "pdfPageEnd": 217,
+      "printedPageStart": 212,
+      "printedPageEnd": 212,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p050",
+      "kind": "text",
+      "section": "৯.১.২ এসিডের রাসায়নিক ধর্মে পানির ভূমিকা",
+      "caption": null,
+      "body": "যে সকল এসিড জলীয় দ্রবণে আংশিক আয়নিত হয় তারা দুর্বল এসিড। শক্তিশালী এসিড জলীয় দ্রবণে সম্পূর্ণ আয়নিত হয়। অর্থাৎ দুর্বল এসিডের দ্রবণে হাইড্রোজেন আয়নের পরিমাণ কম থাকে। কিন্তু শক্তিশালী এসিডের দ্রবণে H<sup>+</sup> আয়নের পরিমাণ তুলনামূলক বেশি থাকে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 217,
+      "pdfPageEnd": 217,
+      "printedPageStart": 212,
+      "printedPageEnd": 212,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p051",
+      "kind": "text",
+      "section": "৯.১.৩ গাঢ় এসিড",
+      "caption": null,
+      "body": "যে এসিডে পানির পরিমাণ তুলনামূলকভাবে কম থাকে সেই এসিডকে গাঢ় এসিড বলে। ল্যাবরেটরিতে বিভিন্ন সময়ে বিভিন্ন ধরনের গাঢ় এসিড ব্যবহৃত হয়। যেমন— গাঢ় হাইড্রোক্লোরিক এসিড (HCl), গাঢ় সালফিউরিক এসিড (H<sub>2</sub>SO<sub>4</sub>), গাঢ় নাইট্রিক এসিড (HNO<sub>3</sub>) ইত্যাদি। এই এসিডগুলো হাতে, মুখে, চোখে বা শরীরে পড়লে ক্ষতের সৃষ্টি হয়। এজন্য হাতে হ্যান্ড গ্লোভস, চোখে গগলস, মুখে মাস্ক, শরীরে অ্যাপ্রোন ইত্যাদি পরিধান করে সতর্কতার সাথে কাজ করতে হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 217,
+      "pdfPageEnd": 218,
+      "printedPageStart": 212,
+      "printedPageEnd": 213,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p052",
+      "kind": "text",
+      "section": "৯.১.৩ গাঢ় এসিড",
+      "caption": null,
+      "body": "**গাঢ় হাইড্রোক্লোরিক এসিড:** হাইড্রোজেন ক্লোরাইড গ্যাস পানিতে দ্রবীভূত হয়ে যে দ্রবণ উৎপন্ন করে তাকে হাইড্রোক্লোরিক এসিড বলে। তুলনামূলক কম পরিমাণ পানিতে অধিক পরিমাণে হাইড্রোজেন ক্লোরাইড গ্যাস দ্রবীভূত করে গাঢ় হাইড্রোক্লোরিক এসিড (HCl) তৈরি করা হয়। গাঢ় HCl দ্রবণ যে বোতলে রাখা হয় সেই বোতলের মুখ খুললেই হালকা কুয়াশার মতো সৃষ্টি হয় এবং তীব্র ঝাঁজালো গন্ধ পাওয়া যায়। এজন্য গাঢ় HCl এসিডের মুখ খোলার আগে নাকে, মুখে মাস্ক এবং চোখে নিরাপদ চশমা পরে নিতে হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 218,
+      "pdfPageEnd": 218,
+      "printedPageStart": 213,
+      "printedPageEnd": 213,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p053",
+      "kind": "formula",
+      "section": "৯.১.৩ গাঢ় এসিড",
+      "caption": null,
+      "body": "$$HCl(g) + H_2O(l) \\longrightarrow HCl(aq)$$",
+      "image": null,
+      "formulas": [
+        "HCl(g) + H_2O(l) \\longrightarrow HCl(aq)"
+      ],
+      "pdfPageStart": 218,
+      "pdfPageEnd": 218,
+      "printedPageStart": 213,
+      "printedPageEnd": 213,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p054",
+      "kind": "text",
+      "section": "৯.১.৩ গাঢ় এসিড",
+      "caption": null,
+      "body": "**গাঢ় নাইট্রিক এসিড:** নাইট্রোজেন ডাইঅক্সাইড- গ্যাসকে পানিতে দ্রবীভূত করে নাইট্রিক এসিড তৈরি করা হয়। কম পরিমাণ পানিতে অধিক পরিমাণে NO<sub>2</sub> গ্যাস দ্রবীভূত করে গাঢ় নাইট্রিক এসিড HNO<sub>3</sub> তৈরি করা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 218,
+      "pdfPageEnd": 218,
+      "printedPageStart": 213,
+      "printedPageEnd": 213,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p055",
+      "kind": "formula",
+      "section": "৯.১.৩ গাঢ় এসিড",
+      "caption": null,
+      "body": "$$3NO_2 + H_2O \\longrightarrow 2HNO_3 + NO$$",
+      "image": null,
+      "formulas": [
+        "3NO_2 + H_2O \\longrightarrow 2HNO_3 + NO"
+      ],
+      "pdfPageStart": 218,
+      "pdfPageEnd": 218,
+      "printedPageStart": 213,
+      "printedPageEnd": 213,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p056",
+      "kind": "text",
+      "section": "৯.১.৩ গাঢ় এসিড",
+      "caption": null,
+      "body": "গাঢ় নাইট্রিক এসিডের বোতলের মুখ খুললে হালকা কুয়াশার মতো গ্যাস বের হয় এবং তীব্র ঝাঁজালো গন্ধ পাওয়া যায়। নাইট্রিক এসিড যে কাচের বোতলে রাখা হয় সেই বোতলের বর্ণ বাদামি হয়। নাইট্রিক এসিড যে কাচের বোতলে রাখা হয় সেই কাচের বোতলের মধ্যে যদি আলো প্রবেশ করে তবে বোতলের মধ্যের HNO<sub>3</sub> আলোর উপস্থিতিতে ভেঙে যায়। HNO<sub>3</sub> যাতে আলোর উপস্থিতিতে বোতলের মধ্যে ভেঙে না যায় সেজন্য HNO<sub>3</sub> কে বাদামি বোতলের মধ্যে রাখা হয়। কারণ বাদামি বোতলের মধ্যে আলো প্রবেশ করতে পারে না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 218,
+      "pdfPageEnd": 218,
+      "printedPageStart": 213,
+      "printedPageEnd": 213,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p057",
+      "kind": "text",
+      "section": "৯.১.৩ গাঢ় এসিড",
+      "caption": null,
+      "body": "**গাঢ় সালফিউরিক এসিড:** সালফার ট্রাই-অক্সাইড (SO<sub>3</sub>) গ্যাস পানিতে দ্রবীভূত হয়ে সালফিউরিক এসিড উৎপন্ন হয়। যদি কম পরিমাণ পানিতে অধিক পরিমাণ SO<sub>3</sub> গ্যাস দ্রবীভূত করা হয় তবে গাঢ় সালফিউরিক এসিড (H<sub>2</sub>SO<sub>4</sub>) তৈরি হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 218,
+      "pdfPageEnd": 218,
+      "printedPageStart": 213,
+      "printedPageEnd": 213,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.1-p058",
+      "kind": "formula",
+      "section": "৯.১.৩ গাঢ় এসিড",
+      "caption": null,
+      "body": "$$SO_3 + H_2O \\longrightarrow H_2SO_4$$",
+      "image": null,
+      "formulas": [
+        "SO_3 + H_2O \\longrightarrow H_2SO_4"
+      ],
+      "pdfPageStart": 218,
+      "pdfPageEnd": 218,
+      "printedPageStart": 213,
+      "printedPageEnd": 213,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

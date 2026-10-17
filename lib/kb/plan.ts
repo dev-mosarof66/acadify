@@ -80,6 +80,27 @@ export function parseToc(pages: PageMarkdown[]): TocEntry[] {
 }
 
 /**
+ * The printed page where the last chapter ends: the first unnumbered contents row after it that has a later page
+ * number (a "famous mathematicians" section, an appendix). Null when the contents ends with the last chapter.
+ */
+function backMatterStart(pages: PageMarkdown[], toc: TocEntry[]): number | null {
+  const last = toc[toc.length - 1];
+  for (const page of pages) {
+    const rows = pageRows(page.markdown);
+    const at = rows.findIndex((r) => {
+      const e = entryOf(r);
+      return e?.number === last.number && e.printedPage === last.printedPage;
+    });
+    if (at < 0) continue;
+    for (const row of rows.slice(at + 1)) {
+      const m = row.match(/^\D.*?\s([০-৯0-9]{1,3})$/);
+      if (m && !entryOf(row) && Number(normalizeDigits(m[1])) > last.printedPage) return Number(normalizeDigits(m[1]));
+    }
+  }
+  return null;
+}
+
+/**
  * `pages` are the first pages of the book, parsed. The page where chapter 1 actually opens, compared
  * with the page number the contents gives it, tells how many PDF pages come before the book's page 1.
  */
@@ -91,10 +112,12 @@ export function planChapters(pages: PageMarkdown[], pageCount: number): PlanResu
   if (!opener) return { ok: false, error: "Found the contents page but not the page where the first chapter starts, so the page numbers can't be matched to the PDF." };
 
   const offset = opener.pdfPageStart - toc[0].printedPage;
+  const back = backMatterStart(pages, toc);
   const chapters: ChapterRange[] = toc.map((e, i) => {
     const pageFrom = e.printedPage + offset;
     const next = toc[i + 1];
-    return { number: e.number, title: e.title, pageFrom, pageTo: next ? next.printedPage + offset - 1 : pageCount };
+    const lastEnd = back ? back + offset - 1 : pageCount;
+    return { number: e.number, title: e.title, pageFrom, pageTo: next ? next.printedPage + offset - 1 : lastEnd };
   });
   if (chapters.some((c) => c.pageFrom < 1 || c.pageTo > pageCount || c.pageFrom > c.pageTo)) {
     return { ok: false, error: "The chapter pages in the contents don't fit this PDF. Check that it is the whole book." };

@@ -1,0 +1,372 @@
+{
+  "id": "chemistry-9-10-bn-c04-t4.ex",
+  "key": "4.ex",
+  "title": "নমুনা প্রশ্ন",
+  "chapter": 4,
+  "ordinal": 10,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c04-t4.ex-p001",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "১. আধুনিক পর্যায় সারণির মূল ভিত্তি কী?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.ex-p002",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) পারমাণবিক সংখ্যা                      (খ) পারমাণবিক ভর\n(গ) আপেক্ষিক পারমাণবিক ভর          (ঘ) ইলেকট্রন বিন্যাস",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.ex-p003",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "২. A $\\rightarrow$ $1s^2$ $2s^2$ $2p^6$ $3s^2$ $3p^6$ $3d^3$ $4s^2$ মৌলটি পর্যায় সারণির কোন গ্রুপে অবস্থিত?",
+      "image": null,
+      "formulas": [
+        "\\rightarrow",
+        "1s^2",
+        "2s^2",
+        "2p^6",
+        "3s^2",
+        "3p^6",
+        "3d^3",
+        "4s^2"
+      ],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.ex-p004",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) Group-2                      (খ) Group-5\n(গ) Group-11                      (ঘ) Group-13",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.ex-p005",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "নিচের উদ্দীপকের আলোকে ৩ ও ৪ নং প্রশ্নের উত্তর দাও :",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.ex-p006",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "পর্যায় সারণির কোনো একটি গ্রুপের খণ্ডিত অংশ। (এখানে X, Y প্রতীকী অর্থে, প্রচলিত কোনো মৌলের প্রতীক নয়)",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.ex-p007",
+      "kind": "table",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "<table><tr><td><sup>19</sup>K</td></tr>\n<tr><td><sup>37</sup>X</td></tr>\n<tr><td><sup>55</sup>Y</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.ex-p008",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৩. ‘X’ মৌলটি পর্যায় সারণির কোন পর্যায়ের?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.ex-p009",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) ৩য়                      (খ) ৪র্থ\n(গ) ৫ম                      (ঘ) ৬ষ্ঠ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.ex-p010",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৪. উদ্দীপকের মৌলগুলোর—",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.ex-p011",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(i) সর্বশেষ স্তরে 1টি ইলেকট্রন আছে\n(ii) Y মৌলটি X মৌল অপেক্ষা বেশি সক্রিয়\n(iii) পারমাণবিক আকার উপর থেকে নিচে ক্রমাব্যে হ্রাস পায়",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.ex-p012",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "নিচের কোনটি সঠিক?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.ex-p013",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) i ও ii                      (খ) ii ও iii\n(গ) i ও iii                      (ঘ) i, ii ও iii",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.ex-p014",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "**১. নিচের উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও :**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 86,
+      "pdfPageEnd": 86,
+      "printedPageStart": 81,
+      "printedPageEnd": 81,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.ex-p015",
+      "kind": "table",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "<table><tr><th>মৌল</th><th>পারমাণবিক সংখ্যা</th></tr>\n<tr><td>X</td><td>12</td></tr>\n<tr><td>Y</td><td>20</td></tr>\n<tr><td>Z</td><td>24</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 86,
+      "pdfPageEnd": 86,
+      "printedPageStart": 81,
+      "printedPageEnd": 81,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.ex-p016",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(ক) মুদ্রা ধাতু কাকে বলে?\n(খ) বেরিয়ামকে মৃৎক্ষার ধাতু বলা হয় কেন? ব্যাখ্যা করো ।\n(গ) পর্যায় সারণিতে Z মৌলের অবস্থান নির্ণয় করো ।\n(ঘ) X ও Y মৌলদ্বয় একই রকম রাসায়নিক ধর্ম প্রদর্শন করে বিশ্লেষণ করো ।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 86,
+      "pdfPageEnd": 86,
+      "printedPageStart": 81,
+      "printedPageEnd": 81,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.ex-p017",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "**২. নিচের উদ্দীপকের আলোকে প্রশ্নের উত্তর দাও :**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 86,
+      "pdfPageEnd": 86,
+      "printedPageStart": 81,
+      "printedPageEnd": 81,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.ex-p018",
+      "kind": "table",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "<table><tr><th></th><th>গ্রুপ ১</th><th>গ্রুপ ২</th><th>গ্রুপ ১৭</th></tr>\n<tr><td>পর্দায় ২</td><td></td><td></td><td>X</td></tr>\n<tr><td>পর্দায় ৩</td><td></td><td></td><td>Y</td></tr>\n<tr><td>পর্দায় ৪</td><td>A</td><td>D</td><td>E</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 86,
+      "pdfPageEnd": 86,
+      "printedPageStart": 81,
+      "printedPageEnd": 81,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.ex-p019",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(ক) আধুনিক পর্দায় সূত্রটি লেখো ।\n(খ) সিলিকনকে অপধাতু বলা হয় কেন? ব্যাখ্যা করো ।\n(গ) উদ্দীপকের কোন মৌলটির ইলেকট্রন আসক্তি বেশি? ব্যাখ্যা করো ।\n(ঘ) A থেকে E এর দিকে যেতে আয়নিকরণ শক্তির পরিবর্তন বিশ্লেষণ করো ।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 86,
+      "pdfPageEnd": 86,
+      "printedPageStart": 81,
+      "printedPageEnd": 81,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.ex-p020",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "**১. সোডিয়ামকে ক্ষার ধাতু বলা হয় কেন? ব্যাখ্যা করো ।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 86,
+      "pdfPageEnd": 86,
+      "printedPageStart": 81,
+      "printedPageEnd": 81,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.ex-p021",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "**২. হিলিয়ামকে পর্যায় সারণির গ্রুপ-২ তে স্থান দেওয়া হয়নি কেন? ব্যাখ্যা করো ।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 86,
+      "pdfPageEnd": 86,
+      "printedPageStart": 81,
+      "printedPageEnd": 81,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.ex-p022",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "**৩. Ca ও Mg এর মধ্যে কোনটির আয়নিকরণ শক্তি বেশি? ব্যাখ্যা করো ।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 86,
+      "pdfPageEnd": 86,
+      "printedPageStart": 81,
+      "printedPageEnd": 81,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "included": 231,
+  "held": 7,
+  "excluded": 21,
+  "exercises": 33,
+  "reasons": {
+    "picture description written by the parser": 21,
+    "needs a check: latin-junk": 7
+  }
+}

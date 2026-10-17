@@ -1,0 +1,88 @@
+{
+  "id": "physics-9-10-bn-c09-t9.0",
+  "key": "9.0",
+  "title": "ভূমিকা ও শিখনফল",
+  "chapter": 9,
+  "ordinal": 0,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c09-t9.0-p001",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "photo: optical fibers emitting light",
+      "image": "p246-page_1_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 246,
+      "pdfPageEnd": 246,
+      "printedPageStart": 241,
+      "printedPageEnd": 241,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.0-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "শূন্যস্থানে আলোর বেগ প্রতি সেকেন্ডে $2.99792458 \\times 10^8$ m। আলো যখন অন্য কোনো মাধ্যমে প্রবেশ করে, তখন আলোর বেগ এর থেকে কমে যায় এবং এই প্রক্রিয়াটিকে ব্যাখ্যা করার জন্য প্রতিসরণাঙ্ক বলে একটি রাশি সংজ্ঞায়িত করা হয়েছে। তোমরা ইচ্ছা করলেই দেখাতে পারবে আলোর বেগের তারতম্যের জন্য এক মাধ্যম থেকে অন্য মাধ্যমে যাওয়ার সময় আলোক রশ্মি বৈকে যায় অর্থাৎ দিক পরিবর্তন করে।",
+      "image": null,
+      "formulas": [
+        "2.99792458 \\times 10^8"
+      ],
+      "pdfPageStart": 246,
+      "pdfPageEnd": 246,
+      "printedPageStart": 241,
+      "printedPageEnd": 241,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.0-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আলোর এই ধর্ম বা প্রতিসরণের কারণে পূর্ণ অভ্যন্তরীণ প্রতিফলন নামে একটি অত্যন্ত চমকপ্রদ ব্যাপার ঘটে পারে। এই অধ্যায়ে আমরা পূর্ণ অভ্যন্তরীণ প্রতিফলনের নানা ধরনের ব্যবহার নিয়ে আলোচনা করব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 246,
+      "pdfPageEnd": 246,
+      "printedPageStart": 241,
+      "printedPageEnd": 241,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.0-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "একটি বিন্দু থেকে আগত আলোকরশ্মিসমূহ একটি উত্তল বা অবতল লেন্সের মধ্য দিয়ে প্রতিসরণের পর ঐ বিন্দুটির একটি বিস্ত তৈরি করে। বিভিন্ন অবস্থায় এই বিস্ত বিভিন্ন ধরনের হতে পারে। এই অধ্যায়ে আমরা এই বিস্তের ধরনসমূহ আলোচনা করব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 246,
+      "pdfPageEnd": 246,
+      "printedPageStart": 241,
+      "printedPageEnd": 241,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.0-p005",
+      "kind": "objective",
+      "section": "এ অধ্যায় শেষে আমরা –",
+      "caption": null,
+      "body": "* প্রতিসরণের সূত্র ব্যাখ্যা করতে পারব।\n* প্রতিসরণাঙ্ক ব্যাখ্যা করতে পারব।\n* পূর্ণ অভ্যন্তরীণ প্রতিফলন ব্যাখ্যা করতে পারব।\n* অপটিক্যাল ফাইবারের ব্যবহার ব্যাখ্যা করতে পারব।\n* লেন্স এবং এর প্রকারভেদ ব্যাখ্যা করতে পারব।\n* আলোকরশ্মির ক্রিয়ারেখা অঙ্কন করে লেন্সসংক্রান্ত বিভিন্ন রাশি বর্ণনা করতে পারব।\n* লেন্সে সূক্ষ্ট প্রতিবিম্ব আলোক রশ্মির ক্রিয়ারেখা অঙ্কন করে বর্ণনা করতে পারব।\n* লেন্সের ক্ষমতা ব্যাখ্যা করতে পারব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 247,
+      "pdfPageEnd": 247,
+      "printedPageStart": 242,
+      "printedPageEnd": 242,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

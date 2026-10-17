@@ -1,0 +1,196 @@
+{
+  "id": "higher-math-9-10-bn-c02-t2.12",
+  "key": "2.12",
+  "title": "দ্বিতীয় পদ্ধতি (সমমাত্রিক চক্রক্রমিক বহুপদীর ধারণা ব্যবহার করে)",
+  "chapter": 2,
+  "ordinal": 12,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c02-t2.12-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$a^3 + b^3 + c^3 - 3abc$ রাশিটিকে $a$ চলকের বহুপদী $P(a)$ ধরে $a = -(b + c)$ বসিয়ে পাই,",
+      "image": null,
+      "formulas": [
+        "a^3 + b^3 + c^3 - 3abc",
+        "a",
+        "P(a)",
+        "a = -(b + c)"
+      ],
+      "pdfPageStart": 57,
+      "pdfPageEnd": 57,
+      "printedPageStart": 52,
+      "printedPageEnd": 52,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.12-p002",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$P\\{-(b + c)\\} = -(b + c)^3 + b^3 + c^3 + 3(b + c)bc = (b + c)^3 - (b + c)^3 = 0$$",
+      "image": null,
+      "formulas": [
+        "P\\{-(b + c)\\} = -(b + c)^3 + b^3 + c^3 + 3(b + c)bc = (b + c)^3 - (b + c)^3 = 0"
+      ],
+      "pdfPageStart": 57,
+      "pdfPageEnd": 57,
+      "printedPageStart": 52,
+      "printedPageEnd": 52,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.12-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং $a + b + c$ বিবেচনাধীন রাশিটির একটি উৎপাদক। যেহেতু $a^3 + b^3 + c^3 - 3abc$ তিন মাত্রার সমমাত্রিক চক্রক্রমিক বহুপদী, সুতরাং রাশিটির অপর উৎপাদক $k(a^2 + b^2 + c^2) + m(ab + bc + ca)$ আকারের হবে, যেখানে $k$ ও $m$ ধ্রুবক। অতএব, সকল $a, b$ ও $c$ এর জন্য",
+      "image": null,
+      "formulas": [
+        "a + b + c",
+        "a^3 + b^3 + c^3 - 3abc",
+        "k(a^2 + b^2 + c^2) + m(ab + bc + ca)",
+        "k",
+        "m",
+        "a, b",
+        "c"
+      ],
+      "pdfPageStart": 57,
+      "pdfPageEnd": 57,
+      "printedPageStart": 52,
+      "printedPageEnd": 52,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.12-p004",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$a^3 + b^3 + c^3 - 3abc = (a + b + c)\\{k(a^2 + b^2 + c^2) + m(ab + bc + ca)\\}$$",
+      "image": null,
+      "formulas": [
+        "a^3 + b^3 + c^3 - 3abc = (a + b + c)\\{k(a^2 + b^2 + c^2) + m(ab + bc + ca)\\}"
+      ],
+      "pdfPageStart": 57,
+      "pdfPageEnd": 57,
+      "printedPageStart": 52,
+      "printedPageEnd": 52,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.12-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে প্রথমে $a = 1, b = 0, c = 0$ ও পরে $a = 1, b = 1, c = 0$ বসিয়ে পাই, $k = 1$ এবং $2 = 2(k \\times 2 + m)$ অর্থাৎ $k = 1$ এবং $1 = 2 + m \\implies m = -1$।",
+      "image": null,
+      "formulas": [
+        "a = 1, b = 0, c = 0",
+        "a = 1, b = 1, c = 0",
+        "k = 1",
+        "2 = 2(k \\times 2 + m)",
+        "k = 1",
+        "1 = 2 + m \\implies m = -1"
+      ],
+      "pdfPageStart": 57,
+      "pdfPageEnd": 57,
+      "printedPageStart": 52,
+      "printedPageEnd": 52,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.12-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore a^3 + b^3 + c^3 - 3abc = (a + b + c)(a^2 + b^2 + c^2 - ab - bc - ca)$।",
+      "image": null,
+      "formulas": [
+        "\\therefore a^3 + b^3 + c^3 - 3abc = (a + b + c)(a^2 + b^2 + c^2 - ab - bc - ca)"
+      ],
+      "pdfPageStart": 57,
+      "pdfPageEnd": 57,
+      "printedPageStart": 52,
+      "printedPageEnd": 52,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.12-p007",
+      "kind": "text",
+      "section": "অনুসিদ্ধান্ত ১. $a^3 + b^3 + c^3 - 3abc = \\frac{1}{2}(a + b + c)\\{(a - b)^2 + (b - c)^2 + (c - a)^2\\}$",
+      "caption": null,
+      "body": "**প্রমাণ:** $a^2 + b^2 + c^2 - ab - bc - ca$",
+      "image": null,
+      "formulas": [
+        "a^2 + b^2 + c^2 - ab - bc - ca"
+      ],
+      "pdfPageStart": 57,
+      "pdfPageEnd": 57,
+      "printedPageStart": 52,
+      "printedPageEnd": 52,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.12-p008",
+      "kind": "text",
+      "section": "অনুসিদ্ধান্ত ১. $a^3 + b^3 + c^3 - 3abc = \\frac{1}{2}(a + b + c)\\{(a - b)^2 + (b - c)^2 + (c - a)^2\\}$",
+      "caption": null,
+      "body": "$$= \\frac{1}{2}(2a^2 + 2b^2 + 2c^2 - 2ab - 2bc - 2ca)$$\n$$= \\frac{1}{2}\\{(a^2 - 2ab + b^2) + (b^2 - 2bc + c^2) + (c^2 - 2ca + a^2)\\}$$\n$$= \\frac{1}{2}\\{(a - b)^2 + (b - c)^2 + (c - a)^2\\}$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{1}{2}(2a^2 + 2b^2 + 2c^2 - 2ab - 2bc - 2ca)",
+        "= \\frac{1}{2}\\{(a^2 - 2ab + b^2) + (b^2 - 2bc + c^2) + (c^2 - 2ca + a^2)\\}",
+        "= \\frac{1}{2}\\{(a - b)^2 + (b - c)^2 + (c - a)^2\\}"
+      ],
+      "pdfPageStart": 57,
+      "pdfPageEnd": 57,
+      "printedPageStart": 52,
+      "printedPageEnd": 52,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.12-p009",
+      "kind": "formula",
+      "section": "অনুসিদ্ধান্ত ১. $a^3 + b^3 + c^3 - 3abc = \\frac{1}{2}(a + b + c)\\{(a - b)^2 + (b - c)^2 + (c - a)^2\\}$",
+      "caption": null,
+      "body": "$\\therefore a^3 + b^3 + c^3 - 3abc = \\frac{1}{2}(a + b + c)\\{(a - b)^2 + (b - c)^2 + (c - a)^2\\}$",
+      "image": null,
+      "formulas": [
+        "\\therefore a^3 + b^3 + c^3 - 3abc = \\frac{1}{2}(a + b + c)\\{(a - b)^2 + (b - c)^2 + (c - a)^2\\}"
+      ],
+      "pdfPageStart": 57,
+      "pdfPageEnd": 57,
+      "printedPageStart": 52,
+      "printedPageEnd": 52,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

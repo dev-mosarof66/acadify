@@ -1,0 +1,100 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.14",
+  "key": "1.14",
+  "title": "নিশ্চেষ্ট সেট (Disjoint Set)",
+  "chapter": 1,
+  "ordinal": 14,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.14-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যদি $A$ ও $B$ সেট এমন হয় যে $A \\cap B = \\varnothing$, তবে $A$ ও $B$ কে নিশ্চেষ্ট সেট বলা হয়।",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "A \\cap B = \\varnothing",
+        "A",
+        "B"
+      ],
+      "pdfPageStart": 11,
+      "pdfPageEnd": 11,
+      "printedPageStart": 6,
+      "printedPageEnd": 6,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.14-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৯.** $A = \\{x : x  ধনাত্মক পূর্ণসংখ্যা\\}$ এবং $B = \\{x : x  ঋণাত্মক পূর্ণসংখ্যা\\}$ হলে $A$ ও $B$ সেটদ্বয় নিশ্চেষ্ট, কেননা $A \\cap B = \\varnothing$।",
+      "image": null,
+      "formulas": [
+        "A = \\{x : x  ধনাত্মক পূর্ণসংখ্যা\\}",
+        "B = \\{x : x  ঋণাত্মক পূর্ণসংখ্যা\\}",
+        "A",
+        "B",
+        "A \\cap B = \\varnothing"
+      ],
+      "pdfPageStart": 11,
+      "pdfPageEnd": 11,
+      "printedPageStart": 6,
+      "printedPageEnd": 6,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.14-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১০.** $A = \\{x : x \\in R  এবং  0 \\le x \\le 2\\}$ এবং $B = \\{x : x \\in N  এবং  0 \\le x \\le 2\\}$ হলে $B \\subseteq A, A \\cup B = A, A \\cap B = B = \\{1, 2\\}$।",
+      "image": null,
+      "formulas": [
+        "A = \\{x : x \\in R  এবং  0 \\le x \\le 2\\}",
+        "B = \\{x : x \\in N  এবং  0 \\le x \\le 2\\}",
+        "B \\subseteq A, A \\cup B = A, A \\cap B = B = \\{1, 2\\}"
+      ],
+      "pdfPageStart": 11,
+      "pdfPageEnd": 11,
+      "printedPageStart": 6,
+      "printedPageEnd": 6,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.14-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১১.** $A = \\{x : x \\in R  এবং  1 \\le x \\le 2\\}$ এবং $B = \\{x : x \\in R  এবং  0 < x < 1\\}$ হলে, $A \\cup B = \\{x : x \\in R  এবং  0 < x \\le 2\\}$ এবং $A \\cap B = \\varnothing$ অর্থাৎ $A$ ও $B$ নিশ্চেষ্ট।",
+      "image": null,
+      "formulas": [
+        "A = \\{x : x \\in R  এবং  1 \\le x \\le 2\\}",
+        "B = \\{x : x \\in R  এবং  0 < x < 1\\}",
+        "A \\cup B = \\{x : x \\in R  এবং  0 < x \\le 2\\}",
+        "A \\cap B = \\varnothing",
+        "A",
+        "B"
+      ],
+      "pdfPageStart": 11,
+      "pdfPageEnd": 11,
+      "printedPageStart": 6,
+      "printedPageEnd": 6,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

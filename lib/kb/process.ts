@@ -12,6 +12,7 @@ import { detectClassLevel, detectEditionYear, detectLanguage } from "./meta";
 import { KB_UPLOADS_DIR } from "./paths";
 import { cutPages } from "./pdf";
 import { checkChapterEdit, planChapters, type ChapterEdit } from "./plan";
+import { applyCorrections } from "./review";
 import { ABANDONED_MS, chaptersToSubmit, isIdle, UPLOAD_GRACE_MS } from "./queue";
 
 /**
@@ -65,6 +66,9 @@ export async function startPlan(jobId: string) {
   const job = await getJob(jobId);
   if (!job) throw new Error("Job not found");
   if (job.status === "planning" && job.planJobId) return job;
+  // A retry after a planning failure starts from the pages already parsed, so it costs no credits
+  const saved = await savedPlanPages(job.id);
+  if (saved) return applyPlan(job, saved);
   await updateJob(job.id, { status: "planning", planJobId: null, error: null });
   try {
     const planJobId = await submit(job, "plan", 1, Math.min(PLAN_PAGES, job.pageCount), false);
@@ -151,19 +155,33 @@ async function finishPlan(job: KbJob): Promise<KbJob | null> {
       .filter((p) => p.success !== false && typeof p.markdown === "string")
       .map((p) => ({ number: p.page_number, markdown: p.markdown! }));
     await writeFile(pagesPath(job.id, "plan"), JSON.stringify({ pages }), "utf8");
-
-    const plan = planChapters(pages, job.pageCount);
-    if (!plan.ok) return await updateJob(job.id, { status: "failed", error: plan.error });
-
-    // What the file name doesn't say is read from the front pages: the cover prints the class and edition
-    const text = pages.map((p) => p.markdown).join("\n");
-    const language = job.meta.language === "auto" ? detectLanguage(text) : job.meta.language;
-    const classLevel = job.meta.classLevel || detectClassLevel(text);
-    const editionYear = job.meta.editionYear ?? detectEditionYear(text);
-    const chapters: ChapterPlan[] = plan.chapters.map((c) => ({ ...c, status: "pending", parseJobId: null, creditsUsed: null, error: null, result: null }));
-    return await updateJob(job.id, { status: "planned", chapters, meta: { ...job.meta, language, classLevel, editionYear, printedPageOffset: plan.printedPageOffset }, error: null });
+    return await applyPlan(job, pages);
   } catch (err) {
     return await updateJob(job.id, { status: "failed", error: errorMessage(err) });
+  }
+}
+
+/** Works the chapter list out of the parsed front pages. Pure reading, so it can be re-run on saved pages for free. */
+async function applyPlan(job: KbJob, pages: PageMarkdown[]): Promise<KbJob> {
+  const plan = planChapters(pages, job.pageCount);
+  if (!plan.ok) return await updateJob(job.id, { status: "failed", error: plan.error });
+
+  // What the file name doesn't say is read from the front pages: the cover prints the class and edition
+  const text = pages.map((p) => p.markdown).join("\n");
+  const language = job.meta.language === "auto" ? detectLanguage(text) : job.meta.language;
+  const classLevel = job.meta.classLevel || detectClassLevel(text);
+  const editionYear = job.meta.editionYear ?? detectEditionYear(text);
+  const chapters: ChapterPlan[] = plan.chapters.map((c) => ({ ...c, status: "pending", parseJobId: null, creditsUsed: null, error: null, result: null }));
+  return await updateJob(job.id, { status: "planned", chapters, meta: { ...job.meta, language, classLevel, editionYear, printedPageOffset: plan.printedPageOffset }, error: null });
+}
+
+/** The contents pages the parser already returned for this upload, if they were saved. */
+async function savedPlanPages(jobId: string): Promise<PageMarkdown[] | null> {
+  try {
+    const saved = JSON.parse(await readFile(pagesPath(jobId, "plan"), "utf8")) as { pages?: PageMarkdown[] };
+    return saved.pages?.length ? saved.pages : null;
+  } catch {
+    return null;
   }
 }
 
@@ -211,6 +229,7 @@ export async function structureChapter(jobId: string, number: number, credits?: 
     }
     // A name the admin typed always wins; otherwise the parsed heading, and the contents page's name as the fallback
     if (plan.titleEdited || !draft.title) draft.title = plan.title;
+    else draft.title = applyCorrections(draft.title).text;
     const placed = attachImages(draft, saved.images ?? [], plan.pageFrom);
     const result = await exportChapter(job, draft, placed);
     await writeAiReady(result.outDir, number);

@@ -1,0 +1,969 @@
+{
+  "id": "physics-9-10-bn-c09-t9.1",
+  "key": "9.1",
+  "title": "আলোর প্রতিসরণ (Refraction of Light)",
+  "chapter": 9,
+  "ordinal": 1,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তোমরা এর মাঝে জেনে গেছ যে আলো যখন একটা মাধ্যম থেকে অন্য মাধ্যমে প্রবেশ করতে চায় তখন তিনটি ভিন্ন ভিন্ন ঘটনা ঘটতে পারে। একটি হচ্ছে প্রতিফলন, যখন প্রথম মাধ্যম থেকে দ্বিতীয় মাধ্যমে প্রবাহিত হওয়ার সময় খানিকটা আলো আবার প্রথম মাধ্যমে ফিরে আসে, এবং সে বিষয়টি আমরা আগের অধ্যায়ে আলোচনা করেছি। দ্বিতীয়টি হচ্ছে প্রতিসরণ, যখন প্রথম মাধ্যম থেকে দ্বিতীয় মাধ্যমে আলো প্রবেশ করে, যে বিষয়টি আমরা এই অধ্যায়ে আলোচনা করব। তৃতীয়টি হচ্ছে শোষণ, যখন খানিকটা আলো দ্বিতীয় মাধ্যম দ্বারা শোষিত হয়, যে বিষয়টি আমরা আলোচনা করব না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 248,
+      "pdfPageEnd": 248,
+      "printedPageStart": 243,
+      "printedPageEnd": 243,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আলোর প্রতিসরণ বোঝার জন্য প্রতিসরণাঙ্ক বলে একটা রাশি ($n$) ব্যবহার করা হয়। আমরা জানি, শূন্য স্থানে আলোর বেগ $2.99 \\times 10^8$ m/s, [ব্যবহারিক ক্ষেত্রে এটি $3 \\times 10^8$ m/s ধরা হয়] এবং অন্য যে কোনো মাধ্যমের ভেতর দিয়ে আলোর বেগ এর চেয়ে কম। একটি মাধ্যমে আলোর বেগ শূন্যস্থানে বেগের যত গুণ কম সেটাই হচ্ছে ঐ মাধ্যমটার প্রতিসরণাঙ্ক। যেমন, $20^\\circC$ তাপমাত্রার পানিতে আলোর বেগ হচ্ছে $2.26 \\times 10^8$ m/s, কাজেই ঐ তাপমাত্রায় পানির প্রতিসরণাঙ্ক হচ্ছে:",
+      "image": null,
+      "formulas": [
+        "n",
+        "2.99 \\times 10^8",
+        "3 \\times 10^8",
+        "20^\\circC",
+        "2.26 \\times 10^8"
+      ],
+      "pdfPageStart": 248,
+      "pdfPageEnd": 248,
+      "printedPageStart": 243,
+      "printedPageEnd": 243,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p003",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$n = \\frac{c}{v} = \\frac{3 \\times 10^8  m/s}{2.26 \\times 10^8  m/s} = 1.33$$",
+      "image": null,
+      "formulas": [
+        "n = \\frac{c}{v} = \\frac{3 \\times 10^8  m/s}{2.26 \\times 10^8  m/s} = 1.33"
+      ],
+      "pdfPageStart": 248,
+      "pdfPageEnd": 248,
+      "printedPageStart": 243,
+      "printedPageEnd": 243,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ শূন্য স্থানে আলোর বেগ $20^\\circC$ তাপমাত্রার পানিতে আলোর বেগ থেকে 1.33 গুণ বেশি।",
+      "image": null,
+      "formulas": [
+        "20^\\circC"
+      ],
+      "pdfPageStart": 248,
+      "pdfPageEnd": 248,
+      "printedPageStart": 243,
+      "printedPageEnd": 243,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ফাইবার অপটিক কেবল এর কাচের তন্তুর প্রতিসরণাঙ্ক 1.5, কাজেই ফাইবারের ভেতর দিয়ে আলোর বেগ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 248,
+      "pdfPageEnd": 248,
+      "printedPageStart": 243,
+      "printedPageEnd": 243,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p006",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$v = 3 \\times 10^8  ms^{-1} / 1.50 = 2.00 \\times 10^8  ms^{-1}$$",
+      "image": null,
+      "formulas": [
+        "v = 3 \\times 10^8  ms^{-1} / 1.50 = 2.00 \\times 10^8  ms^{-1}"
+      ],
+      "pdfPageStart": 248,
+      "pdfPageEnd": 248,
+      "printedPageStart": 243,
+      "printedPageEnd": 243,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "প্রতিসরণাঙ্ক একটি সংখ্যা এবং এর কোনো একক নেই। যেহেতু আলোর সর্বোচ্চ বেগ $c$, সেহেতু $n$ এর মান সবসময়ই 1 থেকে বেশি। ৯.০১ টেবিলে কিছু পদার্থের প্রতিসরণাঙ্ক দেওয়া হয়েছে। শূন্য মাধ্যমে স্বাভাবিকভাবেই $n$ এর মান হবে 1, বাতাসের প্রতিসরণাঙ্ক 1.00029, এটি 1 এর এত কাছাকাছি যে আমরা এটিকে 1 হিসাবেই ধরে নেব।",
+      "image": null,
+      "formulas": [
+        "c",
+        "n",
+        "n"
+      ],
+      "pdfPageStart": 248,
+      "pdfPageEnd": 248,
+      "printedPageStart": 243,
+      "printedPageEnd": 243,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p008",
+      "kind": "table",
+      "section": null,
+      "caption": "টেবিল ৯.০১: ভিন্ন ভিন্ন মাধ্যমে আলোর প্রতিসরণাঙ্ক",
+      "body": "<table><tr><td>শূন্য মাধ্যম</td><td>1.00</td></tr>\n<tr><td>বাতাস</td><td>1.00029</td></tr>\n<tr><td>পানি (20°C)</td><td>1.33</td></tr>\n<tr><td>সাধারণ কাচ</td><td>1.52</td></tr>\n<tr><td>হীরা</td><td>2.42</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 248,
+      "pdfPageEnd": 248,
+      "printedPageStart": 243,
+      "printedPageEnd": 243,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p009",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** 9.01 টেবিলে দেখানো মাধ্যমগুলোতে আলোর বেগ কত বের করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 248,
+      "pdfPageEnd": 248,
+      "printedPageStart": 243,
+      "printedPageEnd": 243,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p010",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** কোনো মাধ্যমে আলোর বেগ $v = \\frac{c}{n}$",
+      "image": null,
+      "formulas": [
+        "v = \\frac{c}{n}"
+      ],
+      "pdfPageStart": 248,
+      "pdfPageEnd": 248,
+      "printedPageStart": 243,
+      "printedPageEnd": 243,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p011",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "শূন্য মাধ্যমে $v = 3 \\times 10^8  ms^{-1} / 1.00 = 3 \\times 10^8  ms^{-1}$",
+      "image": null,
+      "formulas": [
+        "v = 3 \\times 10^8  ms^{-1} / 1.00 = 3 \\times 10^8  ms^{-1}"
+      ],
+      "pdfPageStart": 249,
+      "pdfPageEnd": 249,
+      "printedPageStart": 244,
+      "printedPageEnd": 244,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p012",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "বাতাসে $v = 3 \\times 10^8  ms^{-1} / 1.00029 = 3 \\times 10^8  ms^{-1}$",
+      "image": null,
+      "formulas": [
+        "v = 3 \\times 10^8  ms^{-1} / 1.00029 = 3 \\times 10^8  ms^{-1}"
+      ],
+      "pdfPageStart": 249,
+      "pdfPageEnd": 249,
+      "printedPageStart": 244,
+      "printedPageEnd": 244,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p013",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "পানিতে $v = 3 \\times 10^8  ms^{-1} / 1.33 = 2.26 \\times 10^8  ms^{-1}$",
+      "image": null,
+      "formulas": [
+        "v = 3 \\times 10^8  ms^{-1} / 1.33 = 2.26 \\times 10^8  ms^{-1}"
+      ],
+      "pdfPageStart": 249,
+      "pdfPageEnd": 249,
+      "printedPageStart": 244,
+      "printedPageEnd": 244,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p014",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "সাধারণ কাচে $v = 3 \\times 10^8  ms^{-1} / 1.52 = 2 \\times 10^8  ms^{-1}$",
+      "image": null,
+      "formulas": [
+        "v = 3 \\times 10^8  ms^{-1} / 1.52 = 2 \\times 10^8  ms^{-1}"
+      ],
+      "pdfPageStart": 249,
+      "pdfPageEnd": 249,
+      "printedPageStart": 244,
+      "printedPageEnd": 244,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p015",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "হীরাতে $v = 3 \\times 10^8  ms^{-1} / 2.42 = 1.24 \\times 10^8  ms^{-1}$",
+      "image": null,
+      "formulas": [
+        "v = 3 \\times 10^8  ms^{-1} / 2.42 = 1.24 \\times 10^8  ms^{-1}"
+      ],
+      "pdfPageStart": 249,
+      "pdfPageEnd": 249,
+      "printedPageStart": 244,
+      "printedPageEnd": 244,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p016",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "এখানে উল্লেখ্য, শূন্য মাধ্যম ছাড়া অন্য কোনো মাধ্যমের প্রতিসরণাঙ্ক বলতে হলে সেটি কোন তরঙ্গ দৈর্ঘ্যের আলোতে মাপা হয়েছে সেটি বলে দিতে হয়। কারণ এই প্রতিসরণাঙ্ক আলোর তরঙ্গদৈর্ঘ্যের ওপর নির্ভর করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 249,
+      "pdfPageEnd": 249,
+      "printedPageStart": 244,
+      "printedPageEnd": 244,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p017",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "drawing: diagram showing light refraction between two media with angles θ1, θ2 and 90°",
+      "image": "p249-page_4_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 249,
+      "pdfPageEnd": 249,
+      "printedPageStart": 244,
+      "printedPageEnd": 244,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p018",
+      "kind": "text",
+      "section": "৯.১.১ প্রতিসরণের সূত্র",
+      "caption": null,
+      "body": "প্রতিফলনের বেলায় আলোক রশ্মি যে বিন্দুতে পড়েছে আমরা সেই বিন্দু থেকে একটি লম্ব কল্পনা করে নিয়েছিলাম, এখানেও সেই একই কাজ করতে হবে। ৯.০১ চিত্রটিতে লম্বের সাথে আপতিত রশ্মিটির কোণকে বলব আপতন কোণ, দ্বিতীয় মাধ্যমে লম্বের সাথে প্রতিসরিত রশ্মির কোণকে বলব প্রতিসরণ কোণ।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 249,
+      "pdfPageEnd": 249,
+      "printedPageStart": 244,
+      "printedPageEnd": 244,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p019",
+      "kind": "figure",
+      "section": "৯.১.১ প্রতিসরণের সূত্র",
+      "caption": null,
+      "body": "**চিত্র ৯.০১: প্রথম মাধ্যম থেকে দ্বিতীয় মাধ্যমে আলোর প্রতিসরণ।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 249,
+      "pdfPageEnd": 249,
+      "printedPageStart": 244,
+      "printedPageEnd": 244,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p020",
+      "kind": "text",
+      "section": "৯.১.১ প্রতিসরণের সূত্র",
+      "caption": null,
+      "body": "> **প্রতিসরণের প্রথম সূত্র:** আপতন রশ্মি এবং লম্ব দিয়ে আমরা যে সমতলটি কল্পনা করে নিয়েছি প্রতিসরিত রশ্মি সেই সমতলে থাকবে।\n>\n> **প্রতিসরণের দ্বিতীয় সূত্র:** প্রথম মাধ্যমের প্রতিসরণাঙ্ক $n_1$, দ্বিতীয় মাধ্যমের প্রতিসরণাঙ্ক $n_2$, আপতন কোণ $\\theta_1$, এবং প্রতিসরণ কোণ $\\theta_2$, হলে\n>\n> $$n_1 \\sin \\theta_1 = n_2 \\sin \\theta_2$$",
+      "image": null,
+      "formulas": [
+        "n_1",
+        "n_2",
+        "\\theta_1",
+        "\\theta_2",
+        "n_1 \\sin \\theta_1 = n_2 \\sin \\theta_2"
+      ],
+      "pdfPageStart": 249,
+      "pdfPageEnd": 249,
+      "printedPageStart": 244,
+      "printedPageEnd": 244,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p021",
+      "kind": "text",
+      "section": "৯.১.১ প্রতিসরণের সূত্র",
+      "caption": null,
+      "body": "এই অতি সহজ সূত্রটি মনে রাখলে তুমি প্রতিসরণ-সংক্রান্ত সব সমস্যার সমাধান করে ফেলতে পারবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 249,
+      "pdfPageEnd": 249,
+      "printedPageStart": 244,
+      "printedPageEnd": 244,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p022",
+      "kind": "text",
+      "section": "৯.১.১ প্রতিসরণের সূত্র",
+      "caption": null,
+      "body": "যদি প্রথম মাধ্যমটি শূন্য বা বাতাস হয় তাহলে $n_1 = 1$ ধরে লিখতে পারি (চিত্র ৯.০২)",
+      "image": null,
+      "formulas": [
+        "n_1 = 1"
+      ],
+      "pdfPageStart": 250,
+      "pdfPageEnd": 250,
+      "printedPageStart": 245,
+      "printedPageEnd": 245,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p023",
+      "kind": "formula",
+      "section": "৯.১.১ প্রতিসরণের সূত্র",
+      "caption": null,
+      "body": "$$n_2 = \\frac{\\sin \\theta_1}{\\sin \\theta_2}$$",
+      "image": null,
+      "formulas": [
+        "n_2 = \\frac{\\sin \\theta_1}{\\sin \\theta_2}"
+      ],
+      "pdfPageStart": 250,
+      "pdfPageEnd": 250,
+      "printedPageStart": 245,
+      "printedPageEnd": 245,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p024",
+      "kind": "text",
+      "section": "৯.১.১ প্রতিসরণের সূত্র",
+      "caption": null,
+      "body": "$n_2$ এর মান ১ থেকে বেশি, তাই $\\theta_2 < \\theta_1$ অর্থাৎ প্রতিসরণের পর আলোক রশ্মিটি লক্ষ্যের দিকে সরে যাবে। $n$ বেশি হলে আমরা অনেক সময় তাকে ‘ঘন মাধ্যম’ বুলি। মনে রাখতে হবে এখানে মাধ্যমের ভরের কারণে ঘন বলছি না। এটাকে ঘন বলতে বোঝানো হচ্ছে এর $n$ বেশি। কাজেই প্রতিসরণের দ্বিতীয় সূত্র থেকে আমরা বলতে পারি, আলো হালকা মাধ্যম থেকে ঘন মাধ্যমে প্রবেশ করলে প্রতিসরিত রশ্মি লক্ষ্যের দিকে বেঁকে যাবে। আবার ঘন মাধ্যম থেকে হালকা মাধ্যমে প্রবেশ করলে সেটি লক্ষ থেকে দূরে সরে যাবে। (চিত্র ৯.০২)",
+      "image": null,
+      "formulas": [
+        "n_2",
+        "\\theta_2 < \\theta_1",
+        "n",
+        "n"
+      ],
+      "pdfPageStart": 250,
+      "pdfPageEnd": 250,
+      "printedPageStart": 245,
+      "printedPageEnd": 245,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p025",
+      "kind": "figure",
+      "section": "৯.১.১ প্রতিসরণের সূত্র",
+      "caption": null,
+      "body": "drawing: Diagram showing light refraction from a rarer medium (n1) to a denser medium (n2) and vice versa",
+      "image": "p250-page_5_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 250,
+      "pdfPageEnd": 250,
+      "printedPageStart": 245,
+      "printedPageEnd": 245,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p026",
+      "kind": "figure",
+      "section": "৯.১.১ প্রতিসরণের সূত্র",
+      "caption": null,
+      "body": "**চিত্র ৯.০২: হালকা মাধ্যম থেকে ঘন মাধ্যমে হওয়ার সময় আলো লক্ষ্যের দিকে বেঁকে যায়। ঘন মাধ্যম থেকে হালকা মাধ্যমে যাবার সময় আলো লক্ষ থেকে দূরে সরে যায়।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 250,
+      "pdfPageEnd": 250,
+      "printedPageStart": 245,
+      "printedPageEnd": 245,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p027",
+      "kind": "text",
+      "section": "৯.১.১ প্রতিসরণের সূত্র",
+      "caption": null,
+      "body": "প্রতিসরণ নিয়ে আলোচনা করা হচ্ছে বলে এই চিত্রগুলোতে শুধু আপতন রশ্মি এবং প্রতিসরিত রশ্মি আঁকা হয়েছে, কিন্তু সবাইকে মনে রাখতে হবে যখনই একটি আলোক রশ্মি এক মাধ্যম থেকে অন্য মাধ্যমে প্রবেশ করে তখনই খানিকটা আলো প্রতিফলিত হয়। দুটো মাধ্যমের মাঝে কতখানি আলো প্রতিফলিত হবে এবং কতখানি প্রতিসরিত হবে সেটা নির্ভর করে মাধ্যম দুটির ওপর এবং আপতন কোণের ওপর। আপতন কোণ বাড়তে থাকলে সব সময়ই প্রতিফলন বাড়তে থাকে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 250,
+      "pdfPageEnd": 250,
+      "printedPageStart": 245,
+      "printedPageEnd": 245,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p028",
+      "kind": "text",
+      "section": "৯.১.১ প্রতিসরণের সূত্র",
+      "caption": null,
+      "body": "ভরের কারণে যে ঘনত্ব তার সাথে একটি মাধ্যমের প্রতিসরণাঙ্কের সরাসরি কোন সম্পর্ক নেই। তবে সাধারণত: দেখা যায় যে অধিক ঘনত্বের মাধ্যমের প্রতিসরণাঙ্ক বেশী হয়, যদিও এর ব্যতিক্রমও আছে। কম ঘনত্বের বায়ু মাধ্যমের প্রতিসরণাঙ্কের তুলনায় বেশী ঘনত্বের বায়ু মাধ্যমের প্রতিসরণাঙ্ক বেশী হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 250,
+      "pdfPageEnd": 250,
+      "printedPageStart": 245,
+      "printedPageEnd": 245,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p029",
+      "kind": "figure",
+      "section": "নিজে করো",
+      "caption": null,
+      "body": "drawing: diagram showing light refraction through a container with and without water",
+      "image": "p251-page_6_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 251,
+      "pdfPageEnd": 251,
+      "printedPageStart": 246,
+      "printedPageEnd": 246,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p030",
+      "kind": "figure",
+      "section": "নিজে করো",
+      "caption": null,
+      "body": "**চিত্র৯.০৩: পানি ও কাঁচের ভেতর আলোর প্রতিসরণ।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 251,
+      "pdfPageEnd": 251,
+      "printedPageStart": 246,
+      "printedPageEnd": 246,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p031",
+      "kind": "text",
+      "section": "নিজে করো",
+      "caption": null,
+      "body": "একটি কাপের মাঝে একটা মুদ্রা রেখে সেটাকে সামনে এমনভাবে রাখো যেন সেটি দেখা না যায়। মাথা না নাড়িয়ে মুদ্রাটি কীভাবে দেখা সম্ভব? কাপে পানি ঢাললেই মুদ্রাটি দৃশ্যমান হয়ে যাবে (চিত্র৯.০৩)। প্রতিসরণের কারণে আলো বাঁকা হয়ে এসে তোমার চোখে পড়বে। তোমার চোখ ঐ বাঁকা আলোর দিক বরাবর মুদ্রাটি দেখতে পাবে। শুধু তাই নয়, তোমার কাছে মনে হবে মুদ্রাটি বুঝি উপরে উঠে এসেছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 251,
+      "pdfPageEnd": 251,
+      "printedPageStart": 246,
+      "printedPageEnd": 246,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p032",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** বাতাস থেকে আলোক রশ্মি $n = 1.6$ মাধ্যমে $45^\\circ$ তে আপতিত হয়েছে। (চিত্র ৯.০৪ a) এটি কত ডিগ্রি কোণে দ্বিতীয় মাধ্যমে প্রবেশ করবে?",
+      "image": null,
+      "formulas": [
+        "n = 1.6",
+        "45^\\circ"
+      ],
+      "pdfPageStart": 251,
+      "pdfPageEnd": 251,
+      "printedPageStart": 246,
+      "printedPageEnd": 246,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p033",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** আমরা জানি $n_1 \\sin \\theta_1 = n_2 \\sin \\theta_2$",
+      "image": null,
+      "formulas": [
+        "n_1 \\sin \\theta_1 = n_2 \\sin \\theta_2"
+      ],
+      "pdfPageStart": 251,
+      "pdfPageEnd": 251,
+      "printedPageStart": 246,
+      "printedPageEnd": 246,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p034",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই $\\sin \\theta_2 = \\frac{n_1}{n_2} \\sin \\theta_1 = \\frac{1}{1.6} \\times \\frac{1}{\\sqrt{2}} = 0.44$",
+      "image": null,
+      "formulas": [
+        "\\sin \\theta_2 = \\frac{n_1}{n_2} \\sin \\theta_1 = \\frac{1}{1.6} \\times \\frac{1}{\\sqrt{2}} = 0.44"
+      ],
+      "pdfPageStart": 251,
+      "pdfPageEnd": 251,
+      "printedPageStart": 246,
+      "printedPageEnd": 246,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p035",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$\\theta_2 = 26^\\circ$",
+      "image": null,
+      "formulas": [
+        "\\theta_2 = 26^\\circ"
+      ],
+      "pdfPageStart": 251,
+      "pdfPageEnd": 251,
+      "printedPageStart": 246,
+      "printedPageEnd": 246,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p036",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** ৯.০৪(b) চিত্রটিতে একটি রশ্মি $60^\\circ$ তে বাতাস থেকে একটি মাধ্যমে প্রবেশ করে $45^\\circ$ কোণে দ্বিতীয় মাধ্যমে প্রতিসরিত হচ্ছে। দ্বিতীয় মাধ্যমটির প্রতিসরণাঙ্ক কত?",
+      "image": null,
+      "formulas": [
+        "60^\\circ",
+        "45^\\circ"
+      ],
+      "pdfPageStart": 251,
+      "pdfPageEnd": 251,
+      "printedPageStart": 246,
+      "printedPageEnd": 246,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p037",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "drawing: optical diagrams showing light refraction at a boundary between air (n1=1) and a medium (n2=1.6 or n2=?) with angles of incidence and refraction",
+      "image": "p252-page_7_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p038",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**চিত্র ৯.০৪: (a) আলো ৪৫° কোণে আপতিত হচ্ছে (b) আলো ৬০° কোণে আপতিত হয়ে ৪৫° কোণে প্রতিসরিত হচ্ছে।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p039",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** আমরা জানি $n_1 \\sin \\theta_1 = n_2 \\sin \\theta_2$",
+      "image": null,
+      "formulas": [
+        "n_1 \\sin \\theta_1 = n_2 \\sin \\theta_2"
+      ],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p040",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$1 \\times \\sin 60^\\circ = n_2 \\sin 45^\\circ$$",
+      "image": null,
+      "formulas": [
+        "1 \\times \\sin 60^\\circ = n_2 \\sin 45^\\circ"
+      ],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p041",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$n_2 = \\frac{\\sin 60^\\circ}{\\sin 45^\\circ} = 1.22$$",
+      "image": null,
+      "formulas": [
+        "n_2 = \\frac{\\sin 60^\\circ}{\\sin 45^\\circ} = 1.22"
+      ],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p042",
+      "kind": "text",
+      "section": "৯.১.২ আপেক্ষিক প্রতিসরণাঙ্ক",
+      "caption": null,
+      "body": "আমরা বলেছি কোনো মাধ্যমের প্রতিসরণাঙ্ক সব সময় ১ থেকে বেশি হয়। কারণ প্রতিসরণাঙ্ক হলো শূন্য মাধ্যমে আলোর বেগের তুলনায় সেই মাধ্যমে আলোর বেগের মান। মাঝে মাঝে এক মাধ্যমের প্রতিসরণাঙ্কের তুলনায় অন্য মাধ্যমের প্রতিসরণাঙ্ক প্রকাশ করা হয়, তখন কোনটির সাথে কোনটির তুলনা করা হয়েছে তার ওপর নির্ভর করে সেটা ১ থেকে কম হতে পারে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p043",
+      "kind": "text",
+      "section": "৯.১.২ আপেক্ষিক প্রতিসরণাঙ্ক",
+      "caption": null,
+      "body": "যেমন পানিকে প্রথম মাধ্যম এবং কাচকে দ্বিতীয় মাধ্যম ধরলে (চিত্র ৯.০৫)",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p044",
+      "kind": "formula",
+      "section": "৯.১.২ আপেক্ষিক প্রতিসরণাঙ্ক",
+      "caption": null,
+      "body": "$$n_1 \\sin \\theta_1 = n_2 \\sin \\theta_2$$",
+      "image": null,
+      "formulas": [
+        "n_1 \\sin \\theta_1 = n_2 \\sin \\theta_2"
+      ],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p045",
+      "kind": "formula",
+      "section": "৯.১.২ আপেক্ষিক প্রতিসরণাঙ্ক",
+      "caption": null,
+      "body": "$$n_1 = 1.33$$",
+      "image": null,
+      "formulas": [
+        "n_1 = 1.33"
+      ],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p046",
+      "kind": "formula",
+      "section": "৯.১.২ আপেক্ষিক প্রতিসরণাঙ্ক",
+      "caption": null,
+      "body": "$$n_2 = 1.52$$",
+      "image": null,
+      "formulas": [
+        "n_2 = 1.52"
+      ],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p047",
+      "kind": "text",
+      "section": "৯.১.২ আপেক্ষিক প্রতিসরণাঙ্ক",
+      "caption": null,
+      "body": "সুতরাং পানির সাপেক্ষে কাচের প্রতিসরণাঙ্ক $\\frac{v_1}{v_2} = \\frac{v_0 / v_2}{v_0 / v_1} = \\frac{n_2}{n_1} = \\frac{\\sin \\theta_1}{\\sin \\theta_2} = 1.14$",
+      "image": null,
+      "formulas": [
+        "\\frac{v_1}{v_2} = \\frac{v_0 / v_2}{v_0 / v_1} = \\frac{n_2}{n_1} = \\frac{\\sin \\theta_1}{\\sin \\theta_2} = 1.14"
+      ],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p048",
+      "kind": "text",
+      "section": "৯.১.২ আপেক্ষিক প্রতিসরণাঙ্ক",
+      "caption": null,
+      "body": "যেটি ১ থেকে বেশি। এখানে $v_0$ বলতে শূন্য মাধ্যমে আলোর বেগ বোঝানো হয়েছে।",
+      "image": null,
+      "formulas": [
+        "v_0"
+      ],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p049",
+      "kind": "text",
+      "section": "৯.১.২ আপেক্ষিক প্রতিসরণাঙ্ক",
+      "caption": null,
+      "body": "একইভাবে কাচের তুলনায় পানির প্রতিসরণাঙ্ক $\\frac{n_1}{n_2} = \\frac{\\sin \\theta_2}{\\sin \\theta_1} = 0.88$ যেটি ১ থেকে কম।",
+      "image": null,
+      "formulas": [
+        "\\frac{n_1}{n_2} = \\frac{\\sin \\theta_2}{\\sin \\theta_1} = 0.88"
+      ],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p050",
+      "kind": "text",
+      "section": "৯.১.২ আপেক্ষিক প্রতিসরণাঙ্ক",
+      "caption": null,
+      "body": "অর্থাৎ যে মাধ্যমের প্রতিসরণাঙ্ক বের করতে চাচ্ছি সেটিকে যার সাপেক্ষে বের করতে চাইছ তার প্রতিসরণাঙ্ক দিয়ে ভাগ করতে হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p051",
+      "kind": "figure",
+      "section": "৯.১.২ আপেক্ষিক প্রতিসরণাঙ্ক",
+      "caption": null,
+      "body": "drawing: diagram of light refraction between water (n1) and glass (n2)",
+      "image": "p253-page_8_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p052",
+      "kind": "figure",
+      "section": "৯.১.২ আপেক্ষিক প্রতিসরণাঙ্ক",
+      "caption": null,
+      "body": "চিত্র ৯.০৫: পানি ও কাচের ভেতর আলোর প্রতিসরণ।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p053",
+      "kind": "text",
+      "section": "৯.১.২ আপেক্ষিক প্রতিসরণাঙ্ক",
+      "caption": null,
+      "body": "পানির তুলনায় হীরা: 1.82\nহীরার তুলনায় পানি: 0.55\nকাঁচের তুলনায় হীরা: 1.59\nহীরার তুলনায় কাঁচ: 0.63",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p054",
+      "kind": "text",
+      "section": "৯.১.২ আপেক্ষিক প্রতিসরণাঙ্ক",
+      "caption": null,
+      "body": "তবে পদার্থবিজ্ঞানে সাধারণত দুটি মাধ্যমের তুলনা হিসেবে প্রতিসরণাঙ্ক ব্যবহার না করে শূন্যমাধ্যমের সাপেক্ষেই প্রতিসরণাঙ্ক হিসাব করা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.1-p055",
+      "kind": "text",
+      "section": "৯.১.২ আপেক্ষিক প্রতিসরণাঙ্ক",
+      "caption": null,
+      "body": "ঘন মাধ্যমে আলোর বেগ কম, এ রকম অবস্থায় কোনো কিছু কি আলো থেকে দ্বিত যেতে পারবে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

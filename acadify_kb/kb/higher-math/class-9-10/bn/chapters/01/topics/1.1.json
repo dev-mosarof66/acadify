@@ -1,0 +1,73 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.1",
+  "key": "1.1",
+  "title": "সেট (Set)",
+  "chapter": 1,
+  "ordinal": 1,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.1-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বাস্তব বা চিন্তা জগতের বস্তুর যেকোনো সুনির্ধারিত সংগ্রহকে সেট বলা হয়। যেমন, $S = \\{1, 4, 9, 16, 25, 36, 49, 64, 81, 100\\}$ তালিকাটি 10 থেকে ব ডা নয় এমন স্বাভাবিক সংখ্যার বর্গের সেট। সেটকে এভাবে তালিকার সাহায্যে বর্ণনা করাকে তালিকা পদ্ধতি(Tabular form) বলা হয়। যে সকল বস্তু নিয়ে সেট গঠিত এদের প্রতোককে ঐ সেটের উপাদান বলা হয়। $x, A$ সেটের উপাদান হলে লেখা হয় $x \\in A$ এবং $x, A$ সেটের উপাদান না হলে লেখা হয় $x \\notin A$। উপরিউক্ত সেট $S$ কে লেখা যায়",
+      "image": null,
+      "formulas": [
+        "S = \\{1, 4, 9, 16, 25, 36, 49, 64, 81, 100\\}",
+        "x, A",
+        "x \\in A",
+        "x, A",
+        "x \\notin A",
+        "S"
+      ],
+      "pdfPageStart": 6,
+      "pdfPageEnd": 6,
+      "printedPageStart": 1,
+      "printedPageEnd": 1,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.1-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ফর্মা-১, উচ্চতর গণিত, ৯ম-১০ম শ্রেণি $S = \\{x : x, 100$ থেকে বড় নয় এমন পূর্ণবর্গ সংখ্যা$\\}$। এই পদ্ধতিকে সেট গঠন পদ্ধতি (Set builder method) বলা হয়।",
+      "image": null,
+      "formulas": [
+        "S = \\{x : x, 100",
+        "\\}"
+      ],
+      "pdfPageStart": 6,
+      "pdfPageEnd": 7,
+      "printedPageStart": 1,
+      "printedPageEnd": 2,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.1-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "> **কাজ:** উপরের আলোচনায় ক) $S$ যে সেট তা ব্যাখ্যা করো। খ) $S$ কে অন্যভাবে প্রকাশ করো।",
+      "image": null,
+      "formulas": [
+        "S",
+        "S"
+      ],
+      "pdfPageStart": 7,
+      "pdfPageEnd": 7,
+      "printedPageStart": 2,
+      "printedPageEnd": 2,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

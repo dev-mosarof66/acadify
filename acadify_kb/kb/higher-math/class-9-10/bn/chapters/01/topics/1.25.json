@@ -1,0 +1,889 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.25",
+  "key": "1.25",
+  "title": "বাস্তব সমস্যা সমাধানে সেট",
+  "chapter": 1,
+  "ordinal": 25,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বাস্তব সমস্যা সমাধানে ভেনচিত্র ব্যবহার করা হয়। এখানে উল্লেখ্য যে, প্রতি সেটের উপাদান সংখ্যা ভেনচিত্রে লেখা হবে, তা কয়েকটি উদাহরণের মাধ্যমে দেখানো হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 20,
+      "pdfPageEnd": 20,
+      "printedPageStart": 15,
+      "printedPageEnd": 15,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৫.** ৫০জন লোকের মধ্যে ৩৫জন ইংরেজি বলতে পারে, ২৫জন ইংরেজি ও বাংলা বলতে পারে এবং প্রত্যেকেই দুটি ভাষার অন্তত একটি বলতে পারে। বাংলা বলতে পারে কতজন? কেবল মাত্র বাংলা বলতে পারে কতজন?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 20,
+      "pdfPageEnd": 20,
+      "printedPageStart": 15,
+      "printedPageEnd": 15,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** মনে করি, সকল লোকের সেট $S$ এবং তাদের মধ্যে যারা ইংরেজি বলতে পারে তাদের সেট $E$, যারা বাংলা বলতে পারে তাদের সেট $B$।",
+      "image": null,
+      "formulas": [
+        "S",
+        "E",
+        "B"
+      ],
+      "pdfPageStart": 21,
+      "pdfPageEnd": 21,
+      "printedPageStart": 16,
+      "printedPageEnd": 16,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p004",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: Venn diagram showing sets E, B, and S with values 35, 25, and 50",
+      "image": "p21-page_16_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 21,
+      "pdfPageEnd": 21,
+      "printedPageStart": 16,
+      "printedPageEnd": 16,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাহলে প্রশ্নানুসারে, $n(S) = 50$, $n(E) = 35$, $n(E \\cap B) = 25$ এবং $S = E \\cup B$। মনে করি, $n(B) = x$।",
+      "image": null,
+      "formulas": [
+        "n(S) = 50",
+        "n(E) = 35",
+        "n(E \\cap B) = 25",
+        "S = E \\cup B",
+        "n(B) = x"
+      ],
+      "pdfPageStart": 21,
+      "pdfPageEnd": 21,
+      "printedPageStart": 16,
+      "printedPageEnd": 16,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাহলে, $n(S) = n(E \\cup B) = n(E) + n(B) - n(E \\cap B)$ থেকে পাই,",
+      "image": null,
+      "formulas": [
+        "n(S) = n(E \\cup B) = n(E) + n(B) - n(E \\cap B)"
+      ],
+      "pdfPageStart": 21,
+      "pdfPageEnd": 21,
+      "printedPageStart": 16,
+      "printedPageEnd": 16,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$50 = 35 + x - 25$ বা, $x = 50 - 35 + 25 = 40$ অর্থাৎ, $n(B) = 40$",
+      "image": null,
+      "formulas": [
+        "50 = 35 + x - 25",
+        "x = 50 - 35 + 25 = 40",
+        "n(B) = 40"
+      ],
+      "pdfPageStart": 21,
+      "pdfPageEnd": 21,
+      "printedPageStart": 16,
+      "printedPageEnd": 16,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ বাংলা বলতে পারে 40জন।",
+      "image": null,
+      "formulas": [
+        "\\therefore"
+      ],
+      "pdfPageStart": 21,
+      "pdfPageEnd": 21,
+      "printedPageStart": 16,
+      "printedPageEnd": 16,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন, যারা কেবলমাত্র বাংলা বলতে পারে, তাদের সেট হচ্ছে $(B \\setminus E)$।",
+      "image": null,
+      "formulas": [
+        "(B \\setminus E)"
+      ],
+      "pdfPageStart": 21,
+      "pdfPageEnd": 21,
+      "printedPageStart": 16,
+      "printedPageEnd": 16,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "মনে করি, $n(B \\setminus E) = y$।",
+      "image": null,
+      "formulas": [
+        "n(B \\setminus E) = y"
+      ],
+      "pdfPageStart": 21,
+      "pdfPageEnd": 21,
+      "printedPageStart": 16,
+      "printedPageEnd": 16,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যেহেতু $E \\cap B$ এবং $(B \\setminus E)$ নিশ্চেষ্ট এবং $B = (E \\cap B) \\cup (B \\setminus E)$ [ভেনচিত্র দৃষ্টব্য]",
+      "image": null,
+      "formulas": [
+        "E \\cap B",
+        "(B \\setminus E)",
+        "B = (E \\cap B) \\cup (B \\setminus E)"
+      ],
+      "pdfPageStart": 21,
+      "pdfPageEnd": 21,
+      "printedPageStart": 16,
+      "printedPageEnd": 16,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং $n(B) = n(E \\cap B) + n(B \\setminus E)$।",
+      "image": null,
+      "formulas": [
+        "n(B) = n(E \\cap B) + n(B \\setminus E)"
+      ],
+      "pdfPageStart": 21,
+      "pdfPageEnd": 21,
+      "printedPageStart": 16,
+      "printedPageEnd": 16,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore 40 = 25 + y$ বা, $y = 40 - 25 = 15$ অর্থাৎ, $n(B \\setminus E) = 15$",
+      "image": null,
+      "formulas": [
+        "\\therefore 40 = 25 + y",
+        "y = 40 - 25 = 15",
+        "n(B \\setminus E) = 15"
+      ],
+      "pdfPageStart": 21,
+      "pdfPageEnd": 21,
+      "printedPageStart": 16,
+      "printedPageEnd": 16,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ কেবলমাত্র বাংলা বলতে পারে 15জন।",
+      "image": null,
+      "formulas": [
+        "\\therefore"
+      ],
+      "pdfPageStart": 21,
+      "pdfPageEnd": 21,
+      "printedPageStart": 16,
+      "printedPageEnd": 16,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অতএব, বাংলা বলতে পারে 40জন এবং কেবলমাত্র বাংলা বলতে পারে 15জন।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 21,
+      "pdfPageEnd": 21,
+      "printedPageStart": 16,
+      "printedPageEnd": 16,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৬.** একটি শ্রেণির 35জন বালিকার প্রত্যেকে দৌড়, সাঁতার ও নাচের কমপক্ষে যেকোনো একটি পছন্দ করে। তাদের মধ্যে 15জন দৌড়, 4জন সাঁতার, দৌড় ও নাচ, 2জন শুধু দৌড়, 7জন দৌড় ও সাঁতার পছন্দ করে কিন্তু নাচ নয়। $x$ জন সাঁতার ও নাচ কিন্তু দৌড় নয়, $2x$ জন শুধু নাচ, 2জন শুধু সাঁতার পছন্দ করে।",
+      "image": null,
+      "formulas": [
+        "x",
+        "2x"
+      ],
+      "pdfPageStart": 21,
+      "pdfPageEnd": 21,
+      "printedPageStart": 16,
+      "printedPageEnd": 16,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) এ তথ্যগুলো ভেনচিত্র দেখাও।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 21,
+      "pdfPageEnd": 21,
+      "printedPageStart": 16,
+      "printedPageEnd": 16,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $x$ নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "x"
+      ],
+      "pdfPageStart": 21,
+      "pdfPageEnd": 21,
+      "printedPageStart": 16,
+      "printedPageEnd": 16,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) সেটের মাধ্যমে ব্যাখ্যা কর: যে সমস্ত বালিকা দৌড় ও নাচ পছন্দ করে কিন্তু সাঁতার নয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 21,
+      "pdfPageEnd": 21,
+      "printedPageStart": 16,
+      "printedPageEnd": 16,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঘ) কতজন বালিকা দৌড় ও নাচ পছন্দ করে কিন্তু সাঁতার পছন্দ করে না?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 21,
+      "pdfPageEnd": 21,
+      "printedPageStart": 16,
+      "printedPageEnd": 16,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p021",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "ক) ধরি, সেট $J =$ যারা দৌড় পছন্দ করে, $S =$ যারা সাঁতার পছন্দ করে, $D =$ যারা নাচ পছন্দ করে। নিচে তথ্যগুলো ভেনচিট্রে দেখানো হলো।",
+      "image": null,
+      "formulas": [
+        "J =",
+        "S =",
+        "D ="
+      ],
+      "pdfPageStart": 22,
+      "pdfPageEnd": 22,
+      "printedPageStart": 17,
+      "printedPageEnd": 17,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p022",
+      "kind": "figure",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "drawing: Venn diagram with three circles labeled D, J, and S",
+      "image": "p22-page_17_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 22,
+      "pdfPageEnd": 22,
+      "printedPageStart": 17,
+      "printedPageEnd": 17,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p023",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "খ) ভেনচিট্র হতে $J' = \\{$যে সব বালিকা দৌড় পছন্দ করে না$\\}$।",
+      "image": null,
+      "formulas": [
+        "J' = \\{",
+        "\\}"
+      ],
+      "pdfPageStart": 22,
+      "pdfPageEnd": 22,
+      "printedPageStart": 17,
+      "printedPageEnd": 17,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p024",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "অর্থাৎ $n(J') = 35 - 15 = 20$ বা, $2x + x + 2 = 20$ বা, $3x = 18$ বা $x = 6$।",
+      "image": null,
+      "formulas": [
+        "n(J') = 35 - 15 = 20",
+        "2x + x + 2 = 20",
+        "3x = 18",
+        "x = 6"
+      ],
+      "pdfPageStart": 22,
+      "pdfPageEnd": 22,
+      "printedPageStart": 17,
+      "printedPageEnd": 17,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p025",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "গ) যে সব বালিকা দৌড় ও নাচ পছন্দ করে কিন্তু সাঁতার পছন্দ করে না: $J \\cap D \\cap S'$।",
+      "image": null,
+      "formulas": [
+        "J \\cap D \\cap S'"
+      ],
+      "pdfPageStart": 22,
+      "pdfPageEnd": 22,
+      "printedPageStart": 17,
+      "printedPageEnd": 17,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p026",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "ঘ) ভেনচিট্রে $n(J \\cap D \\cap S') = y$ এবং দেওয়া আছে $n(J) = 15$।",
+      "image": null,
+      "formulas": [
+        "n(J \\cap D \\cap S') = y",
+        "n(J) = 15"
+      ],
+      "pdfPageStart": 22,
+      "pdfPageEnd": 22,
+      "printedPageStart": 17,
+      "printedPageEnd": 17,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p027",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore y + 4 + 7 + 2 = 15$ বা $y = 2$।",
+      "image": null,
+      "formulas": [
+        "\\therefore y + 4 + 7 + 2 = 15",
+        "y = 2"
+      ],
+      "pdfPageStart": 22,
+      "pdfPageEnd": 22,
+      "printedPageStart": 17,
+      "printedPageEnd": 17,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p028",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "শুধু 2জন বালিকা দৌড় এবং নাচ পছন্দ করে কিন্তু সাঁতার পছন্দ করে না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 22,
+      "pdfPageEnd": 22,
+      "printedPageStart": 17,
+      "printedPageEnd": 17,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p029",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "**উদাহরণ ১৭.** 24জন ছাত্রের 18জন ব্যস্কিটবল খেলা পছন্দ করে, 12জন ভলিবল খেলা পছন্দ করে। দেওয়া আছে, $U =$ শ্রেণির ছাত্রদের সেট, $B =$ ব্যস্কিটবল খেলা পছন্দ করে এমন ছাত্রের সেট, $V =$ ভলিবল খেলা পছন্দ করে এমন ছাত্রদের সেট। মনে কর $n(B \\cap V) = x$ এবং ভেনচিট্রে নিচের তথ্যগুলো ব্যাখ্যা করো:",
+      "image": null,
+      "formulas": [
+        "U =",
+        "B =",
+        "V =",
+        "n(B \\cap V) = x"
+      ],
+      "pdfPageStart": 22,
+      "pdfPageEnd": 22,
+      "printedPageStart": 17,
+      "printedPageEnd": 17,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p030",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "ক) $B \\cup V$ সেটের বর্ণনা দাও এবং $n(B \\cup V)$ কে $x$ এর মাধ্যমে প্রকাশ করো।",
+      "image": null,
+      "formulas": [
+        "B \\cup V",
+        "n(B \\cup V)",
+        "x"
+      ],
+      "pdfPageStart": 22,
+      "pdfPageEnd": 22,
+      "printedPageStart": 17,
+      "printedPageEnd": 17,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p031",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "খ) $x$ এর সম্ভাব্য ন্যূনতম মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "x"
+      ],
+      "pdfPageStart": 22,
+      "pdfPageEnd": 22,
+      "printedPageStart": 17,
+      "printedPageEnd": 17,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p032",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "গ) $x$ এর সম্ভাব্য বৃহত্তম মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "x"
+      ],
+      "pdfPageStart": 22,
+      "pdfPageEnd": 22,
+      "printedPageStart": 17,
+      "printedPageEnd": 17,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p033",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "ক) $B \\cup V$ হলো এমন সব ছাত্রের সেট যারা ব্যস্কিটবল বা ভলিবল খেলা পছন্দ করে।",
+      "image": null,
+      "formulas": [
+        "B \\cup V"
+      ],
+      "pdfPageStart": 22,
+      "pdfPageEnd": 22,
+      "printedPageStart": 17,
+      "printedPageEnd": 17,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p034",
+      "kind": "figure",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "drawing: Venn diagram showing sets B and V within universe U, with regions B \\ V (18 - x), B ∩ V (x), and V \\ B (12 - x)",
+      "image": "p23-page_18_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 23,
+      "pdfPageEnd": 23,
+      "printedPageStart": 18,
+      "printedPageEnd": 18,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p035",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$$n(B \\cup V) = (18 - x) + x + (12 - x) = 30 - x$$",
+      "image": null,
+      "formulas": [
+        "n(B \\cup V) = (18 - x) + x + (12 - x) = 30 - x"
+      ],
+      "pdfPageStart": 23,
+      "pdfPageEnd": 23,
+      "printedPageStart": 18,
+      "printedPageEnd": 18,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p036",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "খ) $x$ বা $n(B \\cap V)$ ক্ষুদ্রতম যখন $B \\cup V = U$",
+      "image": null,
+      "formulas": [
+        "x",
+        "n(B \\cap V)",
+        "B \\cup V = U"
+      ],
+      "pdfPageStart": 23,
+      "pdfPageEnd": 23,
+      "printedPageStart": 18,
+      "printedPageEnd": 18,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p037",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "অর্থাৎ $n(B \\cup V) = n(U)$ বা $30 - x = 24$ বা $x = 6$",
+      "image": null,
+      "formulas": [
+        "n(B \\cup V) = n(U)",
+        "30 - x = 24",
+        "x = 6"
+      ],
+      "pdfPageStart": 23,
+      "pdfPageEnd": 23,
+      "printedPageStart": 18,
+      "printedPageEnd": 18,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p038",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore$ সন্যাব্য ক্ষুদ্রতম মান $x = 6$।",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "x = 6"
+      ],
+      "pdfPageStart": 23,
+      "pdfPageEnd": 23,
+      "printedPageStart": 18,
+      "printedPageEnd": 18,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p039",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "গ) $n(B \\cap V)$ বৃহত্তম যখন $V \\subset B$",
+      "image": null,
+      "formulas": [
+        "n(B \\cap V)",
+        "V \\subset B"
+      ],
+      "pdfPageStart": 23,
+      "pdfPageEnd": 23,
+      "printedPageStart": 18,
+      "printedPageEnd": 18,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p040",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "তখন, $n(B \\cap V) = n(V)$ বা $x = 12$",
+      "image": null,
+      "formulas": [
+        "n(B \\cap V) = n(V)",
+        "x = 12"
+      ],
+      "pdfPageStart": 23,
+      "pdfPageEnd": 23,
+      "printedPageStart": 18,
+      "printedPageEnd": 18,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p041",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore$ সন্যাব্য বৃহত্তম মান $x = 12$।",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "x = 12"
+      ],
+      "pdfPageStart": 23,
+      "pdfPageEnd": 23,
+      "printedPageStart": 18,
+      "printedPageEnd": 18,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p042",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "ক) কোনো শ্রেণির 30জন ছাত্রের 20জন ফুটবল এবং 15জন দাবা পছন্দ করে। প্রত্যেক ছাত্র দুটি খেলার অন্তত যেকোনো একটি খেলা পছন্দ করে। কতজন ছাত্র দুটি খেলাই পছন্দ করে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 23,
+      "pdfPageEnd": 23,
+      "printedPageStart": 18,
+      "printedPageEnd": 18,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p043",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "খ) কিছু সংখ্যক লোকের মধ্যে 50জন বাংলা, 20জন ইংরেজি এবং 10জন বাংলা ও ইংরেজি বলতে পারে। দুটি ভাষার অন্তত একটি ভাষা কতজন বলতে পারে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 23,
+      "pdfPageEnd": 23,
+      "printedPageStart": 18,
+      "printedPageEnd": 18,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p044",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "গ) ঢাকা বিশ্ববিদ্যালয়ের আধুনিক ভাষা ইনস্টিটিউটের 100 জন শিক্ষার্থীর মধ্যে 42 জন ফ্রঞ্চ, 30জন জার্মান, 28জন স্প্যানিশ নিয়েছে। 10জন নিয়েছে ফ্রঞ্চও ও স্প্যানিশ, 8জন নিয়েছে জার্মান ও স্প্যানিশ, 5জন নিয়েছে জার্মান ও ফ্রঞ্চ, 3জন তিনটি ভাষাই নিয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 23,
+      "pdfPageEnd": 23,
+      "printedPageStart": 18,
+      "printedPageEnd": 18,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p045",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "(১) কতজন শিক্ষার্থী ঐ তিনটি ভাষার একটিও নেয়নি?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 23,
+      "pdfPageEnd": 23,
+      "printedPageStart": 18,
+      "printedPageEnd": 18,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p046",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "(২) কতজন শিক্ষার্থী ঐ তিনটি ভাষার কেবল একটি ভাষা নিয়েছে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 23,
+      "pdfPageEnd": 23,
+      "printedPageStart": 18,
+      "printedPageEnd": 18,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p047",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "(৩) কতজন শিক্ষার্থী ঐ তিনটি ভাষার কেবল দুটি ভাষা নিয়েছে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 23,
+      "pdfPageEnd": 23,
+      "printedPageStart": 18,
+      "printedPageEnd": 18,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.25-p048",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "ঘ) কোনো স্কুলের নবম শ্রেণির বিজ্ঞান শাখার 50জন শিক্ষার্থীর মধ্যে 29জন জীববিজ্ঞান, 24জন উচ্চতর গণিত এবং 11জন জীববিজ্ঞান ও উচ্চতর গণিত উভয় বিষয় নিয়েছে। কতজন শিক্ষার্থী জীববিজ্ঞান বা উচ্চতর গণিত বিষয় দুটির কোনটিই নেয়নি?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 23,
+      "pdfPageEnd": 23,
+      "printedPageStart": 18,
+      "printedPageEnd": 18,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

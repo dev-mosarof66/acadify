@@ -1,0 +1,1053 @@
+{
+  "id": "physics-9-10-bn-c10-t10.4",
+  "key": "10.4",
+  "title": "বৈদ্যুতিক বল (Electric Force)",
+  "chapter": 10,
+  "ordinal": 4,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা একটু আগেই দেখেছি, বিপরীত চার্জ একে অন্যকে আকর্ষণ করে কিন্তু এক ধরনের চার্জ একে অন্যকে বিকর্ষণ করে। তবে আমরা এখনো জানি না ঠিক কতখানি আকর্ষণ কিংবা বিকর্ষণ করে, সেটা বুঝতে হলে আমাদের কুলস্ফের সূত্রটি একটুখানি দেখতে হবে। বিজ্ঞানী কুলস্ফ দুটি বিন্দু চার্জের মাঝে কতখানি বল কাজ করে সেটা বের করেছিলেন। এ রকম একটা বলের সূত্র আমরা এর মাঝে একটা দেখে ফেলেছি সেটা হচ্ছে নিউটনের মহাকর্ষ বলের সূত্র। সেটি ছিল এ রকম:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 284,
+      "pdfPageEnd": 284,
+      "printedPageStart": 279,
+      "printedPageEnd": 279,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p002",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: diagram showing two charges q1 and q2 separated by distance r",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 284,
+      "pdfPageEnd": 284,
+      "printedPageStart": 279,
+      "printedPageEnd": 279,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p003",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "**চিত্র ১০.০৯:** দুটি চার্জ $q_1$ এবং $q_2$ এর ভেতর বল $F$, আকর্ষণ এবং বিকর্ষণ দুই-ই হতে পারে।",
+      "image": null,
+      "formulas": [
+        "q_1",
+        "q_2",
+        "F"
+      ],
+      "pdfPageStart": 284,
+      "pdfPageEnd": 284,
+      "printedPageStart": 279,
+      "printedPageEnd": 279,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p004",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$F = G \\frac{m_1 m_2}{r^2}$$",
+      "image": null,
+      "formulas": [
+        "F = G \\frac{m_1 m_2}{r^2}"
+      ],
+      "pdfPageStart": 284,
+      "pdfPageEnd": 284,
+      "printedPageStart": 279,
+      "printedPageEnd": 279,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "মজার ব্যাপার হচ্ছে, ভর $m_1$ আর $m_2$ কে চার্জ $q_1$ আর $q_2$ দিয়ে পরিবর্তন করে দিলেই আমরা কুলম্বের সূত্র পেয়ে যাব। মহাকর্ষ বলের জন্য ধ্রুবটি ছিল $G$, এবারে ধ্রুবটির জন্য আমরা $k$ ব্যবহার করব এইটুকুই পার্থক্য। অর্থাৎ যদি $q_1$ আর $q_2$ দুটি বিন্দু চার্জ $r$ দূরত্বে থাকে তাহলে তাদের ভেতরে বল $F$ এর পরিমাণ (চিত্র ১০.০৯):",
+      "image": null,
+      "formulas": [
+        "m_1",
+        "m_2",
+        "q_1",
+        "q_2",
+        "G",
+        "k",
+        "q_1",
+        "q_2",
+        "r",
+        "F"
+      ],
+      "pdfPageStart": 285,
+      "pdfPageEnd": 285,
+      "printedPageStart": 280,
+      "printedPageEnd": 280,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p006",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$F = k \\frac{q_1 q_2}{r^2}$$",
+      "image": null,
+      "formulas": [
+        "F = k \\frac{q_1 q_2}{r^2}"
+      ],
+      "pdfPageStart": 285,
+      "pdfPageEnd": 285,
+      "printedPageStart": 280,
+      "printedPageEnd": 280,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে $q_1$ আর $q_2$ দুটি চার্জের একক হচ্ছে কুলম্ব $C$ এবং $r$ বা দূরত্বের একক হচ্ছে $m$, কাজেই $k$ এর একক আমরা বলতে পারি $Nm^2/C^2$ যেন $F$ এর একক হয় $N$ তাহলে",
+      "image": null,
+      "formulas": [
+        "q_1",
+        "q_2",
+        "C",
+        "r",
+        "m",
+        "k",
+        "Nm^2/C^2",
+        "F",
+        "N"
+      ],
+      "pdfPageStart": 285,
+      "pdfPageEnd": 285,
+      "printedPageStart": 280,
+      "printedPageEnd": 280,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p008",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$k = 9 \\times 10^9 Nm^2/C^2$$",
+      "image": null,
+      "formulas": [
+        "k = 9 \\times 10^9 Nm^2/C^2"
+      ],
+      "pdfPageStart": 285,
+      "pdfPageEnd": 285,
+      "printedPageStart": 280,
+      "printedPageEnd": 280,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কুলম্ব হচ্ছে চার্জের একক, আমরা পরের অধ্যায়েই দেখব চার্জের প্রবাহ হচ্ছে বৈদ্যুতিক প্রবাহ বা কারেন্ট এবং কারেন্টের একক হচ্ছে অ্যাম্পিয়ার। এক সেকেন্ডব্যাপী এক অ্যাম্পিয়ার কারেন্ট প্রবাহিত করা হলে প্রবাহিত চার্জের পরিমাণ হচ্ছে এক কুলম্ব (C)।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 285,
+      "pdfPageEnd": 285,
+      "printedPageStart": 280,
+      "printedPageEnd": 280,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তবে কুলম্ব বোঝার সবচেয়ে খাঁটি পদ্ধতি হচ্ছে ইলেকট্রন বা প্রোটনের চার্জের পরিমাণটি বোঝা। তার পরিমাণ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 285,
+      "pdfPageEnd": 285,
+      "printedPageStart": 280,
+      "printedPageEnd": 280,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ইলেকট্রনের চার্জ: $-1.6 \\times 10^{-19}  C$\nপ্রোটনের চার্জ: $+1.6 \\times 10^{-19}  C$",
+      "image": null,
+      "formulas": [
+        "-1.6 \\times 10^{-19}  C",
+        "+1.6 \\times 10^{-19}  C"
+      ],
+      "pdfPageStart": 285,
+      "pdfPageEnd": 285,
+      "printedPageStart": 280,
+      "printedPageEnd": 280,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তোমরা দেখতেই পাছছ $q_1$ এবং $q_2$ দুটিই যদি পজিটিভ বা নেগেটিভ হয় তাহলে $F$ এর মান হবে পজিটিভ এবং তখন একটি অন্যটিকে বিকর্ষণ করে। যদি একটা পজিটিভ আর অন্যটি নেগেটিভ হয় তাহলে $F$ এর মান হবে নেগেটিভ, যার অর্থ বলের দিক পরিবর্তন হলো অর্থাৎ চার্জ দুটি একটা আবেকটিকে আকর্ষণ করবে। আমরা আগেই সেটা দেখেছিলাম, সূত্র থেকেও সেটা আছে।",
+      "image": null,
+      "formulas": [
+        "q_1",
+        "q_2",
+        "F",
+        "F"
+      ],
+      "pdfPageStart": 285,
+      "pdfPageEnd": 285,
+      "printedPageStart": 280,
+      "printedPageEnd": 280,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p013",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** একটি $+1$ কুলম্ব চার্জ এবং একটি $-1$ কুলম্ব চার্জ 10 cm দূরে রাখা হলো। দুটো চার্জের ভেতর বল কতটুকু?",
+      "image": null,
+      "formulas": [
+        "+1",
+        "-1"
+      ],
+      "pdfPageStart": 285,
+      "pdfPageEnd": 285,
+      "printedPageStart": 280,
+      "printedPageEnd": 280,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p014",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** দুটো বিপরীত চার্জ একে অন্যকে আকর্ষণ করবে। তাদের ভেতরকার বল: (চিত্র ১০.১০ a)",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 285,
+      "pdfPageEnd": 285,
+      "printedPageStart": 280,
+      "printedPageEnd": 280,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p015",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$F = k \\frac{q_1 q_2}{r^2}$$",
+      "image": null,
+      "formulas": [
+        "F = k \\frac{q_1 q_2}{r^2}"
+      ],
+      "pdfPageStart": 285,
+      "pdfPageEnd": 285,
+      "printedPageStart": 280,
+      "printedPageEnd": 280,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p016",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$q_1 = 1 C$$\n$$q_2 = -1 C$$\n$$r = 10 cm = 0.10 m$$\n$$k = 9 \\times 10^9 Nm^2/C^2$$",
+      "image": null,
+      "formulas": [
+        "q_1 = 1 C",
+        "q_2 = -1 C",
+        "r = 10 cm = 0.10 m",
+        "k = 9 \\times 10^9 Nm^2/C^2"
+      ],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p017",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**কাজেই**\n$$F = \\frac{9 \\times 10^9 \\times 1 \\times (-1)}{(0.10)^2} N = -9 \\times 10^{11} N$$",
+      "image": null,
+      "formulas": [
+        "F = \\frac{9 \\times 10^9 \\times 1 \\times (-1)}{(0.10)^2} N = -9 \\times 10^{11} N"
+      ],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p018",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "drawing: diagram (a) showing two charges +1C and -1C 10 cm apart with force vectors F\ndrawing: diagram (b) showing three charges +9C, +qC, and +16C on a line with distances x and 1-x",
+      "image": "p286-page_12_image_3_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p019",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "(a) (b)",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p020",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**চিত্র ১০.১০: (a) 10 cm দূরে অবস্থিত +1 C এবং -1 C চার্জ**\n**(b) 1 m দূরে অবস্থিত +9C এবং +16C চার্জ**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p021",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** একটি +9C এবং +16C চার্জ 1 m দূরে রাখা হয়েছে। এখন তৃতীয় একটি চার্জ $+q$ এমনভাবে দুটি চার্জের মাঝখানে রাখো যেন সেটি কোনো বল অনুভব না করে। (চিত্র ১০.১০ b)",
+      "image": null,
+      "formulas": [
+        "+q"
+      ],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p022",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** $+q$ চার্জটিকে +9C ডান দিকে ঠেলে দেবে এবং +16C বাম দিকে ঠেলে দেবে। দুটি চার্জ যখন একই বলে ঠেলবে তখন $+q$ চার্জটি কোনো বল অনুভব করবে না। ধরা যাক $+q$ চার্জটি +9C চার্জ থেকে $x$ দূরত্বে চার্জদ্বয়ের মধ্যবর্তী রেখাংশের উপর অবস্থিত। ফলে,",
+      "image": null,
+      "formulas": [
+        "+q",
+        "+q",
+        "+q",
+        "x"
+      ],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p023",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$k \\frac{(+9)q}{x^2} = k \\frac{(+16)q}{(1 - x)^2}$$",
+      "image": null,
+      "formulas": [
+        "k \\frac{(+9)q}{x^2} = k \\frac{(+16)q}{(1 - x)^2}"
+      ],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p024",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$9(1 - x)^2 = 16x^2$$",
+      "image": null,
+      "formulas": [
+        "9(1 - x)^2 = 16x^2"
+      ],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p025",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$7x^2 + 18x - 9 = 0$$",
+      "image": null,
+      "formulas": [
+        "7x^2 + 18x - 9 = 0"
+      ],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p026",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$(7x - 3)(x + 3) = 0$$",
+      "image": null,
+      "formulas": [
+        "(7x - 3)(x + 3) = 0"
+      ],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p027",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$x = 0.43  কিংবা  -3$$",
+      "image": null,
+      "formulas": [
+        "x = 0.43  কিংবা  -3"
+      ],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p028",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$x$ এর মান 0 থেকে 1 এর ভেতরে হবে কাজেই এটি নিশ্চয়ই 0.43 ($x$ যদি -3 হয় তাহলে কী হবে নিজেরা চিন্তা করে বের করো)।",
+      "image": null,
+      "formulas": [
+        "x",
+        "x"
+      ],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p029",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** হাইড্রোজেন পরমাণুর কেন্দ্রে একটা প্রোটন এবং বাইরে একটা ইলেকট্রন থাকে। প্রোটনের চার্জ $+1.6 \\times 10^{-19}$ C এবং ইলেকট্রনের চার্জ $-1.6 \\times 10^{-19}$ C. যদি নিউক্লিয়াস থেকে ইলেকট্রনের কক্ষপথের দূরত্ব $0.5 \\times 10^{-8}$ m হয় তাহলে তাদের ভেতরে আকর্ষণ কতটুকু?",
+      "image": null,
+      "formulas": [
+        "+1.6 \\times 10^{-19}",
+        "-1.6 \\times 10^{-19}",
+        "0.5 \\times 10^{-8}"
+      ],
+      "pdfPageStart": 287,
+      "pdfPageEnd": 287,
+      "printedPageStart": 282,
+      "printedPageEnd": 282,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p030",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 287,
+      "pdfPageEnd": 287,
+      "printedPageStart": 282,
+      "printedPageEnd": 282,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p031",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$F = k \\frac{q_1 q_2}{r^2}$$",
+      "image": null,
+      "formulas": [
+        "F = k \\frac{q_1 q_2}{r^2}"
+      ],
+      "pdfPageStart": 287,
+      "pdfPageEnd": 287,
+      "printedPageStart": 282,
+      "printedPageEnd": 282,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p032",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "এখানে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 287,
+      "pdfPageEnd": 287,
+      "printedPageStart": 282,
+      "printedPageEnd": 282,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p033",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$q_1 = +1.6 \\times 10^{-19}  C$$\n$$q_2 = -1.6 \\times 10^{-19}  C$$\n$$k = 9 \\times 10^9  Nm^2/C^2$$\n$$r = 0.5 \\times 10^{-8}  m$$",
+      "image": null,
+      "formulas": [
+        "q_1 = +1.6 \\times 10^{-19}  C",
+        "q_2 = -1.6 \\times 10^{-19}  C",
+        "k = 9 \\times 10^9  Nm^2/C^2",
+        "r = 0.5 \\times 10^{-8}  m"
+      ],
+      "pdfPageStart": 287,
+      "pdfPageEnd": 287,
+      "printedPageStart": 282,
+      "printedPageEnd": 282,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p034",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 287,
+      "pdfPageEnd": 287,
+      "printedPageStart": 282,
+      "printedPageEnd": 282,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p035",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$F = \\frac{9 \\times 10^9 \\times 1.6 \\times 10^{-19} \\times (-1.6 \\times 10^{-19})}{(0.5 \\times 10^{-8})^2}  N = -9.22 \\times 10^{-12}  N$$",
+      "image": null,
+      "formulas": [
+        "F = \\frac{9 \\times 10^9 \\times 1.6 \\times 10^{-19} \\times (-1.6 \\times 10^{-19})}{(0.5 \\times 10^{-8})^2}  N = -9.22 \\times 10^{-12}  N"
+      ],
+      "pdfPageStart": 287,
+      "pdfPageEnd": 287,
+      "printedPageStart": 282,
+      "printedPageEnd": 282,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p036",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "বলের ঋণাত্মক মান প্রকাশ করে যে প্রোটন এবং ইলেকট্রনের মধ্যে আকর্ষণ বল বিদ্যমান।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 287,
+      "pdfPageEnd": 287,
+      "printedPageStart": 282,
+      "printedPageEnd": 282,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p037",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** পৃথিবীতে এবং চাঁদে কী পরিমাণ চার্জ জমা রাখলে মহাকর্ষ বল শূন্য হয়ে চাঁদ কক্ষপথ থেকে ছুটে বের হয়ে যাবে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 287,
+      "pdfPageEnd": 287,
+      "printedPageStart": 282,
+      "printedPageEnd": 282,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p038",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** পৃথিবী এবং চাঁদের মাঝে মহাকর্ষ বল:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 287,
+      "pdfPageEnd": 287,
+      "printedPageStart": 282,
+      "printedPageEnd": 282,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p039",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$F_G = G \\frac{mM}{r^2}$$",
+      "image": null,
+      "formulas": [
+        "F_G = G \\frac{mM}{r^2}"
+      ],
+      "pdfPageStart": 287,
+      "pdfPageEnd": 287,
+      "printedPageStart": 282,
+      "printedPageEnd": 282,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p040",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "এখানে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 287,
+      "pdfPageEnd": 287,
+      "printedPageStart": 282,
+      "printedPageEnd": 282,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p041",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$G = 6.67 \\times 10^{-11}  Nkg^{-2}m^2$$",
+      "image": null,
+      "formulas": [
+        "G = 6.67 \\times 10^{-11}  Nkg^{-2}m^2"
+      ],
+      "pdfPageStart": 287,
+      "pdfPageEnd": 287,
+      "printedPageStart": 282,
+      "printedPageEnd": 282,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p042",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "চাঁদের ভর, $m = 7.35 \\times 10^{22}  kg$",
+      "image": null,
+      "formulas": [
+        "m = 7.35 \\times 10^{22}  kg"
+      ],
+      "pdfPageStart": 287,
+      "pdfPageEnd": 287,
+      "printedPageStart": 282,
+      "printedPageEnd": 282,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p043",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "পৃথিবীর ভর, $M = 5.97 \\times 10^{24}  kg$",
+      "image": null,
+      "formulas": [
+        "M = 5.97 \\times 10^{24}  kg"
+      ],
+      "pdfPageStart": 287,
+      "pdfPageEnd": 287,
+      "printedPageStart": 282,
+      "printedPageEnd": 282,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p044",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$r = 3.84 \\times 10^5  km = 3.84 \\times 10^8  m$$",
+      "image": null,
+      "formulas": [
+        "r = 3.84 \\times 10^5  km = 3.84 \\times 10^8  m"
+      ],
+      "pdfPageStart": 287,
+      "pdfPageEnd": 287,
+      "printedPageStart": 282,
+      "printedPageEnd": 282,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p045",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 287,
+      "pdfPageEnd": 287,
+      "printedPageStart": 282,
+      "printedPageEnd": 282,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p046",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$F_G = \\frac{6.67 \\times 10^{-11} \\times 7.35 \\times 10^{22} \\times 5.97 \\times 10^{24}}{(3.84 \\times 10^8)^2}  N = 1.98 \\times 10^{20}  N$$",
+      "image": null,
+      "formulas": [
+        "F_G = \\frac{6.67 \\times 10^{-11} \\times 7.35 \\times 10^{22} \\times 5.97 \\times 10^{24}}{(3.84 \\times 10^8)^2}  N = 1.98 \\times 10^{20}  N"
+      ],
+      "pdfPageStart": 287,
+      "pdfPageEnd": 287,
+      "printedPageStart": 282,
+      "printedPageEnd": 282,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p047",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "পৃথিবী এবং চাঁদে সমান পরিমাণ ($q$) চার্জ রাখা হলে বিকর্ষণ বল:",
+      "image": null,
+      "formulas": [
+        "q"
+      ],
+      "pdfPageStart": 287,
+      "pdfPageEnd": 287,
+      "printedPageStart": 282,
+      "printedPageEnd": 282,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p048",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$F_E = \\frac{9 \\times 10^9 \\times q^2}{(3.84 \\times 10^8)^2}  NC^{-2}$$",
+      "image": null,
+      "formulas": [
+        "F_E = \\frac{9 \\times 10^9 \\times q^2}{(3.84 \\times 10^8)^2}  NC^{-2}"
+      ],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p049",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "মহাকর্ষকে কুলম বল দিয়ে কমিয়ে দিতে হলে দুটো বল সমান হতে হবে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p050",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "অর্থাৎ $F_G = F_E$",
+      "image": null,
+      "formulas": [
+        "F_G = F_E"
+      ],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p051",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$1.98 \\times 10^{20}  N = \\frac{9 \\times 10^9 \\times q^2}{(3.84 \\times 10^8)^2}  NC^{-2}$$",
+      "image": null,
+      "formulas": [
+        "1.98 \\times 10^{20}  N = \\frac{9 \\times 10^9 \\times q^2}{(3.84 \\times 10^8)^2}  NC^{-2}"
+      ],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p052",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$q^2 = 3.24 \\times 10^{27}  C^2$$\n$$q = 5.69 \\times 10^{13}  C$$",
+      "image": null,
+      "formulas": [
+        "q^2 = 3.24 \\times 10^{27}  C^2",
+        "q = 5.69 \\times 10^{13}  C"
+      ],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p053",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "সুতরাং ইলেকট্রনের সংখ্যা",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p054",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$n = \\frac{q}{e} = \\frac{5.69 \\times 10^{13}  C}{1.6 \\times 10^{-19}  C} = 3.56 \\times 10^{32}$$",
+      "image": null,
+      "formulas": [
+        "n = \\frac{q}{e} = \\frac{5.69 \\times 10^{13}  C}{1.6 \\times 10^{-19}  C} = 3.56 \\times 10^{32}"
+      ],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p055",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "একটা ইলেকট্রনের ভর $9.11 \\times 10^{-31}  kg$, কাজেই সবগুলো ইলেকট্রনের ভর:",
+      "image": null,
+      "formulas": [
+        "9.11 \\times 10^{-31}  kg"
+      ],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p056",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$(3.56 \\times 10^{32}) \\times (9.11 \\times 10^{-31})  kg = 324  kg$$",
+      "image": null,
+      "formulas": [
+        "(3.56 \\times 10^{32}) \\times (9.11 \\times 10^{-31})  kg = 324  kg"
+      ],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.4-p057",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "অর্থাৎ পৃথিবী পৃষ্ঠে এবং চাঁদে মাত্র 324 kg ইলেকট্রন রেখে দিতে পারলে চাঁদ কক্ষপথ থেকে ছুটে বের হয়ে যাবে। (একটা মাঝারি গরুর ভরের সমান)।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

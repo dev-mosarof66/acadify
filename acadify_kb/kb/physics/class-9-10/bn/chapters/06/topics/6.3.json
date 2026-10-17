@@ -1,0 +1,1772 @@
+{
+  "id": "physics-9-10-bn-c06-t6.3",
+  "key": "6.3",
+  "title": "পদার্থের তাপীয় প্রসারণ (Thermal Expansion of Matter)",
+  "chapter": 6,
+  "ordinal": 3,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p001",
+      "kind": "text",
+      "section": "৬.৩.১ কঠিন পদার্থের প্রসারণ",
+      "caption": null,
+      "body": "তাপ দিলে প্রায় সব পদার্থের আয়তনই একটু বেড়ে যায়। তাপ ও তাপমাত্রা এই বিষয়গুলো যদি আমরা আমাদের আণবিক মডেল দিয়ে ব্যাখ্যা করি, তাহলে এর কারণটা বুঝা কঠিন নয়। একটা কঠিন পদার্থকে আমরা অনেকগুলো অণু হিসেবে কল্পনা করতে পারি। তাদের ভেতর যে আণবিক বল সেটাকে আমরা স্পিংয়ের সাথে তুলনা করতে পারি। কঠিন পদার্থে অণুগুলো কীভাবে থাকে সেটা দেখানোর জন্য আমরা অণুগুলোর মাঝে একটা স্পিং কল্পনা করেছি এবং ৬.০৩ চিত্রে সেটা দেখানো হয়েছে। কঠিন পদার্থটিকে উত্তপ্ত করলে অণুগুলো কাঁপতে থাকবে। তাপমাত্রা যত বেশি হবে, অণুগুলো তত বেশি বিস্তারে কাঁপবে। সত্যিকারের কঠিন পদার্থের প্রকৃতি ব্যাখ্যা করতে হলে আমাদের এই স্পিং মডেলটাকে একটুখানি উন্নত করতে হবে। স্পিংয়ের বোঝ আমরা দেখেছি একটা স্পিংকে কোনো নির্দিষ্ট দূরত্বে প্রসারিত করলে সেটি যে পরিমাণ বলে টানতে থাকে সেই একই দূরত্ব সংকুচিত করলে এটি ঠিক একই বলে ঠেলতে থাকে। কঠিন পদার্থের অণুগুলোর জন্য এটি পুরোপুরি সত্যি নয়। অণুগুলোকে একটি বেশি দূরত্ব সারিয়ে নিলে এটা যে পরিমাণ বলে টানতে থাকে সেই একই দূরত্ব কাছাকাছি আনলে অনেক বেশি বলে ঠেলতে থাকে। অর্থাৎ স্পিংটি যেন একটি বিশেষ ধরনের স্পিং। এটা প্রসারিত করতে কম বল প্রয়োগ করতে হয় কিন্তু সংকুচিত করতে বেশি বল প্রয়োগ করতে হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 171,
+      "pdfPageEnd": 172,
+      "printedPageStart": 166,
+      "printedPageEnd": 167,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p002",
+      "kind": "figure",
+      "section": "৬.৩.১ কঠিন পদার্থের প্রসারণ",
+      "caption": null,
+      "body": "drawing: A 3D cube diagram showing blue spheres at the corners connected by springs along the edges.",
+      "image": "p172-page_9_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 172,
+      "pdfPageEnd": 172,
+      "printedPageStart": 167,
+      "printedPageEnd": 167,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p003",
+      "kind": "figure",
+      "section": "৬.৩.১ কঠিন পদার্থের প্রসারণ",
+      "caption": null,
+      "body": "**চিত্র ৬.০৩: অণুগুলো একটি অন্যটির সাথে স্পিং দিয়ে যুক্ত কল্পনা করে নেওয়া যায়।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 172,
+      "pdfPageEnd": 172,
+      "printedPageStart": 167,
+      "printedPageEnd": 167,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p004",
+      "kind": "text",
+      "section": "৬.৩.১ কঠিন পদার্থের প্রসারণ",
+      "caption": null,
+      "body": "এখন তুমি কল্পনা করে নাও একটি নির্দিষ্ট তাপমাত্রায় থাকার কারণে অণুগুলো কাঁপছে। বিশেষ ধরনের স্পিং হওয়ার কারণে কাঁপার সময় অণুগুলো কাছাকাছি যায় কম কিন্তু দূরে সরে যায় বেশি। এবারে কঠিন পদার্থটিকে আরো উত্তপ্ত করা হলে, অণুগুলো আরো বেশি বিস্তারে কাঁপতে থাকবে। তোমরা বুঝতেই পারছ অণুগুলো এই বিশেষ ধরনের স্পিংয়ের জন্য বেশি কাছে যেতে পারে না; কিন্তু সহজেই বেশি দূরে যেতে পারে। তাই অণুগুলো একে অন্যের থেকে একটু দূরে সরে নতুন একটা সাম্য অবস্থা তৈরি করবে। সব অণু যখন একে অন্য থেকে দূরে সরে যাবে তখন আমাদের কাছে পুরো কঠিন বস্তুটাই একটু প্রসারিত হয়ে গেছে বলে মনে হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 172,
+      "pdfPageEnd": 172,
+      "printedPageStart": 167,
+      "printedPageEnd": 167,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p005",
+      "kind": "figure",
+      "section": "৬.৩.১ কঠিন পদার্থের প্রসারণ",
+      "caption": null,
+      "body": "drawing: A sequence of five illustrations showing objects of increasing complexity (two bars, two squares, two cubes) being heated by a flame.",
+      "image": "p172-page_9_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 172,
+      "pdfPageEnd": 172,
+      "printedPageStart": 167,
+      "printedPageEnd": 167,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p006",
+      "kind": "figure",
+      "section": "৬.৩.১ কঠিন পদার্থের প্রসারণ",
+      "caption": null,
+      "body": "**চিত্র ৬.০৪: তাপ প্রয়োগ করলে কঠিন পদার্থের দৈর্ঘ্য, প্রস্থচ্ছেদ এবং আয়তন বেড়ে যায়।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 172,
+      "pdfPageEnd": 172,
+      "printedPageStart": 167,
+      "printedPageEnd": 167,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p007",
+      "kind": "text",
+      "section": "৬.৩.১ কঠিন পদার্থের প্রসারণ",
+      "caption": null,
+      "body": "তাপ প্রয়োগ করলে কাঠিন বস্তুর দৈর্ঘ্য, প্রস্থ ও উচ্চতা তিন দিকেই সমানভাবে প্রসারিত হয় (চিত্র ৬.০৪)। পদার্থের এই প্রসারণকে বিক্ষয়েণ করার জন্য দৈর্ঘ্য, ক্ষেত্রফল আর আয়তন প্রসারণ সহগ নামে তিনটি রাশি তৈরি করা হয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p008",
+      "kind": "text",
+      "section": "৬.৩.১ কঠিন পদার্থের প্রসারণ",
+      "caption": null,
+      "body": "$T_1$ তাপমাত্রায় কোনো বস্তুর দৈর্ঘ্য যদি $L_1$ হয় এবং তাপমাত্রা বৃদ্ধি করে সেটি $T_2$ করার পর যদি দৈর্ঘ্য বৃদ্ধি পেয়ে সেটি $L_2$ হয় তাহলে দৈর্ঘ্য প্রসারণ সহগ $\\alpha$ হচ্ছে:",
+      "image": null,
+      "formulas": [
+        "T_1",
+        "L_1",
+        "T_2",
+        "L_2",
+        "\\alpha"
+      ],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p009",
+      "kind": "formula",
+      "section": "৬.৩.১ কঠিন পদার্থের প্রসারণ",
+      "caption": null,
+      "body": "$$\\alpha = \\frac{(L_2 - L_1)/L_1}{T_2 - T_1}$$",
+      "image": null,
+      "formulas": [
+        "\\alpha = \\frac{(L_2 - L_1)/L_1}{T_2 - T_1}"
+      ],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p010",
+      "kind": "text",
+      "section": "৬.৩.১ কঠিন পদার্থের প্রসারণ",
+      "caption": null,
+      "body": "কাজেই",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p011",
+      "kind": "formula",
+      "section": "৬.৩.১ কঠিন পদার্থের প্রসারণ",
+      "caption": null,
+      "body": "$$L_2 = L_1 + \\alpha L_1 (T_2 - T_1)$$",
+      "image": null,
+      "formulas": [
+        "L_2 = L_1 + \\alpha L_1 (T_2 - T_1)"
+      ],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p012",
+      "kind": "text",
+      "section": "৬.৩.১ কঠিন পদার্থের প্রসারণ",
+      "caption": null,
+      "body": "একইভাবে $T_1$ তাপমাত্রায় কোনো বস্তুর ক্ষেত্রফল যদি $A_1$ হয় এবং তাপমাত্রা বৃদ্ধি করে $T_2$ করার পর ক্ষেত্রফলও যদি বেড়ে $A_2$ হয় তাহলে ক্ষেত্রফল প্রসারণ সহগ $\\beta$ হচ্ছে:",
+      "image": null,
+      "formulas": [
+        "T_1",
+        "A_1",
+        "T_2",
+        "A_2",
+        "\\beta"
+      ],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p013",
+      "kind": "formula",
+      "section": "৬.৩.১ কঠিন পদার্থের প্রসারণ",
+      "caption": null,
+      "body": "$$\\beta = \\frac{(A_2 - A_1)/A_1}{T_2 - T_1}$$",
+      "image": null,
+      "formulas": [
+        "\\beta = \\frac{(A_2 - A_1)/A_1}{T_2 - T_1}"
+      ],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p014",
+      "kind": "text",
+      "section": "৬.৩.১ কঠিন পদার্থের প্রসারণ",
+      "caption": null,
+      "body": "কাজেই",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p015",
+      "kind": "formula",
+      "section": "৬.৩.১ কঠিন পদার্থের প্রসারণ",
+      "caption": null,
+      "body": "$$A_2 = A_1 + \\beta A_1 (T_2 - T_1)$$",
+      "image": null,
+      "formulas": [
+        "A_2 = A_1 + \\beta A_1 (T_2 - T_1)"
+      ],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p016",
+      "kind": "text",
+      "section": "৬.৩.১ কঠিন পদার্থের প্রসারণ",
+      "caption": null,
+      "body": "ঠিক একইভাবে $T_1$ তাপমাত্রায় যদি আয়তন $V_1$ হয় এবং তাপমাত্রা বৃদ্ধি করে $T_2$ করার পর যদি আয়তন বেড়ে $V_2$ হয় তাহলে আয়তন প্রসারণ সহগ $\\gamma$ হচ্ছে:",
+      "image": null,
+      "formulas": [
+        "T_1",
+        "V_1",
+        "T_2",
+        "V_2",
+        "\\gamma"
+      ],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p017",
+      "kind": "formula",
+      "section": "৬.৩.১ কঠিন পদার্থের প্রসারণ",
+      "caption": null,
+      "body": "$$\\gamma = \\frac{(V_2 - V_1)/V_1}{T_2 - T_1}$$",
+      "image": null,
+      "formulas": [
+        "\\gamma = \\frac{(V_2 - V_1)/V_1}{T_2 - T_1}"
+      ],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p018",
+      "kind": "text",
+      "section": "৬.৩.১ কঠিন পদার্থের প্রসারণ",
+      "caption": null,
+      "body": "কাজেই",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p019",
+      "kind": "formula",
+      "section": "৬.৩.১ কঠিন পদার্থের প্রসারণ",
+      "caption": null,
+      "body": "$$V_2 = V_1 + \\gamma V_1 (T_2 - T_1)$$",
+      "image": null,
+      "formulas": [
+        "V_2 = V_1 + \\gamma V_1 (T_2 - T_1)"
+      ],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p020",
+      "kind": "text",
+      "section": "৬.৩.১ কঠিন পদার্থের প্রসারণ",
+      "caption": null,
+      "body": "তোমরা দেখতেই পাচ্ছ $\\alpha$, $\\beta$ এবং $\\gamma$ তিনটি রাশির এককই হচ্ছে $K^{-1}$",
+      "image": null,
+      "formulas": [
+        "\\alpha",
+        "\\beta",
+        "\\gamma",
+        "K^{-1}"
+      ],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p021",
+      "kind": "text",
+      "section": "৬.৩.১ কঠিন পদার্থের প্রসারণ",
+      "caption": null,
+      "body": "> মাত্রা $[\\alpha] = [\\beta] = [\\gamma] = T^{-1}$",
+      "image": null,
+      "formulas": [
+        "[\\alpha] = [\\beta] = [\\gamma] = T^{-1}"
+      ],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p022",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** 20° C তাপমাত্রায় তামার দণ্ডের দৈর্ঘ্য 10 m, 120° C তাপমাত্রায় দণ্ডটির দৈর্ঘ্য 10.0167 m, এর দৈর্ঘ্য প্রসারণ সহগ কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p023",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** দৈর্ঘ্য প্রসারণ সহগ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p024",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$\\alpha = \\frac{L_2 - L_1}{L_1(T_2 - T_1)}$$",
+      "image": null,
+      "formulas": [
+        "\\alpha = \\frac{L_2 - L_1}{L_1(T_2 - T_1)}"
+      ],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p025",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "এখানে $L_1 = 10  m$",
+      "image": null,
+      "formulas": [
+        "L_1 = 10  m"
+      ],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p026",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$L_2 = 10.0167  m$$\n$$T_2 = 120^\\circ  C$$\n$$T_1 = 20^\\circ  C$$",
+      "image": null,
+      "formulas": [
+        "L_2 = 10.0167  m",
+        "T_2 = 120^\\circ  C",
+        "T_1 = 20^\\circ  C"
+      ],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p027",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$\\alpha = \\frac{10.0167m - 10m}{10m(120^\\circ C - 20^\\circ C)} = 16.7 \\times 10^{-6}   ^\\circC^{-1}$$",
+      "image": null,
+      "formulas": [
+        "\\alpha = \\frac{10.0167m - 10m}{10m(120^\\circ C - 20^\\circ C)} = 16.7 \\times 10^{-6}   ^\\circC^{-1}"
+      ],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p028",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "তোমরা উপরের উদাহরণগুলো থেকে দেখেছ, কঠিন পদার্থের প্রসারণ সহগের মান আসলে খুবই কম। সে কারণে $\\alpha, \\beta$ এবং $\\gamma$ এই তিনটি ভিন্ন ভিন্ন সহগের কিন্তু প্রয়োজন ছিল না। আমরা কাজ চালানোর জন্য শুধু দৈর্ঘ্য প্রসারণ সহগটি ব্যাখ্যা করে নিলেই পারতাম। যেমন ধরা যাক, ক্ষেত্রফল প্রসারণের ব্যাপারটি। আমরা দেখেছি:",
+      "image": null,
+      "formulas": [
+        "\\alpha, \\beta",
+        "\\gamma"
+      ],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p029",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$A_2 = A_1 + \\beta A_1(T_2 - T_1)$$",
+      "image": null,
+      "formulas": [
+        "A_2 = A_1 + \\beta A_1(T_2 - T_1)"
+      ],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p030",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কিন্তু ক্ষেত্রফল $A_1$ আসলে দৈর্ঘ্য এবং প্রস্থের গুণফল এবং যদি আমরা বর্গাকৃতির ক্ষেত্রফল ধরে নিই যার বাহুর দৈর্ঘ্য $L_1$ তাহলে তাপমাত্রা বাড়ালে তার ক্ষেত্রফল হবে",
+      "image": null,
+      "formulas": [
+        "A_1",
+        "L_1"
+      ],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p031",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$A_2 = L_2^2 = [L_1 + \\alpha L_1(T_2 - T_1)]^2$$",
+      "image": null,
+      "formulas": [
+        "A_2 = L_2^2 = [L_1 + \\alpha L_1(T_2 - T_1)]^2"
+      ],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p032",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কিংবা",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p033",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$A_2 = L_1^2 + 2\\alpha L_1^2(T_2 - T_1) + \\alpha^2 L_1^2(T_2 - T_1)^2$$",
+      "image": null,
+      "formulas": [
+        "A_2 = L_1^2 + 2\\alpha L_1^2(T_2 - T_1) + \\alpha^2 L_1^2(T_2 - T_1)^2"
+      ],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p034",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কিন্তু",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p035",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$A_1 = L_1^2$$",
+      "image": null,
+      "formulas": [
+        "A_1 = L_1^2"
+      ],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p036",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p037",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$A_2 = A_1 + 2\\alpha A_1(T_2 - T_1) + \\alpha^2 A_1(T_2 - T_1)^2$$",
+      "image": null,
+      "formulas": [
+        "A_2 = A_1 + 2\\alpha A_1(T_2 - T_1) + \\alpha^2 A_1(T_2 - T_1)^2"
+      ],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p038",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "আমরা দেখেছি $\\alpha$ এর মান খুবই ছোট, কাজেই $\\alpha^2$ এর মান আরও ছোট, সত্যি কথা বলতে কি এটি এত ছোট যে উপরের সমীকরণে $\\alpha^2$ সহ পুরো অংশটুকু আমরা যদি পুরোপুরি বাদ দিই আমাদের বিশ্লেষণ বা হিসাবে এমন কিছু স্কতি হবে না। তাই আমরা লিখতে পারি:",
+      "image": null,
+      "formulas": [
+        "\\alpha",
+        "\\alpha^2",
+        "\\alpha^2"
+      ],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p039",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$A_2 = A_1 + 2\\alpha A_1(T_2 - T_1)$$",
+      "image": null,
+      "formulas": [
+        "A_2 = A_1 + 2\\alpha A_1(T_2 - T_1)"
+      ],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p040",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কিন্তু আমরা জানি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p041",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$A_2 = A_1 + \\beta A_1(T_2 - T_1)$$",
+      "image": null,
+      "formulas": [
+        "A_2 = A_1 + \\beta A_1(T_2 - T_1)"
+      ],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p042",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই নিশ্চয়ই:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p043",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$\\beta = 2\\alpha$$",
+      "image": null,
+      "formulas": [
+        "\\beta = 2\\alpha"
+      ],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p044",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "ঠিক একইভাবে আমরা $L_1$ দৈর্ঘ্য, প্রস্থ, উচ্চতা নিয়ে একটা কিউব কল্পনা করতে পারি $T_1$ তাপমাত্রায় যার আয়তন $V_1$ এবং তাপমাত্রা বাড়িয়ে $T_2$ করার পর যার আয়তন হয়েছে $V_2$, কাজেই",
+      "image": null,
+      "formulas": [
+        "L_1",
+        "T_1",
+        "V_1",
+        "T_2",
+        "V_2"
+      ],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p045",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$V_2 = [L_1 + \\alpha L_1(T_2 - T_1)]^3$$",
+      "image": null,
+      "formulas": [
+        "V_2 = [L_1 + \\alpha L_1(T_2 - T_1)]^3"
+      ],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p046",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "একই যুক্তিতে এখানেও যদি $\\alpha^2$ এবং $\\alpha^3$ সহ অংশগুলোকে বাদ দিই আমাদের বিশ্লেষণ বা হিসাবের এমন কোনো স্কতি হবে না। কাজেই শুধু প্রথম দুটি অংশ থাকবে অর্থাৎ",
+      "image": null,
+      "formulas": [
+        "\\alpha^2",
+        "\\alpha^3"
+      ],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p047",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$V_2 = L_1^3 + 3\\alpha L_1^3(T_2 - T_1) \\dots$$",
+      "image": null,
+      "formulas": [
+        "V_2 = L_1^3 + 3\\alpha L_1^3(T_2 - T_1) \\dots"
+      ],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p048",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কিন্তু আমরা জানি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p049",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$V_1 = L_1^3$$",
+      "image": null,
+      "formulas": [
+        "V_1 = L_1^3"
+      ],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p050",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "অর্থাৎ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p051",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$V_2 = V_1 + 3\\alpha V_1(T_2 - T_1)$$",
+      "image": null,
+      "formulas": [
+        "V_2 = V_1 + 3\\alpha V_1(T_2 - T_1)"
+      ],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p052",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p053",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$V_2 = V_1 + \\gamma V_1(T_2 - T_1)$$",
+      "image": null,
+      "formulas": [
+        "V_2 = V_1 + \\gamma V_1(T_2 - T_1)"
+      ],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p054",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই নিশ্চয়ই:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p055",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$\\gamma = 3\\alpha$$",
+      "image": null,
+      "formulas": [
+        "\\gamma = 3\\alpha"
+      ],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p056",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "বাস্তব জীবনে আমাদের কঠিন পদার্থের প্রসারণের বিষয়টা সব সময়ই মনে রাখতে হয়। তোমরা নিশ্চয়ই রেললাইনের মাঝে ফাঁকাটি দেখেছ। তাপমাত্রার প্রসারণকে মনে রেখে এটা করা হয়েছে। প্রসারণের এই সুযোগটি না দিলে উত্তপ্ত দিনে রেললাইন আঁকাবাঁকা হয়ে যেতে পারত। বেশি মিশ্রি খেয়ে এবং নিয়মিত দাঁত ব্রাশ না করে তোমাদের যাদের দাঁতে গ্যাভিটি হয়েছে তারা যখন ডেন্টিস্টের কাছে গিয়েছ, তারা হয়তো লক্ষ্য করেছ একটা বিশেষ পদার্থ দিয়ে দাঁতের গর্তটি বুজিয়ে দেওয়া হয়েছে। এই পদার্থটির প্রসারণ সহগ অনেক যত্ন করে দাঁতের প্রসারণ সহগের সমান করা হয়েছে। যদি প্রসারণ সহগ দাঁত থেকে কম হতো, তাহলে গরম কিছু খাওয়ার সময় এটা দাঁতের সমান প্রসারিত না হয়ে খুলে আসত। আবার প্রসারণ সহগ বেশি হলে ঠান্ডা কিছু খাওয়ার সময় বেশি ছোট হয়ে দাঁত থেকে খুলে আসত। পদার্থবিজ্ঞান না পড়েও অনেক সাধারণ মানুষও তাপমাত্রায় প্রসারণের বিষয়টা জানে। তোমরা লক্ষ্য করে দেখবে কোনো কোটার মুখ আটকে গেলে সেটাতে গরম পানি ঢালা হয়। যেন এটা প্রসারিত হয়ে সহজে খুলে আসে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p057",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** কাচের গ্লাসে গরম পানি ঢাললে গ্লাস ফেটে যায় কেন?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p058",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** কোনো কোনো অংশে হঠাৎ করে তাপমাত্রা বেড়ে যাওয়ায় কোথাও প্রসারণ বেশি হয়, সে কারণে গ্লাস ফেটে যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p059",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** সোনার ঘনত্ব 19.30 gm/cc, এর দৈর্ঘ্য প্রসারণ সহগ $14 \\times 10^{-6}   ^\\circC^{-1}$ এর তাপমাত্রা 100° C বাড়ালে ঘনত্ব কত হবে?",
+      "image": null,
+      "formulas": [
+        "14 \\times 10^{-6}   ^\\circC^{-1}"
+      ],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p060",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** ঘনত্ব",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p061",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$\\rho = \\frac{m}{V}$$",
+      "image": null,
+      "formulas": [
+        "\\rho = \\frac{m}{V}"
+      ],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p062",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "যেখানে $V$ হচ্ছে আয়তন এবং $m$ হচ্ছে ভর। তাপমাত্রা বাড়ালে ভর এক থাকলেও আয়তন বেড়ে যায়। কাজেই 100°C তাপমাত্রা বাড়ালে তার আয়তন $V'$ হবে:",
+      "image": null,
+      "formulas": [
+        "V",
+        "m",
+        "V'"
+      ],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p063",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$V' = V + \\gamma V(T_2 - T_1) = V(1 + 3\\alpha \\times 100)$$",
+      "image": null,
+      "formulas": [
+        "V' = V + \\gamma V(T_2 - T_1) = V(1 + 3\\alpha \\times 100)"
+      ],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p064",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$\\alpha = 14 \\times 10^{-6}   ^\\circC^{-1}$$",
+      "image": null,
+      "formulas": [
+        "\\alpha = 14 \\times 10^{-6}   ^\\circC^{-1}"
+      ],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p065",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$V' = V(1 + 4.2 \\times 10^{-3})$$",
+      "image": null,
+      "formulas": [
+        "V' = V(1 + 4.2 \\times 10^{-3})"
+      ],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p066",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$\\rho' = \\frac{m}{V'} = \\frac{m}{V(1 + 4.2 \\times 10^{-3})} = \\frac{m}{V} \\times 0.9958 = 0.9958\\rho$$",
+      "image": null,
+      "formulas": [
+        "\\rho' = \\frac{m}{V'} = \\frac{m}{V(1 + 4.2 \\times 10^{-3})} = \\frac{m}{V} \\times 0.9958 = 0.9958\\rho"
+      ],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p067",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$\\rho' = 0.9958 \\times 19.30  gm/cc = 19.22  gm/cc$$",
+      "image": null,
+      "formulas": [
+        "\\rho' = 0.9958 \\times 19.30  gm/cc = 19.22  gm/cc"
+      ],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p068",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** তাপমাত্রা যদি আরো 1000°C বাড়ানো হয় তাহলে ঘনত্ব কত হবে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p069",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** সোনার গলনাঙ্ক 1064°C কাজেই এই তাপমাত্রায় সোনা গলে যাবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p070",
+      "kind": "text",
+      "section": "৬.৩.২ তরল পদার্থের প্রসারণ",
+      "caption": null,
+      "body": "তরল পদার্থের দৈর্ঘ্য বা ক্ষেত্রফল বলে কিছু নেই। তরল পদার্থের শুধু আয়তন আছে। কাজেই তরল পদার্থের প্রসারণ বলতে তার আয়তন প্রসারণকেই বুঝায়। তরল পদার্থের প্রসারণ মাপার সময় একটু সতর্ক থাকতে হয় কারণ তরল পদার্থকে সব সময়ই কোনো পাত্রে রাখতে হয়। কাজেই প্রসারণ সহগ মাপতে চাইলে যখন তরলটিকে উত্তপ্ত করার চেষ্টা করা হয়, তখন স্বাভাবিকভাবে পাত্রটিও উত্তপ্ত হয়ে ওঠে এবং পাত্রটিরও একটি প্রসারণ ঘটে। কাজেই পাত্রে তরলের যে প্রসারণ দেখা যায় সেটা সত্যিকারের প্রসারণ না, সেটা হচ্ছে আপাত প্রসারণ। কাজেই প্রকৃত প্রসারণ বের করতে হলে পাত্রের প্রসারণের ব্যাপারটা সব সময়ই মনে রাখতে হবে। সাধারণত তরলের প্রসারণ কঠিন পদার্থের প্রসারণ থেকে বেশি হয়। যদি তা না হতো তাহলে আমরা আপাত প্রসারণটি হয়তো দেখতেই পেতাম না। মনে হতো আপাত সংকোচন।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 177,
+      "printedPageStart": 171,
+      "printedPageEnd": 172,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p071",
+      "kind": "text",
+      "section": "৬.৩.২ তরল পদার্থের প্রসারণ",
+      "caption": null,
+      "body": "তরল পদার্থের প্রসারণের সবচেয়ে সহজ উদাহরণ হচ্ছে থার্মোমিটার। নানা রকম থার্মোমিটার রয়েছে। তার মধ্যে জুর মাপার থার্মোমিটার (চিত্র ৬.০৫) সন্তুষ্ট তোমাদের কাছে সবচেয়ে পরিচিত। থার্মোমিটারের গোড়ায় একটা কাচের টিউবে পারদ থাকে। তাপ দেওয়া হলে পারদের আয়তন বেড়ে যায় এবং একটা খুব সরু নল বেয়ে উঠতে থাকে, কতদূর উঠেছে সেটা হচ্ছে তাপমাত্রার পরিমাণ। জুর মাপার সময় যেহেতু থার্মোমিটারকে বগল থেকে কিংবা মুখ থেকে বের করে তাপমাত্রা দেখতে হয় তখন যেন পারদের কলামটুকু কমে না যায় সেজন্য সরু নলটির গোড়ায় নলটিতে একটা খুব সরু বক্রতা রাখা হয়। এ কারণে একবার প্রসারিত হয়ে উপরে উঠে গেলে তাপমাত্রা কমে যাবার পরও নেমে আসতে পারে না। ঝাঁকিয়ে নামাতে হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p072",
+      "kind": "figure",
+      "section": "৬.৩.২ তরল পদার্থের প্রসারণ",
+      "caption": null,
+      "body": "drawing: thermometer diagram",
+      "image": "p177-page_14_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p073",
+      "kind": "figure",
+      "section": "৬.৩.২ তরল পদার্থের প্রসারণ",
+      "caption": null,
+      "body": "**চিত্র ৬.০৫: জুর মাপার**\n**থার্মোমিটারে পারদ যেন নেমে**\n**যেতে না পারে সেজন্য টিউবে**\n**সূক্ষ্ম বক্রতা তৈরি করা হয়।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p074",
+      "kind": "text",
+      "section": "প্রকৃত এবং আপাত প্রসারণ",
+      "caption": null,
+      "body": "আগেই বলা হয়েছে, তরলকে সব সময় কোনো পাত্রে রেখে উত্তপ্ত করতে হয়। তাপ দেওয়া হলে তরলটির সাথে সাথে পাত্রটিরও প্রসারণ হয়। তাই সত্যি সত্যি তরলের কতটুকু প্রসারণ হয়েছে সেটি বের করতে হলে পাত্রের প্রসারণটুকু বিবেচনায় রাখতে হয়। এটি বিবেচনায় না রেখে তরলের প্রসারণ বের করা হলে আমরা সেটাকে বলি আপাত প্রসারণ। পাত্রের প্রসারণটি বিবেচনায় রেখে তরলের প্রসারণ বের করা হলে সেটি হবে সত্যিকার প্রসারণ বা প্রকৃত প্রসারণ।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p075",
+      "kind": "figure",
+      "section": "প্রকৃত এবং আপাত প্রসারণ",
+      "caption": null,
+      "body": "drawing: flask diagram with labels B, A, C",
+      "image": "p177-page_14_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p076",
+      "kind": "figure",
+      "section": "প্রকৃত এবং আপাত প্রসারণ",
+      "caption": null,
+      "body": "**চিত্র ৬.০৬: সত্যিকার**\n**এবং আপাত প্রসারণ।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p077",
+      "kind": "text",
+      "section": "প্রকৃত এবং আপাত প্রসারণ",
+      "caption": null,
+      "body": "একটা সরু নলবিশিষ্ট কাচের বাল্বে A দাগ পর্যন্ত তরলে ভর্তি করে যদি বাল্টিকে গরম করা হয় তাহলে আমরা দেখব প্রথমে তরলের উচ্চতা B তে নেমে এসেছে (চিত্র ৬.০৬)। এটি ঘটবে কারণ তাপ দেওয়ার পর তরলটির তাপমাত্রা বাড়ার আগে বাল্টির তাপমাত্রা বেড়ে যাবে এবং তার প্রসারণ হবে, অর্থাৎ বাল্টি একটুখানি বড় হয়ে যাবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 178,
+      "printedPageStart": 172,
+      "printedPageEnd": 173,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p078",
+      "kind": "text",
+      "section": "প্রকৃত এবং আপাত প্রসারণ",
+      "caption": null,
+      "body": "আমরা তারপরও যদি তাপ দিতে থাকি তাহলে তরলটির উচ্চতা বাড়তে থাকবে। যেহেতু তরলের প্রসারণ বেশি তাই আমরা দেখব। তরলটি A অতিক্রম করে শেষ পর্যন্ত C উচ্চতায় পৌঁছেছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p079",
+      "kind": "text",
+      "section": "প্রকৃত এবং আপাত প্রসারণ",
+      "caption": null,
+      "body": "নলটির প্রস্থচ্ছেদকে দিয়ে যদি AB উচ্চতাকে গুণ দিই তাহলে আমরা পাত্রটির প্রসারণ ($V_B$) পাব। যদি BC উচ্চতাকে গুণ দিই তাহলে তরলের প্রকৃত প্রসারণ ($V_L$) পাব। এখানে আপাত প্রসারণ ($V_a$) হচ্ছে",
+      "image": null,
+      "formulas": [
+        "V_B",
+        "V_L",
+        "V_a"
+      ],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p080",
+      "kind": "formula",
+      "section": "প্রকৃত এবং আপাত প্রসারণ",
+      "caption": null,
+      "body": "$$V_a = V_L - V_B$$",
+      "image": null,
+      "formulas": [
+        "V_a = V_L - V_B"
+      ],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p081",
+      "kind": "text",
+      "section": "6.3.3 গ্যাসের প্রসারণ",
+      "caption": null,
+      "body": "কঠিন পদার্থের আকার আর আয়তন দুটিই আছে। তাই তার প্রসারণ বুঝতে কোনো সমস্যা হয়নি। তরলের নির্দিষ্ট আকার না থাকলেও তার আয়তন আছে। তাই তার প্রসারণও আমরা ব্যাখ্যা করতে পারি কিংবা মাপতে পারি। গ্যাসের বেলায় বিষয়টা বেশ মজার। কারণ তার নির্দিষ্ট আকার তো নেই-ই, নির্দিষ্ট আয়তনও নেই। গ্যাসকে যে পাত্রে ঢোকানো হবে গ্যাসটি সাথে সাথে সেই পাত্রের পুরো আয়তন নিয়ে নেবে। একই পরিমাণ গ্যাস ভিন্ন ভিন্ন আয়তনের পাত্রে ঢোকানো হলে তার চাপ হয় ভিন্ন। কাজেই আমরা ঠিক করে নিতে পারি, যদি গ্যাসের আয়তন বৃদ্ধি মাপতে চাই তাহলে লক্ষ্য রাখতে হবে তার চাপের যেন পরিবর্তন না হয়। ৬.০৭ চিত্রে যে রকম দেখানো হয়েছে। একটা সিলিন্ডারের পিস্টনের ওপর নির্দিষ্ট ওজনের কিছু একটা রাখা হয়েছে, যেন এটা সব সময়ই সিলিন্ডারের আবদ্ধ গ্যাসকে সমান চাপ দেয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p082",
+      "kind": "figure",
+      "section": "6.3.3 গ্যাসের প্রসারণ",
+      "caption": null,
+      "body": "drawing: A diagram showing a gas in a cylinder with a piston, being heated by a flame.",
+      "image": "p178-page_15_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p083",
+      "kind": "figure",
+      "section": "6.3.3 গ্যাসের প্রসারণ",
+      "caption": null,
+      "body": "**চিত্র ৬.০৭: তাপ প্রয়োগ করলে বাতাসের আয়তন বেড়ে যায়।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p084",
+      "kind": "text",
+      "section": "6.3.3 গ্যাসের প্রসারণ",
+      "caption": null,
+      "body": "তরল কিংবা কঠিন পদার্থকে চাপ দিয়ে খুব বেশি সংকুচিত করা যায় না। কিন্তু গ্যাসকে খুব সহজে সংকুচিত করা যায়। তাই প্রথমেই আমাদের গ্যাসের চাপ আর আয়তনের মাঝে সম্পর্কটা জানা দরকার। এটাকে বলে আদর্শ গ্যাসের সূত্র এবং এটা হচ্ছে—",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p085",
+      "kind": "formula",
+      "section": "6.3.3 গ্যাসের প্রসারণ",
+      "caption": null,
+      "body": "$$PV = nRT$$",
+      "image": null,
+      "formulas": [
+        "PV = nRT"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p086",
+      "kind": "text",
+      "section": "6.3.3 গ্যাসের প্রসারণ",
+      "caption": null,
+      "body": "এখানে $P$ হচ্ছে চাপ, $V$ হচ্ছে আয়তন, $n$ হচ্ছে গ্যাসের পরিমাণ (মোলে মাপা) $R$ একটি ধ্রুবক ($8.314 J K^{-1}mol^{-1}$) এবং $T$ হচ্ছে কেলভিন স্কেলে তাপমাত্রা।",
+      "image": null,
+      "formulas": [
+        "P",
+        "V",
+        "n",
+        "R",
+        "8.314 J K^{-1}mol^{-1}",
+        "T"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p087",
+      "kind": "text",
+      "section": "6.3.3 গ্যাসের প্রসারণ",
+      "caption": null,
+      "body": "এখন আমরা গ্যাসের জন্য প্রসারণ সহগ বের করতে পারি। একটা নির্দিষ্ট চাপে যদি $T_1$ তাপমাত্রায় গ্যাসের আয়তন হয় $V_1$ এবং $T_2$ তাপমাত্রায় গ্যাসের আয়তন হয় $V_2$ তাহলে গ্যাসের আয়তন প্রসারণ সহগ $\\gamma_P$ হচ্ছে:",
+      "image": null,
+      "formulas": [
+        "T_1",
+        "V_1",
+        "T_2",
+        "V_2",
+        "\\gamma_P"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p088",
+      "kind": "formula",
+      "section": "6.3.3 গ্যাসের প্রসারণ",
+      "caption": null,
+      "body": "$$\\gamma_P = \\frac{(V_2 - V_1) / V_1}{T_2 - T_1}$$",
+      "image": null,
+      "formulas": [
+        "\\gamma_P = \\frac{(V_2 - V_1) / V_1}{T_2 - T_1}"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p089",
+      "kind": "text",
+      "section": "6.3.3 গ্যাসের প্রসারণ",
+      "caption": null,
+      "body": "আমরা জানি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p090",
+      "kind": "text",
+      "section": "6.3.3 গ্যাসের প্রসারণ",
+      "caption": null,
+      "body": "$$PV_1 = nRT_1$$\n$$PV_2 = nRT_2$$",
+      "image": null,
+      "formulas": [
+        "PV_1 = nRT_1",
+        "PV_2 = nRT_2"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p091",
+      "kind": "text",
+      "section": "6.3.3 গ্যাসের প্রসারণ",
+      "caption": null,
+      "body": "কাজেই",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p092",
+      "kind": "formula",
+      "section": "6.3.3 গ্যাসের প্রসারণ",
+      "caption": null,
+      "body": "$$P(V_2 - V_1) = nR(T_2 - T_1)$$",
+      "image": null,
+      "formulas": [
+        "P(V_2 - V_1) = nR(T_2 - T_1)"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p093",
+      "kind": "text",
+      "section": "6.3.3 গ্যাসের প্রসারণ",
+      "caption": null,
+      "body": "বাম পাশে $PV_1$ এবং ডান পাশে $nRT_1$ দিয়ে ভাগ দিয়ে:",
+      "image": null,
+      "formulas": [
+        "PV_1",
+        "nRT_1"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p094",
+      "kind": "formula",
+      "section": "6.3.3 গ্যাসের প্রসারণ",
+      "caption": null,
+      "body": "$$\\frac{V_2 - V_1}{V_1} = \\frac{T_2 - T_1}{T_1}$$",
+      "image": null,
+      "formulas": [
+        "\\frac{V_2 - V_1}{V_1} = \\frac{T_2 - T_1}{T_1}"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p095",
+      "kind": "text",
+      "section": "6.3.3 গ্যাসের প্রসারণ",
+      "caption": null,
+      "body": "কাজেই",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p096",
+      "kind": "formula",
+      "section": "6.3.3 গ্যাসের প্রসারণ",
+      "caption": null,
+      "body": "$$\\frac{(V_2 - V_1) / V_1}{T_2 - T_1} = \\frac{1}{T_1}$$",
+      "image": null,
+      "formulas": [
+        "\\frac{(V_2 - V_1) / V_1}{T_2 - T_1} = \\frac{1}{T_1}"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p097",
+      "kind": "text",
+      "section": "6.3.3 গ্যাসের প্রসারণ",
+      "caption": null,
+      "body": "অর্থাৎ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p098",
+      "kind": "formula",
+      "section": "6.3.3 গ্যাসের প্রসারণ",
+      "caption": null,
+      "body": "$$\\gamma_P = \\frac{1}{T_1}$$",
+      "image": null,
+      "formulas": [
+        "\\gamma_P = \\frac{1}{T_1}"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p099",
+      "kind": "text",
+      "section": "6.3.3 গ্যাসের প্রসারণ",
+      "caption": null,
+      "body": "কাজেই দেখতেই পাচ্ছ, গ্যাসের প্রসারণের সহগ মোটেই কোনো ধ্রুব সংখ্যা নয়। এটা তাপমাত্রার বিপরীত ($T_1^{-1}$) অর্থাৎ তাপমাত্রা যত কম হবে গ্যাসের প্রসারণ হবে তত বেশি। অন্যভাবে বলা যায় একটি নির্দিষ্ট চাপে একটি নির্দিষ্ট তাপমাত্রায় গ্যাসের তাপমাত্রা এক ডিগ্রি বাড়ালে তার যেটুকু প্রসারণ হবে একই চাপে কিন্তু কম তাপমাত্রায় গ্যাসের তাপমাত্রা এক ডিগ্রি বাড়ালে প্রসারণ হবে তার থেকে বেশি।",
+      "image": null,
+      "formulas": [
+        "T_1^{-1}"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.3-p100",
+      "kind": "activity",
+      "section": "নিজে করো",
+      "caption": null,
+      "body": "দুটি বেলুন নাও, একটিতে খানিকটা পানি ভরা আর অন্যটিতে সমান আয়তনের বাতাস। এবারে দুটোই গরম পানিতে কিছুক্ষণ ডুবিয়ে রাখো। দেখবে পানি ভরা বেলুনটির আকার আগের মতোই আছে, কারণ তাপে তরলের সেরকম প্রসারণ হয় না। কিন্তু বাতাস ভরা বেলুনটি অনেকখানি ফুলে উঠেছে, কারণ তাপে গ্যাসের প্রসারণ তরল থেকে অনেক বেশি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 180,
+      "pdfPageEnd": 180,
+      "printedPageStart": 175,
+      "printedPageEnd": 175,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

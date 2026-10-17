@@ -1,0 +1,56 @@
+{
+  "id": "chemistry-9-10-bn-c05-t5.3",
+  "key": "5.3",
+  "title": "যৌগমূলক ও তাদের যোজনী (Radicals and Their Valencies)",
+  "chapter": 5,
+  "ordinal": 3,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c05-t5.3-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "একাধিক মৌলের কতিপয় পরমাণু বা আয়ন পরস্পরের সাথে মিলিত হয়ে ধনাত্মক বা ঋণাত্মক আধানবিশিষ্ট একটি পরমাণুগুচ্ছ তৈরি করে এবং এটি একটি মৌলের আয়নের ন্যায় আচরণ করে। এ ধরনের পরমাণুগুচ্ছকে যৌগমূলক বলা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 92,
+      "pdfPageEnd": 92,
+      "printedPageStart": 87,
+      "printedPageEnd": 87,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.3-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যৌগমূলক ধনাত্মক কিংবা ঋণাত্মক আধানবিশিষ্ট হতে পারে। এদের আধান সংখ্যাই মূলত এদের যোজনী নির্দেশ করে। যেমন- একটি N পরমাণুর সাথে তিনটি H পরমাণু ও একটি H<sup>+</sup> যুক্ত হয়ে অ্যামোনিয়াম (NH<sub>4</sub><sup>+</sup>) আয়ন নামক যৌগমূলকের সৃষ্টি করে। এর আধান সংখ্যা হলো +1 (এক)। সুতরাং এর যোজনীও ১ (এক)। আধান বা চার্জ ধনাত্মক বা ঋণাত্মক হতে পারে কিন্তু যোজনী শুধু একটি সংখ্যা এর কোনো ধনাত্মক চিহ্ন বা ঋণাত্মক চিহ্ন নেই।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 92,
+      "pdfPageEnd": 92,
+      "printedPageStart": 87,
+      "printedPageEnd": 87,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.3-p003",
+      "kind": "table",
+      "section": null,
+      "caption": "টেবিল ৫.০৪: বিভিন্ন যৌগমূলকের নাম, সংকেত, আধান ও যোজনী",
+      "body": "<table><tr><th>যৌগমূলকের নাম</th><th>সংকেত</th><th>আধান</th><th>যোজনী</th></tr>\n<tr><td>অ্যামোনিয়াম</td><td>NH<sub>4</sub><sup>+</sup></td><td>+1</td><td>1</td></tr>\n<tr><td>কার্বনেট</td><td>CO<sub>3</sub><sup>2-</sup></td><td>-2</td><td>2</td></tr>\n<tr><td>হাইড্রোজেন কার্বনেট</td><td>HCO<sub>3</sub><sup>-</sup></td><td>-1</td><td>1</td></tr>\n<tr><td>সালফেট</td><td>SO<sub>4</sub><sup>2-</sup></td><td>-2</td><td>2</td></tr>\n<tr><td>হাইড্রোজেন সালফেট</td><td>HSO<sub>4</sub><sup>-</sup></td><td>-1</td><td>1</td></tr>\n<tr><td>সালফাইট</td><td>SO<sub>3</sub><sup>2-</sup></td><td>-2</td><td>2</td></tr>\n<tr><td>নাইট্রেট</td><td>NO<sub>3</sub><sup>-</sup></td><td>-1</td><td>1</td></tr>\n<tr><td>নাইট্রাইট</td><td>NO<sub>2</sub><sup>-</sup></td><td>-1</td><td>1</td></tr>\n<tr><td>ফসফেট</td><td>PO<sub>4</sub><sup>3-</sup></td><td>-3</td><td>3</td></tr>\n<tr><td>হাইড্রোক্সাইড</td><td>OH<sup>-</sup></td><td>-1</td><td>1</td></tr>\n<tr><td>ফসফোনিয়াম</td><td>PH<sub>4</sub><sup>+</sup></td><td>+1</td><td>1</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 92,
+      "pdfPageEnd": 92,
+      "printedPageStart": 87,
+      "printedPageEnd": 87,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    }
+  ]
+}

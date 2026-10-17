@@ -35,7 +35,7 @@
       "key": "1.3",
       "title": "পদার্থবিজ্ঞানের ক্রমবিকাশ (Development of Physics)",
       "file": "topics/1.3.json",
-      "passages": 28
+      "passages": 26
     },
     {
       "key": "1.4",
@@ -47,47 +47,47 @@
       "key": "1.5",
       "title": "ভৌত রাশি এবং তাদের পরিমাপ",
       "file": "topics/1.5.json",
-      "passages": 36
+      "passages": 37
     },
     {
       "key": "1.6",
       "title": "পরিমাপের যন্ত্রপাতি (Measuring Instruments)",
       "file": "topics/1.6.json",
-      "passages": 36
+      "passages": 34
     },
     {
       "key": "1.7",
       "title": "পরিমাপের ত্রুটি ও নির্ভুলতা (Error and accuracy of measurements)",
       "file": "topics/1.7.json",
-      "passages": 40
+      "passages": 38
     },
     {
       "key": "1.ex",
       "title": "নমুনা প্রশ্ন",
       "file": "topics/1.ex.json",
-      "passages": 49
+      "passages": 40
     }
   ],
   "stats": {
     "topics": 9,
-    "passages": 213,
-    "images": 11,
+    "passages": 199,
+    "images": 9,
     "byKind": {
-      "figure": 24,
-      "text": 124,
+      "figure": 21,
+      "text": 121,
       "objective": 1,
-      "activity": 5,
+      "activity": 6,
       "table": 6,
       "formula": 4,
       "example": 2,
-      "exercise": 47
+      "exercise": 38
     },
     "byReason": {
       "known-confusable-corrected": 28,
-      "latin-junk": 9,
-      "verify-formula": 37,
+      "verify-formula": 45,
+      "latin-junk": 7,
       "verify-table": 6
     },
-    "needsReview": 72
+    "needsReview": 77
   }
 }

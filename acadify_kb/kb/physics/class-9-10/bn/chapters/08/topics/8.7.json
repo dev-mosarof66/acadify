@@ -1,0 +1,64 @@
+{
+  "id": "physics-9-10-bn-c08-t8.7",
+  "key": "8.7",
+  "title": "বিবর্ধন (Magnification)",
+  "chapter": 8,
+  "ordinal": 7,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c08-t8.7-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা যেহেতু দেখতে পেয়েছি যে একটা প্রতিবিম্ব কখনো প্রকৃত বস্তু থেকে ছোট হয় কখনো বড় হয়, তাই বিষয়টিকে ব্যাখ্যা করার জন্য ‘বিবর্ধন’ বলে একটা শব্দ ব্যবহার করা যেতে পারে। প্রতিবিম্বটি মূল বস্তু থেকে কত গুণ বড় সেটাকে বিবর্ধন $m$ বলা হয়। যদি একটা বস্তুর আকার হয় $l$ এবং তার প্রতিবিম্বের আকার হয় $l'$ তাহলে বিবর্ধন হচ্ছে:",
+      "image": null,
+      "formulas": [
+        "m",
+        "l",
+        "l'"
+      ],
+      "pdfPageStart": 239,
+      "pdfPageEnd": 239,
+      "printedPageStart": 234,
+      "printedPageEnd": 234,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.7-p002",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$m = \\frac{l'}{l}$$",
+      "image": null,
+      "formulas": [
+        "m = \\frac{l'}{l}"
+      ],
+      "pdfPageStart": 239,
+      "pdfPageEnd": 239,
+      "printedPageStart": 234,
+      "printedPageEnd": 234,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.7-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা যখন টেলিস্কোপে কোনো বস্তুরকে দেখি, খালি চোখে দেখলে সেটাকে যত বড় দেখানোর কথা টেলিস্কোপে দেখলে সেটাকে সে তুলনায় যত বড় দেখাবে, সেটাই হচ্ছে টেলিস্কোপের বিবর্ধন।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 239,
+      "pdfPageEnd": 239,
+      "printedPageStart": 234,
+      "printedPageEnd": 234,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

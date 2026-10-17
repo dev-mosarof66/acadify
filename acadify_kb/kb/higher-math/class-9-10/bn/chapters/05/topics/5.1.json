@@ -1,0 +1,556 @@
+{
+  "id": "higher-math-9-10-bn-c05-t5.1",
+  "key": "5.1",
+  "title": "নিশ্চায়কের অবস্থাভেদে দ্বিঘাত সমীকরণের মূলদ্বয়ের ধরন ও প্রকৃতি",
+  "chapter": 5,
+  "ordinal": 1,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c05-t5.1-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধরি $a, b, c$ বাস্তব সংখ্যা এবং $a \\neq 0$। তাহলে",
+      "image": null,
+      "formulas": [
+        "a, b, c",
+        "a \\neq 0"
+      ],
+      "pdfPageStart": 102,
+      "pdfPageEnd": 102,
+      "printedPageStart": 97,
+      "printedPageEnd": 97,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.1-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $b^2 - 4ac > 0$ এবং পূর্ণবর্গ হলে সমীকরণটির মূলদ্বয় বাস্তব, অসমান ও মূলদ হবে।",
+      "image": null,
+      "formulas": [
+        "b^2 - 4ac > 0"
+      ],
+      "pdfPageStart": 102,
+      "pdfPageEnd": 102,
+      "printedPageStart": 97,
+      "printedPageEnd": 97,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.1-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $b^2 - 4ac > 0$ কিন্তু পূর্ণবর্গ না হলে সমীকরণটির মূলদ্বয় বাস্তব, অসমান ও অমূলদ হবে।",
+      "image": null,
+      "formulas": [
+        "b^2 - 4ac > 0"
+      ],
+      "pdfPageStart": 102,
+      "pdfPageEnd": 102,
+      "printedPageStart": 97,
+      "printedPageEnd": 97,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.1-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $b^2 - 4ac = 0$ হলে সমীকরণটির মূলদ্বয় বাস্তব ও পরস্পর সমান হবে, এক্ষেত্রে $x = -\\frac{b}{2a}, -\\frac{b}{2a}$",
+      "image": null,
+      "formulas": [
+        "b^2 - 4ac = 0",
+        "x = -\\frac{b}{2a}, -\\frac{b}{2a}"
+      ],
+      "pdfPageStart": 102,
+      "pdfPageEnd": 102,
+      "printedPageStart": 97,
+      "printedPageEnd": 97,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.1-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঘ) $b^2 - 4ac < 0$ অর্থাৎ ঋণাত্মক হলে সমীকরণটির বাস্তব মূল নাই।",
+      "image": null,
+      "formulas": [
+        "b^2 - 4ac < 0"
+      ],
+      "pdfPageStart": 102,
+      "pdfPageEnd": 102,
+      "printedPageStart": 97,
+      "printedPageEnd": 97,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.1-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১.** $x^2 - 5x + 6 = 0$ এর সমাধান করো।",
+      "image": null,
+      "formulas": [
+        "x^2 - 5x + 6 = 0"
+      ],
+      "pdfPageStart": 102,
+      "pdfPageEnd": 102,
+      "printedPageStart": 97,
+      "printedPageEnd": 97,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.1-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $ax^2 + bx + c = 0$ সমীকরণের সাথে তুলনা করে এক্ষেত্রে পাওয়া যায় $a = 1, b = -5$ এবং $c = 6$। অতএব সমীকরণটির সমাধান",
+      "image": null,
+      "formulas": [
+        "ax^2 + bx + c = 0",
+        "a = 1, b = -5",
+        "c = 6"
+      ],
+      "pdfPageStart": 103,
+      "pdfPageEnd": 103,
+      "printedPageStart": 98,
+      "printedPageEnd": 98,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.1-p008",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$x = \\frac{-(-5) \\pm \\sqrt{(-5)^2 - 4 \\cdot 1 \\cdot 6}}{2 \\cdot 1} = \\frac{5 \\pm \\sqrt{25 - 24}}{2} = \\frac{5 \\pm \\sqrt{1}}{2} = \\frac{5 \\pm 1}{2}$$",
+      "image": null,
+      "formulas": [
+        "x = \\frac{-(-5) \\pm \\sqrt{(-5)^2 - 4 \\cdot 1 \\cdot 6}}{2 \\cdot 1} = \\frac{5 \\pm \\sqrt{25 - 24}}{2} = \\frac{5 \\pm \\sqrt{1}}{2} = \\frac{5 \\pm 1}{2}"
+      ],
+      "pdfPageStart": 103,
+      "pdfPageEnd": 103,
+      "printedPageStart": 98,
+      "printedPageEnd": 98,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.1-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x = \\frac{5 + 1}{2}, \\frac{5 - 1}{2}$",
+      "image": null,
+      "formulas": [
+        "x = \\frac{5 + 1}{2}, \\frac{5 - 1}{2}"
+      ],
+      "pdfPageStart": 103,
+      "pdfPageEnd": 103,
+      "printedPageStart": 98,
+      "printedPageEnd": 98,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.1-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ $x_1 = 3, x_2 = 2$",
+      "image": null,
+      "formulas": [
+        "x_1 = 3, x_2 = 2"
+      ],
+      "pdfPageStart": 103,
+      "pdfPageEnd": 103,
+      "printedPageStart": 98,
+      "printedPageEnd": 98,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.1-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২.** $x^2 - 6x + 9 = 0$ এর সমাধান করো।",
+      "image": null,
+      "formulas": [
+        "x^2 - 6x + 9 = 0"
+      ],
+      "pdfPageStart": 103,
+      "pdfPageEnd": 103,
+      "printedPageStart": 98,
+      "printedPageEnd": 98,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.1-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $ax^2 + bx + c = 0$ সমীকরণের সাথে তুলনা করে এক্ষেত্রে পাওয়া যায় $a = 1, b = -6$ এবং $c = 9$। অতএব সমীকরণটির সমাধান",
+      "image": null,
+      "formulas": [
+        "ax^2 + bx + c = 0",
+        "a = 1, b = -6",
+        "c = 9"
+      ],
+      "pdfPageStart": 103,
+      "pdfPageEnd": 103,
+      "printedPageStart": 98,
+      "printedPageEnd": 98,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.1-p013",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$x = \\frac{-(-6) \\pm \\sqrt{(-6)^2 - 4 \\cdot 1 \\cdot 9}}{2 \\cdot 1} = \\frac{6 \\pm \\sqrt{36 - 36}}{2} = \\frac{6 \\pm 0}{2}$$",
+      "image": null,
+      "formulas": [
+        "x = \\frac{-(-6) \\pm \\sqrt{(-6)^2 - 4 \\cdot 1 \\cdot 9}}{2 \\cdot 1} = \\frac{6 \\pm \\sqrt{36 - 36}}{2} = \\frac{6 \\pm 0}{2}"
+      ],
+      "pdfPageStart": 103,
+      "pdfPageEnd": 103,
+      "printedPageStart": 98,
+      "printedPageEnd": 98,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.1-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ $x_1 = 3, x_2 = 3$",
+      "image": null,
+      "formulas": [
+        "x_1 = 3, x_2 = 3"
+      ],
+      "pdfPageStart": 103,
+      "pdfPageEnd": 103,
+      "printedPageStart": 98,
+      "printedPageEnd": 98,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.1-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৩.** $x^2 - 2x - 2 = 0$ এর সমাধান করো।",
+      "image": null,
+      "formulas": [
+        "x^2 - 2x - 2 = 0"
+      ],
+      "pdfPageStart": 103,
+      "pdfPageEnd": 103,
+      "printedPageStart": 98,
+      "printedPageEnd": 98,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.1-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $ax^2 + bx + c = 0$ সমীকরণের সাথে তুলনা করে এক্ষেত্রে পাওয়া যায় $a = 1, b = -2$ এবং $c = -2$। অতএব সমীকরণটির সমাধান",
+      "image": null,
+      "formulas": [
+        "ax^2 + bx + c = 0",
+        "a = 1, b = -2",
+        "c = -2"
+      ],
+      "pdfPageStart": 103,
+      "pdfPageEnd": 103,
+      "printedPageStart": 98,
+      "printedPageEnd": 98,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.1-p017",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$x = \\frac{2 \\pm \\sqrt{(-2)^2 - 4 \\cdot 1 \\cdot (-2)}}{2 \\cdot 1} = \\frac{2 \\pm \\sqrt{4 + 8}}{2} = \\frac{2 \\pm \\sqrt{12}}{2}$$",
+      "image": null,
+      "formulas": [
+        "x = \\frac{2 \\pm \\sqrt{(-2)^2 - 4 \\cdot 1 \\cdot (-2)}}{2 \\cdot 1} = \\frac{2 \\pm \\sqrt{4 + 8}}{2} = \\frac{2 \\pm \\sqrt{12}}{2}"
+      ],
+      "pdfPageStart": 103,
+      "pdfPageEnd": 103,
+      "printedPageStart": 98,
+      "printedPageEnd": 98,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.1-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x = \\frac{2 \\pm 2\\sqrt{3}}{2} = \\frac{2(1 \\pm \\sqrt{3})}{2} = 1 \\pm \\sqrt{3}$",
+      "image": null,
+      "formulas": [
+        "x = \\frac{2 \\pm 2\\sqrt{3}}{2} = \\frac{2(1 \\pm \\sqrt{3})}{2} = 1 \\pm \\sqrt{3}"
+      ],
+      "pdfPageStart": 103,
+      "pdfPageEnd": 103,
+      "printedPageStart": 98,
+      "printedPageEnd": 98,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.1-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ $x_1 = 1 + \\sqrt{3}, x_2 = 1 - \\sqrt{3}$।",
+      "image": null,
+      "formulas": [
+        "x_1 = 1 + \\sqrt{3}, x_2 = 1 - \\sqrt{3}"
+      ],
+      "pdfPageStart": 103,
+      "pdfPageEnd": 103,
+      "printedPageStart": 98,
+      "printedPageEnd": 98,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.1-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে লক্ষণীয় যে, সাধারণ নিয়মে মূলদ সংখ্যার সাহায্যে $x^2 - 2x - 2$ কে উৎপাদকে বিশ্লেষণ করা না গেলেও প্রদত্ত সমীকরণটির সমাধান করা সম্ভব হয়েছে।",
+      "image": null,
+      "formulas": [
+        "x^2 - 2x - 2"
+      ],
+      "pdfPageStart": 103,
+      "pdfPageEnd": 103,
+      "printedPageStart": 98,
+      "printedPageEnd": 98,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.1-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৪.** $3 - 4x - x^2 = 0$ এর সমাধান করো।",
+      "image": null,
+      "formulas": [
+        "3 - 4x - x^2 = 0"
+      ],
+      "pdfPageStart": 103,
+      "pdfPageEnd": 103,
+      "printedPageStart": 98,
+      "printedPageEnd": 98,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.1-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $ax^2 + bx + c = 0$ সমীকরণের সাথে তুলনা করে এক্ষেত্রে পাওয়া যায় $a = -1, b = -4, c = 3$। অতএব সমীকরণটির সমাধান",
+      "image": null,
+      "formulas": [
+        "ax^2 + bx + c = 0",
+        "a = -1, b = -4, c = 3"
+      ],
+      "pdfPageStart": 103,
+      "pdfPageEnd": 103,
+      "printedPageStart": 98,
+      "printedPageEnd": 98,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.1-p023",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$x = \\frac{-(-4) \\pm \\sqrt{(-4)^2 - 4 \\cdot (-1) \\cdot 3}}{2 \\cdot (-1)} = \\frac{4 \\pm \\sqrt{16 + 12}}{-2} = \\frac{4 \\pm \\sqrt{28}}{-2}$$",
+      "image": null,
+      "formulas": [
+        "x = \\frac{-(-4) \\pm \\sqrt{(-4)^2 - 4 \\cdot (-1) \\cdot 3}}{2 \\cdot (-1)} = \\frac{4 \\pm \\sqrt{16 + 12}}{-2} = \\frac{4 \\pm \\sqrt{28}}{-2}"
+      ],
+      "pdfPageStart": 103,
+      "pdfPageEnd": 103,
+      "printedPageStart": 98,
+      "printedPageEnd": 98,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.1-p024",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\frac{4 \\pm 2\\sqrt{7}}{-2}$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{4 \\pm 2\\sqrt{7}}{-2}"
+      ],
+      "pdfPageStart": 103,
+      "pdfPageEnd": 103,
+      "printedPageStart": 98,
+      "printedPageEnd": 98,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.1-p025",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x = -(2 \\pm \\sqrt{7})$",
+      "image": null,
+      "formulas": [
+        "x = -(2 \\pm \\sqrt{7})"
+      ],
+      "pdfPageStart": 103,
+      "pdfPageEnd": 103,
+      "printedPageStart": 98,
+      "printedPageEnd": 98,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.1-p026",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ, $x_1 = -2 - \\sqrt{7}, x_2 = -2 + \\sqrt{7}$।",
+      "image": null,
+      "formulas": [
+        "x_1 = -2 - \\sqrt{7}, x_2 = -2 + \\sqrt{7}"
+      ],
+      "pdfPageStart": 103,
+      "pdfPageEnd": 103,
+      "printedPageStart": 98,
+      "printedPageEnd": 98,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.1-p027",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:** উপরের (2) ও (3) নং সূত্রের সাহায্যে $ax^2 + bx + c = 0$ সমীকরণ হতে মূল $x_1$ এবং $x_2$ এর মান নির্ণয় করো: যখন",
+      "image": null,
+      "formulas": [
+        "ax^2 + bx + c = 0",
+        "x_1",
+        "x_2"
+      ],
+      "pdfPageStart": 104,
+      "pdfPageEnd": 104,
+      "printedPageStart": 99,
+      "printedPageEnd": 99,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.1-p028",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $b = 0$ খ) $c = 0$ গ) $b = c = 0$\nঘ) $a = 1$ ঙ) $a = 1, b = c = 2p$",
+      "image": null,
+      "formulas": [
+        "b = 0",
+        "c = 0",
+        "b = c = 0",
+        "a = 1",
+        "a = 1, b = c = 2p"
+      ],
+      "pdfPageStart": 104,
+      "pdfPageEnd": 104,
+      "printedPageStart": 99,
+      "printedPageEnd": 99,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

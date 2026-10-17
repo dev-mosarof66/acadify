@@ -1,0 +1,91 @@
+{
+  "id": "chemistry-9-10-bn-c09",
+  "textbookId": "chemistry-9-10-bn",
+  "number": 9,
+  "title": "এসিড-ক্ষারক সমতা",
+  "englishTitle": "Balance of Acid-Base",
+  "pdfPages": [
+    211,
+    237
+  ],
+  "printedPages": [
+    206,
+    232
+  ],
+  "topics": [
+    {
+      "key": "9.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/9.0.json",
+      "passages": 3
+    },
+    {
+      "key": "9.1",
+      "title": "এসিড (Acid)",
+      "file": "topics/9.1.json",
+      "passages": 58
+    },
+    {
+      "key": "9.2",
+      "title": "ক্ষারক এবং ক্ষার (Base and Alkali)",
+      "file": "topics/9.2.json",
+      "passages": 37
+    },
+    {
+      "key": "9.3",
+      "title": "গাঢ় এসিড ও গাঢ় ক্ষারের ক্ষয়কারী ধর্ম",
+      "file": "topics/9.3.json",
+      "passages": 7
+    },
+    {
+      "key": "9.4",
+      "title": "pH এর ধারণা (The Conception of pH)",
+      "file": "topics/9.4.json",
+      "passages": 33
+    },
+    {
+      "key": "9.5",
+      "title": "প্রশমন বিক্রিয়া (Neutralization Reaction)",
+      "file": "topics/9.5.json",
+      "passages": 11
+    },
+    {
+      "key": "9.6",
+      "title": "এসিড বৃষ্টি (Acid Rain)",
+      "file": "topics/9.6.json",
+      "passages": 4
+    },
+    {
+      "key": "9.7",
+      "title": "পানি (Water)",
+      "file": "topics/9.7.json",
+      "passages": 31
+    },
+    {
+      "key": "9.ex",
+      "title": "নমুনা প্রশ্ন",
+      "file": "topics/9.ex.json",
+      "passages": 18
+    }
+  ],
+  "stats": {
+    "topics": 9,
+    "passages": 202,
+    "images": 5,
+    "byKind": {
+      "figure": 9,
+      "text": 137,
+      "formula": 35,
+      "activity": 2,
+      "table": 2,
+      "exercise": 17
+    },
+    "byReason": {
+      "known-confusable-corrected": 57,
+      "verify-formula": 50,
+      "latin-junk": 16,
+      "verify-table": 2
+    },
+    "needsReview": 110
+  }
+}

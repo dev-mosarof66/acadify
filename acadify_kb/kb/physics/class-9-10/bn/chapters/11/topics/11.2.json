@@ -1,0 +1,2673 @@
+{
+  "id": "physics-9-10-bn-c11-t11.2",
+  "key": "11.2",
+  "title": "বিভব পার্থক্য এবং তড়িৎপ্রবাহের মধ্যে সম্পর্ক",
+  "chapter": 11,
+  "ordinal": 2,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p001",
+      "kind": "text",
+      "section": "(Relationship between Potential Difference and Electricity)",
+      "caption": null,
+      "body": "এবারে আমরা সত্যিকারের বর্তনী বা সার্কিটে সত্যিকারের বিদ্যুৎপ্রবাহ নিয়ে আলোচনা করব। আমরা অনেকবার বলেছি যে দুটি বিন্দুতে যদি পটেনশিয়াল বা বিভব পার্থক্য থাকে এবং আমরা যদি একটি পরিবাহী তার দিয়ে সেই দুটি বিন্দুকে জুড়ে দিই, তাহলে বিন্দু দুটির ভেতরে বিদ্যুৎ প্রবাহ হবে, কিন্তু কতটুকু বিদ্যুৎপ্রবাহ হবে সেটি নিয়ে এখনো কিছু বলা হয়নি। শুধু তা-ই নয়, একটা সোনার পরিবাহী তার দিয়ে জুড়ে দিলে যেটুকু বিদ্যুৎ প্রবাহিত হবে একটা লোহার তার জুড়ে দিলেও কি সমান পরিমাণ বিদ্যুৎ প্রবাহিত হবে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 309,
+      "pdfPageEnd": 309,
+      "printedPageStart": 304,
+      "printedPageEnd": 304,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p002",
+      "kind": "text",
+      "section": "১১.২.১ ও'মের সূত্র (Ohm's Law)",
+      "caption": null,
+      "body": "পটেনশিয়াল বা বিভব পার্থক্য এবং তড়িৎপ্রবাহের মাঝে সম্পর্ক দেখার জন্য আমরা একটা পরীক্ষণ করতে পারি। বিভব মাপার জন্য যে যন্ত্রটি ব্যবহার করা হয় তার নাম ভোল্টমিটার, বিদ্যুৎপ্রবাহ বা কারেন্ট মাপার জন্য যে যন্ত্র ব্যবহার করা হয় সেটার নাম অ্যামিটার। (আসলে একই যন্ত্রের সুইচ ঘুরিয়ে এটাকে কখনো ভোল্টমিটার বা কখনো অ্যামিটার হিসেবে ব্যবহার করা যায়) আমরা কয়েকটা ব্যাটারি নিতে পারি, একটা ব্যাটারির জন্য তড়িৎ চালক শক্তি 1.5 V হলে দুটি ব্যাটারির তড়িৎ চালক শক্তি 2 × 1.5 =",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 309,
+      "pdfPageEnd": 309,
+      "printedPageStart": 304,
+      "printedPageEnd": 304,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p003",
+      "kind": "table",
+      "section": "চিত্র ১১.০৪ : রেজিস্ট্যান্সের কারণে বিভব পার্থক্যের স্যাপেক্ষে বিদ্যুৎপ্রবাহ। — বিদ্যুৎপ্রবাহ (mA) vs বিভব পার্থক্য (V)",
+      "caption": null,
+      "body": "<table><tr><th>Series</th><th>বিভব পার্থক্য (V)</th><th>বিদ্যুৎপ্রবাহ (mA)</th></tr>\n<tr><th rowspan=\"6\">(a)</th><td>0.5</td><td>0.5</td></tr>\n<tr><td>1.0</td><td>1.0</td></tr>\n<tr><td>1.5</td><td>1.5</td></tr>\n<tr><td>2.0</td><td>2.5</td></tr>\n<tr><td>2.5</td><td>3.0</td></tr>\n<tr><td>3.0</td><td>3.5</td></tr>\n<tr><th rowspan=\"6\">(b)</th><td>0.5</td><td>0.2</td></tr>\n<tr><td>1.0</td><td>0.4</td></tr>\n<tr><td>1.5</td><td>0.6</td></tr>\n<tr><td>2.0</td><td>1.0</td></tr>\n<tr><td>2.5</td><td>1.4</td></tr>\n<tr><td>3.0</td><td>2.0</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 309,
+      "pdfPageEnd": 309,
+      "printedPageStart": 304,
+      "printedPageEnd": 304,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p004",
+      "kind": "figure",
+      "section": "চিত্র ১১.০৪ : রেজিস্ট্যান্সের কারণে বিভব পার্থক্যের স্যাপেক্ষে বিদ্যুৎপ্রবাহ। — বিদ্যুৎপ্রবাহ (mA) vs বিভব পার্থক্য (V)",
+      "caption": null,
+      "body": "**চিত্র ১১.০৪ : রেজিস্ট্যান্সের কারণে বিভব পার্থক্যের স্যাপেক্ষে বিদ্যুৎপ্রবাহ।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 309,
+      "pdfPageEnd": 309,
+      "printedPageStart": 304,
+      "printedPageEnd": 304,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p005",
+      "kind": "text",
+      "section": "চিত্র ১১.০৪ : রেজিস্ট্যান্সের কারণে বিভব পার্থক্যের স্যাপেক্ষে বিদ্যুৎপ্রবাহ। — বিদ্যুৎপ্রবাহ (mA) vs বিভব পার্থক্য (V)",
+      "caption": null,
+      "body": "৩ V, তিনটির জন্য $3 \\times 1.5 = 4.5 V$, ইত্যাদি এভাবে ভিন্ন ভিন্ন বিভব পার্থক্য প্রয়োগ করতে পারি। শুধু তাই নয়, আমরা ব্যাটারিগুলো উল্টে দিয়ে বিভব পার্থক্যের দিকও বিপরীত করে দিতে পারি। কাজেই আমরা যদি একটা তার বা অন্য কোনো পরিবাহীর দুই পাশে বিভিন্ন পজিটিভ এবং নেগেটিভ বিভব পার্থক্য প্রয়োগ করে কতখানি বিদ্যুৎ প্রবাহিত হয়েছে সেটা মাপার চেষ্টা করি তাহলে দেখব",
+      "image": null,
+      "formulas": [
+        "3 \\times 1.5 = 4.5 V"
+      ],
+      "pdfPageStart": 310,
+      "pdfPageEnd": 310,
+      "printedPageStart": 305,
+      "printedPageEnd": 305,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p006",
+      "kind": "text",
+      "section": "চিত্র ১১.০৪ : রেজিস্ট্যান্সের কারণে বিভব পার্থক্যের স্যাপেক্ষে বিদ্যুৎপ্রবাহ। — বিদ্যুৎপ্রবাহ (mA) vs বিভব পার্থক্য (V)",
+      "caption": null,
+      "body": "(a) যত বেশি বিভব পার্থক্য তত বেশি বিদ্যুৎপ্রবাহ\n(b) বিভব পার্থক্য নেগেটিভ হলে বিদ্যুৎপ্রবাহও দিক পরিবর্তন করছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 310,
+      "pdfPageEnd": 310,
+      "printedPageStart": 305,
+      "printedPageEnd": 305,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p007",
+      "kind": "text",
+      "section": "চিত্র ১১.০৪ : রেজিস্ট্যান্সের কারণে বিভব পার্থক্যের স্যাপেক্ষে বিদ্যুৎপ্রবাহ। — বিদ্যুৎপ্রবাহ (mA) vs বিভব পার্থক্য (V)",
+      "caption": null,
+      "body": "গ্রাফে পরীক্ষণের ফলাফল বসানো হলে সেটা 11.04 (a) চিত্রের মতো দেখাবে, অর্থাৎ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 310,
+      "pdfPageEnd": 310,
+      "printedPageStart": 305,
+      "printedPageEnd": 305,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p008",
+      "kind": "formula",
+      "section": "চিত্র ১১.০৪ : রেজিস্ট্যান্সের কারণে বিভব পার্থক্যের স্যাপেক্ষে বিদ্যুৎপ্রবাহ। — বিদ্যুৎপ্রবাহ (mA) vs বিভব পার্থক্য (V)",
+      "caption": null,
+      "body": "$$I \\propto V$$",
+      "image": null,
+      "formulas": [
+        "I \\propto V"
+      ],
+      "pdfPageStart": 310,
+      "pdfPageEnd": 310,
+      "printedPageStart": 305,
+      "printedPageEnd": 305,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p009",
+      "kind": "text",
+      "section": "চিত্র ১১.০৪ : রেজিস্ট্যান্সের কারণে বিভব পার্থক্যের স্যাপেক্ষে বিদ্যুৎপ্রবাহ। — বিদ্যুৎপ্রবাহ (mA) vs বিভব পার্থক্য (V)",
+      "caption": null,
+      "body": "আমরা যদি অন্য কোনো উপাদানের তৈরি একটা তার দিয়ে একই পরীক্ষণটি করি, তাহলে একই ধরনের ফলাফল পাব। তবে সরলরেখার ঢালটা হয়তো অন্য রকম হবে (চিত্র 11.04 (b))। এখন এই দুটি পরীক্ষণের ফলাফল যদি বিশ্লেষণ করি তাহলে বুঝতে পারব প্রথমে একটা নির্দিষ্ট বিভব পার্থক্য যতটুকু বিদ্যুৎ প্রবাহিত হয়েছে দ্বিতীয় বস্তুর জন্য সেই একই বিভব পার্থক্য বিদ্যুৎপ্রবাহ হচ্ছে কম। প্রথমটিতে যেন বিদ্যুৎপ্রবাহ তুলনামূলকভাবে সহজ, দ্বিতীয়টিতে যেন বিদ্যুৎপ্রবাহের বাধা একটু বেশি। বিষয়টা ব্যাখ্যা করার জন্য বিদ্যুৎপ্রবাহের বাধা (Resistance) বা সত্যি সত্যি রোধ নামের একটা রাশি তৈরি করা হয়েছে। আমরা দেখতে পারি বিভব পার্থক্য এবং বিদ্যুৎপ্রবাহের সম্পর্কটি একটা সূত্র হিসেবে লেখা যায় যেটি ও’মের সূত্র (Ohm’s Law) হিসেবে পরিচিত।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 310,
+      "pdfPageEnd": 310,
+      "printedPageStart": 305,
+      "printedPageEnd": 305,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p010",
+      "kind": "formula",
+      "section": "চিত্র ১১.০৪ : রেজিস্ট্যান্সের কারণে বিভব পার্থক্যের স্যাপেক্ষে বিদ্যুৎপ্রবাহ। — বিদ্যুৎপ্রবাহ (mA) vs বিভব পার্থক্য (V)",
+      "caption": null,
+      "body": "$$I = \\frac{V}{R}$$",
+      "image": null,
+      "formulas": [
+        "I = \\frac{V}{R}"
+      ],
+      "pdfPageStart": 310,
+      "pdfPageEnd": 310,
+      "printedPageStart": 305,
+      "printedPageEnd": 305,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p011",
+      "kind": "text",
+      "section": "চিত্র ১১.০৪ : রেজিস্ট্যান্সের কারণে বিভব পার্থক্যের স্যাপেক্ষে বিদ্যুৎপ্রবাহ। — বিদ্যুৎপ্রবাহ (mA) vs বিভব পার্থক্য (V)",
+      "caption": null,
+      "body": "অর্থাৎ রোধ বেশি হলে বিদ্যুৎপ্রবাহ হবে কম। রোধ কম হলে বিদ্যুৎ প্রবাহ হবে বেশি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 310,
+      "pdfPageEnd": 310,
+      "printedPageStart": 305,
+      "printedPageEnd": 305,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p012",
+      "kind": "text",
+      "section": "চিত্র ১১.০৪ : রেজিস্ট্যান্সের কারণে বিভব পার্থক্যের স্যাপেক্ষে বিদ্যুৎপ্রবাহ। — বিদ্যুৎপ্রবাহ (mA) vs বিভব পার্থক্য (V)",
+      "caption": null,
+      "body": "এই রোধ বা Resistance-এর একক হচ্ছে Ohm। এটাকে গ্রিক অক্ষর $\\Omega$ (ওমেগা) দিয়ে প্রকাশ করা হয়। কোনো বস্তুর দুই প্রান্তে 1 V বিভব পার্থক্য প্রযুক্ত হলে যদি দেখা যায় 1 A বিদ্যুৎ প্রবাহিত হচ্ছে তাহলে বুঝতে হবে সেই বস্তুর রোধ $1\\Omega$।",
+      "image": null,
+      "formulas": [
+        "\\Omega",
+        "1\\Omega"
+      ],
+      "pdfPageStart": 310,
+      "pdfPageEnd": 310,
+      "printedPageStart": 305,
+      "printedPageEnd": 305,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p013",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** মজা করার জন্য ও’মের সূত্রটি থেকে তোমরা লিখতে পারো:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 310,
+      "pdfPageEnd": 310,
+      "printedPageStart": 305,
+      "printedPageEnd": 305,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p014",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$\\frac{V}{I \\times R}$$",
+      "image": null,
+      "formulas": [
+        "\\frac{V}{I \\times R}"
+      ],
+      "pdfPageStart": 310,
+      "pdfPageEnd": 310,
+      "printedPageStart": 305,
+      "printedPageEnd": 305,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p015",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "একটু বড় করে লিখে আঁকুল দিয়ে V, I কিংবা R এর যেকোনো একটি চেকে দাও, যেটি চেকে দিয়েছ তার মানটি যেটুকু ঢাকা পড়েনি সেখান থেকে পেয়ে যাবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 311,
+      "pdfPageEnd": 311,
+      "printedPageStart": 306,
+      "printedPageEnd": 306,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p016",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "উত্তর: ১১.০৫ চিত্রটিতে বিষয়টি করে দেখানো হয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 311,
+      "pdfPageEnd": 311,
+      "printedPageStart": 306,
+      "printedPageEnd": 306,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p017",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "drawing: Ohm's law diagram showing V over IXR, V over R, V over I, and V over IXR with finger indicators",
+      "image": "p311-page_9_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 311,
+      "pdfPageEnd": 311,
+      "printedPageStart": 306,
+      "printedPageEnd": 306,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p018",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**চিত্র ১১.০৫: ও’মের সূত্র এই চিত্রটি দিয়ে ব্যবহার করা সম্ভব। আঁকুল দিয়ে ঢাকা রাশিটির মান বাকি দুটি রাশি দিয়ে প্রকাশ করা সম্ভব।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 311,
+      "pdfPageEnd": 311,
+      "printedPageStart": 306,
+      "printedPageEnd": 306,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p019",
+      "kind": "text",
+      "section": "১১.২.২ রোধ",
+      "caption": null,
+      "body": "রোধ হচ্ছে বিদ্যুৎ প্রবাহের বাধা, তাই কোনো পদার্থের দৈর্ঘ্য (L) যত বেশি হবে তার বাধা তত বেশি হবে অর্থাৎ রোধও বেশি হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 311,
+      "pdfPageEnd": 311,
+      "printedPageStart": 306,
+      "printedPageEnd": 306,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p020",
+      "kind": "formula",
+      "section": "১১.২.২ রোধ",
+      "caption": null,
+      "body": "$$R \\propto L$$",
+      "image": null,
+      "formulas": [
+        "R \\propto L"
+      ],
+      "pdfPageStart": 311,
+      "pdfPageEnd": 311,
+      "printedPageStart": 306,
+      "printedPageEnd": 306,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p021",
+      "kind": "text",
+      "section": "১১.২.২ রোধ",
+      "caption": null,
+      "body": "আবার সর্বু একটা পথ দিয়ে যত সহজে বিদ্যুৎ প্রবাহিত হতে পারে, চওড়া একটা পথ দিয়ে তার থেকে অনেক সহজে বিদ্যুৎ প্রবাহিত হতে পারে অর্থাৎ প্রস্থচ্ছেদ (A) যত বেশি হবে রোধ তত কম হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 311,
+      "pdfPageEnd": 311,
+      "printedPageStart": 306,
+      "printedPageEnd": 306,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p022",
+      "kind": "formula",
+      "section": "১১.২.২ রোধ",
+      "caption": null,
+      "body": "$$R \\propto \\frac{1}{A}$$",
+      "image": null,
+      "formulas": [
+        "R \\propto \\frac{1}{A}"
+      ],
+      "pdfPageStart": 311,
+      "pdfPageEnd": 311,
+      "printedPageStart": 306,
+      "printedPageEnd": 306,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p023",
+      "kind": "text",
+      "section": "১১.২.২ রোধ",
+      "caption": null,
+      "body": "এই দুটি বিষয়কে আমরা যদি একসাথে অনুপাতিক না লিখে সমীকরণ হিসেবে লিখতে চাই তাহলে একটা ধ্রুবক $\\rho$ ব্যবহার করতে হবে। অর্থাৎ রোধ $R$ হচ্ছে",
+      "image": null,
+      "formulas": [
+        "\\rho",
+        "R"
+      ],
+      "pdfPageStart": 311,
+      "pdfPageEnd": 311,
+      "printedPageStart": 306,
+      "printedPageEnd": 306,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p024",
+      "kind": "formula",
+      "section": "১১.২.২ রোধ",
+      "caption": null,
+      "body": "$$R = \\rho \\frac{L}{A}$$",
+      "image": null,
+      "formulas": [
+        "R = \\rho \\frac{L}{A}"
+      ],
+      "pdfPageStart": 311,
+      "pdfPageEnd": 311,
+      "printedPageStart": 306,
+      "printedPageEnd": 306,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p025",
+      "kind": "text",
+      "section": "১১.২.২ রোধ",
+      "caption": null,
+      "body": "যেখানে ধ্রুবক $\\rho$ হচ্ছে $\\rho = R \\frac{A}{L}$ একটা নির্দিষ্ট পদার্থের জন্য $\\rho$ হচ্ছে আপেক্ষিক রোধ এবং তাই এর একক হচ্ছে $\\Omega$ m.",
+      "image": null,
+      "formulas": [
+        "\\rho",
+        "\\rho = R \\frac{A}{L}",
+        "\\rho",
+        "\\Omega"
+      ],
+      "pdfPageStart": 311,
+      "pdfPageEnd": 312,
+      "printedPageStart": 306,
+      "printedPageEnd": 307,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p026",
+      "kind": "text",
+      "section": "১১.২.২ রোধ",
+      "caption": null,
+      "body": "কোনো পদার্থ কতটুকু বিদ্যুৎ পরিবাহী সেটা বোঝানোর জন্য পরিবাহিতা বলে একটা রাশি $\\sigma$ তৈরি করা হয়েছে, যে পদার্থ যত বেশি বিদ্যুৎ পরিবাহী তার পরিবাহিতা তত বেশি, যেটা আপেক্ষিক রোধ $\\rho$ (টেবিল ১১.০১) এর ঠিক বিপরীত।",
+      "image": null,
+      "formulas": [
+        "\\sigma",
+        "\\rho"
+      ],
+      "pdfPageStart": 312,
+      "pdfPageEnd": 312,
+      "printedPageStart": 307,
+      "printedPageEnd": 307,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p027",
+      "kind": "table",
+      "section": "১১.২.২ রোধ",
+      "caption": "টেবিল ১১.০১ : পদার্থের আপেক্ষিক রোধ",
+      "body": "<table><tr><th>পদার্থ</th><th>আপেক্ষিক রোধ ($\\Omega$ m)</th></tr>\n<tr><td>বুপা</td><td>$1.59 \\times 10^{-8}$</td></tr>\n<tr><td>তামা</td><td>$1.68 \\times 10^{-8}$</td></tr>\n<tr><td>সোনা</td><td>$2.44 \\times 10^{-8}$</td></tr>\n<tr><td>গ্রাফাইট</td><td>$2.50 \\times 10^{-6}$</td></tr>\n<tr><td>হীরা</td><td>$1.00 \\times 10^{12}$</td></tr>\n<tr><td>বাতাস</td><td>$1.30 \\times 10^{16}$</td></tr></table>",
+      "image": null,
+      "formulas": [
+        "\\Omega",
+        "1.59 \\times 10^{-8}",
+        "1.68 \\times 10^{-8}",
+        "2.44 \\times 10^{-8}",
+        "2.50 \\times 10^{-6}",
+        "1.00 \\times 10^{12}",
+        "1.30 \\times 10^{16}"
+      ],
+      "pdfPageStart": 312,
+      "pdfPageEnd": 312,
+      "printedPageStart": 307,
+      "printedPageEnd": 307,
+      "reviewReasons": [
+        "verify-formula",
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p028",
+      "kind": "formula",
+      "section": "১১.২.২ রোধ",
+      "caption": null,
+      "body": "$$\\sigma = \\frac{1}{\\rho}$$",
+      "image": null,
+      "formulas": [
+        "\\sigma = \\frac{1}{\\rho}"
+      ],
+      "pdfPageStart": 312,
+      "pdfPageEnd": 312,
+      "printedPageStart": 307,
+      "printedPageEnd": 307,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p029",
+      "kind": "text",
+      "section": "১১.২.২ রোধ",
+      "caption": null,
+      "body": "পরিবাহিতা $\\sigma$ এর একক হচ্ছে $(\\Omega  m)^{-1}$",
+      "image": null,
+      "formulas": [
+        "\\sigma",
+        "(\\Omega  m)^{-1}"
+      ],
+      "pdfPageStart": 312,
+      "pdfPageEnd": 312,
+      "printedPageStart": 307,
+      "printedPageEnd": 307,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p030",
+      "kind": "text",
+      "section": "১১.২.২ রোধ",
+      "caption": null,
+      "body": "এখানে একটা বিষয় মনে রাখতে হবে কোনো পদার্থের রোধ হচ্ছে ইলেকট্রন প্রবাহের বাধা, অর্থাৎ পরমাণুগুলো যত বেশি কাঁপাকাঁপি করে একটা ইলেকট্রন তাদের ভেতর দিয়ে যেতে তত বেশি বাধাগ্রস্ত হয়, কিংবা তার রোধ তত বেশি। তাপমাত্রা বাড়িয়ে দিলে যেহেতু অর্থাৎ পরমাণুগুলো বেশি কাঁপাকাঁপি করে, তাই সব সময়ই তাপমাত্রা বাড়ালে পরিবাহী পদার্থের আপেক্ষিক রোধ বেড়ে যায়। সেজন্য যখন কোনো পদার্থের রোধ বা আপেক্ষিক রোধ প্রকাশ করতে হয় তখন তার জন্য তাপমাত্রাটা নির্দিষ্ট করে বলে দিতে হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 312,
+      "pdfPageEnd": 312,
+      "printedPageStart": 307,
+      "printedPageEnd": 307,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p031",
+      "kind": "text",
+      "section": "১১.২.২ রোধ",
+      "caption": null,
+      "body": "**স্থির মানের রোধ:** বিভিন্ন বর্তনী বা সার্কিটে ব্যবহার করার জন্য নির্দিষ্ট মানের রোধ বা রেজিস্টর ব্যবহার করা হয়। এগুলো নানা আকারের এবং নানা ধরনের হতে পারে। ল্যাবরেটরিতে ব্যবহার করার জন্য যে রোধ ব্যবহার করা হয় সাধারণত তার উপরে বিভিন্ন রঙের ব্যান্ডের মাধ্যমে তার মান প্রকাশ করা হয়। একটি রোধের মান ছাড়াও সেটি কত বৈদ্যুতিক ক্ষমতা সহ্য করতে পারবে সেটিও নির্দিষ্ট করে দেওয়া থাকে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 312,
+      "pdfPageEnd": 312,
+      "printedPageStart": 307,
+      "printedPageEnd": 307,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p032",
+      "kind": "figure",
+      "section": "১১.২.২ রোধ",
+      "caption": null,
+      "body": "photo: resistors and a rheostat",
+      "image": "p312-page_10_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 312,
+      "pdfPageEnd": 312,
+      "printedPageStart": 307,
+      "printedPageEnd": 307,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p033",
+      "kind": "figure",
+      "section": "১১.২.২ রোধ",
+      "caption": null,
+      "body": "**চিত্র ১১.০৬: (a) স্থির এবং (b) পরিবর্তী রোধ**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 312,
+      "pdfPageEnd": 312,
+      "printedPageStart": 307,
+      "printedPageEnd": 307,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p034",
+      "kind": "text",
+      "section": "১১.২.২ রোধ",
+      "caption": null,
+      "body": "**পরিবর্তী রোধ:** মাঝে মাঝেই কোনো বৈদ্যুতিক বর্তনীতে একটি রোধের প্রয়োজন হয়, যেটির মান প্রয়োজনমতো পরিবর্তন করা যেতে পারে। যে ধরনের রোধের মান একটি নির্দিষ্ট সীমার ভেতরে পরিবর্তন করা যায় সেটিকে পরিবর্তী রোধ বা রিওস্টেট বলে। স্থির রোধের দুটি প্রান্ত থাকে, পরিবর্তী রোধে দুই প্রান্ত ছাড়াও মাঝখানে আরেকটি প্রান্ত থাকে, যেখানে পরিবর্তন করা রোধের মানটুকু পাওয়া যায়। ১১.০৬ চিত্রে স্থির এবং পরিবর্তী রোধের ছবি দেখানো হয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 313,
+      "pdfPageEnd": 313,
+      "printedPageStart": 308,
+      "printedPageEnd": 308,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p035",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** রুপা, তামা, টাংস্টেন ও নাইক্রোম তারের আপেক্ষিক রোধ $\\rho$ যথাক্রমে $1.6 \\times 10^{-8} \\ \\Omega  m$, $1.7 \\times 10^{-8} \\ \\Omega  m$, $5.5 \\times 10^{-8} \\ \\Omega  m$ ও $100 \\times 10^{-8} \\ \\Omega  m$ এসব পদার্থের $1  m^2$ প্রস্থচ্ছেদ ক্ষেত্রফল বিশিষ্ট তার ব্যবহার করে $1 \\ \\Omega$ রোধ তৈরি করো।",
+      "image": null,
+      "formulas": [
+        "\\rho",
+        "1.6 \\times 10^{-8} \\ \\Omega  m",
+        "1.7 \\times 10^{-8} \\ \\Omega  m",
+        "5.5 \\times 10^{-8} \\ \\Omega  m",
+        "100 \\times 10^{-8} \\ \\Omega  m",
+        "1  m^2",
+        "1 \\ \\Omega"
+      ],
+      "pdfPageStart": 313,
+      "pdfPageEnd": 313,
+      "printedPageStart": 308,
+      "printedPageEnd": 308,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p036",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** আমরা জানি, রোধ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 313,
+      "pdfPageEnd": 313,
+      "printedPageStart": 308,
+      "printedPageEnd": 308,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p037",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$R = \\frac{\\rho L}{A}$$",
+      "image": null,
+      "formulas": [
+        "R = \\frac{\\rho L}{A}"
+      ],
+      "pdfPageStart": 313,
+      "pdfPageEnd": 313,
+      "printedPageStart": 308,
+      "printedPageEnd": 308,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p038",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "যেখানে $L$ দৈর্ঘ্য এবং $A$ প্রস্থচ্ছেদ।",
+      "image": null,
+      "formulas": [
+        "L",
+        "A"
+      ],
+      "pdfPageStart": 313,
+      "pdfPageEnd": 313,
+      "printedPageStart": 308,
+      "printedPageEnd": 308,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p039",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "এখানে $A = 1  m^2$",
+      "image": null,
+      "formulas": [
+        "A = 1  m^2"
+      ],
+      "pdfPageStart": 313,
+      "pdfPageEnd": 313,
+      "printedPageStart": 308,
+      "printedPageEnd": 308,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p040",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$L = \\frac{RA}{\\rho} = \\frac{1 \\times 1 \\ \\Omega m^2}{\\rho} = \\frac{1 \\ \\Omega m^2}{\\rho}$$",
+      "image": null,
+      "formulas": [
+        "L = \\frac{RA}{\\rho} = \\frac{1 \\times 1 \\ \\Omega m^2}{\\rho} = \\frac{1 \\ \\Omega m^2}{\\rho}"
+      ],
+      "pdfPageStart": 313,
+      "pdfPageEnd": 313,
+      "printedPageStart": 308,
+      "printedPageEnd": 308,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p041",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**রুপার জন্য:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 313,
+      "pdfPageEnd": 313,
+      "printedPageStart": 308,
+      "printedPageEnd": 308,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p042",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$L = \\frac{1 m}{1.6 \\times 10^{-8}} = 6.25 \\times 10^7  m$$",
+      "image": null,
+      "formulas": [
+        "L = \\frac{1 m}{1.6 \\times 10^{-8}} = 6.25 \\times 10^7  m"
+      ],
+      "pdfPageStart": 313,
+      "pdfPageEnd": 313,
+      "printedPageStart": 308,
+      "printedPageEnd": 308,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p043",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**তামার জন্য:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 313,
+      "pdfPageEnd": 313,
+      "printedPageStart": 308,
+      "printedPageEnd": 308,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p044",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$L = \\frac{1 m}{1.7 \\times 10^{-8}} = 5.9 \\times 10^7  m$$",
+      "image": null,
+      "formulas": [
+        "L = \\frac{1 m}{1.7 \\times 10^{-8}} = 5.9 \\times 10^7  m"
+      ],
+      "pdfPageStart": 313,
+      "pdfPageEnd": 313,
+      "printedPageStart": 308,
+      "printedPageEnd": 308,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p045",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**টাংস্টেনের জন্য:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 313,
+      "pdfPageEnd": 313,
+      "printedPageStart": 308,
+      "printedPageEnd": 308,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p046",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$L = \\frac{1 m}{5.5 \\times 10^{-8}} = 1.8 \\times 10^7  m$$",
+      "image": null,
+      "formulas": [
+        "L = \\frac{1 m}{5.5 \\times 10^{-8}} = 1.8 \\times 10^7  m"
+      ],
+      "pdfPageStart": 313,
+      "pdfPageEnd": 313,
+      "printedPageStart": 308,
+      "printedPageEnd": 308,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p047",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**নাইক্রোমের জন্য:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 313,
+      "pdfPageEnd": 313,
+      "printedPageStart": 308,
+      "printedPageEnd": 308,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p048",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$L = \\frac{1 m}{100 \\times 10^{-8}} = 10^6  m$$",
+      "image": null,
+      "formulas": [
+        "L = \\frac{1 m}{100 \\times 10^{-8}} = 10^6  m"
+      ],
+      "pdfPageStart": 313,
+      "pdfPageEnd": 313,
+      "printedPageStart": 308,
+      "printedPageEnd": 308,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p049",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "দেখতেই পাচ্ছ $1 \\ \\Omega$ রোধ তৈরি করার জন্য অনেক দীর্ঘ (প্রায় লক্ষ কিলোমিটার) পদার্থ নিতে হয়। বাস্তবে কখনোই $A = 1  m^2$ হয় না দৈনন্দিন ব্যবহারের জন্য অনেক সরু তার ব্যবহার করা হয়। যদি $0.1  mm$ ব্যাসারের প্রস্থচ্ছেদ নির্দিষ্ট করে দিই তাহলে $1 \\ \\Omega$ রোধ তৈরি করতে কত দীর্ঘ তারের প্রয়োজন?",
+      "image": null,
+      "formulas": [
+        "1 \\ \\Omega",
+        "A = 1  m^2",
+        "0.1  mm",
+        "1 \\ \\Omega"
+      ],
+      "pdfPageStart": 313,
+      "pdfPageEnd": 313,
+      "printedPageStart": 308,
+      "printedPageEnd": 308,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p050",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "আমরা জানি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 314,
+      "pdfPageEnd": 314,
+      "printedPageStart": 309,
+      "printedPageEnd": 309,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p051",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$L = \\frac{RA}{\\rho}$$",
+      "image": null,
+      "formulas": [
+        "L = \\frac{RA}{\\rho}"
+      ],
+      "pdfPageStart": 314,
+      "pdfPageEnd": 314,
+      "printedPageStart": 309,
+      "printedPageEnd": 309,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p052",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$A = \\pi r^2 = \\pi(10^{-4})^2 m^2 = 3.14 \\times 10^{-8} m^2$$",
+      "image": null,
+      "formulas": [
+        "A = \\pi r^2 = \\pi(10^{-4})^2 m^2 = 3.14 \\times 10^{-8} m^2"
+      ],
+      "pdfPageStart": 314,
+      "pdfPageEnd": 314,
+      "printedPageStart": 309,
+      "printedPageEnd": 309,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p053",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "রূপার জন্য:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 314,
+      "pdfPageEnd": 314,
+      "printedPageStart": 309,
+      "printedPageEnd": 309,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p054",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$L = \\frac{3.14 \\times 10^{-8} m}{1.6 \\times 10^{-8}} = 1.96 m$$",
+      "image": null,
+      "formulas": [
+        "L = \\frac{3.14 \\times 10^{-8} m}{1.6 \\times 10^{-8}} = 1.96 m"
+      ],
+      "pdfPageStart": 314,
+      "pdfPageEnd": 314,
+      "printedPageStart": 309,
+      "printedPageEnd": 309,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p055",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "তামার জন্য:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 314,
+      "pdfPageEnd": 314,
+      "printedPageStart": 309,
+      "printedPageEnd": 309,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p056",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$L = \\frac{3.14 \\times 10^{-8} m}{1.7 \\times 10^{-8}} = 1.84 m$$",
+      "image": null,
+      "formulas": [
+        "L = \\frac{3.14 \\times 10^{-8} m}{1.7 \\times 10^{-8}} = 1.84 m"
+      ],
+      "pdfPageStart": 314,
+      "pdfPageEnd": 314,
+      "printedPageStart": 309,
+      "printedPageEnd": 309,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p057",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "টাংস্টেনের জন্য:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 314,
+      "pdfPageEnd": 314,
+      "printedPageStart": 309,
+      "printedPageEnd": 309,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p058",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$L = \\frac{3.14 \\times 10^{-8} m}{5.5 \\times 10^{-8}} = 0.57 m = 57  cm$$",
+      "image": null,
+      "formulas": [
+        "L = \\frac{3.14 \\times 10^{-8} m}{5.5 \\times 10^{-8}} = 0.57 m = 57  cm"
+      ],
+      "pdfPageStart": 314,
+      "pdfPageEnd": 314,
+      "printedPageStart": 309,
+      "printedPageEnd": 309,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p059",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "নাইক্রোমের জন্য:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 314,
+      "pdfPageEnd": 314,
+      "printedPageStart": 309,
+      "printedPageEnd": 309,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p060",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$L = \\frac{3.14 \\times 10^{-8} m}{100 \\times 10^{-8}} = 0.03 m = 3  cm$$",
+      "image": null,
+      "formulas": [
+        "L = \\frac{3.14 \\times 10^{-8} m}{100 \\times 10^{-8}} = 0.03 m = 3  cm"
+      ],
+      "pdfPageStart": 314,
+      "pdfPageEnd": 314,
+      "printedPageStart": 309,
+      "printedPageEnd": 309,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p061",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "পরিবাহীতে তাপমাত্রা বাড়ালে রোধ বেড়ে যায়; কিন্তু অর্ধপরিবাহীর বা সেমিকন্ডাক্টরের বোঝায় ঠিক তার উল্টো ব্যাপারটা ঘটে। সেমিকন্ডাক্টরে তাপমাত্রা বাড়ালে রোধ কমে যায়। তার কারণ পরিবাহীতে যেমন বিদ্যুৎপ্রবাহের জন্য মুক্ত ইলেকট্রন রয়েছে, সেমিকন্ডাক্টরে তা নেই। সেখানে তাপমাত্রা বাড়ালেই শুধু কিছু ইলেকট্রন বিদ্যুৎপ্রবাহের জন্য পাওয়া যায়। তাই সেখানে তাপমাত্রা বাড়ালে রোধ কমে যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 314,
+      "pdfPageEnd": 314,
+      "printedPageStart": 309,
+      "printedPageEnd": 309,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p062",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "> ফিলামেন্ট যুক্ত লাইট বাল্বের ফিলামেন্ট ও’মের সূত্র মানছে কি না পরীক্ষা করা কঠিন কেন?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 314,
+      "pdfPageEnd": 314,
+      "printedPageStart": 309,
+      "printedPageEnd": 309,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p063",
+      "kind": "text",
+      "section": "১১.২.৩ বর্তনী বা সার্কিট বিশ্লেষণ (Circuit Analysis)",
+      "caption": null,
+      "body": "আমরা যদি ও’মের সূত্র বুঝে থাকি তাহলে আমরা এখন সার্কিট বিশ্লেষণ করতে পারি। সেটা করার আগে সার্কিটে ব্যবহার করা হয় এ রকম কয়েকটি প্রতীকের সাথে আগে পরিচিত হবো: (চিত্র ১১.০৭)",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 314,
+      "pdfPageEnd": 314,
+      "printedPageStart": 309,
+      "printedPageEnd": 309,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p064",
+      "kind": "text",
+      "section": "১১.২.৩ বর্তনী বা সার্কিট বিশ্লেষণ (Circuit Analysis)",
+      "caption": null,
+      "body": "সব পদার্থেরই কিছু না কিছু রোধ আছে কিন্তু আমাদের দৈনন্দিন জীবনে বর্তনীতে ব্যবহারের সময় বৈদ্যুতিক তারের রোধকে আমরা ধরবোর মাঝে নেই না। যখন রোধ প্রয়োজন হয়, তখন আমরা বিশেষভাবে তৈরি বিভিন্ন মানের রোধ ব্যবহার করি। কখনো কখনো বিশেষ প্রয়োজনে এমন রোধ ব্যবহার করা হয় যেখানে রোধের মানটি পরিবর্তনও করা যায়, এগুলোকে পরিবর্তনশীল রোধ বলে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 314,
+      "pdfPageEnd": 314,
+      "printedPageStart": 309,
+      "printedPageEnd": 309,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p065",
+      "kind": "text",
+      "section": "১১.২.৩ বর্তনী বা সার্কিট বিশ্লেষণ (Circuit Analysis)",
+      "caption": null,
+      "body": "কোনো সার্কিট বিশ্লেষণ করতে হলে নিচের কয়েকটা সোজা বিষয় মনে রাখাই যথেষ্ট:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 315,
+      "pdfPageEnd": 315,
+      "printedPageStart": 310,
+      "printedPageEnd": 310,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p066",
+      "kind": "figure",
+      "section": "১১.২.৩ বর্তনী বা সার্কিট বিশ্লেষণ (Circuit Analysis)",
+      "caption": null,
+      "body": "drawing: electrical circuit symbols chart",
+      "image": "p315-page_13_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 315,
+      "pdfPageEnd": 315,
+      "printedPageStart": 310,
+      "printedPageEnd": 310,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p067",
+      "kind": "figure",
+      "section": "১১.২.৩ বর্তনী বা সার্কিট বিশ্লেষণ (Circuit Analysis)",
+      "caption": null,
+      "body": "**চিত্র ১১.০৭: সার্কিট বা বর্তনীতে ব্যবহৃত হয় এ রকম কিছু প্রতীক।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 315,
+      "pdfPageEnd": 315,
+      "printedPageStart": 310,
+      "printedPageEnd": 310,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p068",
+      "kind": "text",
+      "section": "১১.২.৩ বর্তনী বা সার্কিট বিশ্লেষণ (Circuit Analysis)",
+      "caption": null,
+      "body": "(a) বিদ্যুতের উৎসের (ব্যাটারি, জেনারেটর যা-ই হোক) উচ্চ বিভব থেকে যে পরিমাণ বিদ্যুৎ বের হয়, পুরো বর্তনীর ভেতর দিয়ে প্রবাহিত হয়ে ঠিক সেই পরিমাণ বিদ্যুৎ কম বিভবে ফিরে আসে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 315,
+      "pdfPageEnd": 315,
+      "printedPageStart": 310,
+      "printedPageEnd": 310,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p069",
+      "kind": "text",
+      "section": "১১.২.৩ বর্তনী বা সার্কিট বিশ্লেষণ (Circuit Analysis)",
+      "caption": null,
+      "body": "(b) বর্তনীর যেকোনো জায়গায় যেকোনো বিন্দুতে যে পরিমাণ বিদ্যুৎ ঢোকে ঠিক সেই পরিমাণ বিদ্যুৎ বের হয়ে যায়, সার্কিটের ভেতরে বিদ্যুতের কোনো সৃষ্টি বা ধ্বংস নেই কারণ চার্জ বা আধানের ক্ষেত্রে ধ্বংস বা সৃষ্টি হয় না; শুধু স্থানান্তর হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 315,
+      "pdfPageEnd": 315,
+      "printedPageStart": 310,
+      "printedPageEnd": 310,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p070",
+      "kind": "text",
+      "section": "১১.২.৩ বর্তনী বা সার্কিট বিশ্লেষণ (Circuit Analysis)",
+      "caption": null,
+      "body": "(c) সার্কিটের ভেতরে যেকোনো অংশের দুই বিন্দুতে ও’হমের সূত্র সব সময় সত্যি হবে, অর্থাৎ সেই দুই অংশের যে পরিমাণ বিভব পার্থক্য রয়েছে তাকে সেই অংশের রোধ দিয়ে ভাগ দিলেই তার ভেতর দিয়ে প্রবাহিত বিদ্যুতের মান পাওয়া যাবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 315,
+      "pdfPageEnd": 315,
+      "printedPageStart": 310,
+      "printedPageEnd": 310,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p071",
+      "kind": "figure",
+      "section": "১১.২.৩ বর্তনী বা সার্কিট বিশ্লেষণ (Circuit Analysis)",
+      "caption": null,
+      "body": "drawing: Two electrical circuit diagrams labeled (a) and (b)",
+      "image": "p315-page_13_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 315,
+      "pdfPageEnd": 315,
+      "printedPageStart": 310,
+      "printedPageEnd": 310,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p072",
+      "kind": "figure",
+      "section": "১১.২.৩ বর্তনী বা সার্কিট বিশ্লেষণ (Circuit Analysis)",
+      "caption": null,
+      "body": "**চিত্র ১১.০৮: একটি ব্যাটারি এবং একটি রোধ বা রেজিস্টর সংযুক্ত দুটি বর্তনী বা সার্কিট।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 315,
+      "pdfPageEnd": 315,
+      "printedPageStart": 310,
+      "printedPageEnd": 310,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p073",
+      "kind": "text",
+      "section": "১১.২.৩ বর্তনী বা সার্কিট বিশ্লেষণ (Circuit Analysis)",
+      "caption": null,
+      "body": "আমরা এখন যেকোনো বর্তনী বা সার্কিট বিশ্লেষণ করতে প্রস্তুত। একটা সার্কিটের যেকোনো অংশ দিয়ে কতটুকু বিদ্যুৎ প্রবাহিত হচ্ছে এবং যেকোনো অংশের দুই প্রান্তের বিভব পার্থক্য কত সেটা জানলেই আমরা ধরে নেব সার্কিটটা আমরা পুরোপুরি বুঝে গেছি। একটা সার্কিটে ব্যাটারি, রোধ, ক্যাপাসিটর, ডায়োড, ট্রানজিস্টর অনেক কিছু থাকতে পারে। তবে আমরা আপাতত শুধু ব্যাটারি আর রোধ দিয়ে তৈরি সার্কিট বিশ্লেষণ করব। সার্কিটে বিভিন্ন রোধ তামার তার দিয়ে সংযুক্ত করা হয়, যদিও আমরা দেখেছি তামারও একটি আপেক্ষিক রোধ আছে। কিন্তু বাস্তব জীবনে সার্কিটে যে রোধ ব্যবহার করা হয়, তাদের তুলনায় এটি এত কম যে আমরা এটাকে ধর্তবের মাঝেই আনব না। ধরে নেব তামার তারের রোধ নেই। কাজেই একটা তারের সব জায়গায় বিভব সমান।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 316,
+      "pdfPageEnd": 316,
+      "printedPageStart": 311,
+      "printedPageEnd": 311,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p074",
+      "kind": "text",
+      "section": "১১.২.৩ বর্তনী বা সার্কিট বিশ্লেষণ (Circuit Analysis)",
+      "caption": null,
+      "body": "এবারে ১১.০৮ a চিত্রে দেখানো একটা বর্তনী বিশ্লেষণ করা যাক, এখানে একটা রোধকে দুটো তার দিয়ে একটা ব্যাটারি সেলের দুই মাথায় লাগানো হয়েছে। যেহেতু CD অংশটুকু ভূমিসংলগ্ন করা হয়েছে তাই আমরা বলতে পারব ব্যটারির নিচের প্রান্তটির বিভব হচ্ছে শূন্য। তাই ব্যটারির উপরের প্রান্তের বিভব $V$ এবং BC অংশে একটা রোধ, রোধের দুই পাশে বিভব পার্থক্য হচ্ছে",
+      "image": null,
+      "formulas": [
+        "V"
+      ],
+      "pdfPageStart": 316,
+      "pdfPageEnd": 316,
+      "printedPageStart": 311,
+      "printedPageEnd": 311,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p075",
+      "kind": "formula",
+      "section": "১১.২.৩ বর্তনী বা সার্কিট বিশ্লেষণ (Circuit Analysis)",
+      "caption": null,
+      "body": "$$V - 0 = V$$",
+      "image": null,
+      "formulas": [
+        "V - 0 = V"
+      ],
+      "pdfPageStart": 316,
+      "pdfPageEnd": 316,
+      "printedPageStart": 311,
+      "printedPageEnd": 311,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p076",
+      "kind": "text",
+      "section": "১১.২.৩ বর্তনী বা সার্কিট বিশ্লেষণ (Circuit Analysis)",
+      "caption": null,
+      "body": "কাজেই রোধ যদি $R$ হয় তাহলে এর ভেতর দিয়ে যে বিদ্যুৎ $I$ প্রবাহিত হচ্ছে তার মান",
+      "image": null,
+      "formulas": [
+        "R",
+        "I"
+      ],
+      "pdfPageStart": 316,
+      "pdfPageEnd": 316,
+      "printedPageStart": 311,
+      "printedPageEnd": 311,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p077",
+      "kind": "formula",
+      "section": "১১.২.৩ বর্তনী বা সার্কিট বিশ্লেষণ (Circuit Analysis)",
+      "caption": null,
+      "body": "$$I = \\frac{V}{R}$$",
+      "image": null,
+      "formulas": [
+        "I = \\frac{V}{R}"
+      ],
+      "pdfPageStart": 316,
+      "pdfPageEnd": 316,
+      "printedPageStart": 311,
+      "printedPageEnd": 311,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p078",
+      "kind": "text",
+      "section": "১১.২.৩ বর্তনী বা সার্কিট বিশ্লেষণ (Circuit Analysis)",
+      "caption": null,
+      "body": "কাজেই ব্যটারির A থেকে $I$ বিদ্যুৎ বের হয়ে B বিন্দুতে ঢুকে যাচ্ছে। আমরা এই সার্কিটের প্রত্যেকটা বিন্দুতে বিভব আর বিদ্যুৎ বের করে ফেলেছি।",
+      "image": null,
+      "formulas": [
+        "I"
+      ],
+      "pdfPageStart": 316,
+      "pdfPageEnd": 316,
+      "printedPageStart": 311,
+      "printedPageEnd": 311,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p079",
+      "kind": "text",
+      "section": "১১.২.৩ বর্তনী বা সার্কিট বিশ্লেষণ (Circuit Analysis)",
+      "caption": null,
+      "body": "ধরা যাক হুবহু একই সার্কিটে আমরা যদি DC অংশ ভূমিসংলগ্ন না করে AB অংশ ভূমিসংলগ্ন করি (চিত্র ১১.০৮ b) তাহলে কী হবে? ব্যটারিটা যেহেতু $V$ ভোল্টের তাই A এবং D এর পার্থক্য $V$ থাকতেই হবে, যেহেতু A এর বিভব শূন্য তাই D এর বিভব নিশ্চয়ই $-V$। কাজেই B এবং C এর বিভব পার্থক্য",
+      "image": null,
+      "formulas": [
+        "V",
+        "V",
+        "-V"
+      ],
+      "pdfPageStart": 316,
+      "pdfPageEnd": 316,
+      "printedPageStart": 311,
+      "printedPageEnd": 311,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p080",
+      "kind": "formula",
+      "section": "১১.২.৩ বর্তনী বা সার্কিট বিশ্লেষণ (Circuit Analysis)",
+      "caption": null,
+      "body": "$$0 - (-V) = V$$",
+      "image": null,
+      "formulas": [
+        "0 - (-V) = V"
+      ],
+      "pdfPageStart": 316,
+      "pdfPageEnd": 316,
+      "printedPageStart": 311,
+      "printedPageEnd": 311,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p081",
+      "kind": "text",
+      "section": "১১.২.৩ বর্তনী বা সার্কিট বিশ্লেষণ (Circuit Analysis)",
+      "caption": null,
+      "body": "ভেতরকার রোধ $R$, কাজেই বিদ্যুৎ প্রবাহ:",
+      "image": null,
+      "formulas": [
+        "R"
+      ],
+      "pdfPageStart": 316,
+      "pdfPageEnd": 316,
+      "printedPageStart": 311,
+      "printedPageEnd": 311,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p082",
+      "kind": "formula",
+      "section": "১১.২.৩ বর্তনী বা সার্কিট বিশ্লেষণ (Circuit Analysis)",
+      "caption": null,
+      "body": "$$I = \\frac{V}{R}$$",
+      "image": null,
+      "formulas": [
+        "I = \\frac{V}{R}"
+      ],
+      "pdfPageStart": 316,
+      "pdfPageEnd": 316,
+      "printedPageStart": 311,
+      "printedPageEnd": 311,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p083",
+      "kind": "text",
+      "section": "১১.২.৩ বর্তনী বা সার্কিট বিশ্লেষণ (Circuit Analysis)",
+      "caption": null,
+      "body": "অর্থাৎ ঠিক আগের মান, যেটাই হওয়ার কথা। লক্ষ্য করো বিভবের মান পরিবর্তন হয়েছে কিন্তু পার্থক্য পরিবর্তন হয়নি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 316,
+      "pdfPageEnd": 316,
+      "printedPageStart": 311,
+      "printedPageEnd": 311,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p084",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন: ১১.০৯ a** সার্কিটে A, B, C ও D বিন্দুতে ভোল্টেজ কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 317,
+      "pdfPageEnd": 317,
+      "printedPageStart": 312,
+      "printedPageEnd": 312,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p085",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** C ও D বিন্দুতে ভোল্টেজ 0, A বিন্দুতে ভোল্টেজ 3 V",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 317,
+      "pdfPageEnd": 317,
+      "printedPageStart": 312,
+      "printedPageEnd": 312,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p086",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "B বিন্দুতে ভোল্টেজ বের করার জন্য বর্তনী বা সার্কিটের কারেন্ট I বের করতে হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 317,
+      "pdfPageEnd": 317,
+      "printedPageStart": 312,
+      "printedPageEnd": 312,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p087",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$I = \\frac{V}{R} = \\frac{3}{1 + 2} A = 1.0  A$$",
+      "image": null,
+      "formulas": [
+        "I = \\frac{V}{R} = \\frac{3}{1 + 2} A = 1.0  A"
+      ],
+      "pdfPageStart": 317,
+      "pdfPageEnd": 317,
+      "printedPageStart": 312,
+      "printedPageEnd": 312,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p088",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই A থেকে B বিন্দুতে যেটুকু ভোল্টেজ কম তার পরিমাণ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 317,
+      "pdfPageEnd": 317,
+      "printedPageStart": 312,
+      "printedPageEnd": 312,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p089",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$V = RI = 1 \\Omega \\times 1  A = 1  V$$",
+      "image": null,
+      "formulas": [
+        "V = RI = 1 \\Omega \\times 1  A = 1  V"
+      ],
+      "pdfPageStart": 317,
+      "pdfPageEnd": 317,
+      "printedPageStart": 312,
+      "printedPageEnd": 312,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p090",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই B বিন্দুর ভোল্টেজ $3V - 1V = 2V$",
+      "image": null,
+      "formulas": [
+        "3V - 1V = 2V"
+      ],
+      "pdfPageStart": 317,
+      "pdfPageEnd": 317,
+      "printedPageStart": 312,
+      "printedPageEnd": 312,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p091",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "যেহেতু প্রত্যেকটা বিন্দুর ভোল্টেজ (পটেনশিয়াল বা বিভব) বের হয়ে গেছে, যাচাই করে দেখো সব ক্ষেত্রে ও’মের সূত্র কাজ করেছে কি না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 317,
+      "pdfPageEnd": 317,
+      "printedPageStart": 312,
+      "printedPageEnd": 312,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p092",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "drawing: circuit diagram (a)\ndrawing: circuit diagram (b)",
+      "image": "p317-page_15_image_3_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 317,
+      "pdfPageEnd": 317,
+      "printedPageStart": 312,
+      "printedPageEnd": 312,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p093",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**চিত্র ১১.০৯:** ব্যাটারি এবং একাধিক রেজিস্টর বা রোধ দিয়ে তৈরি দুটি সার্কিট।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 317,
+      "pdfPageEnd": 317,
+      "printedPageStart": 312,
+      "printedPageEnd": 312,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p094",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন: ১১.০৯ b** চিত্রটির সার্কিটে A, B, C, D এবং E বিন্দুতে ভোল্টেজ কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 317,
+      "pdfPageEnd": 317,
+      "printedPageStart": 312,
+      "printedPageEnd": 312,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p095",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** D বিন্দুতে ভোল্টেজ 0 এবং A বিন্দুতে ভোল্টেজ 6 V। আবার E বিন্দুতে ভোল্টেজ কত হতে পারে তা কেমন করে বের করা যেতে পারে সেটা নিয়ে অনেককেই নানা রকম দৃষ্টিভঙ্গি করতে দেখা যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 317,
+      "pdfPageEnd": 317,
+      "printedPageStart": 312,
+      "printedPageEnd": 312,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p096",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "আসলে ব্যাপারটা খুবই সহজ। রেজিস্টরের বা রোধের ভেতর দিয়ে কারেন্ট প্রবাহিত হলেই ভোল্টেজের পরিবর্তন হয়। সার্কিটের এই অংশে কোনো কারেন্ট প্রবাহের সুযোগ নেই। B দিয়ে রওনা দিয়ে E বিন্দুতে পৌঁছে অন্য কোথাও যেতে পারবে না। কাজেই B এবং E বিন্দুতে (কিংবা এর ভেতরে যেকোনো বিন্দুতে) ভোল্টেজের কোনো পরিবর্তন নেই, B বিন্দুতে যে ভোল্টেজ E বিন্দুতে একই ভোল্টেজ।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p097",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "B এবং C বিন্দুর ভোল্টেজ বের করার জন্য কারেন্ট বের করতে হবে। কারেন্ট $I$ হলে",
+      "image": null,
+      "formulas": [
+        "I"
+      ],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p098",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$I = \\frac{V}{R} = \\frac{6 V}{5\\ \\Omega + 10\\ \\Omega + 15\\ \\Omega} = \\frac{1}{5} A$$",
+      "image": null,
+      "formulas": [
+        "I = \\frac{V}{R} = \\frac{6 V}{5\\ \\Omega + 10\\ \\Omega + 15\\ \\Omega} = \\frac{1}{5} A"
+      ],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p099",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই A থেকে B তে ভোল্টেজের পার্থক্য :",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p100",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$V_1 = R_1 I = 5\\ \\Omega \\times \\frac{1}{5} A = 1 V$$",
+      "image": null,
+      "formulas": [
+        "V_1 = R_1 I = 5\\ \\Omega \\times \\frac{1}{5} A = 1 V"
+      ],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p101",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই A বিন্দুতে ভোল্টেজ 6 V হলে B বিন্দুতে ভোল্টেজ 1 V কম অর্থাৎ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p102",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$6 V - V_1 = 6 V - 1 V = 5 V$$",
+      "image": null,
+      "formulas": [
+        "6 V - V_1 = 6 V - 1 V = 5 V"
+      ],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p103",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "B বিন্দুতে যেহেতু ভোল্টেজ 5 V, তাই E বিন্দুতেও ভোল্টেজ 5 V। ঠিক একইভাবে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p104",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$V_2 = R_2 I = 10\\ \\Omega \\times \\frac{1}{5} A = 2 V$$",
+      "image": null,
+      "formulas": [
+        "V_2 = R_2 I = 10\\ \\Omega \\times \\frac{1}{5} A = 2 V"
+      ],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p105",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই C বিন্দুর ভোল্টেজ B বিন্দুর ভোল্টেজ থেকে 2 V কম। অর্থাৎ C বিন্দুর ভোল্টেজ $5 V - 2 V = 3 V$।",
+      "image": null,
+      "formulas": [
+        "5 V - 2 V = 3 V"
+      ],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p106",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "D বিন্দুর ভোল্টেজ 0 সেটা আমরা প্রথমেই বলে দিয়েছি, আসলেই সেটা সত্যি কি না, পরীক্ষা করে দেখতে পারি। D বিন্দুর ভোল্টেজ C বিন্দুর ভোল্টেজ থেকে $V_3$ কম। $V_3$ হচ্ছে",
+      "image": null,
+      "formulas": [
+        "V_3",
+        "V_3"
+      ],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p107",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$V_3 = R_3 I = 15\\ \\Omega \\times \\frac{1}{5} A = 3 V$$",
+      "image": null,
+      "formulas": [
+        "V_3 = R_3 I = 15\\ \\Omega \\times \\frac{1}{5} A = 3 V"
+      ],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p108",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই D বিন্দুর ভোল্টেজ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p109",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$3 V - 3 V = 0, \\quad ঠিক যে রকম ভেবেছিলাম।$$",
+      "image": null,
+      "formulas": [
+        "3 V - 3 V = 0, \\quad ঠিক যে রকম ভেবেছিলাম।"
+      ],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p110",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "drawing: circuit diagram with a 2V battery and two resistors R1=3Ω and R2=6Ω",
+      "image": "p318-page_16_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p111",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন: ১১.১০** চিত্রটিতে দেখানো সার্কিটে $I_1$ এবং $I_2$ এর মান কত?",
+      "image": null,
+      "formulas": [
+        "I_1",
+        "I_2"
+      ],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p112",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** 2 V তড়িৎ চালক শক্তির ব্যাটারির জন্য A বিন্দুতে ভোল্টেজ বা বিভব হলো 2 V। তাই A, B এবং C বিন্দুতে ভোল্টেজ 2 V। D, E এবং F বিন্দুতে ভোল্টেজ 0 ভোল্ট। কাজেই BE রেজিস্টরের ভেতর দিয়ে প্রবাহিত তড়িৎ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p113",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**চিত্র ১১.১০: সমান্তরালভাবে রাখা দুটি রোধ বা রেজিস্টরের একটি সার্কিট।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p114",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$I_1 = \\frac{V}{R_1} = \\frac{2}{3}  A$$",
+      "image": null,
+      "formulas": [
+        "I_1 = \\frac{V}{R_1} = \\frac{2}{3}  A"
+      ],
+      "pdfPageStart": 319,
+      "pdfPageEnd": 319,
+      "printedPageStart": 314,
+      "printedPageEnd": 314,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p115",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "CF রেজিস্টরের ভেতর দিয়ে প্রবাহিত তড়িৎ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 319,
+      "pdfPageEnd": 319,
+      "printedPageStart": 314,
+      "printedPageEnd": 314,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p116",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$I_2 = \\frac{V}{R_2} = \\frac{2}{6}  A = \\frac{1}{3}  A$$",
+      "image": null,
+      "formulas": [
+        "I_2 = \\frac{V}{R_2} = \\frac{2}{6}  A = \\frac{1}{3}  A"
+      ],
+      "pdfPageStart": 319,
+      "pdfPageEnd": 319,
+      "printedPageStart": 314,
+      "printedPageEnd": 314,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p117",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "মোট কারেন্ট",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 319,
+      "pdfPageEnd": 319,
+      "printedPageStart": 314,
+      "printedPageEnd": 314,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p118",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$I = I_1 + I_2 = \\frac{2}{3}  A + \\frac{1}{3}  A = 1  A$$",
+      "image": null,
+      "formulas": [
+        "I = I_1 + I_2 = \\frac{2}{3}  A + \\frac{1}{3}  A = 1  A"
+      ],
+      "pdfPageStart": 319,
+      "pdfPageEnd": 319,
+      "printedPageStart": 314,
+      "printedPageEnd": 314,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p119",
+      "kind": "text",
+      "section": "১১.২.৪ তুল্য রোধ: শ্রেণি সংযোগ (Equivalent Resistance: Series Connection)",
+      "caption": null,
+      "body": "এবারে কোনো বর্তনীতে একাধিক রোধ থাকলে সেগুলোকে কীভাবে একটি তুল্য রোধ হিসেবে বিবেচনা করা যায় আমরা সেই বিষয়টি দেখে নেই। ১১.১১ চিহ্নের সার্কিটে দুটো রোধ লাগানো আছে, যেহেতু C ভূমিসংলগ্ন তাই এর বিভব বা ভোল্টেজ শূন্য এবং A এর বিভব V। আমরা B এর বিভব কত জানি না, কিন্তু এটুকু জানি যে $R_1$ এবং $R_2$ দুটোর ভেতর দিয়েই সমান পরিমাণ বিদ্যুৎ I প্রবাহিত হচ্ছে। আমরা এমনিতেই বলে দিতে পারি যে দুটো রোধের যোগফলটি হবে মোট রোধ R এবং বিদ্যুৎ প্রবাহ হবে $I = V/R$ কিন্তু সেভাবে না লিখে আমরা বরং এটা প্রমাণ করে ফেলি।",
+      "image": null,
+      "formulas": [
+        "R_1",
+        "R_2",
+        "I = V/R"
+      ],
+      "pdfPageStart": 319,
+      "pdfPageEnd": 319,
+      "printedPageStart": 314,
+      "printedPageEnd": 314,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p120",
+      "kind": "figure",
+      "section": "১১.২.৪ তুল্য রোধ: শ্রেণি সংযোগ (Equivalent Resistance: Series Connection)",
+      "caption": null,
+      "body": "drawing: circuit diagram with a voltage source V, resistors R1 and R2, and current I",
+      "image": "p319-page_17_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 319,
+      "pdfPageEnd": 319,
+      "printedPageStart": 314,
+      "printedPageEnd": 314,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p121",
+      "kind": "figure",
+      "section": "১১.২.৪ তুল্য রোধ: শ্রেণি সংযোগ (Equivalent Resistance: Series Connection)",
+      "caption": null,
+      "body": "**চিত্র ১১.১১: একটি বর্তনী বা সার্কিটে দুটি রোধ পরপর লাগানো।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 319,
+      "pdfPageEnd": 319,
+      "printedPageStart": 314,
+      "printedPageEnd": 314,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p122",
+      "kind": "text",
+      "section": "১১.২.৪ তুল্য রোধ: শ্রেণি সংযোগ (Equivalent Resistance: Series Connection)",
+      "caption": null,
+      "body": "যদি ধরে নিই B এর বিভব $V_B$ তাহলে প্রথম রোধ $R_1$ এর জন্য লিখতে পারি :",
+      "image": null,
+      "formulas": [
+        "V_B",
+        "R_1"
+      ],
+      "pdfPageStart": 319,
+      "pdfPageEnd": 319,
+      "printedPageStart": 314,
+      "printedPageEnd": 314,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p123",
+      "kind": "formula",
+      "section": "১১.২.৪ তুল্য রোধ: শ্রেণি সংযোগ (Equivalent Resistance: Series Connection)",
+      "caption": null,
+      "body": "$$I = \\frac{V - V_B}{R_1}$$",
+      "image": null,
+      "formulas": [
+        "I = \\frac{V - V_B}{R_1}"
+      ],
+      "pdfPageStart": 319,
+      "pdfPageEnd": 319,
+      "printedPageStart": 314,
+      "printedPageEnd": 314,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p124",
+      "kind": "text",
+      "section": "১১.২.৪ তুল্য রোধ: শ্রেণি সংযোগ (Equivalent Resistance: Series Connection)",
+      "caption": null,
+      "body": "আবার দ্বিতীয় রোধ $R_2$ এর জন্য লিখতে পারি",
+      "image": null,
+      "formulas": [
+        "R_2"
+      ],
+      "pdfPageStart": 319,
+      "pdfPageEnd": 319,
+      "printedPageStart": 314,
+      "printedPageEnd": 314,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p125",
+      "kind": "formula",
+      "section": "১১.২.৪ তুল্য রোধ: শ্রেণি সংযোগ (Equivalent Resistance: Series Connection)",
+      "caption": null,
+      "body": "$$I = \\frac{V_B - 0}{R_2} = \\frac{V_B}{R_2}$$",
+      "image": null,
+      "formulas": [
+        "I = \\frac{V_B - 0}{R_2} = \\frac{V_B}{R_2}"
+      ],
+      "pdfPageStart": 319,
+      "pdfPageEnd": 319,
+      "printedPageStart": 314,
+      "printedPageEnd": 314,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p126",
+      "kind": "text",
+      "section": "১১.২.৪ তুল্য রোধ: শ্রেণি সংযোগ (Equivalent Resistance: Series Connection)",
+      "caption": null,
+      "body": "কাজেই",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 319,
+      "pdfPageEnd": 319,
+      "printedPageStart": 314,
+      "printedPageEnd": 314,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p127",
+      "kind": "formula",
+      "section": "১১.২.৪ তুল্য রোধ: শ্রেণি সংযোগ (Equivalent Resistance: Series Connection)",
+      "caption": null,
+      "body": "$$I = \\frac{V - V_B}{R_1} = \\frac{V_B}{R_2}$$",
+      "image": null,
+      "formulas": [
+        "I = \\frac{V - V_B}{R_1} = \\frac{V_B}{R_2}"
+      ],
+      "pdfPageStart": 319,
+      "pdfPageEnd": 319,
+      "printedPageStart": 314,
+      "printedPageEnd": 314,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p128",
+      "kind": "formula",
+      "section": "১১.২.৪ তুল্য রোধ: শ্রেণি সংযোগ (Equivalent Resistance: Series Connection)",
+      "caption": null,
+      "body": "$$(V - V_B)R_2 = V_B R_1$$",
+      "image": null,
+      "formulas": [
+        "(V - V_B)R_2 = V_B R_1"
+      ],
+      "pdfPageStart": 320,
+      "pdfPageEnd": 320,
+      "printedPageStart": 315,
+      "printedPageEnd": 315,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p129",
+      "kind": "formula",
+      "section": "১১.২.৪ তুল্য রোধ: শ্রেণি সংযোগ (Equivalent Resistance: Series Connection)",
+      "caption": null,
+      "body": "$$V_B(R_1 + R_2) = VR_2$$",
+      "image": null,
+      "formulas": [
+        "V_B(R_1 + R_2) = VR_2"
+      ],
+      "pdfPageStart": 320,
+      "pdfPageEnd": 320,
+      "printedPageStart": 315,
+      "printedPageEnd": 315,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p130",
+      "kind": "formula",
+      "section": "১১.২.৪ তুল্য রোধ: শ্রেণি সংযোগ (Equivalent Resistance: Series Connection)",
+      "caption": null,
+      "body": "$$V_B = \\frac{R_2}{R_1 + R_2} V$$",
+      "image": null,
+      "formulas": [
+        "V_B = \\frac{R_2}{R_1 + R_2} V"
+      ],
+      "pdfPageStart": 320,
+      "pdfPageEnd": 320,
+      "printedPageStart": 315,
+      "printedPageEnd": 315,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p131",
+      "kind": "formula",
+      "section": "কাজেই",
+      "caption": null,
+      "body": "$$I = \\frac{V_B}{R_2} = \\frac{V}{R_1 + R_2}$$",
+      "image": null,
+      "formulas": [
+        "I = \\frac{V_B}{R_2} = \\frac{V}{R_1 + R_2}"
+      ],
+      "pdfPageStart": 320,
+      "pdfPageEnd": 320,
+      "printedPageStart": 315,
+      "printedPageEnd": 315,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p132",
+      "kind": "text",
+      "section": "কাজেই",
+      "caption": null,
+      "body": "আমরা $R_1$ এবং $R_2$ এই দুটি রোধকে একটি রোধ $R = R_1 + R_2$ হিসেবে কল্পনা করতে পারি:",
+      "image": null,
+      "formulas": [
+        "R_1",
+        "R_2",
+        "R = R_1 + R_2"
+      ],
+      "pdfPageStart": 320,
+      "pdfPageEnd": 320,
+      "printedPageStart": 315,
+      "printedPageEnd": 315,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p133",
+      "kind": "formula",
+      "section": "কাজেই",
+      "caption": null,
+      "body": "$$I = \\frac{V}{R}$$",
+      "image": null,
+      "formulas": [
+        "I = \\frac{V}{R}"
+      ],
+      "pdfPageStart": 320,
+      "pdfPageEnd": 320,
+      "printedPageStart": 315,
+      "printedPageEnd": 315,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p134",
+      "kind": "figure",
+      "section": "কাজেই",
+      "caption": null,
+      "body": "drawing: circuit diagram showing the series combination of resistors R1, R2, Rn and their equivalent resistance R",
+      "image": "p320-page_18_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 320,
+      "pdfPageEnd": 320,
+      "printedPageStart": 315,
+      "printedPageEnd": 315,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p135",
+      "kind": "figure",
+      "section": "কাজেই",
+      "caption": null,
+      "body": "**চিত্র ১১.১২: অনেকগুলো পর্যায়ক্রম রোধ বা রেজিস্টরকে একটি তুল্য রোধ বা রেজিস্টর হিসেবে কল্পনা করা যায়।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 320,
+      "pdfPageEnd": 320,
+      "printedPageStart": 315,
+      "printedPageEnd": 315,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p136",
+      "kind": "text",
+      "section": "কাজেই",
+      "caption": null,
+      "body": "যদি এখানে দুটি না হয়ে তিন-চারটি বা আরো বেশি রোধ থাকত (চিত্র ১১.১২) তাহলেও আমরা দেখাতে পারতাম যে সেগুলোকে সম্মিলিতভাবে একটি রোধ $R$ কল্পনা করতে পারি। এটাকে তুল্য রোধ বলে। অর্থাৎ যখন কোনো সার্কিটে $R_1, R_2, R_3..$ এ রকম অনেকগুলো রোধ পরপর থাকে (শ্রেণি বর্তনী) তখন তাদের তুল্য রোধ",
+      "image": null,
+      "formulas": [
+        "R",
+        "R_1, R_2, R_3.."
+      ],
+      "pdfPageStart": 320,
+      "pdfPageEnd": 320,
+      "printedPageStart": 315,
+      "printedPageEnd": 315,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p137",
+      "kind": "formula",
+      "section": "কাজেই",
+      "caption": null,
+      "body": "$$R = R_1 + R_2 + R_3 + ... + R_n$$",
+      "image": null,
+      "formulas": [
+        "R = R_1 + R_2 + R_3 + ... + R_n"
+      ],
+      "pdfPageStart": 320,
+      "pdfPageEnd": 320,
+      "printedPageStart": 315,
+      "printedPageEnd": 315,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p138",
+      "kind": "text",
+      "section": "১১.২.৫ তুল্য রোধ: সমান্তরাল বর্তনী সংযোগ (Equivalent Resistance: Parallel Connection)",
+      "caption": null,
+      "body": "এবারে আমরা রোধগুলো পরপর না রেখে সমান্তরালভাবে রাখব (চিত্র ১১.১৩)। এই সার্কিটে আমরা বিভিন্ন বিন্দুকে A, B, C, D, E এবং F নাম দিয়েছি। চিত্রটি দেখেই বোঝা যাচ্ছে D, E এবং F বিন্দু ভূমিসংলগ্ন হওয়ায় এই বিন্দুগুলোর বিভব শূন্য। কাজেই A, B এবং C বিন্দুতে বিভব V.",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 320,
+      "pdfPageEnd": 320,
+      "printedPageStart": 315,
+      "printedPageEnd": 315,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p139",
+      "kind": "text",
+      "section": "১১.২.৫ তুল্য রোধ: সমান্তরাল বর্তনী সংযোগ (Equivalent Resistance: Parallel Connection)",
+      "caption": null,
+      "body": "ব্যাটারি থেকে $I$ কারেন্ট বের হয়েছে। এই বিদ্যুৎ $B$ বিন্দুতে দুই ভাগে ভাগ হয়ে $R_1$ এবং $R_2$ রোধের ভেতর দিয়ে যথাক্রমে $I_1$ এবং $I_2$ হিসেবে প্রবাহিত হয়ে $E$ বিন্দুতে একত্র হয়ে $I$ হিসেবে ব্যাটারিতে ফিরে যাচ্ছে। আমরা আগেই বলেছি সার্কিটে ব্যাটারি থেকে বিদ্যুৎ বের হয়, সার্কিটে ঘুরে আবার ব্যাটারিতে ফিরে যায়। পুরো হতে সার্কিটে এর বাইরে কোনো বিদ্যুতের জন্য পারে না, আবার ক্ষয়ও হতে পারে না। তাই",
+      "image": null,
+      "formulas": [
+        "I",
+        "B",
+        "R_1",
+        "R_2",
+        "I_1",
+        "I_2",
+        "E",
+        "I"
+      ],
+      "pdfPageStart": 321,
+      "pdfPageEnd": 321,
+      "printedPageStart": 316,
+      "printedPageEnd": 316,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p140",
+      "kind": "figure",
+      "section": "১১.২.৫ তুল্য রোধ: সমান্তরাল বর্তনী সংযোগ (Equivalent Resistance: Parallel Connection)",
+      "caption": null,
+      "body": "drawing: circuit diagram showing a voltage source V connected to two parallel resistors R1 and R2",
+      "image": "p321-page_19_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 321,
+      "pdfPageEnd": 321,
+      "printedPageStart": 316,
+      "printedPageEnd": 316,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p141",
+      "kind": "figure",
+      "section": "১১.২.৫ তুল্য রোধ: সমান্তরাল বর্তনী সংযোগ (Equivalent Resistance: Parallel Connection)",
+      "caption": null,
+      "body": "**চিত্র ১১.১৩: একটি সার্কিটে দুটি রোধ সমান্তরালভাবে রাখা।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 321,
+      "pdfPageEnd": 321,
+      "printedPageStart": 316,
+      "printedPageEnd": 316,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p142",
+      "kind": "formula",
+      "section": "১১.২.৫ তুল্য রোধ: সমান্তরাল বর্তনী সংযোগ (Equivalent Resistance: Parallel Connection)",
+      "caption": null,
+      "body": "$$I = I_1 + I_2$$",
+      "image": null,
+      "formulas": [
+        "I = I_1 + I_2"
+      ],
+      "pdfPageStart": 321,
+      "pdfPageEnd": 321,
+      "printedPageStart": 316,
+      "printedPageEnd": 316,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p143",
+      "kind": "text",
+      "section": "১১.২.৫ তুল্য রোধ: সমান্তরাল বর্তনী সংযোগ (Equivalent Resistance: Parallel Connection)",
+      "caption": null,
+      "body": "এবারে আমরা $I_1$ এবং $I_2$ কত হবে বের করতে পারি",
+      "image": null,
+      "formulas": [
+        "I_1",
+        "I_2"
+      ],
+      "pdfPageStart": 321,
+      "pdfPageEnd": 321,
+      "printedPageStart": 316,
+      "printedPageEnd": 316,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p144",
+      "kind": "formula",
+      "section": "১১.২.৫ তুল্য রোধ: সমান্তরাল বর্তনী সংযোগ (Equivalent Resistance: Parallel Connection)",
+      "caption": null,
+      "body": "$$I_1 = \\frac{V_B - V_E}{R_1} = \\frac{V - 0}{R_1} = \\frac{V}{R_1}$$",
+      "image": null,
+      "formulas": [
+        "I_1 = \\frac{V_B - V_E}{R_1} = \\frac{V - 0}{R_1} = \\frac{V}{R_1}"
+      ],
+      "pdfPageStart": 321,
+      "pdfPageEnd": 321,
+      "printedPageStart": 316,
+      "printedPageEnd": 316,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p145",
+      "kind": "formula",
+      "section": "১১.২.৫ তুল্য রোধ: সমান্তরাল বর্তনী সংযোগ (Equivalent Resistance: Parallel Connection)",
+      "caption": null,
+      "body": "$$I_2 = \\frac{V_C - V_D}{R_2} = \\frac{V - 0}{R_2} = \\frac{V}{R_2}$$",
+      "image": null,
+      "formulas": [
+        "I_2 = \\frac{V_C - V_D}{R_2} = \\frac{V - 0}{R_2} = \\frac{V}{R_2}"
+      ],
+      "pdfPageStart": 321,
+      "pdfPageEnd": 321,
+      "printedPageStart": 316,
+      "printedPageEnd": 316,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p146",
+      "kind": "text",
+      "section": "১১.২.৫ তুল্য রোধ: সমান্তরাল বর্তনী সংযোগ (Equivalent Resistance: Parallel Connection)",
+      "caption": null,
+      "body": "কাজেই",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 321,
+      "pdfPageEnd": 321,
+      "printedPageStart": 316,
+      "printedPageEnd": 316,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p147",
+      "kind": "formula",
+      "section": "১১.২.৫ তুল্য রোধ: সমান্তরাল বর্তনী সংযোগ (Equivalent Resistance: Parallel Connection)",
+      "caption": null,
+      "body": "$$I = I_1 + I_2 = \\frac{V}{R_1} + \\frac{V}{R_2} = V \\left( \\frac{1}{R_1} + \\frac{1}{R_2} \\right)$$",
+      "image": null,
+      "formulas": [
+        "I = I_1 + I_2 = \\frac{V}{R_1} + \\frac{V}{R_2} = V \\left( \\frac{1}{R_1} + \\frac{1}{R_2} \\right)"
+      ],
+      "pdfPageStart": 321,
+      "pdfPageEnd": 321,
+      "printedPageStart": 316,
+      "printedPageEnd": 316,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p148",
+      "kind": "text",
+      "section": "১১.২.৫ তুল্য রোধ: সমান্তরাল বর্তনী সংযোগ (Equivalent Resistance: Parallel Connection)",
+      "caption": null,
+      "body": "অর্থাৎ এবারেও আমরা একটা তুল্য রোধ $R$ সংজ্ঞায়িত করতে পারি যেখানে",
+      "image": null,
+      "formulas": [
+        "R"
+      ],
+      "pdfPageStart": 321,
+      "pdfPageEnd": 321,
+      "printedPageStart": 316,
+      "printedPageEnd": 316,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p149",
+      "kind": "formula",
+      "section": "১১.২.৫ তুল্য রোধ: সমান্তরাল বর্তনী সংযোগ (Equivalent Resistance: Parallel Connection)",
+      "caption": null,
+      "body": "$$I = \\frac{V}{R}  এবং  \\frac{1}{R} = \\frac{1}{R_1} + \\frac{1}{R_2}$$",
+      "image": null,
+      "formulas": [
+        "I = \\frac{V}{R}  এবং  \\frac{1}{R} = \\frac{1}{R_1} + \\frac{1}{R_2}"
+      ],
+      "pdfPageStart": 321,
+      "pdfPageEnd": 321,
+      "printedPageStart": 316,
+      "printedPageEnd": 316,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p150",
+      "kind": "figure",
+      "section": "১১.২.৫ তুল্য রোধ: সমান্তরাল বর্তনী সংযোগ (Equivalent Resistance: Parallel Connection)",
+      "caption": null,
+      "body": "drawing: circuit diagram showing a voltage source V connected to four parallel resistors R1, R2, R3, and R4, which is equivalent to a single resistor R",
+      "image": "p321-page_19_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 321,
+      "pdfPageEnd": 321,
+      "printedPageStart": 316,
+      "printedPageEnd": 316,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p151",
+      "kind": "figure",
+      "section": "১১.২.৫ তুল্য রোধ: সমান্তরাল বর্তনী সংযোগ (Equivalent Resistance: Parallel Connection)",
+      "caption": null,
+      "body": "**চিত্র ১১.১৪: অনেকগুলো সমান্তরাল রোধ বা রেজিস্টরকে একটি তুল্য রোধ বা রেজিস্টর হিসেবে কল্পনা করা যায়।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 321,
+      "pdfPageEnd": 321,
+      "printedPageStart": 316,
+      "printedPageEnd": 316,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p152",
+      "kind": "text",
+      "section": "১১.২.৫ তুল্য রোধ: সমান্তরাল বর্তনী সংযোগ (Equivalent Resistance: Parallel Connection)",
+      "caption": null,
+      "body": "এখানে যদি দুটো না হয়ে আরো বেশি রোধ থাকে (চিত্র ১১.১৪) তাহলেও আমরা দেখতে পারি: তুল্য রোধ $R$ হচ্ছে",
+      "image": null,
+      "formulas": [
+        "R"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.2-p153",
+      "kind": "formula",
+      "section": "১১.২.৫ তুল্য রোধ: সমান্তরাল বর্তনী সংযোগ (Equivalent Resistance: Parallel Connection)",
+      "caption": null,
+      "body": "$$\\frac{1}{R} = \\frac{1}{R_1} + \\frac{1}{R_2} \\quad \\frac{1}{R_3} + \\dots + \\frac{1}{R_n}$$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{R} = \\frac{1}{R_1} + \\frac{1}{R_2} \\quad \\frac{1}{R_3} + \\dots + \\frac{1}{R_n}"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

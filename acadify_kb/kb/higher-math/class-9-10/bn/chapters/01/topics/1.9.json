@@ -1,0 +1,96 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.9",
+  "key": "1.9",
+  "title": "পূরক সেট (Complementary Set)",
+  "chapter": 1,
+  "ordinal": 9,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.9-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সার্বিক সেট $U$ এবং $A \\subseteq U$ হলে $A$ এর পূরক সেট হচ্ছে $U \\setminus A$।",
+      "image": null,
+      "formulas": [
+        "U",
+        "A \\subseteq U",
+        "A",
+        "U \\setminus A"
+      ],
+      "pdfPageStart": 9,
+      "pdfPageEnd": 9,
+      "printedPageStart": 4,
+      "printedPageEnd": 4,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.9-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ $U \\setminus A = \\{x : x \\in U  এবং  x \\notin A\\}$।",
+      "image": null,
+      "formulas": [
+        "U \\setminus A = \\{x : x \\in U  এবং  x \\notin A\\}"
+      ],
+      "pdfPageStart": 9,
+      "pdfPageEnd": 9,
+      "printedPageStart": 4,
+      "printedPageEnd": 4,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.9-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সার্বিক সেট থেকে $A$ সেটের উপাদানগুলো বর্জন করলেই $A$ এর পূরক সেট পাওয়া যায় এবং তাকে $A'$ বা $A^c$ লিখে প্রকাশ করা হয়।",
+      "image": null,
+      "formulas": [
+        "A",
+        "A",
+        "A'",
+        "A^c"
+      ],
+      "pdfPageStart": 9,
+      "pdfPageEnd": 9,
+      "printedPageStart": 4,
+      "printedPageEnd": 4,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.9-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৫.** যদি সার্বিক সেট $U$ সকল পূর্ণসংখ্যার সেট হয় এবং $A$ সকল ঋণাত্মক পূর্ণসংখ্যার সেট হয়, তবে ($U$ সাপেক্ষে) $A$ এর পূরক সেট $A'$ বা $A^c = \\{0, 1, 2, 3, \\dots\\}$",
+      "image": null,
+      "formulas": [
+        "U",
+        "A",
+        "U",
+        "A",
+        "A'",
+        "A^c = \\{0, 1, 2, 3, \\dots\\}"
+      ],
+      "pdfPageStart": 9,
+      "pdfPageEnd": 9,
+      "printedPageStart": 4,
+      "printedPageEnd": 4,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

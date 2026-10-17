@@ -1,0 +1,36 @@
+{
+  "id": "higher-math-9-10-bn-c02-t2.7",
+  "key": "2.7",
+  "title": "অভেদ (Identity)",
+  "chapter": 2,
+  "ordinal": 7,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c02-t2.7-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "দুটি বহুপদী $P(x)$ ও $Q(x)$ সকল $x$ এর জন্য সমান হলে, এদের সমতাকে অভেদ বলা হয় এবং তা বুঝাতে অনেক সময় $P(x) \\equiv Q(x)$ লেখা হয়। এম্ব্রে $P(x)$ ও $Q(x)$ বহুপদী দুটি অভিন্ন হয়। $\\equiv$ চিহ্নকে অভেদ চিহ্ন বলা হয়। সাধারণভাবে একই চলকসমূহের দুটি বীজগণিতীয় রাশির সমতাকে অভেদ (identity) বলা হয়, যদি রাশি দুটিতে প্রতিটি চলকের ডোমেন একই হয় এবং চলকসমূহের ডোমেনভুক্ত মানের জন্য রাশি দুটির মান সমান হয়। যেমন, $x(x + 2) = x^2 + 2x$, $(x + y)^2 = x^2 + 2xy + y^2$ উভয়ই অভেদ।",
+      "image": null,
+      "formulas": [
+        "P(x)",
+        "Q(x)",
+        "x",
+        "P(x) \\equiv Q(x)",
+        "P(x)",
+        "Q(x)",
+        "\\equiv",
+        "x(x + 2) = x^2 + 2x",
+        "(x + y)^2 = x^2 + 2xy + y^2"
+      ],
+      "pdfPageStart": 47,
+      "pdfPageEnd": 47,
+      "printedPageStart": 42,
+      "printedPageEnd": 42,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

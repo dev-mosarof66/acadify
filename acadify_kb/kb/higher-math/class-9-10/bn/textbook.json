@@ -1,0 +1,39 @@
+{
+  "id": "higher-math-9-10-bn",
+  "title": "Higher Math Bangla Version",
+  "subject": "higher-math",
+  "classLevel": "9-10",
+  "language": "bn",
+  "editionYear": 2026,
+  "sourceFile": "Higher_Math_Bangla_Version.pdf",
+  "sourceSha256": "3eeadc996dbd9e7c6641f80935f3af6a351acc01bf6329329726c17497eabe4e",
+  "pdfPages": 342,
+  "printedPageOffset": 5,
+  "extraction": {
+    "method": "llamaparse",
+    "tier": "agentic",
+    "output": "markdown",
+    "corrections": [
+      "শত্তি -> শক্তি",
+      "যন্দ্র -> যন্ত্র",
+      "ক্বমবিকাশ -> ক্রমবিকাশ",
+      "উথান -> উত্থান",
+      "যোড়শ -> ষোড়শ",
+      "সূজনশীল -> সৃজনশীল",
+      "ভোত -> ভৌত",
+      "ভোতিক -> ভৌতিক",
+      "সৃক্ষ -> সূক্ষ্ম",
+      "বস্তুরটির -> বস্তুটির",
+      "পর্দায় সারণি -> পর্যায় সারণি",
+      "পার্যায় সারণি -> পর্যায় সারণি",
+      "স্ফার… -> ক্ষার",
+      "মৃৎস্ফার -> মৃৎক্ষার",
+      "அதிக -> অধিক",
+      "ிய -> িয়",
+      "ா -> া",
+      "আঙ্গয়েй -> আগ্নেয়",
+      "স্কুদ্র -> ক্ষুদ্র",
+      "স্কুন্দ -> ক্ষুদ্র"
+    ]
+  }
+}

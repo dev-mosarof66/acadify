@@ -1,0 +1,335 @@
+{
+  "id": "physics-9-10-bn-c04-t4.8",
+  "key": "4.8",
+  "title": "কর্মদক্ষতা (Efficiency)",
+  "chapter": 4,
+  "ordinal": 8,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c04-t4.8-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা একটু আগে বলেছিলাম যে শক্তিকে এক রূপ থেকে অন্য রূপে রূপান্তরিত করার বেলায় সব সময়ই খানিকটা শক্তির অপচয় হয়। কাজেই সব সময়ই আমরা যে পরিমাণ কাজ করতে চাই তার সমপরিমাণ শক্তি দিলে হয় না, একটু বেশি শক্তি দিতে হয়। আমরা আমাদের দৈনন্দিন জীবনে নানা ধরনের যন্ত্র ব্যবহার করি। নানা ধরনের ইঞ্জিন ব্যবহার করি। সব সময়েই দেখা যায় সেগুলোতে ঘর্ষণ বা অন্যান্য কারণে শক্তির অপচয় হয়। সেজন্য প্রায় সময়ই একটি যন্ত্র বা ইঞ্জিন কতটুকু দক্ষতার সাথে শক্তি ব্যবহার করেছে আমাদেরকে তার পরিমাণ করতে হয়। সেজন্য আমরা কর্মদক্ষতা বলে একটি নতুন রাশি ব্যবহার করে থাকি। কর্মদক্ষতাকে শতকরা হিসাবে এভাবে লেখা যায়:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 126,
+      "printedPageStart": 120,
+      "printedPageEnd": 121,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.8-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কর্মদক্ষতা হচ্ছে:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.8-p003",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\frac{কাজের পরিমাণ}{প্রদত্ত শক্তি} \\times 100\\%$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{কাজের পরিমাণ}{প্রদত্ত শক্তি} \\times 100\\%"
+      ],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.8-p004",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\frac{প্রদত্ত শক্তি - শক্তির অপচয়}{প্রদত্ত শক্তি} \\times 100\\%$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{প্রদত্ত শক্তি - শক্তির অপচয়}{প্রদত্ত শক্তি} \\times 100\\%"
+      ],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.8-p005",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** 1000 W এর একটি মোটর ব্যবহার করে 15 s এ একটি 100 kg ভরের বস্তুরকে 10 m উপরে তোলা হলে শক্তির অপচয় কত? কর্মদক্ষতা কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.8-p006",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** কাজের পরিমাণ: $100 \\times 9.8 \\times 10  J = 9,800  J$",
+      "image": null,
+      "formulas": [
+        "100 \\times 9.8 \\times 10  J = 9,800  J"
+      ],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.8-p007",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "প্রদত্ত শক্তি: $1000 \\times 15  J = 15,000  J$",
+      "image": null,
+      "formulas": [
+        "1000 \\times 15  J = 15,000  J"
+      ],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.8-p008",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "শক্তির অপচয়: $15,000  J - 9,800  J = 5,200  J$",
+      "image": null,
+      "formulas": [
+        "15,000  J - 9,800  J = 5,200  J"
+      ],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.8-p009",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$কর্মদক্ষতা = \\frac{9,800  J}{15,000  J} \\times 100\\% = 65.3\\%$$",
+      "image": null,
+      "formulas": [
+        "কর্মদক্ষতা = \\frac{9,800  J}{15,000  J} \\times 100\\% = 65.3\\%"
+      ],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.8-p010",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "তোমরা শুনে অবাক হবে একটা বিদ্যুৎকেন্দ্রে বিদ্যুৎ উৎপাদন করার সময় প্রতিটি ধাপেই শক্তির অপচয় হয় এবং সবগুলো অপচয় হিসেবে নেওয়ার পর বিদ্যুৎকেন্দ্রের কর্মদক্ষতা 30% এ নেমে আসতে পারে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.8-p011",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** প্রত্যেকটি ধাপে 10% অপচয় হলে চার ধাপে কত কর্মদক্ষতা?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.8-p012",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** $0.9 \\times 0.9 \\times 0.9 \\times 0.9 = 0.6561$",
+      "image": null,
+      "formulas": [
+        "0.9 \\times 0.9 \\times 0.9 \\times 0.9 = 0.6561"
+      ],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.8-p013",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কিংবা 65.6%",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.8-p014",
+      "kind": "text",
+      "section": "শারীরিক ক্ষমতা",
+      "caption": null,
+      "body": "**উদ্দেশ্য:** শিক্ষার্থীর শারীরিক ক্ষমতা বের করা\n**যন্ত্রপাতি:** একটি ঘড়ি এবং রুলার\n**কাজের ধারা:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 127,
+      "pdfPageEnd": 127,
+      "printedPageStart": 122,
+      "printedPageEnd": 122,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.8-p015",
+      "kind": "text",
+      "section": "শারীরিক ক্ষমতা",
+      "caption": null,
+      "body": "১. একটি দালান যার সিঁড়ি দিয়ে দোতলা কিংবা তিনতলায় ওঠা সম্ভব।\n২. দালানের সিঁড়ির সংখ্যা এবং সিঁড়ির উচ্চতা মেপে দুটি গুণ দিয়ে নিচ থেকে দোতলা কিংবা তিনতলার উচ্চতা বের করো।\n৩. একটি ওজন মাপার যন্ত্রে তোমার ভর মাপো।\n৪. তুমি যত দ্রুত সম্ভব সিঁড়ি দিয়ে উপরে ওঠো, ঘড়ি ব্যবহার করে কতটুকু সময় লেগেছে মেপে নাও।\n৫. একইভাবে শ্রেণির অন্য শিক্ষার্থীদের ভর মেপে সিঁড়ি দিয়ে উপরে ওঠার সময়ের তথ্য সংগ্রহ করে নিচের ছকে বসাও।\n৬. তোমার এবং তোমার বন্ধুদের শারীরিক ক্ষমতা বের করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 127,
+      "pdfPageEnd": 127,
+      "printedPageStart": 122,
+      "printedPageEnd": 122,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.8-p016",
+      "kind": "text",
+      "section": "শারীরিক ক্ষমতা",
+      "caption": null,
+      "body": "ছাদের উচ্চতা: $h =$",
+      "image": null,
+      "formulas": [
+        "h ="
+      ],
+      "pdfPageStart": 127,
+      "pdfPageEnd": 127,
+      "printedPageStart": 122,
+      "printedPageEnd": 122,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.8-p017",
+      "kind": "text",
+      "section": "শারীরিক ক্ষমতা",
+      "caption": null,
+      "body": "অভিকর্ষজ ত্বরণ: $g = 9.8  m/s^2$",
+      "image": null,
+      "formulas": [
+        "g = 9.8  m/s^2"
+      ],
+      "pdfPageStart": 127,
+      "pdfPageEnd": 127,
+      "printedPageStart": 122,
+      "printedPageEnd": 122,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.8-p018",
+      "kind": "table",
+      "section": "শারীরিক ক্ষমতা",
+      "caption": null,
+      "body": "<table><tr><th>শিক্ষার্থীর নাম</th><th>ভর (m) kg</th><th>ছাদে ওঠার সময় (t) s</th><th>ক্ষমতা = <em>mgh</em>/<br /><em>t</em> W</th><th>গড় ক্ষমতা</th></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 127,
+      "pdfPageEnd": 127,
+      "printedPageStart": 122,
+      "printedPageEnd": 122,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.8-p019",
+      "kind": "text",
+      "section": "শারীরিক ক্ষমতা",
+      "caption": null,
+      "body": "সকল শিক্ষার্থীর গড় ক্ষমতা বের করে দেখো তোমার শারীরিক ক্ষমতা শ্রেণির সকল শিক্ষার্থীর গড় শারীরিক ক্ষমতা থেকে বেশি না কম।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 127,
+      "pdfPageEnd": 127,
+      "printedPageStart": 122,
+      "printedPageEnd": 122,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

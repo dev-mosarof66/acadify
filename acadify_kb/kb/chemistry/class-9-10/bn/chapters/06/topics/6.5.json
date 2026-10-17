@@ -1,0 +1,707 @@
+{
+  "id": "chemistry-9-10-bn-c06-t6.5",
+  "key": "6.5",
+  "title": "উৎপাদের শতকরা পরিমাণ হিসাব",
+  "chapter": 6,
+  "ordinal": 5,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p001",
+      "kind": "text",
+      "section": "(Calculation of the Percentage of Yield)",
+      "caption": null,
+      "body": "রাসায়নিক বিক্রিয়ায় ব্যবহৃত বিক্রিয়কগুলো সব সময় 100% বিশুদ্ধ হয় না। যে বিক্রিয়ক সবচেয়ে বেশি বিশুদ্ধ তাকে অ্যানালার বা অ্যানালার গ্রেড পদার্থ বলে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 139,
+      "pdfPageEnd": 139,
+      "printedPageStart": 134,
+      "printedPageEnd": 134,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p002",
+      "kind": "text",
+      "section": "(Calculation of the Percentage of Yield)",
+      "caption": null,
+      "body": "যদি কোনো পদার্থকে 99% বিশুদ্ধ করা যায় এবং এর চেয়ে আর বেশি বিশুদ্ধ করা সম্ভব না হয় তখন এই 99% বিশুদ্ধ পদার্থকেই অ্যানালার বলে। কোনো অবিশুদ্ধ পদার্থকে বিশুদ্ধ করার জন্য কেলসন, পাতন, আংশিক পাতন, ক্রোমাটোগ্রাফি ইত্যাদি ব্যবহার করা হয়। এই বিশুদ্ধকরণ পদ্ধতি তোমরা পরবর্তী শ্রেণিতে শিখতে পারবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 139,
+      "pdfPageEnd": 139,
+      "printedPageStart": 134,
+      "printedPageEnd": 134,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p003",
+      "kind": "text",
+      "section": "(Calculation of the Percentage of Yield)",
+      "caption": null,
+      "body": "এক বা একাধিক বিশুদ্ধকরণ পদ্ধতি প্রয়োগ করেও অনেক পদার্থকে 100% বিশুদ্ধ করা যায় না। বিক্রিয়ক 100% বিশুদ্ধ না হলে লিমিটিং বিক্রিয়ক থেকে হিসাব করে যে পরিমাণ উৎপাদ হবার কথা রাসায়নিক বিক্রিয়ায় তার চেয়ে কম পরিমাণে উৎপাদ তৈরি হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 140,
+      "pdfPageEnd": 140,
+      "printedPageStart": 135,
+      "printedPageEnd": 135,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p004",
+      "kind": "text",
+      "section": "(Calculation of the Percentage of Yield)",
+      "caption": null,
+      "body": "কোনো বিক্রিয়ায় উৎপাদের শতকরা পরিমাণকে নিচের সমীকরণের সাহায্যে বের করা যায়",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 140,
+      "pdfPageEnd": 140,
+      "printedPageStart": 135,
+      "printedPageEnd": 135,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p005",
+      "kind": "formula",
+      "section": "(Calculation of the Percentage of Yield)",
+      "caption": null,
+      "body": "$$উৎপাদের শতকরা পরিমাণ = \\frac{বিক্রিয়া হওয়ার পরে প্রাপ্ত প্রকৃত উৎপাদের পরিমাণ \\times 100}{রাসায়নিক বিক্রিয়ায় সমীকরণ থেকে হিসাবকৃত উৎপাদের পরিমাণ}$$",
+      "image": null,
+      "formulas": [
+        "উৎপাদের শতকরা পরিমাণ = \\frac{বিক্রিয়া হওয়ার পরে প্রাপ্ত প্রকৃত উৎপাদের পরিমাণ \\times 100}{রাসায়নিক বিক্রিয়ায় সমীকরণ থেকে হিসাবকৃত উৎপাদের পরিমাণ}"
+      ],
+      "pdfPageStart": 140,
+      "pdfPageEnd": 140,
+      "printedPageStart": 135,
+      "printedPageEnd": 135,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p006",
+      "kind": "text",
+      "section": "(Calculation of the Percentage of Yield)",
+      "caption": null,
+      "body": "**১. সমস্যা:** ২ গ্রাম ম্যাগনেসিয়াম ধাতু প্রয়োজনীয় পরিমাণ অক্সিজেনের সাথে বিক্রিয়া করে 3.25 গ্রাম ম্যাগনেসিয়াম অক্সাইড উৎপন্ন হয়। উৎপাদের শতকরা পরিমাণ কতো?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 140,
+      "pdfPageEnd": 140,
+      "printedPageStart": 135,
+      "printedPageEnd": 135,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p007",
+      "kind": "text",
+      "section": "(Calculation of the Percentage of Yield)",
+      "caption": null,
+      "body": "$$2Mg(s) + O_2(g) \\xrightarrow{} 2MgO(s)$$\n$$2 \\times 24 = 48  গ্রাম \\quad 1 \\times 32 = 32  গ্রাম \\quad 2 \\times 40 = 80  গ্রাম$$",
+      "image": null,
+      "formulas": [
+        "2Mg(s) + O_2(g) \\xrightarrow{} 2MgO(s)",
+        "2 \\times 24 = 48  গ্রাম \\quad 1 \\times 32 = 32  গ্রাম \\quad 2 \\times 40 = 80  গ্রাম"
+      ],
+      "pdfPageStart": 140,
+      "pdfPageEnd": 140,
+      "printedPageStart": 135,
+      "printedPageEnd": 135,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p008",
+      "kind": "text",
+      "section": "(Calculation of the Percentage of Yield)",
+      "caption": null,
+      "body": "**সমাধান:**\n**সমীকরণ অনুযায়ী:**\n48 গ্রাম Mg থেকে উৎপন্ন হয় 80 গ্রাম MgO\nকাজেই 2 গ্রাম Mg থেকে উৎপন্ন হয় $= \\frac{2 \\times 80}{48} = 3.33$ গ্রাম MgO\nবিক্রিয়া হওয়ার পরে ম্যাগনেসিয়াম অক্সাইড প্রকৃত উৎপন্ন হয়েছে 3.25 গ্রাম",
+      "image": null,
+      "formulas": [
+        "= \\frac{2 \\times 80}{48} = 3.33"
+      ],
+      "pdfPageStart": 140,
+      "pdfPageEnd": 140,
+      "printedPageStart": 135,
+      "printedPageEnd": 135,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p009",
+      "kind": "text",
+      "section": "(Calculation of the Percentage of Yield)",
+      "caption": null,
+      "body": "$$অতএব, উৎপাদের শতকরা পরিমাণ = \\frac{বিক্রিয়া হওয়ার পরে প্রাপ্ত প্রকৃত উৎপাদের পরিমাণ \\times 100}{রাসায়নিক বিক্রিয়ায় সমীকরণ থেকে হিসাবকৃত উৎপাদের পরিমাণ}$$\n$$= \\frac{3.25 \\times 100}{3.33} = 97.6$$",
+      "image": null,
+      "formulas": [
+        "অতএব, উৎপাদের শতকরা পরিমাণ = \\frac{বিক্রিয়া হওয়ার পরে প্রাপ্ত প্রকৃত উৎপাদের পরিমাণ \\times 100}{রাসায়নিক বিক্রিয়ায় সমীকরণ থেকে হিসাবকৃত উৎপাদের পরিমাণ}",
+        "= \\frac{3.25 \\times 100}{3.33} = 97.6"
+      ],
+      "pdfPageStart": 140,
+      "pdfPageEnd": 140,
+      "printedPageStart": 135,
+      "printedPageEnd": 135,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p010",
+      "kind": "text",
+      "section": "(Calculation of the Percentage of Yield)",
+      "caption": null,
+      "body": "80 গ্রাম CaCO<sub>3</sub> কে তাপ দিয়ে 39 গ্রাম CaO পাওয়া যায়। উৎপাদের শতকরা পরিমাণ বের করো। Ca এর পারমাণবিক ভর 40, C এর পারমাণবিক ভর 12, O এর পারমাণবিক ভর 16।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 140,
+      "pdfPageEnd": 140,
+      "printedPageStart": 135,
+      "printedPageEnd": 135,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p011",
+      "kind": "text",
+      "section": "পরীক্ষণ",
+      "caption": null,
+      "body": "**250 মিলিলিটার (মিলি) আয়তনিক ফ্লাস্কে 0.1 মোলার সোডিয়াম কার্বনেট দ্রবণ প্রস্তুতি**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p012",
+      "kind": "text",
+      "section": "পরীক্ষণ",
+      "caption": null,
+      "body": "**মূলনীতি:** সোডিয়াম কার্বনেট (Na<sub>2</sub>CO<sub>3</sub>) একটি প্রাইমারি স্ট্যান্ডার্ড পদার্থ। কারণ সোডিয়াম কার্বনেটকে বিশুদ্ধ অবস্থায় পাওয়া যায়, শুদ্ধ অবস্থায় পাওয়া যায়, রাসায়নিক নিক্তিতে সরাসরি ওজন করা যায়, সোডিয়াম কার্বনেট দ্রবণের ঘনমাত্রা তৈরি করে রাখলে ঐ ঘনমাত্রা দীর্ঘদিন কোনো পরিবর্তন হয় না। একটি 250 মিলি আয়তনিক ফ্লাস্কে 0.1 মোলার সোডিয়াম কার্বনেটের দ্রবণ তৈরি করার জন্য নিচের হিসাব প্রয়োজন।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p013",
+      "kind": "text",
+      "section": "পরীক্ষণ",
+      "caption": null,
+      "body": "এখানে, V = 250 মিলিলিটার, S = 0.1 মোলার, M = 23×2 + 12 + 16×3 = 106, w = ?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p014",
+      "kind": "formula",
+      "section": "পরীক্ষণ",
+      "caption": null,
+      "body": "$$W = \\frac{SVM}{1000}$$",
+      "image": null,
+      "formulas": [
+        "W = \\frac{SVM}{1000}"
+      ],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p015",
+      "kind": "formula",
+      "section": "পরীক্ষণ",
+      "caption": null,
+      "body": "$$W = \\frac{0.1 \\times 250 \\times 106}{1000}  গ্রাম$$",
+      "image": null,
+      "formulas": [
+        "W = \\frac{0.1 \\times 250 \\times 106}{1000}  গ্রাম"
+      ],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p016",
+      "kind": "formula",
+      "section": "পরীক্ষণ",
+      "caption": null,
+      "body": "$$W = 2.65  গ্রাম$$",
+      "image": null,
+      "formulas": [
+        "W = 2.65  গ্রাম"
+      ],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p017",
+      "kind": "text",
+      "section": "পরীক্ষণ",
+      "caption": null,
+      "body": "একটি আয়তনিক ফ্লাস্কে 2.65 গ্রাম সোডিয়াম কার্বনেট মেপে নিয়ে তার মধ্যে পানি যোগ করে দ্রবণের আয়তন 250 মিলিলিটার করলে 0.1 মোলার সোডিয়াম কার্বনেট দ্রবণ প্রস্তুত হয়ে যাবে। কিন্তু এই নির্দিষ্ট ঘনমাত্রার (মোলারিটির) দ্রবণ তৈরি করা অত্যন্ত কষ্টসাধ্য। কারণ সঠিকভাবে 2.65 গ্রাম সোডিয়াম কার্বনেট মেপে নেওয়া অত্যন্ত কঠিন। অতএব, 0.1 মোলার ঘনমাত্রার কাছাকাছি কোনো ঘনমাত্রার দ্রবণ তৈরি করা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p018",
+      "kind": "text",
+      "section": "পরীক্ষণ",
+      "caption": null,
+      "body": "**প্রয়োজনীয় যন্ত্রপাতি:** 250 মিলিলিটার আয়তনিক ফ্লাস্ক, ফানেল, ওজন বোতল, রাসায়নিক নিক্তি, ওয়াশ বোতল।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p019",
+      "kind": "text",
+      "section": "পরীক্ষণ",
+      "caption": null,
+      "body": "**রাসায়নিক দ্রব্যাদি:** বিশুদ্ধ সোডিয়াম কার্বনেট, পানি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p020",
+      "kind": "text",
+      "section": "কার্যপদ্ধতি",
+      "caption": null,
+      "body": "1. একটি পরিক্ষার 250 মিলিলিটার আয়তনিক ফ্লাস্কের মুখে একটি পরিক্ষার ফানেল রাখা হলো।\n2. শুদ্ধ ওজন বোতলে কিছু পরিমাণ (2.65 গ্রামের বেশি) সোডিয়াম কার্বনেট নেওয়া হলো এবং রাসায়নিক নিক্তির সাহায্যে এর ওজন নেওয়া হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p021",
+      "kind": "text",
+      "section": "কার্যপদ্ধতি",
+      "caption": null,
+      "body": "৩. ওজন বোতলের সোডিয়াম কার্বনেট ফানেলের মধ্যে দিয়ে আয়তনিক ফ্লাস্কে এমনভাবে ঢালা হলো যেন সোডিয়াম কার্বনেটসহ ওজন বোতলের ওজন পূর্বে ওজন অপেক্ষা 2.65 গ্রাম কম হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p022",
+      "kind": "text",
+      "section": "কার্যপদ্ধতি",
+      "caption": null,
+      "body": "৪. ওয়াশ বোতল থেকে পাতিত পানি ফানেলের মাধ্যমে আয়তনিক ফ্লাস্কে আন্তে আন্তে যোগ করা হলো। অর্ধেক পানি ঢালার পর আয়তনিক ফ্লাস্কের মুখের ছিপি আটকিয়ে আয়তনিক ফ্লাস্ক ঝাঁকিয়ে সোডিয়াম কার্বনেটকে সম্পূর্ণভাবে দ্রবীভূত করা হলো। এরপর আরো পানি যোগ করে আয়তনিক ফ্লাস্কের 250 mL দাগ পর্যন্ত পানি দ্বারা পূর্ণ করা হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p023",
+      "kind": "figure",
+      "section": "কার্যপদ্ধতি",
+      "caption": null,
+      "body": "drawing: laboratory procedure diagram showing the preparation of a 0.1 M Na2CO3 solution",
+      "image": "p142-page_29_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p024",
+      "kind": "figure",
+      "section": "কার্যপদ্ধতি",
+      "caption": null,
+      "body": "**চিত্র ৬.০৩: ০.১ মোলার সোডিয়াম কার্বনেট দ্রবণ প্রস্তুতি**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p025",
+      "kind": "text",
+      "section": "সতর্কতা",
+      "caption": null,
+      "body": "১. শুষ্ক ও বিশুদ্ধ সোডিয়াম কার্বনেট নেওয়া।\n২. শুষ্ক ওজন বোতল নেওয়া।\n৩. বিশুদ্ধ পানি অর্থাৎ পাতিত পানি আয়তনিক ফ্লাস্কে যোগ করা।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p026",
+      "kind": "text",
+      "section": "সতর্কতা",
+      "caption": null,
+      "body": "**শিক্ষার্থীর কাজ:** উপরের ব্যবহারিক কার্যের ধারা অনুসারে তোমাদের ডাটা বা উপাত্তগুলো ব্যবহার করে তোমরা 250 মিলি আয়তনিক ফ্লাস্কে 0.1 মোলার সোডিয়াম কার্বনেট দ্রবণ প্রস্তুত করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p027",
+      "kind": "text",
+      "section": "তুঁতের কেলাস পানির শতকরা পরিমাণ নির্ণয়",
+      "caption": null,
+      "body": "**মূলনীতি:** তুঁতের রাসায়নিক নাম ব্লু ভিট্রিয়ল (Blue Vitriol) বা কপার সালফেট পেন্টাহাইড্রেট। এর সংকেত CuSO<sub>4</sub>.5H<sub>2</sub>O। কপার সালফেট ও ৫ অণু পানির সম্বন্ধে তুঁতে গঠিত। এটি খাবার লবণ সোডিয়াম ক্লোরাইডের মতো কেলাস আকৃতির দানাদার পদার্থ। খাবার লবণের বর্ণ সাদা, তুঁতের বর্ণ নীল। তুঁতের মধ্যে ৫ অণু পানি থাকে। তুঁতকে উত্তপ্ত করলে ঐ ৫ অণু পানি বাষ্প হয়ে উড়ে যায়। তখন তুঁতের মধ্যে কোনো পানি থাকে না এবং তুঁতের বর্ণ সাদা হয়ে যায়। এই ৫ অণু পানিকে কেলাস পানি বলে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p028",
+      "kind": "text",
+      "section": "তুঁতের কেলাস পানির শতকরা পরিমাণ নির্ণয়",
+      "caption": null,
+      "body": "$$CuSO_4 \\cdot 5H_2O \\xrightarrow{heat} CuSO_4 + 5H_2O$$\nনীল বর্ণ $\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad$ সাদা বর্ণ",
+      "image": null,
+      "formulas": [
+        "CuSO_4 \\cdot 5H_2O \\xrightarrow{heat} CuSO_4 + 5H_2O",
+        "\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad"
+      ],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p029",
+      "kind": "text",
+      "section": "তুঁতের কেলাস পানির শতকরা পরিমাণ নির্ণয়",
+      "caption": null,
+      "body": "**প্রয়োজনীয় উপকরণ:** তুঁতে (ব্লু ভিট্রিয়ল), ডেসিকেটর, নিক্তি, তুঁতে, সিরামিক বাটি, ত্রিপদী স্ট্যান্ড, তারজালি, বুনসেন বার্নার বা স্পিরিট ল্যাম্প।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p030",
+      "kind": "figure",
+      "section": "কার্যপদ্ধতি",
+      "caption": null,
+      "body": "drawing: laboratory setup diagram",
+      "image": "p143-page_30_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p031",
+      "kind": "figure",
+      "section": "কার্যপদ্ধতি",
+      "caption": null,
+      "body": "**চিত্র ৬.০৪: তুঁতের কেলাস পানির পরিমাণ নির্ণয়**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p032",
+      "kind": "text",
+      "section": "কার্যপদ্ধতি",
+      "caption": null,
+      "body": "1. নিক্তি দিয়ে একটি পোরেসলিন কুসিবল মেপে নেওয়া হলো। ধরা যাক কুসিবল এর ওজন $a$ গ্রাম। এবার এই পোরেসলিন কুসিবলের মধ্যে কিছু তুঁতে নেওয়া হলো এবং তুঁতসহ কুসিবলের ওজন পাওয়া গেল $b$ গ্রাম। কাজেই তুঁতের ওজন $(b - a)$ গ্রাম।",
+      "image": null,
+      "formulas": [
+        "a",
+        "b",
+        "(b - a)"
+      ],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p033",
+      "kind": "text",
+      "section": "কার্যপদ্ধতি",
+      "caption": null,
+      "body": "2. একটি ত্রিপদী স্ট্যান্ডের উপর তারজালি স্থাপন করে তারজালির উপরে তুঁতসহ কুসিবলকে বুনসেন বার্নার বা স্পিরিট ল্যাম্প দিয়ে তাপ দেওয়া হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p034",
+      "kind": "text",
+      "section": "কার্যপদ্ধতি",
+      "caption": null,
+      "body": "3. তাপ প্রদান করার ফলে যে তুঁতের বর্ণ নীল ছিল সেই তুঁতের বর্ণ আস্তে আস্তে সাদা হয়ে যাবে। তাপ প্রয়োগের ফলে তুঁতে থেকে পানি অপসারিত হওয়ার কারণে তুঁতের বর্ণ সাদা হয়ে যাবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p035",
+      "kind": "text",
+      "section": "কার্যপদ্ধতি",
+      "caption": null,
+      "body": "4. তুঁতের বর্ণ একেবারে সাদা হয়ে যাওয়ার পর বুনসেন বার্নার বা স্পিরিট ল্যাম্প বন্ধ করে তাপ দেওয়া বন্ধ করা হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p036",
+      "kind": "text",
+      "section": "কার্যপদ্ধতি",
+      "caption": null,
+      "body": "5. এবার পোর্সেলিন কুসিবলকে দুত ডেসিকেটে নিয়ে যাওয়া হলো এবং দুত শীতল করে পোর্সেলিন কুসিবলের ওজন নেওয়া হলো। এটি দুত করতে হবে, তা না হলে তুঁতে আবার পানি শোষণ করে নীল বর্ণ ধারণ করবে। ধরা যাক এই ওজন $c$ গ্রাম।",
+      "image": null,
+      "formulas": [
+        "c"
+      ],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p037",
+      "kind": "text",
+      "section": "কার্যপদ্ধতি",
+      "caption": null,
+      "body": "তাহলে পানি অপসারিত হবার পর তুঁতের ওজন $(c - a)$ গ্রাম\nতুঁতে থেকে অপসারিত পানির পরিমাণ $(b - a) - (c - a)$ গ্রাম\n$= (b - c)$ গ্রাম",
+      "image": null,
+      "formulas": [
+        "(c - a)",
+        "(b - a) - (c - a)",
+        "= (b - c)"
+      ],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p038",
+      "kind": "text",
+      "section": "হিসাব",
+      "caption": null,
+      "body": "$(b - a)$ গ্রাম তুঁতে থেকে অপসারিত পানির পরিমাণ $(b - c)$ গ্রাম",
+      "image": null,
+      "formulas": [
+        "(b - a)",
+        "(b - c)"
+      ],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p039",
+      "kind": "text",
+      "section": "হিসাব",
+      "caption": null,
+      "body": "কাজেই 100 গ্রাম তুঁতে থেকে অপসারিত পানির পরিমাণ $\\frac{(b-c)}{(b - a)} \\times 100$ গ্রাম",
+      "image": null,
+      "formulas": [
+        "\\frac{(b-c)}{(b - a)} \\times 100"
+      ],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p040",
+      "kind": "text",
+      "section": "হিসাব",
+      "caption": null,
+      "body": "তুঁতেতে কেলস পানির শতকরা পরিমাণ $\\frac{(b-c)}{(b - a)} \\times 100\\%$",
+      "image": null,
+      "formulas": [
+        "\\frac{(b-c)}{(b - a)} \\times 100\\%"
+      ],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p041",
+      "kind": "text",
+      "section": "সতর্কতা",
+      "caption": null,
+      "body": "পোর্সেলিন বাটিতে তুঁতে উত্তপ্ত করার সময় ধীরে ধীরে এবং সমানভাবে তাপ দিতে হবে। তাপ দিয়ে পানি বাষ্পীভূত করার পর দুত পোর্সেলিনসহ তুঁতের ওজন নিতে হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.5-p042",
+      "kind": "text",
+      "section": "সতর্কতা",
+      "caption": null,
+      "body": "**শিক্ষার্থীর কাজ:** তুঁতের কেলস পানির শতকরা পরিমাণ নির্ণয়ের জন্য এইরূপ একটি পরীক্ষাকার্য সম্পাদন করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

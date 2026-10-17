@@ -1,0 +1,64 @@
+{
+  "id": "higher-math-9-10-bn-c03",
+  "textbookId": "higher-math-9-10-bn",
+  "number": 3,
+  "title": "জ্যামিতি",
+  "englishTitle": "Geometry",
+  "pdfPages": [
+    68,
+    86
+  ],
+  "printedPages": [
+    63,
+    81
+  ],
+  "topics": [
+    {
+      "key": "3.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/3.0.json",
+      "passages": 26
+    },
+    {
+      "key": "3.1",
+      "title": "কতিপয় গুরুত্বপূর্ণ উপপাদ্য",
+      "file": "topics/3.1.json",
+      "passages": 71
+    },
+    {
+      "key": "3.ex",
+      "title": "অনুশীলনী ৩.১",
+      "file": "topics/3.ex.json",
+      "passages": 37
+    },
+    {
+      "key": "3.2",
+      "title": "ত্রিভুজ ও বৃত্তবিষয়ক উপপাদ্য",
+      "file": "topics/3.2.json",
+      "passages": 32
+    },
+    {
+      "key": "3.3",
+      "title": "ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু",
+      "file": "topics/3.3.json",
+      "passages": 80
+    }
+  ],
+  "stats": {
+    "topics": 5,
+    "passages": 246,
+    "images": 20,
+    "byKind": {
+      "text": 166,
+      "figure": 20,
+      "formula": 25,
+      "exercise": 35
+    },
+    "byReason": {
+      "verify-formula": 159,
+      "latin-junk": 9,
+      "known-confusable-corrected": 3
+    },
+    "needsReview": 160
+  }
+}

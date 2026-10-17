@@ -1,0 +1,477 @@
+{
+  "id": "physics-9-10-bn-c12-t12.3",
+  "key": "12.3",
+  "title": "তড়িৎ চুম্বকীয় আবেশ (Electromagnetic Induction)",
+  "chapter": 12,
+  "ordinal": 3,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c12-t12.3-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা আমাদের চারপাশে অসংখ্য যন্ত্রপাতিকে ঘুরতে দেখি, তাই আমাদের মনে হতে পারে এটাই বৃষ্টি চুম্বক বা চৌম্বক ক্ষেত্রের সবচেয়ে বড় অবদান। আসলে চুম্বকের এবং চৌম্বক ক্ষেত্রের সবচেয়ে বড় অবদান তড়িৎ চুম্বকীয় আবেশ অর্থাৎ চৌম্বক ক্ষেত্র দিয়ে বিদ্যুৎ তৈরি করা। বিজ্ঞানী ওয়েরস্টেড প্রথমে দেখিয়েছিলেন কোনো একটা পরিবাহী তারের লুপের ভেতর যদি চৌম্বক ক্ষেত্রের পরিবর্তন করা হয় তাহলে সেই লুপের ভেতর তড়িৎচালক শক্তি (EMF) তৈরি হয়, যেটা সেই লুপের ভেতর দিয়ে বিদ্যুৎ প্রবাহিত করতে পারে। এই বিষয়টি ব্যবহার করে বিদ্যুৎ জেনারেটর তৈরি করা হয়েছে, যেখানে পরিবাহী তারের ভেতর দিয়ে চৌম্বক ক্ষেত্রের পরিবর্তন করে বিদ্যুৎ তৈরি হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 343,
+      "pdfPageEnd": 343,
+      "printedPageStart": 338,
+      "printedPageEnd": 338,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.3-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "একটা কয়েলের দুই মাথা যদি একটা অ্যামিটারে লাগানো হয় এবং যদি সেই কয়েলের ভেতর একটা দণ্ড চুম্বক ঢোকানো হয় (চিত্র ১২.১২) তাহলে আমরা ঠিক ঢোকানোর সময় অ্যামিটারের কাঁটাটি স্ক্রণিকের জন্য নড়তে দেখতে পাব। আমরা যখন চুম্বকটা টেনে বের করে আনব তখন আবার আমরা অ্যামিটারের কাঁটাকে স্ক্রণিকের জন্য নড়তে দেখব তবে এবারে উল্টো দিকে। আমরা যদি চুম্বকের মেরু পরিবর্তন করি তাহলে অ্যামিটারেও বিদ্যুৎ প্রবাহ দিক পরিবর্তন দেখতে পাবো সুতরাং আমরা বলতে পারি একটি তারের কুণ্ডলীতে চৌম্বক ক্ষেত্রের পরিবর্তন করার সময় কুণ্ডলীর ভেতর ভোল্টেজ এবং বিদ্যুৎপ্রবাহ সৃষ্টি করাকে তড়িৎ চুম্বকীয় আবেশ বলে। এই ভোল্টেজকে আবিষ্ক ভোল্টেজ এবং বিদ্যুৎপ্রবাহকে আবিষ্ক বিদ্যুৎপ্রবাহ বলে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 343,
+      "pdfPageEnd": 343,
+      "printedPageStart": 338,
+      "printedPageEnd": 338,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.3-p003",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A hand holding a bar magnet moving towards a coil of wire connected to a galvanometer.",
+      "image": "p343-page_10_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 343,
+      "pdfPageEnd": 343,
+      "printedPageStart": 338,
+      "printedPageEnd": 338,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.3-p004",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "**চিত্র ১২.১২: সলিনয়েডে চুম্বক প্রবেশ করানোর সময় বিদ্যুৎপ্রবাহ দেখা যায়।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 343,
+      "pdfPageEnd": 343,
+      "printedPageStart": 338,
+      "printedPageEnd": 338,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.3-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এই পরীক্ষাটি করার সময় আমরা কয়েলের ভেতর চৌম্বক ক্ষেত্র পরিবর্তন করার জন্য একটা চুম্বককে কয়েলের ভেতর নিয়েছি এবং বের করে এনেছি। আমরা যদি অন্য কোনোভাবে চৌম্বক ক্ষেত্র পরিবর্তন করতে পারতাম, তাহলেও আমরা একই বিষয় দেখতে পেতাম। কয়েলের ভেতর চৌম্বক ক্ষেত্র পরিবর্তন করার আরেকটা উপায় হচ্ছে, এর কাছে চুম্বকের বদলে দ্বিতীয় একটা কয়েল নিয়ে আসা এবং সেই কয়েলে বিদ্যুৎ প্রবাহিত করিয়ে সেখানে চৌম্বক ক্ষেত্র তৈরি করা। যদি দ্বিতীয় কয়েলটিতে চৌম্বক ক্ষেত্র তৈরি করার জন্য একটা ব্যাটারিকে একটা সুইচ দিয়ে সংযোগ দেওয়া হয় তাহলে সুইচটি অন করে দ্বিতীয় কয়েলে চৌম্বক ক্ষেত্র তৈরি করা যাবে, আবার সুইচটি অফ করে চৌম্বক ক্ষেত্র অদৃশ্য করে দেওয়া যাবে। প্রথম কয়েলটির কাছে দ্বিতীয় কয়েলটি রেখে যদি সেটিতে চৌম্বক ক্ষেত্র একবার তৈরি করা হয় এবং আরেকবার নিঃশেষ করা হয় তাহলে প্রথম কয়েলের ভেতর চৌম্বক ক্ষেত্রের পরিবর্তন হবে এবং আমরা অ্যামিটারে সেজন্য বিদ্যুৎপ্রবাহ দেখব। সুইচ অন করে যখন বিদ্যুৎ প্রবাহ তৈরি করা হবে তখন অ্যামিটারের একদিকে তার কাঁটাটি নড়ে বিদ্যুৎপ্রবাহ দেখাবে—সুইচটি অফ করার সময় আবার কাঁটাটি অন্যদিকে নড়ে বিপরীত দিকে বিদ্যুৎপ্রবাহ দেখাবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 344,
+      "pdfPageEnd": 344,
+      "printedPageStart": 339,
+      "printedPageEnd": 339,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.3-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে যে বিষয়টি মনে রাখতে হবে সেটি হচ্ছে, যখন চৌম্বক ক্ষেত্র পরিবর্তন হয় শুধু তখন বিদ্যুৎপ্রবাহ হয়। একটা কয়েলের মাঝখানে প্রচণ্ড শক্তিশালী একটা চুম্বক রেখে দিলে কিন্তু নড়াচড়া না করলে কয়েল দিয়ে কোনো বিদ্যুৎ প্রবাহিত হবে না। শুধু যখন চুম্বকটি নাড়িয়ে চৌম্বক ক্ষেত্র পরিবর্তন করা হবে তখনই বিদ্যুৎ প্রবাহিত হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 344,
+      "pdfPageEnd": 344,
+      "printedPageStart": 339,
+      "printedPageEnd": 339,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.3-p007",
+      "kind": "text",
+      "section": "১২.৩.১ জেনারেটর (Generator)",
+      "caption": null,
+      "body": "মোটর কীভাবে কাজ করে সেটা যখন আমরা বোঝার চেষ্টা করছিলাম, তখন দেখেছি সেখানে একটা চৌম্বক ক্ষেত্রের মাঝে একটা তড়িৎচুম্বকের ভেতর বিদ্যুৎপ্রবাহ করানো হয়, যে কারণে সেটা ঘোরে। এবারে ব্যাপারটা একটু অন্যভাবে চিন্তা করা যাক। মোটরের তড়িৎচুম্বকের দুই প্রান্তে যদি আমরা ব্যাটারি সেলের সংযোগ না দিয়ে সেখানে একটা অ্যামিটার লাগিয়ে তড়িৎচুম্বকটা ঘোরাই তাহলে কী হবে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 344,
+      "pdfPageEnd": 344,
+      "printedPageStart": 339,
+      "printedPageEnd": 339,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.3-p008",
+      "kind": "text",
+      "section": "১২.৩.১ জেনারেটর (Generator)",
+      "caption": null,
+      "body": "অবশ্যই তখন কয়েলের মাঝে চৌম্বক ক্ষেত্রের পরিবর্তন হবে, কাজেই কুণ্ডলীর ভেতর দিয়ে বিদ্যুৎ প্রবাহ হবে। অর্থাৎ বিদ্যুৎপ্রবাহ করিয়ে যে মোটরের তড়িৎচুম্বক বা কয়েলকে আমরা ঘুরিয়েছি, সেই তড়িৎচুম্বক বা কয়েলটিকে ঘোরালে ঠিক তার উল্টো ব্যাপারটা ঘটে, বিদ্যুৎ তৈরি হয়। এভাবেই জেনারেটর তৈরি হয়। অর্থাৎ ডিসি মোটরের আর্মচারকে ঘোরালে সেটা ডিসি বিদ্যুৎপ্রবাহ দেয়, এসি মোটরকে ঘোরালে ঠিক সেভাবে এসি বিদ্যুৎপ্রবাহ দেয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 344,
+      "pdfPageEnd": 344,
+      "printedPageStart": 339,
+      "printedPageEnd": 339,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.3-p009",
+      "kind": "figure",
+      "section": "১২.৩.২ ট্রান্সফর্মার (Transformer)",
+      "caption": null,
+      "body": "drawing: transformer diagram",
+      "image": "p345-page_12_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 345,
+      "pdfPageEnd": 345,
+      "printedPageStart": 340,
+      "printedPageEnd": 340,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.3-p010",
+      "kind": "text",
+      "section": "১২.৩.২ ট্রান্সফর্মার (Transformer)",
+      "caption": null,
+      "body": "চৌম্বক ক্ষেত্রের পরিবর্তন হলে বিদ্যুৎ তৈরি হয়— এই নীতি ব্যবহার করে ট্রান্সফর্মার তৈরি করা হয়। ট্রান্সফর্মার কীভাবে কাজ করে বুঝার জন্য ১২.১৩ চিত্রে একটা আয়তাকার লোহার মজ্জা বা কোর দেখানো হয়েছে। এই কোরের দুই পাশে পরিবাহী তার প্যাঁচানো হয়েছে— অবশ্যই এই পরিবাহী তারের ওপর অপরিবাহী আস্তরণ রয়েছে, যেন এটা ধাতব কোনো কিছুকে স্পর্শ করলেও 'শার্ট সার্কিট' না হয়। চিত্রে দেখানো হয়েছে কোরের বাম পাশে একটা এসি ভোল্টেজের উৎস লাগানো হয়েছে। তারটি যেহেতু লোহার কোরকে ঘিরে লাগানো হয়েছে তাই যখন বিদ্যুৎ প্রবাহিত হবে, তখন লোহার ভেতরে চৌম্বকত্ব তৈরি হবে এবং সেই চৌম্বক বলরেখা আয়তাকার লোহার ভেতর দিয়ে যাবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 345,
+      "pdfPageEnd": 345,
+      "printedPageStart": 340,
+      "printedPageEnd": 340,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.3-p011",
+      "kind": "text",
+      "section": "১২.৩.২ ট্রান্সফর্মার (Transformer)",
+      "caption": null,
+      "body": "আমরা যেহেতু এসি ভোল্টেজের উৎস লাগিয়েছি তাই লোহার কোরে চৌম্বকত্ব বাড়বে-কমবে এবং দিক পরিবর্তন করবে, অর্থাৎ ক্রমাগত চৌম্বক ক্ষেত্রের পরিবর্তন হবে। লোহার কোরের অন্য পাশেও তার প্যাঁচানো আছে (অবশ্যই অপরিবাহী আবরণে ঢাকা) সেই কয়েলের মাঝে লোহার কোরের ভেতর দিয়ে চৌম্বক ক্ষেত্রটির ক্রমাগত পরিবর্তন হতে থাকবে এবং এই পরিবর্তন ডান পাশের কয়েলে একটা তড়িৎচালক শক্তি বা EMF তৈরি করবে— একটা ভোল্টমিটারে আমরা সেটা ইচ্ছে করলে পরিমাপ করতে পারব। এই পদ্ধতিতে সরাসরি বৈদ্যুতিক সংযোগ ছাড়াই একটি কয়েল থেকে অন্য কয়েলে বিদ্যুৎ পাঠানো যায়। যে যন্ত্রের মাধ্যমে এই কাজ করা হয় তাকে ট্রান্সফর্মার বলে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 345,
+      "pdfPageEnd": 345,
+      "printedPageStart": 340,
+      "printedPageEnd": 340,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.3-p012",
+      "kind": "text",
+      "section": "১২.৩.২ ট্রান্সফর্মার (Transformer)",
+      "caption": null,
+      "body": "এই ট্রান্সফর্মার দিয়ে আমরা অত্যন্ত চমকপ্রদ কিছু বিষয় করতে পারি। দুই পাশে কয়েলের প্যাঁচসংখ্যা যদি সমান হয়, তাহলে বাম দিকে আমরা যে এসি ভোল্টেজ প্রয়োগ করব ডান দিকে ঠিক সেই এসি ভোল্টেজ ফেরত পাব। ডান দিকে প্যাঁচের সংখ্যা যদি দশ গুণ বেশি হয় তাহলে ভোল্টেজ দশ গুণ বেশি হবে। প্যাঁচের সংখ্যা যদি দশ গুণ কম হয় তাহলে ভোল্টেজ দশ গুণ কম হবে। বাম দিকের কয়েল যেখানে এসি ভোল্টেজ প্রয়োগ করা হয়, তার নাম প্রাইমারি কয়েল বা মুখ্য কুণ্ডলী এবং ডান দিকে যেখানে ভোল্টেজ আবিষ্ট হয় তার নাম সেকেন্ডারি কয়েল বা গৌণ কুণ্ডলী।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 345,
+      "pdfPageEnd": 345,
+      "printedPageStart": 340,
+      "printedPageEnd": 340,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.3-p013",
+      "kind": "text",
+      "section": "১২.৩.২ ট্রান্সফর্মার (Transformer)",
+      "caption": null,
+      "body": "তোমরা হয়তো মনে করতে পারো যদি সত্যি এটা ঘটানো সম্ভব হয় তাহলে আমরা প্রাইমারিতে অল্পসংখ্যক প্যাঁচ দিয়ে অল্প ভোল্টেজ প্রয়োগ করে, সেকেন্ডারি কয়েলে অনেক বেশি প্যাঁচ দিয়ে বিশাল একটা ভোল্টেজ বের করে অফুরন্ত বৈদ্যুতিক শক্তির ব্যবস্থা করে ফেলি না কেন? এখানে একটি বিষয় মনে রাখতে হবে প্রতি সেকেন্ডে কতটুকু বৈদ্যুতিক শক্তি প্রয়োগ করা হচ্ছে, সেটা পরিমাপ করা হয় VI (ভোল্টেজ × কারেন্ট) দিয়ে, একটা ট্রান্সফর্মারে প্রাইমারিতে যে পরিমাণ VI প্রয়োগ করা হয়, সেকেন্ডারি কয়েল থেকে ঠিক সেই পরিমাণ $VI$ ফেরত পাওয়া যায়। কাজেই সেকেন্ডারিতে যদি ভোল্টেজ দশ গুণ বাড়িয়ে নেয়া যায় তাহলে সেখানে বিদ্যুৎও দশ গুণ কমে যাবে। তোমাদের বোঝানোর জন্য আয়তাকার একটি কোর দেখানো হয়েছে। সত্যিকারের ট্রান্সফরমার একটু অন্যভাবে তৈরি হয়, সেখানে প্রাইমারির উপরেই সেকেন্ডারি কয়েল পঁ্যাচানো হয় এবং কোরটাও একটু অন্য রকম হয়।",
+      "image": null,
+      "formulas": [
+        "VI"
+      ],
+      "pdfPageStart": 345,
+      "pdfPageEnd": 346,
+      "printedPageStart": 340,
+      "printedPageEnd": 341,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.3-p014",
+      "kind": "text",
+      "section": "১২.৩.২ ট্রান্সফর্মার (Transformer)",
+      "caption": null,
+      "body": "প্রাইমারি কয়েলে পঁ্যাচসংখ্যা যদি $n_P$ এবং সেকেন্ডারি কয়েলের পঁ্যাচসংখ্যা $n_S$ হয়, তাহলে প্রাইমারি কয়েলে যদি এসি $V_P$ ভোল্টেজ প্রয়োগ করা হয় তাহলে সেকেন্ডারি কয়েলে যে এসি ভোল্টেজ $V_S$ পাওয়া যাবে তা নির্ভর করবে পঁ্যাচ সংখার উপর:",
+      "image": null,
+      "formulas": [
+        "n_P",
+        "n_S",
+        "V_P",
+        "V_S"
+      ],
+      "pdfPageStart": 346,
+      "pdfPageEnd": 346,
+      "printedPageStart": 341,
+      "printedPageEnd": 341,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.3-p015",
+      "kind": "formula",
+      "section": "১২.৩.২ ট্রান্সফর্মার (Transformer)",
+      "caption": null,
+      "body": "$$V_S \\propto n_S, V_P \\propto n_P$$",
+      "image": null,
+      "formulas": [
+        "V_S \\propto n_S, V_P \\propto n_P"
+      ],
+      "pdfPageStart": 346,
+      "pdfPageEnd": 346,
+      "printedPageStart": 341,
+      "printedPageEnd": 341,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.3-p016",
+      "kind": "text",
+      "section": "১২.৩.২ ট্রান্সফর্মার (Transformer)",
+      "caption": null,
+      "body": "অর্থাৎ, $\\frac{V_P}{n_P} = \\frac{V_S}{n_S} = ধ্রুবক$",
+      "image": null,
+      "formulas": [
+        "\\frac{V_P}{n_P} = \\frac{V_S}{n_S} = ধ্রুবক"
+      ],
+      "pdfPageStart": 346,
+      "pdfPageEnd": 346,
+      "printedPageStart": 341,
+      "printedPageEnd": 341,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.3-p017",
+      "kind": "text",
+      "section": "১২.৩.২ ট্রান্সফর্মার (Transformer)",
+      "caption": null,
+      "body": "অর্থাৎ, $V_S = \\left( \\frac{n_S}{n_P} \\right) V_P$",
+      "image": null,
+      "formulas": [
+        "V_S = \\left( \\frac{n_S}{n_P} \\right) V_P"
+      ],
+      "pdfPageStart": 346,
+      "pdfPageEnd": 346,
+      "printedPageStart": 341,
+      "printedPageEnd": 341,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.3-p018",
+      "kind": "text",
+      "section": "১২.৩.২ ট্রান্সফর্মার (Transformer)",
+      "caption": null,
+      "body": "প্রাইমারি কয়েলে যদি $I_P$ বিদ্যুৎ প্রবাহিত হয় তাহলে সেকেন্ডারি কয়েলে বিদ্যুৎ প্রবাহ $I_S$ পাওয়া যাবে। $I_S$ এর মান পাওয়া যায় বৈদ্যুতিক সমতার সংরক্ষণ থেকে, অর্থাৎ",
+      "image": null,
+      "formulas": [
+        "I_P",
+        "I_S",
+        "I_S"
+      ],
+      "pdfPageStart": 346,
+      "pdfPageEnd": 346,
+      "printedPageStart": 341,
+      "printedPageEnd": 341,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.3-p019",
+      "kind": "formula",
+      "section": "১২.৩.২ ট্রান্সফর্মার (Transformer)",
+      "caption": null,
+      "body": "$$V_P I_P = V_S I_S$$",
+      "image": null,
+      "formulas": [
+        "V_P I_P = V_S I_S"
+      ],
+      "pdfPageStart": 346,
+      "pdfPageEnd": 346,
+      "printedPageStart": 341,
+      "printedPageEnd": 341,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.3-p020",
+      "kind": "text",
+      "section": "১২.৩.২ ট্রান্সফর্মার (Transformer)",
+      "caption": null,
+      "body": "অর্থাৎ $I_S = \\left( \\frac{V_P}{V_S} \\right) I_P = \\left( \\frac{n_P}{n_S} \\right) I_P$",
+      "image": null,
+      "formulas": [
+        "I_S = \\left( \\frac{V_P}{V_S} \\right) I_P = \\left( \\frac{n_P}{n_S} \\right) I_P"
+      ],
+      "pdfPageStart": 346,
+      "pdfPageEnd": 346,
+      "printedPageStart": 341,
+      "printedPageEnd": 341,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.3-p021",
+      "kind": "text",
+      "section": "১২.৩.২ ট্রান্সফর্মার (Transformer)",
+      "caption": null,
+      "body": "যে ট্রান্সফরমারে প্রাইমারি কয়েলের তুলনায় সেকেন্ডারি কয়েলের পঁ্যাচসংখ্যা বেশি হয় এবং সে কারণে প্রাইমারি কয়েলে প্রয়োগ করা এসি ভোল্টেজ সেকেন্ডারি কয়েলে বেড়ে যায়, তাকে স্টেপ আপ ট্রান্সফরমার বলে। বিদ্যুৎ পরিবহনের জন্য স্টেপ আপ ট্রান্সফরমার ব্যবহার করে ভোল্টেজকে অনেক গুণ বাড়ানো হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 346,
+      "pdfPageEnd": 346,
+      "printedPageStart": 341,
+      "printedPageEnd": 341,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.3-p022",
+      "kind": "text",
+      "section": "১২.৩.২ ট্রান্সফর্মার (Transformer)",
+      "caption": null,
+      "body": "যে ট্রান্সফরমারে প্রাইমারি কয়েলের তুলনায় সেকেন্ডারি কয়েলের পঁ্যাচসংখ্যা কম হয় এবং সে কারণে প্রাইমারি কয়েলে প্রয়োগ করা এসি ভোল্টেজ সেকেন্ডারি কয়েলে কমে যায় তাকে স্টেপ ডাউন ট্রান্সফরমার বলে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 346,
+      "pdfPageEnd": 346,
+      "printedPageStart": 341,
+      "printedPageEnd": 341,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.3-p023",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** একটি ট্রান্সফর্মারের প্রাইমারি কয়েলের প্যাঁচসংখ্যা 100, সেকেন্ডারি কয়েলের প্যাঁচসংখ্যা 1000, প্রাইমারি কয়েল দিয়ে 10V DC দেওয়া হলো। সেকেন্ডারি কয়েলে ভোল্টেজ কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 347,
+      "pdfPageEnd": 347,
+      "printedPageStart": 342,
+      "printedPageEnd": 342,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.3-p024",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** শূন্য। ট্রান্সফর্মার ডিসি ভোল্টেজে কাজ করে না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 347,
+      "pdfPageEnd": 347,
+      "printedPageStart": 342,
+      "printedPageEnd": 342,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.3-p025",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** একটি ট্রান্সফর্মারের প্রাইমারি কয়েলের প্যাঁচসংখ্যা 100, সেকেন্ডারি কয়েলের প্যাঁচসংখ্যা 1000, প্রাইমারি কয়েল দিয়ে 12V AC দেওয়া হলো। সেকেন্ডারি কয়েলে ভোল্টেজ কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 347,
+      "pdfPageEnd": 347,
+      "printedPageStart": 342,
+      "printedPageEnd": 342,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.3-p026",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** $V_S = \\left( \\frac{n_S}{n_P} \\right) V_P = \\left( \\frac{1000}{100} \\right) \\times 12V = 120V  AC$",
+      "image": null,
+      "formulas": [
+        "V_S = \\left( \\frac{n_S}{n_P} \\right) V_P = \\left( \\frac{1000}{100} \\right) \\times 12V = 120V  AC"
+      ],
+      "pdfPageStart": 347,
+      "pdfPageEnd": 347,
+      "printedPageStart": 342,
+      "printedPageEnd": 342,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.3-p027",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** উপরের ট্রান্সমিটারে প্রাইমারি কয়েল দিয়ে 1A বিদ্যুৎ প্রবাহিত হলে সেকেন্ডারি কয়েলে সর্বোচ্চ কত কারেন্ট প্রবাহিত হতে পারবে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 347,
+      "pdfPageEnd": 347,
+      "printedPageStart": 342,
+      "printedPageEnd": 342,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.3-p028",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** $I_S = \\left( \\frac{V_P}{V_S} \\right) I_P = \\left( \\frac{12}{120} \\right) \\times 1  A = 0.1  A$",
+      "image": null,
+      "formulas": [
+        "I_S = \\left( \\frac{V_P}{V_S} \\right) I_P = \\left( \\frac{12}{120} \\right) \\times 1  A = 0.1  A"
+      ],
+      "pdfPageStart": 347,
+      "pdfPageEnd": 347,
+      "printedPageStart": 342,
+      "printedPageEnd": 342,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

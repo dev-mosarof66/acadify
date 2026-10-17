@@ -1,0 +1,104 @@
+{
+  "id": "chemistry-9-10-bn-c04",
+  "textbookId": "chemistry-9-10-bn",
+  "number": 4,
+  "title": "পর্যায় সারণি",
+  "englishTitle": "Periodic Table",
+  "pdfPages": [
+    64,
+    86
+  ],
+  "printedPages": [
+    59,
+    81
+  ],
+  "topics": [
+    {
+      "key": "4.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/4.0.json",
+      "passages": 3
+    },
+    {
+      "key": "4.1",
+      "title": "পর্যায় সারণির পটভূমি (Background of Periodic Table)",
+      "file": "topics/4.1.json",
+      "passages": 19
+    },
+    {
+      "key": "4.2",
+      "title": "পর্যায় সারণির বৈশিষ্ট্য (Characteristics of the Periodic Table)",
+      "file": "topics/4.2.json",
+      "passages": 10
+    },
+    {
+      "key": "4.3",
+      "title": "ইলেকট্রন বিন্যাস থেকে পর্যায় সারণিতে মৌলের অবস্থান নির্ণয়",
+      "file": "topics/4.3.json",
+      "passages": 11
+    },
+    {
+      "key": "4.4",
+      "title": "ইলেকট্রন বিন্যাসই পর্যায় সারণির মূল ভিত্তি",
+      "file": "topics/4.4.json",
+      "passages": 9
+    },
+    {
+      "key": "4.5",
+      "title": "পর্যায় সারণির কিছু ব্যতিক্রম",
+      "file": "topics/4.5.json",
+      "passages": 3
+    },
+    {
+      "key": "4.6",
+      "title": "মৌলের পর্যায়বৃত্ত ধর্ম (Periodic Properties of Elements)",
+      "file": "topics/4.6.json",
+      "passages": 30
+    },
+    {
+      "key": "4.7",
+      "title": "বিভিন্ন গ্রুপে উপস্থিত মৌলগুলোর বিশেষ নাম",
+      "file": "topics/4.7.json",
+      "passages": 12
+    },
+    {
+      "key": "4.8",
+      "title": "পর্যায় সারণির সুবিধা (Advantages of the Periodic Table)",
+      "file": "topics/4.8.json",
+      "passages": 5
+    },
+    {
+      "key": "4.9",
+      "title": "পর্যায় সারণির একই গ্রুপের মৌলগুলো একই রকম রাসায়নিক ধর্ম প্রদর্শন করে",
+      "file": "topics/4.9.json",
+      "passages": 33
+    },
+    {
+      "key": "4.ex",
+      "title": "নমুনা প্রশ্ন",
+      "file": "topics/4.ex.json",
+      "passages": 22
+    }
+  ],
+  "stats": {
+    "topics": 11,
+    "passages": 157,
+    "images": 4,
+    "byKind": {
+      "figure": 8,
+      "text": 102,
+      "table": 11,
+      "formula": 7,
+      "example": 1,
+      "activity": 9,
+      "exercise": 19
+    },
+    "byReason": {
+      "latin-junk": 5,
+      "known-confusable-corrected": 36,
+      "verify-table": 11,
+      "verify-formula": 13
+    },
+    "needsReview": 59
+  }
+}

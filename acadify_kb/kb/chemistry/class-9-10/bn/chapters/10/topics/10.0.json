@@ -1,0 +1,71 @@
+{
+  "id": "chemistry-9-10-bn-c10-t10.0",
+  "key": "10.0",
+  "title": "ভূমিকা ও শিখনফল",
+  "chapter": 10,
+  "ordinal": 0,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c10-t10.0-p001",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "photo: a collection of various polished stones and crystals",
+      "image": "p238-page_1_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 238,
+      "pdfPageEnd": 238,
+      "printedPageStart": 233,
+      "printedPageEnd": 233,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c10-t10.0-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**নানা বর্ণের খনিজ পাথর**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 238,
+      "pdfPageEnd": 238,
+      "printedPageStart": 233,
+      "printedPageEnd": 233,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c10-t10.0-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "টিন, লোহা, তামা, সোনা, চিনামাটির তৈরি থালাবাসন, প্রাকৃতিক গ্যাসসহ হাজার হাজার প্রয়োজনীয় সামগ্রী আমরা পারিবারিক জীবন, শিল্পকারখানাসহ বিভিন্ন ক্ষেত্রে প্রতিনিয়ত ব্যবহার করে আসছি। এগুলো মৌলিক, যৌগিক বা বিভিন্ন মৌল ও যৌগের মিশ্রণ হতে পারে। এদের মধ্যে অনেক পদার্থ খনি থেকে পাওয়া যায়। খনিজ সম্পদ কী? কীভাবে খনি থেকে ধাতু ও অধাতু পাওয়া যায়? আবার সেগুলোকে কীভাবে সংরক্ষণ করা যায় বা এগুলো থেকে কীভাবে অন্য কোনো প্রয়োজনীয় সামগ্রী তৈরি করা যায় সেগুলো নিয়েই এ অধ্যায়ে আলোচনা করা হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 238,
+      "pdfPageEnd": 238,
+      "printedPageStart": 233,
+      "printedPageEnd": 233,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c10-t10.0-p004",
+      "kind": "text",
+      "section": "এ অধ্যায় পাঠ শেষে আমরা",
+      "caption": null,
+      "body": "* খনিজ সম্পদের ধারণা দিতে পারব।\n* শিলা, খনিজ ও আকরিকের মধ্যে তুলনা করতে পারব।\n* ধাতুসমূহের নিক্ষাশনের উপযুক্ত উপায় নির্ধারণ করতে পারব।\n* ধাতুসংকর তৈরির কারণ ব্যাখ্যা করতে পারব।\n* সালফারের উৎস এবং এদের কতিপয় প্রয়োজনীয় যৌগ প্রস্তুতের বিক্রিয়া, রাসায়নিক ধর্মের বর্ণনা এবং গৃহে, শিল্পে ও কৃষিক্ষেত্রে তা ব্যবহারের গুরুত্ব বিশ্লেষণ করতে পারব।\n* খনিজ দ্রব্যের সসীমতা, যথাযথ ব্যবহার ও পুনর্ব্যবহারের গুরুত্ব বিশ্লেষণ করতে পারব।\n* খনিজ দ্রব্যের ব্যবহারে সতর্কতা এবং সংরক্ষণে আগ্রহ প্রদর্শন করতে পারব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 239,
+      "pdfPageEnd": 239,
+      "printedPageStart": 234,
+      "printedPageEnd": 234,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    }
+  ]
+}

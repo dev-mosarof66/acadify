@@ -1,0 +1,69 @@
+{
+  "id": "physics-9-10-bn-c02-t2.0",
+  "key": "2.0",
+  "title": "ভূমিকা ও শিখনফল",
+  "chapter": 2,
+  "ordinal": 0,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c02-t2.0-p001",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "photo: a person riding a bicycle with motion blur",
+      "image": "p37-page_1_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 37,
+      "pdfPageEnd": 37,
+      "printedPageStart": 32,
+      "printedPageEnd": 32,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.0-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমাদের চারপাশে অনেক ধরনের গতি রয়েছে। একজন যখন সাইকেল চালিয়ে যায়, সেটি একধরনের গতি, যখন একটি গাড়ি যায় সেটিও, একধরনের গতি। যখন প্লেন উড়ে যায় সেটিও গতি, পৃথিবী যখন সূর্যের চারদিকে ঘোরে সেটিও একটি গতি। ঝুলন্ত একটি বাতি যখন দুলতে থাকে, সেটিও গতি, রাইফেল থেকে যখন বুলেট বের হয় সেটিও গতি। আপাতদৃষ্টিতে মনে হয়, এই নানা ধরনের গতি সব ভিন্ন ভিন্ন ধরনের গতি; কিন্তু তোমরা জেনে খুবই অবাক এবং খুশি হবে যে একেবারে অল্প কয়েকটি রাশি দিয়ে এই সবগুলোকে ব্যাখ্যা করা সম্ভব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 37,
+      "pdfPageEnd": 37,
+      "printedPageStart": 32,
+      "printedPageEnd": 32,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.0-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সেই রাশিগুলো, তাদের একক, মাত্রা এবং একের সাথে অন্যের কী সম্পর্ক এই অধ্যায়ে তা আলোচনা করা হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 37,
+      "pdfPageEnd": 37,
+      "printedPageStart": 32,
+      "printedPageEnd": 32,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.0-p004",
+      "kind": "objective",
+      "section": "এ অধ্যায় শেষে আমরা –",
+      "caption": null,
+      "body": "* স্টিতি ও গতি ব্যাখ্যা করতে পারব।\n* বিভিন্ন প্রকার গতির মধ্যে পার্থক্য করতে পারব।\n* স্কেলার ও ভেক্টর রাশি ব্যাখ্যা করতে পারব।\n* গতি-সম্পর্কিত রাশিসমূহের মধ্যে পারস্পরিক সম্পর্ক বিশ্লেষণ করতে পারব।\n* বাধাহীন ও মুক্তভাবে পড়ন্ত বস্তুর গতি ব্যাখ্যা করতে পারব।\n* লেখচিত্রের সাহায্যে গতি সম্পর্কিত রাশিসমূহের মধ্যে সম্পর্ক বিশ্লেষণ করতে পারব।\n* আমাদের জীবনে গতির প্রভাব উপলব্ধি করতে পারব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 38,
+      "pdfPageEnd": 38,
+      "printedPageStart": 33,
+      "printedPageEnd": 33,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

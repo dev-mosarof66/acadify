@@ -26,6 +26,7 @@ const KIND_LABEL: Record<string, string> = {
 
 const REASON_LABEL: Record<string, string> = {
   "latin-junk": "stray Latin letters",
+  "foreign-script": "letters from another script",
   "known-confusable-corrected": "word auto-corrected",
   "verify-formula": "check formula",
   "verify-table": "check table",

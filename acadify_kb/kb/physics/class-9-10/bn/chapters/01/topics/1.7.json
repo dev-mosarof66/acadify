@@ -25,7 +25,7 @@
       "kind": "text",
       "section": null,
       "caption": null,
-      "body": "ধরা যাক, তুমি একটি স্কেল দিয়ে বস্তুর দৈর্ঘ্য মাপছ। বস্তুটির দৈর্ঘ্য কত নির্ভুলভাবে মাপতে পারবে সেটি নির্ভর করে তোমার স্কেলটিতে কত সূক্ষ্মভাবে দাগ কাটা হয়েছে তার ওপর। যদি প্রতি 1 cm পরপর দাগ কাটা থাকে, তাহলে উত্তরটি অবশ্যই তুমি নির্দিষ্ট সংখ্যক cm এ প্রকাশ করবে। কিন্তু বস্তুর প্রকৃত দৈর্ঘ্যটি যে হুবহু সেই সংখ্যক cm ছিল তা কিন্তু নয়, সেটি সম্ভবত এর কাছাকাছি ছিল, কাজেই তোমার মাपा দৈর্ঘ্যটির ভেতর একটু অনিশ্চয়তা থাকা সম্ভব, সে কারণে প্রচলিত নিয়মে আমরা প্রকৃত উত্তরের সাথে সেই অনিশ্চয়তাটুকু যোগ করে দিই। অর্থাৎ আমরা যদি দেখি দৈর্ঘ্যটি 4 এর কাছাকাছি, তাহলে আমরা বলব বস্তুটির দৈর্ঘ্য:",
+      "body": "ধরা যাক, তুমি একটি স্কেল দিয়ে বস্তুর দৈর্ঘ্য মাপছ। বস্তুটির দৈর্ঘ্য কত নির্ভুলভাবে মাপতে পারবে সেটি নির্ভর করে তোমার স্কেলটিতে কত সূক্ষ্মভাবে দাগ কাটা হয়েছে তার ওপর। যদি প্রতি 1 cm পরপর দাগ কাটা থাকে, তাহলে উত্তরটি অবশ্যই তুমি নির্দিষ্ট সংখ্যক cm এ প্রকাশ করবে। কিন্তু বস্তুর প্রকৃত দৈর্ঘ্যটি যে হুবহু সেই সংখ্যক cm ছিল তা কিন্তু নয়, সেটি সম্ভবত এর কাছাকাছি ছিল, কাজেই তোমার মাপা দৈর্ঘ্যটির ভেতর একটু অনিশ্চয়তা থাকা সম্ভব, সে কারণে প্রচলিত নিয়মে আমরা প্রকৃত উত্তরের সাথে সেই অনিশ্চয়তাটুকু যোগ করে দিই। অর্থাৎ আমরা যদি দেখি দৈর্ঘ্যটি 4 এর কাছাকাছি, তাহলে আমরা বলব বস্তুটির দৈর্ঘ্য:",
       "image": null,
       "formulas": [],
       "pdfPageStart": 31,
@@ -286,21 +286,6 @@
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
-      "body": "<hr/>",
-      "image": null,
-      "formulas": [],
-      "pdfPageStart": 32,
-      "pdfPageEnd": 32,
-      "printedPageStart": 27,
-      "printedPageEnd": 27,
-      "reviewReasons": [],
-      "needsReview": false
-    },
-    {
-      "id": "physics-9-10-bn-c01-t1.7-p018",
-      "kind": "text",
-      "section": "উদাহরণ",
-      "caption": null,
       "body": "**প্রশ্ন:** ধরা যাক, বর্গাকৃতি একটা বইয়ের দৈর্ঘ্য পরিমাপ করে তুমি $10  cm$ পেয়েছ। ধরা যাক, পরিমাপে $10\\%$ আপেক্ষিক ত্রুটি হয়েছে। বস্তুটির ক্ষেত্রফলে আপেক্ষিক ত্রুটি কত?",
       "image": null,
       "formulas": [
@@ -318,7 +303,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.7-p019",
+      "id": "physics-9-10-bn-c01-t1.7-p018",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -338,7 +323,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.7-p020",
+      "id": "physics-9-10-bn-c01-t1.7-p019",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -360,7 +345,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.7-p021",
+      "id": "physics-9-10-bn-c01-t1.7-p020",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -375,7 +360,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-9-10-bn-c01-t1.7-p022",
+      "id": "physics-9-10-bn-c01-t1.7-p021",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -395,7 +380,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.7-p023",
+      "id": "physics-9-10-bn-c01-t1.7-p022",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -410,7 +395,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-9-10-bn-c01-t1.7-p024",
+      "id": "physics-9-10-bn-c01-t1.7-p023",
       "kind": "formula",
       "section": "উদাহরণ",
       "caption": null,
@@ -429,7 +414,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.7-p025",
+      "id": "physics-9-10-bn-c01-t1.7-p024",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -448,7 +433,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.7-p026",
+      "id": "physics-9-10-bn-c01-t1.7-p025",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -468,7 +453,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.7-p027",
+      "id": "physics-9-10-bn-c01-t1.7-p026",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -487,7 +472,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.7-p028",
+      "id": "physics-9-10-bn-c01-t1.7-p027",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -502,41 +487,26 @@
       "needsReview": false
     },
     {
+      "id": "physics-9-10-bn-c01-t1.7-p028",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** তুমি একটি বাক্স এমন একটি রূলের দিয়ে মেপেছ, যেখানে শুধু cm দিয়ে দাগ। তুমি বাক্সটির দৈর্ঘ্য প্রস্তুত এবং উচ্চতা হিসেবে পেয়েছ 10 cm, 5 cm, 4 cm, তোমার মাপে কত শতাংশ ত্রুটি আছে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
       "id": "physics-9-10-bn-c01-t1.7-p029",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
-      "body": "<hr/>",
-      "image": null,
-      "formulas": [],
-      "pdfPageStart": 33,
-      "pdfPageEnd": 33,
-      "printedPageStart": 28,
-      "printedPageEnd": 28,
-      "reviewReasons": [],
-      "needsReview": false
-    },
-    {
-      "id": "physics-9-10-bn-c01-t1.7-p030",
-      "kind": "text",
-      "section": "উদাহরণ",
-      "caption": null,
-      "body": "**প্রশ্ন:** তুমি একটি বাক্স এমন একটি রুলার দিয়ে মেপেছ, যেখানে শুধু cm দিয়ে দাগ। তুমি বাক্সটির দৈর্ঘ্য প্রস্তুত এবং উচ্চতা হিসেবে পেয়েছ 10 cm, 5 cm, 4 cm, তোমার মাপে কত শতাংশ ত্রুটি আছে?",
-      "image": null,
-      "formulas": [],
-      "pdfPageStart": 33,
-      "pdfPageEnd": 33,
-      "printedPageStart": 28,
-      "printedPageEnd": 28,
-      "reviewReasons": [],
-      "needsReview": false
-    },
-    {
-      "id": "physics-9-10-bn-c01-t1.7-p031",
-      "kind": "text",
-      "section": "উদাহরণ",
-      "caption": null,
-      "body": "**উত্তর:** যেহেতু তোমার রুলারে শুধু cm দাগ দেওয়া, কাজেই তোমার ত্রুটি $\\pm 0.5$ cm কাজেই তোমার মাপের ত্রুটি:",
+      "body": "**উত্তর:** যেহেতু তোমার রূলারে শুধু cm দাগ দেওয়া, কাজেই তোমার ত্রুটি $\\pm 0.5$ cm কাজেই তোমার মাপের ত্রুটি:",
       "image": null,
       "formulas": [
         "\\pm 0.5"
@@ -551,7 +521,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.7-p032",
+      "id": "physics-9-10-bn-c01-t1.7-p030",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -572,7 +542,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.7-p033",
+      "id": "physics-9-10-bn-c01-t1.7-p031",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -591,7 +561,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.7-p034",
+      "id": "physics-9-10-bn-c01-t1.7-p032",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -610,7 +580,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.7-p035",
+      "id": "physics-9-10-bn-c01-t1.7-p033",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -629,7 +599,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.7-p036",
+      "id": "physics-9-10-bn-c01-t1.7-p034",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -648,7 +618,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.7-p037",
+      "id": "physics-9-10-bn-c01-t1.7-p035",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -663,7 +633,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-9-10-bn-c01-t1.7-p038",
+      "id": "physics-9-10-bn-c01-t1.7-p036",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -687,7 +657,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.7-p039",
+      "id": "physics-9-10-bn-c01-t1.7-p037",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,
@@ -706,7 +676,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.7-p040",
+      "id": "physics-9-10-bn-c01-t1.7-p038",
       "kind": "text",
       "section": "উদাহরণ",
       "caption": null,

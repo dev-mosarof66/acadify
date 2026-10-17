@@ -1,0 +1,292 @@
+{
+  "id": "higher-math-9-10-bn-c02-t2.13",
+  "key": "2.13",
+  "title": "অনুসিদ্ধান্ত ২. যদি $a + b + c = 0$ হয়, তবে $a^3 + b^3 + c^3 = 3abc$।",
+  "chapter": 2,
+  "ordinal": 13,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c02-t2.13-p001",
+      "kind": "example",
+      "section": "উদাহরণ ১৮. $(a - b)^3 + (b - c)^3 + (c - a)^3$ কে উৎপাদকে বিশ্লেষণ করো।",
+      "caption": null,
+      "body": "**সমাধান:** ধরি $A = a - b, B = b - c, C = c - a$।",
+      "image": null,
+      "formulas": [
+        "A = a - b, B = b - c, C = c - a"
+      ],
+      "pdfPageStart": 57,
+      "pdfPageEnd": 57,
+      "printedPageStart": 52,
+      "printedPageEnd": 52,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.13-p002",
+      "kind": "text",
+      "section": "উদাহরণ ১৮. $(a - b)^3 + (b - c)^3 + (c - a)^3$ কে উৎপাদকে বিশ্লেষণ করো।",
+      "caption": null,
+      "body": "তাহলে, $A + B + C = a - b + b - c + c - a = 0$।",
+      "image": null,
+      "formulas": [
+        "A + B + C = a - b + b - c + c - a = 0"
+      ],
+      "pdfPageStart": 57,
+      "pdfPageEnd": 57,
+      "printedPageStart": 52,
+      "printedPageEnd": 52,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.13-p003",
+      "kind": "text",
+      "section": "উদাহরণ ১৮. $(a - b)^3 + (b - c)^3 + (c - a)^3$ কে উৎপাদকে বিশ্লেষণ করো।",
+      "caption": null,
+      "body": "সুতরাং, $A^3 + B^3 + C^3 = 3ABC$।",
+      "image": null,
+      "formulas": [
+        "A^3 + B^3 + C^3 = 3ABC"
+      ],
+      "pdfPageStart": 57,
+      "pdfPageEnd": 57,
+      "printedPageStart": 52,
+      "printedPageEnd": 52,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.13-p004",
+      "kind": "text",
+      "section": "উদাহরণ ১৮. $(a - b)^3 + (b - c)^3 + (c - a)^3$ কে উৎপাদকে বিশ্লেষণ করো।",
+      "caption": null,
+      "body": "অর্থাৎ, $(a - b)^3 + (b - c)^3 + (c - a)^3 = 3(a - b)(b - c)(c - a)$।",
+      "image": null,
+      "formulas": [
+        "(a - b)^3 + (b - c)^3 + (c - a)^3 = 3(a - b)(b - c)(c - a)"
+      ],
+      "pdfPageStart": 57,
+      "pdfPageEnd": 57,
+      "printedPageStart": 52,
+      "printedPageEnd": 52,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.13-p005",
+      "kind": "text",
+      "section": "উদাহরণ ১৮. $(a - b)^3 + (b - c)^3 + (c - a)^3$ কে উৎপাদকে বিশ্লেষণ করো।",
+      "caption": null,
+      "body": "**কাজ:** উৎপাদকে বিশ্লেষণ করো:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 58,
+      "pdfPageEnd": 58,
+      "printedPageStart": 53,
+      "printedPageEnd": 53,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.13-p006",
+      "kind": "text",
+      "section": "উদাহরণ ১৮. $(a - b)^3 + (b - c)^3 + (c - a)^3$ কে উৎপাদকে বিশ্লেষণ করো।",
+      "caption": null,
+      "body": "ক) (১) $a(b^2 - c^2) + b(c^2 - a^2) + c(a^2 - b^2)$",
+      "image": null,
+      "formulas": [
+        "a(b^2 - c^2) + b(c^2 - a^2) + c(a^2 - b^2)"
+      ],
+      "pdfPageStart": 58,
+      "pdfPageEnd": 58,
+      "printedPageStart": 53,
+      "printedPageEnd": 53,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.13-p007",
+      "kind": "text",
+      "section": "উদাহরণ ১৮. $(a - b)^3 + (b - c)^3 + (c - a)^3$ কে উৎপাদকে বিশ্লেষণ করো।",
+      "caption": null,
+      "body": "(২) $a^2(b - c) + b^2(c - a) + c^2(a - b)$",
+      "image": null,
+      "formulas": [
+        "a^2(b - c) + b^2(c - a) + c^2(a - b)"
+      ],
+      "pdfPageStart": 58,
+      "pdfPageEnd": 58,
+      "printedPageStart": 53,
+      "printedPageEnd": 53,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.13-p008",
+      "kind": "text",
+      "section": "উদাহরণ ১৮. $(a - b)^3 + (b - c)^3 + (c - a)^3$ কে উৎপাদকে বিশ্লেষণ করো।",
+      "caption": null,
+      "body": "(৩) $a(b - c)^3 + b(c - a)^3 + c(a - b)^3$",
+      "image": null,
+      "formulas": [
+        "a(b - c)^3 + b(c - a)^3 + c(a - b)^3"
+      ],
+      "pdfPageStart": 58,
+      "pdfPageEnd": 58,
+      "printedPageStart": 53,
+      "printedPageEnd": 53,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.13-p009",
+      "kind": "text",
+      "section": "উদাহরণ ১৮. $(a - b)^3 + (b - c)^3 + (c - a)^3$ কে উৎপাদকে বিশ্লেষণ করো।",
+      "caption": null,
+      "body": "(৪) $bc(b^2 - c^2) + ca(c^2 - a^2) + ab(a^2 - b^2)$",
+      "image": null,
+      "formulas": [
+        "bc(b^2 - c^2) + ca(c^2 - a^2) + ab(a^2 - b^2)"
+      ],
+      "pdfPageStart": 58,
+      "pdfPageEnd": 58,
+      "printedPageStart": 53,
+      "printedPageEnd": 53,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.13-p010",
+      "kind": "text",
+      "section": "উদাহরণ ১৮. $(a - b)^3 + (b - c)^3 + (c - a)^3$ কে উৎপাদকে বিশ্লেষণ করো।",
+      "caption": null,
+      "body": "(৫) $a^4(b - c) + b^4(c - a) + c^4(a - b)$",
+      "image": null,
+      "formulas": [
+        "a^4(b - c) + b^4(c - a) + c^4(a - b)"
+      ],
+      "pdfPageStart": 58,
+      "pdfPageEnd": 58,
+      "printedPageStart": 53,
+      "printedPageEnd": 53,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.13-p011",
+      "kind": "text",
+      "section": "উদাহরণ ১৮. $(a - b)^3 + (b - c)^3 + (c - a)^3$ কে উৎপাদকে বিশ্লেষণ করো।",
+      "caption": null,
+      "body": "(৬) $a^2(b - c)^3 + b^2(c - a)^3 + c^2(a - b)^3$",
+      "image": null,
+      "formulas": [
+        "a^2(b - c)^3 + b^2(c - a)^3 + c^2(a - b)^3"
+      ],
+      "pdfPageStart": 58,
+      "pdfPageEnd": 58,
+      "printedPageStart": 53,
+      "printedPageEnd": 53,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.13-p012",
+      "kind": "text",
+      "section": "উদাহরণ ১৮. $(a - b)^3 + (b - c)^3 + (c - a)^3$ কে উৎপাদকে বিশ্লেষণ করো।",
+      "caption": null,
+      "body": "(৭) $x^4(y^2 - z^2) + y^4(z^2 - x^2) + z^4(x^2 - y^2)$",
+      "image": null,
+      "formulas": [
+        "x^4(y^2 - z^2) + y^4(z^2 - x^2) + z^4(x^2 - y^2)"
+      ],
+      "pdfPageStart": 58,
+      "pdfPageEnd": 58,
+      "printedPageStart": 53,
+      "printedPageEnd": 53,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.13-p013",
+      "kind": "text",
+      "section": "উদাহরণ ১৮. $(a - b)^3 + (b - c)^3 + (c - a)^3$ কে উৎপাদকে বিশ্লেষণ করো।",
+      "caption": null,
+      "body": "(৮) $a^3(b - c) + b^3(c - a) + c^3(a - b)$",
+      "image": null,
+      "formulas": [
+        "a^3(b - c) + b^3(c - a) + c^3(a - b)"
+      ],
+      "pdfPageStart": 58,
+      "pdfPageEnd": 58,
+      "printedPageStart": 53,
+      "printedPageEnd": 53,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.13-p014",
+      "kind": "text",
+      "section": "উদাহরণ ১৮. $(a - b)^3 + (b - c)^3 + (c - a)^3$ কে উৎপাদকে বিশ্লেষণ করো।",
+      "caption": null,
+      "body": "খ) যদি $\\frac{x^2 - yz}{a} = \\frac{y^2 - zx}{b} = \\frac{z^2 - xy}{c} \\neq 0$ হয়,\nতবে দেখাও যে, $(a + b + c)(x + y + z) = ax + by + cz$।",
+      "image": null,
+      "formulas": [
+        "\\frac{x^2 - yz}{a} = \\frac{y^2 - zx}{b} = \\frac{z^2 - xy}{c} \\neq 0",
+        "(a + b + c)(x + y + z) = ax + by + cz"
+      ],
+      "pdfPageStart": 58,
+      "pdfPageEnd": 58,
+      "printedPageStart": 53,
+      "printedPageEnd": 53,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.13-p015",
+      "kind": "text",
+      "section": "উদাহরণ ১৮. $(a - b)^3 + (b - c)^3 + (c - a)^3$ কে উৎপাদকে বিশ্লেষণ করো।",
+      "caption": null,
+      "body": "গ) যদি $(a + b + c)(ab + bc + ca) = abc$ হয়, তবে দেখাও যে, $(a + b + c)^3 = a^3 + b^3 + c^3$।",
+      "image": null,
+      "formulas": [
+        "(a + b + c)(ab + bc + ca) = abc",
+        "(a + b + c)^3 = a^3 + b^3 + c^3"
+      ],
+      "pdfPageStart": 58,
+      "pdfPageEnd": 58,
+      "printedPageStart": 53,
+      "printedPageEnd": 53,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

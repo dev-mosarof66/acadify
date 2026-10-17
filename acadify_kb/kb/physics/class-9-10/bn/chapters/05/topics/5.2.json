@@ -1,0 +1,504 @@
+{
+  "id": "physics-9-10-bn-c05-t5.2",
+  "key": "5.2",
+  "title": "ঘনত্ব (Density)",
+  "chapter": 5,
+  "ordinal": 2,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c05-t5.2-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তরল এবং বায়বীয় পদার্থের চাপ বোঝার আগে আমাদের ঘনত্ব সম্পর্কে ধারণাটি অনেক স্পষ্ট থাকা দরকার। ঘনত্ব হচ্ছে একক আয়তনে ভরের পরিমাণ অর্থাৎ কোনো বস্তুর ভর যদি $m$ এবং আয়তন $V$ হয় তাহলে তার ঘনত্ব",
+      "image": null,
+      "formulas": [
+        "m",
+        "V"
+      ],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.2-p002",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\rho = \\frac{m}{V}$$",
+      "image": null,
+      "formulas": [
+        "\\rho = \\frac{m}{V}"
+      ],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.2-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঘনত্বের একক kg/m<sup>3</sup> অথবা gm/cc\nঘনত্বের মাত্রা $[P] = ML^{-3}$",
+      "image": null,
+      "formulas": [
+        "[P] = ML^{-3}"
+      ],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.2-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "টেবিল ৫.০১ এ তোমাদের পরিচিত কয়েকটি পদার্থের ঘনত্ব দেওয়া হলো। এখানে একটা বিষয় মনে রাখা ভালো, তাপমাত্রা বাড়লে কিংবা কমলে পদার্থের আয়তন বাড়বে কিংবা কমতে পারে। যেহেতু ভরের কোনো পরিবর্তন হয় না তাই পদার্থের ঘনত্ব তাপমাত্রার সাথে পরিবর্তন হতে পারে। সেজন্য পদার্থের ঘনত্বের কথা বলতে হলে সাধারণত সেটি কোন তাপমাত্রায় মাপা হয়েছে সেটিও বলে দিতে হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.2-p005",
+      "kind": "table",
+      "section": null,
+      "caption": "টেবিল ৫.০১: বিভিন্ন পদার্থের ঘনত্ব",
+      "body": "<table><tr><th>পদার্থ</th><th>ঘনত্ব<br />(gm/cc)</th></tr>\n<tr><td>বাতাস</td><td>0.00127</td></tr>\n<tr><td>কর্ক</td><td>0.25</td></tr>\n<tr><td>কার্ঠ</td><td>0.4 - 0.5</td></tr>\n<tr><td>মানবদেহ</td><td>0.995</td></tr>\n<tr><td>পানি</td><td>1.00</td></tr>\n<tr><td>কাচ</td><td>2.60</td></tr>\n<tr><td>লোহা</td><td>7.80</td></tr>\n<tr><td>পারদ</td><td>13.6</td></tr>\n<tr><td>সোনা</td><td>19.30</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.2-p006",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** 1 kg পানিতে 0.25 kg লবণ গুলে নেওয়ার পর তার আয়তন হলো 1200 cc এই পানির ঘনত্ব কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.2-p007",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** 1 cc হচ্ছে 1 cm<sup>3</sup> কাজেই",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.2-p008",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$1  cc = (10^{-2}  m)^3 = 10^{-6}  m^3$$",
+      "image": null,
+      "formulas": [
+        "1  cc = (10^{-2}  m)^3 = 10^{-6}  m^3"
+      ],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.2-p009",
+      "kind": "formula",
+      "section": "কাজেই লবণ গোলা পানির ঘনত্ব",
+      "caption": null,
+      "body": "$$\\rho = \\frac{1  kg + 0.25  kg}{1200 \\times 10^{-6}  m^3} = 1.04 \\times 10^3  kg/m^3$$",
+      "image": null,
+      "formulas": [
+        "\\rho = \\frac{1  kg + 0.25  kg}{1200 \\times 10^{-6}  m^3} = 1.04 \\times 10^3  kg/m^3"
+      ],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.2-p010",
+      "kind": "text",
+      "section": "কাজেই লবণ গোলা পানির ঘনত্ব",
+      "caption": null,
+      "body": "**প্রশ্ন:** জর্ডানের ডেড সি (Dead sea) এর ঘনত্ব 1.24 kg/liter এই সমুদ্রের 1 kg পানির আয়তন কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.2-p011",
+      "kind": "text",
+      "section": "কাজেই লবণ গোলা পানির ঘনত্ব",
+      "caption": null,
+      "body": "**উত্তর:** 1 litre হচ্ছে 1000 cc বা $10^{-3}  m^3$ কাজেই জর্ডানের ডেড সি এর পানির ঘনত্ব",
+      "image": null,
+      "formulas": [
+        "10^{-3}  m^3"
+      ],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.2-p012",
+      "kind": "formula",
+      "section": "কাজেই লবণ গোলা পানির ঘনত্ব",
+      "caption": null,
+      "body": "$$\\rho = 1.24 \\frac{kg}{liter} = \\frac{1.24  kg}{10^{-3}  m^3} = 1.24 \\times 10^3  kg m^{-3}$$",
+      "image": null,
+      "formulas": [
+        "\\rho = 1.24 \\frac{kg}{liter} = \\frac{1.24  kg}{10^{-3}  m^3} = 1.24 \\times 10^3  kg m^{-3}"
+      ],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.2-p013",
+      "kind": "text",
+      "section": "কাজেই লবণ গোলা পানির ঘনত্ব",
+      "caption": null,
+      "body": "কাজেই 1 kg পানির আয়তন:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.2-p014",
+      "kind": "formula",
+      "section": "কাজেই লবণ গোলা পানির ঘনত্ব",
+      "caption": null,
+      "body": "$$V = \\frac{m}{\\rho} = \\frac{1  kg}{1.24 \\times 10^3  kg m^{-3}} = 0.81 \\times 10^{-3}  m^3$$",
+      "image": null,
+      "formulas": [
+        "V = \\frac{m}{\\rho} = \\frac{1  kg}{1.24 \\times 10^3  kg m^{-3}} = 0.81 \\times 10^{-3}  m^3"
+      ],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.2-p015",
+      "kind": "text",
+      "section": "কাজেই লবণ গোলা পানির ঘনত্ব",
+      "caption": null,
+      "body": "কিংবা 0.81 liter",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.2-p016",
+      "kind": "text",
+      "section": "কাজেই লবণ গোলা পানির ঘনত্ব",
+      "caption": null,
+      "body": "**প্রশ্ন:** নিউক্লিয়াসের ঘনত্ব কত? 1 চা চামচ নিউক্লিয়াসের ভর কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.2-p017",
+      "kind": "text",
+      "section": "কাজেই লবণ গোলা পানির ঘনত্ব",
+      "caption": null,
+      "body": "**উত্তর:** নিউক্লিয়াস তৈরি হয় নিউট্রন আর প্রোটন দিয়ে যাদেরকে সুযম গোলক হিসেবে বিবেচনা করা যায়। তাদের একটার ভর $1.67 \\times 10^{-27}  kg$, তাদের ব্যাসার্ধ আনুমানিক $1.25  fm = 1.25 \\times 10^{-15}  m$ কাজেই নিউট্রন কিংবা প্রোটনের ঘনত্ব বের করতে পারলে সেটাকেই নিউক্লিয়াসের ঘনত্ব হিসেবে ধরতে পারি!",
+      "image": null,
+      "formulas": [
+        "1.67 \\times 10^{-27}  kg",
+        "1.25  fm = 1.25 \\times 10^{-15}  m"
+      ],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.2-p018",
+      "kind": "text",
+      "section": "কাজেই লবণ গোলা পানির ঘনত্ব",
+      "caption": null,
+      "body": "নিউক্লিয়াসের ঘনত্ব",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.2-p019",
+      "kind": "formula",
+      "section": "কাজেই লবণ গোলা পানির ঘনত্ব",
+      "caption": null,
+      "body": "$$\\rho = \\frac{m}{\\frac{4\\pi}{3}r^3} = \\frac{1.67 \\times 10^{-27}  kg}{\\frac{4\\pi}{3}(1.25 \\times 10^{-15}  m)^3} = 0.204 \\times 10^{18}  kg/m^3$$",
+      "image": null,
+      "formulas": [
+        "\\rho = \\frac{m}{\\frac{4\\pi}{3}r^3} = \\frac{1.67 \\times 10^{-27}  kg}{\\frac{4\\pi}{3}(1.25 \\times 10^{-15}  m)^3} = 0.204 \\times 10^{18}  kg/m^3"
+      ],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.2-p020",
+      "kind": "text",
+      "section": "কাজেই লবণ গোলা পানির ঘনত্ব",
+      "caption": null,
+      "body": "এই সংখ্যাটি যে কত বিশাল সেটা তোমাদের অনুমান করা দরকার। এক চা চামচে মোটামুটি 1 cc জিনিস ধরে, কাজেই এক চা-চামচ নিউক্লিয়াসের ভর:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.2-p021",
+      "kind": "formula",
+      "section": "কাজেই লবণ গোলা পানির ঘনত্ব",
+      "caption": null,
+      "body": "$$m = 0.204 \\times 10^{18}  kg/m^3 \\times 10^{-6}  m^3 = 2 \\times 10^{11}  kg$$",
+      "image": null,
+      "formulas": [
+        "m = 0.204 \\times 10^{18}  kg/m^3 \\times 10^{-6}  m^3 = 2 \\times 10^{11}  kg"
+      ],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.2-p022",
+      "kind": "text",
+      "section": "কাজেই লবণ গোলা পানির ঘনত্ব",
+      "caption": null,
+      "body": "এটা মোটামুটিভাবে পৃথিবীর সব মানুষের সম্মিলিত ভর।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.2-p023",
+      "kind": "text",
+      "section": "কাজেই লবণ গোলা পানির ঘনত্ব",
+      "caption": null,
+      "body": "আবার অন্যভাবেও এটা দেখতে পারি। একটা পরমাণুতে নিউক্লিয়াসে নিউটন-প্রোটন থাকে, বাইরে থাকে ইলেকট্রন। ইলেকট্রনের ভর নিউট্রন-প্রোটনের ভর থেকে প্রায় 1800 গুণ কম, কাজেই যেকোনো জিনিসের ভরটা আসলে নিউক্লিয়াসের ভর। ইলেকট্রনগুলোকে না ধরলে খুব একটা স্ফতি বৃদ্ধি হয় না। কিন্তু আমরা চারপাশে যেসব দেখি, তার আকার কিন্তু নিউক্লিয়াসের আয়তন নয়। তার আয়তন এসেছে পরমাণুর আয়তন থেকে। খুব ছোট একটা নিউক্লিয়াসকে ঘিরে তুলনামূলকভাবে অনেক বড় একটা কক্ষপথে ইলেকট্রন ঘুরতে থাকে। নিউক্লিয়াসের ব্যাসার্ধ থেকে পরমাণুর ব্যাসার্ধ প্রায় এক লক্ষ গুণ বড়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 138,
+      "pdfPageEnd": 138,
+      "printedPageStart": 133,
+      "printedPageEnd": 133,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.2-p024",
+      "kind": "text",
+      "section": "কাজেই লবণ গোলা পানির ঘনত্ব",
+      "caption": null,
+      "body": "কাজেই আমরা অন্যভাবে বলতে পারি, পৃথিবীর সব মানুষকে একত্র করে যদি কোনোভাবে চাপ দিয়ে তাদের শরীরের যে কয়টি পরমাণু আছে সেগুলো ভেঙে সমস্ত নিউক্লিয়াস একত্র করে ফেলা যায় তাহলে সেটা একটা চা চামচে ঐটে যাবে!",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 138,
+      "pdfPageEnd": 138,
+      "printedPageStart": 133,
+      "printedPageEnd": 133,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.2-p025",
+      "kind": "text",
+      "section": "৫.২.১ দৈনদিন জীবনে ঘনত্বের ব্যবহার",
+      "caption": null,
+      "body": "আমাদের দৈনদিন জীবনে ঘনত্ব একটা গুরুত্বপূর্ণ ভূমিকা পালন করে। সেটা অনেক সময় আমরা আলাদা করে লক্ষ্য করি না। যেমন ধরা যাক, চুলোতে একটা পাত্রে আমরা যখন পানি গরম করতে দিই, কিছুক্ষণের মাঝেই পানি টগবগ করে ফুটে থাকে। তার কারণ পাত্রের নিচের অংশে যে পানি থাকে সেটি যখন চুলোর আগুনে উত্তপ্ত হয়ে প্রসারিত হয়, তখন তার ঘনত্ব কমে যায়। ঘনত্ব কম বলে সেই পানিটা উপরে উঠে যায় এবং আশপাশের শীতল পানি নিচে এসে জমা হয়। একটু পর উত্তপ্ত হয়ে সেটাও উপরে উঠে যায় এবং এভাবে চলতেই থাকে এবং কিছুক্ষণেই পানিটা ফুটে থাকে (এই পদ্ধতিতে পানি কিংবা গ্যাসকে গরম করার পদ্ধতির নাম কনভেকশন বা পরিচলন)। যদি উত্তপ্ত করার পর পানির ঘনত্ব কমে না যেত, তাহলে সেটি উপরে উঠে যেত না এবং চুলোর আগুনে শুধু পাত্রের নিচের পানি গরম করতে পারতাম এবং পুরো পাত্রের পানি উত্তপ্ত করা সম্ভব হতো না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 138,
+      "pdfPageEnd": 138,
+      "printedPageStart": 133,
+      "printedPageEnd": 133,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.2-p026",
+      "kind": "text",
+      "section": "৫.২.১ দৈনদিন জীবনে ঘনত্বের ব্যবহার",
+      "caption": null,
+      "body": "গ্রীষ্মকালের প্রচণ্ড রোদের মাঝে যারা পুকুরের পানিতে ঝাঁপ দিয়েছে, তারা নিশ্চয়ই লক্ষ্য করেছ পুকুরের উপরের পানিটা উষ্ণ হলেও নিচের পানি শীতল। এখানে তাপটুকু এসেছে উপর থেকে এবং পানি গরম হওয়ার পর ঘনত্ব কমে গিয়ে উপরেই রয়ে গেছে, পুকুরের পুরো পানি সমানভাবে উত্তপ্ত হতে পারেনি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 138,
+      "pdfPageEnd": 138,
+      "printedPageStart": 133,
+      "printedPageEnd": 133,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.2-p027",
+      "kind": "text",
+      "section": "৫.২.১ দৈনদিন জীবনে ঘনত্বের ব্যবহার",
+      "caption": null,
+      "body": "বিভিন্ন অনুষ্ঠানের উল্লেখনীতে আমরা বেলুন ওড়াতে দেখেছি। এই বেলুনকে ওড়ানোর জন্য তার ভেতর বাতাস থেকে হালকা কোনো গ্যাস ঢোকাতে হয়। নিরাপত্তার দিক থেকে বিবেচনা করা হলে সেটি নিক্ষৃয় হিলিয়াম গ্যাস দিয়ে ভরার কথা কিন্তু হিলিয়াম গ্যাস তুলনামূলকভাবে অনেক ব্যয়বহুল বলে প্রায় সময়েই হাইড্রোজেন গ্যাস দিয়ে কাজ সারা হয়, যেটি যথেষ্ট বিপজ্জনক। শুধু তা-ই নয়, জ্বালানি হিসেবে ব্যবহৃত মিথেন গ্যাস বাতাস থেকে হালকা বলে অনেক সময় এই গ্যাস দিয়েও গ্যাস বেলুন তৈরি করে ব্যবহার করা হয়, যেটি সমান বিপজ্জনক।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 138,
+      "pdfPageEnd": 139,
+      "printedPageStart": 133,
+      "printedPageEnd": 134,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.2-p028",
+      "kind": "text",
+      "section": "৫.২.১ দৈনদিন জীবনে ঘনত্বের ব্যবহার",
+      "caption": null,
+      "body": "আমরা অনেক সময় ফানুস ওড়াতে দেখেছি। এই ফানুসের নিচেও একটা আগুন জ্বালানো হয়, সেটি ফানুসকে আলোকোজ্জ্বল করার সাথে সাথে ভেতরের বাতাসকে উত্তপ্ত করে হালকা করে উপরে নিয়ে যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 139,
+      "pdfPageEnd": 139,
+      "printedPageStart": 134,
+      "printedPageEnd": 134,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.2-p029",
+      "kind": "text",
+      "section": "৫.২.১ দৈনদিন জীবনে ঘনত্বের ব্যবহার",
+      "caption": null,
+      "body": "একটি ডিম ভালো না পচা সেটা ইচ্ছে করলে পানিতে ডুবিয়ে বের করা যায়। যথেষ্ট পচা হলে তার ঘনত্ব পানি থেকে কম হবে এবং সেটি পানিতে ভেসে উঠবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 139,
+      "pdfPageEnd": 139,
+      "printedPageStart": 134,
+      "printedPageEnd": 134,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

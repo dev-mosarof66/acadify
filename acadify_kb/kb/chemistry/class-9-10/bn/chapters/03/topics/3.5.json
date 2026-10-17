@@ -1,0 +1,210 @@
+{
+  "id": "chemistry-9-10-bn-c03-t3.5",
+  "key": "3.5",
+  "title": "পরমাণুর সাংগঠনিক কণা (The fundamental particles of an atom)",
+  "chapter": 3,
+  "ordinal": 5,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c03-t3.5-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "একমাত্র হাইড্রোজেন ছাড়া সকল পদার্থের পরমাণু তিনটি কণা দিয়ে তৈরি। সেগুলো হচ্ছে ইলেকট্রন, প্রোটন এবং নিউট্রন। এই কণাগুলোকে পরমাণুর সাংগঠনিক (fundamental) বা মৌলিক কণা বলে। পরমাণুর কেন্দ্রে বা নিউক্লিয়াসে প্রোটন ও নিউট্রন থাকে এবং ইলেকট্রন নিউক্লিয়াসকে ঘিরে ঘুরতে থাকে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 44,
+      "pdfPageEnd": 44,
+      "printedPageStart": 39,
+      "printedPageEnd": 39,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.5-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**ইলেকট্রন:** ইলেকট্রন হলো পরমাণুর একটি মৌলিক কণিকা যার আধান বা চার্জ ঋণাত্মক (নেগেটিভ)। এ আধানের পরিমাণ $-1.60 \\times 10^{-19}$ কুলম্ব। একে e প্রতীক দিয়ে প্রকাশ করা হয়। একটি ইলেকট্রনের ভর $9.11 \\times 10^{-28}$ g। ইলেকট্রনের আপেক্ষিক আধান $-1$ ধরা হয় এবং এর ভর প্রোটন ও নিউট্রনের ভরের তুলনায় 1840 গুণ কম। তাই এর আপেক্ষিক ভরকে শূন্য ধরা হয়।",
+      "image": null,
+      "formulas": [
+        "-1.60 \\times 10^{-19}",
+        "9.11 \\times 10^{-28}",
+        "-1"
+      ],
+      "pdfPageStart": 44,
+      "pdfPageEnd": 44,
+      "printedPageStart": 39,
+      "printedPageEnd": 39,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.5-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রোটন:** প্রোটন হলো পরমাণুর অপর একটি মৌলিক কণিকা যার চার্জ বা আধান ধনাত্মক (পজিটিভ)। এ আধানের পরিমাণ $+1.60 \\times 10^{-19}$ কুলম্ব। একে p প্রতীক দিয়ে প্রকাশ করা হয়। একটি প্রোটনের ভর $1.67 \\times 10^{-24}$ g। প্রোটনের আপেক্ষিক আধান $+1$ এবং আপেক্ষিক ভর ১ ধরা হয়।",
+      "image": null,
+      "formulas": [
+        "+1.60 \\times 10^{-19}",
+        "1.67 \\times 10^{-24}",
+        "+1"
+      ],
+      "pdfPageStart": 45,
+      "pdfPageEnd": 45,
+      "printedPageStart": 40,
+      "printedPageEnd": 40,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.5-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**নিউট্রন:** নিউট্রন হলো পরমাণুর আরেকটি মৌলিক কণিকা যার কোনো আধান বা চার্জ নেই। হাইড্রোজেন ছাড়া সকল মৌলের পরমাণুতেই নিউট্রন রয়েছে। একে n প্রতীক দিয়ে প্রকাশ করা হয়। এর ভর প্রোটনের ভরের চেয়ে সামান্য বেশি। নিউট্রনের আপেক্ষিক আধান ০ আর আপেক্ষিক ভর ১ ধরা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 45,
+      "pdfPageEnd": 45,
+      "printedPageStart": 40,
+      "printedPageEnd": 40,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.5-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "পরমাণুর সাংগঠনিক বা মৌলিক কণাসমূহের বৈশিষ্ট্যমূলক ধর্মাবলি নিচের তালিকায় উপস্থাপন করা হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 45,
+      "pdfPageEnd": 45,
+      "printedPageStart": 40,
+      "printedPageEnd": 40,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.5-p006",
+      "kind": "table",
+      "section": null,
+      "caption": "টেবিল ৩.০৫: মৌলিক কণিকা",
+      "body": "<table><tr><th>মৌলিক কণিকার<br />নাম</th><th>প্রতীক</th><th>প্রকৃত আধান বা চার্জ</th><th>প্রকৃত ভর</th><th>আপেক্ষিক<br />আধান</th><th>আপেক্ষিক<br />ভর</th></tr>\n<tr><td>ইলেকট্রন</td><td>e</td><td>-1.60 × 10<sup>-19</sup> কুলম্ব।</td><td>9.11 × 10<sup>-28</sup> g</td><td>-1</td><td>0</td></tr>\n<tr><td>প্রোটন</td><td>p</td><td>+1.60 × 10<sup>-19</sup> কুলম্ব।</td><td>1.67 × 10<sup>-24</sup> g</td><td>+1</td><td>1</td></tr>\n<tr><td>নিউট্রন</td><td>n</td><td>0</td><td>1.67 × 10<sup>-24</sup> g</td><td>0</td><td>1</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 45,
+      "pdfPageEnd": 45,
+      "printedPageStart": 40,
+      "printedPageEnd": 40,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.5-p007",
+      "kind": "text",
+      "section": "৩.৫.১ পারমাণবিক সংখ্যা (Atomic Number)",
+      "caption": null,
+      "body": "কোনো মৌলের একটি পরমাণুর নিউক্লিয়াসে উপস্থিত প্রোটনের সংখ্যাকে ঐ মৌলের পারমাণবিক সংখ্যা বলা হয়। যেমন— হিলিয়াম (He) এর একটি পরমাণুর নিউক্লিয়াসে দুটি প্রোটন থাকে। তাই হিলিয়ামের পারমাণবিক সংখ্যা হলো দুই। আবার, অক্সিজেন (O) পরমাণুর নিউক্লিয়াসে আটটি প্রোটন থাকে। তাই অক্সিজেনের পারমাণবিক সংখ্যা হলো আট। কোনো পরমাণুর পারমাণবিক সংখ্যা দ্বারা ঐ পরমাণুকে চেনা যায়। তাই পারমাণবিক সংখ্যাকে একটি মৌলের আইডি নম্বরও বলা যায়। পারমাণবিক সংখ্যা ১ হলে ঐ পরমাণুটি হাইড্রোজেন, পারমাণবিক সংখ্যা ২ হলে ঐ পরমাণুটি হিলিয়াম। পারমাণবিক সংখ্যা ৭ হলে ঐ পরমাণুটি ফ্লোরিন। অর্থাৎ পারমাণবিক সংখ্যাই কোনো পরমাণুর আসল পরিচয়। প্রোটন সংখ্যা বা পারমাণবিক সংখ্যাকে Z দিয়ে প্রকাশ করা হয়। যেহেতু প্রত্যেকটা পরমাণুই চার্জ নিরপেক্ষ অর্থাৎ মোট চার্জ বা আধান শূন্য তাই পরমাণুর নিউক্লিয়াসে যতটি প্রোটন থাকে নিউক্লিয়াসের বাইরে ঠিক ততটি ইলেকট্রন থাকে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 45,
+      "pdfPageEnd": 45,
+      "printedPageStart": 40,
+      "printedPageEnd": 40,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.5-p008",
+      "kind": "text",
+      "section": "৩.৫.২ ভরসংখ্যা (Mass Number)",
+      "caption": null,
+      "body": "কোনো পরমাণুর নিউক্লিয়াসে উপস্থিত প্রোটন ও নিউট্রন সংখ্যার যোগফলকে ঐ পরমাণুর ভরসংখ্যা বলে। ভরসংখ্যাকে A দিয়ে প্রকাশ করা হয়। যেহেতু ভরসংখ্যা হলো প্রোটন সংখ্যা ও নিউট্রন সংখ্যার যোগফল, কাজেই ভরসংখ্যা থেকে প্রোটন সংখ্যা বিয়োগ করলে নিউট্রন সংখ্যা পাওয়া যায়। যেমন- সোডিয়ামের (Na) ভরসংখ্যা হলো 23, এর প্রোটন সংখ্যা 11, ফলে এর নিউট্রন সংখ্যা হচ্ছে 23 - 11 = 12",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 46,
+      "pdfPageEnd": 46,
+      "printedPageStart": 41,
+      "printedPageEnd": 41,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.5-p009",
+      "kind": "text",
+      "section": "৩.৫.২ ভরসংখ্যা (Mass Number)",
+      "caption": null,
+      "body": "কোনো পরমাণুর পারমাণবিক সংখ্যা পরমাণুর প্রতীকের নিচে বাম পাশে লেখা হয়, পরমাণুর ভরসংখ্যা প্রতীকের বাম পাশে উপরের দিকে লেখা হয়। যেমন- সোডিয়াম পরমাণুর প্রতীক Na, এর পারমাণবিক সংখ্যা 11 এবং ভরসংখ্যা 23। এটাকে নিম্নোক্তভাবে প্রকাশ করা যায়:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 46,
+      "pdfPageEnd": 46,
+      "printedPageStart": 41,
+      "printedPageEnd": 41,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.5-p010",
+      "kind": "figure",
+      "section": "৩.৫.২ ভরসংখ্যা (Mass Number)",
+      "caption": null,
+      "body": "drawing: diagram showing the relationship between mass number (A), atomic number (Z), and the element symbol Na",
+      "image": "p46-page_7_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 46,
+      "pdfPageEnd": 46,
+      "printedPageStart": 41,
+      "printedPageEnd": 41,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.5-p011",
+      "kind": "table",
+      "section": "৩.৫.২ ভরসংখ্যা (Mass Number)",
+      "caption": "টেবিল ৩.০৬: মৌলের সংক্ষিপ্ত প্রকাশ",
+      "body": "<table><tr><th>মৌলের প্রতীক</th><th>পারমাণবিক সংখ্যা বা প্রোটন সংখ্যা Z</th><th>ভরসংখ্যা A</th><th>ইলেকট্রন সংখ্যা</th><th>নিউট্রন সংখ্যা A - Z</th><th>সংক্ষিপ্ত প্রকাশ</th></tr>\n<tr><td>H</td><td>1</td><td>1</td><td>1</td><td>0</td><td><sup>1</sup><sub>1</sub>H</td></tr>\n<tr><td>He</td><td>2</td><td>4</td><td>2</td><td>2</td><td><sup>4</sup><sub>2</sub>He</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 46,
+      "pdfPageEnd": 46,
+      "printedPageStart": 41,
+      "printedPageEnd": 41,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.5-p012",
+      "kind": "text",
+      "section": "৩.৫.২ ভরসংখ্যা (Mass Number)",
+      "caption": null,
+      "body": "**শিক্ষার্থীর কাজ:** <sup>7</sup>$_3$Li এবং <sup>9</sup>$_4$Be মৌলের ভর সংখ্যা, প্রোটন সংখ্যা এবং ইলেকট্রন সংখ্যা গণনা করো।",
+      "image": null,
+      "formulas": [
+        "_3",
+        "_4"
+      ],
+      "pdfPageStart": 46,
+      "pdfPageEnd": 46,
+      "printedPageStart": 41,
+      "printedPageEnd": 41,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

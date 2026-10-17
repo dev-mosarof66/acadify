@@ -1,0 +1,159 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.27",
+  "key": "1.27",
+  "title": "অস্বয় (Relation)",
+  "chapter": 1,
+  "ordinal": 28,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.27-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অনেক সময় আমরা সেট $X$ এর উপাদানগুলোর মধ্যে অথবা সেট $X$ ও সেট $Y$ এর উপাদানগুলোর মধ্যে বিভিন্ন সম্পর্ক বিবেচনা করি। যেমন, স্বাভাবিক সংখ্যার সেট $N$ এ বড়ো-ছোটো সম্পর্ক, কোনো পরিবারে ভাই-বোন সম্পর্ক, তোমার শ্রেণির শিক্ষার্থীদের সঙ্গে সর্বশেষ জন্মদিনে তাদের বয়সের সম্পর্ক। এ প্রসঙ্গে নবম-দশম শ্রেণির গণিত বই দ্রষ্টব্য।",
+      "image": null,
+      "formulas": [
+        "X",
+        "X",
+        "Y",
+        "N"
+      ],
+      "pdfPageStart": 27,
+      "pdfPageEnd": 27,
+      "printedPageStart": 22,
+      "printedPageEnd": 22,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.27-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৮.** মনে করি $A = \\{0, 1, 2, 3\\}$ একটি সেট। $A$ সেটের উপাদানগুলোর মধ্যে $x < y$ সম্পর্কটিকে $A \\times A$ এর উপসেট $S = \\{(0, 1), (0, 2), (0, 3), (1, 2), (1, 3), (2, 3)\\}$ দ্বারা বর্ণনা করা যায়, যেখানে $S$ সেটের অন্তর্ভুক্ত ক্রমজোড়গুলোর (প্রথম অংশক) $<$ (দ্বিতীয় অংশক)। এক্ষেত্রে $S$ হলো $A$ সেটের বর্ণিত $<$ অস্বয়।",
+      "image": null,
+      "formulas": [
+        "A = \\{0, 1, 2, 3\\}",
+        "A",
+        "x < y",
+        "A \\times A",
+        "S = \\{(0, 1), (0, 2), (0, 3), (1, 2), (1, 3), (2, 3)\\}",
+        "S",
+        "<",
+        "S",
+        "A",
+        "<"
+      ],
+      "pdfPageStart": 27,
+      "pdfPageEnd": 27,
+      "printedPageStart": 22,
+      "printedPageEnd": 22,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.27-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৯.** মনে করি কোনো পরিবারে $a$ পিতা, $b$ মাতা, $c$ বড়োছেলে, $d$ ছোটো ছেলে, $e$ মেয়ে, $f$ বড়ো ছেলের স্ত্রী। পরিবারের সদস্যদের সেটকে $F$ ধরে আমরা পাই $F = \\{a, b, c, d, e, f\\}$। $F$ সেটের ভাই সম্পর্ক অর্থাৎ $x$ হলো $y$ এর ভাই সম্পর্কটিকে $B = \\{(c, d), (c, e), (d, c), (d, e)\\}$ দ্বারা বর্ণনা করা হয়েছে।",
+      "image": null,
+      "formulas": [
+        "a",
+        "b",
+        "c",
+        "d",
+        "e",
+        "f",
+        "F",
+        "F = \\{a, b, c, d, e, f\\}",
+        "F",
+        "x",
+        "y",
+        "B = \\{(c, d), (c, e), (d, c), (d, e)\\}"
+      ],
+      "pdfPageStart": 27,
+      "pdfPageEnd": 27,
+      "printedPageStart": 22,
+      "printedPageEnd": 22,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.27-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "করা যায়, যেখানে $B$ সেটের অন্তর্ভুক্ত ক্রমজোড়গুলোর প্রথম অংশক হলো দ্বিতীয় অংশকের ভাই। $B$ সেট হলো $F$ সেটের ভাই অস্বয়।",
+      "image": null,
+      "formulas": [
+        "B",
+        "B",
+        "F"
+      ],
+      "pdfPageStart": 28,
+      "pdfPageEnd": 28,
+      "printedPageStart": 23,
+      "printedPageEnd": 23,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.27-p005",
+      "kind": "definition",
+      "section": null,
+      "caption": null,
+      "body": "**সংজ্ঞা ৪ (অস্বয়).** $X$ ও $Y$ অশূন্যক (Nonempty) সেট হলে এদের কার্তেসীয় গুণজ সেট $X \\times Y$ এর যেকোনো উপসেটকে $X$ হতে $Y$ এ একটি অস্বয় বলা হয়। অর্থাৎ $R \\subseteq X \\times Y$ হলো $X$ হতে $Y$ এ বর্ণিত অস্বয়।",
+      "image": null,
+      "formulas": [
+        "X",
+        "Y",
+        "X \\times Y",
+        "X",
+        "Y",
+        "R \\subseteq X \\times Y",
+        "X",
+        "Y"
+      ],
+      "pdfPageStart": 28,
+      "pdfPageEnd": 28,
+      "printedPageStart": 23,
+      "printedPageEnd": 23,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.27-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "> **কাজ:** $Z$ সেটের '$x$ হলো $y$ এর বর্গ' অস্বয়টিকে ক্রমজোড়ের সেট রূপে বর্ণনা করো।",
+      "image": null,
+      "formulas": [
+        "Z",
+        "x",
+        "y"
+      ],
+      "pdfPageStart": 28,
+      "pdfPageEnd": 28,
+      "printedPageStart": 23,
+      "printedPageEnd": 23,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

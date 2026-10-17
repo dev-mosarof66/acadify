@@ -1,0 +1,757 @@
+{
+  "id": "higher-math-9-10-bn-c02-t2.11",
+  "key": "2.11",
+  "title": "চক্র-ক্রমিক বহুপদীর উৎপাদকে বিশ্লেষণ",
+  "chapter": 2,
+  "ordinal": 11,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এরূপ রাশিকে উৎপাদকে বিশ্লেষণ করার কোনো ধরা-বাঁধা নিয়ম নেই। সাধারণত, রাশিটির পদগুলোকে পুনর্বিন্যাস করে উৎপাদক বের করা হয়। অনেক সময় রাশিটিকে কোনো একটি চলকের বহুপদী ধরে উৎপাদক উপপাদ্যের সাহায্যে এক বা একাধিক উৎপাদক নির্ণয় করা হয় এবং রাশিটির চক্রক্রমিক ও সমমিত্রিক বৈশিষ্ট্য বিবেচনা করে অপরাপর উৎপাদক নির্ণয় করা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 54,
+      "pdfPageEnd": 54,
+      "printedPageStart": 49,
+      "printedPageEnd": 49,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এ প্রসঙ্গে উল্লেখ্য যে, $a, b, c$ চলকের",
+      "image": null,
+      "formulas": [
+        "a, b, c"
+      ],
+      "pdfPageStart": 54,
+      "pdfPageEnd": 54,
+      "printedPageStart": 49,
+      "printedPageEnd": 49,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) কোনো চক্রক্রমিক বহুপদীর $(a - b)$ একটি উৎপাদক হলে, $(b - c)$ এবং $(c - a)$ ও একই চক্রক্রমিক বহুপদীর উৎপাদক হবে।",
+      "image": null,
+      "formulas": [
+        "(a - b)",
+        "(b - c)",
+        "(c - a)"
+      ],
+      "pdfPageStart": 54,
+      "pdfPageEnd": 54,
+      "printedPageStart": 49,
+      "printedPageEnd": 49,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) এক মাত্রার ও দুই মাত্রার সমমিত্রিক চক্রক্রমিক বহুপদী যথাক্রমে $k(a + b + c)$ ও $k(a^2 + b^2 + c^2) + m(ab + bc + ca)$ যেখানে $k$ ও $m$ ধ্রুবক।",
+      "image": null,
+      "formulas": [
+        "k(a + b + c)",
+        "k(a^2 + b^2 + c^2) + m(ab + bc + ca)",
+        "k",
+        "m"
+      ],
+      "pdfPageStart": 54,
+      "pdfPageEnd": 54,
+      "printedPageStart": 49,
+      "printedPageEnd": 49,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) দুটি বহুপদী যদি এমন হয় যে, চলকগুলোর সকল মানের জন্য এদের মান সমান হয়, তবে বহুপদী দুটির অনুরূপ পদ দুটির সহগ পরস্পর সমান হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 55,
+      "pdfPageEnd": 55,
+      "printedPageStart": 50,
+      "printedPageEnd": 50,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৫.** $bc(b - c) + ca(c - a) + ab(a - b)$ কে উৎপাদকে বিশ্লেষণ করো।",
+      "image": null,
+      "formulas": [
+        "bc(b - c) + ca(c - a) + ab(a - b)"
+      ],
+      "pdfPageStart": 55,
+      "pdfPageEnd": 55,
+      "printedPageStart": 50,
+      "printedPageEnd": 50,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** এখানে দুটি পদ্ধতি দেখানো হয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 55,
+      "pdfPageEnd": 55,
+      "printedPageStart": 50,
+      "printedPageEnd": 50,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রথম পদ্ধতি:**\n$$\\begin{aligned}\n& bc(b - c) + ca(c - a) + ab(a - b) \\\\\n= & bc(b - c) + c^2a - ca^2 + a^2b - ab^2 \\\\\n= & bc(b - c) + a^2b - ca^2 - ab^2 + c^2a \\\\\n= & bc(b - c) + a^2(b - c) - a(b^2 - c^2) \\\\\n= & bc(b - c) + a^2(b - c) - a(b + c)(b - c) \\\\\n= & (b - c) \\{ bc + a^2 - a(b + c) \\} \\\\\n= & (b - c) \\{ bc + a^2 - ab - ac \\} \\\\\n= & (b - c) \\{ bc - ab - ac + a^2 \\} \\\\\n= & (b - c) \\{ b(c - a) - a(c - a) \\} \\\\\n= & (b - c)(c - a)(b - a) \\\\\n= & -(a - b)(b - c)(c - a)\n\\end{aligned}$$",
+      "image": null,
+      "formulas": [
+        "\\begin{aligned}\n& bc(b - c) + ca(c - a) + ab(a - b) \\\\\n= & bc(b - c) + c^2a - ca^2 + a^2b - ab^2 \\\\\n= & bc(b - c) + a^2b - ca^2 - ab^2 + c^2a \\\\\n= & bc(b - c) + a^2(b - c) - a(b^2 - c^2) \\\\\n= & bc(b - c) + a^2(b - c) - a(b + c)(b - c) \\\\\n= & (b - c) \\{ bc + a^2 - a(b + c) \\} \\\\\n= & (b - c) \\{ bc + a^2 - ab - ac \\} \\\\\n= & (b - c) \\{ bc - ab - ac + a^2 \\} \\\\\n= & (b - c) \\{ b(c - a) - a(c - a) \\} \\\\\n= & (b - c)(c - a)(b - a) \\\\\n= & -(a - b)(b - c)(c - a)\n\\end{aligned}"
+      ],
+      "pdfPageStart": 55,
+      "pdfPageEnd": 55,
+      "printedPageStart": 50,
+      "printedPageEnd": 50,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**দ্বিতীয় পদ্ধতি:** প্রদত্ত রাশিটিকে $a$ এর বহুপদী $P(a)$ ধরে তাতে $a$ এর পরিবর্তে $b$ বসিয়ে দেখি যে,\n$$P(b) = bc(b - c) + cb(c - b) + b^2(b - b) = 0$$",
+      "image": null,
+      "formulas": [
+        "a",
+        "P(a)",
+        "a",
+        "b",
+        "P(b) = bc(b - c) + cb(c - b) + b^2(b - b) = 0"
+      ],
+      "pdfPageStart": 55,
+      "pdfPageEnd": 55,
+      "printedPageStart": 50,
+      "printedPageEnd": 50,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং উৎপাদক উপপাদ্য অনুযায়ী $(a - b)$ প্রদত্ত রাশির একটি উৎপাদক। এখন যেহেতু প্রদত্ত রাশিটি চক্রক্রমিক রাশি, সেহেতু $(b - c)$ এবং $(c - a)$ উভয়ে প্রদত্ত রাশিটির উৎপাদক।",
+      "image": null,
+      "formulas": [
+        "(a - b)",
+        "(b - c)",
+        "(c - a)"
+      ],
+      "pdfPageStart": 55,
+      "pdfPageEnd": 55,
+      "printedPageStart": 50,
+      "printedPageEnd": 50,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "প্রদত্ত রাশিটি তিন মাত্রার সমমাত্রিক এবং এর তিনটি এক মাত্রার উৎপাদক পাওয়া গেছে। সুতরাং অন্য উৎপাদক যদি থাকে তা ধ্রুবক হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 55,
+      "pdfPageEnd": 55,
+      "printedPageStart": 50,
+      "printedPageEnd": 50,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ, $bc(b - c) + ca(c - a) + ab(a - b) = k(a - b)(b - c)(c - a) \\dots \\dots (1)$",
+      "image": null,
+      "formulas": [
+        "bc(b - c) + ca(c - a) + ab(a - b) = k(a - b)(b - c)(c - a) \\dots \\dots (1)"
+      ],
+      "pdfPageStart": 55,
+      "pdfPageEnd": 55,
+      "printedPageStart": 50,
+      "printedPageEnd": 50,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যেখানে $k$ একটি ধ্রুবক। $a, b, c$ এর সকল মানের জন্য (1) সত্য।",
+      "image": null,
+      "formulas": [
+        "k",
+        "a, b, c"
+      ],
+      "pdfPageStart": 55,
+      "pdfPageEnd": 55,
+      "printedPageStart": 50,
+      "printedPageEnd": 50,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(1) নং এ $a = 0, b = 1, c = 2$ বসিয়ে পাই,\n$$1 \\cdot 2(-1) = k(-1)(-1)(2) \\quad \\therefore k = -1$$",
+      "image": null,
+      "formulas": [
+        "a = 0, b = 1, c = 2",
+        "1 \\cdot 2(-1) = k(-1)(-1)(2) \\quad \\therefore k = -1"
+      ],
+      "pdfPageStart": 55,
+      "pdfPageEnd": 55,
+      "printedPageStart": 50,
+      "printedPageEnd": 50,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p015",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore bc(b - c) + ca(c - a) + ab(a - b) = -(a - b)(b - c)(c - a)$",
+      "image": null,
+      "formulas": [
+        "\\therefore bc(b - c) + ca(c - a) + ab(a - b) = -(a - b)(b - c)(c - a)"
+      ],
+      "pdfPageStart": 55,
+      "pdfPageEnd": 55,
+      "printedPageStart": 50,
+      "printedPageEnd": 50,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৬.** $a^3(b - c) + b^3(c - a) + c^3(a - b)$ কে উৎপাদকে বিশ্লেষণ করো।",
+      "image": null,
+      "formulas": [
+        "a^3(b - c) + b^3(c - a) + c^3(a - b)"
+      ],
+      "pdfPageStart": 55,
+      "pdfPageEnd": 55,
+      "printedPageStart": 50,
+      "printedPageEnd": 50,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** প্রদত্ত রাশিটিকে $a$ এর বহুপদী $P(a)$ বিবেচনা করে তাতে $a$ এর পরিবর্তে $b$ বসিয়ে পাই, $P(b) = b^3(b - c) + b^3(c - b) + c^3(b - b) = 0$। সুতরাং উৎপাদক উপপাদ্য অনুযায়ী $(a - b)$ প্রদত্ত রাশির একটি উৎপাদক। এখন যেহেতু প্রদত্ত রাশিটি চক্রক্রমিক রাশি সেহেতু $(b - c)$ এবং $(c - a)$ উভয়ে প্রদত্ত রাশিটির উৎপাদক। আবার প্রদত্ত রাশিটি চার মাত্রার সমমাত্রিক রাশি এবং $(a - b)(b - c)(c - a)$ তিন মাত্রার সমমাত্রিক রাশি। সুতরাং প্রদত্ত রাশির অপর উৎপাদকটি অবশ্যই চক্রক্রমিক এবং এক মাত্রার সমমাত্রিক রাশি $k(a + b + c)$ হবে, যেখানে $k$ একটি ধ্রুবক।",
+      "image": null,
+      "formulas": [
+        "a",
+        "P(a)",
+        "a",
+        "b",
+        "P(b) = b^3(b - c) + b^3(c - b) + c^3(b - b) = 0",
+        "(a - b)",
+        "(b - c)",
+        "(c - a)",
+        "(a - b)(b - c)(c - a)",
+        "k(a + b + c)",
+        "k"
+      ],
+      "pdfPageStart": 55,
+      "pdfPageEnd": 56,
+      "printedPageStart": 50,
+      "printedPageEnd": 51,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$$\\therefore a^3(b - c) + b^3(c - a) + c^3(a - b) = k(a - b)(b - c)(c - a)(a + b + c)$$ (1)",
+      "image": null,
+      "formulas": [
+        "\\therefore a^3(b - c) + b^3(c - a) + c^3(a - b) = k(a - b)(b - c)(c - a)(a + b + c)"
+      ],
+      "pdfPageStart": 56,
+      "pdfPageEnd": 56,
+      "printedPageStart": 51,
+      "printedPageEnd": 51,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$a, b, c$ এর সকল মানের জন্য (1) সত্য।",
+      "image": null,
+      "formulas": [
+        "a, b, c"
+      ],
+      "pdfPageStart": 56,
+      "pdfPageEnd": 56,
+      "printedPageStart": 51,
+      "printedPageEnd": 51,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং (1) নং এ $a = 0, b = 1, c = 2$ বসিয়ে পাই,",
+      "image": null,
+      "formulas": [
+        "a = 0, b = 1, c = 2"
+      ],
+      "pdfPageStart": 56,
+      "pdfPageEnd": 56,
+      "printedPageStart": 51,
+      "printedPageEnd": 51,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p021",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$2 + 8(-1) = k(-1)(-1)(2)(3) \\quad বা  k = -1$$",
+      "image": null,
+      "formulas": [
+        "2 + 8(-1) = k(-1)(-1)(2)(3) \\quad বা  k = -1"
+      ],
+      "pdfPageStart": 56,
+      "pdfPageEnd": 56,
+      "printedPageStart": 51,
+      "printedPageEnd": 51,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(1) এ $k = -1$ বসিয়ে পাই,",
+      "image": null,
+      "formulas": [
+        "k = -1"
+      ],
+      "pdfPageStart": 56,
+      "pdfPageEnd": 56,
+      "printedPageStart": 51,
+      "printedPageEnd": 51,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p023",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$a^3(b - c) + b^3(c - a) + c^3(a - b) = -(a - b)(b - c)(c - a)(a + b + c)$$",
+      "image": null,
+      "formulas": [
+        "a^3(b - c) + b^3(c - a) + c^3(a - b) = -(a - b)(b - c)(c - a)(a + b + c)"
+      ],
+      "pdfPageStart": 56,
+      "pdfPageEnd": 56,
+      "printedPageStart": 51,
+      "printedPageEnd": 51,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৭.** $(b + c)(c + a)(a + b) + abc$ কে উৎপাদকে বিশ্লেষণ করো।",
+      "image": null,
+      "formulas": [
+        "(b + c)(c + a)(a + b) + abc"
+      ],
+      "pdfPageStart": 56,
+      "pdfPageEnd": 56,
+      "printedPageStart": 51,
+      "printedPageEnd": 51,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p025",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** রাশিটিকে $a$ এর বহুপদী $P(a)$ ধরে তাতে $a$ এর পরিবর্তে $-b - c$ বসিয়ে পাই,",
+      "image": null,
+      "formulas": [
+        "a",
+        "P(a)",
+        "a",
+        "-b - c"
+      ],
+      "pdfPageStart": 56,
+      "pdfPageEnd": 56,
+      "printedPageStart": 51,
+      "printedPageEnd": 51,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p026",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$P(-b - c) = (b + c)(c - b - c)(-b - c + b) + (-b - c)bc = bc(b + c) - bc(b + c) = 0$$",
+      "image": null,
+      "formulas": [
+        "P(-b - c) = (b + c)(c - b - c)(-b - c + b) + (-b - c)bc = bc(b + c) - bc(b + c) = 0"
+      ],
+      "pdfPageStart": 56,
+      "pdfPageEnd": 56,
+      "printedPageStart": 51,
+      "printedPageEnd": 51,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p027",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং উৎপাদক উপপাদ্য অনুযায়ী $(a + b + c)$ প্রদত্ত রাশির একটি উৎপাদক। প্রদত্ত রাশিটি তিন মাত্রার সমমাত্রিক চক্রক্রমিক বহুপদী এবং এর এক মাত্রার একটি উৎপাদক পাওয়া গেছে। সুতরাং অপর উৎপাদক দুই মাত্রার সমমাত্রিক চক্রক্রমিক বহুপদী হবে, অর্থাৎ $k(a^2 + b^2 + c^2) + m(bc + ca + ab)$ আকারের হবে, যেখানে $k$ ও $m$ ধ্রুবক।",
+      "image": null,
+      "formulas": [
+        "(a + b + c)",
+        "k(a^2 + b^2 + c^2) + m(bc + ca + ab)",
+        "k",
+        "m"
+      ],
+      "pdfPageStart": 56,
+      "pdfPageEnd": 56,
+      "printedPageStart": 51,
+      "printedPageEnd": 51,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p028",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$$\\therefore (b + c)(c + a)(a + b) + abc = (a + b + c)\\{k(a^2 + b^2 + c^2) + m(bc + ca + ab)\\}$$ (1)",
+      "image": null,
+      "formulas": [
+        "\\therefore (b + c)(c + a)(a + b) + abc = (a + b + c)\\{k(a^2 + b^2 + c^2) + m(bc + ca + ab)\\}"
+      ],
+      "pdfPageStart": 56,
+      "pdfPageEnd": 56,
+      "printedPageStart": 51,
+      "printedPageEnd": 51,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p029",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$a, b, c$ এর সকল মানের জন্য (1) সত্য।",
+      "image": null,
+      "formulas": [
+        "a, b, c"
+      ],
+      "pdfPageStart": 56,
+      "pdfPageEnd": 56,
+      "printedPageStart": 51,
+      "printedPageEnd": 51,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p030",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(1) এ প্রথমে $a = 0, b = 0, c = 1$ এবং পরে $a = 1, b = 1, c = 0$ বসিয়ে যথাক্রমে পাই,",
+      "image": null,
+      "formulas": [
+        "a = 0, b = 0, c = 1",
+        "a = 1, b = 1, c = 0"
+      ],
+      "pdfPageStart": 56,
+      "pdfPageEnd": 56,
+      "printedPageStart": 51,
+      "printedPageEnd": 51,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p031",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$0 = k  এবং  2 = 2(k \\times 2 + m) \\quad \\therefore k = 0, m = 1$$",
+      "image": null,
+      "formulas": [
+        "0 = k  এবং  2 = 2(k \\times 2 + m) \\quad \\therefore k = 0, m = 1"
+      ],
+      "pdfPageStart": 56,
+      "pdfPageEnd": 56,
+      "printedPageStart": 51,
+      "printedPageEnd": 51,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p032",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন $k$ ও $m$ এর মান বসিয়ে পাই, $(b + c)(c + a)(a + b) + abc = (a + b + c)(bc + ca + ab)$।",
+      "image": null,
+      "formulas": [
+        "k",
+        "m",
+        "(b + c)(c + a)(a + b) + abc = (a + b + c)(bc + ca + ab)"
+      ],
+      "pdfPageStart": 56,
+      "pdfPageEnd": 56,
+      "printedPageStart": 51,
+      "printedPageEnd": 51,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p033",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:** উদাহরণ ১৫ এর সমাধানের প্রথম পদ্ধতির অনুরূপ পদ্ধতিতে উদাহরণ ১৬ এবং উদাহরণ ১৭ এ বর্ণিত রাশি দুটিকে উৎপাদকে বিশ্লেষণ করা যাবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 56,
+      "pdfPageEnd": 56,
+      "printedPageStart": 51,
+      "printedPageEnd": 51,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p034",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**একটি বিশেষ বীজগাণিতিক সূত্র:** $a, b, c$ এর সকল মানের জন্য",
+      "image": null,
+      "formulas": [
+        "a, b, c"
+      ],
+      "pdfPageStart": 56,
+      "pdfPageEnd": 56,
+      "printedPageStart": 51,
+      "printedPageEnd": 51,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p035",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$a^3 + b^3 + c^3 - 3abc = (a + b + c)(a^2 + b^2 + c^2 - ab - bc - ca)$$",
+      "image": null,
+      "formulas": [
+        "a^3 + b^3 + c^3 - 3abc = (a + b + c)(a^2 + b^2 + c^2 - ab - bc - ca)"
+      ],
+      "pdfPageStart": 56,
+      "pdfPageEnd": 56,
+      "printedPageStart": 51,
+      "printedPageEnd": 51,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p036",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:** এখানে দুটি পদ্ধতিতে প্রমাণ দেখানো হয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 56,
+      "pdfPageEnd": 56,
+      "printedPageStart": 51,
+      "printedPageEnd": 51,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p037",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রথম পদ্ধতি (সরাসরি বীজগাণিতিক প্রক্রিয়া প্রয়োগ করে)**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 56,
+      "pdfPageEnd": 56,
+      "printedPageStart": 51,
+      "printedPageEnd": 51,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p038",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\begin{aligned}\n& a^3 + b^3 + c^3 - 3abc \\\\\n= & (a + b)^3 - 3ab(a + b) + c^3 - 3abc \\\\\n= & (a + b)^3 + c^3 - 3ab(a + b + c) \\\\\n= & (a + b + c)\\{(a + b)^2 - (a + b)c + c^2\\} - 3ab(a + b + c)\n\\end{aligned}$$",
+      "image": null,
+      "formulas": [
+        "\\begin{aligned}\n& a^3 + b^3 + c^3 - 3abc \\\\\n= & (a + b)^3 - 3ab(a + b) + c^3 - 3abc \\\\\n= & (a + b)^3 + c^3 - 3ab(a + b + c) \\\\\n= & (a + b + c)\\{(a + b)^2 - (a + b)c + c^2\\} - 3ab(a + b + c)\n\\end{aligned}"
+      ],
+      "pdfPageStart": 56,
+      "pdfPageEnd": 56,
+      "printedPageStart": 51,
+      "printedPageEnd": 51,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.11-p039",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$$= (a + b + c)(a^2 + 2ab + b^2 - ac - bc + c^2) - 3ab(a + b + c)$$\n$$= (a + b + c)(a^2 + b^2 + c^2 - ab - bc - ca)$$",
+      "image": null,
+      "formulas": [
+        "= (a + b + c)(a^2 + 2ab + b^2 - ac - bc + c^2) - 3ab(a + b + c)",
+        "= (a + b + c)(a^2 + b^2 + c^2 - ab - bc - ca)"
+      ],
+      "pdfPageStart": 57,
+      "pdfPageEnd": 57,
+      "printedPageStart": 52,
+      "printedPageEnd": 52,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "higher-math-9-10-bn-c05",
+  "textbookId": "higher-math-9-10-bn",
+  "number": 5,
+  "title": "সমীকরণ",
+  "englishTitle": "Equation",
+  "pdfPages": [
+    101,
+    127
+  ],
+  "printedPages": [
+    96,
+    122
+  ],
+  "topics": [
+    {
+      "key": "5.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/5.0.json",
+      "passages": 18
+    },
+    {
+      "key": "5.1",
+      "title": "নিশ্চায়কের অবস্থাভেদে দ্বিঘাত সমীকরণের মূলদ্বয়ের ধরন ও প্রকৃতি",
+      "file": "topics/5.1.json",
+      "passages": 28
+    },
+    {
+      "key": "5.ex",
+      "title": "অনুশীলনী ৫.১",
+      "file": "topics/5.ex.json",
+      "passages": 74
+    },
+    {
+      "key": "5.2",
+      "title": "মূল চিহ্ন সংবলিত সমীকরণ",
+      "file": "topics/5.2.json",
+      "passages": 74
+    },
+    {
+      "key": "5.3",
+      "title": "সূচক সমীকরণ (Indicial Equation)",
+      "file": "topics/5.3.json",
+      "passages": 76
+    },
+    {
+      "key": "5.4",
+      "title": "দুই চলকবিশিষ্ট দ্বিঘাত সমীকরণ জোটি",
+      "file": "topics/5.4.json",
+      "passages": 60
+    },
+    {
+      "key": "5.5",
+      "title": "দ্বিঘাত সহসমীকরণের ব্যবহার",
+      "file": "topics/5.5.json",
+      "passages": 42
+    },
+    {
+      "key": "5.6",
+      "title": "দুই চলকবিশিষ্ট সূচক সমীকরণ জোটি",
+      "file": "topics/5.6.json",
+      "passages": 59
+    },
+    {
+      "key": "5.7",
+      "title": "লেখচিত্রের সাহায্যে দ্বিঘাত সমীকরণের সমাধান",
+      "file": "topics/5.7.json",
+      "passages": 62
+    }
+  ],
+  "stats": {
+    "topics": 9,
+    "passages": 493,
+    "images": 4,
+    "byKind": {
+      "text": 389,
+      "formula": 22,
+      "exercise": 74,
+      "table": 4,
+      "figure": 4
+    },
+    "byReason": {
+      "verify-formula": 440,
+      "latin-junk": 2,
+      "known-confusable-corrected": 2,
+      "verify-table": 4
+    },
+    "needsReview": 445
+  }
+}

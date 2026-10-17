@@ -1,0 +1,760 @@
+{
+  "id": "physics-9-10-bn-c03-t3.6",
+  "key": "3.6",
+  "title": "বস্তুর গতির উপর বলের প্রভাব: নিউটনের দ্বিতীয় গতি সূত্র",
+  "chapter": 3,
+  "ordinal": 6,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p001",
+      "kind": "text",
+      "section": "(Effect of Force on Motion: Newton’s Second Law of Motion)",
+      "caption": null,
+      "body": "ফুটবলের মাঠে আমরা অনেক সময়ই একজন খেলোয়াড়কে একটা স্থির ফুটবলকে কিক করে সেটা গতিশীল করে দূরে পাঠিয়ে দিতে দেখেছি। কিক করার সময় যখন ফুটবলটি স্পর্শ করে শুধু সেই মুহূর্তটিতে ফুটবলটিতে বল প্রয়োগ করা হয়, সেই বলের কারণে স্থির ফুটবলটি গতিশীল হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 80,
+      "pdfPageEnd": 80,
+      "printedPageStart": 75,
+      "printedPageEnd": 75,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p002",
+      "kind": "text",
+      "section": "(Effect of Force on Motion: Newton’s Second Law of Motion)",
+      "caption": null,
+      "body": "আমরা শুধু এক মুহূর্তের জন্য বল প্রয়োগ না করে দীর্ঘ সময়ের জন্যও বল প্রয়োগ করতে পারি। একটা স্থির ঠেলাগাড়িকে বেশ কিছুক্ষণ ঠেলে তার ভেতরে একটা গতি সঞ্চার করে ছেড়ে দিতে পারি। ঘর্ষণের কারণে থেমে না যাওয়া পর্যন্ত সেটি বেশ খানিকক্ষণ গড়িয়ে যেতে পারে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 80,
+      "pdfPageEnd": 80,
+      "printedPageStart": 75,
+      "printedPageEnd": 75,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p003",
+      "kind": "text",
+      "section": "(Effect of Force on Motion: Newton’s Second Law of Motion)",
+      "caption": null,
+      "body": "বল প্রয়োগ করে বেগের দিকও পরিবর্তন করা যায়। ক্রিকেট খেলার মাঠে যখন বোলার ব্যাটসম্যানের দিকে একটা ক্রিকেট বল ছুড়ে দেয়, ব্যাটসম্যান তখন ব্যাটের আঘাতে বলটিকে তার ব্যাট দিয়ে আঘাত করে বলটিকে ভিন্ন দিকে পাঠিয়ে দিতে পারে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p004",
+      "kind": "text",
+      "section": "(Effect of Force on Motion: Newton’s Second Law of Motion)",
+      "caption": null,
+      "body": "উপরের তিনটি উদাহরণই আমরা দেখেছি অল্প সময় বা বেশি সময়ের জন্য কোনো কিছুর উপর বল প্রয়োগ করে তার বেগের পরিবর্তন করা হয়েছে। আমরা আগের অধ্যায়ে দেখেছি যে বেগের পরিবর্তনের হার হচ্ছে ত্বরণ। কাজেই বলা যেতে পারে কোনো বস্তুর উপর বল প্রয়োগ করা হলে তার ত্বরণ হয়। বস্তুর উপর প্রয়োগ করা বল এবং ত্বরণের সম্পর্কটি হচ্ছে নিউটনের দ্বিতীয় সূত্র:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p005",
+      "kind": "text",
+      "section": "(Effect of Force on Motion: Newton’s Second Law of Motion)",
+      "caption": null,
+      "body": "> **নিউটনের দ্বিতীয় সূত্র:** বস্তুর ভরবেগের পরিবর্তনের হার তার উপর প্রযুক্ত বলের সমানুপাতিক এবং যদিকে বল প্রয়োগ করা হয় ভরবেগের পরিবর্তনও সেদিকে ঘটে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p006",
+      "kind": "text",
+      "section": "(Effect of Force on Motion: Newton’s Second Law of Motion)",
+      "caption": null,
+      "body": "ধরা যাক কোনো একটা বস্তুর আদি বেগ ছিল $u$ এবং $t$ সময় পর সেই বেগ পরিবর্তিত হয়ে (বেড়ে কিংবা কমে) হয়েছে $v$, কাজেই ভরবেগের পরিবর্তন হচ্ছে:",
+      "image": null,
+      "formulas": [
+        "u",
+        "t",
+        "v"
+      ],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p007",
+      "kind": "formula",
+      "section": "(Effect of Force on Motion: Newton’s Second Law of Motion)",
+      "caption": null,
+      "body": "$$m\\vec{v} - m\\vec{u}$$",
+      "image": null,
+      "formulas": [
+        "m\\vec{v} - m\\vec{u}"
+      ],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p008",
+      "kind": "text",
+      "section": "(Effect of Force on Motion: Newton’s Second Law of Motion)",
+      "caption": null,
+      "body": "কাজেই ভরবেগের পরিবর্তনের হার:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p009",
+      "kind": "formula",
+      "section": "(Effect of Force on Motion: Newton’s Second Law of Motion)",
+      "caption": null,
+      "body": "$$\\frac{m\\vec{v} - m\\vec{u}}{t} = m \\frac{(\\vec{v} - \\vec{u})}{t} = m\\vec{a}$$",
+      "image": null,
+      "formulas": [
+        "\\frac{m\\vec{v} - m\\vec{u}}{t} = m \\frac{(\\vec{v} - \\vec{u})}{t} = m\\vec{a}"
+      ],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p010",
+      "kind": "text",
+      "section": "(Effect of Force on Motion: Newton’s Second Law of Motion)",
+      "caption": null,
+      "body": "যেহেতু এখানে ধরে নিয়েছি ভরের কোনো পরিবর্তন হয়নি তাই এভাবে লিখতে পারি। তাছাড়া আমরা জানি ত্বরণ হচ্ছে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p011",
+      "kind": "formula",
+      "section": "(Effect of Force on Motion: Newton’s Second Law of Motion)",
+      "caption": null,
+      "body": "$$a = \\frac{v - u}{t}$$",
+      "image": null,
+      "formulas": [
+        "a = \\frac{v - u}{t}"
+      ],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p012",
+      "kind": "text",
+      "section": "(Effect of Force on Motion: Newton’s Second Law of Motion)",
+      "caption": null,
+      "body": "সুতরাং প্রয়োগ করা বল যদি $F$ হয় তাহলে আমরা নিউটনের দ্বিতীয় সূত্রকে লিখতে পারি:",
+      "image": null,
+      "formulas": [
+        "F"
+      ],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p013",
+      "kind": "formula",
+      "section": "(Effect of Force on Motion: Newton’s Second Law of Motion)",
+      "caption": null,
+      "body": "$$ma \\propto F$$",
+      "image": null,
+      "formulas": [
+        "ma \\propto F"
+      ],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p014",
+      "kind": "text",
+      "section": "(Effect of Force on Motion: Newton’s Second Law of Motion)",
+      "caption": null,
+      "body": "কিন্তু আমরা সূত্রটাকে সমানুপাতিকভাবে লিখতে চাই না, সমীকরণ হিসেবে লিখতে চাই! তাহলে একটা সমানুপাতিক ধ্রুব $k$ ব্যবহার করে আমাদের লিখতে হবে",
+      "image": null,
+      "formulas": [
+        "k"
+      ],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p015",
+      "kind": "formula",
+      "section": "(Effect of Force on Motion: Newton’s Second Law of Motion)",
+      "caption": null,
+      "body": "$$kma = F$$",
+      "image": null,
+      "formulas": [
+        "kma = F"
+      ],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p016",
+      "kind": "text",
+      "section": "(Effect of Force on Motion: Newton’s Second Law of Motion)",
+      "caption": null,
+      "body": "নিউটনের দ্বিতীয় সূত্রটির বোঝায় এবারে একটা চমকপ্রদ ব্যাপার ঘটানো সন্দ্বব। যেহেতু বল বিষয়টাই এর আগে কোথাও ব্যাখ্যা করা হয়নি, (নিউটনের প্রথম সূত্র দিয়ে শুধু সেটার একটা ধারণা দেওয়া হয়েছে) দ্বিতীয় সূত্র দিয়ে এই প্রথম সেটাকে প্রথমবার পরিমাণ করা হবে। তাই ধ্রুবকের একটি মান দিতে হবে। আমরা বলতে পারি নিউটনের দ্বিতীয় সূত্র প্রয়োগ করার সময় সমানুপাতিক ধ্রুবককে ১ ধরা হলে যেটা পাব সেটাই হচ্ছে বলের পরিমাণ। কী সহজে একটা সমানুপাতিক সম্পর্ককে সমীকরণ বানিয়ে ফেলা যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p017",
+      "kind": "text",
+      "section": "(Effect of Force on Motion: Newton’s Second Law of Motion)",
+      "caption": null,
+      "body": "সুতরাং আমরা নিউটনের দ্বিতীয় সূত্রটাকে একটা সমীকরণ হিসেবে লিখতে পারি। বল যদি $F$ হয় এবং সমানুপাতিক ধ্রুবককে যদি ১ ধরে নিই তাহলে",
+      "image": null,
+      "formulas": [
+        "F"
+      ],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p018",
+      "kind": "formula",
+      "section": "(Effect of Force on Motion: Newton’s Second Law of Motion)",
+      "caption": null,
+      "body": "$$F = ma$$",
+      "image": null,
+      "formulas": [
+        "F = ma"
+      ],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p019",
+      "kind": "text",
+      "section": "(Effect of Force on Motion: Newton’s Second Law of Motion)",
+      "caption": null,
+      "body": "এই ছোট এবং সহজ সমীকরণটি যে পদার্থবিজ্ঞানের জগতে কী বিপ্লব করে দিতে পারে সেটি বিশ্বাস করা কঠিন।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 82,
+      "pdfPageEnd": 82,
+      "printedPageStart": 77,
+      "printedPageEnd": 77,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p020",
+      "kind": "text",
+      "section": "(Effect of Force on Motion: Newton’s Second Law of Motion)",
+      "caption": null,
+      "body": "বলের একক হচ্ছে নিউটন ($N$)\nবলের মাত্রা হচ্ছে $[F] = MLT^{-2}$",
+      "image": null,
+      "formulas": [
+        "N",
+        "[F] = MLT^{-2}"
+      ],
+      "pdfPageStart": 82,
+      "pdfPageEnd": 82,
+      "printedPageStart": 77,
+      "printedPageEnd": 77,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p021",
+      "kind": "text",
+      "section": "(Effect of Force on Motion: Newton’s Second Law of Motion)",
+      "caption": null,
+      "body": "এখানে মনে রাখতে হবে, নিউটনের দ্বিতীয় সূত্রটি শুধু রৈখিক গতির জন্য সত্যি নয়, এটি যেকোনো গতির জন্য সত্যি। আমরা মাধ্যাকর্ষণ বল সম্পর্কে জেনেছি, নিউটনের দ্বিতীয় সূত্র ব্যবহার করে মহাকর্ষ বলের কারণে সূর্যকে ঘিরে ঘুরতে থাকা গ্রহদের গতিও ব্যাখ্যা করতে পারব। তবে আমরা এই বইয়ে নিউটনের দ্বিতীয় সূত্রটি শুধু রৈখিক গতির মাঝে সীমাবদ্ধ রাখব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 82,
+      "pdfPageEnd": 82,
+      "printedPageStart": 77,
+      "printedPageEnd": 77,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p022",
+      "kind": "text",
+      "section": "(Effect of Force on Motion: Newton’s Second Law of Motion)",
+      "caption": null,
+      "body": "একটি বস্তুর উপর যদি বল প্রয়োগ করা হয় তাহলে নিউটনের দ্বিতীয় সূত্র ব্যবহার করে খুব সহজে তার ত্বরণ বের করা যায়। (বলকে ভর দিয়ে ভাগ করা হলে ত্বরণ বের হয়ে যাবে) ত্বরণ জানা থাকলে গতির সূত্রগুলো ব্যবহার করে তার বেগ কিংবা অতিক্রান্ত দূরত্ব বের করা সম্ভব। অন্যভাবে আমরা বলতে পারি যে যদি আমরা কোনো বস্তুরকে গতিশীল দেখি এবং তার ত্বরণটুকু বের করতে পারি তাহলে তার ভর জানলে তার উপর কতটুকু বল প্রয়োগ করা হয়েছে সেটিও বের করা সম্ভব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 82,
+      "pdfPageEnd": 82,
+      "printedPageStart": 77,
+      "printedPageEnd": 77,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p023",
+      "kind": "text",
+      "section": "(Effect of Force on Motion: Newton’s Second Law of Motion)",
+      "caption": null,
+      "body": "এবারে আমরা কয়েকটি উদাহরণ দেখি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 82,
+      "pdfPageEnd": 82,
+      "printedPageStart": 77,
+      "printedPageEnd": 77,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p024",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** 5 kg ভরের একটি স্থির বস্তুর ওপর 100 N বল 10 s পর্যন্ত প্রয়োগ করা হলো। (a) বল প্রয়োগ করার কারণে ত্বরণ কত? (b) 10 s পরে বেগ কত? (c) 20 s পরে বেগ কত? (d) 20 s সময়ে কতটুকু দূরত্ব অতিক্রম করেছে? (e) বেগ এবং অতিক্রান্ত দূরত্ব গ্রাফ ঐকে দেখাও।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 82,
+      "pdfPageEnd": 82,
+      "printedPageStart": 77,
+      "printedPageEnd": 77,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p025",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 82,
+      "pdfPageEnd": 82,
+      "printedPageStart": 77,
+      "printedPageEnd": 77,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p026",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "(a) ত্বরণ\n$$a = \\frac{F}{m} = \\frac{100\\ N}{5\\ kg} = 20\\ m/s^2$$",
+      "image": null,
+      "formulas": [
+        "a = \\frac{F}{m} = \\frac{100\\ N}{5\\ kg} = 20\\ m/s^2"
+      ],
+      "pdfPageStart": 82,
+      "pdfPageEnd": 82,
+      "printedPageStart": 77,
+      "printedPageEnd": 77,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p027",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "(b) 10s পরে বেগ\n$$v = u + at = 0 + 20 \\times 10\\ m/s = 200\\ m/s$$",
+      "image": null,
+      "formulas": [
+        "v = u + at = 0 + 20 \\times 10\\ m/s = 200\\ m/s"
+      ],
+      "pdfPageStart": 82,
+      "pdfPageEnd": 82,
+      "printedPageStart": 77,
+      "printedPageEnd": 77,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p028",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "(c) 10 s পর্যন্ত বল প্রয়োগ করা হয়েছে, এরপর যেহেতু আর বল প্রয়োগ করা হয়নি কাজেই 200 m/s বেগ পৌঁছানোর পর বেগ অপরিবর্তিত থাকবে। অর্থাৎ 20 s পরে বেগ 200 m/s",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 82,
+      "pdfPageEnd": 82,
+      "printedPageStart": 77,
+      "printedPageEnd": 77,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p029",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "(d) 20 s এ অতিক্রান্ত দূরত্ব দুইবারে বের করতে হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 82,
+      "pdfPageEnd": 82,
+      "printedPageStart": 77,
+      "printedPageEnd": 77,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p030",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "প্রথম 10 s এ অতিক্রান্ত দূরত্ব:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 82,
+      "pdfPageEnd": 82,
+      "printedPageStart": 77,
+      "printedPageEnd": 77,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p031",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$s_1 = ut + \\frac{1}{2}at^2 = \\frac{1}{2} \\times 20 \\times 10^2\\ m = 1000\\ m$$",
+      "image": null,
+      "formulas": [
+        "s_1 = ut + \\frac{1}{2}at^2 = \\frac{1}{2} \\times 20 \\times 10^2\\ m = 1000\\ m"
+      ],
+      "pdfPageStart": 82,
+      "pdfPageEnd": 82,
+      "printedPageStart": 77,
+      "printedPageEnd": 77,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p032",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "দ্বিতীয় 10 s এ অতিক্রান্ত দূরত্ব:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 83,
+      "pdfPageEnd": 83,
+      "printedPageStart": 78,
+      "printedPageEnd": 78,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p033",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$s_2 = vt = 200 \\times 10  m = 2000  m$$",
+      "image": null,
+      "formulas": [
+        "s_2 = vt = 200 \\times 10  m = 2000  m"
+      ],
+      "pdfPageStart": 83,
+      "pdfPageEnd": 83,
+      "printedPageStart": 78,
+      "printedPageEnd": 78,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p034",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "মোট অতিক্রান্ত দূরত্ব",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 83,
+      "pdfPageEnd": 83,
+      "printedPageStart": 78,
+      "printedPageEnd": 78,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p035",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$s = s_1 + s_2 = 1000  m + 2000  m = 3000  m = 3  km$$",
+      "image": null,
+      "formulas": [
+        "s = s_1 + s_2 = 1000  m + 2000  m = 3000  m = 3  km"
+      ],
+      "pdfPageStart": 83,
+      "pdfPageEnd": 83,
+      "printedPageStart": 78,
+      "printedPageEnd": 78,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p036",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "(e) 3.06 চিহ্নে দেখানো হয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 83,
+      "pdfPageEnd": 83,
+      "printedPageStart": 78,
+      "printedPageEnd": 78,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p037",
+      "kind": "table",
+      "section": "চিত্র 3.06: বেগ-সময় এবং অবস্থান-সময়ের দুটি গ্রাফ বা লেখচিত্র",
+      "caption": null,
+      "body": "<table><tr><th>সময় (s)</th><th>বেগ (m/s)</th><th>অবস্থান (km)</th></tr>\n<tr><th>0</th><td>0</td><td>0.0</td></tr>\n<tr><th>5</th><td>100</td><td>0.2</td></tr>\n<tr><th>10</th><td>200</td><td>1.0</td></tr>\n<tr><th>15</th><td>200</td><td>2.0</td></tr>\n<tr><th>20</th><td>200</td><td>3.0</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 83,
+      "pdfPageEnd": 83,
+      "printedPageStart": 78,
+      "printedPageEnd": 78,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p038",
+      "kind": "text",
+      "section": "চিত্র 3.06: বেগ-সময় এবং অবস্থান-সময়ের দুটি গ্রাফ বা লেখচিত্র",
+      "caption": null,
+      "body": "**প্রশ্ন:** স্থির অবস্থা থেকে শুরু করে 10 সেকেন্ডে একটা বস্তু 100 m দূরত্ব অতিক্রম করতে 20 N বল দিতে হয়েছে। বস্তুটির ভর কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 83,
+      "pdfPageEnd": 83,
+      "printedPageStart": 78,
+      "printedPageEnd": 78,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p039",
+      "kind": "text",
+      "section": "চিত্র 3.06: বেগ-সময় এবং অবস্থান-সময়ের দুটি গ্রাফ বা লেখচিত্র",
+      "caption": null,
+      "body": "**উত্তর:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 83,
+      "pdfPageEnd": 83,
+      "printedPageStart": 78,
+      "printedPageEnd": 78,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p040",
+      "kind": "formula",
+      "section": "চিত্র 3.06: বেগ-সময় এবং অবস্থান-সময়ের দুটি গ্রাফ বা লেখচিত্র",
+      "caption": null,
+      "body": "$$s = ut + \\frac{1}{2}at^2$$",
+      "image": null,
+      "formulas": [
+        "s = ut + \\frac{1}{2}at^2"
+      ],
+      "pdfPageStart": 83,
+      "pdfPageEnd": 83,
+      "printedPageStart": 78,
+      "printedPageEnd": 78,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p041",
+      "kind": "formula",
+      "section": "চিত্র 3.06: বেগ-সময় এবং অবস্থান-সময়ের দুটি গ্রাফ বা লেখচিত্র",
+      "caption": null,
+      "body": "$$u = 0$$",
+      "image": null,
+      "formulas": [
+        "u = 0"
+      ],
+      "pdfPageStart": 83,
+      "pdfPageEnd": 83,
+      "printedPageStart": 78,
+      "printedPageEnd": 78,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p042",
+      "kind": "formula",
+      "section": "চিত্র 3.06: বেগ-সময় এবং অবস্থান-সময়ের দুটি গ্রাফ বা লেখচিত্র",
+      "caption": null,
+      "body": "$$a = \\frac{2s}{t^2} = \\frac{2 \\times 100}{10^2}  m/s^2 = 2  m/s^2$$",
+      "image": null,
+      "formulas": [
+        "a = \\frac{2s}{t^2} = \\frac{2 \\times 100}{10^2}  m/s^2 = 2  m/s^2"
+      ],
+      "pdfPageStart": 83,
+      "pdfPageEnd": 83,
+      "printedPageStart": 78,
+      "printedPageEnd": 78,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p043",
+      "kind": "formula",
+      "section": "চিত্র 3.06: বেগ-সময় এবং অবস্থান-সময়ের দুটি গ্রাফ বা লেখচিত্র",
+      "caption": null,
+      "body": "$$F = ma$$",
+      "image": null,
+      "formulas": [
+        "F = ma"
+      ],
+      "pdfPageStart": 83,
+      "pdfPageEnd": 83,
+      "printedPageStart": 78,
+      "printedPageEnd": 78,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.6-p044",
+      "kind": "formula",
+      "section": "চিত্র 3.06: বেগ-সময় এবং অবস্থান-সময়ের দুটি গ্রাফ বা লেখচিত্র",
+      "caption": null,
+      "body": "$$m = \\frac{F}{a} = \\frac{20}{2}  kg = 10  kg$$",
+      "image": null,
+      "formulas": [
+        "m = \\frac{F}{a} = \\frac{20}{2}  kg = 10  kg"
+      ],
+      "pdfPageStart": 83,
+      "pdfPageEnd": 83,
+      "printedPageStart": 78,
+      "printedPageEnd": 78,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

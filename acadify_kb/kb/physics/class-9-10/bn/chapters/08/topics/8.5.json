@@ -1,0 +1,503 @@
+{
+  "id": "physics-9-10-bn-c08-t8.5",
+  "key": "8.5",
+  "title": "উত্তল আয়না (Convex Mirror)",
+  "chapter": 8,
+  "ordinal": 5,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c08-t8.5-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তোমরা যদি কখনো একটা চকচকে চামচের নিচের বা পেছনের অংশে নিজের চেহারার দেখার চেষ্টা করে থাকো (চিত্র ৮.১৬) তাহলে নিশ্চয়ই লক্ষ্য করেছ যে, সেখানে তুমি তোমার চেহারারটা সোজা দেখালেও সেটি হবে তুলনামূলকভাবে ছোট। চামচের এই অংশটা উত্তল আয়নার মতো কাজ করে। সত্যিকারের গোলকীয় উত্তল আয়না একটা প্রকৃত গোলকের অংশ হয়। ধরা যাক, গোলকটির ব্যাসার্ধ $r$ (চিত্র ৮.১৭) এবং তার একটা অংশ কেটে তার উত্তল অংশটির দিক থেকে আলোর প্রতিফলনের ব্যবস্থা করা হয়েছে। এই আয়নায় একটা সমান্তরাল আলো ফেলা হলে আলোটি চারদিকে ছড়িয়ে যাবে, ছড়িয়ে যাওয়া আলোক রশ্মিগুলো যদি আয়নাটি যে গোলকের অংশ তার ভিতরে দিকে বর্ধিত করি তাহলে মনে হবে সেটা বুঝি একটা বিন্দু থেকে ছড়িয়ে গেছে। ঐ বিন্দুটিকে বলে ফোকাস বিন্দু। উত্তল আয়নার যে পৃষ্ঠ থেকে প্রতিফলন হয় তার কেন্দ্রবিন্দুটিকে বলে মেরু বিন্দু এবং এই বিন্দু থেকে ফোকাস বিন্দুর দূরত্বটিকে ফোকাস দূরত্ব ($f$) বলে।",
+      "image": null,
+      "formulas": [
+        "r",
+        "f"
+      ],
+      "pdfPageStart": 229,
+      "pdfPageEnd": 229,
+      "printedPageStart": 224,
+      "printedPageEnd": 224,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.5-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "একটা গোলীয় আয়নাকে আমরা সব সময়ই একটা গোলকের অংশ হিসেবে কল্পনা করতে পারি। ঐ গোলকটির ব্যাসার্ধ যদি $r$ হয় তাহলে ফোকাস দূরত্ব $r/2$ হবে।",
+      "image": null,
+      "formulas": [
+        "r",
+        "r/2"
+      ],
+      "pdfPageStart": 229,
+      "pdfPageEnd": 229,
+      "printedPageStart": 224,
+      "printedPageEnd": 224,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.5-p003",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A diagram of a convex mirror showing parallel light rays reflecting and diverging, with labels for radius of curvature (r), center of curvature (কেন্দ্রকেন্দ্র), and focal point (ফোকাস বিন্দু).",
+      "image": "p229-page_15_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 229,
+      "pdfPageEnd": 229,
+      "printedPageStart": 224,
+      "printedPageEnd": 224,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.5-p004",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "**চিত্র ৮.১৭: উত্তল আয়নার ফোকাস দূরত্ব গোলকের ব্যাসার্ধের অর্ধেক।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 229,
+      "pdfPageEnd": 229,
+      "printedPageStart": 224,
+      "printedPageEnd": 224,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.5-p005",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** প্রমাণ করো $f = r/2$",
+      "image": null,
+      "formulas": [
+        "f = r/2"
+      ],
+      "pdfPageStart": 229,
+      "pdfPageEnd": 229,
+      "printedPageStart": 224,
+      "printedPageEnd": 224,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.5-p006",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** মজার ব্যাপার হচ্ছে, তুমি কিন্তু এটা পুরোপুরি প্রমাণ করতে পারবে না, শুধু এর কাছাকাছি প্রমাণ করতে পারবে। ধরা যাক গোলীয় আয়নার মূল অক্ষের সাথে সমান্তরাল দুটি রশ্মি A এবং B",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 229,
+      "pdfPageEnd": 229,
+      "printedPageStart": 224,
+      "printedPageEnd": 224,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.5-p007",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "থেকে X (মেবু বিন্দু) বিন্দুতে এবং অন্য একটি Y বিন্দুতে এসেছে (চিত্র ৮.১৮)। যে রশ্মিটি X বিন্দুতে এসেছে সেটি প্রতিফলিত হয়ে যদিকে এসেছে ঠিক সেদিকেই ফিরে যাবে। কারণ X বিন্দুতে আপতিত আলোক রশ্মি গোলীয় তলের সাথে স্পর্শক তলের উপর লম্বভাবে আপতিত হয়। আমরা এই রেখাটিকে গোলকের কেন্দ্র O বিন্দু পর্যন্ত বর্ধিত করি, দেখাই যাচ্ছে OX = r (গোলকের ব্যাসার্ধ)। B থেকে যে রশ্মিটি Y বিন্দুতে এসেছে সেটি সেই বিন্দুতে লম্ব ON এর সাথে $\\theta_i$ আপতন কোণ করেছে। BY রশ্মিটির প্রতিফলন কোণ $\\theta_r$ এবং সেটি প্রতিফলিত হয়ে YP দিকে যাবে। আমরা PY কে বর্ধিত করলে সেটি OX রেখাকে F বিন্দুতে ছেদ করবে।",
+      "image": null,
+      "formulas": [
+        "\\theta_i",
+        "\\theta_r"
+      ],
+      "pdfPageStart": 230,
+      "pdfPageEnd": 230,
+      "printedPageStart": 225,
+      "printedPageEnd": 225,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.5-p008",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "drawing: A diagram of a convex spherical mirror showing incident ray OB, reflected ray YP, and the principal axis OXA. It labels points O, F, X, A, Y, P, N, and angles $\\theta_i$, $\\theta_r$, and $\\theta_i$.",
+      "image": "p230-page_16_image_1_v2.jpg",
+      "formulas": [
+        "\\theta_i",
+        "\\theta_r",
+        "\\theta_i"
+      ],
+      "pdfPageStart": 230,
+      "pdfPageEnd": 230,
+      "printedPageStart": 225,
+      "printedPageEnd": 225,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.5-p009",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "FO = FY কারণ OFY ত্রিভুজের $\\angle FOY = \\angle OYF$ যেহেতু $\\angle FOY = \\theta_i$ এবং $\\angle FYO = \\theta_r$",
+      "image": null,
+      "formulas": [
+        "\\angle FOY = \\angle OYF",
+        "\\angle FOY = \\theta_i",
+        "\\angle FYO = \\theta_r"
+      ],
+      "pdfPageStart": 230,
+      "pdfPageEnd": 230,
+      "printedPageStart": 225,
+      "printedPageEnd": 225,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.5-p010",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "FY $\\cong$ FX যখন XY ব্যাসার্ধ r থেকে অনেক ছোট হয় তখন এটি সত্য। বেশির ভাগ উত্তল আয়নায় এটা সত্য।",
+      "image": null,
+      "formulas": [
+        "\\cong"
+      ],
+      "pdfPageStart": 230,
+      "pdfPageEnd": 230,
+      "printedPageStart": 225,
+      "printedPageEnd": 225,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.5-p011",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "drawing: A diagram of a convex spherical mirror showing incident ray OB, reflected ray YP, and the principal axis OXA. It labels points O, F, X, A, Y, P, N, and angles $\\theta_i$, $\\theta_r$, and $\\theta_i$.",
+      "image": null,
+      "formulas": [
+        "\\theta_i",
+        "\\theta_r",
+        "\\theta_i"
+      ],
+      "pdfPageStart": 230,
+      "pdfPageEnd": 230,
+      "printedPageStart": 225,
+      "printedPageEnd": 225,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.5-p012",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**চিত্র ৮.১৮: একটি গোলীয় উত্তল আয়না আসলে একটা গোলকের অংশ।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 230,
+      "pdfPageEnd": 230,
+      "printedPageStart": 225,
+      "printedPageEnd": 225,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.5-p013",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই FO = FY $\\cong$ FX = r/2 অর্থাৎ ফোকাস দূরত্ব f = r/2",
+      "image": null,
+      "formulas": [
+        "\\cong"
+      ],
+      "pdfPageStart": 230,
+      "pdfPageEnd": 230,
+      "printedPageStart": 225,
+      "printedPageEnd": 225,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.5-p014",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** সমতল আয়নাকে যদি আমরা গোলীয় উত্তল আয়না হিসেবে কল্পনা করি, তাহলে তার ফোকাস দূরত্ব কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 230,
+      "pdfPageEnd": 230,
+      "printedPageStart": 225,
+      "printedPageEnd": 225,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.5-p015",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** অসীম।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 230,
+      "pdfPageEnd": 230,
+      "printedPageStart": 225,
+      "printedPageEnd": 225,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.5-p016",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "আমরা এখন গোলীয় আয়নার জন্য প্রতিবিম্ব কেমন হতে পারে সেটি দেখব। তোমরা দেখবে গোলীয় উত্তল আয়নায় প্রতিবিম্ব সব সময় অবাস্তব কিন্তু গোলীয় অবতল আয়নায় সেটি বাস্তব কিংবা অবাস্তব দুটিই হতে পারে, তবে সেটি নির্ভর করে বস্তুরটি কোথায় আছে তার উপর।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 230,
+      "pdfPageEnd": 230,
+      "printedPageStart": 225,
+      "printedPageEnd": 225,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.5-p017",
+      "kind": "text",
+      "section": "(Image in a Convex Spherical Mirror)",
+      "caption": null,
+      "body": "আমরা আগেই বলেছি, চামচের বাইরের অংশটা গোলীয় উত্তল আয়নার মতো কাজ করে এবং সেখানে তুমি নিজেকে দেখতে চাইলে ছোট এবং সোজা একটা প্রতিবিম্ব দেখতে পাও। যার অর্থ আমরা গোলীয় উত্তল আয়নার প্রতিবিম্বটি সব সময়ই ছোট দেখার কথা।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 230,
+      "pdfPageEnd": 230,
+      "printedPageStart": 225,
+      "printedPageEnd": 225,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.5-p018",
+      "kind": "text",
+      "section": "(Image in a Convex Spherical Mirror)",
+      "caption": null,
+      "body": "গোলীয় উত্তল আয়নায় কীভাবে প্রতিবিম্ব তৈরি হয় সেটি বোঝার জন্য আলোক রশ্মি গোলীয় উত্তল আয়নায় কীভাবে প্রতিফলিত হয় সেটি জানতে হবে। সেটি নির্ভর করে আলোক রশ্মি কী কোণে গোলীয় উত্তল আয়নায় এসে পড়ছে তার উপর। আমরা তিনটি বিশেষ আলোক রশ্মির প্রতিফলনের নিয়ম জানলেই কীভাবে প্রতিবিম্ব তৈরি হয় সেটি ব্যাখ্যা করতে পারব:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 231,
+      "pdfPageEnd": 231,
+      "printedPageStart": 226,
+      "printedPageEnd": 226,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.5-p019",
+      "kind": "text",
+      "section": "(Image in a Convex Spherical Mirror)",
+      "caption": null,
+      "body": "(i) আলোক রশ্মি কেন্দ্রমুখী হলে (চিত্র ৮.১৯, XN কিংবা YR রশ্মি) সেটি লক্ষ্যভাবে প্রতিফলিত হয়ে যৌদিক থেকে এসেছে ঠিক সেদিকেই ফিরে যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 231,
+      "pdfPageEnd": 231,
+      "printedPageStart": 226,
+      "printedPageEnd": 226,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.5-p020",
+      "kind": "text",
+      "section": "(Image in a Convex Spherical Mirror)",
+      "caption": null,
+      "body": "(ii) প্রধান অক্ষের সমান্তরাল (চিত্র ৮.১৯, XP) রশ্মিটি প্রতিফলনের পর মনে হবে যেন রশ্মিটি (PQ) ফোকাস বিন্দু (F) থেকে ছড়িয়ে যাচ্ছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 231,
+      "pdfPageEnd": 231,
+      "printedPageStart": 226,
+      "printedPageEnd": 226,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.5-p021",
+      "kind": "text",
+      "section": "(Image in a Convex Spherical Mirror)",
+      "caption": null,
+      "body": "(iii) আলোক রশ্মির দিক পরিবর্তন করা হলে এটি যৌদিক থেকে এসেছে ঠিক সেদিক দিয়ে ফিরে যায়। কাজেই কোনো আলোক রশ্মি (চিত্র ৮.১৯, QP) ফোকাস অভিমুখী হলে সেটি প্রধান অক্ষের সাথে সমান্তরাল হয়ে (PX) প্রতিফলিত হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 231,
+      "pdfPageEnd": 231,
+      "printedPageStart": 226,
+      "printedPageEnd": 226,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.5-p022",
+      "kind": "text",
+      "section": "(Image in a Convex Spherical Mirror)",
+      "caption": null,
+      "body": "আমরা এখন এই তিনটি নিয়ম ব্যবহার করে প্রতিবিম্ব তৈরি করতে পারব। ৮.১৯ চিত্রে একটা উত্তল আয়নার সামনে XY একটি বস্তু রাখা আছে Y বিন্দু থেকে আলো R বিন্দুতে এলে সেটি লক্ষ্যভাবে প্রতিফলিত হয়ে আবার Y বিন্দুর দিকেই ফিরে যায়, যার অর্থ XY বস্তুর Y বিন্দুর প্রতিবিম্বটি এই YO রেখার কোথাও হবে। সেটি ঠিক কোথায় জানতে হলে X বিন্দু থেকে অন্যদিকে আরেকটি রশ্মি আঁকতে হবে, আমাদের সেটি করার প্রয়োজন নেই কারণ X বিন্দুটির প্রতিবিম্বটি বের করে সেখান থেকে আমরা এটি জেনে নেব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 231,
+      "pdfPageEnd": 231,
+      "printedPageStart": 226,
+      "printedPageEnd": 226,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.5-p023",
+      "kind": "figure",
+      "section": "(Image in a Convex Spherical Mirror)",
+      "caption": null,
+      "body": "drawing: optical diagram of a convex mirror showing object XY, image X'Y', and rays passing through P, N, and F",
+      "image": "p231-page_17_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 231,
+      "pdfPageEnd": 231,
+      "printedPageStart": 226,
+      "printedPageEnd": 226,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.5-p024",
+      "kind": "figure",
+      "section": "(Image in a Convex Spherical Mirror)",
+      "caption": null,
+      "body": "**চিত্র ৮.১৯: উত্তল আয়নায় একটি বস্তু XY ফোকাস দূরহের ভেতরে রাখা হলে প্রতিবিম্ব X'Y' ছোট দেখায়।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 231,
+      "pdfPageEnd": 231,
+      "printedPageStart": 226,
+      "printedPageEnd": 226,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.5-p025",
+      "kind": "text",
+      "section": "(Image in a Convex Spherical Mirror)",
+      "caption": null,
+      "body": "X বিন্দুর প্রতিবিম্ব বের করার জন্য দুটি রশ্মি আঁকতে হবে, একটি আগের মতো সরাসরি O বিন্দুর সাথে যুক্ত করি। YR রশ্মিটি যে রকম লক্ষ্যভাবে প্রতিফলিত হয়ে Y এর দিকে ফিরে গিয়েছিল এই রশ্মিটিও ঠিক একইভাবে N বিন্দুতে প্রতিফলিত হয়ে X এর দিকে ফিরে যাবে। দ্বিতীয় রশ্মিটি YR এর সাথে সমান্তরালভাবে আঁকা যেতে পারে, সেটা উত্তল আয়নার P বিন্দুতে আপতিত হয়ে প্রতিফলিত হবে এবং মনে হবে যেন F বিন্দু থেকে ছড়িয়ে যাচ্ছে কাজেই আমরা FP কে যুক্ত করে Q এর দিকে বাড়িয়ে দিতে পারি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 231,
+      "pdfPageEnd": 231,
+      "printedPageStart": 226,
+      "printedPageEnd": 226,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.5-p026",
+      "kind": "text",
+      "section": "(Image in a Convex Spherical Mirror)",
+      "caption": null,
+      "body": "FP রেখাটা OX রেখাকে X' বিন্দুতে ছেদ করেছে, যার অর্থ X বিন্দুর প্রতিবিষ্টি হবে X' বিন্দুতে। X' থেকে OY রেখার ওপর লম্ব টানলে সেটা Y' বিন্দুতে ছেদ করবে। যেহেতু আমাদের মনে হবে X বিন্দুর প্রতিফলনটি আসছে X' বিন্দু থেকে সে কারণে আমাদের মনে হবে Y বিন্দুর প্রতিফলনটি আসছে Y' বিন্দু থেকে। কাজেই X'Y' হবে XY এর প্রতিবিষ্ণ।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 232,
+      "pdfPageEnd": 232,
+      "printedPageStart": 227,
+      "printedPageEnd": 227,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.5-p027",
+      "kind": "text",
+      "section": "(Image in a Convex Spherical Mirror)",
+      "caption": null,
+      "body": "দেখাই যাচ্ছে X'Y' সব সময় XY থেকে ছোট এবং XY উত্তল আয়না থেকে যত দূরে থাকবে X'Y' হবে তত ছোট। প্রতিফলনের নিয়ম ব্যবহার করে উত্তল কিংবা অবতল আয়নায় প্রতিবিষ্ণ আঁকার এই পদ্ধতিটি ভালো করে জেনে রাখা দরকার, এটি পদার্থবিজ্ঞানের খুব প্রয়োজনীয় একটা পদ্ধতি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 232,
+      "pdfPageEnd": 232,
+      "printedPageStart": 227,
+      "printedPageEnd": 227,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.5-p028",
+      "kind": "text",
+      "section": "(Image in a Convex Spherical Mirror)",
+      "caption": null,
+      "body": "বোঝাই যাচ্ছে X'Y' থেকে আসলে সত্যিকারের আলো বিচ্ছুরিত হচ্ছে না, আমাদের শুধু মনে হচ্ছে বৃষ্টি প্রতিবিষ্টি এখানে আছে। কাজেই এটা অবাস্তব প্রতিবিষ্ণ। সাধারণ আয়নার প্রতিবিষ্ণের সাথে তুলনা করে আমরা বলতে পারি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 232,
+      "pdfPageEnd": 232,
+      "printedPageStart": 227,
+      "printedPageEnd": 227,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.5-p029",
+      "kind": "text",
+      "section": "(Image in a Convex Spherical Mirror)",
+      "caption": null,
+      "body": "(a) এই প্রতিবিষ্টির অবস্থান হবে ফোকাস বিন্দু এবং মেরু বিন্দুর মাঝখানে। বস্তুটি যত দূরে থাকবে প্রতিবিষ্টি ফোকাস বিন্দুর তত কাছে তৈরি হবে।\n(b) এই প্রতিবিষ্টি অবাস্তব\n(c) এটি সোজা\n(d) এটা ছোট, বস্তুটি আয়না থেকে যত দূরে যাবে প্রতিবিষ্টি তত ছোট হতে থাকবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 232,
+      "pdfPageEnd": 232,
+      "printedPageStart": 227,
+      "printedPageEnd": 227,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,325 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.19",
+  "key": "1.19",
+  "title": "সেট প্রক্রিয়াসংক্রান্ত আরও কতিপয় প্রতিজ্ঞা",
+  "chapter": 1,
+  "ordinal": 19,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.19-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $A$ যেকোনো সেট হলে $A \\subseteq A$।",
+      "image": null,
+      "formulas": [
+        "A",
+        "A \\subseteq A"
+      ],
+      "pdfPageStart": 14,
+      "pdfPageEnd": 14,
+      "printedPageStart": 9,
+      "printedPageEnd": 9,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.19-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) ফাঁকা সেট $\\emptyset$ যেকোনো সেট $A$ এর উপসেট।",
+      "image": null,
+      "formulas": [
+        "\\emptyset",
+        "A"
+      ],
+      "pdfPageStart": 14,
+      "pdfPageEnd": 14,
+      "printedPageStart": 9,
+      "printedPageEnd": 9,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.19-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $A$ ও $B$ যেকোনো সেট হলে $A = B$ হবে যদি ও কেবল যদি $A \\subseteq B$ এবং $B \\subseteq A$ হয়।",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "A = B",
+        "A \\subseteq B",
+        "B \\subseteq A"
+      ],
+      "pdfPageStart": 15,
+      "pdfPageEnd": 15,
+      "printedPageStart": 10,
+      "printedPageEnd": 10,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.19-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঘ) যদি $A \\subseteq \\emptyset$ হয়, তবে $A = \\emptyset$।",
+      "image": null,
+      "formulas": [
+        "A \\subseteq \\emptyset",
+        "A = \\emptyset"
+      ],
+      "pdfPageStart": 15,
+      "pdfPageEnd": 15,
+      "printedPageStart": 10,
+      "printedPageEnd": 10,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.19-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঙ) যদি $A \\subseteq B$ এবং $B \\subseteq C$ তবে, $A \\subseteq C$।",
+      "image": null,
+      "formulas": [
+        "A \\subseteq B",
+        "B \\subseteq C",
+        "A \\subseteq C"
+      ],
+      "pdfPageStart": 15,
+      "pdfPageEnd": 15,
+      "printedPageStart": 10,
+      "printedPageEnd": 10,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.19-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "চ) $A$ ও $B$ যেকোনো সেট হলে, $A \\cap B \\subseteq A$ এবং $A \\cap B \\subseteq B$।",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "A \\cap B \\subseteq A",
+        "A \\cap B \\subseteq B"
+      ],
+      "pdfPageStart": 15,
+      "pdfPageEnd": 15,
+      "printedPageStart": 10,
+      "printedPageEnd": 10,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.19-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ছ) $A$ ও $B$ যেকোনো সেট হলে, $A \\subseteq A \\cup B$ এবং $B \\subseteq A \\cup B$।",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "A \\subseteq A \\cup B",
+        "B \\subseteq A \\cup B"
+      ],
+      "pdfPageStart": 15,
+      "pdfPageEnd": 15,
+      "printedPageStart": 10,
+      "printedPageEnd": 10,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.19-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:** কেবল দুইটি প্রতিজ্বার প্রমাণ দেওয়া হয়েছে। অন্যগুলো নিজে করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 15,
+      "pdfPageEnd": 15,
+      "printedPageStart": 10,
+      "printedPageEnd": 10,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.19-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঘ) দেওয়া আছে, $A \\subseteq \\emptyset$, আবার আমরা জানি, $\\emptyset \\subseteq A$। সুতরাং $A = \\emptyset$।",
+      "image": null,
+      "formulas": [
+        "A \\subseteq \\emptyset",
+        "\\emptyset \\subseteq A",
+        "A = \\emptyset"
+      ],
+      "pdfPageStart": 15,
+      "pdfPageEnd": 15,
+      "printedPageStart": 10,
+      "printedPageEnd": 10,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.19-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ছ) সেট সংযোগের সংজ্ঞানুযায়ী, $A$ সেটের সকল উপাদান $A \\cup B$ সেটে থাকে। সুতরাং উপসেটের সংজ্ঞানুযায়ী $A \\subseteq A \\cup B$। একই যুক্তিতে $B \\subseteq A \\cup B$।",
+      "image": null,
+      "formulas": [
+        "A",
+        "A \\cup B",
+        "A \\subseteq A \\cup B",
+        "B \\subseteq A \\cup B"
+      ],
+      "pdfPageStart": 15,
+      "pdfPageEnd": 15,
+      "printedPageStart": 10,
+      "printedPageEnd": 10,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.19-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:** নিচের সকল সেট সার্বিক সেট $U$ এর উপসেট বিবেচনা করতে হবে।",
+      "image": null,
+      "formulas": [
+        "U"
+      ],
+      "pdfPageStart": 15,
+      "pdfPageEnd": 15,
+      "printedPageStart": 10,
+      "printedPageEnd": 10,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.19-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) দেখাও যে, $A \\cap (B \\cap C) = (A \\cap B) \\cap (A \\cap C)$।",
+      "image": null,
+      "formulas": [
+        "A \\cap (B \\cap C) = (A \\cap B) \\cap (A \\cap C)"
+      ],
+      "pdfPageStart": 15,
+      "pdfPageEnd": 15,
+      "printedPageStart": 10,
+      "printedPageEnd": 10,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.19-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) দেখাও যে, $A \\subset B$ হবে যদি এবং কেবল যদি নিম্নোক্ত যেকোনো একটি শর্ত থাকে:\n(১) $A \\cap B = A$\n(২) $A \\cup B = B$\n(৩) $B' \\subset A'$\n(৪) $A \\cap B' = \\emptyset$\n(৫) $B \\cup A' = U$",
+      "image": null,
+      "formulas": [
+        "A \\subset B",
+        "A \\cap B = A",
+        "A \\cup B = B",
+        "B' \\subset A'",
+        "A \\cap B' = \\emptyset",
+        "B \\cup A' = U"
+      ],
+      "pdfPageStart": 15,
+      "pdfPageEnd": 15,
+      "printedPageStart": 10,
+      "printedPageEnd": 10,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.19-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) দেখাও যে,\n(১) $A \\setminus B \\subset A \\cup B$\n(২) $A' \\setminus B' = B \\setminus A$\n(৩) $A \\setminus B \\subset A$\n(৪) $A \\subset B$ হলে, $A \\cup (B \\setminus A) = B$\n(৫) $A \\cap B = \\emptyset$ হলে, $A \\subset B'$ এবং $A \\cap B' = A$ এবং $A \\cup B' = B'$",
+      "image": null,
+      "formulas": [
+        "A \\setminus B \\subset A \\cup B",
+        "A' \\setminus B' = B \\setminus A",
+        "A \\setminus B \\subset A",
+        "A \\subset B",
+        "A \\cup (B \\setminus A) = B",
+        "A \\cap B = \\emptyset",
+        "A \\subset B'",
+        "A \\cap B' = A",
+        "A \\cup B' = B'"
+      ],
+      "pdfPageStart": 15,
+      "pdfPageEnd": 15,
+      "printedPageStart": 10,
+      "printedPageEnd": 10,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.19-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঘ) দেখাও যে,\n(১) $(A \\cap B)' = A' \\cup B'$\n(২) $(A \\cup B \\cup C)' = A' \\cap B' \\cap C'$\n(৩) $(A \\cap B \\cap C)' = A' \\cup B' \\cup C'$",
+      "image": null,
+      "formulas": [
+        "(A \\cap B)' = A' \\cup B'",
+        "(A \\cup B \\cup C)' = A' \\cap B' \\cap C'",
+        "(A \\cap B \\cap C)' = A' \\cup B' \\cup C'"
+      ],
+      "pdfPageStart": 15,
+      "pdfPageEnd": 15,
+      "printedPageStart": 10,
+      "printedPageEnd": 10,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

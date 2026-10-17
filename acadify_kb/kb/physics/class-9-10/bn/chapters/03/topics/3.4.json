@@ -1,0 +1,170 @@
+{
+  "id": "physics-9-10-bn-c03-t3.4",
+  "key": "3.4",
+  "title": "ভরবেগ (Momentum)",
+  "chapter": 3,
+  "ordinal": 4,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c03-t3.4-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধরা যাক একটি ট্রাক এবং একটি বাইসাইকেল একই বেগে গিয়ে একটি ছোট গাড়িকে আঘাত করেছে। এই সংঘর্ষে সাইকেল নাকি ট্রাক, কোনটি ছোট গাড়িটার বেশি ক্ষতি করতে পারবে? অবশ্যই ট্রাক, কারণ তার ভর অনেক বেশি। সাইকেল এবং ট্রাক দুটোর বেগ এক হলেও ট্রাকের ভর অনেক বেশি, সেজন্য তার ভরবেগ অনেক বেশি। ভরবেগ সহজভাবে ভর এবং বেগের গুণফলকে বলা হয়। ভর যদি $m$ হয় এবং বেগ যদি $\\vec{v}$ হয় তাহলে ভরবেগ $\\vec{p}$ হচ্ছে:",
+      "image": null,
+      "formulas": [
+        "m",
+        "\\vec{v}",
+        "\\vec{p}"
+      ],
+      "pdfPageStart": 76,
+      "pdfPageEnd": 76,
+      "printedPageStart": 71,
+      "printedPageEnd": 71,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.4-p002",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\vec{p} = m\\vec{v}$$",
+      "image": null,
+      "formulas": [
+        "\\vec{p} = m\\vec{v}"
+      ],
+      "pdfPageStart": 76,
+      "pdfPageEnd": 76,
+      "printedPageStart": 71,
+      "printedPageEnd": 71,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.4-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে ভর স্কেলার রাশি কিন্তু বেগ ভেক্টর, তাই ভরবেগ ভেক্টর। তোমরা ধারণা করতে পার যে, সাধারণভাবে যেহেতু কোনো কিছুর ভরের পরিবর্তন হয় না তাই ভরবেগের পরিবর্তন হতে পারে শুধু বেগের পরিবর্তন থেকে। আমরা বিশেষ কোনো ক্ষেত্রে দেখতে পারি গতিশীল কোনো কিছুর বেগের পরিবর্তন হয়নি, কিন্তু ভরের পরিবর্তন হওয়ার কারণে তার ভরবেগের পরিবর্তন হয়ে গেছে! তোমাদের মনে হতে পারে, ভরবেগ নামে নতুন একটা রাশির প্রচলন না করে এটিকে সব সময় ভর এবং বেগের গুণফল হিসেবে বিবেচনা করা হলে কী সমস্যা ছিল? সাধারণভাবে বড় কোনো সমস্যা না থাকলেও আলোর কণার ব্যাপারে এটি অনেক বড় সমস্যা হতে পারে। আলোর কণা বা ফোটনের কোনো ভর নেই কিন্তু তার ভরবেগ আছে। অর্থাৎ ভর এবং বেগ থেকে ভরবেগ বেশি মৌলিক একটি রাশি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 76,
+      "pdfPageEnd": 76,
+      "printedPageStart": 71,
+      "printedPageEnd": 71,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.4-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ভরবেগের একক হলো kg m/s\nভরবেগের মাত্রা হলো $[p] = MLT^{-1}$",
+      "image": null,
+      "formulas": [
+        "[p] = MLT^{-1}"
+      ],
+      "pdfPageStart": 76,
+      "pdfPageEnd": 76,
+      "printedPageStart": 71,
+      "printedPageEnd": 71,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.4-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যদি একাধিক বস্তু গতিশীল হয় এবং তারা ভিন্ন ভিন্ন বেগে যেতে থাকে, তাহলে তাদের একটা সম্মিলিত ভরবেগ থাকে। বস্তুগুলোর ভিন্ন ভিন্ন বেগ থাকার কারণে চলার পথে একটির সাথে অন্যটির সংঘর্ষ হতে পারে এবং সংঘর্ষের কারণে তাদের বেগের পরিবর্তনও হতে পারে। যদি বাইরে থেকে কোনো বল প্রয়োগ করা না হয় তাহলে সংঘর্ষের পরেও সম্মিলিত ভরবেগের কোনো পরিবর্তন হয় না। এই বক্তব্যটির নাম ভরবেগের নিত্যতার সূত্র।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 76,
+      "pdfPageEnd": 77,
+      "printedPageStart": 71,
+      "printedPageEnd": 72,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.4-p006",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** তুমি একটি টেনিস বল 10 m/s বেগে একটা দেয়ালে ছুড়ে দেওয়ার পর এটা একই দ্বিতিতে ঠিক তোমার দিকে ফিরে এসেছে। বলটার ভর 100 gm হলে ভরবেগের পরিবর্তন কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 77,
+      "pdfPageEnd": 77,
+      "printedPageStart": 72,
+      "printedPageEnd": 72,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.4-p007",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** বলটি ছুড়ে দেওয়ার সময় ভরবেগ $p = mv$, দেয়ালে আঘাত করে ঠিক উল্টো দিকে ফিরে আসার সময় ভরবেগ হচ্ছে $p' = -mv$ কাজেই ভরবেগের পরিবর্তন:",
+      "image": null,
+      "formulas": [
+        "p = mv",
+        "p' = -mv"
+      ],
+      "pdfPageStart": 77,
+      "pdfPageEnd": 77,
+      "printedPageStart": 72,
+      "printedPageEnd": 72,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.4-p008",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$p - (p') = mv - (-mv) = 2mv$$\n$$= 2 \\times 0.1  kg \\times 10  m/s = 2  kgm/s$$",
+      "image": null,
+      "formulas": [
+        "p - (p') = mv - (-mv) = 2mv",
+        "= 2 \\times 0.1  kg \\times 10  m/s = 2  kgm/s"
+      ],
+      "pdfPageStart": 77,
+      "pdfPageEnd": 77,
+      "printedPageStart": 72,
+      "printedPageEnd": 72,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.4-p009",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "এই পরিবর্তনের জন্য টেনিস বলটার উপর দেয়ালটা খুব অল্প সময়ের জন্য বল প্রয়োগ করেছে। ক্রিকেট খেলার সময় ব্যাটসম্যানরা এভাবে ব্যাট দিয়ে খুব অল্প সময়ের জন্য ক্রিকেট বলকে আঘাত করে সেটার ভরবেগের পরিবর্তন করে ফেলে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 77,
+      "pdfPageEnd": 77,
+      "printedPageStart": 72,
+      "printedPageEnd": 72,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

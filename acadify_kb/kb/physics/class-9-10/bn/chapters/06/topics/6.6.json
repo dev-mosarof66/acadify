@@ -1,0 +1,513 @@
+{
+  "id": "physics-9-10-bn-c06-t6.6",
+  "key": "6.6",
+  "title": "ক্যালোরিমিতির মূলনীতি",
+  "chapter": 6,
+  "ordinal": 6,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c06-t6.6-p001",
+      "kind": "text",
+      "section": "(Fundamental Principles of Calorimetry)",
+      "caption": null,
+      "body": "শীতকালে গোসল করার সময় অনেক সময়ই আমরা বালতির ঠান্ডা পানিতে খানিকটা প্রায় ফুটন্ত গরম পানি ঢেলে দিই। ফুটন্ত গরম পানি বালতির শীতল পানিকে তাপ দিতে দিতে ঠান্ডা হতে থাকে। বালতির শীতল পানিও গরম ফুটন্ত পানি থেকে তাপ নিতে নিতে উত্তপ্ত হতে থাকে। কিছুক্ষণের মধ্যে দেখা যায় উত্তপ্ত পানির তাপমাত্রা কমে এবং শীতল পানির তাপমাত্রা বেড়ে পুরো পানিটুকুই একটা আরামদায়ক উষ্ণতায় চলে এসেছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.6-p002",
+      "kind": "text",
+      "section": "(Fundamental Principles of Calorimetry)",
+      "caption": null,
+      "body": "আমরা ইচ্ছে করলেই কোন পদার্থের কোন তাপমাত্রার বস্তুর সাথে অন্য কোন তাপমাত্রার কোন বস্তু মেশালে কোনটি কতটুকু তাপ দেবে বা নেবে এবং শেষ পর্যন্ত কত তাপমাত্রায় পৌঁছাবে এই বিষয়গুলো বের করে ফেলতে পারব। তা করতে হলে আমাদের শুধু কয়েকটা নিয়ম মনে রাখতে হবে:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.6-p003",
+      "kind": "text",
+      "section": "(Fundamental Principles of Calorimetry)",
+      "caption": null,
+      "body": "(i) বেশি তাপমাত্রার বস্তু কম তাপমাত্রার বস্তুর কাছে তাপ দিতে থাকবে যতক্ষণ পর্যন্ত না দুটো তাপমাত্রাই সমান হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.6-p004",
+      "kind": "text",
+      "section": "(Fundamental Principles of Calorimetry)",
+      "caption": null,
+      "body": "(ii) উত্তপ্ত বস্তু যতটুকু তাপ পরিত্যাগ করবে, শীতল বস্তু ঠিক ততটুকু তাপ গ্রহণ করবে।\n(আমরা ধরে নিয়েছি এই প্রক্রিয়াতে অন্য কোনোভাবে কোনো তাপ নষ্ট হচ্ছে না।)",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.6-p005",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** 30° *C* তাপমাত্রায় 1 liter পানিতে 100 gm ওজনের এক টুকরো বরফ ছেড়ে দেওয়া হলো। পুরো বরফটি গলে যাবার পর মোট পানির তাপমাত্রা কত হবে? (বরফ গলনের সুপ্ততাপ $L = 334  kJ/kg$)",
+      "image": null,
+      "formulas": [
+        "L = 334  kJ/kg"
+      ],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.6-p006",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** বরফের তাপমাত্রা 0° C ধরে নিই।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.6-p007",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "বরফের ভর $m_1 = 100  gm = 0.1  kg$\n1 liter পানির ভর $m_2 = 1  kg$\nপানির আপেক্ষিক তাপ $s = 4.2 \\times 10^3  J kg^{-1}K^{-1}$",
+      "image": null,
+      "formulas": [
+        "m_1 = 100  gm = 0.1  kg",
+        "m_2 = 1  kg",
+        "s = 4.2 \\times 10^3  J kg^{-1}K^{-1}"
+      ],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.6-p008",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "বরফটুকু গলতে এবং বরফ গলা পানির চূড়ান্ত তাপমাত্রায় পৌঁছাতে যে তাপের প্রয়োজন হবে সেই তাপটুকু 1 kg পানিকে সরবরাহ করতে হবে। ধরা যাক পানির চূড়ান্ত তাপমাত্রা $T$, তাহলে বরফ যে পরিমাণ তাপ গ্রহণ করবে সেগুলো হলো:",
+      "image": null,
+      "formulas": [
+        "T"
+      ],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.6-p009",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "গলার জন্য প্রয়োজনীয় তাপ: $m_1 L$\nগলার পর 0° C থেকে $T$ পর্যন্ত তাপমাত্রা বাড়ার জন্য তাপ: $m_1 s(T - 0)$",
+      "image": null,
+      "formulas": [
+        "m_1 L",
+        "T",
+        "m_1 s(T - 0)"
+      ],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.6-p010",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "এই তাপগুলো সরবরাহ করবে বাকি $m_2$ পরিমাণ পানি, কাজেই তার তাপমাত্রা কমে যাবে। অর্থাৎ:",
+      "image": null,
+      "formulas": [
+        "m_2"
+      ],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.6-p011",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "তাপ সরবরাহ করা হবে: $m_2 s(30^\\circ C - T)$",
+      "image": null,
+      "formulas": [
+        "m_2 s(30^\\circ C - T)"
+      ],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.6-p012",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "দুটো তাপ সমান হতে হবে। কাজেই:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.6-p013",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$m_1 L + m_1 s T = m_2 s (30^\\circ C - T)$$",
+      "image": null,
+      "formulas": [
+        "m_1 L + m_1 s T = m_2 s (30^\\circ C - T)"
+      ],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.6-p014",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$T = \\frac{30^\\circ C \\times m_2 s - m_1 L}{(m_1 + m_2) s}$$",
+      "image": null,
+      "formulas": [
+        "T = \\frac{30^\\circ C \\times m_2 s - m_1 L}{(m_1 + m_2) s}"
+      ],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.6-p015",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$T = \\frac{30 \\times 1 \\times 4.2 \\times 10^3 - 0.1 \\times 334 \\times 10^3}{(1 + 0.1) 4.2 \\times 10^3} = 20^\\circ C$$",
+      "image": null,
+      "formulas": [
+        "T = \\frac{30 \\times 1 \\times 4.2 \\times 10^3 - 0.1 \\times 334 \\times 10^3}{(1 + 0.1) 4.2 \\times 10^3} = 20^\\circ C"
+      ],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.6-p016",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** 75° C তাপমাত্রার 2 liter পানিতে 20° C তাপমাত্রার 1 liter পানি যোগ করা হলে চূড়ান্ত তাপমাত্রা কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.6-p017",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** ধরা যাক, চূড়ান্ত তাপমাত্রা $T$ তাহলে 2 liter পানির তাপমাত্রা 75°C থেকে কমে সেটি $T$ তে পৌঁছাবে। এই তাপটুকু গ্রহণ করে 1 liter পানির তাপমাত্রা 20°C থেকে বেড়ে $T$ তে পৌঁছাবে। কাজেই",
+      "image": null,
+      "formulas": [
+        "T",
+        "T",
+        "T"
+      ],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.6-p018",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "1 liter পানির ভর $m_1 = 1  kg$\n2 liter পানির ভর $m_2 = 2  kg$",
+      "image": null,
+      "formulas": [
+        "m_1 = 1  kg",
+        "m_2 = 2  kg"
+      ],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.6-p019",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "পানির আপেক্ষিক তাপ $s = 4.2 \\times 10^3  J kg^{-1}K^{-1}$",
+      "image": null,
+      "formulas": [
+        "s = 4.2 \\times 10^3  J kg^{-1}K^{-1}"
+      ],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.6-p020",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$m_1s(75^\\circ  C - T) = m_2s(T - 20^\\circ  C)$$",
+      "image": null,
+      "formulas": [
+        "m_1s(75^\\circ  C - T) = m_2s(T - 20^\\circ  C)"
+      ],
+      "pdfPageStart": 186,
+      "pdfPageEnd": 186,
+      "printedPageStart": 181,
+      "printedPageEnd": 181,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.6-p021",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$T = \\frac{(75m_1 + 20m_2)s}{(m_1 + m_2)s} ^\\circ C = \\frac{75 \\times 2 + 20}{2 + 1} ^\\circ C = 56.6^\\circ  C$$",
+      "image": null,
+      "formulas": [
+        "T = \\frac{(75m_1 + 20m_2)s}{(m_1 + m_2)s} ^\\circ C = \\frac{75 \\times 2 + 20}{2 + 1} ^\\circ C = 56.6^\\circ  C"
+      ],
+      "pdfPageStart": 186,
+      "pdfPageEnd": 186,
+      "printedPageStart": 181,
+      "printedPageEnd": 181,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.6-p022",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** $120^\\circ  C$ তাপমাত্রায় উত্তপ্ত $10  gm$ ভরের এক টুকরো লোহা একটা পাত্রে রাখা $30^\\circ  C$ তাপমাত্রার $1  kg$ পানিতে ছেড়ে দেওয়া হলো। পানির তাপমাত্রা কত হবে?",
+      "image": null,
+      "formulas": [
+        "120^\\circ  C",
+        "10  gm",
+        "30^\\circ  C",
+        "1  kg"
+      ],
+      "pdfPageStart": 186,
+      "pdfPageEnd": 186,
+      "printedPageStart": 181,
+      "printedPageEnd": 181,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.6-p023",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:**\nলোহার ভর $m_1 = 0.01  kg$\nপানির ভর $m_2 = 1  kg$\nলোহার আপেক্ষিক তাপ $s_1 = 0.45 \\times 10^3  J kg^{-1}K^{-1}$\nপানির আপেক্ষিক তাপ $s_2 = 4.2 \\times 10^3  J kg^{-1}K^{-1}$",
+      "image": null,
+      "formulas": [
+        "m_1 = 0.01  kg",
+        "m_2 = 1  kg",
+        "s_1 = 0.45 \\times 10^3  J kg^{-1}K^{-1}",
+        "s_2 = 4.2 \\times 10^3  J kg^{-1}K^{-1}"
+      ],
+      "pdfPageStart": 186,
+      "pdfPageEnd": 186,
+      "printedPageStart": 181,
+      "printedPageEnd": 181,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.6-p024",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "লোহার টুকরো যতটুকু তাপ হারাবে পানি ঠিক ততটুকু তাপ গ্রহণ করবে। কাজেই লোহার চূড়ান্ত তাপমাত্রা $T$ হলো",
+      "image": null,
+      "formulas": [
+        "T"
+      ],
+      "pdfPageStart": 186,
+      "pdfPageEnd": 186,
+      "printedPageStart": 181,
+      "printedPageEnd": 181,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.6-p025",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$m_1s_1(120^\\circ  C - T) = m_2s_2(T - 30^\\circ  C)$$",
+      "image": null,
+      "formulas": [
+        "m_1s_1(120^\\circ  C - T) = m_2s_2(T - 30^\\circ  C)"
+      ],
+      "pdfPageStart": 186,
+      "pdfPageEnd": 186,
+      "printedPageStart": 181,
+      "printedPageEnd": 181,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.6-p026",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$T = \\frac{120m_1s_1 + 30m_2s_2}{m_1s_1 + m_2s_2} = \\frac{120 \\times 0.01 \\times 0.45 \\times 10^3 + 30 \\times 1 \\times 4.2 \\times 10^3}{0.01 \\times 0.45 \\times 10^3 + 1 \\times 4.2 \\times 10^3} ^\\circ C$$",
+      "image": null,
+      "formulas": [
+        "T = \\frac{120m_1s_1 + 30m_2s_2}{m_1s_1 + m_2s_2} = \\frac{120 \\times 0.01 \\times 0.45 \\times 10^3 + 30 \\times 1 \\times 4.2 \\times 10^3}{0.01 \\times 0.45 \\times 10^3 + 1 \\times 4.2 \\times 10^3} ^\\circ C"
+      ],
+      "pdfPageStart": 186,
+      "pdfPageEnd": 186,
+      "printedPageStart": 181,
+      "printedPageEnd": 181,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.6-p027",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$T = 30.1^\\circ  C$$",
+      "image": null,
+      "formulas": [
+        "T = 30.1^\\circ  C"
+      ],
+      "pdfPageStart": 186,
+      "pdfPageEnd": 186,
+      "printedPageStart": 181,
+      "printedPageEnd": 181,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

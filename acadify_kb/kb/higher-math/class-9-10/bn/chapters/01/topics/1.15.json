@@ -1,0 +1,50 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.15",
+  "key": "1.15",
+  "title": "কার্তেসীয় গুণজসেট (Cartesian Product Set)",
+  "chapter": 1,
+  "ordinal": 15,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.15-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "দুটি সেট $A$ এবং $B$ এর কার্তেসীয় গুণজ $A \\times B = \\{(x, y) : x \\in A  এবং  y \\in B\\}$।",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "A \\times B = \\{(x, y) : x \\in A  এবং  y \\in B\\}"
+      ],
+      "pdfPageStart": 11,
+      "pdfPageEnd": 11,
+      "printedPageStart": 6,
+      "printedPageEnd": 6,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.15-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১২.** $A = \\{1, 2\\}, B = \\{a, b, c\\}$ দুটি সেট। সুতরাং এই দুটি সেটের কার্তেসীয় গুণজ সেট $A \\times B = \\{(1, a), (1, b), (1, c), (2, a), (2, b), (2, c)\\}$।",
+      "image": null,
+      "formulas": [
+        "A = \\{1, 2\\}, B = \\{a, b, c\\}",
+        "A \\times B = \\{(1, a), (1, b), (1, c), (2, a), (2, b), (2, c)\\}"
+      ],
+      "pdfPageStart": 11,
+      "pdfPageEnd": 11,
+      "printedPageStart": 6,
+      "printedPageEnd": 6,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

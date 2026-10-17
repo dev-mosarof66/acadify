@@ -1,0 +1,1414 @@
+{
+  "id": "chemistry-9-10-bn-c06-t6.3",
+  "key": "6.3",
+  "title": "রাসায়নিক বিক্রিয়া ও রাসায়নিক সমীকরণ",
+  "chapter": 6,
+  "ordinal": 3,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p001",
+      "kind": "text",
+      "section": "রাসায়নিক বিক্রিয়া",
+      "caption": null,
+      "body": "যদি কোনো পরিবর্তনের ফলে কোনো পদার্থ তার নিজের ধর্ম ও বৈশিষ্ট্য হারিয়ে নতুন ধর্ম লাভ করে সেই পরিবর্তনকে রাসায়নিক পরিবর্তন বলে। যে প্রক্রিয়ায় রাসায়নিক পরিবর্তন ঘটে সেই প্রক্রিয়াকে রাসায়নিক বিক্রিয়া বলে। রাসায়নিক বিক্রিয়াকে সংক্ষেপে উপস্থাপন করার জন্য যে সমীকরণ ব্যবহার করা হয় সেই সমীকরণকে রাসায়নিক সমীকরণ বলা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p002",
+      "kind": "text",
+      "section": "রাসায়নিক বিক্রিয়া",
+      "caption": null,
+      "body": "রাসায়নিক সমীকরণকে প্রকাশ করার জন্য প্রতীক, সংকেত এবং নানা রকম চিহ্ন ব্যবহার করা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p003",
+      "kind": "text",
+      "section": "রাসায়নিক বিক্রিয়া",
+      "caption": null,
+      "body": "যে সকল পদার্থ নিয়ে রাসায়নিক বিক্রিয়া শুরু করা হয় সেই সকল পদার্থকে বলা হয় বিক্রিয়ক। বিক্রিয়ার ফলে নতুন ধর্মবিশিষ্ট যে সকল পদার্থ উৎপন্ন হয় সেই সকল পদার্থকে উৎপাদ বলা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p004",
+      "kind": "text",
+      "section": "রাসায়নিক বিক্রিয়া",
+      "caption": null,
+      "body": "রাসায়নিক বিক্রিয়াকে রাসায়নিক সমীকরণ আকারে লেখার জন্য কতগুলো নিয়ম মানা হয় সেগুলো হচ্ছে:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p005",
+      "kind": "text",
+      "section": "রাসায়নিক বিক্রিয়া",
+      "caption": null,
+      "body": "১. গণিতে যেমন সমীকরণের মাঝে একটি সমান চিহ্ন (=) ব্যবহার করা হয় তেমনি কোনো বিক্রিয়ার বিক্রিয়ক বাম পাশে এবং উৎপাদ ডান পাশে লিখে তাদের মাঝে একটি সমান চিহ্ন (=) বা তির চিহ্ন (→) বসাতে হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 131,
+      "pdfPageEnd": 131,
+      "printedPageStart": 126,
+      "printedPageEnd": 126,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p006",
+      "kind": "text",
+      "section": "রাসায়নিক বিক্রিয়া",
+      "caption": null,
+      "body": "২. বিক্রিয়কসমূহ এবং উৎপাদসমূহকে রাসায়নিক প্রতীক বা সংকেতের মাধ্যমে লেখা হয়। বিক্রিয়ায় একাধিক বিক্রিয়ক থাকলে বিক্রিয়কসমূহের মাঝে যোগ চিহ্ন দিতে হয়। এবং একাধিক উৎপাদ থাকলে উৎপাদসমূহের মাঝে যোগ চিহ্ন দিতে হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 131,
+      "pdfPageEnd": 131,
+      "printedPageStart": 126,
+      "printedPageEnd": 126,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p007",
+      "kind": "text",
+      "section": "রাসায়নিক বিক্রিয়া",
+      "caption": null,
+      "body": "৩. যে প্রক্রিয়ায় সমীকরণের বাম পাশের বিভিন্ন মৌলের পরমাণুর সংখ্যা এবং ডান পাশের ঐ একই মৌলের পরমাণুর সংখ্যা সমান করা হয়। সেই প্রক্রিয়াকে রাসায়নিক সমীকরণের সমতা বলা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 131,
+      "pdfPageEnd": 131,
+      "printedPageStart": 126,
+      "printedPageEnd": 126,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p008",
+      "kind": "text",
+      "section": "রাসায়নিক বিক্রিয়া",
+      "caption": null,
+      "body": "$$2H_2 + O_2 \\rightarrow 2H_2O$$\n$$2H_2 + O_2 = 2H_2O$$",
+      "image": null,
+      "formulas": [
+        "2H_2 + O_2 \\rightarrow 2H_2O",
+        "2H_2 + O_2 = 2H_2O"
+      ],
+      "pdfPageStart": 131,
+      "pdfPageEnd": 131,
+      "printedPageStart": 126,
+      "printedPageEnd": 126,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p009",
+      "kind": "text",
+      "section": "রাসায়নিক বিক্রিয়া",
+      "caption": null,
+      "body": "৪. কখনো কখনো বিক্রিয়ার সমতা না করেও বিক্রিয়া দেখানো হয়, তখন সমান চিহ্ন (=) না দিয়ে তির চিহ্ন (→) ব্যবহার করতে হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 131,
+      "pdfPageEnd": 131,
+      "printedPageStart": 126,
+      "printedPageEnd": 126,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p010",
+      "kind": "formula",
+      "section": "রাসায়নিক বিক্রিয়া",
+      "caption": null,
+      "body": "$$H_2 + O_2 \\longrightarrow H_2O$$",
+      "image": null,
+      "formulas": [
+        "H_2 + O_2 \\longrightarrow H_2O"
+      ],
+      "pdfPageStart": 131,
+      "pdfPageEnd": 131,
+      "printedPageStart": 126,
+      "printedPageEnd": 126,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p011",
+      "kind": "text",
+      "section": "রাসায়নিক বিক্রিয়া",
+      "caption": null,
+      "body": "৫. অনেক সময় বিক্রিয়ক এবং উৎপাদের ভৌত অবস্থা উল্লেখ করেও রাসায়নিক সমীকরণ লেখা হয়। বিক্রিয়ক এবং উৎপাদের ভৌত অবস্থা পদার্থের ডান পাশে প্রথম বন্ধনীীর মধ্যে প্রকাশ করা হয়। এক্ষেত্রে কোনো পদার্থ কঠিন হলে তার ইংরেজি নাম (Solid) এর প্রথম বর্ণ (s) লিখতে হয়, কোনো পদার্থ তরল (liquid) হলে তার ইংরেজি নামের প্রথম বর্ণ (l) লিখতে হয়, কোনো পদার্থ গ্যাসীয় তার ইংরেজি নাম (gas) এর প্রথম বর্ণ (g) লিখতে হয়। কোনো পদার্থ পানিতে দ্রবীভূত হলে সেই দ্রবণকে বলা হয় জলীয় দ্রবণ। জলীয় দ্রবণের ইংরেজি নাম (aqueous solution) এর প্রথম ২টি বর্ণ (aq) লিখতে হয়। উপরের বিক্রিয়ায় হাইড্রোজেন ও অক্সিজেন গ্যাস এবং উৎপন্ন পদার্থ পানি তরল তাই তাকে লিখতে হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 131,
+      "pdfPageEnd": 131,
+      "printedPageStart": 126,
+      "printedPageEnd": 126,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p012",
+      "kind": "formula",
+      "section": "রাসায়নিক বিক্রিয়া",
+      "caption": null,
+      "body": "$$2H_2(g) + O_2(g) \\longrightarrow 2H_2O(l)$$",
+      "image": null,
+      "formulas": [
+        "2H_2(g) + O_2(g) \\longrightarrow 2H_2O(l)"
+      ],
+      "pdfPageStart": 131,
+      "pdfPageEnd": 131,
+      "printedPageStart": 126,
+      "printedPageEnd": 126,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p013",
+      "kind": "text",
+      "section": "রাসায়নিক বিক্রিয়া",
+      "caption": null,
+      "body": "রাসায়নিক সমীকরণ এর উদ্দেশ্য হচ্ছে কোন কোন পদার্থ বিক্রিয়া করে কোন কোন পদার্থ হয়েছে সেটি দেখানো। অনেক সময় সমতা না করেও সেটি দেখানো যেতে পারে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 131,
+      "pdfPageEnd": 131,
+      "printedPageStart": 126,
+      "printedPageEnd": 126,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p014",
+      "kind": "text",
+      "section": "রাসায়নিক বিক্রিয়া",
+      "caption": null,
+      "body": "৬. তবে যদি কোনো বিক্রিয়ায় কতটুকু তাপ উৎপন্ন হয় বা কতটুকু তাপ শোষিত হয় তা সমীকরণে দেখাতে হয় তবে সেক্ষেত্রে রাসায়নিক বিক্রিয়ার সমতা করতে হবে এবং বিক্রিয়ক ও উৎপাদের ভৌত অবস্থা (যেমন- কঠিন, তরল, গ্যাসীয় অবস্থা, জলীয় অবস্থা ইত্যাদি) লিখতে হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 131,
+      "pdfPageEnd": 131,
+      "printedPageStart": 126,
+      "printedPageEnd": 126,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p015",
+      "kind": "text",
+      "section": "রাসায়নিক বিক্রিয়া",
+      "caption": null,
+      "body": "কঠিন কার্বন অক্সিজেনের সাথে বিক্রিয়া করে কার্বন ডাইঅক্সাইড গ্যাস উৎপন্ন করে। এক্ষেত্রে রাসায়নিক সমীকরণকে নিম্নরূপে লেখা যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 132,
+      "pdfPageEnd": 132,
+      "printedPageStart": 127,
+      "printedPageEnd": 127,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p016",
+      "kind": "text",
+      "section": "রাসায়নিক বিক্রিয়া",
+      "caption": null,
+      "body": "$$C(s) + O_2(g) \\longrightarrow CO_2(g)$$\nকার্বন অক্সিজেন কার্বন ডাইঅক্সাইড",
+      "image": null,
+      "formulas": [
+        "C(s) + O_2(g) \\longrightarrow CO_2(g)"
+      ],
+      "pdfPageStart": 132,
+      "pdfPageEnd": 132,
+      "printedPageStart": 127,
+      "printedPageEnd": 127,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p017",
+      "kind": "text",
+      "section": "রাসায়নিক বিক্রিয়া",
+      "caption": null,
+      "body": "কঠিন ক্যালসিয়াম কার্বনেট হাইড্রোক্লোরিক এসিডের জলীয় দ্রবণের সাথে বিক্রিয়া করে ক্যালসিয়াম ক্লোরাইড, গ্যাসীয় কার্বন ডাইঅক্সাইড এবং তরল পানি উৎপন্ন হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 132,
+      "pdfPageEnd": 132,
+      "printedPageStart": 127,
+      "printedPageEnd": 127,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p018",
+      "kind": "text",
+      "section": "রাসায়নিক বিক্রিয়া",
+      "caption": null,
+      "body": "$$CaCO_3(s) + HCl(aq) \\longrightarrow CaCl_2(aq) + CO_2(g) + H_2O(l)$$\nক্যালসিয়াম কার্বনেট হাইড্রোক্লোরিক এসিড ক্যালসিয়াম ক্লোরাইড কার্বন ডাইঅক্সাইড পানি",
+      "image": null,
+      "formulas": [
+        "CaCO_3(s) + HCl(aq) \\longrightarrow CaCl_2(aq) + CO_2(g) + H_2O(l)"
+      ],
+      "pdfPageStart": 132,
+      "pdfPageEnd": 132,
+      "printedPageStart": 127,
+      "printedPageEnd": 127,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p019",
+      "kind": "text",
+      "section": "রাসায়নিক বিক্রিয়া",
+      "caption": null,
+      "body": "কোনো কোনো রাসায়নিক বিক্রিয়ায় তাপ প্রয়োগে সংঘটিত হয় সেক্ষেত্রে তীরের উপর একটি ডেল্টা চিহ্ন ($\\Delta$) দিতে হবে। যেমন কঠিন ম্যাগনেসিয়াম নাইট্রেটকে তাপ প্রয়োগ করলে ম্যাগনেসিয়াম অক্সাইড, নাইট্রোজেন ডাইঅক্সাইড গ্যাস এবং অক্সিজেন গ্যাস তৈরি হয়।",
+      "image": null,
+      "formulas": [
+        "\\Delta"
+      ],
+      "pdfPageStart": 132,
+      "pdfPageEnd": 132,
+      "printedPageStart": 127,
+      "printedPageEnd": 127,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p020",
+      "kind": "formula",
+      "section": "রাসায়নিক বিক্রিয়া",
+      "caption": null,
+      "body": "$$2Mg(NO_3)_2(s) \\xrightarrow{\\Delta} 2MgO(s) + 4NO_2(g) + O_2(g)$$",
+      "image": null,
+      "formulas": [
+        "2Mg(NO_3)_2(s) \\xrightarrow{\\Delta} 2MgO(s) + 4NO_2(g) + O_2(g)"
+      ],
+      "pdfPageStart": 132,
+      "pdfPageEnd": 132,
+      "printedPageStart": 127,
+      "printedPageEnd": 127,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p021",
+      "kind": "text",
+      "section": "৬.৩.১ রাসায়নিক সমীকরণের সমতাকরণ",
+      "caption": null,
+      "body": "রাসায়নিক বিক্রিয়াকে সংক্ষিপ্তরূপে রাসায়নিক সমীকরণের সাহায্যে প্রকাশ করা হয়। যেহেতু রাসায়নিক বিক্রিয়াতে বিক্রিয়ক এবং উৎপাদ ভরের সংরক্ষণসূত্র মেনে চলে তাই বিক্রিয়ার সমীকরণে বিক্রিয়ক পদার্থের বিভিন্ন মৌলের পরমাণুর সংখ্যা উৎপাদ পদার্থের বিভিন্ন মৌলের পরমাণুর সংখ্যার সমান থাকে। রাসায়নিক সমীকরণের তির চিহ্ন বা সমান চিহ্নের বাম পাশে কোনো মৌলের যে কয়টি পরমাণু থাকে তির চিহ্ন বা সমান চিহ্নের ডান পাশে মৌলের সেই কয়টি পরমাণু থাকলে আমরা ঐ রাসায়নিক সমীকরণ সমতাকরণ হয়েছে বলে বুঝে থাকি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 132,
+      "pdfPageEnd": 132,
+      "printedPageStart": 127,
+      "printedPageEnd": 127,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p022",
+      "kind": "text",
+      "section": "৬.৩.১ রাসায়নিক সমীকরণের সমতাকরণ",
+      "caption": null,
+      "body": "নিচের উদাহরণটি লক্ষ্য করো:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 132,
+      "pdfPageEnd": 132,
+      "printedPageStart": 127,
+      "printedPageEnd": 127,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p023",
+      "kind": "formula",
+      "section": "৬.৩.১ রাসায়নিক সমীকরণের সমতাকরণ",
+      "caption": null,
+      "body": "$$Mg + HCl \\longrightarrow MgCl_2 + H_2$$",
+      "image": null,
+      "formulas": [
+        "Mg + HCl \\longrightarrow MgCl_2 + H_2"
+      ],
+      "pdfPageStart": 132,
+      "pdfPageEnd": 132,
+      "printedPageStart": 127,
+      "printedPageEnd": 127,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p024",
+      "kind": "text",
+      "section": "৬.৩.১ রাসায়নিক সমীকরণের সমতাকরণ",
+      "caption": null,
+      "body": "ম্যাগনেসিয়াম ও হাইড্রোক্লোরিক এসিডকে বিক্রিয়ক হিসেবে ব্যবহার করলে আমরা ম্যাগনেসিয়াম ক্লোরাইড ও হাইড্রোজেন পাই এটি সত্যি, কাজেই বিক্রিয়াটি সঠিক। কিন্তু দুইপাশে হাইড্রোজেন ও ক্লোরিন পরমাণুর সংখ্যা সমান নয়, তাই এই সমীকরণটির সমতাকরণ হয়নি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 132,
+      "pdfPageEnd": 132,
+      "printedPageStart": 127,
+      "printedPageEnd": 127,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p025",
+      "kind": "text",
+      "section": "বিক্রিয়া সমতাকরণের পদ্ধতি",
+      "caption": null,
+      "body": "বিভিন্ন মৌলের পরমাণুর সংখ্যা সমান করার জন্য বিক্রিয়ক এবং উৎপাদের সংকেতের সামনে প্রয়োজনীয় সংখ্যা (1, 2, 3, 4 ...) দিয়ে গুণ করতে হয় এবং পরমাণুর সংখ্যা সমান করার জন্য চেষ্টা করে যেতে হয়। সমীকরণের সমতা করার জন্য কোনো সুনির্দিষ্ট নিয়ম নেই কিন্তু কিছু কৌশল অবলম্বন করা হয়। সেগুলো এরকম:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 133,
+      "pdfPageEnd": 133,
+      "printedPageStart": 128,
+      "printedPageEnd": 128,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p026",
+      "kind": "text",
+      "section": "বিক্রিয়া সমতাকরণের পদ্ধতি",
+      "caption": null,
+      "body": "1. প্রথমে বিক্রিয়ক এবং উৎপাদের সঠিক সংকেত লিখে বিক্রিয়ার সমীকরণ লেখা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 133,
+      "pdfPageEnd": 133,
+      "printedPageStart": 128,
+      "printedPageEnd": 128,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p027",
+      "kind": "text",
+      "section": "বিক্রিয়া সমতাকরণের পদ্ধতি",
+      "caption": null,
+      "body": "2. সমীকরণে সমতা না থাকলে বিভিন্ন বিক্রিয়ক এবং উৎপাদকে বিভিন্ন সংখ্যা দিয়ে গুণ করে তির চিহ্ন বা সমান চিহ্নের দুই পাশে মৌলের পরমাণুর সংখ্যা সমান করার চেষ্টা করা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 133,
+      "pdfPageEnd": 133,
+      "printedPageStart": 128,
+      "printedPageEnd": 128,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p028",
+      "kind": "text",
+      "section": "বিক্রিয়া সমতাকরণের পদ্ধতি",
+      "caption": null,
+      "body": "3. প্রথমে যৌগিক অণুতে বিদ্যমান মৌলের পরমাণু সংখ্যার সমান করা হয় পরে মৌলিক অণুতে বিদ্যমান মৌলের পরমাণু সংখ্যার সমান করা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 133,
+      "pdfPageEnd": 133,
+      "printedPageStart": 128,
+      "printedPageEnd": 128,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p029",
+      "kind": "text",
+      "section": "বিক্রিয়া সমতাকরণের পদ্ধতি",
+      "caption": null,
+      "body": "4. সমীকরণের উভয় পাশে প্রত্যেকটি মৌলের পরমাণু সংখ্যা সমান বা সমতা হলেই ঐ সমীকরণের সমতা হয়েছে বলে বিবেচিত হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 133,
+      "pdfPageEnd": 133,
+      "printedPageStart": 128,
+      "printedPageEnd": 128,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p030",
+      "kind": "text",
+      "section": "বিক্রিয়া সমতাকরণের পদ্ধতি",
+      "caption": null,
+      "body": "আমরা কয়েকটি উদাহরণ দিয়ে সমতাকরণের প্রক্রিয়াটি বুঝানোর চেষ্টা করি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 133,
+      "pdfPageEnd": 133,
+      "printedPageStart": 128,
+      "printedPageEnd": 128,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p031",
+      "kind": "formula",
+      "section": "উদাহরণ ১:",
+      "caption": null,
+      "body": "$$Mg + HCl \\longrightarrow MgCl_2 + H_2$$",
+      "image": null,
+      "formulas": [
+        "Mg + HCl \\longrightarrow MgCl_2 + H_2"
+      ],
+      "pdfPageStart": 133,
+      "pdfPageEnd": 133,
+      "printedPageStart": 128,
+      "printedPageEnd": 128,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p032",
+      "kind": "text",
+      "section": "উদাহরণ ১:",
+      "caption": null,
+      "body": "উপরের বিক্রিয়ায় যৌগিক অণু HCl এর মধ্যে Cl পরমাণু আছে 1টি কিন্তু ডান পাশে যৌগিক অণু MgCl<sub>2</sub> এর মধ্যে Cl পরমাণু আছে 2টি। কাজেই উভয় পাশে Cl পরমাণুর সংখ্যা সমান হয় না। আবার উপরের বিক্রিয়ায় বাম পাশে H পরমাণু আছে 1টি কিন্তু ডান পাশে H পরমাণু আছে 2টি। কাজেই উভয় পাশে H পরমাণুর সংখ্যা সমান হয়নি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 133,
+      "pdfPageEnd": 133,
+      "printedPageStart": 128,
+      "printedPageEnd": 128,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p033",
+      "kind": "text",
+      "section": "উদাহরণ ১:",
+      "caption": null,
+      "body": "আবার উপরের বিক্রিয়ায় বাম পাশে Mg পরমাণু আছে 1টি কিন্তু ডান পাশে Mg পরমাণু আছে 1টি কাজেই উভয় পাশে Mg পরমাণুর সংখ্যা সমান হয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 133,
+      "pdfPageEnd": 133,
+      "printedPageStart": 128,
+      "printedPageEnd": 128,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p034",
+      "kind": "text",
+      "section": "উদাহরণ ১:",
+      "caption": null,
+      "body": "প্রথমে সমীকরণের উভয় পাশে Cl পরমাণুর সংখ্যা সমান করার চেষ্টা করি এক্ষেত্রে বাম পাশের HCl কে 2 দিয়ে গুণ করি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 133,
+      "pdfPageEnd": 133,
+      "printedPageStart": 128,
+      "printedPageEnd": 128,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p035",
+      "kind": "formula",
+      "section": "উদাহরণ ১:",
+      "caption": null,
+      "body": "$$Mg + 2HCl \\longrightarrow MgCl_2 + H_2$$",
+      "image": null,
+      "formulas": [
+        "Mg + 2HCl \\longrightarrow MgCl_2 + H_2"
+      ],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p036",
+      "kind": "text",
+      "section": "উদাহরণ ১:",
+      "caption": null,
+      "body": "উপরের বিক্রিয়ার বাম দিকের প্রতিটি পরমাণুর সংখ্যা এবং ডান দিকের প্রতিটি পরমাণুর সংখ্যা সমান হয়েছে। অতএব, রাসায়নিক বিক্রিয়ার বা রাসায়নিক সমীকরণের সমতা হয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p037",
+      "kind": "text",
+      "section": "উদাহরণ ১:",
+      "caption": null,
+      "body": "সমীকরণের সমতা হয়ে গেলে তাকে সমান চিহ্ন দ্বারাও লেখা যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p038",
+      "kind": "formula",
+      "section": "উদাহরণ ১:",
+      "caption": null,
+      "body": "$$Mg + 2HCl = MgCl_2 + H_2$$",
+      "image": null,
+      "formulas": [
+        "Mg + 2HCl = MgCl_2 + H_2"
+      ],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p039",
+      "kind": "formula",
+      "section": "উদাহরণ ২:",
+      "caption": null,
+      "body": "$$Na_2CO_3 + HCl \\longrightarrow NaCl + H_2O + CO_2$$",
+      "image": null,
+      "formulas": [
+        "Na_2CO_3 + HCl \\longrightarrow NaCl + H_2O + CO_2"
+      ],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p040",
+      "kind": "example",
+      "section": "উদাহরণ ২:",
+      "caption": null,
+      "body": "এই সমীকরণে সমতা নেই। কারণ বাম পাশে Na দুটি ডান পাশে Na একটি অতএব, ডান পাশে NaCl কে ২ দ্বারা গুণ করি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p041",
+      "kind": "formula",
+      "section": "উদাহরণ ২:",
+      "caption": null,
+      "body": "$$Na_2CO_3 + HCl \\longrightarrow 2NaCl + H_2O + CO_2$$",
+      "image": null,
+      "formulas": [
+        "Na_2CO_3 + HCl \\longrightarrow 2NaCl + H_2O + CO_2"
+      ],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p042",
+      "kind": "example",
+      "section": "উদাহরণ ২:",
+      "caption": null,
+      "body": "এখনো সমতা হয়নি। ডান পাশে Cl দুটি বাম পাশে Cl একটি। বাম পাশের HCl কে ২ দ্বারা গুণ করি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p043",
+      "kind": "formula",
+      "section": "উদাহরণ ২:",
+      "caption": null,
+      "body": "$$Na_2CO_3 + 2HCl \\longrightarrow 2NaCl + H_2O + CO_2$$",
+      "image": null,
+      "formulas": [
+        "Na_2CO_3 + 2HCl \\longrightarrow 2NaCl + H_2O + CO_2"
+      ],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p044",
+      "kind": "text",
+      "section": "উদাহরণ ২:",
+      "caption": null,
+      "body": "এখন উপরের বিক্রিয়ার বাম দিকের প্রতিটি পরমাণুর সংখ্যা এবং ডান দিকের প্রতিটি পরমাণুর সংখ্যা সমান হয়েছে। অতএব, রাসায়নিক বিক্রিয়ার বা রাসায়নিক সমীকরণের সমতা হয়েছে। সমীকরণের সমতা হয়ে গেলে তাকে সমান চিহ্ন দ্বারাও লেখা যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p045",
+      "kind": "formula",
+      "section": "উদাহরণ ২:",
+      "caption": null,
+      "body": "$$Na_2CO_3 + 2HCl = 2NaCl + H_2O + CO_2$$",
+      "image": null,
+      "formulas": [
+        "Na_2CO_3 + 2HCl = 2NaCl + H_2O + CO_2"
+      ],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p046",
+      "kind": "example",
+      "section": "উদাহরণ ৩:",
+      "caption": null,
+      "body": "অ্যালুমিনিয়াম অক্সাইড হাইড্রোক্লোরিক এসিডের সাথে বিক্রিয়া করে অ্যালুমিনিয়াম ক্লোরাইড ও পানি উৎপন্ন হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p047",
+      "kind": "formula",
+      "section": "উদাহরণ ৩:",
+      "caption": null,
+      "body": "$$Al_2O_3 + HCl \\longrightarrow AlCl_3 + H_2O$$",
+      "image": null,
+      "formulas": [
+        "Al_2O_3 + HCl \\longrightarrow AlCl_3 + H_2O"
+      ],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p048",
+      "kind": "example",
+      "section": "উদাহরণ ৩:",
+      "caption": null,
+      "body": "এই সমীকরণে সমতা নেই। Al কে সমান করার জন্য ডান পাশে AlCl<sub>3</sub> কে ২ দিয়ে গুণ করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p049",
+      "kind": "formula",
+      "section": "উদাহরণ ৩:",
+      "caption": null,
+      "body": "$$Al_2O_3 + HCl \\longrightarrow 2AlCl_3 + H_2O$$",
+      "image": null,
+      "formulas": [
+        "Al_2O_3 + HCl \\longrightarrow 2AlCl_3 + H_2O"
+      ],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p050",
+      "kind": "example",
+      "section": "উদাহরণ ৩:",
+      "caption": null,
+      "body": "এখনো সমতা হয়নি। Cl এর সমতাকরণের জন্য বাম পাশে HCl কে ৬ দিয়ে গুণ দাও।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p051",
+      "kind": "formula",
+      "section": "উদাহরণ ৩:",
+      "caption": null,
+      "body": "$$Al_2O_3 + 6HCl \\longrightarrow 2AlCl_3 + H_2O$$",
+      "image": null,
+      "formulas": [
+        "Al_2O_3 + 6HCl \\longrightarrow 2AlCl_3 + H_2O"
+      ],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p052",
+      "kind": "text",
+      "section": "উদাহরণ ৩:",
+      "caption": null,
+      "body": "এখনো সমতা হয়নি। বাম পাশে অক্সিজেন (O) আছে তিনটি। ডান পাশে অক্সিজেন (O) আছে ১টি। বাম পাশে H আছে ছয়টি। ডান পাশে H আছে দুটি। সমতাকরণের জন্য ডান পাশের H<sub>2</sub>O কে ৩ দিয়ে গুণ দাও।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 135,
+      "pdfPageEnd": 135,
+      "printedPageStart": 130,
+      "printedPageEnd": 130,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p053",
+      "kind": "formula",
+      "section": "উদাহরণ ৩:",
+      "caption": null,
+      "body": "$$Al_2O_3 + 6HCl \\longrightarrow 2AlCl_3 + 3H_2O$$",
+      "image": null,
+      "formulas": [
+        "Al_2O_3 + 6HCl \\longrightarrow 2AlCl_3 + 3H_2O"
+      ],
+      "pdfPageStart": 135,
+      "pdfPageEnd": 135,
+      "printedPageStart": 130,
+      "printedPageEnd": 130,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p054",
+      "kind": "text",
+      "section": "উদাহরণ ৩:",
+      "caption": null,
+      "body": "এবারে সমতা হয়ে গেছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 135,
+      "pdfPageEnd": 135,
+      "printedPageStart": 130,
+      "printedPageEnd": 130,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p055",
+      "kind": "formula",
+      "section": "উদাহরণ ৩:",
+      "caption": null,
+      "body": "$$Al_2O_3 + 6HCl = 2AlCl_3 + 3H_2O$$",
+      "image": null,
+      "formulas": [
+        "Al_2O_3 + 6HCl = 2AlCl_3 + 3H_2O"
+      ],
+      "pdfPageStart": 135,
+      "pdfPageEnd": 135,
+      "printedPageStart": 130,
+      "printedPageEnd": 130,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p056",
+      "kind": "text",
+      "section": "৬.৩.২ মোল এবং রাসায়নিক সমীকরণ",
+      "caption": null,
+      "body": "নির্দিষ্ট পরিমাণ একটি বিক্রিয়ক অপর একটি বিক্রিয়কের নির্দিষ্ট পরিমাণের সাথে বিক্রিয়া করে নির্দিষ্ট পরিমাণ উৎপাদ উৎপন্ন করে। রসায়নের যে শাখায় বিক্রিয়কের পরিমাণ থেকে উৎপাদের পরিমাণ এবং উৎপাদের পরিমাণ থেকে বিক্রিয়কের পরিমাণের হিসাব করা হয় তাকে স্টয়িকিওমিতি (Stoichiometry) বলে। রাসায়নিক সমীকরণ থেকে মোলের হিসাব সংক্রান্ত যে তথ্যসমূহ লেখা যায় তা ঐ বিক্রিয়ার স্টয়িকিওমিতি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 135,
+      "pdfPageEnd": 135,
+      "printedPageStart": 130,
+      "printedPageEnd": 130,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p057",
+      "kind": "text",
+      "section": "৬.৩.২ মোল এবং রাসায়নিক সমীকরণ",
+      "caption": null,
+      "body": "বিক্রিয়ার স্টয়িকিওমিতি অনুযায়ী আমরা হিসাব করে বলতে পারি কতটি বিক্রিয়ক বিক্রিয়া করে কতটি উৎপাদ উৎপন্ন করেছে, কত মোল বিক্রিয়ক বিক্রিয়া করে কত মোল উৎপাদ উৎপন্ন করেছে, কতো গ্রাম বিক্রিয়ক বিক্রিয়া করে কত গ্রাম উৎপাদ উৎপন্ন করেছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 135,
+      "pdfPageEnd": 135,
+      "printedPageStart": 130,
+      "printedPageEnd": 130,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p058",
+      "kind": "text",
+      "section": "৬.৩.২ মোল এবং রাসায়নিক সমীকরণ",
+      "caption": null,
+      "body": "$$2Mg(s) + O_2(g) \\longrightarrow 2MgO(s)$$\nম্যাগনেসিয়াম অক্সিজেন ম্যাগনেসিয়াম অক্সাইড",
+      "image": null,
+      "formulas": [
+        "2Mg(s) + O_2(g) \\longrightarrow 2MgO(s)"
+      ],
+      "pdfPageStart": 135,
+      "pdfPageEnd": 135,
+      "printedPageStart": 130,
+      "printedPageEnd": 130,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p059",
+      "kind": "text",
+      "section": "৬.৩.২ মোল এবং রাসায়নিক সমীকরণ",
+      "caption": null,
+      "body": "স্টয়িকিওমিতি অনুযায়ী উপরের বিক্রিয়ার বিভিন্ন পদার্থের নিচে নিচে আমরা নিম্নরূপ লিখতে পারি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 135,
+      "pdfPageEnd": 135,
+      "printedPageStart": 130,
+      "printedPageEnd": 130,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p060",
+      "kind": "text",
+      "section": "৬.৩.২ মোল এবং রাসায়নিক সমীকরণ",
+      "caption": null,
+      "body": "$$2Mg(s) + O_2(g) \\longrightarrow 2MgO(s)$$\nম্যাগনেসিয়াম অক্সিজেন ম্যাগনেসিয়াম অক্সাইড",
+      "image": null,
+      "formulas": [
+        "2Mg(s) + O_2(g) \\longrightarrow 2MgO(s)"
+      ],
+      "pdfPageStart": 135,
+      "pdfPageEnd": 135,
+      "printedPageStart": 130,
+      "printedPageEnd": 130,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p061",
+      "kind": "table",
+      "section": "৬.৩.২ মোল এবং রাসায়নিক সমীকরণ",
+      "caption": null,
+      "body": "<table><tr><td>2 মোল Mg পরমাণু</td><td>1 মোল O<sub>2</sub> অণু</td><td>2 মোল MgO অণু</td></tr>\n<tr><td>2×6.023×10<sup>23</sup> টি Mg পরমাণু</td><td>6.023×10<sup>23</sup> টি O<sub>2</sub> অণু</td><td>2×6.023×10<sup>23</sup> টি MgO অণু</td></tr>\n<tr><td>2 × 24 = 48 গ্রাম</td><td>1×32 = 32 গ্রাম</td><td>2 × 40 = 80 গ্রাম</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 135,
+      "pdfPageEnd": 135,
+      "printedPageStart": 130,
+      "printedPageEnd": 130,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p062",
+      "kind": "text",
+      "section": "৬.৩.২ মোল এবং রাসায়নিক সমীকরণ",
+      "caption": null,
+      "body": "রাসায়নিক বিক্রিয়ার সমতায়ুক্ত সমীকরণ এর নিচে প্রদত্ত এই সব হিসাব-নিকাশকেই বিক্রিয়ার স্টয়কিওমিতি বলা হয়। যদি বিক্রিয়ক এবং উৎপাদ উভয়েই গ্যাসীয় হয় তবে স্টয়কিওমিতিতে প্রমাণ অবস্থায় ১ মোল গ্যাসীয় পদার্থের আয়তন হয় 22.4 লিটার।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p063",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**১. সমস্যা:** 5 গ্রাম ম্যাগনেসিয়াম ধাতু কত গ্রাম অক্সিজেনের সাথে বিক্রিয়া করে সম্পূর্ণরূপে ম্যাগনেসিয়াম অক্সাইড তৈরি করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p064",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**সমাধান:** ম্যাগনেসিয়াম অক্সিজেনের সাথে বিক্রিয়া করে ম্যাগনেসিয়াম অক্সাইড তৈরি করে। এই বিক্রিয়ার সমতায়ুক্ত সমীকরণ এবং স্টয়কিওমিতি পূর্বে পৃষ্ঠায় দেখানো হয়েছে। বিক্রিয়ার এই স্টয়কিওমিতি অনুযায়ী লেখা যায়:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p065",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "48 গ্রাম ম্যাগনেসিয়াম ধাতু বিক্রিয়া করে 32 গ্রাম অক্সিজেনের সাথে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p066",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই 1 গ্রাম ম্যাগনেসিয়াম ধাতু বিক্রিয়া করে $\\frac{1 \\times 32}{48}$ গ্রাম অক্সিজেনের সাথে",
+      "image": null,
+      "formulas": [
+        "\\frac{1 \\times 32}{48}"
+      ],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p067",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "5 গ্রাম ম্যাগনেসিয়াম ধাতু বিক্রিয়া করে $\\frac{1 \\times 32 \\times 5}{48} = 3.33$ গ্রাম অক্সিজেনের সাথে",
+      "image": null,
+      "formulas": [
+        "\\frac{1 \\times 32 \\times 5}{48} = 3.33"
+      ],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p068",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**২. সমস্যা:** 2 গ্রাম ম্যাগনেসিয়াম ধাতুর সাথে প্রয়োজনীয় পরিমাণ অক্সিজেন সরবরাহ করলে কত গ্রাম ম্যাগনেসিয়াম অক্সাইড উৎপন্ন হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p069",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**সমাধান:** বিক্রিয়ার স্টয়কিওমিতি অনুযায়ী লেখা যায়:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p070",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "48 গ্রাম Mg ধাতু থেকে উৎপন্ন হয় 80 গ্রাম ম্যাগনেসিয়াম অক্সাইড",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p071",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "1 গ্রাম Mg ধাতু থেকে উৎপন্ন হয় $\\frac{80}{48}$ গ্রাম ম্যাগনেসিয়াম অক্সাইড",
+      "image": null,
+      "formulas": [
+        "\\frac{80}{48}"
+      ],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p072",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "2 গ্রাম Mg ধাতু থেকে উৎপন্ন হয় $\\frac{2 \\times 80}{48}$ গ্রাম = 3.33 গ্রাম MgO",
+      "image": null,
+      "formulas": [
+        "\\frac{2 \\times 80}{48}"
+      ],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p073",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**৩. সমস্যা:** প্রয়োজনীয় পরিমাণ ম্যাগনেসিয়াম সরবরাহ করলে 10 গ্রাম ম্যাগনেসিয়াম অক্সাইড উৎপন্ন করতে কত গ্রাম অক্সিজেন প্রয়োজন?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p074",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**সমাধান:** বিক্রিয়ার স্টয়কিওমিতি অনুযায়ী লেখা যায়:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p075",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "80 গ্রাম ম্যাগনেসিয়াম অক্সাইড উৎপন্ন হয় 32 গ্রাম অক্সিজেন থেকে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p076",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "1 গ্রাম ম্যাগনেসিয়াম অক্সাইড উৎপন্ন হয় $\\frac{32}{80}$ গ্রাম অক্সিজেন থেকে ১০ গ্রাম ম্যাগনেসিয়াম অক্সাইড উৎপন্ন হয় $\\frac{32 \\times 10}{80} = 4$ গ্রাম অক্সিজেন থেকে",
+      "image": null,
+      "formulas": [
+        "\\frac{32}{80}",
+        "\\frac{32 \\times 10}{80} = 4"
+      ],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 137,
+      "printedPageStart": 131,
+      "printedPageEnd": 132,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p077",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**৪. সমস্যা:** ৫টি N<sub>2</sub> অণু থেকে কতটি NH<sub>3</sub> অণু উৎপন্ন হবে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p078",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**সমাধান:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p079",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$\\begin{matrix}\nN_2(g) & + & 3H_2(g) & \\xrightarrow{} & 2NH_3(g) \\\\\n6.023 \\times 10^{23}  টি অণু & & 3 \\times 6.023 \\times 10^{23}  টি অণু & & 2 \\times 6.023 \\times 10^{23}  টি অণু\n\\end{matrix}$$",
+      "image": null,
+      "formulas": [
+        "\\begin{matrix}\nN_2(g) & + & 3H_2(g) & \\xrightarrow{} & 2NH_3(g) \\\\\n6.023 \\times 10^{23}  টি অণু & & 3 \\times 6.023 \\times 10^{23}  টি অণু & & 2 \\times 6.023 \\times 10^{23}  টি অণু\n\\end{matrix}"
+      ],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p080",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "বিক্রিয়ার সমীকরণ থেকে লিখতে পারি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p081",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$6.023 \\times 10^{23}$ টি N<sub>2</sub> অণু থেকে উৎপন্ন হয় $2 \\times 6.023 \\times 10^{23}$ টি NH<sub>3</sub> অণু",
+      "image": null,
+      "formulas": [
+        "6.023 \\times 10^{23}",
+        "2 \\times 6.023 \\times 10^{23}"
+      ],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p082",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "অতএব, 1 টি N<sub>2</sub> অণু থেকে উৎপন্ন হয় $\\frac{2 \\times 6.023 \\times 10^{23}}{6.023 \\times 10^{23}} = 2$টি NH<sub>3</sub> অণু",
+      "image": null,
+      "formulas": [
+        "\\frac{2 \\times 6.023 \\times 10^{23}}{6.023 \\times 10^{23}} = 2"
+      ],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p083",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "অতএব, 5 টি N<sub>2</sub> থেকে উৎপন্ন $2 \\times 5 = 10$ টি NH<sub>3</sub> অণু",
+      "image": null,
+      "formulas": [
+        "2 \\times 5 = 10"
+      ],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p084",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**কাজ:** ৬ মোল পানি উৎপন্ন করতে কত মোল O<sub>2</sub> প্রয়োজন হয়?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.3-p085",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**কাজ:** প্রমাণ তাপমাত্রা ও চাপে ৪ লিটার N<sub>2</sub> থেকে কত লিটার NH<sub>3</sub> পাওয়া যাবে? এখানে বিক্রিয়ক ও উৎপাদ সকল পদার্থ গ্যাসীয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

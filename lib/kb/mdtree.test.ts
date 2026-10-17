@@ -108,3 +108,63 @@ test("a heading for a different chapter number inside the pages does not start a
   assert.equal(found.length, 1);
   assert.equal(found[0].number, 3);
 });
+
+test("reads a maths-book opener (অধ্যায় ১), splits the bracketed English title, and keeps every exercise in N.ex", () => {
+  const pages = [
+    { number: 6, markdown: "## অধ্যায় ১\n\n### সেট ও ফাংশন (Set and Function)\n\nসেটের ধারণা।\n\n## অনুশীলনী ১.১\n\n১. প্রশ্ন এক।" },
+    { number: 7, markdown: "## অনুশীলনী ১.২\n\n২. প্রশ্ন দুই।" },
+  ];
+  const [ch] = buildBookTree(pages);
+  assert.equal(ch.number, 1);
+  assert.equal(ch.title, "সেট ও ফাংশন");
+  assert.equal(ch.englishTitle, "Set and Function");
+  assert.equal(ch.topics.filter((t) => t.key === "1.ex").length, 1);
+});
+
+test("an unnumbered maths chapter becomes topics by English term, and lessons after an exercise are not exercises", () => {
+  const pages = [
+    {
+      number: 6,
+      markdown: [
+        "## অধ্যায় ১", "### সেট ও ফাংশন (Set and Function)", "ভূমিকা।",
+        "## সেট (Set)", "সেট হলো সংগ্রহ।",
+        "## অনুশীলনী ১.১", "১. প্রশ্ন এক।",
+        "## অস্বয় (Relation)", "অস্বয় হলো সম্পর্ক।",
+        "## অনুশীলনী ১.২", "২. প্রশ্ন দুই।",
+        "<hr/>",
+      ].join("\n\n"),
+    },
+  ];
+  const [ch] = buildBookTree(pages);
+  assert.deepEqual(ch.topics.map((t) => t.key), ["1.0", "1.1", "1.ex", "1.2"]);
+  const relation = ch.topics.find((t) => t.key === "1.2")!;
+  assert.ok(relation.passages.every((p) => p.kind !== "exercise"));
+  const ex = ch.topics.find((t) => t.key === "1.ex")!;
+  assert.equal(ex.passages.filter((p) => p.kind === "exercise").length, 2);
+  assert.ok(ch.topics.every((t) => t.passages.every((p) => !/<hr/.test(p.body))));
+});
+
+test("a hyphenated question-type heading starts the exercise topic", () => {
+  const pages = [{ number: 6, markdown: "## প্রথম অধ্যায়\n\n### রসায়ন\n\n## ১.১ পরিচিতি\n\nপাঠ।\n\n## সংক্ষিপ্ত-উত্তর প্রশ্ন\n\n১. প্রশ্ন?" }];
+  const [ch] = buildBookTree(pages);
+  const ex = ch.topics.find((t) => t.key === "1.ex");
+  assert.ok(ex && ex.passages.some((p) => p.kind === "exercise"));
+});
+
+test("section numbers with 4 misread as 8 still open the right topics", () => {
+  const pages = [
+    {
+      number: 103,
+      markdown: ["## চতুর্থ অধ্যায়", "### কাজ", "## ৮.১ কাজ (Work)", "লেখা এক।", "## 8.2 শক্তি (Energy)", "লেখা দুই।", "## ৮.৩ রূপ", "লেখা তিন।", "## 8.8 উৎস (Sources)", "লেখা চার।"].join("\n\n"),
+    },
+  ];
+  const [ch] = buildBookTree(pages);
+  assert.deepEqual(ch.topics.map((t) => t.key), ["4.0", "4.1", "4.2", "4.3", "4.4"]);
+});
+
+test("section numbers with 7 misread as 1 or 9 still follow the sequence", () => {
+  const heads = ["২.১ এক", "২.২ দুই", "২.৩ তিন", "২.৪ চার", "২.৫ পাঁচ", "২.৬ ছয়", "২.১ সাত (Seven)", "২.৮ আট (Eight)"];
+  const markdown = ["## দ্বিতীয় অধ্যায়", "### গতি", ...heads.flatMap((h) => [`## ${h}`, "লেখা।"])].join("\n\n");
+  const [ch] = buildBookTree([{ number: 37, markdown }]);
+  assert.deepEqual(ch.topics.map((t) => t.key), ["2.0", "2.1", "2.2", "2.3", "2.4", "2.5", "2.6", "2.7", "2.8"]);
+});

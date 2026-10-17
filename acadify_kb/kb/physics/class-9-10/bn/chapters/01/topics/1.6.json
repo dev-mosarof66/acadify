@@ -79,7 +79,7 @@
       "kind": "figure",
       "section": "স্লাইড/ভার্নিয়ার ক্যালিপার্স (Slide Calipers/Vernier Calipers)",
       "caption": null,
-      "body": "drawing: Vernier scale diagram showing the alignment between the main scale and vernier scale",
+      "body": "drawing: Vernier scale diagram with labels for Vernier scale and Main scale",
       "image": "p26-page_21_image_1_v2.jpg",
       "formulas": [],
       "pdfPageStart": 26,
@@ -109,7 +109,7 @@
       "kind": "text",
       "section": "স্লাইড/ভার্নিয়ার ক্যালিপার্স (Slide Calipers/Vernier Calipers)",
       "caption": null,
-      "body": "বুঝতেই পারছ ভার্নিয়ার স্কেলটা যদি আমরা এমনভাবে রাখি যে শুরুটা একটা মিলিমিটার দাগ থেকে শুরু না হয়ে একটু সরে (যেমন $\\frac{3}{10}$ mm) শুরু হয়েছে (চিত্র 1.06) তাহলে ঠিক যত সংখ্যক $\\frac{1}{10}$ mm সরে শুরু হয়েছে ভার্নিয়ার স্কেলের তত নম্বর দাগটি মূল স্কেলের মিলিমিটার দাগের সাথে মিলে যাবে! কাজেই ভার্নিয়ার স্কেল ব্যবহার করে দৈর্ঘ্য মাপা খুব সহজ। প্রথমে জেনে নিতে হয় ভার্নিয়ার স্কেলের একটি ভাগ এবং মূল স্কেলের একটি ভাগের মাঝে পার্থক্য কতটুকু—এটাকে বলে ভার্নিয়ার ধ্রুবক (Vernier Constant সংক্ষিপে VC)। মূল স্কেলের সবচেয়ে ছোট ভাগের (1 mm) দূরত্বকে ভার্নিয়ার স্কেলের ভাগের (1.05 এবং 1.06 চিত্রে যা 10) সংখ্যা দিয়ে ভাগ দিলেই এটা বের হয়ে যাবে। আমরা যে উদাহরণ নিয়েছি সেখানে এটার মান:",
+      "body": "বুঝতেই পারছ ভার্নিয়ার স্কেলটা যদি আমরা এমনভাবে রাখি যে শুরুটা একটা মিলিমিটার দাগ থেকে শুরু না হয়ে একটু সরে (যেমন $\\frac{3}{10}$ mm) শুরু হয়েছে (চিত্র 1.06) তাহলে ঠিক যত সংখ্যক $\\frac{1}{10}$ mm সরে শুরু হয়েছে ভার্নিয়ার স্কেলের তত নম্বর দাগটি মূল স্কেলের মিলিমিটার দাগের সাথে মিলে যাবে! কাজেই ভার্নিয়ার স্কেল ব্যবহার করে দৈর্ঘ্য মাপা খুব সহজ। প্রথমে জেনে নিতে হয় ভার্নিয়ার স্কেলের একটি ভাগ এবং মূল স্কেলের একটি ভাগের মাঝে পার্থক্য কতটুকু—এটাকে বলে ভার্নিয়ার ধ্রুবক (Vernier Constant সংক্ষেপে VC)। মূল স্কেলের সবচেয়ে ছোট ভাগের (1 mm) দূরত্বকে ভার্নিয়ার স্কেলের ভাগের (1.05 এবং 1.06 চিত্রে যা 10) সংখ্যা দিয়ে ভাগ দিলেই এটা বের হয়ে যাবে। আমরা যে উদাহরণ নিয়েছি সেখানে এটার মান:",
       "image": null,
       "formulas": [
         "\\frac{3}{10}",
@@ -148,7 +148,7 @@
       "kind": "text",
       "section": "স্লাইড/ভার্নিয়ার ক্যালিপার্স (Slide Calipers/Vernier Calipers)",
       "caption": null,
-      "body": "কোনো দৈর্ঘ্য মাপার সময় মিলিমিটারের সর্বশেষ দাগ পর্যন্ত মেপে ভার্নিয়ার স্কেলের দিকে তাকাতে হয়। ভার্নিয়ার স্কেলের কোন দাগটি মূল স্কেলের মিলিমিটার দাগের সাথে হুবহু মিলে গেছে বা সমপাতন হয়েছে সেটি বের করে সেই দাগ সংখ্যাকে ভার্নিয়ার ধ্রুবক দিয়ে গুণ দিতে হয়। মূল স্কলে মাপা দৈর্ঘ্যের সাথে সেটি যোগ দিলেই আমরা প্রকৃত দৈর্ঘ্য পেয়ে যাব। চিত্র 1.06 এর শেষ স্কলে যে দৈর্ঘ্য দেখানো হয়েছে আমাদের এই নিয়মে সেটি হবে 1.03 cm বা 0.0103 m।",
+      "body": "কোনো দৈর্ঘ্য মাপার সময় মিলিমিটারের সর্বশেষ দাগ পর্যন্ত মেপে ভার্নিয়ার স্কেলের দিকে তাকাতে হয়। ভার্নিয়ার স্কেলের কোন দাগটি মূল স্কেলের মিলিমিটার দাগের সাথে হুবহু মিলে গেছে বা সমপাতন হয়েছে সেটি বের করে সেই দাগ সংখ্যাকে ভার্নিয়ার ধ্রুবক দিয়ে গুণ দিতে হয়। মূল স্কেলে মাপা দৈর্ঘ্যের সাথে সেটি যোগ দিলেই আমরা প্রকৃত দৈর্ঘ্য পেয়ে যাব। চিত্র 1.06 এর শেষ স্কেলে যে দৈর্ঘ্য দেখানো হয়েছে আমাদের এই নিয়মে সেটি হবে 1.03 cm বা 0.0103 m।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 26,
@@ -163,7 +163,7 @@
       "kind": "figure",
       "section": "স্লাইড/ভার্নিয়ার ক্যালিপার্স (Slide Calipers/Vernier Calipers)",
       "caption": null,
-      "body": "drawing: ruler diagrams showing measurements at 0, 1, and 2 cm",
+      "body": "drawing: ruler measurement diagrams",
       "image": "p27-page_22_image_2_v2.jpg",
       "formulas": [],
       "pdfPageStart": 27,
@@ -178,7 +178,7 @@
       "kind": "figure",
       "section": "স্লাইড/ভার্নিয়ার ক্যালিপার্স (Slide Calipers/Vernier Calipers)",
       "caption": null,
-      "body": "**চিত্র ১.০৭: এক, দুই এবং তিন ঘর সরে যাওয়া ভান্নিয়ার স্কেল।**",
+      "body": "**চিত্র ১.০৭: এক, দুই এবং তিন ঘর সরে যাওয়া ভার্নিয়ার স্কেল।**",
       "image": null,
       "formulas": [],
       "pdfPageStart": 27,
@@ -193,7 +193,7 @@
       "kind": "text",
       "section": "স্কু-গেইজ (Screw Gauge)",
       "caption": null,
-      "body": "ভান্নিয়ার স্কেলের পরিবর্তে একটা স্কুকে ঘুরিয়ে (চিত্র ১.০৮) স্কেলকে সামনে-পেছনে নিয়েও স্কু-গেইজ (Screw Gauge) নামে বিশেষ একধরনের স্কেলে দৈর্ঘ্য মাপা হয়। এখানে স্কুর ঘাট (thread) অতন্ত সূক্ষ্ম রাখা হয় এবং পুরো একবার ঘোরানোর পর স্কেল লাগানো স্কুটি হয়তো 1 mm অগ্রসর হয়। স্কুর এই সরণকে স্কুর পিচ (pitch) বলে। যে বৃত্তাকার অংশটি ঘুরিয়ে স্কেলাটিকে সামনে-পেছনে নেওয়া হয় সেটিকে সমান 100 ভাগে ভাগ করা হলে প্রতি এক ঘর ঘূর্ণনের জন্য স্কেলাটি পিচের $\\frac{1}{100}$ ভাগের এক ভাগ অগ্রসর হয়। অর্থাৎ এই স্কেলে $\\frac{1}{100}$ mm = 0.01 mm পর্যন্ত মাপা সম্ভব হতে পারে। এটাকে স্কু গেইজের ন্যূনাঙ্ক বলে।",
+      "body": "ভার্নিয়ার স্কেলের পরিবর্তে একটা স্কুকে ঘুরিয়ে (চিত্র ১.০৮) স্কেলকে সামনে-পেছনে নিয়েও স্কু-গেইজ (Screw Gauge) নামে বিশেষ একধরনের স্কেলে দৈর্ঘ্য মাপা হয়। এখানে স্কুর ঘাট (thread) অতন্ত সূক্ষ্ম রাখা হয় এবং পুরো একবার ঘোরানোর পর স্কেল লাগানো স্কুটি হয়তো 1 mm অগ্রসর হয়। স্কুর এই সরণকে স্কুর পিচ (pitch) বলে। যে বৃত্তাকার অংশটি ঘুরিয়ে স্কেলাটিকে সামনে-পেছনে নেওয়া হয় সেটিকে সমান 100 ভাগে ভাগ করা হলে প্রতি এক ঘর ঘূর্ণনের জন্য স্কেলাটি পিচের $\\frac{1}{100}$ ভাগের এক ভাগ অগ্রসর হয়। অর্থাৎ এই স্কেলে $\\frac{1}{100}$ mm = 0.01 mm পর্যন্ত মাপা সম্ভব হতে পারে। এটাকে স্কু গেইজের ন্যূনাঙ্ক বলে।",
       "image": null,
       "formulas": [
         "\\frac{1}{100}",
@@ -213,7 +213,7 @@
       "kind": "figure",
       "section": "স্কু-গেইজ (Screw Gauge)",
       "caption": null,
-      "body": "drawing: a vernier caliper and a micrometer screw gauge",
+      "body": "drawing: screw gauge and vernier caliper",
       "image": "p27-page_22_image_3_v2.jpg",
       "formulas": [],
       "pdfPageStart": 27,
@@ -228,7 +228,7 @@
       "kind": "figure",
       "section": "স্কু-গেইজ (Screw Gauge)",
       "caption": null,
-      "body": "**চিত্র ১.০৮: চিত্রটিতে ভান্নিয়ার স্কেলযুক্ত স্লাইড ক্যালিপার্স এবং একটি স্কুগেইজ দেখানো হলো।**",
+      "body": "**চিত্র ১.০৮: চিত্রটিতে ভার্নিয়ার স্কেলযুক্ত স্লাইড ক্যালিপার্স এবং একটি স্কুগেইজ দেখানো হলো।**",
       "image": null,
       "formulas": [],
       "pdfPageStart": 27,
@@ -243,7 +243,7 @@
       "kind": "text",
       "section": "স্কু-গেইজ (Screw Gauge)",
       "caption": null,
-      "body": "আজকাল ভান্নিয়ার স্কেলের পরিবর্তে ডায়াল লাগানো কিংবা ডিজিটাল স্লাইড ক্যালিপার্স বের হয়েছে, যা দিয়ে সরাসরি সূক্ষ্মভাবে দৈর্ঘ্য মাপা যায়!",
+      "body": "আজকাল ভার্নিয়ার স্কেলের পরিবর্তে ডায়াল লাগানো কিংবা ডিজিটাল স্লাইড ক্যালিপার্স বের হয়েছে, যা দিয়ে সরাসরি সূক্ষ্মভাবে দৈর্ঘ্য মাপা যায়!",
       "image": null,
       "formulas": [],
       "pdfPageStart": 27,
@@ -276,7 +276,7 @@
       "kind": "figure",
       "section": "১.৬.২ ব্যালান্স (ভর মাপার যন্ত্র)",
       "caption": null,
-      "body": "photo: digital balance",
+      "body": "photo: digital balance scale",
       "image": "p28-page_23_image_1_v2.jpg",
       "formulas": [],
       "pdfPageStart": 28,
@@ -363,11 +363,11 @@
     },
     {
       "id": "physics-9-10-bn-c01-t1.6-p023",
-      "kind": "figure",
+      "kind": "activity",
       "section": "নিজে করো",
       "caption": null,
-      "body": "drawing: engineering diagram showing steps ①, ②, ③, ④, ⑤, and ⑥ with Bengali instructions and a ruler",
-      "image": "p29-page_24_image_1_v2.jpg",
+      "body": "engineering_drawing: Illustration of making a slide calipers from paper with Bengali instructions and diagrams.",
+      "image": null,
       "formulas": [],
       "pdfPageStart": 29,
       "pdfPageEnd": 29,
@@ -381,7 +381,7 @@
       "kind": "figure",
       "section": "নিজে করো",
       "caption": null,
-      "body": "drawing: engineering diagram showing a ruler with inch markings and folding instructions",
+      "body": "চিত্র ১.১১ : কাগজ দিয়ে স্লাইড ক্যালিপার্স তৈরি।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 29,
@@ -393,36 +393,6 @@
     },
     {
       "id": "physics-9-10-bn-c01-t1.6-p025",
-      "kind": "figure",
-      "section": "নিজে করো",
-      "caption": null,
-      "body": "drawing: engineering diagram showing a caliper-like structure with a ruler and folding instructions",
-      "image": null,
-      "formulas": [],
-      "pdfPageStart": 29,
-      "pdfPageEnd": 29,
-      "printedPageStart": 24,
-      "printedPageEnd": 24,
-      "reviewReasons": [],
-      "needsReview": false
-    },
-    {
-      "id": "physics-9-10-bn-c01-t1.6-p026",
-      "kind": "activity",
-      "section": "নিজে করো",
-      "caption": null,
-      "body": "**চित्र ১.১১ : কাগজ দিয়ে স্লাইড ক্যালিপার্স তৈরি।**",
-      "image": null,
-      "formulas": [],
-      "pdfPageStart": 29,
-      "pdfPageEnd": 29,
-      "printedPageStart": 24,
-      "printedPageEnd": 24,
-      "reviewReasons": [],
-      "needsReview": false
-    },
-    {
-      "id": "physics-9-10-bn-c01-t1.6-p027",
       "kind": "activity",
       "section": "অনুসন্ধান ১.০১",
       "caption": null,
@@ -437,7 +407,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-9-10-bn-c01-t1.6-p028",
+      "id": "physics-9-10-bn-c01-t1.6-p026",
       "kind": "text",
       "section": "অনুসন্ধান ১.০১",
       "caption": null,
@@ -454,7 +424,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.6-p029",
+      "id": "physics-9-10-bn-c01-t1.6-p027",
       "kind": "text",
       "section": "অনুসন্ধান ১.০১",
       "caption": null,
@@ -469,7 +439,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-9-10-bn-c01-t1.6-p030",
+      "id": "physics-9-10-bn-c01-t1.6-p028",
       "kind": "text",
       "section": "অনুসন্ধান ১.০১",
       "caption": null,
@@ -486,7 +456,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.6-p031",
+      "id": "physics-9-10-bn-c01-t1.6-p029",
       "kind": "text",
       "section": "অনুসন্ধান ১.০১",
       "caption": null,
@@ -501,11 +471,11 @@
       "needsReview": false
     },
     {
-      "id": "physics-9-10-bn-c01-t1.6-p032",
+      "id": "physics-9-10-bn-c01-t1.6-p030",
       "kind": "text",
       "section": "অনুসন্ধান ১.০১",
       "caption": null,
-      "body": "প্রধান স্কেলের স্কুদ্রতম এক ঘরের মান $S =$",
+      "body": "প্রধান স্কেলের স্কুড্রতম এক ঘরের মান $S =$",
       "image": null,
       "formulas": [
         "S ="
@@ -520,7 +490,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.6-p033",
+      "id": "physics-9-10-bn-c01-t1.6-p031",
       "kind": "text",
       "section": "অনুসন্ধান ১.০১",
       "caption": null,
@@ -539,7 +509,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.6-p034",
+      "id": "physics-9-10-bn-c01-t1.6-p032",
       "kind": "text",
       "section": "অনুসন্ধান ১.০১",
       "caption": null,
@@ -558,7 +528,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.6-p035",
+      "id": "physics-9-10-bn-c01-t1.6-p033",
       "kind": "text",
       "section": "অনুসন্ধান ১.০১",
       "caption": null,
@@ -573,7 +543,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-9-10-bn-c01-t1.6-p036",
+      "id": "physics-9-10-bn-c01-t1.6-p034",
       "kind": "table",
       "section": "অনুসন্ধান ১.০১",
       "caption": null,

@@ -1,0 +1,574 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.24",
+  "key": "1.24",
+  "title": "সান্ত সেটের উপাদান সংখ্যা",
+  "chapter": 1,
+  "ordinal": 24,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.24-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সান্ত সেট $A$ এর উপাদান সংখ্যা $n(A)$ দ্বারা সূচিত করা হয়েছে এবং $n(A)$ নির্ধারণের পদ্ধতি ব্যাখ্যা করা হয়েছে। এবার মনে করি, $n(A) = p > 0$, $n(B) = q > 0$ যেখানে $A \\cap B = \\emptyset$।",
+      "image": null,
+      "formulas": [
+        "A",
+        "n(A)",
+        "n(A)",
+        "n(A) = p > 0",
+        "n(B) = q > 0",
+        "A \\cap B = \\emptyset"
+      ],
+      "pdfPageStart": 19,
+      "pdfPageEnd": 19,
+      "printedPageStart": 14,
+      "printedPageEnd": 14,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.24-p002",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: Venn diagram showing sets A and B with elements 1 to p and 1 to q",
+      "image": "p19-page_14_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 19,
+      "pdfPageEnd": 19,
+      "printedPageStart": 14,
+      "printedPageEnd": 14,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.24-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "উপরের চিত্রে বর্ণিত এক-এক মিল থেকে দেখা যায় যে, $A \\cup B \\sim J_{p+q}$।",
+      "image": null,
+      "formulas": [
+        "A \\cup B \\sim J_{p+q}"
+      ],
+      "pdfPageStart": 19,
+      "pdfPageEnd": 19,
+      "printedPageStart": 14,
+      "printedPageEnd": 14,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.24-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ, $n(A \\cup B) = p + q = n(A) + n(B)$। এ থেকে নিচের প্রতিজ্ঞাটি বলা যায়।",
+      "image": null,
+      "formulas": [
+        "n(A \\cup B) = p + q = n(A) + n(B)"
+      ],
+      "pdfPageStart": 19,
+      "pdfPageEnd": 19,
+      "printedPageStart": 14,
+      "printedPageEnd": 14,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.24-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রতিজ্ঞা ৮.** যদি $A$ ও $B$ পরস্পর নিশ্চেষ্ট সান্ত সেট হয়, তবে $n(A \\cup B) = n(A) + n(B)$।",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "n(A \\cup B) = n(A) + n(B)"
+      ],
+      "pdfPageStart": 19,
+      "pdfPageEnd": 19,
+      "printedPageStart": 14,
+      "printedPageEnd": 14,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.24-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এই প্রতিজ্ঞাকে সমপ্রসারণ করে বলা যায় যে, $n(A \\cup B \\cup C) = n(A) + n(B) + n(C)$।",
+      "image": null,
+      "formulas": [
+        "n(A \\cup B \\cup C) = n(A) + n(B) + n(C)"
+      ],
+      "pdfPageStart": 19,
+      "pdfPageEnd": 19,
+      "printedPageStart": 14,
+      "printedPageEnd": 14,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.24-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "একইভাবে $n(A \\cup B \\cup C \\cup D) = n(A) + n(B) + n(C) + n(D)$ ইত্যাদি,",
+      "image": null,
+      "formulas": [
+        "n(A \\cup B \\cup C \\cup D) = n(A) + n(B) + n(C) + n(D)"
+      ],
+      "pdfPageStart": 19,
+      "pdfPageEnd": 19,
+      "printedPageStart": 14,
+      "printedPageEnd": 14,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.24-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যেখানে $A, B, C, D$ সেটগুলো পরস্পর নিশ্চেষ্ট সান্ত সেট।",
+      "image": null,
+      "formulas": [
+        "A, B, C, D"
+      ],
+      "pdfPageStart": 19,
+      "pdfPageEnd": 19,
+      "printedPageStart": 14,
+      "printedPageEnd": 14,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.24-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রতিজ্ঞা ৯.** যেকোনো সান্ত সেট $A$ ও $B$ এর জন্য $n(A \\cup B) = n(A) + n(B) - n(A \\cap B)$।",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "n(A \\cup B) = n(A) + n(B) - n(A \\cap B)"
+      ],
+      "pdfPageStart": 19,
+      "pdfPageEnd": 19,
+      "printedPageStart": 14,
+      "printedPageEnd": 14,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.24-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:** এখানে, $A \\setminus B$, $A \\cap B$ এবং $B \\setminus A$ সেট তিনটি পরস্পর নিশ্চেষ্ট সেট [ভেনচিত্র দ্রষ্টব্য]।",
+      "image": null,
+      "formulas": [
+        "A \\setminus B",
+        "A \\cap B",
+        "B \\setminus A"
+      ],
+      "pdfPageStart": 19,
+      "pdfPageEnd": 19,
+      "printedPageStart": 14,
+      "printedPageEnd": 14,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.24-p011",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: Venn diagram showing sets A and B within a universal set U, with regions labeled A\\B, A∩B, and B\\A",
+      "image": "p19-page_14_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 19,
+      "pdfPageEnd": 19,
+      "printedPageStart": 14,
+      "printedPageEnd": 14,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.24-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ফলে $A = (A \\setminus B) \\cup (A \\cap B)$ এবং $B = (B \\setminus A) \\cup (A \\cap B)$",
+      "image": null,
+      "formulas": [
+        "A = (A \\setminus B) \\cup (A \\cap B)",
+        "B = (B \\setminus A) \\cup (A \\cap B)"
+      ],
+      "pdfPageStart": 20,
+      "pdfPageEnd": 20,
+      "printedPageStart": 15,
+      "printedPageEnd": 15,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.24-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অতএব $A \\cup B = (A \\setminus B) \\cup (A \\cap B) \\cup (B \\setminus A)$",
+      "image": null,
+      "formulas": [
+        "A \\cup B = (A \\setminus B) \\cup (A \\cap B) \\cup (B \\setminus A)"
+      ],
+      "pdfPageStart": 20,
+      "pdfPageEnd": 20,
+      "printedPageStart": 15,
+      "printedPageEnd": 15,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.24-p014",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore n(A) = n(A \\setminus B) + n(A \\cap B) \\dots \\dots (1)$",
+      "image": null,
+      "formulas": [
+        "\\therefore n(A) = n(A \\setminus B) + n(A \\cap B) \\dots \\dots (1)"
+      ],
+      "pdfPageStart": 20,
+      "pdfPageEnd": 20,
+      "printedPageStart": 15,
+      "printedPageEnd": 15,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.24-p015",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore n(B) = n(B \\setminus A) + n(A \\cap B) \\dots \\dots (2)$",
+      "image": null,
+      "formulas": [
+        "\\therefore n(B) = n(B \\setminus A) + n(A \\cap B) \\dots \\dots (2)"
+      ],
+      "pdfPageStart": 20,
+      "pdfPageEnd": 20,
+      "printedPageStart": 15,
+      "printedPageEnd": 15,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.24-p016",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$n(A \\cup B) = n(A \\setminus B) + n(A \\cap B) + n(B \\setminus A) \\dots \\dots (3)$",
+      "image": null,
+      "formulas": [
+        "n(A \\cup B) = n(A \\setminus B) + n(A \\cap B) + n(B \\setminus A) \\dots \\dots (3)"
+      ],
+      "pdfPageStart": 20,
+      "pdfPageEnd": 20,
+      "printedPageStart": 15,
+      "printedPageEnd": 15,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.24-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং, (1) নং থেকে পাই, $n(A \\setminus B) = n(A) - n(A \\cap B)$",
+      "image": null,
+      "formulas": [
+        "n(A \\setminus B) = n(A) - n(A \\cap B)"
+      ],
+      "pdfPageStart": 20,
+      "pdfPageEnd": 20,
+      "printedPageStart": 15,
+      "printedPageEnd": 15,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.24-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এবং (2) নং থেকে পাই, $n(B \\setminus A) = n(B) - n(A \\cap B)$",
+      "image": null,
+      "formulas": [
+        "n(B \\setminus A) = n(B) - n(A \\cap B)"
+      ],
+      "pdfPageStart": 20,
+      "pdfPageEnd": 20,
+      "printedPageStart": 15,
+      "printedPageEnd": 15,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.24-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন, $n(A \\setminus B)$ এবং $n(B \\setminus A)$ (3) এ বসিয়ে পাই,",
+      "image": null,
+      "formulas": [
+        "n(A \\setminus B)",
+        "n(B \\setminus A)"
+      ],
+      "pdfPageStart": 20,
+      "pdfPageEnd": 20,
+      "printedPageStart": 15,
+      "printedPageEnd": 15,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.24-p020",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$n(A \\cup B) = n(A) - n(A \\cap B) + n(B) - n(A \\cap B) + n(A \\cap B)$",
+      "image": null,
+      "formulas": [
+        "n(A \\cup B) = n(A) - n(A \\cap B) + n(B) - n(A \\cap B) + n(A \\cap B)"
+      ],
+      "pdfPageStart": 20,
+      "pdfPageEnd": 20,
+      "printedPageStart": 15,
+      "printedPageEnd": 15,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.24-p021",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore n(A \\cup B) = n(A) + n(B) - n(A \\cap B)$",
+      "image": null,
+      "formulas": [
+        "\\therefore n(A \\cup B) = n(A) + n(B) - n(A \\cap B)"
+      ],
+      "pdfPageStart": 20,
+      "pdfPageEnd": 20,
+      "printedPageStart": 15,
+      "printedPageEnd": 15,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.24-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 20,
+      "pdfPageEnd": 20,
+      "printedPageStart": 15,
+      "printedPageEnd": 15,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.24-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) নিম্নোক্ত প্রত্যেক ক্ষেত্রে $A$ ও $B$ এর মধ্যে সম্বাধ্য সকল এক-এক মিল বর্ণনা করো:\n(১) $A = \\{a, b\\}, B = \\{1, 2\\}$ (২) $A = \\{a, b, c\\}, B = \\{a, b, c\\}$",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "A = \\{a, b\\}, B = \\{1, 2\\}",
+        "A = \\{a, b, c\\}, B = \\{a, b, c\\}"
+      ],
+      "pdfPageStart": 20,
+      "pdfPageEnd": 20,
+      "printedPageStart": 15,
+      "printedPageEnd": 15,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.24-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) ক নং প্রশ্নে বর্ণিত প্রত্যেক এক-এক মিলকরণের জন্য $F = \\{(x, y) : x \\in A, y \\in B\\}$ এবং $x \\leftrightarrow y$ সেটটি তালিকা পদ্ধতিতে বর্ণনা করো।",
+      "image": null,
+      "formulas": [
+        "F = \\{(x, y) : x \\in A, y \\in B\\}",
+        "x \\leftrightarrow y"
+      ],
+      "pdfPageStart": 20,
+      "pdfPageEnd": 20,
+      "printedPageStart": 15,
+      "printedPageEnd": 15,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.24-p025",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) মনে করি $A = \\{a, b, c, d\\}$ এবং $B = \\{1, 2, 3, 4\\}$। $A \\times B$ এর একটি উপসেট $F$ বর্ণনা কর যার অন্তর্ভুক্ত কুমজোড়গুলোর প্রথম পদের সঙ্গে দ্বিতীয় পদের মিল করা হলে, $A$ ও $B$ এর একটি এক-এক মিল স্থাপিত হয় যেখানে, $a \\leftrightarrow 3$।",
+      "image": null,
+      "formulas": [
+        "A = \\{a, b, c, d\\}",
+        "B = \\{1, 2, 3, 4\\}",
+        "A \\times B",
+        "F",
+        "A",
+        "B",
+        "a \\leftrightarrow 3"
+      ],
+      "pdfPageStart": 20,
+      "pdfPageEnd": 20,
+      "printedPageStart": 15,
+      "printedPageEnd": 15,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.24-p026",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঘ) দেখাও যে, $A = \\{1, 2, 3, \\dots, n\\}$ ও $B = \\{1, 2, 2^2, \\dots, 2^{n-1}\\}$ সেট দুটি সমতুল।",
+      "image": null,
+      "formulas": [
+        "A = \\{1, 2, 3, \\dots, n\\}",
+        "B = \\{1, 2, 2^2, \\dots, 2^{n-1}\\}"
+      ],
+      "pdfPageStart": 20,
+      "pdfPageEnd": 20,
+      "printedPageStart": 15,
+      "printedPageEnd": 15,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.24-p027",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঙ) দেখাও যে, $S = \\{3^n : n = 0  অথবা  n \\in N\\}$ সেটটি $N$ এর সমতুল।",
+      "image": null,
+      "formulas": [
+        "S = \\{3^n : n = 0  অথবা  n \\in N\\}",
+        "N"
+      ],
+      "pdfPageStart": 20,
+      "pdfPageEnd": 20,
+      "printedPageStart": 15,
+      "printedPageEnd": 15,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.24-p028",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "চ) ঠিক উপরের প্রশ্নে বর্ণিত সেট $S$ এর একটি প্রকৃত উপসেট বর্ণনা কর যা $S$ এর সমতুল।",
+      "image": null,
+      "formulas": [
+        "S",
+        "S"
+      ],
+      "pdfPageStart": 20,
+      "pdfPageEnd": 20,
+      "printedPageStart": 15,
+      "printedPageEnd": 15,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.24-p029",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ছ) দেখাও যে, সকল বিজোড় স্বাভাবিক সংখ্যার সেট $A = \\{1, 3, 5, 7, \\dots\\}$ অনন্ত সেট।",
+      "image": null,
+      "formulas": [
+        "A = \\{1, 3, 5, 7, \\dots\\}"
+      ],
+      "pdfPageStart": 20,
+      "pdfPageEnd": 20,
+      "printedPageStart": 15,
+      "printedPageEnd": 15,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

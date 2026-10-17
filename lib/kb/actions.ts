@@ -1,7 +1,7 @@
 "use server";
 
 import { assertSuperAdmin } from "@/lib/auth/session";
-import { curatePassage, readKbChapter, type ChapterView, type ChapterViewPassage, type CurateAction } from "./export";
+import { curatePassage, readKbChapter, removeKbBook, type ChapterView, type ChapterViewPassage, type CurateAction } from "./export";
 import type { AiReport } from "./aiready";
 import { deleteJob, getJob, toJobView, type JobView } from "./jobs";
 import { advanceJob, editChapter, queueChapters, startPlan, structureChapter, unqueueChapters } from "./process";
@@ -68,9 +68,11 @@ export async function rebuildKbChapter(jobId: string, number: number): Promise<R
   return { job: toJobView(await structureChapter(job.id, number)) };
 }
 
-/** Removes the upload and the job record. Chapters already written to kb/ are kept. */
+/** Removes the upload, the job record and everything it extracted into kb/. */
 export async function deleteKbJob(jobId: string): Promise<{ ok: boolean }> {
   await assertSuperAdmin();
+  const job = await getJob(jobId);
+  if (job?.outDir) await removeKbBook(job.outDir);
   await deleteJob(jobId);
   return { ok: true };
 }

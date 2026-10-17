@@ -1,0 +1,87 @@
+{
+  "id": "physics-9-10-bn-c11",
+  "textbookId": "physics-9-10-bn",
+  "number": 11,
+  "title": "চল বিদ্যুৎ",
+  "englishTitle": "Current Electricity",
+  "pdfPages": [
+    303,
+    333
+  ],
+  "printedPages": [
+    298,
+    328
+  ],
+  "topics": [
+    {
+      "key": "11.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/11.0.json",
+      "passages": 3
+    },
+    {
+      "key": "11.1",
+      "title": "বিদ্যুৎপ্রবাহ (Electric Current)",
+      "file": "topics/11.1.json",
+      "passages": 26
+    },
+    {
+      "key": "11.2",
+      "title": "বিভব পার্থক্য এবং তড়িৎপ্রবাহের মধ্যে সম্পর্ক",
+      "file": "topics/11.2.json",
+      "passages": 153
+    },
+    {
+      "key": "11.3",
+      "title": "তড়িৎ ক্ষমতা (Electric Power)",
+      "file": "topics/11.3.json",
+      "passages": 25
+    },
+    {
+      "key": "11.4",
+      "title": "বিদ্যুৎ সরবরাহ (Electrical Supply)",
+      "file": "topics/11.4.json",
+      "passages": 6
+    },
+    {
+      "key": "11.5",
+      "title": "বিদ্যুতের নিরাপদ ব্যবহার (Safe Use of Electricity)",
+      "file": "topics/11.5.json",
+      "passages": 16
+    },
+    {
+      "key": "11.6",
+      "title": "বাসাবাড়িতে তড়িৎ বর্তনীর নকশা",
+      "file": "topics/11.6.json",
+      "passages": 16
+    },
+    {
+      "key": "11.ex",
+      "title": "নমুনা প্রশ্ন",
+      "file": "topics/11.ex.json",
+      "passages": 34
+    }
+  ],
+  "stats": {
+    "topics": 8,
+    "passages": 279,
+    "images": 19,
+    "byKind": {
+      "figure": 38,
+      "text": 130,
+      "objective": 1,
+      "formula": 59,
+      "example": 9,
+      "table": 2,
+      "activity": 8,
+      "exercise": 32
+    },
+    "byReason": {
+      "verify-formula": 112,
+      "verify-table": 2,
+      "latin-junk": 10,
+      "known-confusable-corrected": 10
+    },
+    "needsReview": 126
+  }
+}

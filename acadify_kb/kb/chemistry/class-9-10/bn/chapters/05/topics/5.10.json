@@ -1,0 +1,338 @@
+{
+  "id": "chemistry-9-10-bn-c05-t5.10",
+  "key": "5.10",
+  "title": "আয়নিক বন্ধন বা তড়িৎযোজী বন্ধন",
+  "chapter": 5,
+  "ordinal": 10,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c05-t5.10-p001",
+      "kind": "text",
+      "section": "(Ionic Bond or Electrovalent Bond)",
+      "caption": null,
+      "body": "আমরা ইতঃপূর্বে জেনেছি, ধাতুগুলোর আয়নিকরণ শক্তির মান অনেক কম হওয়ায় এরা অতি সহজেই সর্বশেষ শক্তিস্তরের এক বা একাধিক ইলেকট্রন ত্যাগ করে ধনাত্মক আধানবিশিষ্ট আয়ন বা ক্যাটায়নে পরিণত হয়। আবার অধাতুগুলোর ইলেকট্রন আসক্তির মান বেশি হওয়ায় এরা সহজেই সর্বশেষ শক্তিস্তরে এক বা একাধিক ইলেকট্রন গ্রহণ করে ঋণাত্মক আধানবিশিষ্ট আয়ন বা অ্যানায়নে পরিণত হয়। এভাবে সৃষ্ট বিপরীত আধানের ক্যাটায়ন ও অ্যানায়নের মধ্যে স্থির বৈদ্যুতিক আকর্ষণ বল বা ইলেকট্রোস্ট্যাটিক বল কাজ করে। এই ইলেকট্রোস্ট্যাটিক বল বা কুলম্ব আকর্ষণ বলের ফলে তারা একে অপরের সাথে যুক্ত থাকে। যে আকর্ষণের ফলে ক্যাটায়ন ও অ্যানায়ন পরস্পরের সাথে যুক্ত থাকে সেটিই আয়নিক বা তড়িৎযোজী বন্ধন। যেমন- Na পরমাণু তার সর্বশেষ শক্তিস্তরের একটি ইলেকট্রন ত্যাগ করে নিষ্ক্রিয় গ্যাসের মতো ইলেকট্রন বিন্যাস অর্জন করে অর্থাৎ সর্বশেষ শক্তিস্তরে ৪টি ইলেকট্রন গঠন করে Na<sup>+</sup> ক্যাটায়নে পরিণত হয়। অপরদিকে Cl পরমাণু তার সর্বশেষ শক্তিস্তরে Na এর ত্যাগকৃত ইলেকট্রনটিকে গ্রহণ করে নিষ্ক্রিয় গ্যাসের মতো ইলেকট্রন বিন্যাস অর্জন করে অর্থাৎ সর্বশেষ শক্তিস্তরে ৪টি ইলেকট্রন গঠন করে Cl<sup>-</sup> অ্যানায়নে পরিণত হয়। এভাবে সূক্ষ্ম ধনাত্মক আধান Na<sup>+</sup> ও ঋণাত্মক আধান Cl<sup>-</sup> পরস্পরের সাথে স্থির বৈদ্যুতিক আকর্ষণে আবদ্ধ হয়। এ আকর্ষণ বলই আয়নিক বন্ধন। অর্থাৎ ধাতব ও অধাতব পরমাণুর রাসায়নিক সংযোগের সময় ধাতব পরমাণু তার সর্বশেষ শক্তিস্তরের এক বা একাধিক ইলেকট্রনকে অধাতব পরমাণুর সর্বশেষ শক্তিস্তরে স্থানান্তর করে ধনাত্মক ঋণাত্মক আয়ন সৃষ্টির মাধ্যমে যে বন্ধন গঠিত হয় তাকে আয়নিক বা তড়িৎযোজী বন্ধন বলে। যে যৌগে আয়নিক বন্ধন থাকে তাকে আয়নিক যৌগ বলে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 99,
+      "pdfPageEnd": 100,
+      "printedPageStart": 94,
+      "printedPageEnd": 95,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.10-p002",
+      "kind": "text",
+      "section": "(Ionic Bond or Electrovalent Bond)",
+      "caption": null,
+      "body": "$$Na \\longrightarrow Na^+ + e^-$$\n$$Cl + e^- \\longrightarrow Cl^-$$\n$$Na + Cl \\longrightarrow Na^+ + Cl^- = NaCl$$",
+      "image": null,
+      "formulas": [
+        "Na \\longrightarrow Na^+ + e^-",
+        "Cl + e^- \\longrightarrow Cl^-",
+        "Na + Cl \\longrightarrow Na^+ + Cl^- = NaCl"
+      ],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.10-p003",
+      "kind": "figure",
+      "section": "(Ionic Bond or Electrovalent Bond)",
+      "caption": null,
+      "body": "drawing: diagram showing the electron transfer between sodium and chlorine atoms to form sodium chloride",
+      "image": "p100-page_14_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.10-p004",
+      "kind": "text",
+      "section": "(Ionic Bond or Electrovalent Bond)",
+      "caption": null,
+      "body": "**সোডিয়াম পরমাণু**      **ক্লোরিন পরমাণু**      **সোডিয়াম ক্লোরাইড**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.10-p005",
+      "kind": "figure",
+      "section": "(Ionic Bond or Electrovalent Bond)",
+      "caption": null,
+      "body": "**চিত্র ৫.০৬: সোডিয়াম ক্লোরাইড গঠন**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.10-p006",
+      "kind": "text",
+      "section": "(Ionic Bond or Electrovalent Bond)",
+      "caption": null,
+      "body": "MgO অণুতে Mg ২টি ইলেকট্রন ত্যাগ করে নিষ্ক্রিয় গ্যাস Ne এর মতো ইলেকট্রন বিন্যাস অর্জন করে অর্থাৎ সর্বশেষ শক্তিস্তরে ৪টি ইলেকট্রন গঠন করে Mg<sup>2+</sup> এ পরিণত হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.10-p007",
+      "kind": "formula",
+      "section": "(Ionic Bond or Electrovalent Bond)",
+      "caption": null,
+      "body": "$$Mg \\longrightarrow Mg^{2+} + 2e^-$$",
+      "image": null,
+      "formulas": [
+        "Mg \\longrightarrow Mg^{2+} + 2e^-"
+      ],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.10-p008",
+      "kind": "text",
+      "section": "(Ionic Bond or Electrovalent Bond)",
+      "caption": null,
+      "body": "আবার O পরমাণু ঐ ২টি ইলেকট্রন গ্রহণ করে নিষ্ক্রিয় গ্যাস Ne এর মতো ইলেকট্রন বিন্যাস অর্জন করে অর্থাৎ সর্বশেষ শক্তিস্তরে ৪টি ইলেকট্রন গঠন করে O<sup>2-</sup> এ পরিণত হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.10-p009",
+      "kind": "formula",
+      "section": "(Ionic Bond or Electrovalent Bond)",
+      "caption": null,
+      "body": "$$O + 2e^- \\longrightarrow O^{2-}$$",
+      "image": null,
+      "formulas": [
+        "O + 2e^- \\longrightarrow O^{2-}"
+      ],
+      "pdfPageStart": 101,
+      "pdfPageEnd": 101,
+      "printedPageStart": 96,
+      "printedPageEnd": 96,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.10-p010",
+      "kind": "text",
+      "section": "(Ionic Bond or Electrovalent Bond)",
+      "caption": null,
+      "body": "এবার Mg<sup>2+</sup> এবং O<sup>2-</sup> কাছাকাছি এসে আয়নিক বন্ধন তৈরি করে। যে যৌগে আয়নিক বন্ধন বিদ্যমান সেই যৌগকে আয়নিক যৌগ বলে। যেমন- MgO একটি আয়নিক যৌগ।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 101,
+      "pdfPageEnd": 101,
+      "printedPageStart": 96,
+      "printedPageEnd": 96,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.10-p011",
+      "kind": "figure",
+      "section": "(Ionic Bond or Electrovalent Bond)",
+      "caption": null,
+      "body": "drawing: diagram showing the formation of Magnesium Oxide (MgO) from Magnesium and Oxygen atoms",
+      "image": "p101-page_15_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 101,
+      "pdfPageEnd": 101,
+      "printedPageStart": 96,
+      "printedPageEnd": 96,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.10-p012",
+      "kind": "figure",
+      "section": "(Ionic Bond or Electrovalent Bond)",
+      "caption": null,
+      "body": "**চিত্র ৫.০৭: ম্যাগনেসিয়াম অক্সাইড গঠন**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 101,
+      "pdfPageEnd": 101,
+      "printedPageStart": 96,
+      "printedPageEnd": 96,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.10-p013",
+      "kind": "text",
+      "section": "(Ionic Bond or Electrovalent Bond)",
+      "caption": null,
+      "body": "NaH অণুতে Na পরমাণু ইলেকট্রন দান করে নিষ্ক্রিয় গ্যাসের মতো ইলেকট্রন বিন্যাস অর্জন করে অর্থাৎ সর্বশেষ শক্তিস্তরে ৪টি ইলেকট্রন গঠন করে Na<sup>+</sup> এ পরিণত হয় এবং H পরমাণু ঐ ইলেকট্রন গ্রহণ করে নিষ্ক্রিয় গ্যাসের মতো ইলেকট্রন বিন্যাস অর্জন করে অর্থাৎ সর্বশেষ শক্তিস্তরে ২টি ইলেকট্রন গঠন করে H<sup>-</sup> এ পরিণত হয়। অতঃপর এদের মধ্যে আয়নিক বন্ধন গঠিত হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 101,
+      "pdfPageEnd": 101,
+      "printedPageStart": 96,
+      "printedPageEnd": 96,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.10-p014",
+      "kind": "text",
+      "section": "(Ionic Bond or Electrovalent Bond)",
+      "caption": null,
+      "body": "$$Na \\longrightarrow Na^+ + e^-$$\n$$H + e^- \\longrightarrow H^-$$",
+      "image": null,
+      "formulas": [
+        "Na \\longrightarrow Na^+ + e^-",
+        "H + e^- \\longrightarrow H^-"
+      ],
+      "pdfPageStart": 101,
+      "pdfPageEnd": 101,
+      "printedPageStart": 96,
+      "printedPageEnd": 96,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.10-p015",
+      "kind": "text",
+      "section": "(Ionic Bond or Electrovalent Bond)",
+      "caption": null,
+      "body": "CaO অণুতে Ca পরমাণু ২টি ইলেকট্রন ত্যাগ করে নিষ্ক্রিয় গ্যাসের মতো ইলেকট্রন বিন্যাস অর্জন করে অর্থাৎ সর্বশেষ শক্তিস্তরে ৪টি ইলেকট্রন গঠন করে Ca<sup>2+</sup> তে পরিণত হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 101,
+      "pdfPageEnd": 101,
+      "printedPageStart": 96,
+      "printedPageEnd": 96,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.10-p016",
+      "kind": "formula",
+      "section": "(Ionic Bond or Electrovalent Bond)",
+      "caption": null,
+      "body": "$$Ca \\longrightarrow Ca^{2+} + 2e^-$$",
+      "image": null,
+      "formulas": [
+        "Ca \\longrightarrow Ca^{2+} + 2e^-"
+      ],
+      "pdfPageStart": 101,
+      "pdfPageEnd": 101,
+      "printedPageStart": 96,
+      "printedPageEnd": 96,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.10-p017",
+      "kind": "text",
+      "section": "(Ionic Bond or Electrovalent Bond)",
+      "caption": null,
+      "body": "O পরমাণু সেই ২টি ইলেকট্রন গ্রহণ করে নিষ্ক্রিয় গ্যাসের মতো ইলেকট্রন বিন্যাস অর্জন করে অর্থাৎ সর্বশেষ শক্তিস্তরে ৪টি ইলেকট্রন গঠন করে O<sup>2-</sup> এ পরিণত হয়",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 101,
+      "pdfPageEnd": 101,
+      "printedPageStart": 96,
+      "printedPageEnd": 96,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.10-p018",
+      "kind": "formula",
+      "section": "(Ionic Bond or Electrovalent Bond)",
+      "caption": null,
+      "body": "$$O + 2e^- \\longrightarrow O^{2-}$$",
+      "image": null,
+      "formulas": [
+        "O + 2e^- \\longrightarrow O^{2-}"
+      ],
+      "pdfPageStart": 101,
+      "pdfPageEnd": 101,
+      "printedPageStart": 96,
+      "printedPageEnd": 96,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.10-p019",
+      "kind": "text",
+      "section": "(Ionic Bond or Electrovalent Bond)",
+      "caption": null,
+      "body": "অতএব Ca<sup>2+</sup> এবং O<sup>2-</sup> এর মধ্যে আয়নিক বন্ধন গঠিত হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 101,
+      "pdfPageEnd": 101,
+      "printedPageStart": 96,
+      "printedPageEnd": 96,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.10-p020",
+      "kind": "text",
+      "section": "(Ionic Bond or Electrovalent Bond)",
+      "caption": null,
+      "body": "উপরের উদাহরণগুলো পর্য্যালোচনা করলে দেখা যায় যে, ধাতুগুলো ইলেকট্রন বর্জন এবং অধাতুগুলো ধাতু কর্তৃক বর্জন করা ইলেকট্রন গ্রহণ করে যথাক্রমে ক্যাটায়ন ও অ্যানায়নে পরিণত হয়। এই ক্যাটায়ন ও অ্যানায়ন পরস্পরের কাছাকাছি আবদ্ধ হয়ে আয়নিক বন্ধন তৈরি করে। উল্লেখ্য, পর্যায় সারণির ১ ও ২ নম্বর গ্রুপের ধাতব মৌলসমূহ এবং ১৬ ও ১৭ নম্বর গ্রুপের অধাতব মৌলসমূহ সাধারণত আয়নিক বন্ধন তৈরি করে। প্রত্যেকটি নিয়মের কিছু না কিছু ব্যতিক্রম থাকে। যেমন- এখানে 13 নম্বর গ্রুপের Al মৌলটি 1 ও 2 নম্বর গ্রুপের মৌল না হওয়া সত্ত্বেও আয়নিক বন্ধন তৈরি করে। অন্য মৌলসমূহ তাদের সর্বশেষ শক্তিস্তরে অনেক বেশি ইলেকট্রন ধারণ করার কারণে তারা ইলেকট্রন বর্জন বা গ্রহণ করার প্রবণতা দেখায় না। ফলে তারা আয়নিক বন্ধনও তৈরি করে না। আয়নিক বন্ধন স্থির বৈদ্যুতিক আকর্ষণের মাধ্যমে ঘটে বলে এ বন্ধন খুবই শক্তিশালী হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 101,
+      "pdfPageEnd": 102,
+      "printedPageStart": 96,
+      "printedPageEnd": 97,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

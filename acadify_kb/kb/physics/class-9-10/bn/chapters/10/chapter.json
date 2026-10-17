@@ -1,0 +1,96 @@
+{
+  "id": "physics-9-10-bn-c10",
+  "textbookId": "physics-9-10-bn",
+  "number": 10,
+  "title": "স্থির বিদ্যুৎ",
+  "englishTitle": "Static Electricity",
+  "pdfPages": [
+    275,
+    302
+  ],
+  "printedPages": [
+    270,
+    297
+  ],
+  "topics": [
+    {
+      "key": "10.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/10.0.json",
+      "passages": 3
+    },
+    {
+      "key": "10.1",
+      "title": "আধান বা চার্জ (Charge)",
+      "file": "topics/10.1.json",
+      "passages": 10
+    },
+    {
+      "key": "10.2",
+      "title": "ঘর্ষণে স্থির বিদ্যুৎ তৈরি",
+      "file": "topics/10.2.json",
+      "passages": 9
+    },
+    {
+      "key": "10.3",
+      "title": "বৈদ্যুতিক আবেশ (Electrical Induction)",
+      "file": "topics/10.3.json",
+      "passages": 25
+    },
+    {
+      "key": "10.4",
+      "title": "বৈদ্যুতিক বল (Electric Force)",
+      "file": "topics/10.4.json",
+      "passages": 57
+    },
+    {
+      "key": "10.5",
+      "title": "তড়িৎ ক্ষেত্র (Electric Field)",
+      "file": "topics/10.5.json",
+      "passages": 32
+    },
+    {
+      "key": "10.6",
+      "title": "তড়িৎ বিভব (Electric Potential)",
+      "file": "topics/10.6.json",
+      "passages": 14
+    },
+    {
+      "key": "10.7",
+      "title": "ধারক (Capacitor)",
+      "file": "topics/10.7.json",
+      "passages": 11
+    },
+    {
+      "key": "10.8",
+      "title": "স্থির বিদ্যুতের ব্যবহার (Uses of Static Electricity)",
+      "file": "topics/10.8.json",
+      "passages": 21
+    },
+    {
+      "key": "10.ex",
+      "title": "নমুনা প্রশ্ন",
+      "file": "topics/10.ex.json",
+      "passages": 34
+    }
+  ],
+  "stats": {
+    "topics": 10,
+    "passages": 216,
+    "images": 15,
+    "byKind": {
+      "figure": 34,
+      "text": 112,
+      "objective": 1,
+      "example": 8,
+      "formula": 30,
+      "exercise": 31
+    },
+    "byReason": {
+      "verify-formula": 71,
+      "known-confusable-corrected": 7,
+      "latin-junk": 7
+    },
+    "needsReview": 82
+  }
+}

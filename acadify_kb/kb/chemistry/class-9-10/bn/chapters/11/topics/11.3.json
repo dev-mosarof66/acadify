@@ -1,0 +1,444 @@
+{
+  "id": "chemistry-9-10-bn-c11-t11.3",
+  "key": "11.3",
+  "title": "সম্পৃক্ত হাইড্রোকার্বন: অ্যালকেন",
+  "chapter": 11,
+  "ordinal": 3,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c11-t11.3-p001",
+      "kind": "text",
+      "section": "(Saturated Hydrocarbons: Alkanes)",
+      "caption": null,
+      "body": "যে সকল হাইড্রোকার্বনের কার্বন শিকলে কার্বন-কার্বন একক বন্ধন বিদ্যমান থাকে তাকে অ্যালকেন বলে। অ্যালকেনের সাধারণ সংকেত $C_nH_{2n+2}$ ($n = 1, 2, 3, 4, ...$)। এ শ্রেণির প্রথম সদস্যের নাম মিথেন। প্রথম সদস্য বলে সাধারণ সংকেতে $n = 1$, তাই এর সংকেত $CH_4$। দ্বিতীয় সদস্য ($n = 2$) এর নাম ইথেন। ইথেনের সংকেত $C_2H_6$। অ্যালকেনের কার্বন-কার্বন ও কার্বন-হাইড্রোজেন বন্ধন ভাঙা অনেক কঠিন। তাই অ্যালকেন রাসায়নিকভাবে অনেকটা নিষ্ক্রিয়। এজন্য এদেরকে প্যারাফিন বলে, প্যারাফিন অর্থ স্তব্ধ আসক্তি। সাধারণত উচ্চ তাপমাত্রা, উচ্চ চাপ কিংবা শক্তিশালী প্রভাবকের উপস্থিতিতেই অ্যালকেন রাসায়নিক বিক্রিয়ায় অংশগ্রহণ করে।",
+      "image": null,
+      "formulas": [
+        "C_nH_{2n+2}",
+        "n = 1, 2, 3, 4, ...",
+        "n = 1",
+        "CH_4",
+        "n = 2",
+        "C_2H_6"
+      ],
+      "pdfPageStart": 274,
+      "pdfPageEnd": 274,
+      "printedPageStart": 269,
+      "printedPageEnd": 269,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.3-p002",
+      "kind": "figure",
+      "section": "(Saturated Hydrocarbons: Alkanes)",
+      "caption": null,
+      "body": "drawing: chemical structures of methane and ethane",
+      "image": "p274-page_9_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 274,
+      "pdfPageEnd": 274,
+      "printedPageStart": 269,
+      "printedPageEnd": 269,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.3-p003",
+      "kind": "figure",
+      "section": "(Saturated Hydrocarbons: Alkanes)",
+      "caption": null,
+      "body": "**চিত্র ১১.০৩: মিথেন এবং ইথেন**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 274,
+      "pdfPageEnd": 274,
+      "printedPageStart": 269,
+      "printedPageEnd": 269,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.3-p004",
+      "kind": "text",
+      "section": "অ্যালকেনের নামকরণ",
+      "caption": null,
+      "body": "IUPAC পদ্ধতিতে অ্যালকেনের নামকরণের নিয়ম এরকম:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 274,
+      "pdfPageEnd": 274,
+      "printedPageStart": 269,
+      "printedPageEnd": 269,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.3-p005",
+      "kind": "text",
+      "section": "অ্যালকেনের নামকরণ",
+      "caption": null,
+      "body": "(i) সরল শিকলবিশিষ্ট অ্যালকেনে এক কার্বনবিশিষ্ট অ্যালকেন ($CH_4$) কে মিথেন, দুই কার্বন বিশিষ্ট অ্যালকেন ($CH_3-CH_3$) কে ইথেন, তিন কার্বনবিশিষ্ট অ্যালকেন ($CH_3-CH_2-CH_3$) কে প্রোপেন এবং চার কার্বনবিশিষ্ট অ্যালকেন ($CH_3-CH_2-CH_2-CH_3$) কে বিউটেন নাম দেওয়া হয়েছে।",
+      "image": null,
+      "formulas": [
+        "CH_4",
+        "CH_3-CH_3",
+        "CH_3-CH_2-CH_3",
+        "CH_3-CH_2-CH_2-CH_3"
+      ],
+      "pdfPageStart": 274,
+      "pdfPageEnd": 274,
+      "printedPageStart": 269,
+      "printedPageEnd": 269,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.3-p006",
+      "kind": "text",
+      "section": "অ্যালকেনের নামকরণ",
+      "caption": null,
+      "body": "(ii) অ্যালকেনের ক্ষেত্রে কার্বন সংখ্যার হ্রিক সংখ্যাসূচক শব্দের শেষে এন (ane) যোগ করে নামকরণ করা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 274,
+      "pdfPageEnd": 274,
+      "printedPageStart": 269,
+      "printedPageEnd": 269,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.3-p007",
+      "kind": "text",
+      "section": "অ্যালকাইল মূলক (Alkyl Group)",
+      "caption": null,
+      "body": "অ্যালকেন থেকে একটি হাইড্রোজেন পরমাণু অপসারণ করলে যে একযোজী মূলকের সৃষ্টি হয় তাকে অ্যালকাইল মূলক বলে। যেহেতু অ্যালকেনের সাধারণ সংকেত $C_nH_{2n+2}$, তাই অ্যালকাইল মূলক $R$ ব্যবহার করে লিখতে চাইলে আমরা $C_nH_{2n+2}$ এর পরিবর্তে $R-H$ লিখতে পারি। যেখানে অ্যালকাইল মূলক $R = C_nH_{2n+1}$। যে অ্যালকেন থেকে হাইড্রোজেন পরমাণুকে অপসারণ করে অ্যালকাইল মূলক তৈরি হয় সেই অ্যালকেন এর নামের শেষ অংশের এন (ane) বাদ দিয়ে আইল (yl) যোগ করে অ্যালকাইল মূলকের নামকরণ করা হয়। উদাহরণ হিসেবে বলা যায়, মিথেন ($CH_4$) থেকে মিথাইল ($CH_3-$), ইথেন ($C_2H_6$) থেকে ইথাইল ($CH_3-CH_2-$), প্রোপেন থেকে প্রোপাইল ($CH_3-CH_2-CH_2-$), বিউটেন থেকে বিউটাইল (CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-), পেন্টেন থেকে পেন্টাইল (CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-) ইত্যাদি।",
+      "image": null,
+      "formulas": [
+        "C_nH_{2n+2}",
+        "R",
+        "C_nH_{2n+2}",
+        "R-H",
+        "R = C_nH_{2n+1}",
+        "CH_4",
+        "CH_3-",
+        "C_2H_6",
+        "CH_3-CH_2-",
+        "CH_3-CH_2-CH_2-"
+      ],
+      "pdfPageStart": 274,
+      "pdfPageEnd": 275,
+      "printedPageStart": 269,
+      "printedPageEnd": 270,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.3-p008",
+      "kind": "table",
+      "section": "অ্যালকাইল মূলক (Alkyl Group)",
+      "caption": "টেবিল ১১.০২: অ্যালকেনের কার্বন সংখ্যা, নাম এবং সংকেত",
+      "body": "<table><tr><th>অ্যালকেনের কার্বন সংখ্যা</th><th>অ্যালকেনের নাম</th><th>অ্যালকেনের সংকেত</th></tr>\n<tr><td>1</td><td>মিথেন<br />(Methane)</td><td>CH<sub>4</sub></td></tr>\n<tr><td>2</td><td>ইথেন<br />(Ethane)</td><td>CH<sub>3</sub>-CH<sub>3</sub></td></tr>\n<tr><td>3</td><td>প্রোপেন<br />(Propane)</td><td>CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>3</sub></td></tr>\n<tr><td>4</td><td>বিউটেন<br />(Butane)</td><td>CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub></td></tr>\n<tr><td>5</td><td>পেন্টেন<br />(Pentane)</td><td>CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub></td></tr>\n<tr><td>6</td><td>হেক্সেন<br />(Hexane)</td><td>CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub></td></tr>\n<tr><td>7</td><td>হেপ্টেন<br />(Heptane)</td><td>CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub></td></tr>\n<tr><td>8</td><td>অক্টেন<br />(Octane)</td><td>CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub> -CH<sub>3</sub></td></tr>\n<tr><td>9</td><td>ননেন<br />(Nonane)</td><td>CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub> -CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub></td></tr>\n<tr><td>10</td><td>ডেকেন<br />(Decane)</td><td>CH<sub>3</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>2</sub>-CH<sub>3</sub></td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 275,
+      "pdfPageEnd": 275,
+      "printedPageStart": 270,
+      "printedPageEnd": 270,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.3-p009",
+      "kind": "text",
+      "section": "অ্যালকেনের প্রস্তুতি",
+      "caption": null,
+      "body": "কার্বন ডাই-অক্সাইড থেকে: নিকেল প্রভাবকের উপস্থিতিতে কার্বন ডাই-অক্সাইডের সাথে হাইড্রোজেনকে 250°C তাপমাত্রায় উত্তপ্ত করলে মিথেন এবং পানি উৎপন্ন হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 275,
+      "pdfPageEnd": 275,
+      "printedPageStart": 270,
+      "printedPageEnd": 270,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.3-p010",
+      "kind": "text",
+      "section": "অ্যালকেনের প্রস্তুতি",
+      "caption": null,
+      "body": "$$CO_2 + 4H_2 \\xrightarrow[250^\\circC]{Ni} CH_4 + 2H_2O$$\nকার্বন ডাই-অক্সাইড হাইড্রোজেন মিথেন পানি",
+      "image": null,
+      "formulas": [
+        "CO_2 + 4H_2 \\xrightarrow[250^\\circC]{Ni} CH_4 + 2H_2O"
+      ],
+      "pdfPageStart": 276,
+      "pdfPageEnd": 276,
+      "printedPageStart": 271,
+      "printedPageEnd": 271,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.3-p011",
+      "kind": "text",
+      "section": "অ্যালকেনের প্রস্তুতি",
+      "caption": null,
+      "body": "**অ্যালকিন ও অ্যালকাইন থেকে:** নিকেল প্রভাবক এর উপস্থিতিতে পৃথকভাবে ইথিন এবং ইথাইনের সাথে হাইড্রোজেনকে 180°C-200°C তাপমাত্রায় উত্তপ্ত করলে ইথেন উৎপন্ন হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 276,
+      "pdfPageEnd": 276,
+      "printedPageStart": 271,
+      "printedPageEnd": 271,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.3-p012",
+      "kind": "text",
+      "section": "অ্যালকেনের প্রস্তুতি",
+      "caption": null,
+      "body": "$$CH_2=CH_2 + H_2 \\xrightarrow[180^\\circC-200^\\circC]{Ni} CH_3-CH_3$$\nইথিন হাইড্রোজেন ইথেন",
+      "image": null,
+      "formulas": [
+        "CH_2=CH_2 + H_2 \\xrightarrow[180^\\circC-200^\\circC]{Ni} CH_3-CH_3"
+      ],
+      "pdfPageStart": 276,
+      "pdfPageEnd": 276,
+      "printedPageStart": 271,
+      "printedPageEnd": 271,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.3-p013",
+      "kind": "text",
+      "section": "অ্যালকেনের প্রস্তুতি",
+      "caption": null,
+      "body": "$$CH\\equivCH + 2H_2 \\xrightarrow[180^\\circC-200^\\circC]{Ni} CH_3-CH_3$$\nইথাইন হাইড্রোজেন ইথেন",
+      "image": null,
+      "formulas": [
+        "CH\\equivCH + 2H_2 \\xrightarrow[180^\\circC-200^\\circC]{Ni} CH_3-CH_3"
+      ],
+      "pdfPageStart": 276,
+      "pdfPageEnd": 276,
+      "printedPageStart": 271,
+      "printedPageEnd": 271,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.3-p014",
+      "kind": "text",
+      "section": "অ্যালকেনের প্রস্তুতি",
+      "caption": null,
+      "body": "**ডিকার্বক্সাইলেশন বিক্রিয়া থেকে :** ক্যালসিয়াম অক্সাইডের উপস্থিতিতে সোডিয়াম ইথানয়েটকে সোডালাইম (NaOH + CaO) এর সাথে উত্তপ্ত করলে মিথেন এবং সোডিয়াম কার্বনেট উৎপন্ন হয়। এই বিক্রিয়াকে ডিকার্বক্সাইলেশন বিক্রিয়া বলে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 276,
+      "pdfPageEnd": 276,
+      "printedPageStart": 271,
+      "printedPageEnd": 271,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.3-p015",
+      "kind": "text",
+      "section": "অ্যালকেনের প্রস্তুতি",
+      "caption": null,
+      "body": "$$CH_3COONa + NaOH \\xrightarrow[\\Delta]{CaO} CH_4 + Na_2CO_3$$\nসোডিয়াম ইথানয়েট সোডিয়াম হাইড্রোঅক্সাইড মিথেন সোডিয়াম কার্বনেট",
+      "image": null,
+      "formulas": [
+        "CH_3COONa + NaOH \\xrightarrow[\\Delta]{CaO} CH_4 + Na_2CO_3"
+      ],
+      "pdfPageStart": 276,
+      "pdfPageEnd": 276,
+      "printedPageStart": 271,
+      "printedPageEnd": 271,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.3-p016",
+      "kind": "text",
+      "section": "অ্যালকেনের ধর্ম",
+      "caption": null,
+      "body": "**ভৌত ধর্ম:** সম্পূর্ণ হাইড্রোকার্বন বা অ্যালকেনের গলনাঙ্ক, স্ফুটনাঙ্ক এবং ভৌত অবস্থা অ্যালকেনের কার্বন সংখ্যার উপর নির্ভর করে। কার্বন সংখ্যার পরিবর্তন হলে ভৌত অবস্থার পরিবর্তন হয়। 1 থেকে 4 কার্বন সংখ্যার সম্পূর্ণ হাইড্রোকার্বনের স্ফুটনাঙ্ক ক্রমশ তাপমাত্রার নিচে, তাই এগুলো গ্যাসীয় অবস্থায় থাকে। 5 থেকে 15 কার্বন সংখ্যার সম্পূর্ণ হাইড্রোকার্বনের স্ফুটনাঙ্ক ক্রমশ তাপমাত্রার উপরে বলে এগুলো তরল অবস্থায় থাকে। 5 কার্বনবিশিষ্ট সম্পূর্ণ হাইড্রোকার্বন পেঁটেনের স্ফুটনাঙ্ক 36.1°C। সম্পূর্ণ হাইড্রোকার্বনের কার্বন সংখ্যা 16 থেকে বেশি হলে এগুলো কাঠিন প্রকৃতির হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 276,
+      "pdfPageEnd": 276,
+      "printedPageStart": 271,
+      "printedPageEnd": 271,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.3-p017",
+      "kind": "text",
+      "section": "রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "আগেই বলা হয়েছে অ্যালকেনসমূহ রাসায়নিকভাবে অনেকটা নিষ্ক্রিয়। তাই সাধারণ অবস্থায় এসিড, ক্ষারক, জারক বা বিজারকের সাথে বিক্রিয়া করে না। তারপরও এরা কিছু রাসায়নিক বিক্রিয়ায় অংশগ্রহণ করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 276,
+      "pdfPageEnd": 276,
+      "printedPageStart": 271,
+      "printedPageEnd": 271,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.3-p018",
+      "kind": "text",
+      "section": "রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "**ক্লোরিনের সাথে বিক্রিয়া:** অতিবেগুনি (UV) আলোর উপস্থিতিতে মিথেনের সাথে ক্লোরিন মিশ্রিত করলে টেট্রাক্লোরো মিথেন উৎপন্ন হয়। এই বিক্রিয়া চার ধাপে সম্পন্ন হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 277,
+      "pdfPageEnd": 277,
+      "printedPageStart": 272,
+      "printedPageEnd": 272,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.3-p019",
+      "kind": "formula",
+      "section": "রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "$$\\begin{array}{c}\nCH_4 + Cl_2 \\xrightarrow{UV} CH_3Cl + HCl \\\\\nমিথেন \\quad \\quad \\quad ক্লোরিন \\quad \\quad \\quad ক্লোরো মিথেন \\quad \\quad \\quad হাইড্রোজেন ক্লোরাইড\n\\end{array}$$",
+      "image": null,
+      "formulas": [
+        "\\begin{array}{c}\nCH_4 + Cl_2 \\xrightarrow{UV} CH_3Cl + HCl \\\\\nমিথেন \\quad \\quad \\quad ক্লোরিন \\quad \\quad \\quad ক্লোরো মিথেন \\quad \\quad \\quad হাইড্রোজেন ক্লোরাইড\n\\end{array}"
+      ],
+      "pdfPageStart": 277,
+      "pdfPageEnd": 277,
+      "printedPageStart": 272,
+      "printedPageEnd": 272,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.3-p020",
+      "kind": "formula",
+      "section": "রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "$$\\begin{array}{c}\nCH_3Cl + Cl_2 \\xrightarrow{UV} CH_2Cl_2 + HCl \\\\\nক্লোরো মিথেন \\quad \\quad \\quad ক্লোরিন \\quad \\quad \\quad ডাইক্লোরো মিথেন \\quad \\quad \\quad হাইড্রোজেন ক্লোরাইড\n\\end{array}$$",
+      "image": null,
+      "formulas": [
+        "\\begin{array}{c}\nCH_3Cl + Cl_2 \\xrightarrow{UV} CH_2Cl_2 + HCl \\\\\nক্লোরো মিথেন \\quad \\quad \\quad ক্লোরিন \\quad \\quad \\quad ডাইক্লোরো মিথেন \\quad \\quad \\quad হাইড্রোজেন ক্লোরাইড\n\\end{array}"
+      ],
+      "pdfPageStart": 277,
+      "pdfPageEnd": 277,
+      "printedPageStart": 272,
+      "printedPageEnd": 272,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.3-p021",
+      "kind": "formula",
+      "section": "রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "$$\\begin{array}{c}\nCH_2Cl_2 + Cl_2 \\xrightarrow{UV} CHCl_3 + HCl \\\\\nডাইক্লোরো মিথেন \\quad \\quad \\quad ক্লোরিন \\quad \\quad \\quad ট্রাইক্লোরো মিথেন \\quad \\quad \\quad হাইড্রোজেন ক্লোরাইড\n\\end{array}$$",
+      "image": null,
+      "formulas": [
+        "\\begin{array}{c}\nCH_2Cl_2 + Cl_2 \\xrightarrow{UV} CHCl_3 + HCl \\\\\nডাইক্লোরো মিথেন \\quad \\quad \\quad ক্লোরিন \\quad \\quad \\quad ট্রাইক্লোরো মিথেন \\quad \\quad \\quad হাইড্রোজেন ক্লোরাইড\n\\end{array}"
+      ],
+      "pdfPageStart": 277,
+      "pdfPageEnd": 277,
+      "printedPageStart": 272,
+      "printedPageEnd": 272,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.3-p022",
+      "kind": "formula",
+      "section": "রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "$$\\begin{array}{c}\nCHCl_3 + Cl_2 \\xrightarrow{UV} CCl_4 + HCl \\\\\nট্রাইক্লোরো মিথেন \\quad \\quad \\quad ক্লোরিন \\quad \\quad \\quad টেট্রাক্লোরো মিথেন \\quad \\quad \\quad হাইড্রোজেন ক্লোরাইড\n\\end{array}$$",
+      "image": null,
+      "formulas": [
+        "\\begin{array}{c}\nCHCl_3 + Cl_2 \\xrightarrow{UV} CCl_4 + HCl \\\\\nট্রাইক্লোরো মিথেন \\quad \\quad \\quad ক্লোরিন \\quad \\quad \\quad টেট্রাক্লোরো মিথেন \\quad \\quad \\quad হাইড্রোজেন ক্লোরাইড\n\\end{array}"
+      ],
+      "pdfPageStart": 277,
+      "pdfPageEnd": 277,
+      "printedPageStart": 272,
+      "printedPageEnd": 272,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.3-p023",
+      "kind": "text",
+      "section": "রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "**অক্সিজেনের সাথে দহন বিক্রিয়া:** মিথেন বায়ুর অক্সিজেনের সাথে বিক্রিয়া করে কার্বন ডাই-অক্সাইড জলীয় বাষ্প এবং তাপশক্তি উৎপন্ন হয়। এই তাপশক্তি রান্নাবান্নার কাজে ব্যবহৃত হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 277,
+      "pdfPageEnd": 277,
+      "printedPageStart": 272,
+      "printedPageEnd": 272,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.3-p024",
+      "kind": "formula",
+      "section": "রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "$$\\begin{array}{c}\nCH_4 + 2O_2 \\xrightarrow{} CO_2 + 2H_2O + তাপশক্তি \\\\\nমিথেন \\quad \\quad অক্সিজেন \\quad \\quad \\quad কার্বন ডাই-অক্সাইড \\quad \\quad \\quad পানী\n\\end{array}$$",
+      "image": null,
+      "formulas": [
+        "\\begin{array}{c}\nCH_4 + 2O_2 \\xrightarrow{} CO_2 + 2H_2O + তাপশক্তি \\\\\nমিথেন \\quad \\quad অক্সিজেন \\quad \\quad \\quad কার্বন ডাই-অক্সাইড \\quad \\quad \\quad পानी\n\\end{array}"
+      ],
+      "pdfPageStart": 277,
+      "pdfPageEnd": 277,
+      "printedPageStart": 272,
+      "printedPageEnd": 272,
+      "reviewReasons": [
+        "latin-junk",
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

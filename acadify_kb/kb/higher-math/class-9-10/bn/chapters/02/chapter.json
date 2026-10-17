@@ -1,0 +1,139 @@
+{
+  "id": "higher-math-9-10-bn-c02",
+  "textbookId": "higher-math-9-10-bn",
+  "number": 2,
+  "title": "বীজগাণিতিক রাশি",
+  "englishTitle": "Algebraic Expression",
+  "pdfPages": [
+    43,
+    67
+  ],
+  "printedPages": [
+    38,
+    62
+  ],
+  "topics": [
+    {
+      "key": "2.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/2.0.json",
+      "passages": 4
+    },
+    {
+      "key": "2.1",
+      "title": "এক চলকের বহুপদী",
+      "file": "topics/2.1.json",
+      "passages": 7
+    },
+    {
+      "key": "2.2",
+      "title": "দুই চলকের বহুপদী",
+      "file": "topics/2.2.json",
+      "passages": 5
+    },
+    {
+      "key": "2.3",
+      "title": "তিন চলকের বহুপদী",
+      "file": "topics/2.3.json",
+      "passages": 10
+    },
+    {
+      "key": "2.4",
+      "title": "বহুপদীর গুণফল ও ভাগফল",
+      "file": "topics/2.4.json",
+      "passages": 10
+    },
+    {
+      "key": "2.5",
+      "title": "ভাগ সূত্র",
+      "file": "topics/2.5.json",
+      "passages": 2
+    },
+    {
+      "key": "2.6",
+      "title": "সমতা সূত্র",
+      "file": "topics/2.6.json",
+      "passages": 5
+    },
+    {
+      "key": "2.7",
+      "title": "অভেদ (Identity)",
+      "file": "topics/2.7.json",
+      "passages": 1
+    },
+    {
+      "key": "2.8",
+      "title": "ভাগশেষ ও উৎপাদক উপপাদ্য",
+      "file": "topics/2.8.json",
+      "passages": 25
+    },
+    {
+      "key": "2.9",
+      "title": "উৎপাদক উপপাদ্যের বিপরীত উপপাদ্য",
+      "file": "topics/2.9.json",
+      "passages": 67
+    },
+    {
+      "key": "2.10",
+      "title": "সমমাত্রিক বহুপদী, প্রতিসম ও চক্রক্রমিক রাশি",
+      "file": "topics/2.10.json",
+      "passages": 12
+    },
+    {
+      "key": "2.11",
+      "title": "চক্র-ক্রমিক বহুপদীর উৎপাদকে বিশ্লেষণ",
+      "file": "topics/2.11.json",
+      "passages": 39
+    },
+    {
+      "key": "2.12",
+      "title": "দ্বিতীয় পদ্ধতি (সমমাত্রিক চক্রক্রমিক বহুপদীর ধারণা ব্যবহার করে)",
+      "file": "topics/2.12.json",
+      "passages": 9
+    },
+    {
+      "key": "2.13",
+      "title": "অনুসিদ্ধান্ত ২. যদি $a + b + c = 0$ হয়, তবে $a^3 + b^3 + c^3 = 3abc$।",
+      "file": "topics/2.13.json",
+      "passages": 15
+    },
+    {
+      "key": "2.14",
+      "title": "মূলদ ভগ্নাংশ (Rational Fractions)",
+      "file": "topics/2.14.json",
+      "passages": 35
+    },
+    {
+      "key": "2.15",
+      "title": "আংশিক ভগ্নাংশ (Partial Fractions)",
+      "file": "topics/2.15.json",
+      "passages": 107
+    },
+    {
+      "key": "2.ex",
+      "title": "অনুশীলনী ২",
+      "file": "topics/2.ex.json",
+      "passages": 39
+    }
+  ],
+  "stats": {
+    "topics": 17,
+    "passages": 392,
+    "images": 1,
+    "byKind": {
+      "text": 302,
+      "formula": 46,
+      "table": 3,
+      "figure": 1,
+      "example": 1,
+      "exercise": 39
+    },
+    "byReason": {
+      "verify-formula": 345,
+      "latin-junk": 13,
+      "verify-table": 3,
+      "known-confusable-corrected": 3
+    },
+    "needsReview": 346
+  }
+}

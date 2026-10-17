@@ -1,0 +1,237 @@
+{
+  "id": "physics-9-10-bn-c10-t10.6",
+  "key": "10.6",
+  "title": "তড়িৎ বিভব (Electric Potential)",
+  "chapter": 10,
+  "ordinal": 6,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c10-t10.6-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা জানি যে তড়িৎক্ষেত্রে E তে একটি চার্জ q একটি বল অনুভব করে যার মান হলো F =qE, একটি ধনাত্মক চার্জ বা আধানের কাছে আরেকটি ক্ষুদ্র ধনাত্মক আধান ৭০ আনলে এটি বিকর্ষণ বল অনুভব করে। সুতরাং একটি ধনাত্মক আধান q থেকে r দূরত্বে সরলরেখা বরাবর একটি ক্ষুদ্র টেস্ট চার্জ ৭০ কে আনতে বিকর্ষণ বলের বিপরীতে কাজ করতে হয়। q চার্জের যত কাছে ৭০ চার্জকে আনা হবে তত বেশি বিকর্ষণ বল অনুভব করবে এবং তত বেশি কাজ করতে হবে। কুলম্বের সূত্র অনুযায়ী চার্জ q এবং ৭০ এর মধ্যবর্তী দূরত্ব অসীম হলে এদের মধ্যে কোন বল কাজ করবে না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 292,
+      "pdfPageEnd": 292,
+      "printedPageStart": 287,
+      "printedPageEnd": 287,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.6-p002",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: diagram showing a central charge q with electric field lines and a test charge q0 at distance r",
+      "image": "p292-page_18_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 292,
+      "pdfPageEnd": 292,
+      "printedPageStart": 287,
+      "printedPageEnd": 287,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.6-p003",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "**চিত্র ১০.১৪: একটি ধনাত্মক আধান q থেকে r দূরত্বে একটি ক্ষুদ্র টেস্ট চার্জ q<sub>০</sub> কে আনা হলো**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 292,
+      "pdfPageEnd": 292,
+      "printedPageStart": 287,
+      "printedPageEnd": 287,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.6-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অসীম দূরত্ব থেকে একটি অতি ক্ষুদ্র ধনাত্মক টেস্ট চার্জ ৭০ কে সমবেগে একটি চার্জ q থেকে r দূরত্বে আনতে যদি কাজ W সম্পন্ন হয় তবে প্রতি একক টেস্ট চার্জের জন্য কৃত কাজকে ঐ বিন্দুতে চার্জ q এর জন্য তড়িৎ বিভব V হলে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 292,
+      "pdfPageEnd": 292,
+      "printedPageStart": 287,
+      "printedPageEnd": 287,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.6-p005",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$V = V (r) = \\frac{W}{q}$$",
+      "image": null,
+      "formulas": [
+        "V = V (r) = \\frac{W}{q}"
+      ],
+      "pdfPageStart": 292,
+      "pdfPageEnd": 292,
+      "printedPageStart": 287,
+      "printedPageEnd": 287,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.6-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বিন্দু চার্জ $q$ এর জন্য কুলম্বের সূত্র ব্যবহার করে দেখানো যায় যে",
+      "image": null,
+      "formulas": [
+        "q"
+      ],
+      "pdfPageStart": 293,
+      "pdfPageEnd": 293,
+      "printedPageStart": 288,
+      "printedPageEnd": 288,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.6-p007",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$V(r) = k \\frac{q}{r}$$",
+      "image": null,
+      "formulas": [
+        "V(r) = k \\frac{q}{r}"
+      ],
+      "pdfPageStart": 293,
+      "pdfPageEnd": 293,
+      "printedPageStart": 288,
+      "printedPageEnd": 288,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.6-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তড়িৎ বিভব একটি স্কেলার রাশি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 293,
+      "pdfPageEnd": 293,
+      "printedPageStart": 288,
+      "printedPageEnd": 288,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.6-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**একক:** এস আই একক ব্যবস্থায় (SI System of Units) বিভবের পরিমাণ করা হয় (Volt) এককে। অসীম দূরত্ব থেকে 1C ধনাত্মক আধানকে তড়িৎ ক্ষেত্রের কোন বিন্দুতে আনতে যদি 1J কাজ সম্পন্ন হয় তবে ঐ বিন্দুর বিভবকে 1V বলে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 293,
+      "pdfPageEnd": 293,
+      "printedPageStart": 288,
+      "printedPageEnd": 288,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.6-p010",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$1  Volt (V) = \\frac{1J}{1C} = JC^{-1}$$",
+      "image": null,
+      "formulas": [
+        "1  Volt (V) = \\frac{1J}{1C} = JC^{-1}"
+      ],
+      "pdfPageStart": 293,
+      "pdfPageEnd": 293,
+      "printedPageStart": 288,
+      "printedPageEnd": 288,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.6-p011",
+      "kind": "text",
+      "section": "১০.৬.১ বিভব পার্থক্য (Potential Difference)",
+      "caption": null,
+      "body": "তোমরা সবাই ইলেকট্রিক লাইনের গায়ে নানা রকম সতর্কবাণী দেখেছ, যেমন, ‘বিপজ্জনক দশ হাজার ভোল্ট।’ তোমরা সবাই জানো ইলেকট্রিক শক বলে একটা বিষয় আছে, এটি খুব বিপজ্জনক। অসতর্ক মানুষ ইলেকট্রিক শক খেয়ে মারা গেছে সে রকম উদাহরণও আছে। তোমরা যদি বিভব বিষয়টা বুঝে থাক তাহলে নিশ্চয়ই এখন অনুমান করতে পারছ আসলে কী ঘটে। কোথাও যদি বিভব বা পটেনশিয়াল বেশি থাকে এবং তুমি যদি সেটা স্পর্শ করো, তোমার শরীরের পটেনশিয়াল যেহেতু কম সেজন্য বেশি বিভবের জায়গা থেকে চার্জ তোমার শরীরে চলে আসবে। চার্জের সেই প্রবাহ কতটুকু তার ওপর নির্ভর করে তোমার ভেতরে অনেক কিছু হতে পারে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 293,
+      "pdfPageEnd": 293,
+      "printedPageStart": 288,
+      "printedPageEnd": 288,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.6-p012",
+      "kind": "text",
+      "section": "১০.৬.১ বিভব পার্থক্য (Potential Difference)",
+      "caption": null,
+      "body": "তুমি যেটা স্পর্শ করছ তার পটেনশিয়াল পজিটিভ বা নেগেটিভ দুটোই হতে পারে। এক জায়গায় তোমার শরীর থেকে চার্জ (ইলেকট্রন) যাবে অন্য ক্ষেত্রে তোমার শরীরে চার্জ আসবে, দুটোই বিদ্যুৎ প্রবাহ—শুধু দিকটা ভিন্ন।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 293,
+      "pdfPageEnd": 293,
+      "printedPageStart": 288,
+      "printedPageEnd": 288,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.6-p013",
+      "kind": "text",
+      "section": "১০.৬.১ বিভব পার্থক্য (Potential Difference)",
+      "caption": null,
+      "body": "তুমি নিশ্চয়ই বুঝতে পারছ চার্জ প্রবাহিত হয় বিভব পার্থক্যের জন্য, বিভবের মানের জন্য নয়। সে কারণে একটা কাক যখন হাইভোল্টেজ ইলেকট্রিক তারের ওপর বসে সে ইলেকট্রিক শক খায় না, কারণ তারের বিভব এবং তার নিজের বিভব সমান, কোনো পার্থক্য নেই। শুধু তা-ই নয়, দশ হাজার কিংবা বিশ হাজার ভোল্টের প্রচণ্ড উচ্চ ভোল্টেজে কর্মীরা হেলিকপ্টার দিয়ে খালি হাতে কাজ করে। তারা কোনো ইলেকট্রিক শক খায় না। কারণ শূন্যে থাকার কারণে তারা যখন হাইভোল্টেজ তার স্পর্শ করে তাদের শরীরের ভোল্টেজ তারের সমান হয়ে যায়। কোনো পার্থক্য নেই, তাই কোনো চার্জ প্রবাহিত হয় না। তারা ইলেকট্রিক শক খায় না। তার মানে হচ্ছে, ভোল্টেজের পার্থক্যটা গুরুত্বপূর্ণ ভোল্টেজের মান নয়— এটা সবার জানা দরকার।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 293,
+      "pdfPageEnd": 294,
+      "printedPageStart": 288,
+      "printedPageEnd": 289,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.6-p014",
+      "kind": "text",
+      "section": "১০.৬.১ বিভব পার্থক্য (Potential Difference)",
+      "caption": null,
+      "body": "তারপরও যখন ভোল্টেজের মান মাপতে হয়, তখন তার জন্য একটা নির্দিষ্ট ভোল্টেজ থাকলে ভালো। আমাদের জীবনে আমরা পৃথিবীকে শূন্য বিভব ধরে নিই। পৃথিবীটা এত বিশাল যে এর মাঝে খানিকটা চার্জ দিলেও সেটা গ্রহণ করতে পারে এবং তার জন্য বিভব বেড়ে যায় না, আবার খানিকটা চার্জ নিয়ে গেলেও তার বিভব কমে যায় না। তাই সেটাকে শূন্য বিভব ধরে সবকিছু তার সাপেক্ষে মাপা হয়। তোমরা নিশ্চয়ই লক্ষ্য করে থাকবে ভারী বৈদ্যুতিক যন্ত্রপাতি সব সময় খুব ভালো করে ভূমির সাথে লাগানো (Earthing) হয়। যার অর্থ কোনো দুর্ঘটনায় হঠাৎ করে কোনো কারণে যদি প্রচুর চার্জ চলে আসে তাহলে সেটা যেন দ্রুত এবং নিরাপদে পৃথিবীর মাটিতে চলে যেতে পারে, যারা আশপাশে আছে তাদের যেন কোনো ক্ষতি না হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 294,
+      "pdfPageEnd": 294,
+      "printedPageStart": 289,
+      "printedPageEnd": 289,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    }
+  ]
+}

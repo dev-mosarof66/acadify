@@ -1,0 +1,753 @@
+{
+  "id": "physics-9-10-bn-c09-t9.2",
+  "key": "9.2",
+  "title": "পূর্ণ অভ্যন্তরীণ প্রতিফলন (Total Internal Reflection)",
+  "chapter": 9,
+  "ordinal": 2,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "প্রতিফলন সম্পর্কে আলোচনা করার সময় বলা হয়েছিল যখন অত্যন্ত নির্খুত এবং পূর্ণাঙ্গ প্রতিফলন প্রয়োজন হয়, তখন আয়না ব্যবহার না করে পুরোপরি সচ্ছ মাধ্যম ব্যবহার করে এক ধরনের প্রতিফলন করানো হয়। এই প্রতিফলনের নাম পূর্ণ অভ্যন্তরীণ প্রতিফলন। এটি অত্যন্ত সহজ এবং চমকপ্রদ একটি প্রক্রিয়া, যেখানে প্রতিসরণের নিয়ম ব্যবহার করে আলোক রশ্মিটি ঘন মাধ্যম থেকে হালকা মাধ্যমে পাঠাতে হয় মাত্র।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা এর মাঝে জেনে গেছি (এবং অনেকবার ব্যবহার করেছি), প্রতিসরণের সূত্র হচ্ছে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p003",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$n_1 \\sin \\theta_1 = n_2 \\sin \\theta_2$$",
+      "image": null,
+      "formulas": [
+        "n_1 \\sin \\theta_1 = n_2 \\sin \\theta_2"
+      ],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ যদি $n_1$ থেকে $n_2$ বড় হয় তাহলে $\\theta_2$ থেকে $\\theta_1$ বড় হবে। ধরা যাক তুমি একটি ঘন মাধ্যম ($n_2$) থেকে একটি আলোক রশ্মি হালকা মাধ্যমের ($n_1$) দিকে পাঠাচ্ছ (চিত্র ৯.০৬)। প্রতিসরণ এবং প্রতিফলনের নিয়ম অনুযায়ী খানিকটা আলো প্রতিফলিত হবে এবং খানিকটা প্রতিসরিত হবে। এবার $\\theta_2$ অল্প অল্প করে বাড়াতে থাকলে $\\theta_1$ বাড়তে থাকবে। যেহেতু $\\theta_2$ থেকে $\\theta_1$ বড় হবে কাজেই $\\theta_2 < 90^\\circ$ থাকতেই $\\theta_1 = 90^\\circ$ হয়ে যাবে এবং এর পর থেকে আলোর প্রতিসরিত হওয়ার আর কোনো সুযোগ থাকবে না।",
+      "image": null,
+      "formulas": [
+        "n_1",
+        "n_2",
+        "\\theta_2",
+        "\\theta_1",
+        "n_2",
+        "n_1",
+        "\\theta_2",
+        "\\theta_1",
+        "\\theta_2",
+        "\\theta_1",
+        "\\theta_2 < 90^\\circ",
+        "\\theta_1 = 90^\\circ"
+      ],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ যখন $\\theta_1 = 90^\\circ$ হবে তখন থেকে পুরো আলোকেই প্রতিফলিত হতে হবে। $\\theta_2$ এর যে মানের জন্য $\\theta_1 = 90^\\circ$ হয় সেই কোণকে ক্রান্তি কোণ বা সংকট কোণ (Critical Angle) $\\theta_c$ বলে।",
+      "image": null,
+      "formulas": [
+        "\\theta_1 = 90^\\circ",
+        "\\theta_2",
+        "\\theta_1 = 90^\\circ",
+        "\\theta_c"
+      ],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p006",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: Three diagrams showing light refraction and reflection at a boundary between two media with refractive indices n1 and n2, labeled with angles θ1, θ2, and θc.",
+      "image": "p254-page_9_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p007",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "**চিত্র ৯.০৬:** ঘন মাধ্যম থেকে হালকা মাধ্যমে যাওয়ার সময় আলোর পূর্ণ অভ্যন্তরীণ প্রতিফলন হতে পারে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ $n_1 \\sin 90^\\circ = n_2 \\sin \\theta_c$",
+      "image": null,
+      "formulas": [
+        "n_1 \\sin 90^\\circ = n_2 \\sin \\theta_c"
+      ],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কিংবা $\\sin \\theta_c = \\frac{n_1}{n_2}$",
+      "image": null,
+      "formulas": [
+        "\\sin \\theta_c = \\frac{n_1}{n_2}"
+      ],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$n_1$ এবং $n_2$ এর মান জানা থাকলে আমরা একটি কোণ $\\theta_c$ বের করতে পারব যার জন্য উপরের সূত্রটি সত্যি। কাজেই সূত্রটাকে এভাবেও লেখা যেতে পারে:",
+      "image": null,
+      "formulas": [
+        "n_1",
+        "n_2",
+        "\\theta_c"
+      ],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p011",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A diagram showing a person looking at a flower through a prism, with light rays reflecting internally.",
+      "image": "p254-page_9_image_4_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p012",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "**চিত্র ৯.০৭:** সবচেয়ে পরিপূর্ণ প্রতিফলন হয় পূর্ণ অভ্যন্তরীণ প্রতিফলনে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p013",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\theta_c = \\sin^{-1} \\left( \\frac{n_1}{n_2} \\right)$$",
+      "image": null,
+      "formulas": [
+        "\\theta_c = \\sin^{-1} \\left( \\frac{n_1}{n_2} \\right)"
+      ],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কাচের $n_2 = 1.52$ এবং\nবাতাসের $n_1 = 1.00$ হলে",
+      "image": null,
+      "formulas": [
+        "n_2 = 1.52",
+        "n_1 = 1.00"
+      ],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p015",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{n_1}{n_2} = \\frac{1.00}{1.52} = 0.66$$",
+      "image": null,
+      "formulas": [
+        "\\frac{n_1}{n_2} = \\frac{1.00}{1.52} = 0.66"
+      ],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এটা দেখানো সম্ভব যে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p017",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\sin 41.8^\\circ = 0.66  বা  \\sin^{-1}(0.66) = 41.8^\\circ$$",
+      "image": null,
+      "formulas": [
+        "\\sin 41.8^\\circ = 0.66  বা  \\sin^{-1}(0.66) = 41.8^\\circ"
+      ],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কাজেই ক্রান্তি কোণ $\\theta_c = 41.8^\\circ$ অর্থাৎ যদি স্বচ্ছ কাচ থেকে বাতাসে আলো পাঠানোর সময় আলোক রশ্মি 41.8° থেকে বেশি আপতন কোণ করে তাহলে আলোক রশ্মিটি স্বচ্ছ কাচ থেকে বের না হয়ে পুরোপুরি প্রতিফলিত হয়ে যায়। তোমরা যদি একটি প্রিজম সংগ্রহ করতে পারো তাহলে খুব সহজেই পূর্ণ অভ্যন্তরীণ প্রতিফলন ব্যাপারটি নিজের চোখে দেখতে পাবে। ৯.০৭ চিত্রটিতে কাচ-বাতাস বিদেদতলে আলোর আপতন কোণ 45°, যা নাকি কাচ-বাতাসের ক্রান্তি কোণ 41.8° থেকে বেশি। কাজেই এখানে পূর্ণ অভ্যন্তরীণ প্রতিফলন হবে।",
+      "image": null,
+      "formulas": [
+        "\\theta_c = 41.8^\\circ"
+      ],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 255,
+      "printedPageStart": 249,
+      "printedPageEnd": 250,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p019",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** পানিতে ডুবে যদি এই পরীক্ষাটা করতে চাও তাহলে কী হবে? (কাচের $n_2 = 1.52$ এবং পানির $n_1 = 1.33$)",
+      "image": null,
+      "formulas": [
+        "n_2 = 1.52",
+        "n_1 = 1.33"
+      ],
+      "pdfPageStart": 255,
+      "pdfPageEnd": 255,
+      "printedPageStart": 250,
+      "printedPageEnd": 250,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p020",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** পানিতে $\\frac{n_1}{n_2} = 0.88$ কাজেই কাচের ক্রান্তি কোণ হবে 61.6° কারণ $sin 61.6^\\circ = 0.88$ অথবা $sin^{-1}(0.88) = 61.6^\\circ$",
+      "image": null,
+      "formulas": [
+        "\\frac{n_1}{n_2} = 0.88",
+        "sin 61.6^\\circ = 0.88",
+        "sin^{-1}(0.88) = 61.6^\\circ"
+      ],
+      "pdfPageStart": 255,
+      "pdfPageEnd": 255,
+      "printedPageStart": 250,
+      "printedPageEnd": 250,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p021",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "আপতন কোণ যেহেতু 45°, যা ক্রান্তি কোণ 61.6° থেকে কম, তাই পূর্ণ অভ্যন্তরীণ প্রতিফলন হবে না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 255,
+      "pdfPageEnd": 255,
+      "printedPageStart": 250,
+      "printedPageEnd": 250,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p022",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** 1.45 প্রতিসরণাক্ষের একটি মাধ্যমের ভেতর থেকে আলো 75° তে আপতিত হয়েছে। (চিত্র ৯.০৮) মাধ্যমটির অন্য পাশে বাতাস থাকলে আলোটি কত ডিগ্রি কোণে বের হয়ে আসবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 255,
+      "pdfPageEnd": 255,
+      "printedPageStart": 250,
+      "printedPageEnd": 250,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p023",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "drawing: diagram of light refraction at a boundary between n1=1.45 and n2=1.00",
+      "image": "p255-page_10_image_3_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 255,
+      "pdfPageEnd": 255,
+      "printedPageStart": 250,
+      "printedPageEnd": 250,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p024",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** আমরা জানি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 255,
+      "pdfPageEnd": 255,
+      "printedPageStart": 250,
+      "printedPageEnd": 250,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p025",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$n_1 \\sin \\theta_1 = n_2 \\sin \\theta_2$$",
+      "image": null,
+      "formulas": [
+        "n_1 \\sin \\theta_1 = n_2 \\sin \\theta_2"
+      ],
+      "pdfPageStart": 255,
+      "pdfPageEnd": 255,
+      "printedPageStart": 250,
+      "printedPageEnd": 250,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p026",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$1.45 \\times \\sin 75^\\circ = 1 \\times \\sin \\theta_2$$",
+      "image": null,
+      "formulas": [
+        "1.45 \\times \\sin 75^\\circ = 1 \\times \\sin \\theta_2"
+      ],
+      "pdfPageStart": 255,
+      "pdfPageEnd": 255,
+      "printedPageStart": 250,
+      "printedPageEnd": 250,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p027",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$\\sin \\theta_2 = 1.40$$",
+      "image": null,
+      "formulas": [
+        "\\sin \\theta_2 = 1.40"
+      ],
+      "pdfPageStart": 255,
+      "pdfPageEnd": 255,
+      "printedPageStart": 250,
+      "printedPageEnd": 250,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p028",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কিন্তু আমরা জানি $\\sin \\theta_2$ এর মান কখনো 1 থেকে বেশি হতে পারে না। এখানে এ ব্যাপারটি ঘটেছে কারণ আলো প্রতিসরিত না হয়ে পূর্ণ অভ্যন্তরীণ প্রতিফলিত হয়েছে, কাজেই যখনই যন মাধ্যম থেকে হালকা মাধ্যমে আলোর প্রতিসরণ দেখতে হয় তখন প্রথমে ক্রান্তি কোণটি বের করে নেওয়া ভালো, এই ক্রান্তি কোণ থেকে কম কোণে আলো আপতিত হলে শুধুমাত্র প্রতিসরণ হওয়া সম্ভব।",
+      "image": null,
+      "formulas": [
+        "\\sin \\theta_2"
+      ],
+      "pdfPageStart": 255,
+      "pdfPageEnd": 255,
+      "printedPageStart": 250,
+      "printedPageEnd": 250,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p029",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**চিত্র ৯.০৮: আলো 75° কোণে আপতিত হয়েছে।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 255,
+      "pdfPageEnd": 255,
+      "printedPageStart": 250,
+      "printedPageEnd": 250,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p030",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "এই ক্ষেত্রে ক্রান্তি কোণ $\\theta_c$ হলে $sin\\theta_c = \\frac{1}{1.45} = 0.69$ বা $\\theta_c = 43.6^\\circ$",
+      "image": null,
+      "formulas": [
+        "\\theta_c",
+        "sin\\theta_c = \\frac{1}{1.45} = 0.69",
+        "\\theta_c = 43.6^\\circ"
+      ],
+      "pdfPageStart": 256,
+      "pdfPageEnd": 256,
+      "printedPageStart": 251,
+      "printedPageEnd": 251,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p031",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই $75^\\circ$ তে আলো আপতিত হলে সেটি প্রতিসরিত না হয়ে পূর্ণ অভ্যন্তরীণ প্রতিফলন হবে।",
+      "image": null,
+      "formulas": [
+        "75^\\circ"
+      ],
+      "pdfPageStart": 256,
+      "pdfPageEnd": 256,
+      "printedPageStart": 251,
+      "printedPageEnd": 251,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p032",
+      "kind": "text",
+      "section": "৯.২.১ রংধনু",
+      "caption": null,
+      "body": "তোমরা যারা ভাবছ যে তোমরা সত্যি সত্যি কখনো পূর্ণ অভ্যন্তরীণ প্রতিফলন দেখনি, তাদেরকে মনে করিয়ে দেওয়া যায় যে যারা রংধনু দেখেছে তারাই পূর্ণ অভ্যন্তরীণ প্রতিফলন দেখেছে। রংধনু তৈরি হয় পানির পূর্ণ অভ্যন্তরীণ প্রতিফলন দিয়ে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 256,
+      "pdfPageEnd": 256,
+      "printedPageStart": 251,
+      "printedPageEnd": 251,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p033",
+      "kind": "text",
+      "section": "৯.২.১ রংধনু",
+      "caption": null,
+      "body": "শুধু তা-ই নয়, যারা প্রিজমের অভাবে সাদা আলোকে তার রংগুলোতে ভাগ করে দেখতে পারেনি তারাও এই ব্যাপারটি রংধনুতেই ঘটেতে দেখেছ। বৃষ্টি হওয়ার পরপর যদি রোদ ওঠে, তাহলে আমরা রংধনু দেখি। তার কারণ তখন বাতাসে পানির কণা থাকে এবং পানির কণায় সেই আলো পূর্ণ অভ্যন্তরীণ প্রতিফলিত হওয়ার সময় ভিন্ন ভিন্ন রঙের আলো ভিন্ন ভিন্ন পরিমাণে বেঁকে যায়। এই আলোর রশ্মিগুলো দিয়ে রংধনুর ভিন্ন ভিন্ন রঙের ব্যান্ড (Band) তৈরি হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 256,
+      "pdfPageEnd": 256,
+      "printedPageStart": 251,
+      "printedPageEnd": 251,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p034",
+      "kind": "figure",
+      "section": "৯.২.১ রংধনু",
+      "caption": null,
+      "body": "drawing: diagram showing sunlight, a rainbow, and a person's eye",
+      "image": "p256-page_11_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 256,
+      "pdfPageEnd": 256,
+      "printedPageStart": 251,
+      "printedPageEnd": 251,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p035",
+      "kind": "figure",
+      "section": "৯.২.১ রংধনু",
+      "caption": null,
+      "body": "**চিত্র ৯.০৯ : রংধনু**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 256,
+      "pdfPageEnd": 256,
+      "printedPageStart": 251,
+      "printedPageEnd": 251,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p036",
+      "kind": "text",
+      "section": "৯.২.১ রংধনু",
+      "caption": null,
+      "body": "তোমরা যারা রংধনু দেখেছ তারা নিশ্চয়ই আবিষ্কার করেছে এটি সব সময়ই সূর্যের বিপরীত আকাশে দেখা যায় এবং এখন তার কারণটি নিশ্চয়ই বুঝতে পারছ।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 256,
+      "pdfPageEnd": 256,
+      "printedPageStart": 251,
+      "printedPageEnd": 251,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p037",
+      "kind": "text",
+      "section": "৯.২.১ রংধনু",
+      "caption": null,
+      "body": "> ভরদুপুরে রংধনু দেখা যায় না কেন?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 256,
+      "pdfPageEnd": 256,
+      "printedPageStart": 251,
+      "printedPageEnd": 251,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p038",
+      "kind": "text",
+      "section": "৯.২.২ মরুচিকা",
+      "caption": null,
+      "body": "মরুভূমিতে মরুচিকা খুবই পরিচিত দৃশ্য। তোমরা হয়তো শুনে অবাক হবে যে মরুচিকাও রংধনুর মতো পূর্ণ অভ্যন্তরীণ প্রতিফলনের কারণে ঘটে থাকে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 256,
+      "pdfPageEnd": 256,
+      "printedPageStart": 251,
+      "printedPageEnd": 251,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p039",
+      "kind": "text",
+      "section": "৯.২.২ মরুচিকা",
+      "caption": null,
+      "body": "কোনো কিছু পাওয়ার আশা করে শেষ পর্যন্ত না পেলে সেটাকেও মরুচিকা বলা হয় কিন্তু মূল শব্দটি এসেছে মরুভূমিতে উষ্ণ স্থানে সূক্ষ্ম এক ধরনেরে দৃষ্টি বিশ্রাম থেকে। যদিও আমরা জানি উত্তপ্ত বাতাস হালকা বলে উপরে চলে যায় কিন্তু মরুভূমির উত্তপ্ত বালুর কারণে তার কাছাকাছি স্তরের বাতাস উপরের স্তরের বাতাস থেকে উত্তপ্ত থাকতে পারে। কাজেই মরুভূমির বাতাসকে আমরা ৯.১০ চিএর মতো করে কল্পনা করে নিতে পারি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 256,
+      "pdfPageEnd": 256,
+      "printedPageStart": 251,
+      "printedPageEnd": 251,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p040",
+      "kind": "text",
+      "section": "৯.২.২ মরুচিকা",
+      "caption": null,
+      "body": "সহজভাবে বোঝানোর জন্য এখানে মাত্র তিনটি স্তর দেখানো হয়েছে। উপরের স্তরে বাতাসের ঘনত্ব বেশি তাই প্রতিসরণাঙ্ক বেশি। নিচের স্তরে বাতাস উত্তপ্ত তাই ঘনত্ব কম এবং প্রতিসরণাঙ্কও কম। গাছ থেকে আলো প্রতিটি স্তরে প্রতিসরিত হওয়ার সময় প্রতিসরণ কোন বেড়ে যায় এবং কোনো একটা স্তরে এসে পূর্ণ অভ্যন্তরীণ প্রতিফলন হয়ে যেতে পারে। বেশি প্রতিসরণাঙ্কের থেকে কম প্রতিসরণাঙ্কের মাধ্যমে প্রবেশ করার সময় দূর থেকে দেখা হলে আপতন কোণের মান বেশি হওয়ার কারণে ক্রান্তি কোণকে অতিক্রম করার সম্ভাবনা বেশি থাকে। তাই মরীচিকাকে দূর থেকে দেখা যায়, কাছে এলে দেখা যায় না। যেহেতু কোনো মানুষ দূরের একটি গাছের দিকে তাকালে সরাসরি গাছটি দেখতে পাবে এবং পূর্ণ অভ্যন্তরীণ প্রতিফলনের কারণে গাছের একটি প্রতিবিম্ব গাছের নিচেও দেখতে পাবে। মনে হবে নিচে পানি থাকার কারণে সেখানে গাছের প্রতিবিম্ব দেখা যাচ্ছে। কিন্তু কাছে গেলে দেখা যাবে কোনো পানি নেই।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 257,
+      "pdfPageEnd": 257,
+      "printedPageStart": 252,
+      "printedPageEnd": 252,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p041",
+      "kind": "figure",
+      "section": "৯.২.২ মরুচিকা",
+      "caption": null,
+      "body": "image: Illustration of a man looking at a palm tree and its reflection in a puddle, with light rays showing refraction.",
+      "image": "p257-page_12_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 257,
+      "pdfPageEnd": 257,
+      "printedPageStart": 252,
+      "printedPageEnd": 252,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p042",
+      "kind": "figure",
+      "section": "৯.২.২ মরুচিকা",
+      "caption": null,
+      "body": "**চিত্র ৯.১০: মরুভূমিতে বাতাসের ঘনত্বের পার্থক্যের কারণে মরীচিকা দেখা যায়।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 257,
+      "pdfPageEnd": 257,
+      "printedPageStart": 252,
+      "printedPageEnd": 252,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c09-t9.2-p043",
+      "kind": "text",
+      "section": "৯.২.২ মরুচিকা",
+      "caption": null,
+      "body": "গরমের দিনে উত্তপ্ত রাস্তায় গাড়ি চালিয়ে যাওয়ার সময় একই কারণে দূরে কালচে ভেজা রাস্তা দেখা যায়। সেখানে পৌঁছানোর পর দেখা যায় রাস্তাটি খটখটে শুকনো। এটাও এক ধরনের মরীচিকা।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 257,
+      "pdfPageEnd": 257,
+      "printedPageStart": 252,
+      "printedPageEnd": 252,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

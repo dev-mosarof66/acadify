@@ -1,0 +1,240 @@
+{
+  "id": "physics-9-10-bn-c04-t4.1",
+  "key": "4.1",
+  "title": "কাজ (Work)",
+  "chapter": 4,
+  "ordinal": 1,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c04-t4.1-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা দৈনন্দিন জীবনে কাজ শব্দটা অনেকভাবে ব্যবহার করি। একজন দারোয়ান গেটের সামনে একটি টুলে বসে সারা দিন বাসা পাহারা দিয়ে দাবি করতে পারেন তিনি অনেক কাজ করেছেন কিন্তু পদার্থবিজ্ঞানের ভাষায় সেটি কোনো কাজ নয়। পদার্থবিজ্ঞানের ভাষায় কাজ কথাটার সুনির্দিষ্ট অর্থ আছে। কোনো বস্তুর উপর যদি $F$ বল প্রয়োগ করা হয় এবং বল প্রয়োগ করার সময়টুকুতে যদি বস্তুটি বলের দিকে $s$ দূরত্ব অতিক্রম করে (অর্থাৎ সরণ হয়), তাহলে ঐ বল দিয়ে করা কাজের পরিমাণ $W$ হচ্ছে:",
+      "image": null,
+      "formulas": [
+        "F",
+        "s",
+        "W"
+      ],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.1-p002",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$W = Fs$$",
+      "image": null,
+      "formulas": [
+        "W = Fs"
+      ],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.1-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কাজের একক J (জুল)\nকাজের মাত্রা $[W] = ML^2T^{-2}$",
+      "image": null,
+      "formulas": [
+        "[W] = ML^2T^{-2}"
+      ],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.1-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বল একটি ভেক্টর এবং অতিক্রান্ত দূরত্ব বা সরণও একটি ভেক্টর; কিন্তু কাজের বেলায় এই দুটো ভেক্টরের গুণফল একটি স্কেলার। আলাদা ভেক্টর হিসেবে বল এবং অতিক্রান্ত দূরত্বের দিক একই দিকে হতে হবে এমন কোনো কথা নেই। তোমাদের এই বইয়ে আমরা শুধু একই দিকে প্রয়োগ করা বল এবং অতিক্রান্ত দূরত্বের বিষয়টি আলোচনা করব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.1-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তোমরা কি লক্ষ্য করেছ, কাজ করার কথা বলার সময় আমরা বলেছি ‘বল’টি কাজ করেছে। একজন মানুষ বা একটি যন্ত্র হয়তো বল প্রয়োগ করে কোনো বস্তুরকে ঠেলে খানিকটা দূরত্বে নিয়ে যায়। দৈনন্দিন জীবনের ভাষায় আমরা বলি মানুষটি বা যন্ত্রটি কাজ করেছে। পদার্থবিজ্ঞানের ভাষায় সব সময়েই বল কাজ করে, মানুষ বা যন্ত্র নয়। এই বলটি হয়তো একটি মানুষ বা যন্ত্র প্রয়োগ করেছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.1-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধরা যাক, তুমি $F$ বল প্রয়োগ করে একটা বস্তুরকে $s$ দূরত্বে ঠেলে নিয়ে বস্তুরটিকে গতিশীল করে ছেড়ে দিয়েছ, বস্তুটি তখন আরো $d$ দূরত্ব অতিক্রম করে শেষ পর্যন্ত থেমে গিয়েছে। কতটুকু কাজ হয়েছে?",
+      "image": null,
+      "formulas": [
+        "F",
+        "s",
+        "d"
+      ],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.1-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কাজের পরিমাণ $W = Fs$, পরের $d$ দূরত্ব অতিক্রম করার সময় $F$ বল প্রয়োগ করা হয়নি বলে $F$ বল দ্বারা কোনো কাজ হয়নি।",
+      "image": null,
+      "formulas": [
+        "W = Fs",
+        "d",
+        "F",
+        "F"
+      ],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.1-p008",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** তোমার ভর 50 kg তুমি 10 তলা বিল্ডিংয়ের উপরে উঠেছ, তুমি কত কাজ করেছ? (প্রতি তলার উচ্চতা 3 m)",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.1-p009",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** তোমার ভর 50 kg হলে তোমার ওজন 50 × 9.8 = 490 N। এই ওজন একটা বল, সেটা নিচের দিকে কাজ করছে। তুমি যদি উপরে উঠতে চাও তাহলে তোমাকে এই বলের সমান একটা বল উপরের দিকে প্রয়োগ করে নিজেকে উপরে তুলতে হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.1-p010",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই উপরের দিকে তোমার প্রয়োগ করা বল 490 N\nউপরে দিকে অতিক্রান্ত দূরত্ব: 10 × 3 m = 30 m\nকাজেই সেই কাজের পরিমাণ 490 N × 30 m = 14700 J = 14.7 kJ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.1-p011",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "ধরা যাক গতিশীল একটা বস্তু তোমার দিকে এগিয়ে আসছে, তুমি $F$ বল প্রয়োগ করে বস্তুটিকে থামানোর চেষ্টা করলে, বস্তুটি তোমাকে ঠেলে $s$ দূরত্ব পেছনে নিয়ে গেল। তোমার প্রয়োগ করা বল কতটুকু কাজ করেছে? নিশ্চয়ই লক্ষ্য করেছ এবারে অতিক্রান্ত দূরত্ব বলের দিকে নয়, বলের বিপরীত দিকে। কাজেই কাজের পরিমাণ",
+      "image": null,
+      "formulas": [
+        "F",
+        "s"
+      ],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.1-p012",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$W = F(-s) = -Fs$$",
+      "image": null,
+      "formulas": [
+        "W = F(-s) = -Fs"
+      ],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.1-p013",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "অর্থাৎ কাজটি ঋণাত্মক বা নেগেটিভ। দৈনন্দিন কথাবার্তায় আমরা কাজ এবং অকাজ বলে থাকি; কিন্তু পদার্থবিজ্ঞানের ভাষায় পজিটিভ এবং নেগেটিভ কাজের অর্থ কী? কাজটি ধনাত্মক বা পজিটিভ হলে বলা হয় বলটি কাজ করেছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

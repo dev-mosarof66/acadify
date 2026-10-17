@@ -1,0 +1,1182 @@
+{
+  "id": "higher-math-9-10-bn-c05-t5.7",
+  "key": "5.7",
+  "title": "লেখচিত্রের সাহায্যে দ্বিঘাত সমীকরণের সমাধান",
+  "chapter": 5,
+  "ordinal": 8,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "দ্বিঘাত সমীকরণ $ax^2 + bx + c = 0$ এর সমাধান আমরা ইতোপূর্বে বীজগণিতীয় পদ্ধতিতে শিখেছি। এখন লেখচিত্রের সাহায্যে ইহার সমাধান পদ্ধতি আলোচনা করা হবে।",
+      "image": null,
+      "formulas": [
+        "ax^2 + bx + c = 0"
+      ],
+      "pdfPageStart": 121,
+      "pdfPageEnd": 121,
+      "printedPageStart": 116,
+      "printedPageEnd": 116,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "মনে করি $y = ax^2 + bx + c$। তাহলে $x$ এর যে সকল মানের জন্য $y = 0$ হবে অর্থাৎ লেখচিত্রটি $x$-অক্ষকে ছেদ করবে, $x$ এর ঐ সকল মান-ই $ax^2 + bx + c = 0$ সমীকরণটির সমাধান।",
+      "image": null,
+      "formulas": [
+        "y = ax^2 + bx + c",
+        "x",
+        "y = 0",
+        "x",
+        "x",
+        "ax^2 + bx + c = 0"
+      ],
+      "pdfPageStart": 121,
+      "pdfPageEnd": 121,
+      "printedPageStart": 116,
+      "printedPageEnd": 116,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৩৩.** লেখচিত্রের সাহায্যে $x^2 - 5x + 4 = 0$ এর সমাধান করো।",
+      "image": null,
+      "formulas": [
+        "x^2 - 5x + 4 = 0"
+      ],
+      "pdfPageStart": 121,
+      "pdfPageEnd": 121,
+      "printedPageStart": 116,
+      "printedPageEnd": 116,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** প্রদত্ত সমীকরণ $x^2 - 5x + 4 = 0 \\dots (1)$ মনে করি, $y = x^2 - 5x + 4 \\dots (2)$\n$x$ এর কয়েকটি মানের জন্য $y$ এর মান নির্ণয় করে (2) নং এর কয়েকটি বিন্দুর স্থানাঙ্ক নির্ণয় করি:",
+      "image": null,
+      "formulas": [
+        "x^2 - 5x + 4 = 0 \\dots (1)",
+        "y = x^2 - 5x + 4 \\dots (2)",
+        "x",
+        "y"
+      ],
+      "pdfPageStart": 121,
+      "pdfPageEnd": 121,
+      "printedPageStart": 116,
+      "printedPageEnd": 116,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p005",
+      "kind": "table",
+      "section": null,
+      "caption": null,
+      "body": "<table><tr><th><em>x</em></th><th>0</th><th>1</th><th>2</th><th>2.5</th><th>3</th><th>4</th><th>5</th></tr>\n<tr><td><em>y</em></td><td>4</td><td>0</td><td>-2</td><td>-2.25</td><td>-2</td><td>0</td><td>4</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 121,
+      "pdfPageEnd": 121,
+      "printedPageStart": 116,
+      "printedPageEnd": 116,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "উপরের সারণিতে প্রদত্ত বিন্দুগুলো ছক কাগজে স্থাপন করে (2) নং এর লেখচিত্র অঙ্কন করি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 121,
+      "pdfPageEnd": 121,
+      "printedPageStart": 116,
+      "printedPageEnd": 116,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p007",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A coordinate plane showing a parabola with labeled points (0, 4), (1, 0), (2, -2), (2.5, -2.25), (3, -2), (4, 0), and (5, 4).",
+      "image": "p121-page_21_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 121,
+      "pdfPageEnd": 121,
+      "printedPageStart": 116,
+      "printedPageEnd": 116,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "দেখা যায় যে লেখচিত্রটি $X$ অক্ষকে $(1, 0)$ ও $(4, 0)$ বিন্দুতে ছেদ করেছে।",
+      "image": null,
+      "formulas": [
+        "X",
+        "(1, 0)",
+        "(4, 0)"
+      ],
+      "pdfPageStart": 121,
+      "pdfPageEnd": 121,
+      "printedPageStart": 116,
+      "printedPageEnd": 116,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং, (1) নং এর সমাধান $x = 1, x = 4$।",
+      "image": null,
+      "formulas": [
+        "x = 1, x = 4"
+      ],
+      "pdfPageStart": 121,
+      "pdfPageEnd": 121,
+      "printedPageStart": 116,
+      "printedPageEnd": 116,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৩৪.** লেখচিত্রের সাহায্যে $x^2 - 4x + 4 = 0$ এর সমাধান করো।",
+      "image": null,
+      "formulas": [
+        "x^2 - 4x + 4 = 0"
+      ],
+      "pdfPageStart": 121,
+      "pdfPageEnd": 121,
+      "printedPageStart": 116,
+      "printedPageEnd": 116,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** প্রদত্ত সমীকরণ $x^2 - 4x + 4 = 0 \\dots (1)$ মনে করি, $y = x^2 - 4x + 4 \\dots (2)$",
+      "image": null,
+      "formulas": [
+        "x^2 - 4x + 4 = 0 \\dots (1)",
+        "y = x^2 - 4x + 4 \\dots (2)"
+      ],
+      "pdfPageStart": 122,
+      "pdfPageEnd": 122,
+      "printedPageStart": 117,
+      "printedPageEnd": 117,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$x$ এর কয়েকটি মানের জন্য $y$ এর মান নির্ণয় করে (2) নং এর কয়েকটি বিন্দুর স্থানাঙ্ক নির্ণয় করি:",
+      "image": null,
+      "formulas": [
+        "x",
+        "y"
+      ],
+      "pdfPageStart": 122,
+      "pdfPageEnd": 122,
+      "printedPageStart": 117,
+      "printedPageEnd": 117,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p013",
+      "kind": "table",
+      "section": null,
+      "caption": null,
+      "body": "<table><tr><td><em>x</em></td><td>0</td><td>1</td><td>1.5</td><td>2</td><td>2.5</td><td>3</td><td>4</td></tr>\n<tr><td><em>y</em></td><td>4</td><td>1</td><td>0.25</td><td>0</td><td>0.25</td><td>1</td><td>4</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 122,
+      "pdfPageEnd": 122,
+      "printedPageStart": 117,
+      "printedPageEnd": 117,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "উপরের সারণি হতে প্রাপ্ত বিন্দুগুলো ছক কাগজে স্থাপন করে (2) নং এর লেখচিত্র অঙ্কন করি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 122,
+      "pdfPageEnd": 122,
+      "printedPageStart": 117,
+      "printedPageEnd": 117,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p015",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane graph showing a parabola with labeled points (0,4), (1,1), (1.5, 0.25), (2,0), (2.5, 0.25), (3,1), and (4,4) 0,4",
+      "image": "p122-page_22_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 122,
+      "pdfPageEnd": 122,
+      "printedPageStart": 117,
+      "printedPageEnd": 117,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "লেখচিত্রে দেখা যায় যে ইহা $X$ অক্ষকে $(2, 0)$ বিন্দুতে স্পর্শ করেছে। যেহেতু দিযাত সমীকরণের দুটি মূল থাকে, সেহেতু (1) নং এর সমাধান হবে $x = 2, x = 2$।",
+      "image": null,
+      "formulas": [
+        "X",
+        "(2, 0)",
+        "x = 2, x = 2"
+      ],
+      "pdfPageStart": 122,
+      "pdfPageEnd": 122,
+      "printedPageStart": 117,
+      "printedPageEnd": 117,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৩৫.** লেখচিত্রের সাহায্যে $x^2 - 2x - 1 = 0$ এর সমাধান করো।",
+      "image": null,
+      "formulas": [
+        "x^2 - 2x - 1 = 0"
+      ],
+      "pdfPageStart": 122,
+      "pdfPageEnd": 122,
+      "printedPageStart": 117,
+      "printedPageEnd": 117,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** প্রদত্ত সমীকরণ $x^2 - 2x - 1 = 0 \\dots (1)$ মনে করি, $y = x^2 - 2x - 1 \\dots (2)$",
+      "image": null,
+      "formulas": [
+        "x^2 - 2x - 1 = 0 \\dots (1)",
+        "y = x^2 - 2x - 1 \\dots (2)"
+      ],
+      "pdfPageStart": 122,
+      "pdfPageEnd": 122,
+      "printedPageStart": 117,
+      "printedPageEnd": 117,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সমীকরণটির লেখচিত্র অঙ্কনের জন্য $x$ এর কয়েকটি মান নিয়ে তাদের অনুরূপ $y$ এর মান নির্ণয় করি:",
+      "image": null,
+      "formulas": [
+        "x",
+        "y"
+      ],
+      "pdfPageStart": 122,
+      "pdfPageEnd": 122,
+      "printedPageStart": 117,
+      "printedPageEnd": 117,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p020",
+      "kind": "table",
+      "section": null,
+      "caption": null,
+      "body": "<table><tr><td><em>x</em></td><td>-1</td><td>-0.5</td><td>0</td><td>0.5</td><td>1</td><td>1.5</td><td>2</td><td>2.5</td><td>3</td></tr>\n<tr><td><em>y</em></td><td>2</td><td>0.25</td><td>-1</td><td>-1.75</td><td>-2</td><td>-1.75</td><td>-1</td><td>0.25</td><td>2</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 122,
+      "pdfPageEnd": 122,
+      "printedPageStart": 117,
+      "printedPageEnd": 117,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সারণিতে স্থাপিত বিন্দুগুলো ছক কাগজে স্থাপন করে (2) নং এর লেখচিত্র অঙ্কন করি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 122,
+      "pdfPageEnd": 122,
+      "printedPageStart": 117,
+      "printedPageEnd": 117,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p022",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A coordinate plane showing a downward-opening parabola with labeled points: (-1, 2), (3, 2), (-0.5, 0.25), (2.5, 0.25), (0, -1), (2, -1), (0.5, -1.75), (1.5, -1.75), and vertex (1, -2).",
+      "image": "p123-page_23_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "দেখা যায় যে লেখচিত্রটি $X$ অক্ষকে $(-0.4, 0)$ ও $(2.4, 0)$ বিন্দুতে ছেদ করেছে। সুতরাং, (1) নং এর সমাধান $x = -0.4$ (আসন্ন), $x = 2.4$ (আসন্ন)।",
+      "image": null,
+      "formulas": [
+        "X",
+        "(-0.4, 0)",
+        "(2.4, 0)",
+        "x = -0.4",
+        "x = 2.4"
+      ],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৩৬.** $-x^2 + 3x - 2 = 0$ এর মূলদ্বয় লেখচিত্রের সাহায্যে নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "-x^2 + 3x - 2 = 0"
+      ],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p025",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** প্রদত্ত সমীকরণ $-x^2 + 3x - 2 = 0 \\cdots (1)$ মনে করি, $y = -x^2 + 3x - 2 \\cdots (2)$",
+      "image": null,
+      "formulas": [
+        "-x^2 + 3x - 2 = 0 \\cdots (1)",
+        "y = -x^2 + 3x - 2 \\cdots (2)"
+      ],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p026",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$x$ এর কয়েকটি মানের জন্য $y$ এর মান নির্ণয় করে (2) নং এর লেখচিত্রের কয়েকটি বিন্দুর স্থানাঙ্ক নির্ণয় করি:",
+      "image": null,
+      "formulas": [
+        "x",
+        "y"
+      ],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p027",
+      "kind": "table",
+      "section": null,
+      "caption": null,
+      "body": "<table><tr><th><em>x</em></th><th>0</th><th>0.5</th><th>1</th><th>1.5</th><th>2</th><th>2.5</th><th>3</th></tr>\n<tr><td><em>y</em></td><td>-2</td><td>-0.75</td><td>0</td><td>0.25</td><td>0</td><td>-0.75</td><td>-2</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p028",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "প্রাপ্ত বিন্দুগুলো ছক কাগজে স্থাপন করে (2) নং এর লেখচিত্র অঙ্কন করি। দেখা যায় যে লেখচিত্রটি $X$ অক্ষের উপর $(1, 0)$ ও $(2, 0)$ বিন্দু দিয়ে গিয়েছে। সুতরাং (1) নং এর সমাধান $x = 1, x = 2$।",
+      "image": null,
+      "formulas": [
+        "X",
+        "(1, 0)",
+        "(2, 0)",
+        "x = 1, x = 2"
+      ],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p029",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A coordinate plane showing a parabola with points (0, -2), (1, 0), (1.5, 0.25), (2, 0), (2.5, -0.75), (3, -2), and (0.5, -0.75).",
+      "image": "p123-page_23_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p030",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৩৭.** $x^2 + 4x = m$ ক) $m = -4$ হলে, $x$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "x^2 + 4x = m",
+        "m = -4",
+        "x"
+      ],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 124,
+      "printedPageStart": 118,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p031",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $m = 5$ হলে, প্রাপ্ত সমীকরণটির নিশ্চায়ক নির্ণয় কর এবং মূলের প্রকৃতি ব্যাখ্যা করো।",
+      "image": null,
+      "formulas": [
+        "m = 5"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p032",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $\\sqrt{m - 4} + \\sqrt{m - 10} = 6$ হলে, $x$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "\\sqrt{m - 4} + \\sqrt{m - 10} = 6",
+        "x"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p033",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "ক) দেওয়া আছে, $x^2 + 4x = m$",
+      "image": null,
+      "formulas": [
+        "x^2 + 4x = m"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p034",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "এখন, $m = -4$ হলে, $x^2 + 4x = -4$",
+      "image": null,
+      "formulas": [
+        "m = -4",
+        "x^2 + 4x = -4"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p035",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $x^2 + 4x + 4 = 0$",
+      "image": null,
+      "formulas": [
+        "x^2 + 4x + 4 = 0"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p036",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $(x + 2)^2 = 0$",
+      "image": null,
+      "formulas": [
+        "(x + 2)^2 = 0"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p037",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $x + 2 = 0, x + 2 = 0$",
+      "image": null,
+      "formulas": [
+        "x + 2 = 0, x + 2 = 0"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p038",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore x = -2, -2$",
+      "image": null,
+      "formulas": [
+        "\\therefore x = -2, -2"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p039",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "খ) দেওয়া আছে, $x^2 + 4x = m$",
+      "image": null,
+      "formulas": [
+        "x^2 + 4x = m"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p040",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "এখন, $m = 5$ হলে, $x^2 + 4x = 5$",
+      "image": null,
+      "formulas": [
+        "m = 5",
+        "x^2 + 4x = 5"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p041",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $x^2 + 4x - 5 = 0$",
+      "image": null,
+      "formulas": [
+        "x^2 + 4x - 5 = 0"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p042",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "সমীকরণটির নিশ্চায়ক, $4^2 - 4 \\cdot 1 \\cdot (-5) = 16 + 20 = 36$, যা একটি পূর্ণবর্গ সংখ্যা।",
+      "image": null,
+      "formulas": [
+        "4^2 - 4 \\cdot 1 \\cdot (-5) = 16 + 20 = 36"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p043",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "যেহেতু সমীকরণটির নিশ্চায়ক ধনাত্মক এবং পূর্ণবর্গ সংখ্যা, সমীকরণটির মূলদয় বাস্তব অসমান ও মূলদ হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p044",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "গ) দেওয়া আছে, $\\sqrt{m - 4} + \\sqrt{m - 10} = 6$",
+      "image": null,
+      "formulas": [
+        "\\sqrt{m - 4} + \\sqrt{m - 10} = 6"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p045",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $\\sqrt{m - 4} = 6 - \\sqrt{m - 10}$",
+      "image": null,
+      "formulas": [
+        "\\sqrt{m - 4} = 6 - \\sqrt{m - 10}"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p046",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $(\\sqrt{m - 4})^2 = (6 - \\sqrt{m - 10})^2$",
+      "image": null,
+      "formulas": [
+        "(\\sqrt{m - 4})^2 = (6 - \\sqrt{m - 10})^2"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p047",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $m - 4 = 6^2 - 2 \\cdot 6 \\cdot \\sqrt{m - 10} + m - 10$",
+      "image": null,
+      "formulas": [
+        "m - 4 = 6^2 - 2 \\cdot 6 \\cdot \\sqrt{m - 10} + m - 10"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p048",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $12\\sqrt{m - 10} = 26 + 4$",
+      "image": null,
+      "formulas": [
+        "12\\sqrt{m - 10} = 26 + 4"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p049",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $12\\sqrt{m - 10} = 30$",
+      "image": null,
+      "formulas": [
+        "12\\sqrt{m - 10} = 30"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p050",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $2\\sqrt{m - 10} = 5$",
+      "image": null,
+      "formulas": [
+        "2\\sqrt{m - 10} = 5"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p051",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $(2\\sqrt{m - 10})^2 = 25$",
+      "image": null,
+      "formulas": [
+        "(2\\sqrt{m - 10})^2 = 25"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p052",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $4(m - 10) = 25$",
+      "image": null,
+      "formulas": [
+        "4(m - 10) = 25"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p053",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $4m - 40 - 25 = 0$",
+      "image": null,
+      "formulas": [
+        "4m - 40 - 25 = 0"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p054",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $4(x^2 + 4x) - 65 = 0$",
+      "image": null,
+      "formulas": [
+        "4(x^2 + 4x) - 65 = 0"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p055",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $4x^2 + 16x - 65 = 0$ বা, $4x^2 + 26x - 10x - 65 = 0$",
+      "image": null,
+      "formulas": [
+        "4x^2 + 16x - 65 = 0",
+        "4x^2 + 26x - 10x - 65 = 0"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 125,
+      "printedPageStart": 119,
+      "printedPageEnd": 120,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p056",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $2x(2x + 13) - 5(2x + 13) = 0$",
+      "image": null,
+      "formulas": [
+        "2x(2x + 13) - 5(2x + 13) = 0"
+      ],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p057",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $(2x + 13)(2x - 5) = 0$",
+      "image": null,
+      "formulas": [
+        "(2x + 13)(2x - 5) = 0"
+      ],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p058",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore 2x + 13 = 0$ অথবা, $2x - 5 = 0$",
+      "image": null,
+      "formulas": [
+        "\\therefore 2x + 13 = 0",
+        "2x - 5 = 0"
+      ],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p059",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $2x = -13$ বা, $2x = 5$",
+      "image": null,
+      "formulas": [
+        "2x = -13",
+        "2x = 5"
+      ],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p060",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $x = -\\frac{13}{2}$ বা, $x = \\frac{5}{2}$",
+      "image": null,
+      "formulas": [
+        "x = -\\frac{13}{2}",
+        "x = \\frac{5}{2}"
+      ],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p061",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$x = -\\frac{13}{2}$ অথবা $x = \\frac{5}{2}$ হলে সমীকরণটি সিদ্ধ হয়।",
+      "image": null,
+      "formulas": [
+        "x = -\\frac{13}{2}",
+        "x = \\frac{5}{2}"
+      ],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.7-p062",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore x = -\\frac{13}{2}, \\frac{5}{2}$",
+      "image": null,
+      "formulas": [
+        "\\therefore x = -\\frac{13}{2}, \\frac{5}{2}"
+      ],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

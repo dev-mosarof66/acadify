@@ -1,0 +1,784 @@
+{
+  "id": "higher-math-9-10-bn-c03-t3.ex",
+  "key": "3.ex",
+  "title": "অনুশীলনী ৩.১",
+  "chapter": 3,
+  "ordinal": 2,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p001",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১. $\\triangle ABC$ এর $\\angle B = 60^\\circ$ হলে প্রমাণ করো যে, $AC^2 = AB^2 + BC^2 - AB \\cdot BC$।",
+      "image": null,
+      "formulas": [
+        "\\triangle ABC",
+        "\\angle B = 60^\\circ",
+        "AC^2 = AB^2 + BC^2 - AB \\cdot BC"
+      ],
+      "pdfPageStart": 75,
+      "pdfPageEnd": 75,
+      "printedPageStart": 70,
+      "printedPageEnd": 70,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p002",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "২. $\\triangle ABC$ এর $\\angle B = 120^\\circ$ হলে প্রমাণ করো যে, $AC^2 = AB^2 + BC^2 + AB \\cdot BC$।",
+      "image": null,
+      "formulas": [
+        "\\triangle ABC",
+        "\\angle B = 120^\\circ",
+        "AC^2 = AB^2 + BC^2 + AB \\cdot BC"
+      ],
+      "pdfPageStart": 75,
+      "pdfPageEnd": 75,
+      "printedPageStart": 70,
+      "printedPageEnd": 70,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p003",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৩. $\\triangle ABC$ এর $\\angle C = 90^\\circ$ এবং $BC$ এর মধ্যবিন্দু $D$। প্রমাণ করো যে, $AB^2 = AD^2 + 3BD^2$।",
+      "image": null,
+      "formulas": [
+        "\\triangle ABC",
+        "\\angle C = 90^\\circ",
+        "BC",
+        "D",
+        "AB^2 = AD^2 + 3BD^2"
+      ],
+      "pdfPageStart": 75,
+      "pdfPageEnd": 75,
+      "printedPageStart": 70,
+      "printedPageEnd": 70,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p004",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৪. $\\triangle ABC$ এ $AD, BC$ বাহুর উপর লম্ব এবং $BE, AC$ এর উপর লম্ব। দেখাও যে, $BC \\cdot CD = AC \\cdot CE$।",
+      "image": null,
+      "formulas": [
+        "\\triangle ABC",
+        "AD, BC",
+        "BE, AC",
+        "BC \\cdot CD = AC \\cdot CE"
+      ],
+      "pdfPageStart": 75,
+      "pdfPageEnd": 75,
+      "printedPageStart": 70,
+      "printedPageEnd": 70,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p005",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৫. $\\triangle ABC$ এর $BC$ বাহু $P$ ও $Q$ বিন্দুতে তিনটি সমান অংশে বিভক্ত হয়েছে। প্রমাণ করো যে, $AB^2 + AC^2 = AP^2 + AQ^2 + 4PQ^2$।",
+      "image": null,
+      "formulas": [
+        "\\triangle ABC",
+        "BC",
+        "P",
+        "Q",
+        "AB^2 + AC^2 = AP^2 + AQ^2 + 4PQ^2"
+      ],
+      "pdfPageStart": 75,
+      "pdfPageEnd": 75,
+      "printedPageStart": 70,
+      "printedPageEnd": 70,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p006",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "[সংকেত: $BP = PQ = QC$; $\\triangle ABQ$ এর মধ্যমা $AP$।\n$AB^2 + AQ^2 = 2(BP^2 + AP^2) = 2PQ^2 + 2AP^2$।\n$\\triangle APC$ এর মধ্যমা $AQ$। $\\therefore AP^2 + AC^2 = 2PQ^2 + 2AQ^2$।]",
+      "image": null,
+      "formulas": [
+        "BP = PQ = QC",
+        "\\triangle ABQ",
+        "AP",
+        "AB^2 + AQ^2 = 2(BP^2 + AP^2) = 2PQ^2 + 2AP^2",
+        "\\triangle APC",
+        "AQ",
+        "\\therefore AP^2 + AC^2 = 2PQ^2 + 2AQ^2"
+      ],
+      "pdfPageStart": 75,
+      "pdfPageEnd": 75,
+      "printedPageStart": 70,
+      "printedPageEnd": 70,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p007",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৬. $\\triangle ABC$ এর $AB = AC$। ভূমি $BC$ এর উপর $P$ যেকোনো বিন্দু। প্রমাণ করো যে, $AB^2 - AP^2 = BP \\cdot PC$। [সংকেত: $BC$ এর উপর $AD$ লম্ব আঁকো। তাহলে $AB^2 = BD^2 + AD^2$ এবং $AP^2 = PD^2 + AD^2$।]",
+      "image": null,
+      "formulas": [
+        "\\triangle ABC",
+        "AB = AC",
+        "BC",
+        "P",
+        "AB^2 - AP^2 = BP \\cdot PC",
+        "BC",
+        "AD",
+        "AB^2 = BD^2 + AD^2",
+        "AP^2 = PD^2 + AD^2"
+      ],
+      "pdfPageStart": 75,
+      "pdfPageEnd": 75,
+      "printedPageStart": 70,
+      "printedPageEnd": 70,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p008",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৭. $\\triangle ABC$ এর মধ্যমাত্রয় $G$ বিন্দুতে মিলিত হলে প্রমাণ করো যে, $AB^2 + BC^2 + AC^2 = 3(GA^2 + GB^2 + GC^2)$।",
+      "image": null,
+      "formulas": [
+        "\\triangle ABC",
+        "G",
+        "AB^2 + BC^2 + AC^2 = 3(GA^2 + GB^2 + GC^2)"
+      ],
+      "pdfPageStart": 75,
+      "pdfPageEnd": 75,
+      "printedPageStart": 70,
+      "printedPageEnd": 70,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p009",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "[সংকেত: অ্যাপোলোনিয়াসের উপপাদ্যের আলোকে গৃহীত সিদ্ধান্তসমূহ ব্যবহার করতে হবে অর্থাৎ ত্রিভুজের বাহুর দৈর্ঘ্য ও মধ্যমার সম্পর্ক ব্যবহার করতে হবে।]",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 75,
+      "pdfPageEnd": 75,
+      "printedPageStart": 70,
+      "printedPageEnd": 70,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p010",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৩.২",
+      "caption": null,
+      "body": "১. $ABC$ ত্রিভুজের পরিবৃত্তস্থ যেকোনো বিন্দু $P$ থেকে $BC$ ও $CA$ এর উপর $PD$ ও $PE$ লম্ব অঙ্কন করা হয়েছে। যদি $ED$ রেখাংশ $AB$ কে $O$ বিন্দুতে ছেদ করে, তবে প্রমাণ করো যে, $PO$ রেখা $AB$ এর উপর লম্ব, অর্থাৎ $PO \\perp AB$।",
+      "image": null,
+      "formulas": [
+        "ABC",
+        "P",
+        "BC",
+        "CA",
+        "PD",
+        "PE",
+        "ED",
+        "AB",
+        "O",
+        "PO",
+        "AB",
+        "PO \\perp AB"
+      ],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p011",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৩.২",
+      "caption": null,
+      "body": "২. $\\triangle ABC$ এর $\\angle C$ সমকোণ। $C$ থেকে অতিভুজের উপর অঙ্কিত লম্ব $CD$ হলে, প্রমাণ করো যে, $CD^2 = AD \\cdot BD$।",
+      "image": null,
+      "formulas": [
+        "\\triangle ABC",
+        "\\angle C",
+        "C",
+        "CD",
+        "CD^2 = AD \\cdot BD"
+      ],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p012",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৩.২",
+      "caption": null,
+      "body": "৩. $\\triangle ABC$ এর শীর্ষত্রয় থেকে বিপরীত বাহুগুলোর উপর লম্ব $AD, BE$ ও $CF$ রেখাত্রয় $O$ বিন্দুতে ছেদ করে। প্রমাণ করো যে, $AO \\cdot OD = BO \\cdot OE = CO \\cdot OF$।",
+      "image": null,
+      "formulas": [
+        "\\triangle ABC",
+        "AD, BE",
+        "CF",
+        "O",
+        "AO \\cdot OD = BO \\cdot OE = CO \\cdot OF"
+      ],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p013",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৩.২",
+      "caption": null,
+      "body": "[সংকেত: $\\triangle BOF$ এবং $\\triangle COE$ সদৃশ। $\\therefore BO : CO = OF : OE$।]",
+      "image": null,
+      "formulas": [
+        "\\triangle BOF",
+        "\\triangle COE",
+        "\\therefore BO : CO = OF : OE"
+      ],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p014",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৩.২",
+      "caption": null,
+      "body": "৪. $AB$ ব্যাসের উপর অঙ্কিত অর্ধবৃত্তের দুটি জ্যা $AC$ ও $BD$ পরস্পর $P$ বিন্দুতে ছেদ করে। প্রমাণ করো যে, $AB^2 = AC \\cdot AP + BD \\cdot BP$।",
+      "image": null,
+      "formulas": [
+        "AB",
+        "AC",
+        "BD",
+        "P",
+        "AB^2 = AC \\cdot AP + BD \\cdot BP"
+      ],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p015",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৩.২",
+      "caption": null,
+      "body": "৫. $ABC$ সমদ্বিভাউ ত্রিভুজের শীর্ষবিন্দু $A$ হতে ভূমি $BC$ এর উপর অঙ্কিত লম্ব $AD$ এবং ত্রিভুজের পরিব্যাসার্ধ $R$ হলে প্রমাণ করো যে, $AB^2 = 2R \\cdot AD$।",
+      "image": null,
+      "formulas": [
+        "ABC",
+        "A",
+        "BC",
+        "AD",
+        "R",
+        "AB^2 = 2R \\cdot AD"
+      ],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p016",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৩.২",
+      "caption": null,
+      "body": "৬. $ABC$ ত্রিভুজের $\\angle A$ এর সমদ্বিখণ্ডক $BC$ কে $D$ বিন্দুতে এবং $ABC$ পরিবৃত্তকে $E$ বিন্দুতে ছেদ করেছে। দেখাও যে, $AD^2 = AB \\cdot AC - BD \\cdot DC$।",
+      "image": null,
+      "formulas": [
+        "ABC",
+        "\\angle A",
+        "BC",
+        "D",
+        "ABC",
+        "E",
+        "AD^2 = AB \\cdot AC - BD \\cdot DC"
+      ],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p017",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৩.২",
+      "caption": null,
+      "body": "৭. $ABC$ ত্রিভুজের $AC$ ও $AB$ বাহুর উপর যথাক্রমে $BE$ ও $CF$ লম্ব। দেখাও যে, $\\triangle ABC : \\triangle AEF = AB^2 : AE^2$।",
+      "image": null,
+      "formulas": [
+        "ABC",
+        "AC",
+        "AB",
+        "BE",
+        "CF",
+        "\\triangle ABC : \\triangle AEF = AB^2 : AE^2"
+      ],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p018",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৩.২",
+      "caption": null,
+      "body": "৮. $\\triangle PQR$ এ $PM, QN$ ও $RS$ মধ্যমত্রয় $O$ বিন্দুতে ছেদ করেছে।",
+      "image": null,
+      "formulas": [
+        "\\triangle PQR",
+        "PM, QN",
+        "RS",
+        "O"
+      ],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p019",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৩.২",
+      "caption": null,
+      "body": "ক) $O$ বিন্দুটির নাম কী? $O$ বিন্দু $PM$ কে কী অনুপাতে বিভক্ত করে?",
+      "image": null,
+      "formulas": [
+        "O",
+        "O",
+        "PM"
+      ],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p020",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৩.২",
+      "caption": null,
+      "body": "খ) $\\triangle PQR$ হতে $PQ^2 + PR^2 = 2(PM^2 + QM^2)$ সম্পর্কটি প্রতিষ্ঠিত করো।",
+      "image": null,
+      "formulas": [
+        "\\triangle PQR",
+        "PQ^2 + PR^2 = 2(PM^2 + QM^2)"
+      ],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p021",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৩.২",
+      "caption": null,
+      "body": "গ) দেখাও যে, $\\triangle PQR$ এর বাহু তিনটির বর্গের সমষ্টি $O$ বিন্দু হতে শীর্ষবিন্দু তিনটির দূরত্বের বর্গের সমষ্টির তিনগুণ।",
+      "image": null,
+      "formulas": [
+        "\\triangle PQR",
+        "O"
+      ],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p022",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "১. একটি সমবাহু ত্রিভুজের প্রতিটি মধ্যমার দৈর্ঘ্য ৩ সে.মি. হলে প্রতিটি বাহুর দৈর্ঘ্য কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p023",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "ক) 4.5 সে.মি. খ) 3.46 সে.মি. গ) 3.35 সে.মি. ঘ) 2.59 সে.মি.",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p024",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "২. $\\triangle ABC$ এর ক্ষেত্রে-",
+      "image": null,
+      "formulas": [
+        "\\triangle ABC"
+      ],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p025",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(i) $\\angle ACB$ তুলকোণ হলে $AB^2 > AC^2 + BC^2$",
+      "image": null,
+      "formulas": [
+        "\\angle ACB",
+        "AB^2 > AC^2 + BC^2"
+      ],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p026",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ii) $\\angle ACB$ সমকোণ হলে $AB^2 = AC^2 + BC^2$",
+      "image": null,
+      "formulas": [
+        "\\angle ACB",
+        "AB^2 = AC^2 + BC^2"
+      ],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p027",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(iii) $\\angle ACB$ সূক্ষ্মকোণ হলে $AB^2 < AC^2 + BC^2$",
+      "image": null,
+      "formulas": [
+        "\\angle ACB",
+        "AB^2 < AC^2 + BC^2"
+      ],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p028",
+      "kind": "figure",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "drawing: A geometric diagram showing a triangle ABC inscribed in a circle, with medians AD, BE, and CF intersecting at the centroid G.",
+      "image": "p85-page_18_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p029",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "উপরের চিত্রে $D, E, F$ যথাক্রমে $BC, AC$ ও $AB$ এর মধ্যবিন্দু। সেই আলোকে ৩-৪ নং প্রশ্নের উত্তর দাও:",
+      "image": null,
+      "formulas": [
+        "D, E, F",
+        "BC, AC",
+        "AB"
+      ],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p030",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৩. $G$ বিন্দুর নাম কী?",
+      "image": null,
+      "formulas": [
+        "G"
+      ],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p031",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "ক) লম্ববিন্দু খ) অন্তঃকেন্দ্র গ) ভরকেন্দ্র ঘ) পরিকেন্দ্র",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p032",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৪. $\\triangle ABC$ এর ক্ষেত্রে নিচের কোনটি অ্যাপোলোনিয়াসের উপপাদ্যকে সমর্থন করে?",
+      "image": null,
+      "formulas": [
+        "\\triangle ABC"
+      ],
+      "pdfPageStart": 86,
+      "pdfPageEnd": 86,
+      "printedPageStart": 81,
+      "printedPageEnd": 81,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p033",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "ক) $AB^2 + AC^2 = BC^2$ খ) $AB^2 + AC^2 = 2(AD^2 + BD^2)$\nগ) $AB^2 + AC^2 = 2(AG^2 + GD^2)$ ঘ) $AB^2 + AC^2 = 2(BD^2 + CD^2)$",
+      "image": null,
+      "formulas": [
+        "AB^2 + AC^2 = BC^2",
+        "AB^2 + AC^2 = 2(AD^2 + BD^2)",
+        "AB^2 + AC^2 = 2(AG^2 + GD^2)",
+        "AB^2 + AC^2 = 2(BD^2 + CD^2)"
+      ],
+      "pdfPageStart": 86,
+      "pdfPageEnd": 86,
+      "printedPageStart": 81,
+      "printedPageEnd": 81,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p034",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "৫. নিচের চিত্রে $S, O$ যথাক্রমে $\\triangle ABC$ এর পরিকেন্দ্র ও লম্ববিন্দু। $AP$ মধ্যমা, $BC = a$, $AC = b$ এবং $AB = c$।",
+      "image": null,
+      "formulas": [
+        "S, O",
+        "\\triangle ABC",
+        "AP",
+        "BC = a",
+        "AC = b",
+        "AB = c"
+      ],
+      "pdfPageStart": 86,
+      "pdfPageEnd": 86,
+      "printedPageStart": 81,
+      "printedPageEnd": 81,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p035",
+      "kind": "figure",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "drawing: A geometric diagram of a triangle ABC inscribed in a circle with various internal lines and points labeled A, B, C, P, D, R, S, G, O, and E.",
+      "image": "p86-page_19_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 86,
+      "pdfPageEnd": 86,
+      "printedPageStart": 81,
+      "printedPageEnd": 81,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p036",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(ক) চিত্র অঙ্কন করে $BC$ এর উপর $BE$ এর লম্ব অভিক্ষেপ চিহ্নিত করো।\nখ) দেখাও যে, $S, G, O$ একই সরলরেখায় অবস্থিত।\nগ) $\\angle C$ সূক্ষ্মকোণ হলে $a \\cdot CD = b \\cdot CE$ সমীকরণটি প্রতিষ্ঠিত করো।",
+      "image": null,
+      "formulas": [
+        "BC",
+        "BE",
+        "S, G, O",
+        "\\angle C",
+        "a \\cdot CD = b \\cdot CE"
+      ],
+      "pdfPageStart": 86,
+      "pdfPageEnd": 86,
+      "printedPageStart": 81,
+      "printedPageEnd": 81,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.ex-p037",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "৬. ক) কোনো ত্রিভুজের তিনটি বাহুর দৈর্ঘ্য ৪ সেমি, ৫ সেমি এবং ৬ সেমি হলে, ত্রিভুজটির মধ্যমাগুলোর বর্গের সমষ্টি নির্ণয় করো।\nখ) কোনো সমকোণী ত্রিভুজের মধ্যমাগুলোর বর্গের সমষ্টি ৩৭.৫ বর্গ একক হলে, ত্রিভুজটির অতিভুজের দৈর্ঘ্য নির্ণয় করো।\nগ) কোনো সমবাহু ত্রিভুজের পরিবৃত্তের ব্যাসার্ধ ৩ সে.মি. হলে ঐ ত্রিভুজের বাহুর দৈর্ঘ্য নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 86,
+      "pdfPageEnd": 86,
+      "printedPageStart": 81,
+      "printedPageEnd": 81,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.8",
+  "key": "1.8",
+  "title": "সেটের অন্তর (Difference of Sets)",
+  "chapter": 1,
+  "ordinal": 8,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.8-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$A$ ও $B$ সেট হলে $A \\setminus B$ সেটটি হচ্ছে $\\{x : x \\in A  এবং  x \\notin B\\}$।",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "A \\setminus B",
+        "\\{x : x \\in A  এবং  x \\notin B\\}"
+      ],
+      "pdfPageStart": 8,
+      "pdfPageEnd": 8,
+      "printedPageStart": 3,
+      "printedPageEnd": 3,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.8-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$A \\setminus B$ কে $A$ বাদ $B$ সেট বলা হয় এবং $A$ এর যে সকল উপাদান $B$ তে আছে সেগুলো $A$ থেকে বর্জন করে $A \\setminus B$ গঠন করা হয়। $A \\setminus B \\subseteq A$।",
+      "image": null,
+      "formulas": [
+        "A \\setminus B",
+        "A",
+        "B",
+        "A",
+        "B",
+        "A",
+        "A \\setminus B",
+        "A \\setminus B \\subseteq A"
+      ],
+      "pdfPageStart": 8,
+      "pdfPageEnd": 8,
+      "printedPageStart": 3,
+      "printedPageEnd": 3,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.8-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৪.** $A = \\{0, 1, 2, 3, 4, 5, 6, 7, 8, 9\\}$ এবং $B = \\{0, 2, 4, 6, 8, 10\\}$ হলে\n$A \\setminus B = \\{1, 3, 5, 7, 9\\}$।",
+      "image": null,
+      "formulas": [
+        "A = \\{0, 1, 2, 3, 4, 5, 6, 7, 8, 9\\}",
+        "B = \\{0, 2, 4, 6, 8, 10\\}",
+        "A \\setminus B = \\{1, 3, 5, 7, 9\\}"
+      ],
+      "pdfPageStart": 8,
+      "pdfPageEnd": 8,
+      "printedPageStart": 3,
+      "printedPageEnd": 3,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

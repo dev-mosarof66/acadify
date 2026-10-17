@@ -1,0 +1,79 @@
+{
+  "id": "chemistry-9-10-bn-c06",
+  "textbookId": "chemistry-9-10-bn",
+  "number": 6,
+  "title": "মোলের ধারণা ও রাসায়নিক গণনা",
+  "englishTitle": "Concept of Mole and Chemical Counting",
+  "pdfPages": [
+    114,
+    146
+  ],
+  "printedPages": [
+    109,
+    141
+  ],
+  "topics": [
+    {
+      "key": "6.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/6.0.json",
+      "passages": 3
+    },
+    {
+      "key": "6.1",
+      "title": "মোল (Mole)",
+      "file": "topics/6.1.json",
+      "passages": 108
+    },
+    {
+      "key": "6.2",
+      "title": "যৌগে মোলের শতকরা সংযুতি",
+      "file": "topics/6.2.json",
+      "passages": 79
+    },
+    {
+      "key": "6.3",
+      "title": "রাসায়নিক বিক্রিয়া ও রাসায়নিক সমীকরণ",
+      "file": "topics/6.3.json",
+      "passages": 85
+    },
+    {
+      "key": "6.4",
+      "title": "লিমিটিং বিক্রিয়ক (Limiting Reactant)",
+      "file": "topics/6.4.json",
+      "passages": 18
+    },
+    {
+      "key": "6.5",
+      "title": "উৎপাদের শতকরা পরিমাণ হিসাব",
+      "file": "topics/6.5.json",
+      "passages": 42
+    },
+    {
+      "key": "6.ex",
+      "title": "নমুনা প্রশ্ন",
+      "file": "topics/6.ex.json",
+      "passages": 17
+    }
+  ],
+  "stats": {
+    "topics": 7,
+    "passages": 352,
+    "images": 5,
+    "byKind": {
+      "figure": 9,
+      "text": 243,
+      "example": 18,
+      "formula": 64,
+      "table": 1,
+      "exercise": 17
+    },
+    "byReason": {
+      "verify-formula": 144,
+      "latin-junk": 14,
+      "known-confusable-corrected": 6,
+      "verify-table": 1
+    },
+    "needsReview": 153
+  }
+}

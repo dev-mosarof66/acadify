@@ -1,0 +1,602 @@
+{
+  "id": "chemistry-9-10-bn-c11-t11.4",
+  "key": "11.4",
+  "title": "অসম্পূর্ণ হাইড্রোকার্বন: অ্যালকিন ও অ্যালকাইন",
+  "chapter": 11,
+  "ordinal": 4,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p001",
+      "kind": "text",
+      "section": "১১.৪.১ অ্যালকিন (Alkenes)",
+      "caption": null,
+      "body": "যে জৈব যৌগের কার্বন শিকলে অন্তত একটি কার্বন-কার্বন দ্বিবন্ধন থাকে তাকে অ্যালকিন বলে। অ্যালকিনের সাধারণ সংকেত $C_nH_{2n}$। অ্যালকিনের নিম্নতর সদস্যগুলো (ইথিন, প্রোপিন ইত্যাদি)",
+      "image": null,
+      "formulas": [
+        "C_nH_{2n}"
+      ],
+      "pdfPageStart": 277,
+      "pdfPageEnd": 277,
+      "printedPageStart": 272,
+      "printedPageEnd": 272,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p002",
+      "kind": "text",
+      "section": "১১.৪.১ অ্যালকিন (Alkenes)",
+      "caption": null,
+      "body": "হ্যালোজেনের (Cl<sub>2</sub>, Br<sub>2</sub>) এর সঙ্গে বিক্রিয়ায় তৈলাক্ত পদার্থ উৎপন্ন করে বলে অ্যালকিনিকে অনেক সময় অলিফিন (Olefin, Greek: Olefiant = oil forming) বলে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 278,
+      "pdfPageEnd": 278,
+      "printedPageStart": 273,
+      "printedPageEnd": 273,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p003",
+      "kind": "text",
+      "section": "অ্যালকিনের নামকরণ",
+      "caption": null,
+      "body": "IUPAC পদ্ধতিতে অ্যালকেনের নামের শেষের এন (ane) বাদ দিয়ে ইন (ene) যোগ করে অ্যালকিনের নামকরণ করতে হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 278,
+      "pdfPageEnd": 278,
+      "printedPageStart": 273,
+      "printedPageEnd": 273,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p004",
+      "kind": "table",
+      "section": "অ্যালকিনের নামকরণ",
+      "caption": null,
+      "body": "<table><tr><th>অ্যালকেন (Alkane)</th><th>অ্যালকিন (Alkene)</th><th>অ্যালকিনের সংকেত</th></tr>\n<tr><td>ইথেন (Ethane)</td><td>ইথিন (Ethene)</td><td>CH<sub>2</sub>=CH<sub>2</sub></td></tr>\n<tr><td>প্রোপেন (Propane)</td><td>প্রোপিন (Propene)</td><td>CH<sub>3</sub>-CH=CH<sub>2</sub></td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 278,
+      "pdfPageEnd": 278,
+      "printedPageStart": 273,
+      "printedPageEnd": 273,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p005",
+      "kind": "text",
+      "section": "অ্যালকিনের প্রস্তুতি",
+      "caption": null,
+      "body": "**ইথাইল ক্লোরাইড থেকে:** ইথাইল ক্লোরাইড এর সাথে সোডিয়াম হাইড্রোক্সাইডের অ্যালকোহলীয় দ্রবণকে উত্তপ্ত করলে ইথিন, সোডিয়াম ক্লোরাইড এবং পানি উৎপন্ন হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 278,
+      "pdfPageEnd": 278,
+      "printedPageStart": 273,
+      "printedPageEnd": 273,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p006",
+      "kind": "text",
+      "section": "অ্যালকিনের প্রস্তুতি",
+      "caption": null,
+      "body": "$$CH_3-CH_2Cl + NaOH \\xrightarrow{Alcoholic} CH_2=CH_2 + NaCl + H_2O$$\nইথাইল ক্লোরাইড সোডিয়াম হাইড্রোক্সাইড ইথিন সোডিয়াম ক্লোরাইড পানি",
+      "image": null,
+      "formulas": [
+        "CH_3-CH_2Cl + NaOH \\xrightarrow{Alcoholic} CH_2=CH_2 + NaCl + H_2O"
+      ],
+      "pdfPageStart": 278,
+      "pdfPageEnd": 278,
+      "printedPageStart": 273,
+      "printedPageEnd": 273,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p007",
+      "kind": "text",
+      "section": "অ্যালকিনের প্রস্তুতি",
+      "caption": null,
+      "body": "**ইথানল থেকে:** ইথানলের সাথে অতিরিক্ত গাঢ় সালফিউরিক এসিডকে উত্তপ্ত করলে ইথিন এবং পানি উৎপন্ন হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 278,
+      "pdfPageEnd": 278,
+      "printedPageStart": 273,
+      "printedPageEnd": 273,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p008",
+      "kind": "text",
+      "section": "অ্যালকিনের প্রস্তুতি",
+      "caption": null,
+      "body": "$$CH_3-CH_2-OH \\xrightarrow{H_2SO_4} CH_2=CH_2 + H_2O$$\nইথানল ইথিন পানি",
+      "image": null,
+      "formulas": [
+        "CH_3-CH_2-OH \\xrightarrow{H_2SO_4} CH_2=CH_2 + H_2O"
+      ],
+      "pdfPageStart": 278,
+      "pdfPageEnd": 278,
+      "printedPageStart": 273,
+      "printedPageEnd": 273,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p009",
+      "kind": "text",
+      "section": "অ্যালকিনের রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "অ্যালকিনে কার্বন-কার্বন দ্বিবন্ধন থাকে। এই দ্বিবন্ধন থাকার কারণে এরা রাসায়নিকভাবে খুবই সক্রিয়। কারণ দ্বিবন্ধনের একটি বন্ধন শক্তিশালী হলেও অন্যটি তুলনামূলকভাবে দুর্বল। সাধারণত বিক্রিয়া করার সময় অ্যালকিনের দুর্বল বন্ধন ভেঙে যায় এবং সংযোজন বিক্রিয়ায় অংশগ্রহণ করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 278,
+      "pdfPageEnd": 278,
+      "printedPageStart": 273,
+      "printedPageEnd": 273,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p010",
+      "kind": "text",
+      "section": "অ্যালকিনের রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "**হাইড্রোজেন সংযোজন:** নিকেল প্রভাবকের উপস্থিতিতে ইথিনকে হাইড্রোজেনের সাথে 180-200°C তাপমাত্রায় উত্তপ্ত করলে ইথেন উৎপন্ন হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 278,
+      "pdfPageEnd": 278,
+      "printedPageStart": 273,
+      "printedPageEnd": 273,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p011",
+      "kind": "text",
+      "section": "অ্যালকিনের রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "$$CH_2 = CH_2 + H_2 \\xrightarrow[180-200^\\circC]{Ni} CH_3-CH_3$$\nইথিন হাইড্রোজেন ইথেন",
+      "image": null,
+      "formulas": [
+        "CH_2 = CH_2 + H_2 \\xrightarrow[180-200^\\circC]{Ni} CH_3-CH_3"
+      ],
+      "pdfPageStart": 278,
+      "pdfPageEnd": 278,
+      "printedPageStart": 273,
+      "printedPageEnd": 273,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p012",
+      "kind": "text",
+      "section": "অ্যালকিনের রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "**পানি সংযোজন:** ফসফরিক এসিড প্রভাবকের উপস্থিতিতে ইথিন পানির বাষ্পের সাথে উচ্চ তাপ এবং উচ্চ চাপে বিক্রিয়া করে ইথানল উৎপন্ন করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 279,
+      "pdfPageEnd": 279,
+      "printedPageStart": 274,
+      "printedPageEnd": 274,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p013",
+      "kind": "text",
+      "section": "অ্যালকিনের রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "$$CH_2 = CH_2 + H_2O \\xrightarrow[ফসফরিক এসিড]{উচ্চ তাপ এবং উচ্চ চাপ} CH_3-CH_2OH$$\nইথিন পানি ইথানল\n(H<sub>3</sub>PO<sub>4</sub>)",
+      "image": null,
+      "formulas": [
+        "CH_2 = CH_2 + H_2O \\xrightarrow[ফসফরিক এসিড]{উচ্চ তাপ এবং উচ্চ চাপ} CH_3-CH_2OH"
+      ],
+      "pdfPageStart": 279,
+      "pdfPageEnd": 279,
+      "printedPageStart": 274,
+      "printedPageEnd": 274,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p014",
+      "kind": "text",
+      "section": "অ্যালকিনের রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "অ্যালকোহলকে পরিবেশবান্ধব জ্বালানি হিসেবে ব্যবহার করা হয় এবং পেট্রোলিয়াম শিল্পে দ্রাবক হিসেবে ব্যবহার করা হয় বলে এই বিক্রিয়া অত্যন্ত গুরুত্বপূর্ণ।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 279,
+      "pdfPageEnd": 279,
+      "printedPageStart": 274,
+      "printedPageEnd": 274,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p015",
+      "kind": "text",
+      "section": "অ্যালকিনের রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "**ব্রোমিন সংযোজন:** ইথিনের মধ্যে লাল বর্ণের ব্রোমিন দ্রবণ যোগ করলে ইথিন লাল বর্ণের ব্রোমিন দ্রবণের সাথে বিক্রিয়া করে ডাইব্রোমো ইথেন উৎপন্ন করে। এই বিক্রিয়ায় ব্রোমিনের লাল বর্ণ অপসারিত হয়। সকল অসম্পূর্ণ হাইড্রোকার্বন এই বিক্রিয়া প্রদর্শন করে। ইথিন যে অসম্পূর্ণ যৌগ তা এই বিক্রিয়া দ্বারা প্রমাণিত হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 279,
+      "pdfPageEnd": 279,
+      "printedPageStart": 274,
+      "printedPageEnd": 274,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p016",
+      "kind": "text",
+      "section": "অ্যালকিনের রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "$$CH_2 = CH_2 + Br_2 \\longrightarrow CH_2Br-CH_2Br$$\nইথিন ব্রোমিন ডাইব্রোমো ইথেন",
+      "image": null,
+      "formulas": [
+        "CH_2 = CH_2 + Br_2 \\longrightarrow CH_2Br-CH_2Br"
+      ],
+      "pdfPageStart": 279,
+      "pdfPageEnd": 279,
+      "printedPageStart": 274,
+      "printedPageEnd": 274,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p017",
+      "kind": "text",
+      "section": "অ্যালকিনের রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "**পটাশিয়াম পারম্যাঙ্গানেট (জায়মান অক্সিজেন) দ্বারা জারণ:** ইথিনের মধ্যে পটাশিয়াম পারম্যাঙ্গানেট এর গোলাপি বর্ণের দ্রবণ এবং পটাশিয়াম হাইড্রোক্লোরাইড যোগ করলে ইথিলিন গ্লাইকল উৎপন্ন করে। এই বিক্রিয়ায় পটাশিয়াম পারম্যাঙ্গানেট এর গোলাপি বর্ণ অপসারিত হয়। সকল অসম্পূর্ণ হাইড্রোকার্বন এই বিক্রিয়া প্রদর্শন করে। ইথিন যে অসম্পূর্ণ যৌগ তা এই বিক্রিয়া দ্বারা প্রমাণিত হয়। (প্রথমে পটাশিয়াম পারম্যাঙ্গানেট এবং পটাশিয়াম হাইড্রোক্লোরাইড বিক্রিয়া করে যে জায়মান অক্সিজেন তৈরি করে, সেই জায়মান অক্সিজেন এবং দ্রবণের পানি ইথিনের সাথে বিক্রিয়ায় অংশগ্রহণ করে ইথিলিন গ্লাইকল উৎপন্ন করে।)",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 279,
+      "pdfPageEnd": 279,
+      "printedPageStart": 274,
+      "printedPageEnd": 274,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p018",
+      "kind": "text",
+      "section": "অ্যালকিনের রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "$$CH_2 = CH_2 + H_2O + [O] \\xrightarrow[KOH]{KMnO_4} CH_2OH-CH_2OH$$\nইথিন পানি ইথিলিন গ্লাইকল",
+      "image": null,
+      "formulas": [
+        "CH_2 = CH_2 + H_2O + [O] \\xrightarrow[KOH]{KMnO_4} CH_2OH-CH_2OH"
+      ],
+      "pdfPageStart": 279,
+      "pdfPageEnd": 279,
+      "printedPageStart": 274,
+      "printedPageEnd": 274,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p019",
+      "kind": "text",
+      "section": "অ্যালকিনের রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "**ইথিনের পলিমারকরণ বিক্রিয়া:** সামান্য পরিমাণ অক্সিজেনের উপস্থিতিতে 1000 atm চাপে ও 200°C তাপমাত্রায় ইথিনকে উত্তপ্ত করলে পলিথিন উৎপন্ন হয়। এই বিক্রিয়াকে পলিমারকরণ বিক্রিয়া বলে। এই বিক্রিয়ায় ইথিনকে মনোমার বলা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 279,
+      "pdfPageEnd": 279,
+      "printedPageStart": 274,
+      "printedPageEnd": 274,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p020",
+      "kind": "text",
+      "section": "অ্যালকিনের রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "$$nCH_2 = CH_2 \\xrightarrow[200^\\circC তাপমাত্রা, সামান্য অক্সিজেন]{1000 atm} (-CH_2-CH_2-)_n$$\nইথিন পলিথিন",
+      "image": null,
+      "formulas": [
+        "nCH_2 = CH_2 \\xrightarrow[200^\\circC তাপমাত্রা, সামান্য অক্সিজেন]{1000 atm} (-CH_2-CH_2-)_n"
+      ],
+      "pdfPageStart": 279,
+      "pdfPageEnd": 279,
+      "printedPageStart": 274,
+      "printedPageEnd": 274,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p021",
+      "kind": "text",
+      "section": "১১.৪.২ অ্যালকাইন (Alkynes)",
+      "caption": null,
+      "body": "যে জৈব যৌগে কার্বন শিকলে অন্তত একটি কার্বন-কার্বন ত্রিবন্ধন ($-C \\equiv C-$) থাকে তাকে অ্যালকাইন বলে। তাই অ্যালকাইনের সাধারণ সংকেত $C_nH_{2n-2}$। অ্যালকাইন শ্রেণির সূচ্রতম সরল সদস্য ইথাইন ($CH \\equiv CH$) বা এসিটিলিন (acetylene)।",
+      "image": null,
+      "formulas": [
+        "-C \\equiv C-",
+        "C_nH_{2n-2}",
+        "CH \\equiv CH"
+      ],
+      "pdfPageStart": 280,
+      "pdfPageEnd": 280,
+      "printedPageStart": 275,
+      "printedPageEnd": 275,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p022",
+      "kind": "text",
+      "section": "অ্যালকাইনের নামকরণ",
+      "caption": null,
+      "body": "অ্যালকেনের নামের শেষের এন (ane) বাদ দিয়ে আইন (yne) যোগ করে অ্যালকাইনের নামকরণ করা হয়। যেমন: $CH \\equiv CH$ এর নাম ইথাইন, $CH_3-C \\equiv CH$ এর নাম প্রোপাইন, $CH_3-C \\equiv C-CH_3$ এর নাম বিউটাইন-২।",
+      "image": null,
+      "formulas": [
+        "CH \\equiv CH",
+        "CH_3-C \\equiv CH",
+        "CH_3-C \\equiv C-CH_3"
+      ],
+      "pdfPageStart": 280,
+      "pdfPageEnd": 280,
+      "printedPageStart": 275,
+      "printedPageEnd": 275,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p023",
+      "kind": "text",
+      "section": "অ্যালকাইনের প্রস্তুতি",
+      "caption": null,
+      "body": "ক্যালসিয়াম কার্বাইড থেকে: ক্যালসিয়াম কার্বাইডের মধ্যে পানি যোগ করলে ইথাইন এবং ক্যালসিয়াম হাইড্রোক্সাইড উৎপন্ন হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 280,
+      "pdfPageEnd": 280,
+      "printedPageStart": 275,
+      "printedPageEnd": 275,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p024",
+      "kind": "formula",
+      "section": "অ্যালকাইনের প্রস্তুতি",
+      "caption": null,
+      "body": "$$CaC_2 + 2H_2O \\longrightarrow CH \\equiv CH + Ca(OH)_2$$",
+      "image": null,
+      "formulas": [
+        "CaC_2 + 2H_2O \\longrightarrow CH \\equiv CH + Ca(OH)_2"
+      ],
+      "pdfPageStart": 280,
+      "pdfPageEnd": 280,
+      "printedPageStart": 275,
+      "printedPageEnd": 275,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p025",
+      "kind": "text",
+      "section": "অ্যালকাইনের প্রস্তুতি",
+      "caption": null,
+      "body": "ক্যালসিয়াম কার্বাইড          পানি                      ইথাইন          ক্যালসিয়াম হাইড্রোক্সাইড",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 280,
+      "pdfPageEnd": 280,
+      "printedPageStart": 275,
+      "printedPageEnd": 275,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p026",
+      "kind": "text",
+      "section": "অ্যালকাইনের রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "অ্যালকাইনে কার্বন-কার্বন ত্রিবন্ধন থাকে। এখানে একটি বন্ধন শক্তিশালী এবং অন্য দুইটি দুর্বল বন্ধন থাকে। অ্যালকাইনে এই দুর্বল বন্ধনগুলো ভেঙে সংযোজন বিক্রিয়ায় অংশগ্রহণ করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 280,
+      "pdfPageEnd": 280,
+      "printedPageStart": 275,
+      "printedPageEnd": 275,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p027",
+      "kind": "text",
+      "section": "অ্যালকাইনের রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "**হাইড্রোজেন সংযোজন:** তোমরা এর মাঝে জেনে গেছ, নিকেল প্রভাবকের উপস্থিতিতে ইথাইনকে হাইড্রোজেনের সাথে ১৮০-২০০°C তাপমাত্রায় উত্তপ্ত করলে ইথেন উৎপন্ন হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 280,
+      "pdfPageEnd": 280,
+      "printedPageStart": 275,
+      "printedPageEnd": 275,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p028",
+      "kind": "formula",
+      "section": "অ্যালকাইনের রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "$$CH \\equiv CH + 2H_2 \\xrightarrow[180-200^\\circC]{Ni} CH_3-CH_3$$",
+      "image": null,
+      "formulas": [
+        "CH \\equiv CH + 2H_2 \\xrightarrow[180-200^\\circC]{Ni} CH_3-CH_3"
+      ],
+      "pdfPageStart": 280,
+      "pdfPageEnd": 280,
+      "printedPageStart": 275,
+      "printedPageEnd": 275,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p029",
+      "kind": "text",
+      "section": "অ্যালকাইনের রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "ইথাইন                      হাইড্রোজেন                      ইথেন",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 280,
+      "pdfPageEnd": 280,
+      "printedPageStart": 275,
+      "printedPageEnd": 275,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p030",
+      "kind": "text",
+      "section": "অ্যালকাইনের রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "**ব্রোমিন সংযোজন:** ইথাইনের মধ্যে লাল বর্ণের ব্রোমিন দ্রবণ যোগ করলে ইথাইন লাল বর্ণের ব্রোমিন দ্রবণের সাথে বিক্রিয়া করে টেট্রা ব্রোমো ইথেন উৎপন্ন করে। এই বিক্রিয়ায় ব্রোমিনের লাল বর্ণ অপসারিত হয়। ইথাইন যে অসম্পূর্ণ যৌগ তা এই বিক্রিয়া দ্বারা প্রমাণিত হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 280,
+      "pdfPageEnd": 280,
+      "printedPageStart": 275,
+      "printedPageEnd": 275,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p031",
+      "kind": "formula",
+      "section": "অ্যালকাইনের রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "$$CH \\equiv CH + 2Br_2 \\longrightarrow CHBr_2-CHBr_2$$",
+      "image": null,
+      "formulas": [
+        "CH \\equiv CH + 2Br_2 \\longrightarrow CHBr_2-CHBr_2"
+      ],
+      "pdfPageStart": 280,
+      "pdfPageEnd": 280,
+      "printedPageStart": 275,
+      "printedPageEnd": 275,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p032",
+      "kind": "text",
+      "section": "অ্যালকাইনের রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "ইথাইন                      ব্রোমিন                      টেট্রাব্রোমো ইথেন",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 280,
+      "pdfPageEnd": 280,
+      "printedPageStart": 275,
+      "printedPageEnd": 275,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p033",
+      "kind": "text",
+      "section": "অ্যালকাইনের রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "**পানি সংযোজন:** 80°C তাপমাত্রায় ইথাইন এর মধ্যে 20% সালফিউরিক এসিড এবং 2% মার্কিউরিক সালফেট দ্রবণ যোগ করলে ইথান্যাল উৎপন্ন হয় ।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 281,
+      "pdfPageEnd": 281,
+      "printedPageStart": 276,
+      "printedPageEnd": 276,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p034",
+      "kind": "formula",
+      "section": "অ্যালকাইনের রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "$$CH\\equivCH + H_2O \\xrightarrow[80^\\circC]{20\\% H_2SO_4, 2\\% HgSO_4} CH_3CHO$$",
+      "image": null,
+      "formulas": [
+        "CH\\equivCH + H_2O \\xrightarrow[80^\\circC]{20\\% H_2SO_4, 2\\% HgSO_4} CH_3CHO"
+      ],
+      "pdfPageStart": 281,
+      "pdfPageEnd": 281,
+      "printedPageStart": 276,
+      "printedPageEnd": 276,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c11-t11.4-p035",
+      "kind": "text",
+      "section": "অ্যালকাইনের রাসায়নিক ধর্ম",
+      "caption": null,
+      "body": "ইথাইন পানি ইথান্যাল বা এসিটালডিহাইড",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 281,
+      "pdfPageEnd": 281,
+      "printedPageStart": 276,
+      "printedPageEnd": 276,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "id": "physics-9-10-bn-c06",
+  "textbookId": "physics-9-10-bn",
+  "number": 6,
+  "title": "বস্তুর ওপর তাপের প্রভাব",
+  "englishTitle": "Effects of Heat on Matter",
+  "pdfPages": [
+    164,
+    190
+  ],
+  "printedPages": [
+    159,
+    185
+  ],
+  "topics": [
+    {
+      "key": "6.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/6.0.json",
+      "passages": 4
+    },
+    {
+      "key": "6.1",
+      "title": "তাপ ও তাপমাত্রা (Heat and Temperature)",
+      "file": "topics/6.1.json",
+      "passages": 8
+    },
+    {
+      "key": "6.2",
+      "title": "পদার্থের তাপমাত্রিক ধর্ম",
+      "file": "topics/6.2.json",
+      "passages": 39
+    },
+    {
+      "key": "6.3",
+      "title": "পদার্থের তাপীয় প্রসারণ (Thermal Expansion of Matter)",
+      "file": "topics/6.3.json",
+      "passages": 100
+    },
+    {
+      "key": "6.4",
+      "title": "পদার্থের অবস্থার পরিবর্তনে তাপের প্রভাব",
+      "file": "topics/6.4.json",
+      "passages": 17
+    },
+    {
+      "key": "6.5",
+      "title": "আপেক্ষিক তাপ (Specific Heat)",
+      "file": "topics/6.5.json",
+      "passages": 10
+    },
+    {
+      "key": "6.6",
+      "title": "ক্যালোরিমিতির মূলনীতি",
+      "file": "topics/6.6.json",
+      "passages": 27
+    },
+    {
+      "key": "6.7",
+      "title": "গলনাঙ্ক এবং স্ফুটনাঙ্কের ওপর চাপের প্রভাব",
+      "file": "topics/6.7.json",
+      "passages": 5
+    },
+    {
+      "key": "6.ex",
+      "title": "নমুনা প্রশ্ন",
+      "file": "topics/6.ex.json",
+      "passages": 39
+    }
+  ],
+  "stats": {
+    "topics": 9,
+    "passages": 249,
+    "images": 9,
+    "byKind": {
+      "figure": 19,
+      "text": 124,
+      "objective": 1,
+      "formula": 57,
+      "example": 8,
+      "activity": 1,
+      "table": 2,
+      "exercise": 37
+    },
+    "byReason": {
+      "known-confusable-corrected": 12,
+      "latin-junk": 14,
+      "verify-formula": 100,
+      "verify-table": 2
+    },
+    "needsReview": 119
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "chemistry-9-10-bn-c01-t1.0",
+  "key": "1.0",
+  "title": "ভূমিকা ও শিখনফল",
+  "chapter": 1,
+  "ordinal": 0,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c01-t1.0-p001",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "photo: laboratory glassware including a beaker and flasks containing colored liquids",
+      "image": "p6-page_1_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 6,
+      "pdfPageEnd": 6,
+      "printedPageStart": 1,
+      "printedPageEnd": 1,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c01-t1.0-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তোমরা যারা নবম শ্রেণির বিজ্ঞান বিভাগের ছাত্র তারা রসায়ন বইটি হাতে পেয়েছো। বইটি হাতে পেয়ে কিছু প্রশ্ন তোমাদের মনের মধ্যে ঘুরপাক খাচ্ছে—রসায়ন বিষয়টি কী? কেনই-বা আমরা রসায়ন পড়ব? অর্থাৎ রসায়ন আমাদের কী কাজে লাগে? রসায়নের সাথে বিজ্ঞানের অন্যান্য শাখার কি কোনো সম্পর্ক আছে? এসব বিষয়ের উত্তর এ অধ্যায়টি পড়লে জানতে পারবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 6,
+      "pdfPageEnd": 6,
+      "printedPageStart": 1,
+      "printedPageEnd": 1,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c01-t1.0-p003",
+      "kind": "text",
+      "section": "এ অধ্যায় পাঠ শেষে আমরা",
+      "caption": null,
+      "body": "* রসায়নের ধারণা ব্যাখ্যা করতে পারব।\n* রসায়নের ক্ষেত্রসমূহ চিহ্নিত করতে পারব।\n* রসায়নের সাথে বিজ্ঞানের অন্য শাখাগুলোর সম্পর্ক ব্যাখ্যা করতে পারব।\n* রসায়ন পাঠের গুরুত্ব ব্যাখ্যা করতে পারব।\n* রসায়নে অনুসন্ধান ও গবেষণা প্রক্রিয়ার বর্ণনা করতে পারব।\n* বিভিন্ন ধরনের অনুসন্ধানমূলক কাজের পরিকল্পনা প্রণয়ন, অনুমিত সিদ্ধান্ত গঠন ও পরীক্ষা করতে পারব।\n* রসায়ন পরীক্ষাগারে কাজের সময় প্রয়োজনীয় সতর্কতা অবলম্বন করতে পারব।\n* প্রকৃতির ও বাস্তব জীবনের ঘটনাবলি রসায়নের দৃষ্টিতে ব্যাখ্যা করতে পারব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 7,
+      "pdfPageEnd": 7,
+      "printedPageStart": 2,
+      "printedPageEnd": 2,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,701 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.18",
+  "key": "1.18",
+  "title": "সংযোগবিধির প্রতিজ্ঞা দুটির যাচাইকরণ",
+  "chapter": 1,
+  "ordinal": 18,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "নিচের বামের চিত্রে গাঢ় অংশটুকু $A \\cup (B \\cup C)$ এবং $(A \\cup B) \\cup C$ উভয় সেটই নির্দেশ করে। সুতরাং এখানে $A \\cup (B \\cup C) = (A \\cup B) \\cup C$। নিচের ডানের চিত্রে গাঢ় অংশটুকু $A \\cap (B \\cap C)$ এবং $(A \\cap B) \\cap C$ উভয় সেটই নির্দেশ করে। সুতরাং এখানে $(A \\cap B) \\cap C = A \\cap (B \\cap C)$।",
+      "image": null,
+      "formulas": [
+        "A \\cup (B \\cup C)",
+        "(A \\cup B) \\cup C",
+        "A \\cup (B \\cup C) = (A \\cup B) \\cup C",
+        "A \\cap (B \\cap C)",
+        "(A \\cap B) \\cap C",
+        "(A \\cap B) \\cap C = A \\cap (B \\cap C)"
+      ],
+      "pdfPageStart": 12,
+      "pdfPageEnd": 12,
+      "printedPageStart": 7,
+      "printedPageEnd": 7,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p002",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: Venn diagram showing the union of sets A, B, and C\ndrawing: Venn diagram showing the intersection of sets A, B, and C",
+      "image": "p12-page_7_image_4_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 12,
+      "pdfPageEnd": 12,
+      "printedPageStart": 7,
+      "printedPageEnd": 7,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "মনে করি, $A = \\{a, b, c, d\\}$, $B = \\{b, c, f\\}$ এবং $C = \\{c, d, g\\}$।",
+      "image": null,
+      "formulas": [
+        "A = \\{a, b, c, d\\}",
+        "B = \\{b, c, f\\}",
+        "C = \\{c, d, g\\}"
+      ],
+      "pdfPageStart": 13,
+      "pdfPageEnd": 13,
+      "printedPageStart": 8,
+      "printedPageEnd": 8,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাহলে, $B \\cup C = \\{b, c, f\\} \\cup \\{c, d, g\\} = \\{b, c, d, f, g\\}$",
+      "image": null,
+      "formulas": [
+        "B \\cup C = \\{b, c, f\\} \\cup \\{c, d, g\\} = \\{b, c, d, f, g\\}"
+      ],
+      "pdfPageStart": 13,
+      "pdfPageEnd": 13,
+      "printedPageStart": 8,
+      "printedPageEnd": 8,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এবং $A \\cup (B \\cup C) = \\{a, b, c, d\\} \\cup \\{b, c, d, f, g\\} = \\{a, b, c, d, f, g\\}$।",
+      "image": null,
+      "formulas": [
+        "A \\cup (B \\cup C) = \\{a, b, c, d\\} \\cup \\{b, c, d, f, g\\} = \\{a, b, c, d, f, g\\}"
+      ],
+      "pdfPageStart": 13,
+      "pdfPageEnd": 13,
+      "printedPageStart": 8,
+      "printedPageEnd": 8,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার, $A \\cup B = \\{a, b, c, d\\} \\cup \\{b, c, f\\} = \\{a, b, c, d, f\\}$",
+      "image": null,
+      "formulas": [
+        "A \\cup B = \\{a, b, c, d\\} \\cup \\{b, c, f\\} = \\{a, b, c, d, f\\}"
+      ],
+      "pdfPageStart": 13,
+      "pdfPageEnd": 13,
+      "printedPageStart": 8,
+      "printedPageEnd": 8,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এবং $(A \\cup B) \\cup C = \\{a, b, c, d, f\\} \\cup \\{c, d, g\\} = \\{a, b, c, d, f, g\\}$।",
+      "image": null,
+      "formulas": [
+        "(A \\cup B) \\cup C = \\{a, b, c, d, f\\} \\cup \\{c, d, g\\} = \\{a, b, c, d, f, g\\}"
+      ],
+      "pdfPageStart": 13,
+      "pdfPageEnd": 13,
+      "printedPageStart": 8,
+      "printedPageEnd": 8,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং এক্ষেত্রে $(A \\cup B) \\cup C = A \\cup (B \\cup C)$।",
+      "image": null,
+      "formulas": [
+        "(A \\cup B) \\cup C = A \\cup (B \\cup C)"
+      ],
+      "pdfPageStart": 13,
+      "pdfPageEnd": 13,
+      "printedPageStart": 8,
+      "printedPageEnd": 8,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার, $B \\cap C = \\{b, c, f\\} \\cap \\{c, d, g\\} = \\{c\\}$",
+      "image": null,
+      "formulas": [
+        "B \\cap C = \\{b, c, f\\} \\cap \\{c, d, g\\} = \\{c\\}"
+      ],
+      "pdfPageStart": 13,
+      "pdfPageEnd": 13,
+      "printedPageStart": 8,
+      "printedPageEnd": 8,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এবং $A \\cap (B \\cap C) = \\{a, b, c, d\\} \\cap \\{c\\} = \\{c\\}$।",
+      "image": null,
+      "formulas": [
+        "A \\cap (B \\cap C) = \\{a, b, c, d\\} \\cap \\{c\\} = \\{c\\}"
+      ],
+      "pdfPageStart": 13,
+      "pdfPageEnd": 13,
+      "printedPageStart": 8,
+      "printedPageEnd": 8,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার, $A \\cap B = \\{a, b, c, d\\} \\cap \\{b, c, f\\} = \\{b, c\\}$",
+      "image": null,
+      "formulas": [
+        "A \\cap B = \\{a, b, c, d\\} \\cap \\{b, c, f\\} = \\{b, c\\}"
+      ],
+      "pdfPageStart": 13,
+      "pdfPageEnd": 13,
+      "printedPageStart": 8,
+      "printedPageEnd": 8,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এবং $(A \\cap B) \\cap C = \\{b, c\\} \\cap \\{c, d, g\\} = \\{c\\}$।",
+      "image": null,
+      "formulas": [
+        "(A \\cap B) \\cap C = \\{b, c\\} \\cap \\{c, d, g\\} = \\{c\\}"
+      ],
+      "pdfPageStart": 13,
+      "pdfPageEnd": 13,
+      "printedPageStart": 8,
+      "printedPageEnd": 8,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং এক্ষেত্রে $A \\cap (B \\cap C) = (A \\cap B) \\cap C$।",
+      "image": null,
+      "formulas": [
+        "A \\cap (B \\cap C) = (A \\cap B) \\cap C"
+      ],
+      "pdfPageStart": 13,
+      "pdfPageEnd": 13,
+      "printedPageStart": 8,
+      "printedPageEnd": 8,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:** বগ্নবিশির সূত্রটি যাচাই করো, যেখানে $A = \\{1, 2, 3, 6\\}$, $B = \\{2, 3, 4, 5\\}$ এবং $C = \\{3, 5, 6, 7\\}$। এই যাচাইকরণ ভেনচিএর মাধ্যমেও দেখাও।",
+      "image": null,
+      "formulas": [
+        "A = \\{1, 2, 3, 6\\}",
+        "B = \\{2, 3, 4, 5\\}",
+        "C = \\{3, 5, 6, 7\\}"
+      ],
+      "pdfPageStart": 13,
+      "pdfPageEnd": 13,
+      "printedPageStart": 8,
+      "printedPageEnd": 8,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**দ্রষ্টব্য:** সেটের সংযোগ ও ছেদ প্রক্রিয়া দুটির প্রতিটি অপরটির প্রেক্ষিতে বগ্ন নিয়ম মনে চলে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 13,
+      "pdfPageEnd": 13,
+      "printedPageStart": 8,
+      "printedPageEnd": 8,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রতিজ্ঞা ১** (ডি মরগ্যানের সূত্র). সার্বিক সেট $U$ এর যেকোনো উপসেট $A$ ও $B$ এর জন্য",
+      "image": null,
+      "formulas": [
+        "U",
+        "A",
+        "B"
+      ],
+      "pdfPageStart": 13,
+      "pdfPageEnd": 13,
+      "printedPageStart": 8,
+      "printedPageEnd": 8,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $(A \\cup B)' = A' \\cap B'$ খ) $(A \\cap B)' = A' \\cup B'$",
+      "image": null,
+      "formulas": [
+        "(A \\cup B)' = A' \\cap B'",
+        "(A \\cap B)' = A' \\cup B'"
+      ],
+      "pdfPageStart": 13,
+      "pdfPageEnd": 13,
+      "printedPageStart": 8,
+      "printedPageEnd": 8,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:** ( কেবল প্রথমটির প্রমাণ নিচে দেখানো হয়েছে। পরেরটির প্রমাণ নিজে করো।)",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 13,
+      "pdfPageEnd": 13,
+      "printedPageStart": 8,
+      "printedPageEnd": 8,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) মনে করি, $x \\in (A \\cup B)'$। তাহলে, $x \\notin A \\cup B$।",
+      "image": null,
+      "formulas": [
+        "x \\in (A \\cup B)'",
+        "x \\notin A \\cup B"
+      ],
+      "pdfPageStart": 13,
+      "pdfPageEnd": 13,
+      "printedPageStart": 8,
+      "printedPageEnd": 8,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p020",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\implies x \\notin A  এবং  x \\notin B \\implies x \\in A'  এবং  x \\in B' \\implies x \\in A' \\cap B'$$",
+      "image": null,
+      "formulas": [
+        "\\implies x \\notin A  এবং  x \\notin B \\implies x \\in A'  এবং  x \\in B' \\implies x \\in A' \\cap B'"
+      ],
+      "pdfPageStart": 13,
+      "pdfPageEnd": 13,
+      "printedPageStart": 8,
+      "printedPageEnd": 8,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore (A \\cup B)' \\subseteq A' \\cap B'$।",
+      "image": null,
+      "formulas": [
+        "\\therefore (A \\cup B)' \\subseteq A' \\cap B'"
+      ],
+      "pdfPageStart": 13,
+      "pdfPageEnd": 13,
+      "printedPageStart": 8,
+      "printedPageEnd": 8,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার মনে করি, $x \\in A' \\cap B'$। তাহলে, $x \\in A'$ এবং $x \\in B'$।",
+      "image": null,
+      "formulas": [
+        "x \\in A' \\cap B'",
+        "x \\in A'",
+        "x \\in B'"
+      ],
+      "pdfPageStart": 13,
+      "pdfPageEnd": 13,
+      "printedPageStart": 8,
+      "printedPageEnd": 8,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p023",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\implies x \\notin A  এবং  x \\notin B \\implies x \\notin A \\cup B \\implies x \\in (A \\cup B)'$$",
+      "image": null,
+      "formulas": [
+        "\\implies x \\notin A  এবং  x \\notin B \\implies x \\notin A \\cup B \\implies x \\in (A \\cup B)'"
+      ],
+      "pdfPageStart": 13,
+      "pdfPageEnd": 13,
+      "printedPageStart": 8,
+      "printedPageEnd": 8,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore A' \\cap B' \\subseteq (A \\cup B)'$।",
+      "image": null,
+      "formulas": [
+        "\\therefore A' \\cap B' \\subseteq (A \\cup B)'"
+      ],
+      "pdfPageStart": 13,
+      "pdfPageEnd": 13,
+      "printedPageStart": 8,
+      "printedPageEnd": 8,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p025",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং $(A \\cup B)' = A' \\cap B'$।",
+      "image": null,
+      "formulas": [
+        "(A \\cup B)' = A' \\cap B'"
+      ],
+      "pdfPageStart": 13,
+      "pdfPageEnd": 13,
+      "printedPageStart": 8,
+      "printedPageEnd": 8,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p026",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রতিজ্ঞা ২.** সার্বিক সেট $U$ এর যেকোনো উপসেট $A$ ও $B$ এর জন্য $A \\setminus B = A \\cap B'$",
+      "image": null,
+      "formulas": [
+        "U",
+        "A",
+        "B",
+        "A \\setminus B = A \\cap B'"
+      ],
+      "pdfPageStart": 13,
+      "pdfPageEnd": 13,
+      "printedPageStart": 8,
+      "printedPageEnd": 8,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p027",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:** মনে করি, $x \\in A \\setminus B$। তাহলে, $x \\in A$ এবং $x \\notin B$।\n$$\\implies x \\in A  এবং  x \\in B' \\implies x \\in A \\cap B'$$\n$\\therefore A \\setminus B \\subseteq A \\cap B'$।",
+      "image": null,
+      "formulas": [
+        "x \\in A \\setminus B",
+        "x \\in A",
+        "x \\notin B",
+        "\\implies x \\in A  এবং  x \\in B' \\implies x \\in A \\cap B'",
+        "\\therefore A \\setminus B \\subseteq A \\cap B'"
+      ],
+      "pdfPageStart": 14,
+      "pdfPageEnd": 14,
+      "printedPageStart": 9,
+      "printedPageEnd": 9,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p028",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার মনে করি, $x \\in A \\cap B'$। তাহলে, $x \\in A$ এবং $x \\in B'$।\n$$\\implies x \\in A  এবং  x \\notin B \\implies x \\in A \\setminus B$$\n$\\therefore A \\cap B' \\subseteq A \\setminus B$।",
+      "image": null,
+      "formulas": [
+        "x \\in A \\cap B'",
+        "x \\in A",
+        "x \\in B'",
+        "\\implies x \\in A  এবং  x \\notin B \\implies x \\in A \\setminus B",
+        "\\therefore A \\cap B' \\subseteq A \\setminus B"
+      ],
+      "pdfPageStart": 14,
+      "pdfPageEnd": 14,
+      "printedPageStart": 9,
+      "printedPageEnd": 9,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p029",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং, $A \\setminus B = A \\cap B'$।",
+      "image": null,
+      "formulas": [
+        "A \\setminus B = A \\cap B'"
+      ],
+      "pdfPageStart": 14,
+      "pdfPageEnd": 14,
+      "printedPageStart": 9,
+      "printedPageEnd": 9,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p030",
+      "kind": "text",
+      "section": "প্রতিজ্ঞা ৩. যেকোনো সেট $A, B, C$ এর জন্য",
+      "caption": null,
+      "body": "ক) $A \\times (B \\cap C) = (A \\times B) \\cap (A \\times C)$",
+      "image": null,
+      "formulas": [
+        "A \\times (B \\cap C) = (A \\times B) \\cap (A \\times C)"
+      ],
+      "pdfPageStart": 14,
+      "pdfPageEnd": 14,
+      "printedPageStart": 9,
+      "printedPageEnd": 9,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p031",
+      "kind": "text",
+      "section": "প্রতিজ্ঞা ৩. যেকোনো সেট $A, B, C$ এর জন্য",
+      "caption": null,
+      "body": "খ) $A \\times (B \\cup C) = (A \\times B) \\cup (A \\times C)$",
+      "image": null,
+      "formulas": [
+        "A \\times (B \\cup C) = (A \\times B) \\cup (A \\times C)"
+      ],
+      "pdfPageStart": 14,
+      "pdfPageEnd": 14,
+      "printedPageStart": 9,
+      "printedPageEnd": 9,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p032",
+      "kind": "text",
+      "section": "প্রতিজ্ঞা ৩. যেকোনো সেট $A, B, C$ এর জন্য",
+      "caption": null,
+      "body": "**প্রমাণ:** (কেবল প্রথমটির প্রমাণ নিচে দেখানো হয়েছে। পরেরটির প্রমাণ নিজে করো।)",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 14,
+      "pdfPageEnd": 14,
+      "printedPageStart": 9,
+      "printedPageEnd": 9,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p033",
+      "kind": "text",
+      "section": "প্রতিজ্ঞা ৩. যেকোনো সেট $A, B, C$ এর জন্য",
+      "caption": null,
+      "body": "ক) সংজ্ঞানুসারে, $A \\times (B \\cap C)$\n$$= \\{(x, y) : x \\in A, y \\in B \\cap C\\}$$\n$$= \\{(x, y) : x \\in A, y \\in B  এবং  y \\in C\\}$$\n$$= \\{(x, y) : x \\in A, y \\in B  এবং  x \\in A, y \\in C\\}$$\n$$= \\{(x, y) : (x, y) \\in A \\times B  এবং  (x, y) \\in A \\times C\\}$$\n$$= \\{(x, y) : (x, y) \\in (A \\times B) \\cap (A \\times C)\\}$$\n$\\therefore A \\times (B \\cap C) \\subseteq (A \\times B) \\cap (A \\times C)$",
+      "image": null,
+      "formulas": [
+        "A \\times (B \\cap C)",
+        "= \\{(x, y) : x \\in A, y \\in B \\cap C\\}",
+        "= \\{(x, y) : x \\in A, y \\in B  এবং  y \\in C\\}",
+        "= \\{(x, y) : x \\in A, y \\in B  এবং  x \\in A, y \\in C\\}",
+        "= \\{(x, y) : (x, y) \\in A \\times B  এবং  (x, y) \\in A \\times C\\}",
+        "= \\{(x, y) : (x, y) \\in (A \\times B) \\cap (A \\times C)\\}",
+        "\\therefore A \\times (B \\cap C) \\subseteq (A \\times B) \\cap (A \\times C)"
+      ],
+      "pdfPageStart": 14,
+      "pdfPageEnd": 14,
+      "printedPageStart": 9,
+      "printedPageEnd": 9,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p034",
+      "kind": "text",
+      "section": "প্রতিজ্ঞা ৩. যেকোনো সেট $A, B, C$ এর জন্য",
+      "caption": null,
+      "body": "আবার, $(A \\times B) \\cap (A \\times C)$\n$$= \\{(x, y) : (x, y) \\in A \\times B  এবং  (x, y) \\in A \\times C\\}$$\n$$= \\{(x, y) : x \\in A, y \\in B  এবং  x \\in A, y \\in C\\}$$\n$$= \\{(x, y) : x \\in A, y \\in B \\cap C\\}$$\n$$= \\{(x, y) : (x, y) \\in A \\times (B \\cap C)\\}$$\n$\\therefore (A \\times B) \\cap (A \\times C) \\subseteq A \\times (B \\cap C)$",
+      "image": null,
+      "formulas": [
+        "(A \\times B) \\cap (A \\times C)",
+        "= \\{(x, y) : (x, y) \\in A \\times B  এবং  (x, y) \\in A \\times C\\}",
+        "= \\{(x, y) : x \\in A, y \\in B  এবং  x \\in A, y \\in C\\}",
+        "= \\{(x, y) : x \\in A, y \\in B \\cap C\\}",
+        "= \\{(x, y) : (x, y) \\in A \\times (B \\cap C)\\}",
+        "\\therefore (A \\times B) \\cap (A \\times C) \\subseteq A \\times (B \\cap C)"
+      ],
+      "pdfPageStart": 14,
+      "pdfPageEnd": 14,
+      "printedPageStart": 9,
+      "printedPageEnd": 9,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.18-p035",
+      "kind": "text",
+      "section": "প্রতিজ্ঞা ৩. যেকোনো সেট $A, B, C$ এর জন্য",
+      "caption": null,
+      "body": "সুতরাং, $A \\times (B \\cap C) = (A \\times B) \\cap (A \\times C)$।",
+      "image": null,
+      "formulas": [
+        "A \\times (B \\cap C) = (A \\times B) \\cap (A \\times C)"
+      ],
+      "pdfPageStart": 14,
+      "pdfPageEnd": 14,
+      "printedPageStart": 9,
+      "printedPageEnd": 9,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

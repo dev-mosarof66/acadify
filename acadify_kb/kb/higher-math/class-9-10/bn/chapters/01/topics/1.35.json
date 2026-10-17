@@ -1,0 +1,782 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.35",
+  "key": "1.35",
+  "title": "বৃত্তের লেখচিত্র",
+  "chapter": 1,
+  "ordinal": 36,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "উল্লেখ্য যে $p, q$ ও $r$ ধ্রুবক এবং $r \\neq 0$ হলে $R$ এ $S = \\{(x, y) : (x - p)^2 + (y - q)^2 = r^2\\}$ অস্বয়ের লেখ একটি বৃত্ত যার কেন্দ্র $(p, q)$ এবং ব্যাসার্ধ $r$ (নবম-দশম শ্রেণির গণিত দ্রষ্টব্য)। ছক কাগজে $(p, q)$ বিন্দু পাতন করে ঐ বিন্দুকে কেন্দ্র করে $r$ ব্যাসার্ধ নিয়ে বৃত্ত অঙ্কন করে লেখচিত্রটি পাওয়া যায়।",
+      "image": null,
+      "formulas": [
+        "p, q",
+        "r",
+        "r \\neq 0",
+        "R",
+        "S = \\{(x, y) : (x - p)^2 + (y - q)^2 = r^2\\}",
+        "(p, q)",
+        "r",
+        "(p, q)",
+        "r"
+      ],
+      "pdfPageStart": 37,
+      "pdfPageEnd": 37,
+      "printedPageStart": 32,
+      "printedPageEnd": 32,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:** যে অস্বয়ের সমাধান সেট অসীম, এর লেখচিত্র অঙ্কনের স্বীকৃত পদ্ধতি হলো যথেষ্ট সংখ্যক সমাধানের প্রতিরূপী বিন্দু ছক কাগজে পাতন করে সাবলীলভাবে ঐ সব বিন্দু যোগ করা, যাতে অস্বয়টির লেখচিত্রের ধরন দ্বারহীনভাবে বুঝা যায়। কিন্তু যে অস্বয়ের লেখচিত্র বৃত্ত, এর জন্য কম্পাস ব্যবহার করলে কাজ সহজ ও সুন্দর হয় বিধায় শেয়োক্ত পদ্ধতি অবলম্বন করা হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 37,
+      "pdfPageEnd": 37,
+      "printedPageStart": 32,
+      "printedPageEnd": 32,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৩৫.** $S = \\{(x, y) : x^2 + y^2 = 16\\}$",
+      "image": null,
+      "formulas": [
+        "S = \\{(x, y) : x^2 + y^2 = 16\\}"
+      ],
+      "pdfPageStart": 37,
+      "pdfPageEnd": 37,
+      "printedPageStart": 32,
+      "printedPageEnd": 32,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং $S$ এর লেখচিত্র একটি বৃত্ত, $x^2 + y^2 = 4^2$ যার কেন্দ্র $(0, 0)$ এবং ব্যাসার্ধ $r = 4$।",
+      "image": null,
+      "formulas": [
+        "S",
+        "x^2 + y^2 = 4^2",
+        "(0, 0)",
+        "r = 4"
+      ],
+      "pdfPageStart": 37,
+      "pdfPageEnd": 37,
+      "printedPageStart": 32,
+      "printedPageEnd": 32,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$S$ এর লেখচিত্র নিমে দেখানো হলো:",
+      "image": null,
+      "formulas": [
+        "S"
+      ],
+      "pdfPageStart": 37,
+      "pdfPageEnd": 37,
+      "printedPageStart": 32,
+      "printedPageEnd": 32,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p006",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A circle centered at the origin (0,0) with a radius of 4 units, plotted on a Cartesian coordinate system with X and Y axes.",
+      "image": "p38-page_33_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 38,
+      "pdfPageEnd": 38,
+      "printedPageStart": 33,
+      "printedPageEnd": 33,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 38,
+      "pdfPageEnd": 38,
+      "printedPageStart": 33,
+      "printedPageEnd": 33,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) নিম্নের প্রত্যেক ক্ষেত্রে প্রদত্ত সমীকরণ থেকে $y$ কে $x$ এর ফাংশন রূপে প্রকাশ করো।\n(১) $y - 2 = 3(x - 5)$ (২) $y - 5 = -2(x + 1)$\n(৩) $y - 2 = \\frac{1}{2}(x + 3)$ (৪) $y - 5 = \\frac{4}{3}(x - 3)$",
+      "image": null,
+      "formulas": [
+        "y",
+        "x",
+        "y - 2 = 3(x - 5)",
+        "y - 5 = -2(x + 1)",
+        "y - 2 = \\frac{1}{2}(x + 3)",
+        "y - 5 = \\frac{4}{3}(x - 3)"
+      ],
+      "pdfPageStart": 38,
+      "pdfPageEnd": 38,
+      "printedPageStart": 33,
+      "printedPageEnd": 33,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) লেখচিত্র অঙ্কন করো:\n(১) $y = 3x - 1$ (২) $x + y = 3$\n(৩) $x^2 + y^2 = 9$ (৪) $y = \\frac{1}{3}x + 1$",
+      "image": null,
+      "formulas": [
+        "y = 3x - 1",
+        "x + y = 3",
+        "x^2 + y^2 = 9",
+        "y = \\frac{1}{3}x + 1"
+      ],
+      "pdfPageStart": 38,
+      "pdfPageEnd": 38,
+      "printedPageStart": 33,
+      "printedPageEnd": 33,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৩৬.** দেওয়া আছে $f : x \\rightarrow \\frac{2x - 1}{2x + 3}$।",
+      "image": null,
+      "formulas": [
+        "f : x \\rightarrow \\frac{2x - 1}{2x + 3}"
+      ],
+      "pdfPageStart": 38,
+      "pdfPageEnd": 38,
+      "printedPageStart": 33,
+      "printedPageEnd": 33,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $f\\left(-\\frac{1}{3}\\right) =$ কত?",
+      "image": null,
+      "formulas": [
+        "f\\left(-\\frac{1}{3}\\right) ="
+      ],
+      "pdfPageStart": 38,
+      "pdfPageEnd": 38,
+      "printedPageStart": 33,
+      "printedPageEnd": 33,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) ফাংশনটি এক-এক কিনা তা নির্ধারণ করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 38,
+      "pdfPageEnd": 38,
+      "printedPageStart": 33,
+      "printedPageEnd": 33,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $2f^{-1}(x) = x$ হলে $x$ এর মান নির্ধারণ করো।",
+      "image": null,
+      "formulas": [
+        "2f^{-1}(x) = x",
+        "x"
+      ],
+      "pdfPageStart": 38,
+      "pdfPageEnd": 38,
+      "printedPageStart": 33,
+      "printedPageEnd": 33,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 38,
+      "pdfPageEnd": 38,
+      "printedPageStart": 33,
+      "printedPageEnd": 33,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) দেওয়া আছে, $f : x \\rightarrow \\frac{2x - 1}{2x + 3}$। সুতরাং $f(x) = \\frac{2x - 1}{2x + 3}$।",
+      "image": null,
+      "formulas": [
+        "f : x \\rightarrow \\frac{2x - 1}{2x + 3}",
+        "f(x) = \\frac{2x - 1}{2x + 3}"
+      ],
+      "pdfPageStart": 38,
+      "pdfPageEnd": 38,
+      "printedPageStart": 33,
+      "printedPageEnd": 33,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p016",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$f\\left(-\\frac{1}{3}\\right) = \\frac{2\\left(-\\frac{1}{3}\\right) - 1}{2\\left(-\\frac{1}{3}\\right) + 3} = \\frac{-\\frac{2}{3} - 1}{-\\frac{2}{3} + 3} = \\frac{-\\frac{5}{3}}{\\frac{7}{3}} = -\\frac{5}{3} \\cdot \\frac{3}{7} = -\\frac{5}{7}$$",
+      "image": null,
+      "formulas": [
+        "f\\left(-\\frac{1}{3}\\right) = \\frac{2\\left(-\\frac{1}{3}\\right) - 1}{2\\left(-\\frac{1}{3}\\right) + 3} = \\frac{-\\frac{2}{3} - 1}{-\\frac{2}{3} + 3} = \\frac{-\\frac{5}{3}}{\\frac{7}{3}} = -\\frac{5}{3} \\cdot \\frac{3}{7} = -\\frac{5}{7}"
+      ],
+      "pdfPageStart": 38,
+      "pdfPageEnd": 38,
+      "printedPageStart": 33,
+      "printedPageEnd": 33,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) দেওয়া আছে, $f : x \\rightarrow \\frac{2x - 1}{2x + 3}$। সুতরাং $f(x) = \\frac{2x - 1}{2x + 3}$।",
+      "image": null,
+      "formulas": [
+        "f : x \\rightarrow \\frac{2x - 1}{2x + 3}",
+        "f(x) = \\frac{2x - 1}{2x + 3}"
+      ],
+      "pdfPageStart": 38,
+      "pdfPageEnd": 38,
+      "printedPageStart": 33,
+      "printedPageEnd": 33,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে $2x + 3 = 0$ হলে অর্থাৎ $x = -\\frac{3}{2}$ হলে, ফাংশনটি অসংজ্ঞায়িত হয়।",
+      "image": null,
+      "formulas": [
+        "2x + 3 = 0",
+        "x = -\\frac{3}{2}"
+      ],
+      "pdfPageStart": 39,
+      "pdfPageEnd": 39,
+      "printedPageStart": 34,
+      "printedPageEnd": 34,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore x \\neq -\\frac{3}{2}$, সুতরাং ডোম $f = R \\setminus \\left\\{ -\\frac{3}{2} \\right\\}$।",
+      "image": null,
+      "formulas": [
+        "\\therefore x \\neq -\\frac{3}{2}",
+        "f = R \\setminus \\left\\{ -\\frac{3}{2} \\right\\}"
+      ],
+      "pdfPageStart": 39,
+      "pdfPageEnd": 39,
+      "printedPageStart": 34,
+      "printedPageEnd": 34,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধরি, $x_1 \\in$ ডোম $f$ এবং $x_2 \\in$ ডোম $f$",
+      "image": null,
+      "formulas": [
+        "x_1 \\in",
+        "f",
+        "x_2 \\in",
+        "f"
+      ],
+      "pdfPageStart": 39,
+      "pdfPageEnd": 39,
+      "printedPageStart": 34,
+      "printedPageEnd": 34,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore f(x_1) = \\frac{2x_1 - 1}{2x_1 + 3}$ এবং $f(x_2) = \\frac{2x_2 - 1}{2x_2 + 3}$",
+      "image": null,
+      "formulas": [
+        "\\therefore f(x_1) = \\frac{2x_1 - 1}{2x_1 + 3}",
+        "f(x_2) = \\frac{2x_2 - 1}{2x_2 + 3}"
+      ],
+      "pdfPageStart": 39,
+      "pdfPageEnd": 39,
+      "printedPageStart": 34,
+      "printedPageEnd": 34,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন $f(x_1) = f(x_2)$ হবে, যদি ও কেবল যদি",
+      "image": null,
+      "formulas": [
+        "f(x_1) = f(x_2)"
+      ],
+      "pdfPageStart": 39,
+      "pdfPageEnd": 39,
+      "printedPageStart": 34,
+      "printedPageEnd": 34,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p023",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{2x_1 - 1}{2x_1 + 3} = \\frac{2x_2 - 1}{2x_2 + 3} \\quad বা, \\quad \\frac{2x_1 - 1}{2x_1 + 3} - 1 = \\frac{2x_2 - 1}{2x_2 + 3} - 1$$",
+      "image": null,
+      "formulas": [
+        "\\frac{2x_1 - 1}{2x_1 + 3} = \\frac{2x_2 - 1}{2x_2 + 3} \\quad বা, \\quad \\frac{2x_1 - 1}{2x_1 + 3} - 1 = \\frac{2x_2 - 1}{2x_2 + 3} - 1"
+      ],
+      "pdfPageStart": 39,
+      "pdfPageEnd": 39,
+      "printedPageStart": 34,
+      "printedPageEnd": 34,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\frac{2x_1 - 1 - 2x_1 - 3}{2x_1 + 3} = \\frac{2x_2 - 1 - 2x_2 - 3}{2x_2 + 3}$",
+      "image": null,
+      "formulas": [
+        "\\frac{2x_1 - 1 - 2x_1 - 3}{2x_1 + 3} = \\frac{2x_2 - 1 - 2x_2 - 3}{2x_2 + 3}"
+      ],
+      "pdfPageStart": 39,
+      "pdfPageEnd": 39,
+      "printedPageStart": 34,
+      "printedPageEnd": 34,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p025",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\frac{-4}{2x_1 + 3} = \\frac{-4}{2x_2 + 3} \\quad বা, \\quad 2x_1 + 3 = 2x_2 + 3$",
+      "image": null,
+      "formulas": [
+        "\\frac{-4}{2x_1 + 3} = \\frac{-4}{2x_2 + 3} \\quad বা, \\quad 2x_1 + 3 = 2x_2 + 3"
+      ],
+      "pdfPageStart": 39,
+      "pdfPageEnd": 39,
+      "printedPageStart": 34,
+      "printedPageEnd": 34,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p026",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $2x_1 = 2x_2 \\quad বা \\quad x_1 = x_2$ হয়।",
+      "image": null,
+      "formulas": [
+        "2x_1 = 2x_2 \\quad বা \\quad x_1 = x_2"
+      ],
+      "pdfPageStart": 39,
+      "pdfPageEnd": 39,
+      "printedPageStart": 34,
+      "printedPageEnd": 34,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p027",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ ফাংশনটি এক-এক ফাংশন।",
+      "image": null,
+      "formulas": [
+        "\\therefore"
+      ],
+      "pdfPageStart": 39,
+      "pdfPageEnd": 39,
+      "printedPageStart": 34,
+      "printedPageEnd": 34,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p028",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) দেওয়া আছে, $f : x \\to \\frac{2x - 1}{2x + 3}$, সুতরাং $f(x) = \\frac{2x - 1}{2x + 3}$",
+      "image": null,
+      "formulas": [
+        "f : x \\to \\frac{2x - 1}{2x + 3}",
+        "f(x) = \\frac{2x - 1}{2x + 3}"
+      ],
+      "pdfPageStart": 39,
+      "pdfPageEnd": 39,
+      "printedPageStart": 34,
+      "printedPageEnd": 34,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p029",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধরি, $f(x) = y \\quad \\therefore x = f^{-1}(y)$",
+      "image": null,
+      "formulas": [
+        "f(x) = y \\quad \\therefore x = f^{-1}(y)"
+      ],
+      "pdfPageStart": 39,
+      "pdfPageEnd": 39,
+      "printedPageStart": 34,
+      "printedPageEnd": 34,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p030",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন, $f(x) = \\frac{2x - 1}{2x + 3} \\quad বা, \\quad y = \\frac{2x - 1}{2x + 3}$",
+      "image": null,
+      "formulas": [
+        "f(x) = \\frac{2x - 1}{2x + 3} \\quad বা, \\quad y = \\frac{2x - 1}{2x + 3}"
+      ],
+      "pdfPageStart": 39,
+      "pdfPageEnd": 39,
+      "printedPageStart": 34,
+      "printedPageEnd": 34,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p031",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $2xy + 3y = 2x - 1 \\quad বা, \\quad 2xy - 2x = -3y - 1$",
+      "image": null,
+      "formulas": [
+        "2xy + 3y = 2x - 1 \\quad বা, \\quad 2xy - 2x = -3y - 1"
+      ],
+      "pdfPageStart": 39,
+      "pdfPageEnd": 39,
+      "printedPageStart": 34,
+      "printedPageEnd": 34,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p032",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $-2x(1 - y) = -(1 + 3y)$",
+      "image": null,
+      "formulas": [
+        "-2x(1 - y) = -(1 + 3y)"
+      ],
+      "pdfPageStart": 39,
+      "pdfPageEnd": 39,
+      "printedPageStart": 34,
+      "printedPageEnd": 34,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p033",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x = \\frac{1 + 3y}{2(1 - y)}$",
+      "image": null,
+      "formulas": [
+        "x = \\frac{1 + 3y}{2(1 - y)}"
+      ],
+      "pdfPageStart": 39,
+      "pdfPageEnd": 39,
+      "printedPageStart": 34,
+      "printedPageEnd": 34,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p034",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $f^{-1}(y) = \\frac{1 + 3y}{2(1 - y)} \\quad [\\because x = f^{-1}(y)]$",
+      "image": null,
+      "formulas": [
+        "f^{-1}(y) = \\frac{1 + 3y}{2(1 - y)} \\quad [\\because x = f^{-1}(y)]"
+      ],
+      "pdfPageStart": 39,
+      "pdfPageEnd": 39,
+      "printedPageStart": 34,
+      "printedPageEnd": 34,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p035",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $f^{-1}(x) = \\frac{1 + 3x}{2(1 - x)} \\quad [চলক পরিবর্তন করে]$",
+      "image": null,
+      "formulas": [
+        "f^{-1}(x) = \\frac{1 + 3x}{2(1 - x)} \\quad [চলক পরিবর্তন করে]"
+      ],
+      "pdfPageStart": 39,
+      "pdfPageEnd": 39,
+      "printedPageStart": 34,
+      "printedPageEnd": 34,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p036",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $2f^{-1}(x) = \\frac{1 + 3x}{1 - x}$",
+      "image": null,
+      "formulas": [
+        "2f^{-1}(x) = \\frac{1 + 3x}{1 - x}"
+      ],
+      "pdfPageStart": 39,
+      "pdfPageEnd": 39,
+      "printedPageStart": 34,
+      "printedPageEnd": 34,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p037",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x = \\frac{1 + 3x}{1 - x} \\quad [\\because 2f^{-1}(x) = x]$",
+      "image": null,
+      "formulas": [
+        "x = \\frac{1 + 3x}{1 - x} \\quad [\\because 2f^{-1}(x) = x]"
+      ],
+      "pdfPageStart": 39,
+      "pdfPageEnd": 39,
+      "printedPageStart": 34,
+      "printedPageEnd": 34,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p038",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $1 + 3x = x - x^2 \\quad বা, \\quad x^2 + 3x - x + 1 = 0$",
+      "image": null,
+      "formulas": [
+        "1 + 3x = x - x^2 \\quad বা, \\quad x^2 + 3x - x + 1 = 0"
+      ],
+      "pdfPageStart": 39,
+      "pdfPageEnd": 39,
+      "printedPageStart": 34,
+      "printedPageEnd": 34,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p039",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x^2 + 2x + 1 = 0 \\quad বা, \\quad (x + 1)^2 = 0$ বা, $x + 1 = 0$ বা, $x = -1$",
+      "image": null,
+      "formulas": [
+        "x^2 + 2x + 1 = 0 \\quad বা, \\quad (x + 1)^2 = 0",
+        "x + 1 = 0",
+        "x = -1"
+      ],
+      "pdfPageStart": 39,
+      "pdfPageEnd": 40,
+      "printedPageStart": 34,
+      "printedPageEnd": 35,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.35-p040",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণয় মান $x = -1$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "x = -1"
+      ],
+      "pdfPageStart": 40,
+      "pdfPageEnd": 40,
+      "printedPageStart": 35,
+      "printedPageEnd": 35,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "id": "physics-9-10-bn-c03-t3.1",
+  "key": "3.1",
+  "title": "জড়তা এবং বলের ধারণা: নিউটনের প্রথম গতি সূত্র",
+  "chapter": 3,
+  "ordinal": 1,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c03-t3.1-p001",
+      "kind": "text",
+      "section": "(Inertia and Concept of Force: Newton’s First Law Of Motion)",
+      "caption": null,
+      "body": "এর আগের অধ্যায়ে আমরা বেগ, দ্রুতি, ত্বরণ, অতিক্রান্ত দূরত্ব এবং তাদের একটির সাথে অন্যটির সম্পর্ক শিখেছি, গতির সমীকরণগুলো বের করেছি। বল প্রয়োগ করে কীভাবে বেগের পরিবর্তন করা যায় সেটি আমরা এই অধ্যায়ে শিখব। আমরা নিউটনের প্রথম সূত্রটি দিয়ে শুরু করতে পারি:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 69,
+      "pdfPageEnd": 69,
+      "printedPageStart": 64,
+      "printedPageEnd": 64,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.1-p002",
+      "kind": "text",
+      "section": "(Inertia and Concept of Force: Newton’s First Law Of Motion)",
+      "caption": null,
+      "body": "> **নিউটনের প্রথম সূত্র:** বল প্রয়োগ না করলে স্থির বস্তু স্থির থাকবে এবং সমবেগে চলতে থাকা বস্তু সমবেগে চলতে থাকবে। (বুঝতেই পারছ বেগ যেহেতু ভেক্টর তাই সমবেগে চলতে হলে দিক পরিবর্তন করতে পারবে না, সরলরেখায় সমদ্রুতিতে যেতে হবে।)",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 69,
+      "pdfPageEnd": 69,
+      "printedPageStart": 64,
+      "printedPageEnd": 64,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.1-p003",
+      "kind": "text",
+      "section": "(Inertia and Concept of Force: Newton’s First Law Of Motion)",
+      "caption": null,
+      "body": "নিউটনের প্রথম সূত্রের প্রথম অংশ নিয়ে কারো সমস্যা হয় না; কারণ আমরা সব সময়ই দেখেছি স্থির বস্তুকে ধাক্কা না দেওয়া পর্যন্ত সেটা নিজে থেকে নড়ে না, স্থির থেকে যায়। দ্বিতীয় অংশটি নিয়ে সমস্যা, কারণ আমরা কখনোই কোনো চলন্ত বস্তুকে অনন্তকাল চলতে দেখি না। ধাক্কা দিয়ে কোনো বস্তুকে গতিশীল করে ছেড়ে দিলেও দেখা যায় বাহ্য কোনো বল ছাড়াই শেষ পর্যন্ত বস্তুটা থেমে যায়। আমাদের দৈনন্দিন জীবনের অভিজ্ঞতা থেকে মনে হয় যে কোনো কিছুকে সমবেগে চালিয়ে নিতে হলে ক্রমাগত সেটাতে বল প্রয়োগ করে যেতে হয়। নিউটনের প্রথম সূত্র থেকে আমরা জানতে পেরেছি সেটি সঠিক নয়। গতিশীল কোনো বস্তু যদি থেমে যায়, তাহলে বুঝতে হবে ঐ বস্তুর উপর কোনো না কোনো বল প্রযুক্ত হয়েছে। ঘর্ষণ, বাতাসের বাধা, এ ধরনের বল বেগের বিপরীত দিকে কাজ করে বলে চলমান একটি বস্তু থেমে যায়। যদি এ ধরনের কোনো বল না থাকত, তাহলে সমবেগে চলতে থাকা একটি বস্তু অনন্তকাল ধরে সমবেগেই চলত।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 69,
+      "pdfPageEnd": 69,
+      "printedPageStart": 64,
+      "printedPageEnd": 64,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.1-p004",
+      "kind": "text",
+      "section": "৩.১.১ জড়তা (Inertia)",
+      "caption": null,
+      "body": "বল প্রয়োগ না করা পর্যন্ত স্থির বস্তু যে স্থির থাকতে চায় কিংবা গতিশীল বস্তু যে গতিশীল থাকতে চায়, বস্তুর এই বৈশিষ্ট্যটাই হচ্ছে জড়তা। হঠাৎ গাড়ি চলতে শুরু করলে জড়তার কারণে আমরা পেছনের দিকে হেলে পড়ি। শরীরের নিচের অংশ গাড়ির সাথে লেগে থাকে। গাড়ির সাথে সাথে সেটা চলতে শুরু করে কিন্তু শরীরের ওপরের অংশ তখনো স্থির। এবং জড়তার কারণে স্থির থাকতে চায়! তাই শরীরের ওপরের অংশ পেছনের দিকে হলে পড়ে। যেহেতু এটা স্থির থাকার জড়তা তাই এটাকে বলে স্থিতি জড়তা।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 69,
+      "pdfPageEnd": 70,
+      "printedPageStart": 64,
+      "printedPageEnd": 65,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.1-p005",
+      "kind": "text",
+      "section": "৩.১.১ জড়তা (Inertia)",
+      "caption": null,
+      "body": "গতি জড়তার কারণে আমরা মানুষজনকে চলন্ত বাস, ট্রেন থেকে নামতে গিয়ে আছাড় খেতে দেখি। চলন্ত বাস, ট্রেনের মানুষটির পুরো শরীরটাই গতিশীল, সে যখন মাটিতে পা দেয় তখন নিচের অংশ থেমে যায়; উপরের অংশ গতি জড়তার কারণে তখনো ছুটছে। তাই সে হুমড়ি খেয়ে পড়ে!",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 70,
+      "pdfPageEnd": 70,
+      "printedPageStart": 65,
+      "printedPageEnd": 65,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.1-p006",
+      "kind": "activity",
+      "section": "নিজে করো",
+      "caption": null,
+      "body": "> গ্লাসের উপর একটা কার্ড রাখো। এবার কার্ডের উপর একটা ধাতব মুদ্রা রেখে কার্ডটিকে সজোরে টোকা দিয়ে সরিয়ে দাও। মুদ্রাটি গ্লাসের ভেতর পড়ে যাবে। কেন?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 70,
+      "pdfPageEnd": 70,
+      "printedPageStart": 65,
+      "printedPageEnd": 65,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.1-p007",
+      "kind": "text",
+      "section": "নিজে করো",
+      "caption": null,
+      "body": "তোমরা নিশ্চয়ই এটা লক্ষ্য করেছ যে সমান পরিমাণ বল দুটি বস্তুর উপর প্রয়োগ করা হলে যার ভর বেশি সেটি কম বিচ্যুত হয়; কিন্তু যার ভর কম সেটি বেশ বিচ্যুত হয়। অর্থাৎ ভর-বৃদ্ধির সাথে সাথে জড়তাও বৃদ্ধি পায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 70,
+      "pdfPageEnd": 70,
+      "printedPageStart": 65,
+      "printedPageEnd": 65,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.1-p008",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** ৩.০১ চিএর গ্রাফ দুটিতে সময়ের সাথে সরণ এবং বেগের মান দেখানো হয়েছে, কোথায় কতক্ষণ বল প্রয়োগ করা হয়েছে ব্যাখ্যা করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 70,
+      "pdfPageEnd": 70,
+      "printedPageStart": 65,
+      "printedPageEnd": 65,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.1-p009",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** দুটি গ্রাফই দেখতে একই রকম কিন্তু এদের মাঝে সম্পূর্ণ ভিন্ন তথ্য রয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 70,
+      "pdfPageEnd": 70,
+      "printedPageStart": 65,
+      "printedPageEnd": 65,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.1-p010",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "drawing: Two line graphs showing displacement vs. time",
+      "image": "p71-page_5_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 71,
+      "pdfPageEnd": 71,
+      "printedPageStart": 66,
+      "printedPageEnd": 66,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.1-p011",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**চিত্র ৩.০১: অবস্থান-সময় ও বেগ-সময়ের দুটি লেখাচিত্র।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 71,
+      "pdfPageEnd": 71,
+      "printedPageStart": 66,
+      "printedPageEnd": 66,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.1-p012",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "(i) প্রথম গ্রাফে ০ থেকে $t_1$ কিংবা $t_2$ থেকে শেষ পর্যন্ত সময় দুটিতে অবস্থানের পরিবর্তন হচ্ছে না, যার অর্থ কোনো বেগ নেই, কাজেই বেগের পরিবর্তনের প্রশ্নই আসে না যার অর্থ এ দুটো সময়ে নিশ্চয়ই কোনো বল প্রয়োগ করা হচ্ছে না। $t_1$ থেকে $t_2$ সময়ে অবস্থানের পরিবর্তন হচ্ছে কিন্তু যেহেতু সমহারে পরিবর্তন (রেখাটি যেহেতু সরলরেখা) হচ্ছে তার অর্থ সমবেগ। অর্থাৎ বেগের কোনো পরিবর্তন নেই। কাজেই $t_1$ থেকে $t_2$ সময়েও কোনো বল প্রয়োগ করা হচ্ছে না। শুধু $t_1$ মুহূর্তে কোনোভাবে বল প্রয়োগ করে স্থির বস্তুটিকে সমবেগে গতিশীল করা হয়েছে। আবার ঠিক $t_2$ মুহূর্তে বল প্রয়োগ করে গতিশীল বস্তুটিকে থামিয়ে দেওয়া হয়েছে, অন্য কোথাও কোনো বল প্রয়োগ করা হয়নি।",
+      "image": null,
+      "formulas": [
+        "t_1",
+        "t_2",
+        "t_1",
+        "t_2",
+        "t_1",
+        "t_2",
+        "t_1",
+        "t_2"
+      ],
+      "pdfPageStart": 71,
+      "pdfPageEnd": 71,
+      "printedPageStart": 66,
+      "printedPageEnd": 66,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.1-p013",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "অর্থাৎ $0 < t < t_1$, $t_1 < t < t_2$ এবং $t_2 < t$ তে কোনো বল নেই।",
+      "image": null,
+      "formulas": [
+        "0 < t < t_1",
+        "t_1 < t < t_2",
+        "t_2 < t"
+      ],
+      "pdfPageStart": 71,
+      "pdfPageEnd": 71,
+      "printedPageStart": 66,
+      "printedPageEnd": 66,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.1-p014",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "শুধু $t = t_1$ এবং $t = t_2$ তে মুহূর্তের জন্য বল প্রয়োগ করা হয়েছে।",
+      "image": null,
+      "formulas": [
+        "t = t_1",
+        "t = t_2"
+      ],
+      "pdfPageStart": 71,
+      "pdfPageEnd": 71,
+      "printedPageStart": 66,
+      "printedPageEnd": 66,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.1-p015",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "(ii) দ্বিতীয় গ্রাফে ০ থেকে $t_1$ এবং $t_2$ থেকে শেষ পর্যন্ত বস্তুটি সমবেগে যাচ্ছে, কাজেই কোনো বল প্রয়োগ করা হয়নি। $t_1$ থেকে $t_2$ সময়ে বেগটি সমহারে পরিবর্তিত হচ্ছে কাজেই এখানে নিশ্চয়ই বল প্রয়োগ করা হচ্ছে।",
+      "image": null,
+      "formulas": [
+        "t_1",
+        "t_2",
+        "t_1",
+        "t_2"
+      ],
+      "pdfPageStart": 71,
+      "pdfPageEnd": 71,
+      "printedPageStart": 66,
+      "printedPageEnd": 66,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.1-p016",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "অর্থাৎ $0 < t < t_1$ এবং $t_2 < t$ কোনো বল নেই।",
+      "image": null,
+      "formulas": [
+        "0 < t < t_1",
+        "t_2 < t"
+      ],
+      "pdfPageStart": 71,
+      "pdfPageEnd": 71,
+      "printedPageStart": 66,
+      "printedPageEnd": 66,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.1-p017",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$t_1 < t < t_2$ তে বল প্রয়োগ করা হয়েছে।",
+      "image": null,
+      "formulas": [
+        "t_1 < t < t_2"
+      ],
+      "pdfPageStart": 71,
+      "pdfPageEnd": 71,
+      "printedPageStart": 66,
+      "printedPageEnd": 66,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.1-p018",
+      "kind": "text",
+      "section": "৩.১.২ বল (Force)",
+      "caption": null,
+      "body": "নিউটনের প্রথম সূত্রে প্রথমবার ‘বল’ শব্দটা ব্যবহার করা হয়েছে কিন্তু মজার ব্যাপার হচ্ছে বল বলতে আমরা কী বুঝি, সেটা এখনো বলা হয়নি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 72,
+      "pdfPageEnd": 72,
+      "printedPageStart": 67,
+      "printedPageEnd": 67,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.1-p019",
+      "kind": "text",
+      "section": "৩.১.২ বল (Force)",
+      "caption": null,
+      "body": "আসলে নিউটনের প্রথম সূত্রটাই বলের সংজ্ঞা হতে পারে! যার প্রয়োগের কারণে স্থির বস্তু চলতে শুরু করে আর গতিশীল বস্তুর বেগের পরিবর্তন হয় সেটাই হচ্ছে বল। নিউটনের প্রথম সূত্র থেকে বল কী সেটা বুঝতে পারি কিন্তু পরিমাণ করতে পারি না। দ্বিতীয় সূত্র থেকে আমরা বল পরিমাণ করা শিখব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 72,
+      "pdfPageEnd": 72,
+      "printedPageStart": 67,
+      "printedPageEnd": 67,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.1-p020",
+      "kind": "text",
+      "section": "৩.১.২ বল (Force)",
+      "caption": null,
+      "body": "তোমরা যখন তোমাদের দৈনন্দিন জীবনে নানা কাজে বল ব্যবহার করো, তখন তোমাদের মনে হতে পারে কোনো কোনো বল প্রয়োগ করতে হলে স্পর্শ করতে হয় (কেন দিয়ে ভারী জিনিস তোলা, কোনো কিছুকে ধাক্কা দেওয়া, কিংবা চলতে চলতে ঘর্ষণের জন্য চলন্ত বস্তুর থেমে যাওয়া) আবার তোমরা লক্ষ্য করেছ কোনো কোনো বল প্রয়োগের জন্য স্পর্শ করতে হয় না। যেমন কোনো কিছু ছেড়ে দিলে মাধ্যাকর্ষণ বলের জন্য নিচে পড়া, চুম্বকের আকর্ষণ! কাজেই আমরা বলকে স্পর্শ এবং অস্পর্শ দুই ধরনের বলে ভাগ করতে পারি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 72,
+      "pdfPageEnd": 72,
+      "printedPageStart": 67,
+      "printedPageEnd": 67,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

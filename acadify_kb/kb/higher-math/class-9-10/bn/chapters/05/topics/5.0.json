@@ -1,0 +1,353 @@
+{
+  "id": "higher-math-9-10-bn-c05-t5.0",
+  "key": "5.0",
+  "title": "ভূমিকা ও শিখনফল",
+  "chapter": 5,
+  "ordinal": 0,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c05-t5.0-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বিভিন্ন গাণিতিক সমস্যা বর্ণনায় সমীকরণের উদ্ভব ঘটে। যেমন আমি প্রতিটি 200 টাকা মূল্যের কয়েকটি শার্ট ও 400 টাকা মূল্যের কয়েকটি প্যান্ট কিনি। এতে আমার 1500 টাকা খরচ হয়। এই তথ্যকে আমরা $200s + 400p = 1500$ বা, $2s + 4p = 15$ আকারে বর্ণনা করতে পারি, যেখানে $s$ শার্টের সংখ্যা ও $p$ প্যান্টের সংখ্যা। $2s + 4p = 15$ একটি সমীকরণ যেখানে $s$ ও $p$ অজ্ঞাত রাশি। চলক হিসেবে $s$ ও $p$ এর নির্দিষ্ট ডোমেন রয়েছে, যা থেকে অজ্ঞাত রাশির নির্দিষ্ট মান নির্ণয় করাই সমীকরণের লক্ষ্য। এরূপ সমাধান সম্পর্কে নবম-দশম শ্রেণির গণিত বইয়ে আলোচনা করা হয়েছে।",
+      "image": null,
+      "formulas": [
+        "200s + 400p = 1500",
+        "2s + 4p = 15",
+        "s",
+        "p",
+        "2s + 4p = 15",
+        "s",
+        "p",
+        "s",
+        "p"
+      ],
+      "pdfPageStart": 101,
+      "pdfPageEnd": 101,
+      "printedPageStart": 96,
+      "printedPageEnd": 96,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.0-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এ অধ্যায় শেষে শিক্ষার্থীরা -",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 101,
+      "pdfPageEnd": 101,
+      "printedPageStart": 96,
+      "printedPageEnd": 96,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.0-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "* দিঘাত সমীকরণ ($ax^2 + bx + c = 0$) সমাধান করতে পারবে;\n* বর্গমূলবিশিষ্ট সমীকরণ চিহ্নিত করতে পারবে;\n* বর্গমূলবিশিষ্ট সমীকরণ সমাধান করতে পারবে;\n* সূচকীয় সমীকরণ ব্যাখ্যা করতে পারবে;\n* সূচকীয় সমীকরণ সমাধান করতে পারবে;\n* দুই চলকের একঘাত ও দিঘাত সমীকরণের জোটি সমাধান করতে পারবে;\n* বাস্তবভিত্তিক সমস্যাকে দুই চলকের একঘাত ও দিঘাত সমীকরণে প্রকাশ করে সমাধান করতে পারবে;\n* দুই চলক বিশিষ্ট সূচকীয় সমীকরণ জোটি সমাধান করতে পারবে;\n* লেখাচিত্রের সাহায্যে দিঘাত সমীকরণ ($ax^2 + bx + c = 0$) সমাধান করতে পারবে।",
+      "image": null,
+      "formulas": [
+        "ax^2 + bx + c = 0",
+        "ax^2 + bx + c = 0"
+      ],
+      "pdfPageStart": 101,
+      "pdfPageEnd": 101,
+      "printedPageStart": 96,
+      "printedPageEnd": 96,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.0-p004",
+      "kind": "text",
+      "section": "এক চলক সম্পর্কিত দিঘাত সমীকরণ ও তার সমাধান",
+      "caption": null,
+      "body": "আমরা জানি, চলকের যে মান বা মানগুলোর জন্য সমীকরণের উভয় পক্ষ সমান হয়, ঐ মান বা মানগুলোই সমীকরণের মূল (Root) এবং ঐ মান বা মানগুলোর দ্বারা সমীকরণটি সিদ্ধ হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 101,
+      "pdfPageEnd": 101,
+      "printedPageStart": 96,
+      "printedPageEnd": 96,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.0-p005",
+      "kind": "text",
+      "section": "এক চলক সম্পর্কিত দিঘাত সমীকরণ ও তার সমাধান",
+      "caption": null,
+      "body": "নবম-দশম শ্রেণির গণিত বইয়ে এক চলকের একঘাত ও দিঘাত সমীকরণ এবং দুই চলকের একঘাত ও দিঘাত সমীকরণ সম্পর্কে বিস্তৃত আলোচনা করা হয়েছে। সমীকরণের মূলগুলো মূলদ সংখ্যা হলে, $ax^2 + bx + c = 0$ সমীকরণের বামপক্ষকে উৎপাদকে বিশ্লেষণ করে সহজেই তার সমাধান করা যায়।",
+      "image": null,
+      "formulas": [
+        "ax^2 + bx + c = 0"
+      ],
+      "pdfPageStart": 101,
+      "pdfPageEnd": 101,
+      "printedPageStart": 96,
+      "printedPageEnd": 96,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.0-p006",
+      "kind": "text",
+      "section": "এক চলক সম্পর্কিত দিঘাত সমীকরণ ও তার সমাধান",
+      "caption": null,
+      "body": "কিন্তু যেকোনো রাশিমালাকে সহজে উৎপাদকে বিশ্লেষণ করা যায় না। সে জন্য যেকোনো প্রকার দ্বিঘাত সমীকরণের সমাধানের জন্য নিম্নলিখিত পদ্ধতিটি ব্যবহার করা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 102,
+      "pdfPageEnd": 102,
+      "printedPageStart": 97,
+      "printedPageEnd": 97,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.0-p007",
+      "kind": "text",
+      "section": "এক চলক সম্পর্কিত দিঘাত সমীকরণ ও তার সমাধান",
+      "caption": null,
+      "body": "এক চলক সংবলিত দ্বিঘাত সমীকরণের আদর্শরূপ $ax^2 + bx + c = 0$। এখানে $a, b, c$ বাস্তব সংখ্যা এবং $a \\neq 0$। আমরা দ্বিঘাত সমীকরণটির সমাধান করি,",
+      "image": null,
+      "formulas": [
+        "ax^2 + bx + c = 0",
+        "a, b, c",
+        "a \\neq 0"
+      ],
+      "pdfPageStart": 102,
+      "pdfPageEnd": 102,
+      "printedPageStart": 97,
+      "printedPageEnd": 97,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.0-p008",
+      "kind": "formula",
+      "section": "এক চলক সম্পর্কিত দিঘাত সমীকরণ ও তার সমাধান",
+      "caption": null,
+      "body": "$$ax^2 + bx + c = 0$$",
+      "image": null,
+      "formulas": [
+        "ax^2 + bx + c = 0"
+      ],
+      "pdfPageStart": 102,
+      "pdfPageEnd": 102,
+      "printedPageStart": 97,
+      "printedPageEnd": 97,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.0-p009",
+      "kind": "text",
+      "section": "এক চলক সম্পর্কিত দিঘাত সমীকরণ ও তার সমাধান",
+      "caption": null,
+      "body": "বা, $a^2x^2 + abx + ac = 0$ [উভয়পক্ষকে $a$ দ্বারা গুণ করে]",
+      "image": null,
+      "formulas": [
+        "a^2x^2 + abx + ac = 0",
+        "a"
+      ],
+      "pdfPageStart": 102,
+      "pdfPageEnd": 102,
+      "printedPageStart": 97,
+      "printedPageEnd": 97,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.0-p010",
+      "kind": "text",
+      "section": "এক চলক সম্পর্কিত দিঘাত সমীকরণ ও তার সমাধান",
+      "caption": null,
+      "body": "বা, $(ax)^2 + 2(ax)\\frac{b}{2} + \\left(\\frac{b}{2}\\right)^2 - \\left(\\frac{b}{2}\\right)^2 + ac = 0$",
+      "image": null,
+      "formulas": [
+        "(ax)^2 + 2(ax)\\frac{b}{2} + \\left(\\frac{b}{2}\\right)^2 - \\left(\\frac{b}{2}\\right)^2 + ac = 0"
+      ],
+      "pdfPageStart": 102,
+      "pdfPageEnd": 102,
+      "printedPageStart": 97,
+      "printedPageEnd": 97,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.0-p011",
+      "kind": "text",
+      "section": "এক চলক সম্পর্কিত দিঘাত সমীকরণ ও তার সমাধান",
+      "caption": null,
+      "body": "বা, $\\left(ax + \\frac{b}{2}\\right)^2 = \\frac{b^2}{4} - ac$",
+      "image": null,
+      "formulas": [
+        "\\left(ax + \\frac{b}{2}\\right)^2 = \\frac{b^2}{4} - ac"
+      ],
+      "pdfPageStart": 102,
+      "pdfPageEnd": 102,
+      "printedPageStart": 97,
+      "printedPageEnd": 97,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.0-p012",
+      "kind": "text",
+      "section": "এক চলক সম্পর্কিত দিঘাত সমীকরণ ও তার সমাধান",
+      "caption": null,
+      "body": "বা, $\\left(ax + \\frac{b}{2}\\right)^2 = \\frac{b^2 - 4ac}{4}$",
+      "image": null,
+      "formulas": [
+        "\\left(ax + \\frac{b}{2}\\right)^2 = \\frac{b^2 - 4ac}{4}"
+      ],
+      "pdfPageStart": 102,
+      "pdfPageEnd": 102,
+      "printedPageStart": 97,
+      "printedPageEnd": 97,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.0-p013",
+      "kind": "text",
+      "section": "এক চলক সম্পর্কিত দিঘাত সমীকরণ ও তার সমাধান",
+      "caption": null,
+      "body": "বা, $ax + \\frac{b}{2} = \\pm \\frac{\\sqrt{b^2 - 4ac}}{2}$ [উভয় পক্ষের বর্গমূল করে]",
+      "image": null,
+      "formulas": [
+        "ax + \\frac{b}{2} = \\pm \\frac{\\sqrt{b^2 - 4ac}}{2}"
+      ],
+      "pdfPageStart": 102,
+      "pdfPageEnd": 102,
+      "printedPageStart": 97,
+      "printedPageEnd": 97,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.0-p014",
+      "kind": "text",
+      "section": "এক চলক সম্পর্কিত দিঘাত সমীকরণ ও তার সমাধান",
+      "caption": null,
+      "body": "বা, $ax = -\\frac{b}{2} \\pm \\frac{\\sqrt{b^2 - 4ac}}{2}$",
+      "image": null,
+      "formulas": [
+        "ax = -\\frac{b}{2} \\pm \\frac{\\sqrt{b^2 - 4ac}}{2}"
+      ],
+      "pdfPageStart": 102,
+      "pdfPageEnd": 102,
+      "printedPageStart": 97,
+      "printedPageEnd": 97,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.0-p015",
+      "kind": "text",
+      "section": "এক চলক সম্পর্কিত দিঘাত সমীকরণ ও তার সমাধান",
+      "caption": null,
+      "body": "বা, $x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$ (1)",
+      "image": null,
+      "formulas": [
+        "x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}"
+      ],
+      "pdfPageStart": 102,
+      "pdfPageEnd": 102,
+      "printedPageStart": 97,
+      "printedPageEnd": 97,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.0-p016",
+      "kind": "text",
+      "section": "এক চলক সম্পর্কিত দিঘাত সমীকরণ ও তার সমাধান",
+      "caption": null,
+      "body": "অতএব, $x$ এর দুইটি মান পাওয়া গেল এবং মান দুটি হচ্ছে",
+      "image": null,
+      "formulas": [
+        "x"
+      ],
+      "pdfPageStart": 102,
+      "pdfPageEnd": 102,
+      "printedPageStart": 97,
+      "printedPageEnd": 97,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.0-p017",
+      "kind": "text",
+      "section": "এক চলক সম্পর্কিত দিঘাত সমীকরণ ও তার সমাধান",
+      "caption": null,
+      "body": "$$x_1 = \\frac{-b + \\sqrt{b^2 - 4ac}}{2a}$$ (2) এবং $x_2 = \\frac{-b - \\sqrt{b^2 - 4ac}}{2a}$ (3)",
+      "image": null,
+      "formulas": [
+        "x_1 = \\frac{-b + \\sqrt{b^2 - 4ac}}{2a}",
+        "x_2 = \\frac{-b - \\sqrt{b^2 - 4ac}}{2a}"
+      ],
+      "pdfPageStart": 102,
+      "pdfPageEnd": 102,
+      "printedPageStart": 97,
+      "printedPageEnd": 97,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.0-p018",
+      "kind": "text",
+      "section": "এক চলক সম্পর্কিত দিঘাত সমীকরণ ও তার সমাধান",
+      "caption": null,
+      "body": "উপরের (1) নং সমীকরণে $b^2 - 4ac$ কে দ্বিঘাত সমীকরণটির নিশ্চায়ক (Discriminant) বলে কারণ ইহা সমীকরণটির মূলদ্বয়ের ধরন ও প্রকৃতি নির্ণয় করে।",
+      "image": null,
+      "formulas": [
+        "b^2 - 4ac"
+      ],
+      "pdfPageStart": 102,
+      "pdfPageEnd": 102,
+      "printedPageStart": 97,
+      "printedPageEnd": 97,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

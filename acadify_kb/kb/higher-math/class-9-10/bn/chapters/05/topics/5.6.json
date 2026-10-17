@@ -1,0 +1,1176 @@
+{
+  "id": "higher-math-9-10-bn-c05-t5.6",
+  "key": "5.6",
+  "title": "দুই চলকবিশিষ্ট সূচক সমীকরণ জোটি",
+  "chapter": 5,
+  "ordinal": 7,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "পূর্ববর্তী অংশে এক চলকবিশিষ্ট সূচক সমীকরণের সমাধান নির্ণয় সম্পর্কে আলোচনা করা হয়েছে। দুই চলকবিশিষ্ট সূচক সমীকরণ জোটির সমাধান পদ্ধতি বেশ কয়েকটি উদাহরণের মাধ্যমে তুলে ধরা হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৭.** সমাধান করো: $a^{x+2} \\cdot a^{2y+1} = a^{10}$, $a^{2x} \\cdot a^{y+1} = a^9$ ($a \\neq 1$)",
+      "image": null,
+      "formulas": [
+        "a^{x+2} \\cdot a^{2y+1} = a^{10}",
+        "a^{2x} \\cdot a^{y+1} = a^9",
+        "a \\neq 1"
+      ],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $a^{x+2} \\cdot a^{2y+1} = a^{10} \\dots (1)$ $a^{2x} \\cdot a^{y+1} = a^9 \\dots (2)$",
+      "image": null,
+      "formulas": [
+        "a^{x+2} \\cdot a^{2y+1} = a^{10} \\dots (1)",
+        "a^{2x} \\cdot a^{y+1} = a^9 \\dots (2)"
+      ],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(1) থেকে $a^{x+2y+3} = a^{10}$ বা, $x + 2y + 3 = 10$ বা, $x + 2y - 7 = 0 \\dots (3)$",
+      "image": null,
+      "formulas": [
+        "a^{x+2y+3} = a^{10}",
+        "x + 2y + 3 = 10",
+        "x + 2y - 7 = 0 \\dots (3)"
+      ],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(2) থেকে, $a^{2x+y+1} = a^9$ বা, $2x + y + 1 = 9$ বা, $2x + y - 8 = 0 \\dots (4)$",
+      "image": null,
+      "formulas": [
+        "a^{2x+y+1} = a^9",
+        "2x + y + 1 = 9",
+        "2x + y - 8 = 0 \\dots (4)"
+      ],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(3) ও (4) থেকে আড়গুণন পদ্ধতি অনুসারে,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p007",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{x}{-16 + 7} = \\frac{y}{-14 + 8} = \\frac{1}{1 - 4}$$",
+      "image": null,
+      "formulas": [
+        "\\frac{x}{-16 + 7} = \\frac{y}{-14 + 8} = \\frac{1}{1 - 4}"
+      ],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\frac{x}{-9} = \\frac{y}{-6} = \\frac{1}{-3}$",
+      "image": null,
+      "formulas": [
+        "\\frac{x}{-9} = \\frac{y}{-6} = \\frac{1}{-3}"
+      ],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\frac{x}{3} = \\frac{y}{2} = 1$",
+      "image": null,
+      "formulas": [
+        "\\frac{x}{3} = \\frac{y}{2} = 1"
+      ],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x = 3, y = 2$",
+      "image": null,
+      "formulas": [
+        "x = 3, y = 2"
+      ],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণেয় সমাধান $(x, y) = (3, 2)$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "(x, y) = (3, 2)"
+      ],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৮.** সমাধান করো: $3^{3y-1} = 9^{x+y}$, $4^{x+3y} = 16^{2x+3}$",
+      "image": null,
+      "formulas": [
+        "3^{3y-1} = 9^{x+y}",
+        "4^{x+3y} = 16^{2x+3}"
+      ],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $3^{3y-1} = 9^{x+y} \\dots (1)$",
+      "image": null,
+      "formulas": [
+        "3^{3y-1} = 9^{x+y} \\dots (1)"
+      ],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $3^{3y-1} = (3^2)^{x+y}$ বা, $3^{3y-1} = 3^{2x+2y}$",
+      "image": null,
+      "formulas": [
+        "3^{3y-1} = (3^2)^{x+y}",
+        "3^{3y-1} = 3^{2x+2y}"
+      ],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $3y - 1 = 2x + 2y$",
+      "image": null,
+      "formulas": [
+        "3y - 1 = 2x + 2y"
+      ],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $2x - y + 1 = 0 \\dots (2)$",
+      "image": null,
+      "formulas": [
+        "2x - y + 1 = 0 \\dots (2)"
+      ],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এবং $4^{x+3y} = 16^{2x+3} \\dots (3)$",
+      "image": null,
+      "formulas": [
+        "4^{x+3y} = 16^{2x+3} \\dots (3)"
+      ],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $4^{x+3y} = (4^2)^{2x+3}$ বা, $4^{x+3y} = 4^{4x+6}$ বা, $x + 3y = 4x + 6$ বা, $3x - 3y + 6 = 0$",
+      "image": null,
+      "formulas": [
+        "4^{x+3y} = (4^2)^{2x+3}",
+        "4^{x+3y} = 4^{4x+6}",
+        "x + 3y = 4x + 6",
+        "3x - 3y + 6 = 0"
+      ],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 119,
+      "printedPageStart": 113,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x - y + 2 = 0 \\dots (4)$",
+      "image": null,
+      "formulas": [
+        "x - y + 2 = 0 \\dots (4)"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(2) ও (4) থেকে আড়গুণন পদ্ধতি অনুসারে, $\\frac{x}{-2 + 1} = \\frac{y}{1 - 4} = \\frac{1}{-2 + 1}$",
+      "image": null,
+      "formulas": [
+        "\\frac{x}{-2 + 1} = \\frac{y}{1 - 4} = \\frac{1}{-2 + 1}"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\frac{x}{-1} = \\frac{y}{-3} = -1$",
+      "image": null,
+      "formulas": [
+        "\\frac{x}{-1} = \\frac{y}{-3} = -1"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x = 1, y = 3$",
+      "image": null,
+      "formulas": [
+        "x = 1, y = 3"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণয়ে সমাধান $(x, y) = (1, 3)$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "(x, y) = (1, 3)"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৯.** সমাধান করো: $x^y = y^x, x = 2y$",
+      "image": null,
+      "formulas": [
+        "x^y = y^x, x = 2y"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p025",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $x^y = y^x \\dots (1)$ $x = 2y \\dots (2)$ এখানে $x \\neq 0, y \\neq 0$",
+      "image": null,
+      "formulas": [
+        "x^y = y^x \\dots (1)",
+        "x = 2y \\dots (2)",
+        "x \\neq 0, y \\neq 0"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p026",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(2) থেকে $x$ এর মান (1) এ বসিয়ে পাই, $(2y)^y = y^{2y}$ বা, $2^y \\cdot y^y = y^{2y}$",
+      "image": null,
+      "formulas": [
+        "x",
+        "(2y)^y = y^{2y}",
+        "2^y \\cdot y^y = y^{2y}"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p027",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\frac{y^{2y}}{y^y} = 2^y$ বা, $y^y = 2^y \\therefore y = 2$",
+      "image": null,
+      "formulas": [
+        "\\frac{y^{2y}}{y^y} = 2^y",
+        "y^y = 2^y \\therefore y = 2"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p028",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(2) থেকে, $x = 4$",
+      "image": null,
+      "formulas": [
+        "x = 4"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p029",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণয়ে সমাধান $(x, y) = (4, 2)$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "(x, y) = (4, 2)"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p030",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৩০.** সমাধান করো: $x^y = y^2, y^{2y} = x^4$, যেখানে $x \\neq 1$",
+      "image": null,
+      "formulas": [
+        "x^y = y^2, y^{2y} = x^4",
+        "x \\neq 1"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p031",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $x^y = y^2 \\dots (1)$ $y^{2y} = x^4 \\dots (2)$",
+      "image": null,
+      "formulas": [
+        "x^y = y^2 \\dots (1)",
+        "y^{2y} = x^4 \\dots (2)"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p032",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(1) থেকে পাই, $(x^y)^y = (y^2)^y$ বা, $x^{y^2} = y^{2y} \\dots (3)$",
+      "image": null,
+      "formulas": [
+        "(x^y)^y = (y^2)^y",
+        "x^{y^2} = y^{2y} \\dots (3)"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p033",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(3) ও (2) থেকে পাই, $x^{y^2} = x^4$",
+      "image": null,
+      "formulas": [
+        "x^{y^2} = x^4"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p034",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore y^2 = 4$ বা, $y = \\pm 2$",
+      "image": null,
+      "formulas": [
+        "\\therefore y^2 = 4",
+        "y = \\pm 2"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p035",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন $y = 2$ হলে (1) থেকে পাই, $x^2 = 2^2 = 4$ বা, $x = \\pm 2$",
+      "image": null,
+      "formulas": [
+        "y = 2",
+        "x^2 = 2^2 = 4",
+        "x = \\pm 2"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p036",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার, $y = -2$ হলে (1) থেকে পাই, $x^{-2} = (-2)^2 = 4$ বা, $x^2 = \\frac{1}{4}$ বা, $x = \\pm \\frac{1}{2}$",
+      "image": null,
+      "formulas": [
+        "y = -2",
+        "x^{-2} = (-2)^2 = 4",
+        "x^2 = \\frac{1}{4}",
+        "x = \\pm \\frac{1}{2}"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p037",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণয়ে সমাধান $(x, y) = (2, 2), (-2, 2), \\left(\\frac{1}{2}, -2\\right), \\left(-\\frac{1}{2}, -2\\right)$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "(x, y) = (2, 2), (-2, 2), \\left(\\frac{1}{2}, -2\\right), \\left(-\\frac{1}{2}, -2\\right)"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p038",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৩১.** সমাধান করো: $8 \\cdot 2^{xy} = 4^y, 9^x \\cdot 3^{xy} = \\frac{1}{27}$",
+      "image": null,
+      "formulas": [
+        "8 \\cdot 2^{xy} = 4^y, 9^x \\cdot 3^{xy} = \\frac{1}{27}"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p039",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $8 \\cdot 2^{xy} = 4^y \\dots (1)$ $9^x \\cdot 3^{xy} = \\frac{1}{27} \\dots (2)$",
+      "image": null,
+      "formulas": [
+        "8 \\cdot 2^{xy} = 4^y \\dots (1)",
+        "9^x \\cdot 3^{xy} = \\frac{1}{27} \\dots (2)"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p040",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(1) থেকে পাই, $2^3 \\cdot 2^{xy} = (2^2)^y$ বা, $2^{3+xy} = 2^{2y}$ বা, $3 + xy = 2y \\dots (3)$",
+      "image": null,
+      "formulas": [
+        "2^3 \\cdot 2^{xy} = (2^2)^y",
+        "2^{3+xy} = 2^{2y}",
+        "3 + xy = 2y \\dots (3)"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p041",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(2) থেকে পাই, $(3^2)^x \\cdot 3^{xy} = \\frac{1}{3^3}$ বা, $3^{2x+xy} = 3^{-3}$ বা, $2x + xy = -3 \\dots (4)$",
+      "image": null,
+      "formulas": [
+        "(3^2)^x \\cdot 3^{xy} = \\frac{1}{3^3}",
+        "3^{2x+xy} = 3^{-3}",
+        "2x + xy = -3 \\dots (4)"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p042",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(3) থেকে (4) বিয়োগ করে পাই, $3 - 2x = 2y + 3$ বা, $-x = y \\dots (5)$",
+      "image": null,
+      "formulas": [
+        "3 - 2x = 2y + 3",
+        "-x = y \\dots (5)"
+      ],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p043",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(5) থেকে $y$ এর মান (3) এ বসিয়ে পাই, $3 - x^2 = -2x$",
+      "image": null,
+      "formulas": [
+        "y",
+        "3 - x^2 = -2x"
+      ],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p044",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x^2 - 2x - 3 = 0$ বা, $(x + 1)(x - 3) = 0$",
+      "image": null,
+      "formulas": [
+        "x^2 - 2x - 3 = 0",
+        "(x + 1)(x - 3) = 0"
+      ],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p045",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore x = -1$ অথবা $x = 3$",
+      "image": null,
+      "formulas": [
+        "\\therefore x = -1",
+        "x = 3"
+      ],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p046",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$x = -1$ হলে (5) থেকে পাই, $y = 1$",
+      "image": null,
+      "formulas": [
+        "x = -1",
+        "y = 1"
+      ],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p047",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$x = 3$ হলে (5) থেকে পাই, $y = -3$",
+      "image": null,
+      "formulas": [
+        "x = 3",
+        "y = -3"
+      ],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p048",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণয়ে সমাধান $(x, y) = (-1, 1), (3, -3)$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "(x, y) = (-1, 1), (3, -3)"
+      ],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p049",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৩২.** সমাধান করো: $18y^x - y^{2x} = 81, 3^x = y^2$",
+      "image": null,
+      "formulas": [
+        "18y^x - y^{2x} = 81, 3^x = y^2"
+      ],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p050",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $18y^x - y^{2x} = 81 \\dots (1)$ $3^x = y^2 \\dots (2)$",
+      "image": null,
+      "formulas": [
+        "18y^x - y^{2x} = 81 \\dots (1)",
+        "3^x = y^2 \\dots (2)"
+      ],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p051",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(1) থেকে পাই, $y^{2x} - 18y^x + 81 = 0$ বা, $(y^x - 9)^2 = 0$",
+      "image": null,
+      "formulas": [
+        "y^{2x} - 18y^x + 81 = 0",
+        "(y^x - 9)^2 = 0"
+      ],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p052",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $y^x - 9 = 0$ বা, $y^x = 3^2 \\dots (3)$",
+      "image": null,
+      "formulas": [
+        "y^x - 9 = 0",
+        "y^x = 3^2 \\dots (3)"
+      ],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p053",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(2) থেকে পাই, $(3^x)^x = (y^2)^x$ বা, $3^{x^2} = y^{2x} \\dots (4)$",
+      "image": null,
+      "formulas": [
+        "(3^x)^x = (y^2)^x",
+        "3^{x^2} = y^{2x} \\dots (4)"
+      ],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p054",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(3) থেকে পাই, $(y^x)^2 = (3^2)^2$ বা, $y^{2x} = 3^4 \\dots (5)$",
+      "image": null,
+      "formulas": [
+        "(y^x)^2 = (3^2)^2",
+        "y^{2x} = 3^4 \\dots (5)"
+      ],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p055",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(4) ও (5) থেকে পাই, $3^{x^2} = 3^4$",
+      "image": null,
+      "formulas": [
+        "3^{x^2} = 3^4"
+      ],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p056",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore x^2 = 4$ বা, $x = \\pm 2$",
+      "image": null,
+      "formulas": [
+        "\\therefore x^2 = 4",
+        "x = \\pm 2"
+      ],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p057",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$x = 2$ হলে (2) থেকে পাই, $y^2 = 9$ বা, $y = \\pm 3$",
+      "image": null,
+      "formulas": [
+        "x = 2",
+        "y^2 = 9",
+        "y = \\pm 3"
+      ],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p058",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$x = -2$ হলে (3) থেকে পাই, $y^{-2} = 9$ বা, $y^2 = \\frac{1}{9}$ বা, $y = \\pm \\frac{1}{3}$",
+      "image": null,
+      "formulas": [
+        "x = -2",
+        "y^{-2} = 9",
+        "y^2 = \\frac{1}{9}",
+        "y = \\pm \\frac{1}{3}"
+      ],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.6-p059",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণয়ে সমাধান $(x, y) = (2, 3), (2, -3), \\left(-2, \\frac{1}{3}\\right), \\left(-2, -\\frac{1}{3}\\right)$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "(x, y) = (2, 3), (2, -3), \\left(-2, \\frac{1}{3}\\right), \\left(-2, -\\frac{1}{3}\\right)"
+      ],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

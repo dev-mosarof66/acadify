@@ -1,0 +1,1570 @@
+{
+  "id": "higher-math-9-10-bn-c03-t3.3",
+  "key": "3.3",
+  "title": "ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু",
+  "chapter": 3,
+  "ordinal": 4,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**ত্রিভুজের পরিকেন্দ্র:** ত্রিভুজের যেকোনো দুই বাহুর লম্বদ্বিখণ্ডক যে বিন্দুতে ছেদ করে তাকে ত্রিভুজের পরিকেন্দ্র বলে। উল্লেখ্য, তৃতীয় বাহুর লম্বদ্বিখণ্ডকও ঐ বিন্দুগামী।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 78,
+      "pdfPageEnd": 78,
+      "printedPageStart": 73,
+      "printedPageEnd": 73,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**ত্রিভুজের ভরকেন্দ্র:** ত্রিভুজের মধ্যমাগুলো যে বিন্দুতে ছেদ করে ঐ বিন্দুকে ত্রিভুজটির ভরকেন্দ্র বলা হয়। ত্রিভুজের ভরকেন্দ্রে মধ্যমাগুলো ২ : ১ অনুপাতে বিভক্ত হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 78,
+      "pdfPageEnd": 78,
+      "printedPageStart": 73,
+      "printedPageEnd": 73,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**ত্রিভুজের লম্ববিন্দু:** ত্রিভুজের শীর্ষবিন্দুগুলো হতে বিপরীত বাহুর উপর অঙ্কিত লম্বগুলো যে বিন্দুতে ছেদ করে তাহাই লম্ববিন্দু।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 78,
+      "pdfPageEnd": 78,
+      "printedPageStart": 73,
+      "printedPageEnd": 73,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে উল্লেখ্য, কোনো ত্রিভুজের লম্ববিন্দু থেকে শীর্ষের দূরত্ব ত্রিভুজের পরিকেন্দ্র থেকে ঐ শীর্ষের বিপরীত বাহুর লম্ব দূরত্বের দ্বিগুণ।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 79,
+      "pdfPageEnd": 79,
+      "printedPageStart": 74,
+      "printedPageEnd": 74,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p005",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "**বিশেষ নির্বাচন:** মনে করি, $\\triangle ABC$ এর লম্ববিন্দু $O$, পরিকেন্দ্র $S$ এবং $AP$ একটি মধ্যমা। লম্ববিন্দু $O$ এবং পরিকেন্দ্র $S$ এর সংযোগ রেখা $AP$ মধ্যমাকে $G$ বিন্দুতে ছেদ করেছে। $S, P$ যোগ করলে $SP$ রেখা $BC$ এর উপর লম্ব। তাহলে, $G$ বিন্দুটি $\\triangle ABC$ এর ভরকেন্দ্র এটি প্রমাণ করাই যথেষ্ট।",
+      "image": null,
+      "formulas": [
+        "\\triangle ABC",
+        "O",
+        "S",
+        "AP",
+        "O",
+        "S",
+        "AP",
+        "G",
+        "S, P",
+        "SP",
+        "BC",
+        "G",
+        "\\triangle ABC"
+      ],
+      "pdfPageStart": 79,
+      "pdfPageEnd": 79,
+      "printedPageStart": 74,
+      "printedPageEnd": 74,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p006",
+      "kind": "figure",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "drawing: A geometric diagram of a triangle ABC inscribed in a circle with center O, including medians and altitudes intersecting at points G, S, P, and D.",
+      "image": "p79-page_12_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 79,
+      "pdfPageEnd": 79,
+      "printedPageStart": 74,
+      "printedPageEnd": 74,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p007",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "**প্রমাণ:** $\\triangle ABC$ এর লম্ববিন্দু $O$ থেকে $A$ শীর্ষের দূরত্ব $OA$ এবং পরিকেন্দ্র $S$ থেকে $A$ শীর্ষের বিপরীত বাহু $BC$ এর দূরত্ব $SP$। $\\therefore OA = 2SP$ (1)",
+      "image": null,
+      "formulas": [
+        "\\triangle ABC",
+        "O",
+        "A",
+        "OA",
+        "S",
+        "A",
+        "BC",
+        "SP",
+        "\\therefore OA = 2SP"
+      ],
+      "pdfPageStart": 79,
+      "pdfPageEnd": 79,
+      "printedPageStart": 74,
+      "printedPageEnd": 74,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p008",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "এখন যেহেতু $AD$ ও $SP$ উভয়ই $BC$ এর উপর লম্ব সেহেতু $AD \\parallel SP$। এখন $AD \\parallel SP$ এবং $AP$ এদের ছেদক। সুতরাং একান্তর কোণ হওয়ায় $\\angle PAD = \\angle APS$, অর্থাৎ, $\\angle OAG = \\angle SPG$।",
+      "image": null,
+      "formulas": [
+        "AD",
+        "SP",
+        "BC",
+        "AD \\parallel SP",
+        "AD \\parallel SP",
+        "AP",
+        "\\angle PAD = \\angle APS",
+        "\\angle OAG = \\angle SPG"
+      ],
+      "pdfPageStart": 79,
+      "pdfPageEnd": 79,
+      "printedPageStart": 74,
+      "printedPageEnd": 74,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p009",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "এখন $\\triangle AGO$ এবং $\\triangle PGS$ এর মধ্যে",
+      "image": null,
+      "formulas": [
+        "\\triangle AGO",
+        "\\triangle PGS"
+      ],
+      "pdfPageStart": 79,
+      "pdfPageEnd": 79,
+      "printedPageStart": 74,
+      "printedPageEnd": 74,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p010",
+      "kind": "formula",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "$$\\angle AGO = \\angle PGS \\quad [বিপরীত কোণ]$$",
+      "image": null,
+      "formulas": [
+        "\\angle AGO = \\angle PGS \\quad [বিপরীত কোণ]"
+      ],
+      "pdfPageStart": 79,
+      "pdfPageEnd": 79,
+      "printedPageStart": 74,
+      "printedPageEnd": 74,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p011",
+      "kind": "formula",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "$$\\angle OAG = \\angle SPG \\quad [একান্তর কোণ]$$",
+      "image": null,
+      "formulas": [
+        "\\angle OAG = \\angle SPG \\quad [একান্তর কোণ]"
+      ],
+      "pdfPageStart": 79,
+      "pdfPageEnd": 79,
+      "printedPageStart": 74,
+      "printedPageEnd": 74,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p012",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "$\\therefore$ অবশিষ্ট $\\angle AOG = অবশিষ্ট  \\angle PSG$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "\\angle AOG = অবশিষ্ট  \\angle PSG"
+      ],
+      "pdfPageStart": 79,
+      "pdfPageEnd": 79,
+      "printedPageStart": 74,
+      "printedPageEnd": 74,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p013",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "$\\therefore \\triangle AGO$ এবং $\\triangle PGS$ সদৃশকোণী।",
+      "image": null,
+      "formulas": [
+        "\\therefore \\triangle AGO",
+        "\\triangle PGS"
+      ],
+      "pdfPageStart": 79,
+      "pdfPageEnd": 79,
+      "printedPageStart": 74,
+      "printedPageEnd": 74,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p014",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "সুতরাং, $\\frac{AG}{GP} = \\frac{OA}{SP}$ অর্থাৎ, $\\frac{AG}{GP} = \\frac{2SP}{SP}$ [(1) নং সমীকরণ হতে]",
+      "image": null,
+      "formulas": [
+        "\\frac{AG}{GP} = \\frac{OA}{SP}",
+        "\\frac{AG}{GP} = \\frac{2SP}{SP}"
+      ],
+      "pdfPageStart": 79,
+      "pdfPageEnd": 79,
+      "printedPageStart": 74,
+      "printedPageEnd": 74,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p015",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "অতএব $\\frac{AG}{GP} = \\frac{2}{1}$ বা, $AG : GP = 2 : 1$ অর্থাৎ, $G$ বিন্দু $AP$ মধ্যমাকে ২ : ১ অনুপাতে বিভক্ত করেছে।",
+      "image": null,
+      "formulas": [
+        "\\frac{AG}{GP} = \\frac{2}{1}",
+        "AG : GP = 2 : 1",
+        "G",
+        "AP"
+      ],
+      "pdfPageStart": 79,
+      "pdfPageEnd": 80,
+      "printedPageStart": 74,
+      "printedPageEnd": 75,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p016",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "$\\therefore G$ বিন্দু $\\triangle ABC$ এর ভরকেন্দ্র। [প্রমাণিত]",
+      "image": null,
+      "formulas": [
+        "\\therefore G",
+        "\\triangle ABC"
+      ],
+      "pdfPageStart": 80,
+      "pdfPageEnd": 80,
+      "printedPageStart": 75,
+      "printedPageEnd": 75,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p017",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "**দ্রষ্টব্য:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 80,
+      "pdfPageEnd": 80,
+      "printedPageStart": 75,
+      "printedPageEnd": 75,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p018",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "ক) **নববিন্দুবৃত্ত (Nine Point Circle):** কোনো ত্রিভুজের বাহুগুলোর মধ্যবিন্দুএয়, শীর্ষবিন্দুগুলো থেকে বিপরীত বাহুএয়ের উপর অঙ্কিত লম্বএয়ের পাদবিন্দুএয় এবং শীর্ষবিন্দু ও লম্ববিন্দুর সংযোজক রেখাএয়ের মধ্যবিন্দুএয়, সর্বমোট এই নয়টি বিন্দু একই বৃত্তের উপর অবস্থান করে। এই বৃত্তকেই নববিন্দুবৃত্ত বলে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 80,
+      "pdfPageEnd": 80,
+      "printedPageStart": 75,
+      "printedPageEnd": 75,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p019",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "খ) ত্রিভুজের লম্ববিন্দু ও পরিকেন্দ্র সংযোজনকারী রেখাংশের মধ্যবিন্দুই নববিন্দু বৃত্তের কেন্দ্র।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 80,
+      "pdfPageEnd": 80,
+      "printedPageStart": 75,
+      "printedPageEnd": 75,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p020",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "গ) নববিন্দু বৃত্তের ব্যাসার্ধ ত্রিভুজের পরিব্যাসারের অর্ধেকের সমান।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 80,
+      "pdfPageEnd": 80,
+      "printedPageStart": 75,
+      "printedPageEnd": 75,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p021",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "**উপপাদ্য ১১ (ব্রহ্মগুণ্তের উপপাদ্য).** বৃত্তে অন্তলিখিত কোনো চতুর্ভুজের কর্ণ দুটি যদি পরস্পর লম্ব হয়, তবে তাদের ছেদ বিন্দু হতে কোনো বাহুর উপর অঙ্কিত লম্ব বিপরীত বাহুকে সমদ্বিখণ্ডিত করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 80,
+      "pdfPageEnd": 80,
+      "printedPageStart": 75,
+      "printedPageEnd": 75,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p022",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "**বিশেষ নির্দেশ:** মনে করি, বৃত্তে অন্তলিখিত $ABCD$ চতুর্ভুজের কর্ণদ্বয় $AC$ ও $BD$ পরস্পরকে লম্বভাবে $M$ বিন্দুতে ছেদ করে। $M$ হতে $BC$ বাহুর উপর $ME$ লম্ব এবং বর্ধিত $EM$ বিপরীত $AD$ বাহুকে $F$ বিন্দুতে ছেদ করে। প্রমাণ করতে হবে $AF = FD$।",
+      "image": null,
+      "formulas": [
+        "ABCD",
+        "AC",
+        "BD",
+        "M",
+        "M",
+        "BC",
+        "ME",
+        "EM",
+        "AD",
+        "F",
+        "AF = FD"
+      ],
+      "pdfPageStart": 80,
+      "pdfPageEnd": 80,
+      "printedPageStart": 75,
+      "printedPageEnd": 75,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p023",
+      "kind": "figure",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "drawing: A circle with inscribed quadrilateral ABCD, diagonals AC and BD intersecting at M, and a perpendicular from M to BC meeting the circle at E and the chord AD at F.",
+      "image": "p80-page_13_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 80,
+      "pdfPageEnd": 80,
+      "printedPageStart": 75,
+      "printedPageEnd": 75,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p024",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "**প্রমাণ:** একই চাপ $CD$ এর উপর দন্ডায়মান বলে $\\angle CBD = \\angle CAD$",
+      "image": null,
+      "formulas": [
+        "CD",
+        "\\angle CBD = \\angle CAD"
+      ],
+      "pdfPageStart": 80,
+      "pdfPageEnd": 80,
+      "printedPageStart": 75,
+      "printedPageEnd": 75,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p025",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "অর্থাৎ, $\\angle CBM = \\angle MAF$",
+      "image": null,
+      "formulas": [
+        "\\angle CBM = \\angle MAF"
+      ],
+      "pdfPageStart": 80,
+      "pdfPageEnd": 80,
+      "printedPageStart": 75,
+      "printedPageEnd": 75,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p026",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "আবার, $\\angle CBM = \\angle CME$ [উভয়ে একই $\\angle BME$ এর পূরক কোণ বলে]",
+      "image": null,
+      "formulas": [
+        "\\angle CBM = \\angle CME",
+        "\\angle BME"
+      ],
+      "pdfPageStart": 80,
+      "pdfPageEnd": 80,
+      "printedPageStart": 75,
+      "printedPageEnd": 75,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p027",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "সুতরাং $\\angle MAF = \\angle FMA$ [$\\because \\angle CME =$ বিপরীত $\\angle FMA$]",
+      "image": null,
+      "formulas": [
+        "\\angle MAF = \\angle FMA",
+        "\\because \\angle CME =",
+        "\\angle FMA"
+      ],
+      "pdfPageStart": 80,
+      "pdfPageEnd": 80,
+      "printedPageStart": 75,
+      "printedPageEnd": 75,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p028",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "ফলে $\\triangle AFM$ ত্রিভুজে $AF = FM$",
+      "image": null,
+      "formulas": [
+        "\\triangle AFM",
+        "AF = FM"
+      ],
+      "pdfPageStart": 80,
+      "pdfPageEnd": 80,
+      "printedPageStart": 75,
+      "printedPageEnd": 75,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p029",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "অনুরূপভাবে দেখানো যায় যে, $\\angle FDM = \\angle BCM = \\angle BME = \\angle DMF$",
+      "image": null,
+      "formulas": [
+        "\\angle FDM = \\angle BCM = \\angle BME = \\angle DMF"
+      ],
+      "pdfPageStart": 80,
+      "pdfPageEnd": 80,
+      "printedPageStart": 75,
+      "printedPageEnd": 75,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p030",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "ফলে, $\\triangle DFM$ ত্রিভুজে $FD = FM$ সুতরাং $AF = FD$ [প্রমাণিত]",
+      "image": null,
+      "formulas": [
+        "\\triangle DFM",
+        "FD = FM",
+        "AF = FD"
+      ],
+      "pdfPageStart": 80,
+      "pdfPageEnd": 81,
+      "printedPageStart": 75,
+      "printedPageEnd": 76,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p031",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "উপপাদ্য ১২ (টলেমির উপপাদ্য). বৃত্তে অন্তলিখিত কোনো চতুর্ভুজের কর্ণদ্বয়ের অন্তর্গত আয়তক্ষেত্রের ক্ষেত্রফল ঐ চতুর্ভুজের বিপরীত বাহুদ্বয়ের অন্তর্গত আয়তক্ষেত্রদ্বয়ের ক্ষেত্রফলের সমষ্টির সমান।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p032",
+      "kind": "figure",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "drawing: A circle with inscribed quadrilateral ABCD and diagonals AC and BD intersecting at P. Angles at vertex A are marked with x.",
+      "image": "p81-page_14_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p033",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "**বিশেষ নির্বাচন:** মনে করি বৃত্তে অন্তলিখিত $ABCD$ চতুর্ভুজের বিপরীত বাহুগুলো যথাক্রমে $AB$ ও $CD$ এবং $BC$ ও $AD$। $AC$ এবং $BD$ চতুর্ভুজটির দুইটি কর্ণ। প্রমাণ করতে হবে যে, $AC \\cdot BD = AB \\cdot CD + BC \\cdot AD$।",
+      "image": null,
+      "formulas": [
+        "ABCD",
+        "AB",
+        "CD",
+        "BC",
+        "AD",
+        "AC",
+        "BD",
+        "AC \\cdot BD = AB \\cdot CD + BC \\cdot AD"
+      ],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p034",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "**প্রমাণ:** $\\angle BAC$ কে $\\angle DAC$ থেকে ছোট ধরে নিয়ে $A$ বিন্দুতে $AD$ রেখাংশের সাথে $\\angle BAC$ এর সমান করে $\\angle DAP$ আঁকি যেন $AP$ রেখা $BD$ কর্ণকে $P$ বিন্দুতে ছেদ করে।",
+      "image": null,
+      "formulas": [
+        "\\angle BAC",
+        "\\angle DAC",
+        "A",
+        "AD",
+        "\\angle BAC",
+        "\\angle DAP",
+        "AP",
+        "BD",
+        "P"
+      ],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p035",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "অঙ্কন অনুসারে $\\angle BAC = \\angle DAP$।",
+      "image": null,
+      "formulas": [
+        "\\angle BAC = \\angle DAP"
+      ],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p036",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "উভয়পক্ষে $\\angle CAP$ যোগ করে পাই,",
+      "image": null,
+      "formulas": [
+        "\\angle CAP"
+      ],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p037",
+      "kind": "formula",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "$$\\angle BAC + \\angle CAP = \\angle DAP + \\angle CAP  অর্থাৎ,  \\angle BAP = \\angle CAD$$",
+      "image": null,
+      "formulas": [
+        "\\angle BAC + \\angle CAP = \\angle DAP + \\angle CAP  অর্থাৎ,  \\angle BAP = \\angle CAD"
+      ],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p038",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "এখন $\\triangle ABP$ ও $\\triangle ACD$ এর মধ্যে",
+      "image": null,
+      "formulas": [
+        "\\triangle ABP",
+        "\\triangle ACD"
+      ],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p039",
+      "kind": "formula",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "$$\\angle BAP = \\angle CAD  এবং  \\angle ABD = \\angle ACD  [একই বৃত্তাংশস্থিত কোণ সমান বলে]$$",
+      "image": null,
+      "formulas": [
+        "\\angle BAP = \\angle CAD  এবং  \\angle ABD = \\angle ACD  [একই বৃত্তাংশস্থিত কোণ সমান বলে]"
+      ],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p040",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "এবং অবশিষ্ট $\\angle APB = অবশিষ্ট  \\angle ADC$।",
+      "image": null,
+      "formulas": [
+        "\\angle APB = অবশিষ্ট  \\angle ADC"
+      ],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p041",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "$\\therefore \\triangle ABP$ ও $\\triangle ACD$ সদৃশকোণী।",
+      "image": null,
+      "formulas": [
+        "\\therefore \\triangle ABP",
+        "\\triangle ACD"
+      ],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p042",
+      "kind": "formula",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "$$\\therefore \\frac{BP}{CD} = \\frac{AB}{AC}$$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\frac{BP}{CD} = \\frac{AB}{AC}"
+      ],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p043",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "অর্থাৎ, $AC \\cdot BP = AB \\cdot CD$ (1)",
+      "image": null,
+      "formulas": [
+        "AC \\cdot BP = AB \\cdot CD"
+      ],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p044",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "আবার, $\\triangle ABC$ ও $\\triangle APD$ এর মধ্যে",
+      "image": null,
+      "formulas": [
+        "\\triangle ABC",
+        "\\triangle APD"
+      ],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p045",
+      "kind": "formula",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "$$\\angle BAC = \\angle PAD  [অঙ্কন অনুসারে]$$",
+      "image": null,
+      "formulas": [
+        "\\angle BAC = \\angle PAD  [অঙ্কন অনুসারে]"
+      ],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p046",
+      "kind": "formula",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "$$\\angle ADP = \\angle ACB  [একই বৃত্তাংশস্থিত কোণ সমান বলে]$$",
+      "image": null,
+      "formulas": [
+        "\\angle ADP = \\angle ACB  [একই বৃত্তাংশস্থিত কোণ সমান বলে]"
+      ],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 81,
+      "printedPageStart": 76,
+      "printedPageEnd": 76,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p047",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "এবং অবশিষ্ট $\\angle ABC = অবশিষ্ট  \\angle APD$ $\\therefore \\triangle ABC$ ও $\\triangle APD$ সদৃশকোণী।",
+      "image": null,
+      "formulas": [
+        "\\angle ABC = অবশিষ্ট  \\angle APD",
+        "\\therefore \\triangle ABC",
+        "\\triangle APD"
+      ],
+      "pdfPageStart": 81,
+      "pdfPageEnd": 82,
+      "printedPageStart": 76,
+      "printedPageEnd": 77,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p048",
+      "kind": "formula",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "$$\\therefore \\frac{AD}{AC} = \\frac{PD}{BC}$$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\frac{AD}{AC} = \\frac{PD}{BC}"
+      ],
+      "pdfPageStart": 82,
+      "pdfPageEnd": 82,
+      "printedPageStart": 77,
+      "printedPageEnd": 77,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p049",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "অর্থাৎ, $AC \\cdot PD = BC \\cdot AD$ (2)",
+      "image": null,
+      "formulas": [
+        "AC \\cdot PD = BC \\cdot AD"
+      ],
+      "pdfPageStart": 82,
+      "pdfPageEnd": 82,
+      "printedPageStart": 77,
+      "printedPageEnd": 77,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p050",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "এখন সমীকরণ (1) ও (2) যোগ করে পাই,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 82,
+      "pdfPageEnd": 82,
+      "printedPageStart": 77,
+      "printedPageEnd": 77,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p051",
+      "kind": "formula",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "$$AC \\cdot BP + AC \\cdot PD = AB \\cdot CD + BC \\cdot AD$$",
+      "image": null,
+      "formulas": [
+        "AC \\cdot BP + AC \\cdot PD = AB \\cdot CD + BC \\cdot AD"
+      ],
+      "pdfPageStart": 82,
+      "pdfPageEnd": 82,
+      "printedPageStart": 77,
+      "printedPageEnd": 77,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p052",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "বা, $AC(BP + PD) = AB \\cdot CD + BC \\cdot AD$",
+      "image": null,
+      "formulas": [
+        "AC(BP + PD) = AB \\cdot CD + BC \\cdot AD"
+      ],
+      "pdfPageStart": 82,
+      "pdfPageEnd": 82,
+      "printedPageStart": 77,
+      "printedPageEnd": 77,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p053",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "কিন্তু $BP + PD = BD$",
+      "image": null,
+      "formulas": [
+        "BP + PD = BD"
+      ],
+      "pdfPageStart": 82,
+      "pdfPageEnd": 82,
+      "printedPageStart": 77,
+      "printedPageEnd": 77,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p054",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "ফলে $AC \\cdot BD = AB \\cdot CD + BC \\cdot AD$ [প্রমাণিত]",
+      "image": null,
+      "formulas": [
+        "AC \\cdot BD = AB \\cdot CD + BC \\cdot AD"
+      ],
+      "pdfPageStart": 82,
+      "pdfPageEnd": 82,
+      "printedPageStart": 77,
+      "printedPageEnd": 77,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p055",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "**উদাহরণ ১.** $\\triangle PQR$ এ $\\angle PQR = 90^\\circ$ এবং $PQ, QR$ ও $PR$ বাহু তিনটির মধ্যবিন্দু যথাক্রমে $D, E$ ও $F$।",
+      "image": null,
+      "formulas": [
+        "\\triangle PQR",
+        "\\angle PQR = 90^\\circ",
+        "PQ, QR",
+        "PR",
+        "D, E",
+        "F"
+      ],
+      "pdfPageStart": 82,
+      "pdfPageEnd": 82,
+      "printedPageStart": 77,
+      "printedPageEnd": 77,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p056",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "ক) তথ্যানুযায়ী চিত্র ঐকে ভরকেন্দ্র চিহ্নিত করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 82,
+      "pdfPageEnd": 82,
+      "printedPageStart": 77,
+      "printedPageEnd": 77,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p057",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "খ) প্রমাণ করো যে, $PR^2 = PE^2 + QE^2 + 2RE^2$।",
+      "image": null,
+      "formulas": [
+        "PR^2 = PE^2 + QE^2 + 2RE^2"
+      ],
+      "pdfPageStart": 82,
+      "pdfPageEnd": 82,
+      "printedPageStart": 77,
+      "printedPageEnd": 77,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p058",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "গ) $QF \\perp PR$ হলে প্রমাণ করো যে, $QF^2 = PF \\cdot RF$।",
+      "image": null,
+      "formulas": [
+        "QF \\perp PR",
+        "QF^2 = PF \\cdot RF"
+      ],
+      "pdfPageStart": 82,
+      "pdfPageEnd": 82,
+      "printedPageStart": 77,
+      "printedPageEnd": 77,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p059",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "**সমাধান:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 82,
+      "pdfPageEnd": 82,
+      "printedPageStart": 77,
+      "printedPageEnd": 77,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p060",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "ক) নিচের চিত্রে $PQ, QR$ ও $PR$ এর মধ্যবিন্দু যথাক্রমে $D, E$ ও $F$ হওয়ায় $PE, QF$ এবং $DR$ মধ্যমা। $PE, QF$ এবং $DR$ মধ্যমাত্রয় $G$ বিন্দুতে ছেদ করেছে। $\\therefore G$ বিন্দু ভরকেন্দ্র।",
+      "image": null,
+      "formulas": [
+        "PQ, QR",
+        "PR",
+        "D, E",
+        "F",
+        "PE, QF",
+        "DR",
+        "PE, QF",
+        "DR",
+        "G",
+        "\\therefore G"
+      ],
+      "pdfPageStart": 82,
+      "pdfPageEnd": 82,
+      "printedPageStart": 77,
+      "printedPageEnd": 77,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p061",
+      "kind": "figure",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "drawing: geometric diagram of triangle PQR with medians intersecting at G",
+      "image": "p82-page_15_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 82,
+      "pdfPageEnd": 82,
+      "printedPageStart": 77,
+      "printedPageEnd": 77,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p062",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "খ) $\\angle PQR = 90^\\circ$ এবং $\\triangle PQR$ এ $QR$ এর মধ্যবিন্দু $E$। $P, E$ যোগ করি। প্রমাণ করতে হবে যে, $PR^2 = PE^2 + QE^2 + 2RE^2$।",
+      "image": null,
+      "formulas": [
+        "\\angle PQR = 90^\\circ",
+        "\\triangle PQR",
+        "QR",
+        "E",
+        "P, E",
+        "PR^2 = PE^2 + QE^2 + 2RE^2"
+      ],
+      "pdfPageStart": 82,
+      "pdfPageEnd": 82,
+      "printedPageStart": 77,
+      "printedPageEnd": 77,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p063",
+      "kind": "figure",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "drawing: Geometric diagram showing a right-angled triangle PQR with an altitude PE",
+      "image": "p83-page_16_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 83,
+      "pdfPageEnd": 83,
+      "printedPageStart": 78,
+      "printedPageEnd": 78,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p064",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "**প্রমাণ:** $\\triangle PQE$ এ $\\angle PQE = 90^\\circ$ এবং $PE$ অতিভুজ\n$$\\therefore PE^2 = PQ^2 + QE^2 \\dots\\dots (1)$$",
+      "image": null,
+      "formulas": [
+        "\\triangle PQE",
+        "\\angle PQE = 90^\\circ",
+        "PE",
+        "\\therefore PE^2 = PQ^2 + QE^2 \\dots\\dots (1)"
+      ],
+      "pdfPageStart": 83,
+      "pdfPageEnd": 83,
+      "printedPageStart": 78,
+      "printedPageEnd": 78,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p065",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "আবার, $\\triangle PQR$ এ $\\angle PQR = 90^\\circ$ এবং $PR$ অতিভুজ\n$$\\therefore PR^2 = PQ^2 + QR^2$$\nবা, $PR^2 = PQ^2 + (QE + RE)^2$\nবা, $PR^2 = PQ^2 + QE^2 + RE^2 + 2QE \\cdot RE$\nবা, $PR^2 = PQ^2 + QE^2 + QE^2 + 2RE \\cdot RE$ [$\\because QE = RE$]\nবা, $PR^2 = PE^2 + QE^2 + 2RE^2$ [(1) নং এর সাহায্যে]\n$$\\therefore PR^2 = PE^2 + QE^2 + 2RE^2 \\quad \\quad \\quad \\quad [প্রমাণিত]$$",
+      "image": null,
+      "formulas": [
+        "\\triangle PQR",
+        "\\angle PQR = 90^\\circ",
+        "PR",
+        "\\therefore PR^2 = PQ^2 + QR^2",
+        "PR^2 = PQ^2 + (QE + RE)^2",
+        "PR^2 = PQ^2 + QE^2 + RE^2 + 2QE \\cdot RE",
+        "PR^2 = PQ^2 + QE^2 + QE^2 + 2RE \\cdot RE",
+        "\\because QE = RE",
+        "PR^2 = PE^2 + QE^2 + 2RE^2",
+        "\\therefore PR^2 = PE^2 + QE^2 + 2RE^2 \\quad \\quad \\quad \\quad [প্রমাণিত]"
+      ],
+      "pdfPageStart": 83,
+      "pdfPageEnd": 83,
+      "printedPageStart": 78,
+      "printedPageEnd": 78,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p066",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "গ) $\\triangle PQR$ এ $\\angle PQR = 90^\\circ$ এবং $QF \\perp PR$। প্রমাণ করতে হবে যে, $QF^2 = PF \\cdot RF$।",
+      "image": null,
+      "formulas": [
+        "\\triangle PQR",
+        "\\angle PQR = 90^\\circ",
+        "QF \\perp PR",
+        "QF^2 = PF \\cdot RF"
+      ],
+      "pdfPageStart": 83,
+      "pdfPageEnd": 83,
+      "printedPageStart": 78,
+      "printedPageEnd": 78,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p067",
+      "kind": "figure",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "drawing: Geometric diagram showing a right-angled triangle PQR with altitude QF",
+      "image": "p83-page_16_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 83,
+      "pdfPageEnd": 83,
+      "printedPageStart": 78,
+      "printedPageEnd": 78,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p068",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "**প্রমাণ:** $\\angle PQR = 90^\\circ$\n$$\\therefore \\angle PQF + \\angle FQR = 90^\\circ \\dots\\dots (1)$$",
+      "image": null,
+      "formulas": [
+        "\\angle PQR = 90^\\circ",
+        "\\therefore \\angle PQF + \\angle FQR = 90^\\circ \\dots\\dots (1)"
+      ],
+      "pdfPageStart": 83,
+      "pdfPageEnd": 83,
+      "printedPageStart": 78,
+      "printedPageEnd": 78,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p069",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "আবার, $QF \\perp PR$ বলে $\\angle PFQ = \\angle QFR = 90^\\circ$",
+      "image": null,
+      "formulas": [
+        "QF \\perp PR",
+        "\\angle PFQ = \\angle QFR = 90^\\circ"
+      ],
+      "pdfPageStart": 83,
+      "pdfPageEnd": 83,
+      "printedPageStart": 78,
+      "printedPageEnd": 78,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p070",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "$\\triangle PQF$ এ $\\angle PFQ + \\angle PQF + \\angle QPF = 180^\\circ$\nবা, $90^\\circ + \\angle PQF + \\angle QPF = 180^\\circ$\n$$\\therefore \\angle PQF + \\angle QPF = 90^\\circ \\dots\\dots (2)$$",
+      "image": null,
+      "formulas": [
+        "\\triangle PQF",
+        "\\angle PFQ + \\angle PQF + \\angle QPF = 180^\\circ",
+        "90^\\circ + \\angle PQF + \\angle QPF = 180^\\circ",
+        "\\therefore \\angle PQF + \\angle QPF = 90^\\circ \\dots\\dots (2)"
+      ],
+      "pdfPageStart": 83,
+      "pdfPageEnd": 83,
+      "printedPageStart": 78,
+      "printedPageEnd": 78,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p071",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "(1) নং এবং (2) নং হতে পাই",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 83,
+      "pdfPageEnd": 83,
+      "printedPageStart": 78,
+      "printedPageEnd": 78,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p072",
+      "kind": "formula",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "$$\\angle PQF + \\angle FQR = \\angle PQF + \\angle QPF$$",
+      "image": null,
+      "formulas": [
+        "\\angle PQF + \\angle FQR = \\angle PQF + \\angle QPF"
+      ],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p073",
+      "kind": "formula",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "$$\\therefore \\angle FQR = \\angle QPF$$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\angle FQR = \\angle QPF"
+      ],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p074",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "$\\triangle PQF$ এবং $\\triangle QFR$ এ",
+      "image": null,
+      "formulas": [
+        "\\triangle PQF",
+        "\\triangle QFR"
+      ],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p075",
+      "kind": "formula",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "$$\\angle PFQ = \\angle QFR, \\angle QPF = \\angle FQR$$",
+      "image": null,
+      "formulas": [
+        "\\angle PFQ = \\angle QFR, \\angle QPF = \\angle FQR"
+      ],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p076",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "অবশিষ্ট $\\angle PQF = অবশিষ্ট  \\angle FRQ$",
+      "image": null,
+      "formulas": [
+        "\\angle PQF = অবশিষ্ট  \\angle FRQ"
+      ],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p077",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "$\\therefore \\triangle PQF$ এবং $\\triangle QFR$ সদৃশ",
+      "image": null,
+      "formulas": [
+        "\\therefore \\triangle PQF",
+        "\\triangle QFR"
+      ],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p078",
+      "kind": "formula",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "$$\\therefore \\frac{PQ}{QR} = \\frac{QF}{FR} = \\frac{PF}{FQ}$$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\frac{PQ}{QR} = \\frac{QF}{FR} = \\frac{PF}{FQ}"
+      ],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p079",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "অর্থাৎ $\\frac{QF}{RF} = \\frac{PF}{QF}$",
+      "image": null,
+      "formulas": [
+        "\\frac{QF}{RF} = \\frac{PF}{QF}"
+      ],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.3-p080",
+      "kind": "text",
+      "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
+      "caption": null,
+      "body": "বা, $QF^2 = PF \\cdot RF$ [প্রমাণিত]",
+      "image": null,
+      "formulas": [
+        "QF^2 = PF \\cdot RF"
+      ],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

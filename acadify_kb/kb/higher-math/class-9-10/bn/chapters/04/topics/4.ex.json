@@ -1,0 +1,426 @@
+{
+  "id": "higher-math-9-10-bn-c04-t4.ex",
+  "key": "4.ex",
+  "title": "অনুশীলনী ৪",
+  "chapter": 4,
+  "ordinal": 2,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c04-t4.ex-p001",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১. ত্রিভুজের দুটি কোণ ও তাদের বিপরীত বাহুদ্বয়ের অন্তর দেওয়া আছে, ত্রিভুজটি আঁকো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 98,
+      "pdfPageEnd": 98,
+      "printedPageStart": 93,
+      "printedPageEnd": 93,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.ex-p002",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "২. ত্রিভুজের ভূমি, ভূমিসংলগ্ন কোণদ্বয়ের অন্তর ও অপর বাহুদ্বয়ের সমষ্টি দেওয়া আছে, ত্রিভুজটি আঁকো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 98,
+      "pdfPageEnd": 98,
+      "printedPageStart": 93,
+      "printedPageEnd": 93,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.ex-p003",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৩. ভূমি, শিরঃকোণ ও অপর কোণদ্বয়ের সমষ্টি দেওয়া আছে, ত্রিভুজটি আঁকো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 98,
+      "pdfPageEnd": 98,
+      "printedPageStart": 93,
+      "printedPageEnd": 93,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.ex-p004",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৪. ভূমি, শিরঃকোণ ও অপর কোণদ্বয়ের অন্তর দেওয়া আছে, ত্রিভুজটি আঁকো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 98,
+      "pdfPageEnd": 98,
+      "printedPageStart": 93,
+      "printedPageEnd": 93,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.ex-p005",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৫. সমকোণী ত্রিভুজের অতিভুজ ও অপর দুই বাহুর সমষ্টি দেওয়া আছে, ত্রিভুজটি আঁকো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 98,
+      "pdfPageEnd": 98,
+      "printedPageStart": 93,
+      "printedPageEnd": 93,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.ex-p006",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৬. ভূমিসংলগ্ন একটি কোণ, উচ্চতা ও অপর দুই বাহুর সমষ্টি দেওয়া আছে, ত্রিভুজটি আঁকো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 98,
+      "pdfPageEnd": 98,
+      "printedPageStart": 93,
+      "printedPageEnd": 93,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.ex-p007",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৭. ক) সমকোণী ত্রিভুজের অতিভুজ ও অপর দুই বাহুর অন্তর দেওয়া আছে, ত্রিভুজটি ঠাঁকো।\n   খ) একটি ত্রিভুজের মধ্যমাত্রয় দেওয়া আছে ত্রিভুজটি ঠাঁকো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 99,
+      "pdfPageEnd": 99,
+      "printedPageStart": 94,
+      "printedPageEnd": 94,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.ex-p008",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৮. এমন একটি বৃত্ত অঙ্কন করো যা একটি নির্দিষ্ট সরলরেখাকে এর কোনো নির্দিষ্ট বিন্দুতে এবং অপর একটি বৃত্তকে স্পর্শ করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 99,
+      "pdfPageEnd": 99,
+      "printedPageStart": 94,
+      "printedPageEnd": 94,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.ex-p009",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৯. এমন একটি বৃত্ত অঙ্কন করো যা একটি নির্দিষ্ট বৃত্তকে এর কোনো নির্দিষ্ট বিন্দুতে এবং অপর একটি বৃত্তকে কোনো বিন্দুতে স্পর্শ করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 99,
+      "pdfPageEnd": 99,
+      "printedPageStart": 94,
+      "printedPageEnd": 94,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.ex-p010",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১০. এমন একটি বৃত্ত অঙ্কন করো যা একটি নির্দিষ্ট সরলরেখাকে কোনো বিন্দুতে এবং একটি নির্দিষ্ট বৃত্তকে এর কোনো নির্দিষ্ট বিন্দুতে স্পর্শ করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 99,
+      "pdfPageEnd": 99,
+      "printedPageStart": 94,
+      "printedPageEnd": 94,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.ex-p011",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১১. ভিন্ন ভিন্ন ব্যাসার্ধবিশিষ্ট এরূপ তিনটি বৃত্ত ঠাঁক যেন তারা পরস্পরকে বহিঃস্পর্শ করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 99,
+      "pdfPageEnd": 99,
+      "printedPageStart": 94,
+      "printedPageEnd": 94,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.ex-p012",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১২. $O$ কেন্দ্রবিশিষ্ট কোনো বৃত্তের $AB$ জ্যা এর $P$ যেকোনো বিন্দু। $P$ বিন্দু দিয়ে অপর একটি জ্যা $CD$ অঙ্কন করতে হবে যেন $CP^2 = AP \\cdot PB$ হয়।",
+      "image": null,
+      "formulas": [
+        "O",
+        "AB",
+        "P",
+        "P",
+        "CD",
+        "CP^2 = AP \\cdot PB"
+      ],
+      "pdfPageStart": 99,
+      "pdfPageEnd": 99,
+      "printedPageStart": 94,
+      "printedPageEnd": 94,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.ex-p013",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১৩. সমদ্বিবাহু ত্রিভুজের ভূমি ৫ সে.মি. এবং সমান সমান বাহুর দৈর্ঘ্য ৬ সে.মি.।\n   ক) ত্রিভুজটি অঙ্কন করো।\n   খ) ত্রিভুজটির পরিবৃত্ত অঙ্কন করে ব্যাসার্ধ নির্ণয় করো।\n   গ) এমন একটি বৃত্ত অঙ্কন করো যা পূর্বে অঙ্কিত পরিবৃত্তের ব্যাসার্ধের সমান একটি বৃত্তকে $P$ বিন্দুতে স্পর্শ করে এবং বৃত্তের বহিঃস্পথ কোন বিন্দু $Q$ দিয়ে যায়।",
+      "image": null,
+      "formulas": [
+        "P",
+        "Q"
+      ],
+      "pdfPageStart": 99,
+      "pdfPageEnd": 99,
+      "printedPageStart": 94,
+      "printedPageEnd": 94,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.ex-p014",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১৪. $O$ কেন্দ্র বিশিষ্ট বৃত্তের ব্যাসার্ধ ৩ সে.মি. এবং $O$ হতে ৫ সে.মি. দূরে $T$ বিন্দু অবস্থিত।\n   ক) তথ্যানুসারে চিত্র ঠাঁকো।\n   খ) $T$ হতে বৃত্তে দুটি স্পর্শক ঠাঁকো। (অঙ্কনের চিহ্ন ও বিবরণ আবশ্যক)\n   গ) পিথাগোরাসের উপপাদ্য ব্যবহার করে স্পর্শকদ্বয়ের দৈর্ঘ্যের সমষ্টি নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "O",
+        "O",
+        "T",
+        "T"
+      ],
+      "pdfPageStart": 99,
+      "pdfPageEnd": 99,
+      "printedPageStart": 94,
+      "printedPageEnd": 94,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.ex-p015",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "১. ৩.৫ সে.মি., ৪.৫ সে.মি. এবং ৫.৫ সে.মি. ব্যাসার্ধ বিশিষ্ট তিনটি বৃত্ত পরস্পরকে বহিঃস্পর্শ করলে কেন্দ্রত্রয় দ্বারা উৎপন্ন ত্রিভুজের পরিসীমা কত সে.মি.?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 99,
+      "pdfPageEnd": 99,
+      "printedPageStart": 94,
+      "printedPageEnd": 94,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.ex-p016",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "ক) 54                      খ) 40.5                      গ) 27                      ঘ) 13.5",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 99,
+      "pdfPageEnd": 99,
+      "printedPageStart": 94,
+      "printedPageEnd": 94,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.ex-p017",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "২. $ABC$ ত্রিভুজে $\\angle B = 90^\\circ$, $\\angle A = 60^\\circ$ এবং $BD \\perp AC$ হলে-\n(i) $\\angle CBD = 60^\\circ$\n(ii) $AD : AB = 1:2$\n(iii) $\\Delta ABD$ এবং $\\Delta BCD$ পরস্পর সদৃশ ।",
+      "image": null,
+      "formulas": [
+        "ABC",
+        "\\angle B = 90^\\circ",
+        "\\angle A = 60^\\circ",
+        "BD \\perp AC",
+        "\\angle CBD = 60^\\circ",
+        "AD : AB = 1:2",
+        "\\Delta ABD",
+        "\\Delta BCD"
+      ],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.ex-p018",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "নিচের কোনটি সঠিক?\n(ক) i ও ii                      (খ) i ও iii                      (গ) ii ও iii                      (ঘ) i, ii ও iii",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.ex-p019",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "নিচের চিত্রের আলোকে ৩ ও ৪ নং প্রশ্নের উত্তর দাও।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.ex-p020",
+      "kind": "figure",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "drawing: A right-angled triangle CDE with altitude CA. The side CE is labeled 6√2. The altitude CA is labeled 6. The hypotenuse DE is labeled AC = AD.",
+      "image": "p100-page_14_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.ex-p021",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৩. $\\angle ADC$ এর মান কত?\nক) $30^\\circ$                      খ) $45^\\circ$                      গ) $60^\\circ$                      ঘ) $75^\\circ$",
+      "image": null,
+      "formulas": [
+        "\\angle ADC",
+        "30^\\circ",
+        "45^\\circ",
+        "60^\\circ",
+        "75^\\circ"
+      ],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.ex-p022",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৪. $\\Delta ADC$ ও $\\Delta AEC$ এর ক্ষেত্রফলদ্বয়ের অনুপাত কত?\nক) $2 : 1$                      খ) $1 : 1$                      গ) $1 : 2$                      ঘ) $1 : \\sqrt{2}$",
+      "image": null,
+      "formulas": [
+        "\\Delta ADC",
+        "\\Delta AEC",
+        "2 : 1",
+        "1 : 1",
+        "1 : 2",
+        "1 : \\sqrt{2}"
+      ],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.ex-p023",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "৫. কোনো সমদ্বিভাভ ত্রিভুজের ভূমি ৬ সেমি এবং সমান সমান বাহুর দৈর্ঘ্য ৫ সেমি।\n(ক) ত্রিভুজটির উচ্চতা নির্ণয় করো।\n(খ) ত্রিভুজটির অন্তর্বর্তি অঙ্কন করো। [অঙ্কনের চিত্র ও বিবরণ আবশ্যক]\n(গ) এমন একটি বৃত্ত অঙ্কন করো যা উদ্দীপকের ভূমির সমান ব্যাসবিশিষ্ট কোনো বৃত্তকে কোনো বিন্দুতে স্পর্শ করে এবং বৃত্তটির বহিঃস্থ কোনো নির্দিষ্ট বিন্দু দিয়ে যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.ex-p024",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "৬. (ক) ৪ সেমি, ৫ সেমি এবং ৬ সেমি বাহুবিশিষ্ট কোনো ত্রিভুজের পরিবর্ত অঙ্কন করো।\n(খ) কোনো ত্রিভুজের ভূমি ৫ সেমি, উচ্চতা ৪ সেমি এবং ভূমি সংলগ্ন একটি কোণ $60^\\circ$ হলে, ত্রিভুজটি অঙ্কন করো।\n(গ) ৬ সেমি ব্যাসবিশিষ্ট কোনো বৃত্তের বহিঃস্থ কোনো বিন্দু থেকে বৃত্তটিতে দুইটি স্পর্শক অঙ্কন করো।",
+      "image": null,
+      "formulas": [
+        "60^\\circ"
+      ],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.6",
+  "key": "1.6",
+  "title": "সেট সমতা (Equality of Sets)",
+  "chapter": 1,
+  "ordinal": 6,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.6-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$A$ ও $B$ সেট যদি এমন হয় যে এদের উপাদানগুলো একই তবে $A$ ও $B$ একই সেট এবং তা $A = B$ লিখে প্রকাশ করা হয়। যেমন $A = \\{1, 2, 3, 4\\}$, $B = \\{1, 2, 2, 3, 4, 4, 4\\}$। লক্ষ্য কর কোনো সেটে একই উপাদান বার বার থাকলেও সেটা একবার থাকার মতোই বিবেচনা করা হচ্ছে। $A = B$ হয় যদি ও কেবল যদি $A \\subseteq B$ এবং $B \\subseteq A$ হয়। সেট সমতা প্রমাণে এই তথ্য খুবই প্রয়োজনীয়।",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "A",
+        "B",
+        "A = B",
+        "A = \\{1, 2, 3, 4\\}",
+        "B = \\{1, 2, 2, 3, 4, 4, 4\\}",
+        "A = B",
+        "A \\subseteq B",
+        "B \\subseteq A"
+      ],
+      "pdfPageStart": 8,
+      "pdfPageEnd": 8,
+      "printedPageStart": 3,
+      "printedPageEnd": 3,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

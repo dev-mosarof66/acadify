@@ -1,0 +1,105 @@
+{
+  "id": "physics-9-10-bn-c03",
+  "textbookId": "physics-9-10-bn",
+  "number": 3,
+  "title": "বল",
+  "englishTitle": "Force",
+  "pdfPages": [
+    67,
+    102
+  ],
+  "printedPages": [
+    62,
+    97
+  ],
+  "topics": [
+    {
+      "key": "3.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/3.0.json",
+      "passages": 3
+    },
+    {
+      "key": "3.1",
+      "title": "জড়তা এবং বলের ধারণা: নিউটনের প্রথম গতি সূত্র",
+      "file": "topics/3.1.json",
+      "passages": 20
+    },
+    {
+      "key": "3.2",
+      "title": "মৌলিক বলের প্রকৃতি (Nature of Fundamental Forces)",
+      "file": "topics/3.2.json",
+      "passages": 8
+    },
+    {
+      "key": "3.3",
+      "title": "বলের সাম্যাবস্থা ও অসাম্যাবস্থা",
+      "file": "topics/3.3.json",
+      "passages": 10
+    },
+    {
+      "key": "3.4",
+      "title": "ভরবেগ (Momentum)",
+      "file": "topics/3.4.json",
+      "passages": 9
+    },
+    {
+      "key": "3.5",
+      "title": "সংঘর্ষ (Collision)",
+      "file": "topics/3.5.json",
+      "passages": 29
+    },
+    {
+      "key": "3.6",
+      "title": "বস্তুর গতির উপর বলের প্রভাব: নিউটনের দ্বিতীয় গতি সূত্র",
+      "file": "topics/3.6.json",
+      "passages": 44
+    },
+    {
+      "key": "3.7",
+      "title": "মহাকর্ষ বল (Gravitational Force)",
+      "file": "topics/3.7.json",
+      "passages": 62
+    },
+    {
+      "key": "3.8",
+      "title": "নিউটনের তৃতীয় গতি সূত্র (Newton’s Third Law of Motion)",
+      "file": "topics/3.8.json",
+      "passages": 35
+    },
+    {
+      "key": "3.9",
+      "title": "ঘর্ষণ বল (Frictional Force)",
+      "file": "topics/3.9.json",
+      "passages": 44
+    },
+    {
+      "key": "3.ex",
+      "title": "নমুনা প্রশ্ন",
+      "file": "topics/3.ex.json",
+      "passages": 40
+    }
+  ],
+  "stats": {
+    "topics": 11,
+    "passages": 304,
+    "images": 17,
+    "byKind": {
+      "figure": 35,
+      "text": 166,
+      "objective": 1,
+      "activity": 5,
+      "example": 10,
+      "formula": 46,
+      "table": 2,
+      "exercise": 39
+    },
+    "byReason": {
+      "verify-formula": 139,
+      "known-confusable-corrected": 10,
+      "latin-junk": 14,
+      "verify-table": 2
+    },
+    "needsReview": 153
+  }
+}

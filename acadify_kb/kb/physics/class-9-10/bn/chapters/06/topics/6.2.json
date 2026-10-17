@@ -1,0 +1,675 @@
+{
+  "id": "physics-9-10-bn-c06-t6.2",
+  "key": "6.2",
+  "title": "পদার্থের তাপমাত্রিক ধর্ম",
+  "chapter": 6,
+  "ordinal": 2,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p001",
+      "kind": "text",
+      "section": "(Thermometric Properties of Matter)",
+      "caption": null,
+      "body": "তাপমাত্রা পরিমাপের জন্য বিশেষ পদার্থের বিশেষ ধর্মকে কাজে লাগাতে হয়। তাপমাত্রা পরিবর্তন হলে পদার্থের যে ধর্মের পরিবর্তন হয় এবং যে পরিবর্তন সূক্ষ্মভাবে পরিমাপ করে তাপমাত্রা মাপা যায় সেটাই হচ্ছে তাপমাত্রিক ধর্ম। অর্থাৎ তাপমাত্রা মাপার জন্য পদার্থের যে ধর্মটি ব্যবহার করা হয় সেটি হচ্ছে তাপমাত্রিক ধর্ম। তোমরা জুর মাপার পারদের থার্মোমিটার দেখে থাকবে, সেটি শরীরের তাপমাত্রা মাপে। এখানে পারদ হচ্ছে তাপমাত্রিক পদার্থ এবং পারদের আয়তনের প্রসারণ হচ্ছে তার তাপমাত্রিক ধর্ম।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 168,
+      "pdfPageEnd": 168,
+      "printedPageStart": 163,
+      "printedPageEnd": 163,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p002",
+      "kind": "text",
+      "section": "(Thermometric Properties of Matter)",
+      "caption": null,
+      "body": "পারদ ছাড়াও অ্যালকোহলের থার্মোমিটার আছে। সেখানে অ্যালকোহল হচ্ছে তাপমাত্রিক পদার্থ এবং তারলের প্রসারণ হচ্ছে তাপমাত্রিক ধর্ম।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 168,
+      "pdfPageEnd": 168,
+      "printedPageStart": 163,
+      "printedPageEnd": 163,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p003",
+      "kind": "text",
+      "section": "(Thermometric Properties of Matter)",
+      "caption": null,
+      "body": "গ্যাস থার্মোমিটারে গ্যাস হচ্ছে তাপমাত্রিক পদার্থ এবং নির্দিষ্ট আয়তনে রক্ষিত গ্যাসের চাপ হচ্ছে তাপমাত্রিক ধর্ম। তাপমাত্রার সাথে ধাতুর রোধ বা রেজিস্ট্যান্সের পরিবর্তন হয়, তাই রোধকেও তাপমাত্রিক ধর্ম হিসেবে ব্যবহার করা যায়। একেকটি তাপমাত্রিক পদার্থ একেক তাপমাত্রার জন্য কার্যকর। তাই খুব বেশি বা কম তাপমাত্রা মাপার জন্য বিশেষ তাপমাত্রিক পদার্থের বিশেষ তাপমাত্রিক ধর্ম ব্যবহার করতে হয়। তামা এবং কনস্ট্যান্টন ধাতুকে তাপমাত্রিক পদার্থ হিসেবে ব্যবহার করা হয়। দুটি ভিন্ন ভিন্ন ধাতুর সংযোগস্থলে (থার্মো কাপল) তাপমাত্রার পরিবর্তন হলে এটি একটি ইএমএফ (emf: electromotive force) তৈরি করে, সেটি মেপে তাপমাত্রা বের করা যায়। এই থার্মোকাপল -200°C থেকে 1000°C পর্যন্ত তাপমাত্রা মাপতে পারে বলে ইনডাস্ট্রিতে ব্যাপকভাবে ব্যবহৃত হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 168,
+      "pdfPageEnd": 168,
+      "printedPageStart": 163,
+      "printedPageEnd": 163,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p004",
+      "kind": "text",
+      "section": "(Thermometric Properties of Matter)",
+      "caption": null,
+      "body": "আমরা যদি তাপমাত্রার ধারণাটুকু ঠিক করে পেয়ে যাই, তাহলে এর পরেই আমাদের জানতে হবে এর একক কী কিংবা তার থেকেও গুরুত্বপূর্ণ প্রশ্ন, আমরা কেমন করে তাপমাত্রা মাপব। তাপমাত্রার প্রচলিত একক হচ্ছে সেলসিয়াস (°C)। সাধারণভাবে বলা যায়, এই স্কেলে 1 atm বাতাসের চাপের যে তাপমাত্রায় বরফ গলে পানিতে পরিণত হয়, সেটাকে 0°C এবং যে তাপমাত্রায় পানি ফুটে থাকে সেটাকে 100°C ধরা হয়েছে। তবে মজার ব্যাপার হলো বিজ্ঞানী সেলসিয়াস যখন তাপমাত্রার স্কেল তৈরি করেছিলেন, তখন শূন্য ডিগ্রি ধরেছিলেন ফুটন্ত পানির তাপমাত্রা, 100 ডিগ্রি ধরেছিলেন বরফ গলনের তাপমাত্রা। বর্তমান স্কেলের ঠিক উল্টো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 168,
+      "pdfPageEnd": 168,
+      "printedPageStart": 163,
+      "printedPageEnd": 163,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p005",
+      "kind": "text",
+      "section": "(Thermometric Properties of Matter)",
+      "caption": null,
+      "body": "আমাদের দৈনন্দিন জীবনে আমরা সাধারণত সেলসিয়াস স্কেল ব্যবহার করলেও আন্তর্জাতিক এককটির নাম হচ্ছে কেলভিন (K)। সেলসিয়াস স্কেলের সাথে 273.15°C যোগ করলেই কেলভিন স্কেল পাওয়া যায়। যদি শুধু তাপমাত্রার পার্থক্য নিয়ে মাথা ঘামাই তাহলে সেলসিয়াস স্কেল আর কেলভিন স্কেলে কোনো পার্থক্য নেই। অর্থাৎ তাপমাত্রা 10°C বেড়েছে বলা যে কথা, তাপমাত্রা 10K বেড়েছে বলা সেই একই কথা। কিন্তু যদি জিঞ্জেস করা হয় এই ঘরের তাপমাত্রা কত, যদি সেটা হয় 30°C তাহলে কেলভিন স্কেলে সেটা হবে (30 + 273.15 =) 303.15 K। তোমাদের মনে হতে পারে দুটো স্কেল হুবহু একই রকম শুধু 273.15°C পার্থক্য এর পেছনে কারণটি কী?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 168,
+      "pdfPageEnd": 169,
+      "printedPageStart": 163,
+      "printedPageEnd": 164,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p006",
+      "kind": "figure",
+      "section": "(Thermometric Properties of Matter)",
+      "caption": null,
+      "body": "drawing: A diagram showing three thermometers side-by-side, each with a horizontal line indicating a temperature value. The left thermometer shows 100°C at the top and 0°C at the bottom, with a marker T<sub>C</sub> at the 100°C level. The middle thermometer shows 373.15K at the top and 273.15K at the bottom, with a marker T<sub>K</sub> at the 373.15K level. The right thermometer shows 212°F at the top and 32°F at the bottom, with a marker T<sub>F</sub> at the 212°F level.",
+      "image": "p169-page_6_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 169,
+      "pdfPageEnd": 169,
+      "printedPageStart": 164,
+      "printedPageEnd": 164,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p007",
+      "kind": "figure",
+      "section": "(Thermometric Properties of Matter)",
+      "caption": null,
+      "body": "**চিত্র ৬.০২: সেলসিয়াস কেলভিন এবং ফারেনহাইট তাপমাত্রার স্কেল।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 169,
+      "pdfPageEnd": 169,
+      "printedPageStart": 164,
+      "printedPageEnd": 164,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p008",
+      "kind": "text",
+      "section": "(Thermometric Properties of Matter)",
+      "caption": null,
+      "body": "এটি করার পেছনের কারণটি খুবই চমকপ্রদ। সাধারণভাবে হয়তো মনে হতে পারে আমরা বুঝি যত বেশি বা যত কম তাপমাত্রা কল্পনা করতে পারব, আসলে সেটি সত্যি নয়। তাপমাত্রা যত ইচ্ছে বেশি কল্পনা করতে সমস্যা নেই কিন্তু যত ইচ্ছে কম কল্পনা করা সম্ভব নয়। সবচেয়ে কম একটা তাপমাত্রা আছে এবং তাপমাত্রা এর থেকে কম হওয়া যায় না। শুধু তাই নয়, আমরা এই তাপমাত্রার কাছাকাছি যেতে পারি কিন্তু কখনোই এই তাপমাত্রায় পৌঁছাতে পারব না। এই তাপমাত্রাকে পরম শূন্য বা Absolute Zero বলা হয়। সেলসিয়াস স্কেলে এই তাপমাত্রার মান -273.15°C কাজেই কেলভিন স্কেলে এর মান হচ্ছে শূন্য কেলভিন। অন্যভাবে বলা যায় কেলভিন স্কেলটি তৈরি হয়েছে পরম শূন্য তাপমাত্রাকে শূন্য কেলভিন ধরে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 169,
+      "pdfPageEnd": 169,
+      "printedPageStart": 164,
+      "printedPageEnd": 164,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p009",
+      "kind": "text",
+      "section": "(Thermometric Properties of Matter)",
+      "caption": null,
+      "body": "তাপমাত্রার যেকোনো স্কেল তৈরি করতে হলে দুটো নির্দিষ্ট তাপমাত্রা (বা স্থিরাঙ্ক) দরকার। কেলভিন স্কেলে একটি হচ্ছে পরম শূন্য। যেটাকে শূন্য ডিগ্রি ধরা হয়েছে। অন্যটি হচ্ছে পানির তৈধ বিন্দু বা Triple Point এই তাপমাত্রায় একটা নির্দিষ্ট চাপে (0.0060373 atm) বরফ, পানি এবং জলীয় বাষ্প এক সাথে থাকতে পারে বলে তাপমাত্রাকে অনেক বেশি সূক্ষ্মভাবে নির্দিষ্ট করা যায়। সেলসিয়াস স্কেলে এর মান 0.01°C এবং এই স্কেলের সাথে মিল রাখার জন্য কেলভিন স্কেলে এর মান 273.16 K।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 169,
+      "pdfPageEnd": 169,
+      "printedPageStart": 164,
+      "printedPageEnd": 164,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p010",
+      "kind": "text",
+      "section": "(Thermometric Properties of Matter)",
+      "caption": null,
+      "body": "কেলভিন এবং সেলসিয়াস স্কেলের পাশাপাশি ফারেনহাইট স্কেল বলেও একটা স্কেল আছে। যেখানে বরফ গলন এবং পানির বাষ্পীভবনের তাপমাত্রা যথাক্রমে 32°F ও 212°F। চিত্র 6.02 এ তিনটি স্কেলকে তুলনা করার জন্য দেখানো হলো। কেলভিন স্কেলে 0°C তাপমাত্রা 273.15 K হলেও আমরা আমাদের দৈনন্দিন জীবনে অনেক সময়েই এটাকে 273 K ধরে নিই। দৈনন্দিন হিসাবে সেটা কোনো গুরুতর সমস্যা করে না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 169,
+      "pdfPageEnd": 169,
+      "printedPageStart": 164,
+      "printedPageEnd": 164,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p011",
+      "kind": "text",
+      "section": "৬.২.১ ভিন্ন স্কেলের মাঝে সম্পর্ক",
+      "caption": null,
+      "body": "যদি একটি নির্দিষ্ট তাপমাত্রা সেলসিয়াস, কেলভিন এবং ফারেনহাইট স্কেলে যথাক্রমে $T_C$, $T_K$ আর $T_F$ দেখায় তাহলে আমরা লিখতে পারি:",
+      "image": null,
+      "formulas": [
+        "T_C",
+        "T_K",
+        "T_F"
+      ],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p012",
+      "kind": "formula",
+      "section": "৬.২.১ ভিন্ন স্কেলের মাঝে সম্পর্ক",
+      "caption": null,
+      "body": "$$\\frac{T_C - 0}{100 - 0} = \\frac{T_K - 273.15}{373.15 - 273.15} = \\frac{T_F - 32}{212 - 32}$$",
+      "image": null,
+      "formulas": [
+        "\\frac{T_C - 0}{100 - 0} = \\frac{T_K - 273.15}{373.15 - 273.15} = \\frac{T_F - 32}{212 - 32}"
+      ],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p013",
+      "kind": "text",
+      "section": "৬.২.১ ভিন্ন স্কেলের মাঝে সম্পর্ক",
+      "caption": null,
+      "body": "কিংবা",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p014",
+      "kind": "formula",
+      "section": "৬.২.১ ভিন্ন স্কেলের মাঝে সম্পর্ক",
+      "caption": null,
+      "body": "$$\\frac{T_C}{100} = \\frac{T_K - 273.15}{100} = \\frac{T_F - 32}{180}$$",
+      "image": null,
+      "formulas": [
+        "\\frac{T_C}{100} = \\frac{T_K - 273.15}{100} = \\frac{T_F - 32}{180}"
+      ],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p015",
+      "kind": "text",
+      "section": "৬.২.১ ভিন্ন স্কেলের মাঝে সম্পর্ক",
+      "caption": null,
+      "body": "$T_C$ এর সাপেক্ষে কেলভিন স্কেল এবং ফারেনহাইট স্কেল যথাক্রমে:",
+      "image": null,
+      "formulas": [
+        "T_C"
+      ],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p016",
+      "kind": "formula",
+      "section": "৬.২.১ ভিন্ন স্কেলের মাঝে সম্পর্ক",
+      "caption": null,
+      "body": "$$T_C = T_K - 273.15^\\circ$$",
+      "image": null,
+      "formulas": [
+        "T_C = T_K - 273.15^\\circ"
+      ],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p017",
+      "kind": "formula",
+      "section": "৬.২.১ ভিন্ন স্কেলের মাঝে সম্পর্ক",
+      "caption": null,
+      "body": "$$T_C = \\frac{5}{9}(T_F - 32^\\circ)$$",
+      "image": null,
+      "formulas": [
+        "T_C = \\frac{5}{9}(T_F - 32^\\circ)"
+      ],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p018",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** কোন তাপমাত্রায় সেলসিয়াস এবং ফারেনহাইট স্কেল সমান?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p019",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** সেলসিয়াস এবং ফারেনহাইট তাপমাত্রার সম্পর্কটি এ রকম:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p020",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$T_C = \\frac{5}{9}(T_F - 32^\\circ)$$",
+      "image": null,
+      "formulas": [
+        "T_C = \\frac{5}{9}(T_F - 32^\\circ)"
+      ],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p021",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$9T_C = 5T_F - 5 \\times 32^\\circ$$",
+      "image": null,
+      "formulas": [
+        "9T_C = 5T_F - 5 \\times 32^\\circ"
+      ],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p022",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$T_C$ এবং $T_F$ সমান হলে:",
+      "image": null,
+      "formulas": [
+        "T_C",
+        "T_F"
+      ],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p023",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$4T_C = -5 \\times 32^\\circ = -160^\\circ$$",
+      "image": null,
+      "formulas": [
+        "4T_C = -5 \\times 32^\\circ = -160^\\circ"
+      ],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p024",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$T_C = -40^\\circ$$",
+      "image": null,
+      "formulas": [
+        "T_C = -40^\\circ"
+      ],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p025",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "অর্থাৎ যে তাপমাত্রা $-40^\\circ$ C দেখায় সেই একই তাপমাত্রা $-40^\\circ$ F দেখায়।",
+      "image": null,
+      "formulas": [
+        "-40^\\circ",
+        "-40^\\circ"
+      ],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p026",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** কোন তাপমাত্রায় কেলভিন এবং ফারেনহাইট স্কেল সমান?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p027",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** কেলভিন এবং ফারেনহাইট তাপমাত্রার সম্পর্কটি এ রকম:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p028",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$T_K - 273.15^\\circ = \\frac{5}{9}(T_F - 32^\\circ)$$\n$$9T_K - 9 \\times 273.15^\\circ = 5T_F - 5 \\times 32^\\circ$$",
+      "image": null,
+      "formulas": [
+        "T_K - 273.15^\\circ = \\frac{5}{9}(T_F - 32^\\circ)",
+        "9T_K - 9 \\times 273.15^\\circ = 5T_F - 5 \\times 32^\\circ"
+      ],
+      "pdfPageStart": 171,
+      "pdfPageEnd": 171,
+      "printedPageStart": 166,
+      "printedPageEnd": 166,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p029",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "যদি $T_K$ এবং $T_F$ সমান হয়:",
+      "image": null,
+      "formulas": [
+        "T_K",
+        "T_F"
+      ],
+      "pdfPageStart": 171,
+      "pdfPageEnd": 171,
+      "printedPageStart": 166,
+      "printedPageEnd": 166,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p030",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$4T_K = 9 \\times 273.15^\\circ - 5 \\times 32^\\circ$$\n$$T_K = 574.59  K$$",
+      "image": null,
+      "formulas": [
+        "4T_K = 9 \\times 273.15^\\circ - 5 \\times 32^\\circ",
+        "T_K = 574.59  K"
+      ],
+      "pdfPageStart": 171,
+      "pdfPageEnd": 171,
+      "printedPageStart": 166,
+      "printedPageEnd": 166,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p031",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** সুস্থ দেহের তাপমাত্রা 98.4°F, সেলসিয়াসে সেটা কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 171,
+      "pdfPageEnd": 171,
+      "printedPageStart": 166,
+      "printedPageEnd": 166,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p032",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** সেলসিয়াস এবং ফারেনহাইট তাপমাত্রার সম্পর্কটি এ রকম:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 171,
+      "pdfPageEnd": 171,
+      "printedPageStart": 166,
+      "printedPageEnd": 166,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p033",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$T_C = \\frac{5}{9}(T_F - 32^\\circ)$$",
+      "image": null,
+      "formulas": [
+        "T_C = \\frac{5}{9}(T_F - 32^\\circ)"
+      ],
+      "pdfPageStart": 171,
+      "pdfPageEnd": 171,
+      "printedPageStart": 166,
+      "printedPageEnd": 166,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p034",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই $T_F = 98.4^\\circ$ হলে",
+      "image": null,
+      "formulas": [
+        "T_F = 98.4^\\circ"
+      ],
+      "pdfPageStart": 171,
+      "pdfPageEnd": 171,
+      "printedPageStart": 166,
+      "printedPageEnd": 166,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p035",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$T_C = \\frac{5}{9}(98.4^\\circ - 32^\\circ) = 36.89^\\circ$$",
+      "image": null,
+      "formulas": [
+        "T_C = \\frac{5}{9}(98.4^\\circ - 32^\\circ) = 36.89^\\circ"
+      ],
+      "pdfPageStart": 171,
+      "pdfPageEnd": 171,
+      "printedPageStart": 166,
+      "printedPageEnd": 166,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p036",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "(অর্থাৎ 37° C এর কাছাকাছি)",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 171,
+      "pdfPageEnd": 171,
+      "printedPageStart": 166,
+      "printedPageEnd": 166,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p037",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** কোন তাপমাত্রায় সেলসিয়াস এবং কেলভিন স্কেল সমান?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 171,
+      "pdfPageEnd": 171,
+      "printedPageStart": 166,
+      "printedPageEnd": 166,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p038",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** কখনোই না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 171,
+      "pdfPageEnd": 171,
+      "printedPageStart": 166,
+      "printedPageEnd": 166,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.2-p039",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "> মহাশূন্যে যেখানে কোনো অণু-পরমাণু নেই সেখানে কি তাপমাত্রার অস্তিত্ব আছে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 171,
+      "pdfPageEnd": 171,
+      "printedPageStart": 166,
+      "printedPageEnd": 166,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

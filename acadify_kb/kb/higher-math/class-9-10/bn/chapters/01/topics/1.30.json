@@ -1,0 +1,650 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.30",
+  "key": "1.30",
+  "title": "এক-এক ফাংশন (One-One Function)",
+  "chapter": 1,
+  "ordinal": 31,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "নিচের ভেনচিট্রে $f$ ফাংশনের অধীনে ভিন্ন ভিন্ন সদস্যের প্রতিবিম্ব সর্বদা ভিন্ন।",
+      "image": null,
+      "formulas": [
+        "f"
+      ],
+      "pdfPageStart": 32,
+      "pdfPageEnd": 32,
+      "printedPageStart": 27,
+      "printedPageEnd": 27,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "```mermaid\nflowchart LR\n    subgraph A\n        A1[\"1\"]\n        A2[\"2\"]\n        A3[\"3\"]\n    end\n    subgraph B\n        B3[\"3\"]\n        B4[\"4\"]\n        B7[\"7\"]\n    end\n    A1 -- \"f\" --> B3\n    A2 -- \"f\" --> B4\n    A3 -- \"f\" --> B7\n```",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p003",
+      "kind": "definition",
+      "section": null,
+      "caption": null,
+      "body": "**সংজ্ঞা ১০ (এক-এক ফাংশন):** যদি কোনো ফাংশন $f$ এর অধীনে এর ডোমেনের ভিন্ন ভিন্ন সদস্যের প্রতিবিষ্টি সর্বদা ভিন্ন হয়, তবে ফাংশনটিকে এক-এক (one-one) ফাংশন বলা হয়। অর্থাৎ $x_1, x_2 \\in$ ডোম $f$ এবং $x_1 \\neq x_2$ হলে $f(x_1) \\neq f(x_2)$।",
+      "image": null,
+      "formulas": [
+        "f",
+        "x_1, x_2 \\in",
+        "f",
+        "x_1 \\neq x_2",
+        "f(x_1) \\neq f(x_2)"
+      ],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "উপরের সংজ্ঞা থেকে দেখা যায়, একটি ফাংশন $f : A \\to B$ এক-এক ফাংশন হবে, যদি ও কেবল যদি $f(x_1) = f(x_2)$ হলে $x_1 = x_2$ হয় যেখানে $x_1, x_2 \\in A$।",
+      "image": null,
+      "formulas": [
+        "f : A \\to B",
+        "f(x_1) = f(x_2)",
+        "x_1 = x_2",
+        "x_1, x_2 \\in A"
+      ],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৩০.** $f(x) = 3x + 5, x \\in R$ ফাংশনটি কি এক-এক ফাংশন?",
+      "image": null,
+      "formulas": [
+        "f(x) = 3x + 5, x \\in R"
+      ],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** মনে করি $a, b \\in R$ এবং $f(a) = f(b)$।",
+      "image": null,
+      "formulas": [
+        "a, b \\in R",
+        "f(a) = f(b)"
+      ],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাহলে $3a + 5 = 3b + 5$ বা, $3a = 3b$ বা, $a = b$।",
+      "image": null,
+      "formulas": [
+        "3a + 5 = 3b + 5",
+        "3a = 3b",
+        "a = b"
+      ],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং $f$ ফাংশনটি এক-এক।",
+      "image": null,
+      "formulas": [
+        "f"
+      ],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৩১.** দেখাও যে, $F : R \\to R, F(x) = x^2$ ফাংশনটি এক-এক নয়।",
+      "image": null,
+      "formulas": [
+        "F : R \\to R, F(x) = x^2"
+      ],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $x_1 = -1, x_2 = 1$ নিয়ে দেখি যে, $x_1 \\in$ ডোম $F, x_2 \\in$ ডোম $F$ এবং $x_1 \\neq x_2$।",
+      "image": null,
+      "formulas": [
+        "x_1 = -1, x_2 = 1",
+        "x_1 \\in",
+        "F, x_2 \\in",
+        "F",
+        "x_1 \\neq x_2"
+      ],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কিন্তু $F(x_1) = F(-1) = (-1)^2 = 1, F(x_2) = F(1) = (1)^2 = 1$।",
+      "image": null,
+      "formulas": [
+        "F(x_1) = F(-1) = (-1)^2 = 1, F(x_2) = F(1) = (1)^2 = 1"
+      ],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ $F(x_1) = F(x_2), \\therefore F$ এক-এক নয়।",
+      "image": null,
+      "formulas": [
+        "F(x_1) = F(x_2), \\therefore F"
+      ],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**দ্রষ্টব্য:** কোনো ফাংশনের বিপরীত অহয় ফাংশন নাও হতে পারে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৩২.** $f(x) = \\frac{x}{x - 2}, x \\neq 2$ বর্গিত ফাংশনের জন্য নির্ণয় করো:\nক) $f(5)$\nখ) $f^{-1}(2)$",
+      "image": null,
+      "formulas": [
+        "f(x) = \\frac{x}{x - 2}, x \\neq 2",
+        "f(5)",
+        "f^{-1}(2)"
+      ],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $f(x) = \\frac{x}{x - 2}, x \\neq 2$",
+      "image": null,
+      "formulas": [
+        "f(x) = \\frac{x}{x - 2}, x \\neq 2"
+      ],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p017",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore f(5) = \\frac{5}{5 - 2} = \\frac{5}{3} = 1\\frac{2}{3}$",
+      "image": null,
+      "formulas": [
+        "\\therefore f(5) = \\frac{5}{5 - 2} = \\frac{5}{3} = 1\\frac{2}{3}"
+      ],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) ধরি, $a = f^{-1}(2)$ তাহলে $f(a) = 2$",
+      "image": null,
+      "formulas": [
+        "a = f^{-1}(2)",
+        "f(a) = 2"
+      ],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p019",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\implies \\frac{a}{a - 2} = 2 \\implies a = 2a - 4 \\implies a = 4$",
+      "image": null,
+      "formulas": [
+        "\\implies \\frac{a}{a - 2} = 2 \\implies a = 2a - 4 \\implies a = 4"
+      ],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p020",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore f^{-1}(2) = 4$",
+      "image": null,
+      "formulas": [
+        "\\therefore f^{-1}(2) = 4"
+      ],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 33,
+      "printedPageStart": 28,
+      "printedPageEnd": 28,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৩৩.** $f(x) = 3x + 1, 0 \\leq x \\leq 2$ ক) $f$ এর রেঞ্জ নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "f(x) = 3x + 1, 0 \\leq x \\leq 2",
+        "f"
+      ],
+      "pdfPageStart": 33,
+      "pdfPageEnd": 34,
+      "printedPageStart": 28,
+      "printedPageEnd": 29,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) দেখাও যে $f$ এক-এক ফাংশন।",
+      "image": null,
+      "formulas": [
+        "f"
+      ],
+      "pdfPageStart": 34,
+      "pdfPageEnd": 34,
+      "printedPageStart": 29,
+      "printedPageEnd": 29,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $f^{-1}$ নির্ণয় কর এবং $f$ ও $f^{-1}$ এর লেখচিত্র অঙ্কন করো।",
+      "image": null,
+      "formulas": [
+        "f^{-1}",
+        "f",
+        "f^{-1}"
+      ],
+      "pdfPageStart": 34,
+      "pdfPageEnd": 34,
+      "printedPageStart": 29,
+      "printedPageEnd": 29,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p024",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "ক) $f(x) = 3x + 1, 0 \\le x \\le 2$ হতে পাই প্রান্ত বিন্দুদ্বয় $(0, 1)$ এবং $(2, 7)$",
+      "image": null,
+      "formulas": [
+        "f(x) = 3x + 1, 0 \\le x \\le 2",
+        "(0, 1)",
+        "(2, 7)"
+      ],
+      "pdfPageStart": 34,
+      "pdfPageEnd": 34,
+      "printedPageStart": 29,
+      "printedPageEnd": 29,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p025",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore$ রেঞ্জ $f : R = \\{y : 1 \\le y \\le 7\\}$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "f : R = \\{y : 1 \\le y \\le 7\\}"
+      ],
+      "pdfPageStart": 34,
+      "pdfPageEnd": 34,
+      "printedPageStart": 29,
+      "printedPageEnd": 29,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p026",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "খ) যেহেতু প্রত্যেক $y \\in R$ এর জন্য একমাত্র $x \\in \\{0 \\le x \\le 2\\}$ এর ইমেজ $y$ দেখানো হয়েছে। সুতরাং $f$ এক-এক ফাংশন।",
+      "image": null,
+      "formulas": [
+        "y \\in R",
+        "x \\in \\{0 \\le x \\le 2\\}",
+        "y",
+        "f"
+      ],
+      "pdfPageStart": 34,
+      "pdfPageEnd": 34,
+      "printedPageStart": 29,
+      "printedPageEnd": 29,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p027",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "গ) ধরি, $y = f(x), x$ এর ইমেজ।",
+      "image": null,
+      "formulas": [
+        "y = f(x), x"
+      ],
+      "pdfPageStart": 34,
+      "pdfPageEnd": 34,
+      "printedPageStart": 29,
+      "printedPageEnd": 29,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p028",
+      "kind": "figure",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "drawing: A coordinate plane showing the graphs of function f and its inverse f^-1. The graph of f is a line segment from (0,1) to (2,7). The graph of f^-1 is a line segment from (1,0) to (7,2).",
+      "image": "p34-page_29_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 34,
+      "pdfPageEnd": 34,
+      "printedPageStart": 29,
+      "printedPageEnd": 29,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p029",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "তাহলে, $y = 3x + 1 \\implies x = \\frac{1}{3}(y - 1)$ যা লেখচিত্রে দেখানো হয়েছে।",
+      "image": null,
+      "formulas": [
+        "y = 3x + 1 \\implies x = \\frac{1}{3}(y - 1)"
+      ],
+      "pdfPageStart": 34,
+      "pdfPageEnd": 34,
+      "printedPageStart": 29,
+      "printedPageEnd": 29,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p030",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বিপরীত ফাংশন $f^{-1} : y \\to x$ যেখানে, $x = \\frac{1}{3}(y - 1)$",
+      "image": null,
+      "formulas": [
+        "f^{-1} : y \\to x",
+        "x = \\frac{1}{3}(y - 1)"
+      ],
+      "pdfPageStart": 34,
+      "pdfPageEnd": 34,
+      "printedPageStart": 29,
+      "printedPageEnd": 29,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p031",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $f^{-1} : y \\to \\frac{1}{3}(y - 1)$ যা চিত্রে দেখানো হয়েছে।",
+      "image": null,
+      "formulas": [
+        "f^{-1} : y \\to \\frac{1}{3}(y - 1)"
+      ],
+      "pdfPageStart": 34,
+      "pdfPageEnd": 34,
+      "printedPageStart": 29,
+      "printedPageEnd": 29,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p032",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$y$ এর স্থানে $x$ স্থাপন করে পাই, $f^{-1} : x \\to \\frac{1}{3}(x - 1)$",
+      "image": null,
+      "formulas": [
+        "y",
+        "x",
+        "f^{-1} : x \\to \\frac{1}{3}(x - 1)"
+      ],
+      "pdfPageStart": 34,
+      "pdfPageEnd": 34,
+      "printedPageStart": 29,
+      "printedPageEnd": 29,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.30-p033",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$f^{-1}$ এর অঙ্কিত রেখা $y = \\frac{1}{3}(x - 1), 1 \\le x \\le 7$ দেখানো হয়েছে।",
+      "image": null,
+      "formulas": [
+        "f^{-1}",
+        "y = \\frac{1}{3}(x - 1), 1 \\le x \\le 7"
+      ],
+      "pdfPageStart": 34,
+      "pdfPageEnd": 34,
+      "printedPageStart": 29,
+      "printedPageEnd": 29,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

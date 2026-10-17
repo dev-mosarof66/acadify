@@ -1,0 +1,109 @@
+{
+  "id": "chemistry-9-10-bn-c03",
+  "textbookId": "chemistry-9-10-bn",
+  "number": 3,
+  "title": "পদার্থের গঠন",
+  "englishTitle": "Structure of Matter",
+  "pdfPages": [
+    40,
+    63
+  ],
+  "printedPages": [
+    35,
+    58
+  ],
+  "topics": [
+    {
+      "key": "3.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/3.0.json",
+      "passages": 3
+    },
+    {
+      "key": "3.1",
+      "title": "মৌলিক ও যৌগিক পদার্থ (Elements and Compounds)",
+      "file": "topics/3.1.json",
+      "passages": 2
+    },
+    {
+      "key": "3.2",
+      "title": "পরমাণু ও অণু (Atoms and Molecules)",
+      "file": "topics/3.2.json",
+      "passages": 2
+    },
+    {
+      "key": "3.3",
+      "title": "মৌলের প্রতীক (Symbols of Elements)",
+      "file": "topics/3.3.json",
+      "passages": 10
+    },
+    {
+      "key": "3.4",
+      "title": "সংকেত (Formula)",
+      "file": "topics/3.4.json",
+      "passages": 2
+    },
+    {
+      "key": "3.5",
+      "title": "পরমাণুর সাংগঠনিক কণা (The fundamental particles of an atom)",
+      "file": "topics/3.5.json",
+      "passages": 12
+    },
+    {
+      "key": "3.6",
+      "title": "পরমাণুর মডেল (Atomic Model)",
+      "file": "topics/3.6.json",
+      "passages": 34
+    },
+    {
+      "key": "3.7",
+      "title": "পরমাণুর শক্তিস্তরে ইলেকট্রন বিন্যাস",
+      "file": "topics/3.7.json",
+      "passages": 39
+    },
+    {
+      "key": "3.8",
+      "title": "আইসোটোপ (Isotopes)",
+      "file": "topics/3.8.json",
+      "passages": 3
+    },
+    {
+      "key": "3.9",
+      "title": "পারমাণবিক ভর বা আপেক্ষিক পারমাণবিক ভর",
+      "file": "topics/3.9.json",
+      "passages": 29
+    },
+    {
+      "key": "3.10",
+      "title": "তেজস্ক্রিয় আইসোটোপ ও তাদের ব্যবহার",
+      "file": "topics/3.10.json",
+      "passages": 13
+    },
+    {
+      "key": "3.ex",
+      "title": "নমুনা প্রশ্ন",
+      "file": "topics/3.ex.json",
+      "passages": 21
+    }
+  ],
+  "stats": {
+    "topics": 12,
+    "passages": 170,
+    "images": 7,
+    "byKind": {
+      "text": 115,
+      "table": 15,
+      "activity": 2,
+      "figure": 12,
+      "formula": 5,
+      "example": 3,
+      "exercise": 18
+    },
+    "byReason": {
+      "known-confusable-corrected": 14,
+      "verify-table": 15,
+      "verify-formula": 47
+    },
+    "needsReview": 74
+  }
+}

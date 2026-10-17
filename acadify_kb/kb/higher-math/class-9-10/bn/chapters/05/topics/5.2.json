@@ -1,0 +1,1439 @@
+{
+  "id": "higher-math-9-10-bn-c05-t5.2",
+  "key": "5.2",
+  "title": "মূল চিহ্ন সংবলিত সমীকরণ",
+  "chapter": 5,
+  "ordinal": 3,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সমীকরণে চলকের বর্গমূল সংবলিত রাশি থাকলে তাকে বর্গ করে বর্গমূল চিহ্নমুক্ত নতুন সমীকরণ পাওয়া যায়। উক্ত সমীকরণ সমাধান করে যে মূলগুলো পাওয়া যায় অনেক সময় সবগুলো মূল প্রদত্ত সমীকরণটিকে সিদ্ধ করে না। এ ধরনের মূল অবান্তর (Extraneous) মূল। সুতরাং মূলচিহ্ন সংবলিত সমীকরণ সমাধান প্রক্রিয়ায় প্রাপ্ত মূলগুলো প্রদত্ত সমীকরণের মূল কিনা তা অবশ্যই পরীক্ষা করে দেখা দরকার। পরীক্ষার পর যে সব মূল উক্ত সমীকরণকে সিদ্ধ করে তাই হবে প্রদত্ত সমীকরণের মূল। নিচে কয়েকটি উদাহরণ দেওয়া হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 104,
+      "pdfPageEnd": 104,
+      "printedPageStart": 99,
+      "printedPageEnd": 99,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৫.** সমাধান করো: $\\sqrt{8x + 9} - \\sqrt{2x + 15} = \\sqrt{2x - 6}$",
+      "image": null,
+      "formulas": [
+        "\\sqrt{8x + 9} - \\sqrt{2x + 15} = \\sqrt{2x - 6}"
+      ],
+      "pdfPageStart": 104,
+      "pdfPageEnd": 104,
+      "printedPageStart": 99,
+      "printedPageEnd": 99,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $\\sqrt{8x + 9} - \\sqrt{2x + 15} = \\sqrt{2x - 6}$",
+      "image": null,
+      "formulas": [
+        "\\sqrt{8x + 9} - \\sqrt{2x + 15} = \\sqrt{2x - 6}"
+      ],
+      "pdfPageStart": 104,
+      "pdfPageEnd": 104,
+      "printedPageStart": 99,
+      "printedPageEnd": 99,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\sqrt{2x + 15} + \\sqrt{2x - 6} = \\sqrt{8x + 9}$",
+      "image": null,
+      "formulas": [
+        "\\sqrt{2x + 15} + \\sqrt{2x - 6} = \\sqrt{8x + 9}"
+      ],
+      "pdfPageStart": 104,
+      "pdfPageEnd": 104,
+      "printedPageStart": 99,
+      "printedPageEnd": 99,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $2x + 15 + 2x - 6 + 2\\sqrt{2x + 15}\\sqrt{2x - 6} = 8x + 9$ [বর্গ করে]",
+      "image": null,
+      "formulas": [
+        "2x + 15 + 2x - 6 + 2\\sqrt{2x + 15}\\sqrt{2x - 6} = 8x + 9"
+      ],
+      "pdfPageStart": 104,
+      "pdfPageEnd": 104,
+      "printedPageStart": 99,
+      "printedPageEnd": 99,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\sqrt{2x + 15}\\sqrt{2x - 6} = 2x$",
+      "image": null,
+      "formulas": [
+        "\\sqrt{2x + 15}\\sqrt{2x - 6} = 2x"
+      ],
+      "pdfPageStart": 104,
+      "pdfPageEnd": 104,
+      "printedPageStart": 99,
+      "printedPageEnd": 99,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $(2x + 15)(2x - 6) = 4x^2$ [পুনরায় বর্গ করে]",
+      "image": null,
+      "formulas": [
+        "(2x + 15)(2x - 6) = 4x^2"
+      ],
+      "pdfPageStart": 104,
+      "pdfPageEnd": 104,
+      "printedPageStart": 99,
+      "printedPageEnd": 99,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $4x^2 + 18x - 90 = 4x^2$",
+      "image": null,
+      "formulas": [
+        "4x^2 + 18x - 90 = 4x^2"
+      ],
+      "pdfPageStart": 104,
+      "pdfPageEnd": 104,
+      "printedPageStart": 99,
+      "printedPageEnd": 99,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $18x = 90$",
+      "image": null,
+      "formulas": [
+        "18x = 90"
+      ],
+      "pdfPageStart": 104,
+      "pdfPageEnd": 104,
+      "printedPageStart": 99,
+      "printedPageEnd": 99,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p010",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore x = 5$",
+      "image": null,
+      "formulas": [
+        "\\therefore x = 5"
+      ],
+      "pdfPageStart": 104,
+      "pdfPageEnd": 104,
+      "printedPageStart": 99,
+      "printedPageEnd": 99,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**শুদ্ধি পরীক্ষা:** $x = 5$ হলে, বামপক্ষ $= \\sqrt{49} - \\sqrt{25} = 7 - 5 = 2$ এবং ডানপক্ষ $= \\sqrt{4} = 2$ $\\therefore$ নির্ণয়ে সমাধান $x = 5$",
+      "image": null,
+      "formulas": [
+        "x = 5",
+        "= \\sqrt{49} - \\sqrt{25} = 7 - 5 = 2",
+        "= \\sqrt{4} = 2",
+        "\\therefore",
+        "x = 5"
+      ],
+      "pdfPageStart": 104,
+      "pdfPageEnd": 105,
+      "printedPageStart": 99,
+      "printedPageEnd": 100,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:** $p = \\sqrt{\\frac{x}{x + 16}}$ ধরে $\\sqrt{\\frac{x}{x + 16}} + \\sqrt{\\frac{x + 16}{x}} = \\frac{25}{12}$ সমীকরণটির সমাধান করে শুদ্ধি পরীক্ষা করো।",
+      "image": null,
+      "formulas": [
+        "p = \\sqrt{\\frac{x}{x + 16}}",
+        "\\sqrt{\\frac{x}{x + 16}} + \\sqrt{\\frac{x + 16}{x}} = \\frac{25}{12}"
+      ],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৬.** সমাধান করো: $\\sqrt{2x + 8} - 2\\sqrt{x + 5} + 2 = 0$",
+      "image": null,
+      "formulas": [
+        "\\sqrt{2x + 8} - 2\\sqrt{x + 5} + 2 = 0"
+      ],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $\\sqrt{2x + 8} = 2\\sqrt{x + 5} - 2$",
+      "image": null,
+      "formulas": [
+        "\\sqrt{2x + 8} = 2\\sqrt{x + 5} - 2"
+      ],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $2x + 8 = 4(x + 5) + 4 - 8\\sqrt{x + 5}$ [বর্গ করে]",
+      "image": null,
+      "formulas": [
+        "2x + 8 = 4(x + 5) + 4 - 8\\sqrt{x + 5}"
+      ],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $8\\sqrt{x + 5} = 4x + 20 + 4 - 2x - 8$ [পক্ষান্তর করে]",
+      "image": null,
+      "formulas": [
+        "8\\sqrt{x + 5} = 4x + 20 + 4 - 2x - 8"
+      ],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $8\\sqrt{x + 5} = 2x + 16 = 2(x + 8)$",
+      "image": null,
+      "formulas": [
+        "8\\sqrt{x + 5} = 2x + 16 = 2(x + 8)"
+      ],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $4\\sqrt{x + 5} = x + 8$",
+      "image": null,
+      "formulas": [
+        "4\\sqrt{x + 5} = x + 8"
+      ],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $16(x + 5) = x^2 + 16x + 64$ [বর্গ করে]",
+      "image": null,
+      "formulas": [
+        "16(x + 5) = x^2 + 16x + 64"
+      ],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $16x + 80 = x^2 + 16x + 64$",
+      "image": null,
+      "formulas": [
+        "16x + 80 = x^2 + 16x + 64"
+      ],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $16 = x^2$",
+      "image": null,
+      "formulas": [
+        "16 = x^2"
+      ],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p022",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore x = \\pm\\sqrt{16} = \\pm 4$",
+      "image": null,
+      "formulas": [
+        "\\therefore x = \\pm\\sqrt{16} = \\pm 4"
+      ],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**শুদ্ধি পরীক্ষা:** $x = 4$ হলে, বামপক্ষ $= \\sqrt{16} - 2\\sqrt{9} + 2 = 4 - 2 \\times 3 + 2 = 0 =$ ডানপক্ষ",
+      "image": null,
+      "formulas": [
+        "x = 4",
+        "= \\sqrt{16} - 2\\sqrt{9} + 2 = 4 - 2 \\times 3 + 2 = 0 ="
+      ],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$x = -4$ হলে, বামপক্ষ $= \\sqrt{-8 + 8} - 2\\sqrt{-4 + 5} + 2 = 0 - 2 \\times 1 + 2 = 0 =$ ডানপক্ষ",
+      "image": null,
+      "formulas": [
+        "x = -4",
+        "= \\sqrt{-8 + 8} - 2\\sqrt{-4 + 5} + 2 = 0 - 2 \\times 1 + 2 = 0 ="
+      ],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p025",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণয়ে সমাধান $x = 4, -4$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "x = 4, -4"
+      ],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p026",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৭.** সমাধান করো: $\\sqrt{2x + 9} - \\sqrt{x - 4} = \\sqrt{x + 1}$",
+      "image": null,
+      "formulas": [
+        "\\sqrt{2x + 9} - \\sqrt{x - 4} = \\sqrt{x + 1}"
+      ],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p027",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $\\sqrt{2x + 9} - \\sqrt{x - 4} = \\sqrt{x + 1}$",
+      "image": null,
+      "formulas": [
+        "\\sqrt{2x + 9} - \\sqrt{x - 4} = \\sqrt{x + 1}"
+      ],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p028",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $2x + 9 + x - 4 - 2\\sqrt{2x + 9}\\sqrt{x - 4} = x + 1$ [বর্গ করে]",
+      "image": null,
+      "formulas": [
+        "2x + 9 + x - 4 - 2\\sqrt{2x + 9}\\sqrt{x - 4} = x + 1"
+      ],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p029",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $2x + 4 - 2\\sqrt{2x + 9}\\sqrt{x - 4} = 0$",
+      "image": null,
+      "formulas": [
+        "2x + 4 - 2\\sqrt{2x + 9}\\sqrt{x - 4} = 0"
+      ],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p030",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\sqrt{2x + 9}\\sqrt{x - 4} = x + 2$",
+      "image": null,
+      "formulas": [
+        "\\sqrt{2x + 9}\\sqrt{x - 4} = x + 2"
+      ],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p031",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $(2x + 9)(x - 4) = x^2 + 4x + 4$ [বর্গ করে]",
+      "image": null,
+      "formulas": [
+        "(2x + 9)(x - 4) = x^2 + 4x + 4"
+      ],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p032",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $2x^2 + x - 36 = x^2 + 4x + 4$",
+      "image": null,
+      "formulas": [
+        "2x^2 + x - 36 = x^2 + 4x + 4"
+      ],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p033",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x^2 - 3x - 40 = 0$",
+      "image": null,
+      "formulas": [
+        "x^2 - 3x - 40 = 0"
+      ],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p034",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $(x - 8)(x + 5) = 0$",
+      "image": null,
+      "formulas": [
+        "(x - 8)(x + 5) = 0"
+      ],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 105,
+      "printedPageStart": 100,
+      "printedPageEnd": 100,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p035",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore x = 8$ অথবা $x = -5$ শুদ্ধি পরীক্ষা: $x = 8$ হলে, বামপক্ষ $= 5 - 2 = 3$ এবং ডানপক্ষ $= 3$",
+      "image": null,
+      "formulas": [
+        "\\therefore x = 8",
+        "x = -5",
+        "x = 8",
+        "= 5 - 2 = 3",
+        "= 3"
+      ],
+      "pdfPageStart": 105,
+      "pdfPageEnd": 106,
+      "printedPageStart": 100,
+      "printedPageEnd": 101,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p036",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অতএব, $x = 8$ প্রদত্ত সমীকরণের একটি মূল।",
+      "image": null,
+      "formulas": [
+        "x = 8"
+      ],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p037",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$x = -5$ গ্রহণযোগ্য নয়, কেননা সমীকরণে $x = -5$ বসালে ঋণাত্মক সংখ্যার বর্গমূল আসে যা সংজ্ঞায়িত নয়।",
+      "image": null,
+      "formulas": [
+        "x = -5",
+        "x = -5"
+      ],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p038",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণয়ে সমাধান $x = 8$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "x = 8"
+      ],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p039",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:** এমনকি জটিল সংখ্যায় সমাধান বের করলেও $x = -5$ গ্রহণযোগ্য হয় না।",
+      "image": null,
+      "formulas": [
+        "x = -5"
+      ],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p040",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৮.** সমাধান করো: $\\sqrt{(x - 1)(x - 2)} + \\sqrt{(x - 3)(x - 4)} = \\sqrt{2}$",
+      "image": null,
+      "formulas": [
+        "\\sqrt{(x - 1)(x - 2)} + \\sqrt{(x - 3)(x - 4)} = \\sqrt{2}"
+      ],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p041",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $\\sqrt{(x - 1)(x - 2)} + \\sqrt{(x - 3)(x - 4)} = \\sqrt{2}$",
+      "image": null,
+      "formulas": [
+        "\\sqrt{(x - 1)(x - 2)} + \\sqrt{(x - 3)(x - 4)} = \\sqrt{2}"
+      ],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p042",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\sqrt{x^2 - 3x + 2} - \\sqrt{2} = -\\sqrt{x^2 - 7x + 12}$",
+      "image": null,
+      "formulas": [
+        "\\sqrt{x^2 - 3x + 2} - \\sqrt{2} = -\\sqrt{x^2 - 7x + 12}"
+      ],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p043",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x^2 - 3x + 2 - 2\\sqrt{2}\\sqrt{x^2 - 3x + 2} + 2 = x^2 - 7x + 12$ [বর্গ করে]",
+      "image": null,
+      "formulas": [
+        "x^2 - 3x + 2 - 2\\sqrt{2}\\sqrt{x^2 - 3x + 2} + 2 = x^2 - 7x + 12"
+      ],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p044",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\sqrt{2x^2 - 6x + 4} = 2x - 4$",
+      "image": null,
+      "formulas": [
+        "\\sqrt{2x^2 - 6x + 4} = 2x - 4"
+      ],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p045",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $2x^2 - 6x + 4 = (2x - 4)^2 = 4x^2 - 16x + 16$ [বর্গ করে]",
+      "image": null,
+      "formulas": [
+        "2x^2 - 6x + 4 = (2x - 4)^2 = 4x^2 - 16x + 16"
+      ],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p046",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x^2 - 5x + 6 = 0$",
+      "image": null,
+      "formulas": [
+        "x^2 - 5x + 6 = 0"
+      ],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p047",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $(x - 2)(x - 3) = 0$",
+      "image": null,
+      "formulas": [
+        "(x - 2)(x - 3) = 0"
+      ],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p048",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore x = 2$ অথবা $x = 3$।",
+      "image": null,
+      "formulas": [
+        "\\therefore x = 2",
+        "x = 3"
+      ],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p049",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "শুদ্ধি পরীক্ষা: $x = 2$ হলে, বামপক্ষ $= \\sqrt{2} =$ ডানপক্ষ",
+      "image": null,
+      "formulas": [
+        "x = 2",
+        "= \\sqrt{2} ="
+      ],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p050",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$x = 3$ হলে, বামপক্ষ $= \\sqrt{2} =$ ডানপক্ষ",
+      "image": null,
+      "formulas": [
+        "x = 3",
+        "= \\sqrt{2} ="
+      ],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p051",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণয়ে সমাধান $x = 2, 3$।",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "x = 2, 3"
+      ],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p052",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৯.** সমাধান করো: $\\sqrt{x^2 - 6x + 15} - \\sqrt{x^2 - 6x + 13} = \\sqrt{10} - \\sqrt{8}$",
+      "image": null,
+      "formulas": [
+        "\\sqrt{x^2 - 6x + 15} - \\sqrt{x^2 - 6x + 13} = \\sqrt{10} - \\sqrt{8}"
+      ],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p053",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $\\sqrt{x^2 - 6x + 15} - \\sqrt{x^2 - 6x + 13} = \\sqrt{10} - \\sqrt{8}$",
+      "image": null,
+      "formulas": [
+        "\\sqrt{x^2 - 6x + 15} - \\sqrt{x^2 - 6x + 13} = \\sqrt{10} - \\sqrt{8}"
+      ],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p054",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন $x^2 - 6x + 13 = y$ ধরলে প্রদত্ত সমীকরণ হবে",
+      "image": null,
+      "formulas": [
+        "x^2 - 6x + 13 = y"
+      ],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p055",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\sqrt{y + 2} - \\sqrt{y} = \\sqrt{10} - \\sqrt{8}$",
+      "image": null,
+      "formulas": [
+        "\\sqrt{y + 2} - \\sqrt{y} = \\sqrt{10} - \\sqrt{8}"
+      ],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p056",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\sqrt{y + 2} + \\sqrt{8} = \\sqrt{y} + \\sqrt{10}$",
+      "image": null,
+      "formulas": [
+        "\\sqrt{y + 2} + \\sqrt{8} = \\sqrt{y} + \\sqrt{10}"
+      ],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p057",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $y + 2 + 8 + 2\\sqrt{8y + 16} = y + 10 + 2\\sqrt{10y}$ [বর্গ করে]",
+      "image": null,
+      "formulas": [
+        "y + 2 + 8 + 2\\sqrt{8y + 16} = y + 10 + 2\\sqrt{10y}"
+      ],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p058",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\sqrt{8y + 16} = \\sqrt{10y}$",
+      "image": null,
+      "formulas": [
+        "\\sqrt{8y + 16} = \\sqrt{10y}"
+      ],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p059",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $8y + 16 = 10y$ [বর্গ করে]",
+      "image": null,
+      "formulas": [
+        "8y + 16 = 10y"
+      ],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p060",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $2y = 16$ বা, $y = 8$ বা, $x^2 - 6x + 13 = 8$ [$y$ এর মান বসিয়ে]",
+      "image": null,
+      "formulas": [
+        "2y = 16",
+        "y = 8",
+        "x^2 - 6x + 13 = 8",
+        "y"
+      ],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 107,
+      "printedPageStart": 101,
+      "printedPageEnd": 102,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p061",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x^2 - 6x + 5 = 0$ বা, $(x - 1)(x - 5) = 0$",
+      "image": null,
+      "formulas": [
+        "x^2 - 6x + 5 = 0",
+        "(x - 1)(x - 5) = 0"
+      ],
+      "pdfPageStart": 107,
+      "pdfPageEnd": 107,
+      "printedPageStart": 102,
+      "printedPageEnd": 102,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p062",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore x = 1$ অথবা $5$।",
+      "image": null,
+      "formulas": [
+        "\\therefore x = 1",
+        "5"
+      ],
+      "pdfPageStart": 107,
+      "pdfPageEnd": 107,
+      "printedPageStart": 102,
+      "printedPageEnd": 102,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p063",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "শুদ্ধি পরীক্ষা: $x = 1$ হলে, বামপক্ষ $= \\sqrt{10} - \\sqrt{8} =$ ডানপক্ষ",
+      "image": null,
+      "formulas": [
+        "x = 1",
+        "= \\sqrt{10} - \\sqrt{8} ="
+      ],
+      "pdfPageStart": 107,
+      "pdfPageEnd": 107,
+      "printedPageStart": 102,
+      "printedPageEnd": 102,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p064",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$x = 5$ হলে, বামপক্ষ $= \\sqrt{10} - \\sqrt{8} =$ ডানপক্ষ",
+      "image": null,
+      "formulas": [
+        "x = 5",
+        "= \\sqrt{10} - \\sqrt{8} ="
+      ],
+      "pdfPageStart": 107,
+      "pdfPageEnd": 107,
+      "printedPageStart": 102,
+      "printedPageEnd": 102,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p065",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণয়ে সমাধান $x = 1, 5$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "x = 1, 5"
+      ],
+      "pdfPageStart": 107,
+      "pdfPageEnd": 107,
+      "printedPageStart": 102,
+      "printedPageEnd": 102,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p066",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১০.** সমাধান করো: $(1 + x)^{\\frac{1}{3}} + (1 - x)^{\\frac{1}{3}} = 2^{\\frac{1}{3}}$",
+      "image": null,
+      "formulas": [
+        "(1 + x)^{\\frac{1}{3}} + (1 - x)^{\\frac{1}{3}} = 2^{\\frac{1}{3}}"
+      ],
+      "pdfPageStart": 107,
+      "pdfPageEnd": 107,
+      "printedPageStart": 102,
+      "printedPageEnd": 102,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p067",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $(1 + x)^{\\frac{1}{3}} + (1 - x)^{\\frac{1}{3}} = 2^{\\frac{1}{3}}$",
+      "image": null,
+      "formulas": [
+        "(1 + x)^{\\frac{1}{3}} + (1 - x)^{\\frac{1}{3}} = 2^{\\frac{1}{3}}"
+      ],
+      "pdfPageStart": 107,
+      "pdfPageEnd": 107,
+      "printedPageStart": 102,
+      "printedPageEnd": 102,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p068",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $1 + x + 1 - x + 3 \\cdot (1 + x)^{\\frac{1}{3}}(1 - x)^{\\frac{1}{3}} \\{(1 + x)^{\\frac{1}{3}} + (1 - x)^{\\frac{1}{3}}\\} = 2$ [ঘন করে]",
+      "image": null,
+      "formulas": [
+        "1 + x + 1 - x + 3 \\cdot (1 + x)^{\\frac{1}{3}}(1 - x)^{\\frac{1}{3}} \\{(1 + x)^{\\frac{1}{3}} + (1 - x)^{\\frac{1}{3}}\\} = 2"
+      ],
+      "pdfPageStart": 107,
+      "pdfPageEnd": 107,
+      "printedPageStart": 102,
+      "printedPageEnd": 102,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p069",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $2 + 3 \\cdot (1 + x)^{\\frac{1}{3}}(1 - x)^{\\frac{1}{3}} \\cdot 2^{\\frac{1}{3}} = 2$",
+      "image": null,
+      "formulas": [
+        "2 + 3 \\cdot (1 + x)^{\\frac{1}{3}}(1 - x)^{\\frac{1}{3}} \\cdot 2^{\\frac{1}{3}} = 2"
+      ],
+      "pdfPageStart": 107,
+      "pdfPageEnd": 107,
+      "printedPageStart": 102,
+      "printedPageEnd": 102,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p070",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $3 \\cdot 2^{\\frac{1}{3}} \\cdot (1 + x)^{\\frac{1}{3}} \\cdot (1 - x)^{\\frac{1}{3}} = 0$",
+      "image": null,
+      "formulas": [
+        "3 \\cdot 2^{\\frac{1}{3}} \\cdot (1 + x)^{\\frac{1}{3}} \\cdot (1 - x)^{\\frac{1}{3}} = 0"
+      ],
+      "pdfPageStart": 107,
+      "pdfPageEnd": 107,
+      "printedPageStart": 102,
+      "printedPageEnd": 102,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p071",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $(1 + x)^{\\frac{1}{3}}(1 - x)^{\\frac{1}{3}} = 0$",
+      "image": null,
+      "formulas": [
+        "(1 + x)^{\\frac{1}{3}}(1 - x)^{\\frac{1}{3}} = 0"
+      ],
+      "pdfPageStart": 107,
+      "pdfPageEnd": 107,
+      "printedPageStart": 102,
+      "printedPageEnd": 102,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p072",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $(1 + x)(1 - x) = 0$ [আবার ঘন করে]",
+      "image": null,
+      "formulas": [
+        "(1 + x)(1 - x) = 0"
+      ],
+      "pdfPageStart": 107,
+      "pdfPageEnd": 107,
+      "printedPageStart": 102,
+      "printedPageEnd": 102,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p073",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$x = 1$ এবং $x = -1$ উভয়ই সমীকরণটিকে সিদ্ধ করে।",
+      "image": null,
+      "formulas": [
+        "x = 1",
+        "x = -1"
+      ],
+      "pdfPageStart": 107,
+      "pdfPageEnd": 107,
+      "printedPageStart": 102,
+      "printedPageEnd": 102,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.2-p074",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণয়ে সমাধান $x = \\pm 1$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "x = \\pm 1"
+      ],
+      "pdfPageStart": 107,
+      "pdfPageEnd": 107,
+      "printedPageStart": 102,
+      "printedPageEnd": 102,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

@@ -1,0 +1,1134 @@
+{
+  "id": "higher-math-9-10-bn-c04-t4.1",
+  "key": "4.1",
+  "title": "বৃত্তসংকান্ত কতিপয় সম্পাদ্য",
+  "chapter": 4,
+  "ordinal": 1,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সম্পাদ্য ৫.** এমন একটি বৃত্ত অঙ্কন করতে হবে যা দুটি নির্দিষ্ট বিন্দু দিয়ে যায় এবং যার কেন্দ্র একটি নির্দিষ্ট সরলরেখায় অবস্থিত থাকে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 94,
+      "pdfPageEnd": 94,
+      "printedPageStart": 89,
+      "printedPageEnd": 89,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p002",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: geometric construction diagram showing a circle with center O, points A, B, C, D, M, N, P, and Q, and lines PQ and AB",
+      "image": "p94-page_8_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 94,
+      "pdfPageEnd": 94,
+      "printedPageStart": 89,
+      "printedPageEnd": 89,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$A$ ও $B$ দুইটি নির্দিষ্ট বিন্দু এবং $PQ$ একটি নির্দিষ্ট সরলরেখা। এমন একটি বৃত্ত অঙ্কন করতে হবে যা $A$ ও $B$ বিন্দু দিয়ে যায় এবং যার কেন্দ্র $PQ$ সরলরেখার উপর অবস্থান করে।",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "PQ",
+        "A",
+        "B",
+        "PQ"
+      ],
+      "pdfPageStart": 94,
+      "pdfPageEnd": 94,
+      "printedPageStart": 89,
+      "printedPageEnd": 89,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**অঙ্কন:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 94,
+      "pdfPageEnd": 94,
+      "printedPageStart": 89,
+      "printedPageEnd": 89,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**ধাপ ১.** $A, B$ যোগ করি।",
+      "image": null,
+      "formulas": [
+        "A, B"
+      ],
+      "pdfPageStart": 94,
+      "pdfPageEnd": 94,
+      "printedPageStart": 89,
+      "printedPageEnd": 89,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**ধাপ ২.** $AB$ রেখাংশের সমদ্বিখণ্ডক $CD$ অঙ্কন করি।",
+      "image": null,
+      "formulas": [
+        "AB",
+        "CD"
+      ],
+      "pdfPageStart": 94,
+      "pdfPageEnd": 94,
+      "printedPageStart": 89,
+      "printedPageEnd": 89,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**ধাপ ৩.** $CD$ রেখাংশ $PQ$ রেখাকে $O$ বিন্দুতে ছেদ করে।",
+      "image": null,
+      "formulas": [
+        "CD",
+        "PQ",
+        "O"
+      ],
+      "pdfPageStart": 94,
+      "pdfPageEnd": 94,
+      "printedPageStart": 89,
+      "printedPageEnd": 89,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**ধাপ ৪.** $O$ কে কেন্দ্র করে $OA$ বা $OB$ ব্যাসার্ধ নিয়ে $ABNM$ বৃত্ত অঙ্কন করি। যা নির্ণয়ে বৃত্ত।",
+      "image": null,
+      "formulas": [
+        "O",
+        "OA",
+        "OB",
+        "ABNM"
+      ],
+      "pdfPageStart": 94,
+      "pdfPageEnd": 94,
+      "printedPageStart": 89,
+      "printedPageEnd": 89,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:** $CD$ রেখা $AB$ রেখার লম্বদ্বিখণ্ডক। সুতরাং $CD$ রেখাস্থ যেকোনো বিন্দু $A$ ও $B$ থেকে সমদূরবর্তী। অঙ্কনানুসারে, $O$ বিন্দুটি $CD$ ও $PQ$ এর উপর অবস্থিত। আবার, $OA$ ও $OB$ সমান বলে $O$ কে কেন্দ্র করে $OA$ বা $OB$ ব্যাসার্ধ নিয়ে বৃত্ত ঠাকলে বৃত্তটি $A$ ও $B$ বিন্দু দিয়ে যাবে এবং বৃত্তের কেন্দ্র $O$ বিন্দুটি $PQ$ রেখার ওপর অবস্থান করবে। $\\therefore$ $O$ কে কেন্দ্র করে $OA$ বা $OB$ ব্যাসার্ধ নিয়ে অঙ্কিত বৃত্তই নির্ণয়ে বৃত্ত।",
+      "image": null,
+      "formulas": [
+        "CD",
+        "AB",
+        "CD",
+        "A",
+        "B",
+        "O",
+        "CD",
+        "PQ",
+        "OA",
+        "OB",
+        "O",
+        "OA",
+        "OB",
+        "A",
+        "B",
+        "O",
+        "PQ",
+        "\\therefore",
+        "O",
+        "OA",
+        "OB"
+      ],
+      "pdfPageStart": 94,
+      "pdfPageEnd": 94,
+      "printedPageStart": 89,
+      "printedPageEnd": 89,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সম্পাদ্য ৬.** একটি নির্দিষ্ট রেখাংশের সমান ব্যাসার্ধ বিশিষ্ট একটি বৃত্ত অঙ্কন করতে হবে যা দুটি নির্দিষ্ট বিন্দু দিয়ে যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 94,
+      "pdfPageEnd": 94,
+      "printedPageStart": 89,
+      "printedPageEnd": 89,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$A$ ও $B$ দুটি নির্দিষ্ট বিন্দু এবং $r$ একটি নির্দিষ্ট রেখাংশের দৈর্ঘ্য। এমন একটি বৃত্ত অঙ্কন করতে হবে যা $A$ ও $B$ বিন্দু দিয়ে যায় এবং যার ব্যাসার্ধ $r$ এর সমান হয়।",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "r",
+        "A",
+        "B",
+        "r"
+      ],
+      "pdfPageStart": 94,
+      "pdfPageEnd": 94,
+      "printedPageStart": 89,
+      "printedPageEnd": 89,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p012",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: geometric construction diagram",
+      "image": "p95-page_9_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 95,
+      "pdfPageEnd": 95,
+      "printedPageStart": 90,
+      "printedPageEnd": 90,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p013",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ১. $A$ ও $B$ যোগ করি।",
+      "image": null,
+      "formulas": [
+        "A",
+        "B"
+      ],
+      "pdfPageStart": 95,
+      "pdfPageEnd": 95,
+      "printedPageStart": 90,
+      "printedPageEnd": 90,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p014",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ২. $A$ ও $B$ কে কেন্দ্র করে $r$ এর সমান ব্যাসার্ধ নিয়ে $AB$ এর উভয় পাশে দুটি করে বৃত্তচাপ আঁকি। এক পাশের বৃত্তচাপ দুইটি পরস্পরকে $P$ বিন্দুতে এবং অপর পাশের বৃত্তচাপ দুটি পরস্পরকে $Q$ বিন্দুতে ছেদ করে।",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "r",
+        "AB",
+        "P",
+        "Q"
+      ],
+      "pdfPageStart": 95,
+      "pdfPageEnd": 95,
+      "printedPageStart": 90,
+      "printedPageEnd": 90,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p015",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ৩. $P$ কে কেন্দ্র করে $PA$ ব্যাসার্ধ নিয়ে $ABC$ বৃত্ত অঙ্কন করি।",
+      "image": null,
+      "formulas": [
+        "P",
+        "PA",
+        "ABC"
+      ],
+      "pdfPageStart": 95,
+      "pdfPageEnd": 95,
+      "printedPageStart": 90,
+      "printedPageEnd": 90,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p016",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ৪. আবার $Q$ কে কেন্দ্র করে $QA$ ব্যাসার্ধ নিয়ে $ABD$ বৃত্ত অঙ্কন করি।",
+      "image": null,
+      "formulas": [
+        "Q",
+        "QA",
+        "ABD"
+      ],
+      "pdfPageStart": 95,
+      "pdfPageEnd": 95,
+      "printedPageStart": 90,
+      "printedPageEnd": 90,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p017",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ৫. তাহলে $ABC$ ও $ABD$ বৃত্ত দুইটির প্রত্যেকটিই নির্ণেয় বৃত্ত।",
+      "image": null,
+      "formulas": [
+        "ABC",
+        "ABD"
+      ],
+      "pdfPageStart": 95,
+      "pdfPageEnd": 95,
+      "printedPageStart": 90,
+      "printedPageEnd": 90,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p018",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "**প্রমাণ:** $PA = PB = r$। $\\therefore$ $P$ কে কেন্দ্র করে $PA$ বা $PB$ ব্যাসার্ধ নিয়ে অঙ্কিত $ABC$ বৃত্ত $A$ ও $B$ বিন্দু দিয়ে যায় এবং ব্যাসার্ধ $PA = r$ হয়।",
+      "image": null,
+      "formulas": [
+        "PA = PB = r",
+        "\\therefore",
+        "P",
+        "PA",
+        "PB",
+        "ABC",
+        "A",
+        "B",
+        "PA = r"
+      ],
+      "pdfPageStart": 95,
+      "pdfPageEnd": 95,
+      "printedPageStart": 90,
+      "printedPageEnd": 90,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p019",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "আবার $QA = QB = r$। $\\therefore$ $Q$ কে কেন্দ্র করে $QA$ বা $QB$ ব্যাসার্ধ নিয়ে অঙ্কিত $ABD$ বৃত্ত $A$ ও $B$ বিন্দু দিয়ে যায় এবং ব্যাসার্ধ $QA = r$ হয়।",
+      "image": null,
+      "formulas": [
+        "QA = QB = r",
+        "\\therefore",
+        "Q",
+        "QA",
+        "QB",
+        "ABD",
+        "A",
+        "B",
+        "QA = r"
+      ],
+      "pdfPageStart": 95,
+      "pdfPageEnd": 95,
+      "printedPageStart": 90,
+      "printedPageEnd": 90,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p020",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "$\\therefore$ $ABC$ ও $ABD$ বৃত্ত দুটির প্রতিটিই উদ্দিষ্ট বৃত্ত।",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "ABC",
+        "ABD"
+      ],
+      "pdfPageStart": 95,
+      "pdfPageEnd": 95,
+      "printedPageStart": 90,
+      "printedPageEnd": 90,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p021",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "**সম্পাদ্য ৭.** এরূপ একটি বৃত্ত অঙ্কন করতে হবে যা একটি নির্দিষ্ট বৃত্তকে নির্দিষ্ট বিন্দুতে স্পর্শ করে এবং বৃত্তের বহিঃস্থ কোনো নির্দিষ্ট বিন্দু দিয়ে যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 95,
+      "pdfPageEnd": 95,
+      "printedPageStart": 90,
+      "printedPageEnd": 90,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p022",
+      "kind": "figure",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "drawing: geometric diagram showing two circles tangent at point P, with centers C and O, and points A, B, Q",
+      "image": "p96-page_10_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 96,
+      "pdfPageEnd": 96,
+      "printedPageStart": 91,
+      "printedPageEnd": 91,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p023",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "মনে করি, নির্দিষ্ট বৃত্তের কেন্দ্র $C$, $P$ ঐ বৃত্তের উপর অবস্থিত একটি নির্দিষ্ট বিন্দু এবং $Q$ ঐ বৃত্তের বহিঃস্থ একটি নির্দিষ্ট বিন্দু। এরূপ একটি বৃত্ত অঙ্কন করতে হবে যা ঐ বৃত্তকে $P$ বিন্দুতে স্পর্শ করে এবং $Q$ বিন্দু দিয়ে যায়।",
+      "image": null,
+      "formulas": [
+        "C",
+        "P",
+        "Q",
+        "P",
+        "Q"
+      ],
+      "pdfPageStart": 96,
+      "pdfPageEnd": 96,
+      "printedPageStart": 91,
+      "printedPageEnd": 91,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p024",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ১. $P, Q$ যোগ করি।",
+      "image": null,
+      "formulas": [
+        "P, Q"
+      ],
+      "pdfPageStart": 96,
+      "pdfPageEnd": 96,
+      "printedPageStart": 91,
+      "printedPageEnd": 91,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p025",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ২. $PQ$ এর লম্বদ্বিখণ্ডক $AB$ আঁকি।",
+      "image": null,
+      "formulas": [
+        "PQ",
+        "AB"
+      ],
+      "pdfPageStart": 96,
+      "pdfPageEnd": 96,
+      "printedPageStart": 91,
+      "printedPageEnd": 91,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p026",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ৩. $C, P$ যোগ করি।",
+      "image": null,
+      "formulas": [
+        "C, P"
+      ],
+      "pdfPageStart": 96,
+      "pdfPageEnd": 96,
+      "printedPageStart": 91,
+      "printedPageEnd": 91,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p027",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ৪. বর্ধিত $CP$ রেখাংশ $AB$ কে $O$ বিন্দুতে ছেদ করে।",
+      "image": null,
+      "formulas": [
+        "CP",
+        "AB",
+        "O"
+      ],
+      "pdfPageStart": 96,
+      "pdfPageEnd": 96,
+      "printedPageStart": 91,
+      "printedPageEnd": 91,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p028",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ৫. $O$ কে কেন্দ্র করে $OP$ এর সমান ব্যাসার্ধ নিয়ে অঙ্কিত $PQR$ বৃত্তই উদ্দিষ্ট বৃত্ত।",
+      "image": null,
+      "formulas": [
+        "O",
+        "OP",
+        "PQR"
+      ],
+      "pdfPageStart": 96,
+      "pdfPageEnd": 96,
+      "printedPageStart": 91,
+      "printedPageEnd": 91,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p029",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "**প্রমাণ:** $O, Q$ যোগ করি। $AB$ রেখাংশ বা $OB$ রেখাংশ $PQ$ এর লম্বদ্বিখণ্ডক। $\\therefore OP = OQ$।",
+      "image": null,
+      "formulas": [
+        "O, Q",
+        "AB",
+        "OB",
+        "PQ",
+        "\\therefore OP = OQ"
+      ],
+      "pdfPageStart": 96,
+      "pdfPageEnd": 96,
+      "printedPageStart": 91,
+      "printedPageEnd": 91,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p030",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "সুতরাং $O$ কে কেন্দ্র করে $OP$ ব্যাসার্ধ নিয়ে বৃত্ত আঁকলে তা $Q$ বিন্দু দিয়ে যাবে।",
+      "image": null,
+      "formulas": [
+        "O",
+        "OP",
+        "Q"
+      ],
+      "pdfPageStart": 96,
+      "pdfPageEnd": 96,
+      "printedPageStart": 91,
+      "printedPageEnd": 91,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p031",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "আবার $P$ বিন্দুটি দুটি বৃত্তের কেন্দ্রদ্বয়ের সংযোজক রেখার ওপর অবস্থিত এবং $P$ বিন্দু উভয় বৃত্তের উপর অবস্থিত। অর্থাৎ $P$ বিন্দুতে বৃত্তদ্বয় মিলিত হয়েছে। সুতরাং বৃত্তদ্বয় $P$ বিন্দুতে স্পর্শ করে।",
+      "image": null,
+      "formulas": [
+        "P",
+        "P",
+        "P",
+        "P"
+      ],
+      "pdfPageStart": 96,
+      "pdfPageEnd": 96,
+      "printedPageStart": 91,
+      "printedPageEnd": 91,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p032",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "সুতরাং $O$ কে কেন্দ্র করে $OP$ ব্যাসার্ধ নিয়ে অঙ্কিত বৃত্তই উদ্দিষ্ট বৃত্ত।",
+      "image": null,
+      "formulas": [
+        "O",
+        "OP"
+      ],
+      "pdfPageStart": 96,
+      "pdfPageEnd": 96,
+      "printedPageStart": 91,
+      "printedPageEnd": 91,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p033",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "**সম্পাদ্য ৮.** এরূপ একটি বৃত্ত অঙ্কন করতে হবে যা একটি নির্দিষ্ট সরলরেখাকে একটি নির্দিষ্ট বিন্দুতে স্পর্শ করে এবং রেখার বহিঃস্থ কোনো বিন্দু দিয়ে যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 96,
+      "pdfPageEnd": 96,
+      "printedPageStart": 91,
+      "printedPageEnd": 91,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p034",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "মনে করি, $AB$ সরলরেখাস্থ $A$ একটি নির্দিষ্ট বিন্দু এবং $AB$ রেখার বহিঃস্থ $P$ অপর একটি নির্দিষ্ট বিন্দু। এরূপ একটি বৃত্ত আঁকতে হবে যা $AB$ কে $A$ বিন্দুতে স্পর্শ করে এবং $P$ বিন্দু দিয়ে যায়।",
+      "image": null,
+      "formulas": [
+        "AB",
+        "A",
+        "AB",
+        "P",
+        "AB",
+        "A",
+        "P"
+      ],
+      "pdfPageStart": 96,
+      "pdfPageEnd": 96,
+      "printedPageStart": 91,
+      "printedPageEnd": 91,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p035",
+      "kind": "figure",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "drawing: geometric construction diagram",
+      "image": "p97-page_11_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 97,
+      "pdfPageEnd": 97,
+      "printedPageStart": 92,
+      "printedPageEnd": 92,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p036",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ১. $AB$ এর উপর $A$ বিন্দুতে $AC$ লম্ব অঙ্কন করি।",
+      "image": null,
+      "formulas": [
+        "AB",
+        "A",
+        "AC"
+      ],
+      "pdfPageStart": 97,
+      "pdfPageEnd": 97,
+      "printedPageStart": 92,
+      "printedPageEnd": 92,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p037",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ২. $P, A$ যোগ করে তার লম্বদ্বিখণ্ডক $QR$ অঙ্কন করি।",
+      "image": null,
+      "formulas": [
+        "P, A",
+        "QR"
+      ],
+      "pdfPageStart": 97,
+      "pdfPageEnd": 97,
+      "printedPageStart": 92,
+      "printedPageEnd": 92,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p038",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ৩. $QR$ এবং $AC$ রেখাদ্বয় $O$ বিন্দুতে ছেদ করে।",
+      "image": null,
+      "formulas": [
+        "QR",
+        "AC",
+        "O"
+      ],
+      "pdfPageStart": 97,
+      "pdfPageEnd": 97,
+      "printedPageStart": 92,
+      "printedPageEnd": 92,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p039",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ৪. $O$ কে কেন্দ্র করে $OA$ ব্যাসার্ধ নিয়ে $APS$ বৃত্ত অঙ্কন করি। তাহলে $APS$ ই উদ্দিষ্ট বৃত্ত।",
+      "image": null,
+      "formulas": [
+        "O",
+        "OA",
+        "APS",
+        "APS"
+      ],
+      "pdfPageStart": 97,
+      "pdfPageEnd": 97,
+      "printedPageStart": 92,
+      "printedPageEnd": 92,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p040",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "**প্রমাণ:** $O, P$ যোগ করি। $AP$ রেখার লম্বদ্বিখণ্ডক $QR$ এর উপর $O$ অবস্থিত।",
+      "image": null,
+      "formulas": [
+        "O, P",
+        "AP",
+        "QR",
+        "O"
+      ],
+      "pdfPageStart": 97,
+      "pdfPageEnd": 97,
+      "printedPageStart": 92,
+      "printedPageEnd": 92,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p041",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "$\\therefore OA = OP$।",
+      "image": null,
+      "formulas": [
+        "\\therefore OA = OP"
+      ],
+      "pdfPageStart": 97,
+      "pdfPageEnd": 97,
+      "printedPageStart": 92,
+      "printedPageEnd": 92,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p042",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "$\\therefore O$ কে কেন্দ্র করে $OA$ ব্যাসার্ধ নিয়ে অঙ্কিত বৃত্ত $P$ বিন্দু দিয়ে যায়।",
+      "image": null,
+      "formulas": [
+        "\\therefore O",
+        "OA",
+        "P"
+      ],
+      "pdfPageStart": 97,
+      "pdfPageEnd": 97,
+      "printedPageStart": 92,
+      "printedPageEnd": 92,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p043",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "আবার $OA$ ব্যাসার্ধ রেখার $A$ প্রান্ত বিন্দুতে $AB$ এর ওপর $AO$ লম্ব।",
+      "image": null,
+      "formulas": [
+        "OA",
+        "A",
+        "AB",
+        "AO"
+      ],
+      "pdfPageStart": 97,
+      "pdfPageEnd": 97,
+      "printedPageStart": 92,
+      "printedPageEnd": 92,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p044",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "$\\therefore AB$ রেখাংশ বৃত্তটিকে $A$ বিন্দুতে স্পর্শ করে।",
+      "image": null,
+      "formulas": [
+        "\\therefore AB",
+        "A"
+      ],
+      "pdfPageStart": 97,
+      "pdfPageEnd": 97,
+      "printedPageStart": 92,
+      "printedPageEnd": 92,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p045",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "$\\therefore O$ কে কেন্দ্র করে $OA$ ব্যাসার্ধ নিয়ে অঙ্কিত বৃত্তটিই নির্ণেয় বৃত্ত।",
+      "image": null,
+      "formulas": [
+        "\\therefore O",
+        "OA"
+      ],
+      "pdfPageStart": 97,
+      "pdfPageEnd": 97,
+      "printedPageStart": 92,
+      "printedPageEnd": 92,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p046",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "**বিশ্লেষণ:** যেহেতু বৃত্তটি নির্দিষ্ট রেখাকে নির্দিষ্ট বিন্দুতে স্পর্শ করে, সুতরাং নির্দিষ্ট রেখার নির্দিষ্ট বিন্দুতে লম্ব আঁকতে হবে এবং এই লম্বই বৃত্তের একটি ব্যাস হবে। আবার ঐ রেখাস্থ নির্দিষ্ট বিন্দু ও বহিঃস্থ নির্দিষ্ট বিন্দু উভয়েই বৃত্তের পরিধির ওপরে থাকবে বিধায় এই বিন্দুদ্বয়ের সংযোজক রেখার লম্বদ্বিখণ্ডক কেন্দ্র দিয়ে যাবে। তাহলে এই লম্বদ্বিখণ্ডক ও পূর্বাঙ্কিত ব্যাসের ছেদবিন্দু বৃত্তের কেন্দ্র হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 97,
+      "pdfPageEnd": 97,
+      "printedPageStart": 92,
+      "printedPageEnd": 92,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p047",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "**উদাহরণ ৩.** ২ সে.মি. ব্যাসার্ধ বিশিষ্ট বৃত্তের কেন্দ্র থেকে ৫ সে.মি. দূরে কোনো নির্দিষ্ট বিন্দু হতে অঙ্কিত স্পর্শকদ্বয়ের দৈর্ঘ্য নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 97,
+      "pdfPageEnd": 97,
+      "printedPageStart": 92,
+      "printedPageEnd": 92,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p048",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "**সমাধান:** ২ সে.মি. ব্যাসার্ধ বিশিষ্ট বৃত্তের কেন্দ্র $O$ এবং নির্দিষ্ট $P$ থেকে $O$ বিন্দুর দূরত্ব ৫ সে.মি.। $P$ বিন্দু থেকে উক্ত বৃত্তে স্পর্শক অঙ্কন করে তার দৈর্ঘ্য নির্ণয় করতে হবে।",
+      "image": null,
+      "formulas": [
+        "O",
+        "P",
+        "O",
+        "P"
+      ],
+      "pdfPageStart": 97,
+      "pdfPageEnd": 97,
+      "printedPageStart": 92,
+      "printedPageEnd": 92,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p049",
+      "kind": "figure",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "drawing: geometric construction diagram showing two intersecting circles with points P, Q, R, M, and O",
+      "image": "p98-page_12_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 98,
+      "pdfPageEnd": 98,
+      "printedPageStart": 93,
+      "printedPageEnd": 93,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p050",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ১. $OP$ রেখাকে দ্বিখণ্ডিত করি। ধরি, দ্বিখণ্ডক বিন্দু $M$।",
+      "image": null,
+      "formulas": [
+        "OP",
+        "M"
+      ],
+      "pdfPageStart": 98,
+      "pdfPageEnd": 98,
+      "printedPageStart": 93,
+      "printedPageEnd": 93,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p051",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ২. $M$ কে কেন্দ্র করে $OM$ ব্যাসার্ধ নিয়ে একটি বৃত্ত আঁকি যা $O$ কেন্দ্রিক বৃত্তের $Q$ এবং $R$ বিন্দুতে ছেদ করে।",
+      "image": null,
+      "formulas": [
+        "M",
+        "OM",
+        "O",
+        "Q",
+        "R"
+      ],
+      "pdfPageStart": 98,
+      "pdfPageEnd": 98,
+      "printedPageStart": 93,
+      "printedPageEnd": 93,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p052",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ৩. $P, Q$ এবং $P, R$ যোগ করি। তাহলে $PQ$ এবং $PR$-ই নির্ণয় স্পর্শক।",
+      "image": null,
+      "formulas": [
+        "P, Q",
+        "P, R",
+        "PQ",
+        "PR"
+      ],
+      "pdfPageStart": 98,
+      "pdfPageEnd": 98,
+      "printedPageStart": 93,
+      "printedPageEnd": 93,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p053",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "এখন, $PQ$ ও $PR$ কে পরিমাপ করে পাই, $PQ = PR = 4.6$ সে.মি.",
+      "image": null,
+      "formulas": [
+        "PQ",
+        "PR",
+        "PQ = PR = 4.6"
+      ],
+      "pdfPageStart": 98,
+      "pdfPageEnd": 98,
+      "printedPageStart": 93,
+      "printedPageEnd": 93,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p054",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "**কাজ:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 98,
+      "pdfPageEnd": 98,
+      "printedPageStart": 93,
+      "printedPageEnd": 93,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p055",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ক) 5 সে.মি., 12 সে.মি. ও 13 সে.মি. বাহুবিশিষ্ট একটি ত্রিভুজের অন্তর্বৃত্ত অঙ্কন করে এর ব্যাসার্ধ নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 98,
+      "pdfPageEnd": 98,
+      "printedPageStart": 93,
+      "printedPageEnd": 93,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.1-p056",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "খ) 6.5 সে.মি., 7 সে.মি. এবং 7.5 সে.মি. বাহুবিশিষ্ট একটি ত্রিভুজের বাহিবৃত্ত অঙ্কন করে এর ব্যাসার্ধ নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 98,
+      "pdfPageEnd": 98,
+      "printedPageStart": 93,
+      "printedPageEnd": 93,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

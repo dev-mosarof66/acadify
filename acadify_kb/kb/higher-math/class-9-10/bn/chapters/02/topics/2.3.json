@@ -1,0 +1,223 @@
+{
+  "id": "higher-math-9-10-bn-c02-t2.3",
+  "key": "2.3",
+  "title": "তিন চলকের বহুপদী",
+  "chapter": 2,
+  "ordinal": 3,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c02-t2.3-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$x, y$ ও $z$ চলকের বহুপদীর পদগুলো $cx^p y^q z^r$ আকারের হয়। যেখানে $c$ (ধ্রুবক) পদটির সহগ এবং $p, q, r$ অক্ষগাত্বক পূর্ণসংখ্যা। এখানে $p + q + r$ কে এই পদের মাত্রা এবং বহুপদীতে উল্লিখিত পদসমূহের গরিষ্ঠ মাত্রাকে বহুপদীটির মাত্রা বলা হয়। এরূপ বহুপদিকে $P(x, y, z)$ আকারের প্রতীক দ্বারা সূচিত করা হয়। যেমন, $P(x, y, z) = x^3 + y^3 + z^3 - 3xyz$ বহুপদীর মাত্রা 3 এবং $P(1, 1, -2) = 1 + 1 - 8 + 6 = 0$।",
+      "image": null,
+      "formulas": [
+        "x, y",
+        "z",
+        "cx^p y^q z^r",
+        "c",
+        "p, q, r",
+        "p + q + r",
+        "P(x, y, z)",
+        "P(x, y, z) = x^3 + y^3 + z^3 - 3xyz",
+        "P(1, 1, -2) = 1 + 1 - 8 + 6 = 0"
+      ],
+      "pdfPageStart": 45,
+      "pdfPageEnd": 45,
+      "printedPageStart": 40,
+      "printedPageEnd": 40,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.3-p002",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "ক) নিচের কোনটি বহুপদী নির্ণয় করো:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 45,
+      "pdfPageEnd": 45,
+      "printedPageStart": 40,
+      "printedPageEnd": 40,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.3-p003",
+      "kind": "table",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "<table><tr><td>(১) $2x^3$</td><td>(২) $7 - 3a^2$</td><td>(৩) $x^3 + x^{-2}$</td></tr>\n<tr><td>(৪) $\\frac{a^2 + a}{a^3 - a}$</td><td>(৫) $5x^2 - 2xy + 3y^2$</td><td>(৬) $6a + 3b$</td></tr>\n<tr><td>(৭) $c^2 + \\frac{2}{c} - 3$</td><td>(৮) $3\\sqrt{n - 4}$</td><td>(৯) $2x(x^2 + 3y)$</td></tr>\n<tr><td>(১০) $3x - (2y + 4z)$</td><td>(১১) $\\frac{6}{x} + 2y$</td><td>(১২) $\\frac{3}{4}x - 2y$</td></tr></table>",
+      "image": null,
+      "formulas": [
+        "2x^3",
+        "7 - 3a^2",
+        "x^3 + x^{-2}",
+        "\\frac{a^2 + a}{a^3 - a}",
+        "5x^2 - 2xy + 3y^2",
+        "6a + 3b",
+        "c^2 + \\frac{2}{c} - 3",
+        "3\\sqrt{n - 4}",
+        "2x(x^2 + 3y)",
+        "3x - (2y + 4z)",
+        "\\frac{6}{x} + 2y",
+        "\\frac{3}{4}x - 2y"
+      ],
+      "pdfPageStart": 45,
+      "pdfPageEnd": 45,
+      "printedPageStart": 40,
+      "printedPageEnd": 40,
+      "reviewReasons": [
+        "verify-formula",
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.3-p004",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "খ) নিচের বহুপদীগুলোতে চলকের সংখ্যা ও মাত্রা নির্ণয় করো:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 45,
+      "pdfPageEnd": 45,
+      "printedPageStart": 40,
+      "printedPageEnd": 40,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.3-p005",
+      "kind": "table",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "<table><tr><td>(১) $x^2 + 10x + 5$</td><td>(২) $3a + 2b$</td><td>(৩) $4xyz$</td></tr>\n<tr><td>(৪) $2m^2n - mn^2$</td><td>(৫) $7a + b - 2$</td><td>(৬) $6a^2b^2c^2$</td></tr></table>",
+      "image": null,
+      "formulas": [
+        "x^2 + 10x + 5",
+        "3a + 2b",
+        "4xyz",
+        "2m^2n - mn^2",
+        "7a + b - 2",
+        "6a^2b^2c^2"
+      ],
+      "pdfPageStart": 45,
+      "pdfPageEnd": 45,
+      "printedPageStart": 40,
+      "printedPageEnd": 40,
+      "reviewReasons": [
+        "verify-formula",
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.3-p006",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "গ) নিচের বহুপদীগুলোর প্রত্যেকটিকে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 45,
+      "pdfPageEnd": 45,
+      "printedPageStart": 40,
+      "printedPageEnd": 40,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.3-p007",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "(i) $x$ চলকের বহুপদীর আদর্শ আকারে বর্ণনা করো এবং $x$ চলকের বহুপদী রূপে এর মাত্রা, মুখসহগ ও ধ্রুবপদ নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "x",
+        "x"
+      ],
+      "pdfPageStart": 45,
+      "pdfPageEnd": 45,
+      "printedPageStart": 40,
+      "printedPageEnd": 40,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.3-p008",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "(ii) $y$ চলকের বহুপদীর আদর্শ আকারে বর্ণনা করো এবং $y$ চলকের বহুপদীরূপে এর মাত্রা, মুখসহগ ও ধ্রুবপদ নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "y",
+        "y"
+      ],
+      "pdfPageStart": 45,
+      "pdfPageEnd": 45,
+      "printedPageStart": 40,
+      "printedPageEnd": 40,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.3-p009",
+      "kind": "table",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "<table><tr><td>(১) $3x^2 - y^2 + x - 3$</td><td>(২) $x^2 - x^6 + x^4 + 3$</td></tr>\n<tr><td>(৩) $5x^2y - 4x^4y^4 - 2$</td><td>(৪) $x + 2x^2 + 3x^3 + 6$</td></tr>\n<tr><td>(৫) $3x^3y + 2xyz - x^4$</td><td></td></tr></table>",
+      "image": null,
+      "formulas": [
+        "3x^2 - y^2 + x - 3",
+        "x^2 - x^6 + x^4 + 3",
+        "5x^2y - 4x^4y^4 - 2",
+        "x + 2x^2 + 3x^3 + 6",
+        "3x^3y + 2xyz - x^4"
+      ],
+      "pdfPageStart": 45,
+      "pdfPageEnd": 45,
+      "printedPageStart": 40,
+      "printedPageEnd": 40,
+      "reviewReasons": [
+        "verify-formula",
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.3-p010",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "ঘ) যদি $P(x) = 2x^2 + 3$ হয়, তবে $P(5)$, $P(6)$, $P\\left(\\frac{1}{2}\\right)$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "P(x) = 2x^2 + 3",
+        "P(5)",
+        "P(6)",
+        "P\\left(\\frac{1}{2}\\right)"
+      ],
+      "pdfPageStart": 45,
+      "pdfPageEnd": 45,
+      "printedPageStart": 40,
+      "printedPageEnd": 40,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

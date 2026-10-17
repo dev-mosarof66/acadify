@@ -1,0 +1,85 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.3",
+  "key": "1.3",
+  "title": "কয়েকটি বিশেষ সংখ্যা সেট",
+  "chapter": 1,
+  "ordinal": 3,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.3-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$N = \\{1, 2, 3, \\dots\\}$ অর্থাৎ সকল স্বাভাবিক সংখ্যা বা ধনাত্মক পূর্ণসংখ্যার সেট।",
+      "image": null,
+      "formulas": [
+        "N = \\{1, 2, 3, \\dots\\}"
+      ],
+      "pdfPageStart": 7,
+      "pdfPageEnd": 7,
+      "printedPageStart": 2,
+      "printedPageEnd": 2,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.3-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$Z = \\{\\dots, -2, -1, 0, 1, 2, 3, \\dots\\}$ অর্থাৎ সকল পূর্ণসংখ্যার সেট।",
+      "image": null,
+      "formulas": [
+        "Z = \\{\\dots, -2, -1, 0, 1, 2, 3, \\dots\\}"
+      ],
+      "pdfPageStart": 7,
+      "pdfPageEnd": 7,
+      "printedPageStart": 2,
+      "printedPageEnd": 2,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.3-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$Q = \\{x : x = \\frac{p}{q}, যেখানে  p  যেকোনো পূর্ণসংখ্যা এবং  q  যেকোনো ধনাত্মক পূর্ণসংখ্যা\\}$ অর্থাৎ সকল মূলদ সংখ্যার সেট।",
+      "image": null,
+      "formulas": [
+        "Q = \\{x : x = \\frac{p}{q}, যেখানে  p  যেকোনো পূর্ণসংখ্যা এবং  q  যেকোনো ধনাত্মক পূর্ণসংখ্যা\\}"
+      ],
+      "pdfPageStart": 7,
+      "pdfPageEnd": 7,
+      "printedPageStart": 2,
+      "printedPageEnd": 2,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.3-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$R = \\{x : x  বাস্তব সংখ্যা\\}$ অর্থাৎ সকল বাস্তব সংখ্যার সেট।",
+      "image": null,
+      "formulas": [
+        "R = \\{x : x  বাস্তব সংখ্যা\\}"
+      ],
+      "pdfPageStart": 7,
+      "pdfPageEnd": 7,
+      "printedPageStart": 2,
+      "printedPageEnd": 2,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

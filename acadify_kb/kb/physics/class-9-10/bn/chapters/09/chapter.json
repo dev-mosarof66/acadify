@@ -1,0 +1,75 @@
+{
+  "id": "physics-9-10-bn-c09",
+  "textbookId": "physics-9-10-bn",
+  "number": 9,
+  "title": "আলোর প্রতিসরণ",
+  "englishTitle": "Refraction of Light",
+  "pdfPages": [
+    246,
+    274
+  ],
+  "printedPages": [
+    241,
+    269
+  ],
+  "topics": [
+    {
+      "key": "9.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/9.0.json",
+      "passages": 5
+    },
+    {
+      "key": "9.1",
+      "title": "আলোর প্রতিসরণ (Refraction of Light)",
+      "file": "topics/9.1.json",
+      "passages": 55
+    },
+    {
+      "key": "9.2",
+      "title": "পূর্ণ অভ্যন্তরীণ প্রতিফলন (Total Internal Reflection)",
+      "file": "topics/9.2.json",
+      "passages": 43
+    },
+    {
+      "key": "9.3",
+      "title": "প্রতিসরণের ব্যবহার",
+      "file": "topics/9.3.json",
+      "passages": 19
+    },
+    {
+      "key": "9.4",
+      "title": "লেন্সের প্রকারভেদ (Types of Lenses)",
+      "file": "topics/9.4.json",
+      "passages": 81
+    },
+    {
+      "key": "9.ex",
+      "title": "নমুনা প্রশ্ন",
+      "file": "topics/9.ex.json",
+      "passages": 31
+    }
+  ],
+  "stats": {
+    "topics": 6,
+    "passages": 234,
+    "images": 31,
+    "byKind": {
+      "figure": 62,
+      "text": 111,
+      "objective": 1,
+      "formula": 18,
+      "table": 1,
+      "example": 10,
+      "activity": 4,
+      "exercise": 27
+    },
+    "byReason": {
+      "verify-formula": 62,
+      "verify-table": 1,
+      "known-confusable-corrected": 29,
+      "latin-junk": 7
+    },
+    "needsReview": 96
+  }
+}

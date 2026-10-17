@@ -1,0 +1,191 @@
+{
+  "id": "physics-9-10-bn-c06-t6.5",
+  "key": "6.5",
+  "title": "আপেক্ষিক তাপ (Specific Heat)",
+  "chapter": 6,
+  "ordinal": 5,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c06-t6.5-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাপ, তাপমাত্রা এবং এর সাথে সম্পর্ক রয়েছে এ রকম অনেকগুলো বিষয় নিয়ে আলোচনা করা হলেও একটা বস্তুর তাপমাত্রা কতটুকু বাড়াতে হলে সেখানে কতটুকু তাপ দিতে হবে সেটি এখানো আলোচনা করা হয়নি। তোমরা হয়তো লক্ষ্য করে থাকবে খানিকটা পানিকে উত্তপ্ত করতে বেশ অনেকক্ষণ চুলার ওপর রেখে সেটাতে তাপ দিতে হয়। প্রায় সমপরিমাণ ধাতব কোনো বস্তুরকে সেই একই তাপমাত্রায় নিয়ে যেতে কিন্তু মোটেও বেশি সময় উত্তপ্ত করতে হয় না। এর কারণ পানির আপেক্ষিক তাপ বেশি সেই তুলনায় ধাতব পদার্থের আপেক্ষিক তাপ অনেক কম। 1 kg পদার্থের তাপমাত্রা 1 K বাড়াতে যে পরিমাণ তাপের প্রয়োজন সেটি হচ্ছে ঐ পদার্থের আপেক্ষিক তাপ। অর্থাৎ যদি $m$ ভরের কোনো পদার্থকে $T_1$ থেকে $T_2$ তাপমাত্রায় নিতে $Q$ তাপের প্রয়োজন হয় তাহলে আপেক্ষিক তাপ $s$ হচ্ছে:",
+      "image": null,
+      "formulas": [
+        "m",
+        "T_1",
+        "T_2",
+        "Q",
+        "s"
+      ],
+      "pdfPageStart": 183,
+      "pdfPageEnd": 183,
+      "printedPageStart": 178,
+      "printedPageEnd": 178,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.5-p002",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$s = \\frac{Q}{m(T_2 - T_1)}$$",
+      "image": null,
+      "formulas": [
+        "s = \\frac{Q}{m(T_2 - T_1)}"
+      ],
+      "pdfPageStart": 183,
+      "pdfPageEnd": 183,
+      "printedPageStart": 178,
+      "printedPageEnd": 178,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.5-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "> আপেক্ষিক তাপের একক J kg<sup>-1</sup>K<sup>-1</sup>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 183,
+      "pdfPageEnd": 183,
+      "printedPageStart": 178,
+      "printedPageEnd": 178,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.5-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাপ ধারণক্ষমতা $C$ বলতে বোঝানো হয় একটা বস্তুর তাপমাত্রা 1 K বাড়াতে কত তাপের প্রয়োজন। আপেক্ষিক তাপ হচ্ছে 1 kg ভরের তাপমাত্রা 1 K বাড়াতে কত তাপের প্রয়োজন। তাই বস্তুর আপেক্ষিক তাপ জেনে নিলে আমরা খুব সহজেই যেকোনো বস্তুর তাপ ধারণক্ষমতা $C$ বের করতে পারব। কারণ বস্তুর ভর যদি $m$ হয়, আপেক্ষিক তাপ $s$ হয় তাহলে",
+      "image": null,
+      "formulas": [
+        "C",
+        "C",
+        "m",
+        "s"
+      ],
+      "pdfPageStart": 183,
+      "pdfPageEnd": 183,
+      "printedPageStart": 178,
+      "printedPageEnd": 178,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.5-p005",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$C = ms$$",
+      "image": null,
+      "formulas": [
+        "C = ms"
+      ],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.5-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "10 kg সোনার তাপ ধারণক্ষমতা হচ্ছে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.5-p007",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$C = 10 \\times 230  JK^{-1} = 2300  JK^{-1}$$",
+      "image": null,
+      "formulas": [
+        "C = 10 \\times 230  JK^{-1} = 2300  JK^{-1}"
+      ],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.5-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সে তুলনায় 10 *kg* পানির তাপ ধারণক্ষমতা",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.5-p009",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$C = 10 \\times 4200  JK^{-1} = 42,000  JK^{-1}  প্রায় 20 গুণ বেশি।$$",
+      "image": null,
+      "formulas": [
+        "C = 10 \\times 4200  JK^{-1} = 42,000  JK^{-1}  প্রায় 20 গুণ বেশি।"
+      ],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c06-t6.5-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তার অর্থ সোনা কিংবা অন্য কোনো ধাতুকে চট করে উত্তপ্ত করা যায় কিন্তু পানিকে এত সহজে উত্তপ্ত করা যায় না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

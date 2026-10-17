@@ -68,6 +68,9 @@ const EN_ORDINAL_CHAPTER_RE = /^(first|second|third|fourth|fifth|sixth|seventh|e
 function chapterOpener(text: string): { number: number; title: string } | null {
   const bn = text.match(BN_CHAPTER_RE);
   if (bn) return { number: BN_ORDINALS[bn[1]], title: "" };
+  // Maths books head chapters "অধ্যায় ১" (word first, then a digit)
+  const digit = normalizeDigits(text).match(/^অধ্যায়\s+(\d{1,2})$/);
+  if (digit) return { number: Number(digit[1]), title: "" };
   const en = text.match(EN_CHAPTER_RE);
   if (en) {
     const raw = en[1].toLowerCase();
@@ -89,9 +92,15 @@ const MODE_RULES: [Mode, RegExp][] = [
   ["objective", /^(এ অধ্যায় শেষে আমরা|learning outcomes|by the end of this chapter)/i],
   ["activity", /^(নিজে করো|দলীয় কাজ|একক কাজ|জোড়ায় কাজ|অনুসন্ধান|activity|experiment|group work)/i],
   ["example", /^(উদাহরণ|example\b|worked example)/i],
-  ["exercise", /^(বহুনির্বাচনি প্রশ্ন|সৃজনশীল প্রশ্ন|সূজনশীল প্রশ্ন|সংক্ষিপ্ত উত্তর প্রশ্ন|অনুশীলনী|exercises?\b|multiple choice|short answer|creative questions?)/i],
+  ["exercise", /^(বহুনির্বাচনি প্রশ্ন|সৃজনশীল প্রশ্ন|সূজনশীল প্রশ্ন|সংক্ষিপ্ত[\s-]+উত্তর প্রশ্ন|অনুশীলনী|exercises?\b|multiple choice|short answer|creative questions?)/i],
 ];
-const EXERCISE_TOPIC_RE = /^(নমুনা প্রশ্ন|অনুশীলনী|sample questions|exercises?\b)/i;
+// Starts (or re-enters) the chapter's exercise topic. The question-type headings count too: a chapter can go straight
+// into "সংক্ষিপ্ত-উত্তর প্রশ্ন" without an "অনুশীলনী" heading.
+const EXERCISE_TOPIC_RE = /^(নমুনা প্রশ্ন|অনুশীলনী|বহুনির্বাচনি প্রশ্ন|সৃজনশীল প্রশ্ন|সূজনশীল প্রশ্ন|সংক্ষিপ্ত[\s-]+উত্তর প্রশ্ন|sample questions|exercises?\b)/i;
+// Maths books don't number their sections; a heading like "সার্বিক সেট (Universal Set)" is how a new one starts.
+// ...or a top-level heading with no English term: not a theorem, construction, solution or "কাজ" line, which are headings too
+const PLAIN_SECTION_RE = /^(?!(উপপাদ্য|প্রতিজ্ঞা|সম্পাদ্য|অঙ্কন|সমাধান|প্রমাণ|কাজ|উদাহরণ|দৃষ্টব্য|বিশেষ দ্রষ্টব্য|মন্তব্য|ফর্মা))[^:：]{4,80}$/;
+const UNNUMBERED_SECTION_RE =/^[^()]*[ঀ-৿][^()]*\([^()]*[A-Za-z]{3,}[^()]*\)\s*$/;
 const TABLE_CAPTION_RE = /^(টেবিল|table)\s*[0-9০-৯]/i;
 // Image descriptions and captions the parser emits for figures.
 const FIGURE_RE = /^(drawing|illustration|photo|photograph|image|diagram|chart|graph|figure|picture):|^\*{0,2}(চিত্র|fig\.?|figure)\s*[0-9০-৯]/i;
@@ -103,10 +112,14 @@ const MATH_ONLY_RE = /^\s*(\$\$[^$]+\$\$|\$[^$]+\$)\s*$/;
 const DEFINITION_RE = /^\*{0,2}(সংজ্ঞা|definition)/i;
 const SENTENCE_END_RE = /[।?!:)”".]$/;
 
-const cleanHeading = (line: string) => line.replace(/^#+\s*/, "").replace(/\*\*/g, "").trim();
+/** `raw` is the number `want`, allowing for the digits the parser mixes up: ৪/৮ and ১/৭/৯ (seen in the NCTB books). */
+const digitsMatch = (raw: string, want: number) =>
+  new RegExp(`^${String(want).replace(/\d/g, (d) => ("48".includes(d) ? "[48]" : "179".includes(d) ? "[179]" : d))}$`).test(raw);
+
+const cleanHeading =(line: string) => line.replace(/^#+\s*/, "").replace(/\*\*/g, "").trim();
 const formulasIn = (text: string) => [...text.matchAll(/\$\$([^$]+)\$\$|\$([^$]+)\$/g)].map((m) => (m[1] ?? m[2]).trim());
 
-type Block = { type: "heading" | "para" | "table"; text: string };
+type Block = { type: "heading" | "para" | "table"; text: string; /** "#" count, for headings */ level?: number };
 
 /** Splits one page of Markdown into heading, paragraph and table blocks, in order. */
 export function pageBlocks(markdown: string): Block[] {
@@ -121,7 +134,7 @@ export function pageBlocks(markdown: string): Block[] {
     const line = lines[i];
     if (/^#{1,6}\s/.test(line)) {
       flush();
-      blocks.push({ type: "heading", text: cleanHeading(line) });
+      blocks.push({ type: "heading", text: cleanHeading(line), level: line.match(/^#+/)![0].length });
       continue;
     }
     if (/^\s*<table/.test(line)) {
@@ -131,7 +144,8 @@ export function pageBlocks(markdown: string): Block[] {
       blocks.push({ type: "table", text: html.trim() });
       continue;
     }
-    if (/^\s*icon:/i.test(line) || !line.trim()) {
+    // "icon:" labels, <hr/> rules and the bare "flow_chart" label before a diagram's code are parser noise
+    if (/^\s*icon:/i.test(line) || /^\s*<hr\s*\/?>\s*$/i.test(line) || /^\s*flow_chart\s*$/i.test(line) || !line.trim()) {
       flush();
       continue;
     }
@@ -164,6 +178,9 @@ export function buildBookTree(pages: PageMarkdown[], opts: { keepEmpty?: boolean
     mode = "text";
     section = null;
   };
+
+  // Physics and chemistry number their sections (1.2); if no heading does, sections are told apart by their English term
+  const numberedBook = pages.some((p) => pageBlocks(p.markdown).some((b) => b.type === "heading" && /^\d+\.\d+\s/.test(normalizeDigits(b.text))));
 
   // When the caller knows which chapter these pages are, start it now so content is kept even if no opener heading is found
   let synthetic = false;
@@ -213,7 +230,10 @@ export function buildBookTree(pages: PageMarkdown[], opts: { keepEmpty?: boolean
         }
         if (!chapter || !topic) continue;
         if (expectTitle) {
-          chapter.title = text;
+          // "সেট ও ফাংশন (Set and Function)": the bracketed part is the English title
+          const both = text.match(/^(.+?)\s*\(([^()]*[A-Za-z][^()]*)\)\s*$/);
+          chapter.title = both ? both[1].trim() : text;
+          if (both && !chapter.englishTitle) chapter.englishTitle = both[2].trim();
           expectTitle = false;
           continue;
         }
@@ -221,19 +241,33 @@ export function buildBookTree(pages: PageMarkdown[], opts: { keepEmpty?: boolean
           chapter.englishTitle = text.slice(1, -1).trim();
           continue;
         }
+        // The parser reads ৪ as ৮, so "৪.১" can come back as "৮.১" or "8.8"; the order of the sections settles which it is
         const num = normalizeDigits(text).match(SECTION_NO_RE);
-        if (num && !num[3] && Number(num[1]) === chapter.number && Number(num[2]) === seq + 1) {
+        if (num && !num[3] && digitsMatch(num[1], chapter.number) && digitsMatch(num[2], seq + 1)) {
           seq += 1;
-          newTopic(chapter, `${num[1]}.${num[2]}`, text.replace(/^\S+\s+/, ""));
+          newTopic(chapter, `${chapter.number}.${seq}`, text.replace(/^\S+\s+/, ""));
           continue;
         }
         if (EXERCISE_TOPIC_RE.test(text)) {
-          newTopic(chapter, `${chapter.number}.ex`, text);
+          // A chapter can have an exercise per section; they all go into the one N.ex topic
+          const key = `${chapter.number}.ex`;
+          const existing = chapter.topics.find((t) => t.key === key);
+          if (existing) {
+            topic = existing;
+            section = text;
+          } else newTopic(chapter, key, text);
           mode = "exercise";
           continue;
         }
         if (TABLE_CAPTION_RE.test(text)) {
           caption = text;
+          continue;
+        }
+        const startsSection = UNNUMBERED_SECTION_RE.test(text) || (b.level === 2 && PLAIN_SECTION_RE.test(text));
+        if (!numberedBook && startsSection && !FIGURE_RE.test(text) && !MODE_RULES.some(([, re]) => re.test(text))) {
+          // A new lesson section; it also ends any exercise that came before it in the chapter
+          seq += 1;
+          newTopic(chapter, `${chapter.number}.${seq}`, text);
           continue;
         }
         const rule = MODE_RULES.find(([, re]) => re.test(text));

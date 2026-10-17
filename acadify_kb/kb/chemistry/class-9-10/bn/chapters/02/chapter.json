@@ -1,0 +1,87 @@
+{
+  "id": "chemistry-9-10-bn-c02",
+  "textbookId": "chemistry-9-10-bn",
+  "number": 2,
+  "title": "পদার্থের অবস্থা",
+  "englishTitle": "States of Matter",
+  "pdfPages": [
+    22,
+    39
+  ],
+  "printedPages": [
+    17,
+    34
+  ],
+  "topics": [
+    {
+      "key": "2.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/2.0.json",
+      "passages": 3
+    },
+    {
+      "key": "2.1",
+      "title": "পদার্থ ও পদার্থের অবস্থা (Matter and States of Matter)",
+      "file": "topics/2.1.json",
+      "passages": 4
+    },
+    {
+      "key": "2.2",
+      "title": "কণার গতিতত্ত্ব (Kinetic Theory of Particles)",
+      "file": "topics/2.2.json",
+      "passages": 5
+    },
+    {
+      "key": "2.3",
+      "title": "ব্যাপন (Diffusion)",
+      "file": "topics/2.3.json",
+      "passages": 14
+    },
+    {
+      "key": "2.4",
+      "title": "নিঃসরণ (Effusion)",
+      "file": "topics/2.4.json",
+      "passages": 5
+    },
+    {
+      "key": "2.5",
+      "title": "মোমবাতির প্রজ্বলন এবং মোমের তিন অবস্থা",
+      "file": "topics/2.5.json",
+      "passages": 4
+    },
+    {
+      "key": "2.6",
+      "title": "গলন ও স্ফুটন (Melting and Boiling)",
+      "file": "topics/2.6.json",
+      "passages": 25
+    },
+    {
+      "key": "2.7",
+      "title": "পাতন এবং উধর্বপাতন (Distillation and Sublimation)",
+      "file": "topics/2.7.json",
+      "passages": 26
+    },
+    {
+      "key": "2.ex",
+      "title": "সৃজনশীল প্রশ্ন",
+      "file": "topics/2.ex.json",
+      "passages": 15
+    }
+  ],
+  "stats": {
+    "topics": 9,
+    "passages": 101,
+    "images": 13,
+    "byKind": {
+      "figure": 25,
+      "text": 60,
+      "table": 3,
+      "exercise": 13
+    },
+    "byReason": {
+      "latin-junk": 6,
+      "verify-table": 3
+    },
+    "needsReview": 9
+  }
+}

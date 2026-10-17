@@ -1,0 +1,67 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.5",
+  "key": "1.5",
+  "title": "ফাঁকা সেট (Empty Set)",
+  "chapter": 1,
+  "ordinal": 5,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.5-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অনেক সময় এরূপ সেট বিবেচনা করতে হয় যাতে কোনো উপাদান থাকে না। এরূপ সেটকে ফাঁকা সেট বলা হয় এবং $\\emptyset$ অথবা $\\{\\}$ লিখে প্রকাশ করা হয়।",
+      "image": null,
+      "formulas": [
+        "\\emptyset",
+        "\\{\\}"
+      ],
+      "pdfPageStart": 8,
+      "pdfPageEnd": 8,
+      "printedPageStart": 3,
+      "printedPageEnd": 3,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.5-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২.** $\\{x : x  বাস্তব সংখ্যা এবং  x^2 < 0\\}$ একটি ফাঁকা সেট, কেননা কোনো বাস্তব সংখ্যার বর্গ ঋণাত্মক নয়।",
+      "image": null,
+      "formulas": [
+        "\\{x : x  বাস্তব সংখ্যা এবং  x^2 < 0\\}"
+      ],
+      "pdfPageStart": 8,
+      "pdfPageEnd": 8,
+      "printedPageStart": 3,
+      "printedPageEnd": 3,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.5-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৩.** $F = \\{x : x, 2014  সাল পর্যন্ত ফুটবলের বিশ্বকাপ বিজয়ী আফ্রিকার দেশ\\}$ একটি ফাঁকা সেট, কেননা আফ্রিকার কোনো দেশই 2014 সাল পর্যন্ত ফুটবলের বিশ্বকাপ জয় করতে পারেনি।",
+      "image": null,
+      "formulas": [
+        "F = \\{x : x, 2014  সাল পর্যন্ত ফুটবলের বিশ্বকাপ বিজয়ী আফ্রিকার দেশ\\}"
+      ],
+      "pdfPageStart": 8,
+      "pdfPageEnd": 8,
+      "printedPageStart": 3,
+      "printedPageEnd": 3,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

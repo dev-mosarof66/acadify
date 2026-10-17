@@ -1,0 +1,82 @@
+{
+  "id": "chemistry-9-10-bn-c01",
+  "textbookId": "chemistry-9-10-bn",
+  "number": 1,
+  "title": "রসায়নের ধারণা",
+  "englishTitle": "The Concepts of Chemistry",
+  "pdfPages": [
+    6,
+    21
+  ],
+  "printedPages": [
+    1,
+    16
+  ],
+  "topics": [
+    {
+      "key": "1.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/1.0.json",
+      "passages": 3
+    },
+    {
+      "key": "1.1",
+      "title": "রসায়ন পরিচিতি (Introduction to Chemistry)",
+      "file": "topics/1.1.json",
+      "passages": 12
+    },
+    {
+      "key": "1.2",
+      "title": "রসায়নের পরিধি বা ক্ষেত্রসমূহ (The Scope of Chemistry)",
+      "file": "topics/1.2.json",
+      "passages": 3
+    },
+    {
+      "key": "1.3",
+      "title": "রসায়নের সাথে বিজ্ঞানের অন্যান্য শাখার সম্পর্ক (Relationship Between Chemistry and Other Branches of Science)",
+      "file": "topics/1.3.json",
+      "passages": 5
+    },
+    {
+      "key": "1.4",
+      "title": "রসায়ন পাঠের গুরুত্ব",
+      "file": "topics/1.4.json",
+      "passages": 5
+    },
+    {
+      "key": "1.5",
+      "title": "রসায়নে অনুসন্ধান বা গবেষণা প্রক্রিয়া",
+      "file": "topics/1.5.json",
+      "passages": 14
+    },
+    {
+      "key": "1.6",
+      "title": "রসায়ন পরীক্ষাগার ব্যবহারে ও পরীক্ষাগারে ব্যবহৃত বিভিন্ন রাসায়নিক দ্রব্য ব্যবহারে সতর্কতা গ্রহণ (Safety Measures in Chemistry Laboratory and in Use of Chemicals)",
+      "file": "topics/1.6.json",
+      "passages": 34
+    },
+    {
+      "key": "1.ex",
+      "title": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "file": "topics/1.ex.json",
+      "passages": 2
+    }
+  ],
+  "stats": {
+    "topics": 8,
+    "passages": 78,
+    "images": 5,
+    "byKind": {
+      "figure": 8,
+      "text": 62,
+      "table": 6,
+      "exercise": 2
+    },
+    "byReason": {
+      "verify-table": 6,
+      "known-confusable-corrected": 3,
+      "latin-junk": 4
+    },
+    "needsReview": 12
+  }
+}

@@ -1,0 +1,101 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.4",
+  "key": "1.4",
+  "title": "উপসেট (Subset)",
+  "chapter": 1,
+  "ordinal": 4,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.4-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$A$ ও $B$ সেট হলে $A$ কে $B$ এর উপসেট বলা হয় যদি ও কেবল যদি $A$ এর প্রত্যেক উপাদান $B$ এর উপাদান হয় এবং একে $A \\subseteq B$ লিখে প্রকাশ করা হয়। যেমন $A = \\{2, 3\\}, B = \\{2, 3, 5, 7\\}$ এর উপসেট। $A, B$ এর উপসেট না হলে $A \\not\\subseteq B$ লেখা হয়। যেমন $A = \\{1, 3\\}, B = \\{2, 3, 5, 7\\}$ এর উপসেট নয়।",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "A",
+        "B",
+        "A",
+        "B",
+        "A \\subseteq B",
+        "A = \\{2, 3\\}, B = \\{2, 3, 5, 7\\}",
+        "A, B",
+        "A \\not\\subseteq B",
+        "A = \\{1, 3\\}, B = \\{2, 3, 5, 7\\}"
+      ],
+      "pdfPageStart": 7,
+      "pdfPageEnd": 7,
+      "printedPageStart": 2,
+      "printedPageEnd": 2,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.4-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১.** যদি $A = \\{x : x  ধনাত্মক পূর্ণসংখ্যা\\}, B = \\{0\\}$ এবং $X = \\{x : x  পূর্ণসংখ্যা\\}$ হয়, তবে $A, B$ এবং $X$ এর মধ্যে সম্পর্ক কী?",
+      "image": null,
+      "formulas": [
+        "A = \\{x : x  ধনাত্মক পূর্ণসংখ্যা\\}, B = \\{0\\}",
+        "X = \\{x : x  পূর্ণসংখ্যা\\}",
+        "A, B",
+        "X"
+      ],
+      "pdfPageStart": 7,
+      "pdfPageEnd": 7,
+      "printedPageStart": 2,
+      "printedPageEnd": 2,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.4-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** এখানে $A \\subseteq X, B \\subseteq X, B \\not\\subseteq A$।",
+      "image": null,
+      "formulas": [
+        "A \\subseteq X, B \\subseteq X, B \\not\\subseteq A"
+      ],
+      "pdfPageStart": 7,
+      "pdfPageEnd": 7,
+      "printedPageStart": 2,
+      "printedPageEnd": 2,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.4-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:** মনে করো $X = \\{x : x  পূর্ণসংখ্যা\\}$।\nক) $X$ কে সার্বিক সেট ধরে, $X$ এর তিনটি উপসেট বর্ণনা করো।\nখ) $X$ এর দুটি উপসেট বর্ণনা করো যাদের কোনোটিই অপরটির উপসেট নয়।",
+      "image": null,
+      "formulas": [
+        "X = \\{x : x  পূর্ণসংখ্যা\\}",
+        "X",
+        "X",
+        "X"
+      ],
+      "pdfPageStart": 8,
+      "pdfPageEnd": 8,
+      "printedPageStart": 3,
+      "printedPageEnd": 3,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

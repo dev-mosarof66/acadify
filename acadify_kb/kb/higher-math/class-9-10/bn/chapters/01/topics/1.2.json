@@ -1,0 +1,121 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.2",
+  "key": "1.2",
+  "title": "সার্বিক সেট (Universal Set)",
+  "chapter": 1,
+  "ordinal": 2,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.2-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "মনে করি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 7,
+      "pdfPageEnd": 7,
+      "printedPageStart": 2,
+      "printedPageEnd": 2,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.2-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$S = \\{x : x$ ধনাত্মক পূর্ণসংখ্যা এবং $5x \\le 16\\}$",
+      "image": null,
+      "formulas": [
+        "S = \\{x : x",
+        "5x \\le 16\\}"
+      ],
+      "pdfPageStart": 7,
+      "pdfPageEnd": 7,
+      "printedPageStart": 2,
+      "printedPageEnd": 2,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.2-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$T = \\{x : x$ ধনাত্মক পূর্ণসংখ্যা এবং $x^2 < 20\\}$",
+      "image": null,
+      "formulas": [
+        "T = \\{x : x",
+        "x^2 < 20\\}"
+      ],
+      "pdfPageStart": 7,
+      "pdfPageEnd": 7,
+      "printedPageStart": 2,
+      "printedPageEnd": 2,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.2-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$P = \\{x : x$ ধনাত্মক পূর্ণসংখ্যা এবং $\\sqrt{x} \\le 2\\}$",
+      "image": null,
+      "formulas": [
+        "P = \\{x : x",
+        "\\sqrt{x} \\le 2\\}"
+      ],
+      "pdfPageStart": 7,
+      "pdfPageEnd": 7,
+      "printedPageStart": 2,
+      "printedPageEnd": 2,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.2-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এই সেট তিনটির উপাদানসমূহ $U = \\{x : x$ ধনাত্মক পূর্ণসংখ্যা$\\}$ সেটটির উপাদান নিয়ে গঠিত। $U$ কে $S, T, P$ সেটের জন্য সার্বিক সেট বিবেচনা করা যায়।",
+      "image": null,
+      "formulas": [
+        "U = \\{x : x",
+        "\\}",
+        "U",
+        "S, T, P"
+      ],
+      "pdfPageStart": 7,
+      "pdfPageEnd": 7,
+      "printedPageStart": 2,
+      "printedPageEnd": 2,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.2-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সেটসংক্রান্ত কোনো আলোচনায় একটি নির্দিষ্ট সেটকে সার্বিক সেট বলা হয়, যদি আলোচনাধীন সকল সেটের উপাদানসমূহ ঐ নির্দিষ্ট সেটের অন্তর্ভুক্ত হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 7,
+      "pdfPageEnd": 7,
+      "printedPageStart": 2,
+      "printedPageEnd": 2,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

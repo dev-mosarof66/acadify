@@ -1,0 +1,127 @@
+{
+  "id": "chemistry-9-10-bn-c05",
+  "textbookId": "chemistry-9-10-bn",
+  "number": 5,
+  "title": "রাসায়নিক বন্ধন",
+  "englishTitle": "Chemical Bond",
+  "pdfPages": [
+    87,
+    113
+  ],
+  "printedPages": [
+    82,
+    108
+  ],
+  "topics": [
+    {
+      "key": "5.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/5.0.json",
+      "passages": 3
+    },
+    {
+      "key": "5.1",
+      "title": "যোজ্যতা ইলেকট্রন (Valence Electrons)",
+      "file": "topics/5.1.json",
+      "passages": 8
+    },
+    {
+      "key": "5.2",
+      "title": "যোজনী বা যোজ্যতা (Valency)",
+      "file": "topics/5.2.json",
+      "passages": 11
+    },
+    {
+      "key": "5.3",
+      "title": "যৌগমূলক ও তাদের যোজনী (Radicals and Their Valencies)",
+      "file": "topics/5.3.json",
+      "passages": 3
+    },
+    {
+      "key": "5.4",
+      "title": "যৌগের রাসায়নিক সংকেত",
+      "file": "topics/5.4.json",
+      "passages": 4
+    },
+    {
+      "key": "5.5",
+      "title": "আণবিক সংকেত ও গাঠনিক সংকেত",
+      "file": "topics/5.5.json",
+      "passages": 7
+    },
+    {
+      "key": "5.6",
+      "title": "অষ্টক ও দুই-এর নিয়ম (Octet and Duet Rules)",
+      "file": "topics/5.6.json",
+      "passages": 6
+    },
+    {
+      "key": "5.7",
+      "title": "নিষ্ক্রিয় গ্যাস এবং এর স্থিতিশীলতা",
+      "file": "topics/5.7.json",
+      "passages": 3
+    },
+    {
+      "key": "5.8",
+      "title": "রাসায়নিক বন্ধন ও রাসায়নিক বন্ধন গঠনের কারণ",
+      "file": "topics/5.8.json",
+      "passages": 2
+    },
+    {
+      "key": "5.9",
+      "title": "ক্যাটায়ন ও অ্যানায়ন (Cations and Anions)",
+      "file": "topics/5.9.json",
+      "passages": 12
+    },
+    {
+      "key": "5.10",
+      "title": "আয়নিক বন্ধন বা তড়িৎযোজী বন্ধন",
+      "file": "topics/5.10.json",
+      "passages": 20
+    },
+    {
+      "key": "5.11",
+      "title": "সমযোজী বন্ধন (Covalent Bond)",
+      "file": "topics/5.11.json",
+      "passages": 20
+    },
+    {
+      "key": "5.12",
+      "title": "আয়নিক ও সমযোজী যৌগের বৈশিষ্ট্য",
+      "file": "topics/5.12.json",
+      "passages": 19
+    },
+    {
+      "key": "5.13",
+      "title": "ধাতব বন্ধন (Metallic Bond)",
+      "file": "topics/5.13.json",
+      "passages": 11
+    },
+    {
+      "key": "5.ex",
+      "title": "নমুনা প্রশ্ন",
+      "file": "topics/5.ex.json",
+      "passages": 32
+    }
+  ],
+  "stats": {
+    "topics": 15,
+    "passages": 161,
+    "images": 18,
+    "byKind": {
+      "figure": 33,
+      "text": 85,
+      "table": 8,
+      "activity": 1,
+      "formula": 5,
+      "exercise": 29
+    },
+    "byReason": {
+      "verify-table": 8,
+      "latin-junk": 3,
+      "verify-formula": 15,
+      "known-confusable-corrected": 14
+    },
+    "needsReview": 36
+  }
+}

@@ -1,0 +1,814 @@
+{
+  "id": "higher-math-9-10-bn-c05-t5.5",
+  "key": "5.5",
+  "title": "দ্বিঘাত সহসমীকরণের ব্যবহার",
+  "chapter": 5,
+  "ordinal": 6,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সহসমীকরণের ধারণা ব্যবহার করে দৈনন্দিন জীবনের বহু সমস্যার সমাধান করা যায়। অনেক সময় সমস্যায় দুটি অজ্ঞাত রাশির মান নির্ণয় করতে হয়। সেক্ষেত্রে অজ্ঞাত রাশি দুটি $x$ এবং $y$ বা অন্য যেকোনো দুটি স্বতন্ত্র প্রতীক ধরতে হয়। তারপর সমস্যার শর্ত বা শর্তগুলো থেকে পরস্পর অনির্ভর, সঞ্জাতিপূর্ণ সমীকরণ গঠন করে সমীকরণ জোটির সমাধান করলেই অজ্ঞাত রাশি $x$ এবং $y$ এর মান পাওয়া যায়।",
+      "image": null,
+      "formulas": [
+        "x",
+        "y",
+        "x",
+        "y"
+      ],
+      "pdfPageStart": 115,
+      "pdfPageEnd": 115,
+      "printedPageStart": 110,
+      "printedPageEnd": 110,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৪.** দুটি বর্গক্ষেত্রের ক্ষেত্রফলের সমষ্টি 650 বর্গমিটার। ঐ দুটি বর্গক্ষেত্রের দুই বাহু দ্বারা গঠিত আয়তক্ষেত্রের ক্ষেত্রফল 323 বর্গমিটার হলে, বর্গক্ষেত্র দুটির প্রত্যেক বাহুর দৈর্ঘ্য কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 115,
+      "pdfPageEnd": 115,
+      "printedPageStart": 110,
+      "printedPageEnd": 110,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** মনে করি, একটি বর্গক্ষেত্রের বাহুর দৈর্ঘ্য $x$ মিটার এবং অপরটির বাহুর দৈর্ঘ্য $y$ মিটার।",
+      "image": null,
+      "formulas": [
+        "x",
+        "y"
+      ],
+      "pdfPageStart": 115,
+      "pdfPageEnd": 115,
+      "printedPageStart": 110,
+      "printedPageEnd": 110,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "প্রশ্নমতে, $x^2 + y^2 = 650 \\dots (1)$",
+      "image": null,
+      "formulas": [
+        "x^2 + y^2 = 650 \\dots (1)"
+      ],
+      "pdfPageStart": 115,
+      "pdfPageEnd": 115,
+      "printedPageStart": 110,
+      "printedPageEnd": 110,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এবং, $xy = 323 \\dots (2)$",
+      "image": null,
+      "formulas": [
+        "xy = 323 \\dots (2)"
+      ],
+      "pdfPageStart": 115,
+      "pdfPageEnd": 115,
+      "printedPageStart": 110,
+      "printedPageEnd": 110,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p006",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore (x + y)^2 = x^2 + y^2 + 2xy = 650 + 646 = 1296$",
+      "image": null,
+      "formulas": [
+        "\\therefore (x + y)^2 = x^2 + y^2 + 2xy = 650 + 646 = 1296"
+      ],
+      "pdfPageStart": 115,
+      "pdfPageEnd": 115,
+      "printedPageStart": 110,
+      "printedPageEnd": 110,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ, $(x + y) = \\pm\\sqrt{1296} = \\pm 36$",
+      "image": null,
+      "formulas": [
+        "(x + y) = \\pm\\sqrt{1296} = \\pm 36"
+      ],
+      "pdfPageStart": 115,
+      "pdfPageEnd": 115,
+      "printedPageStart": 110,
+      "printedPageEnd": 110,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এবং, $(x - y)^2 = x^2 + y^2 - 2xy = 650 - 646 = 4$",
+      "image": null,
+      "formulas": [
+        "(x - y)^2 = x^2 + y^2 - 2xy = 650 - 646 = 4"
+      ],
+      "pdfPageStart": 115,
+      "pdfPageEnd": 115,
+      "printedPageStart": 110,
+      "printedPageEnd": 110,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ $(x - y) = \\pm 2$",
+      "image": null,
+      "formulas": [
+        "(x - y) = \\pm 2"
+      ],
+      "pdfPageStart": 115,
+      "pdfPageEnd": 115,
+      "printedPageStart": 110,
+      "printedPageEnd": 110,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যেহেতু দৈর্ঘ্য ধনাত্মক, সেহেতু $x + y$ এর মান ধনাত্মক হতে হবে।",
+      "image": null,
+      "formulas": [
+        "x + y"
+      ],
+      "pdfPageStart": 115,
+      "pdfPageEnd": 115,
+      "printedPageStart": 110,
+      "printedPageEnd": 110,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore (x + y) = 36 \\dots (3)$ এবং $(x - y) = \\pm 2 \\dots (4)$",
+      "image": null,
+      "formulas": [
+        "\\therefore (x + y) = 36 \\dots (3)",
+        "(x - y) = \\pm 2 \\dots (4)"
+      ],
+      "pdfPageStart": 115,
+      "pdfPageEnd": 115,
+      "printedPageStart": 110,
+      "printedPageEnd": 110,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যোগ করে, $2x = 36 \\pm 2$",
+      "image": null,
+      "formulas": [
+        "2x = 36 \\pm 2"
+      ],
+      "pdfPageStart": 115,
+      "pdfPageEnd": 115,
+      "printedPageStart": 110,
+      "printedPageEnd": 110,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore x = \\frac{36 \\pm 2}{2} = 18 \\pm 1 = 19$ বা, 17 সমীকরণ (3) থেকে পাই, $y = 36 - x = 17$ বা, 19।",
+      "image": null,
+      "formulas": [
+        "\\therefore x = \\frac{36 \\pm 2}{2} = 18 \\pm 1 = 19",
+        "y = 36 - x = 17"
+      ],
+      "pdfPageStart": 115,
+      "pdfPageEnd": 116,
+      "printedPageStart": 110,
+      "printedPageEnd": 111,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ একটি বর্গক্ষেত্রের বাহুর দৈর্ঘ্য 19 মিটার এবং অপর বর্গক্ষেত্রের বাহুর দৈর্ঘ্য 17 মিটার।",
+      "image": null,
+      "formulas": [
+        "\\therefore"
+      ],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৫.** একটি আয়তক্ষেত্রের দৈর্ঘ্য তার প্রস্থের দ্বিগুণ অপেক্ষা 10 মিটার কম। আয়তক্ষেত্রের ক্ষেত্রফল 600 বর্গমিটার হলে, এর দৈর্ঘ্য নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** মনে করি, আয়তক্ষেত্রের দৈর্ঘ্য $= x$ মিটার এবং আয়তক্ষেত্রের প্রস্থ $= y$ মিটার",
+      "image": null,
+      "formulas": [
+        "= x",
+        "= y"
+      ],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "প্রশ্নমতে, $2y = x + 10 \\dots (1)$",
+      "image": null,
+      "formulas": [
+        "2y = x + 10 \\dots (1)"
+      ],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p018",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$xy = 600 \\dots (2)$",
+      "image": null,
+      "formulas": [
+        "xy = 600 \\dots (2)"
+      ],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সমীকরণ (1) থেকে পাই, $y = \\frac{10 + x}{2}$",
+      "image": null,
+      "formulas": [
+        "y = \\frac{10 + x}{2}"
+      ],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সমীকরণ (2) এ $y$ এর মান বসিয়ে পাই, $\\frac{x(10 + x)}{2} = 600$",
+      "image": null,
+      "formulas": [
+        "y",
+        "\\frac{x(10 + x)}{2} = 600"
+      ],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\frac{10x + x^2}{2} = 600$ বা, $x^2 + 10x = 1200$",
+      "image": null,
+      "formulas": [
+        "\\frac{10x + x^2}{2} = 600",
+        "x^2 + 10x = 1200"
+      ],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x^2 + 10x - 1200 = 0$ বা, $(x + 40)(x - 30) = 0$",
+      "image": null,
+      "formulas": [
+        "x^2 + 10x - 1200 = 0",
+        "(x + 40)(x - 30) = 0"
+      ],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং, $x + 40 = 0$ বা, $x - 30 = 0$",
+      "image": null,
+      "formulas": [
+        "x + 40 = 0",
+        "x - 30 = 0"
+      ],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ, $x = -40$ বা, $x = 30$",
+      "image": null,
+      "formulas": [
+        "x = -40",
+        "x = 30"
+      ],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p025",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কিন্তু দৈর্ঘ্য ঋণাত্মক হতে পারে না। $\\therefore x = 30$",
+      "image": null,
+      "formulas": [
+        "\\therefore x = 30"
+      ],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p026",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ আয়তক্ষেত্রের দৈর্ঘ্য $= 30$ মিটার।",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "= 30"
+      ],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p027",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৬.** দুই অঙ্কবিশিষ্ট একটি সংখ্যাকে অঙ্কদ্বয়ের গুণফল দ্বারা ভাগ করলে ভাগফল হয় 3, সংখ্যাটির সাথে 18 যোগ করলে অঙ্কদ্বয় স্থান বিনিময় করে। সংখ্যাটি নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p028",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** মনে করি, দশক স্থানীয় অঙ্ক $x$ এবং একক স্থানীয় অঙ্ক $y$",
+      "image": null,
+      "formulas": [
+        "x",
+        "y"
+      ],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p029",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ সংখ্যাটি $= 10x + y$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "= 10x + y"
+      ],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p030",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "প্রথম শর্তানুসারে, $\\frac{10x + y}{xy} = 3$ বা, $10x + y = 3xy \\dots (1)$",
+      "image": null,
+      "formulas": [
+        "\\frac{10x + y}{xy} = 3",
+        "10x + y = 3xy \\dots (1)"
+      ],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p031",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "দ্বিতীয় শর্তানুসারে, $10x + y + 18 = 10y + x$ বা, $9x - 9y + 18 = 0$",
+      "image": null,
+      "formulas": [
+        "10x + y + 18 = 10y + x",
+        "9x - 9y + 18 = 0"
+      ],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p032",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x - y + 2 = 0$ বা, $y = x + 2 \\dots (2)$",
+      "image": null,
+      "formulas": [
+        "x - y + 2 = 0",
+        "y = x + 2 \\dots (2)"
+      ],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p033",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সমীকরণ (1) এ $y = x + 2$ বসিয়ে পাই, $10x + x + 2 = 3 \\cdot x(x + 2)$",
+      "image": null,
+      "formulas": [
+        "y = x + 2",
+        "10x + x + 2 = 3 \\cdot x(x + 2)"
+      ],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p034",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $11x + 2 = 3x^2 + 6x$",
+      "image": null,
+      "formulas": [
+        "11x + 2 = 3x^2 + 6x"
+      ],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p035",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $3x^2 - 5x - 2 = 0$",
+      "image": null,
+      "formulas": [
+        "3x^2 - 5x - 2 = 0"
+      ],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p036",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $3x^2 - 6x + x - 2 = 0$ বা, $3x(x - 2) + 1(x - 2) = 0$",
+      "image": null,
+      "formulas": [
+        "3x^2 - 6x + x - 2 = 0",
+        "3x(x - 2) + 1(x - 2) = 0"
+      ],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 117,
+      "printedPageStart": 111,
+      "printedPageEnd": 112,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p037",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $(x - 2)(3x + 1) = 0$",
+      "image": null,
+      "formulas": [
+        "(x - 2)(3x + 1) = 0"
+      ],
+      "pdfPageStart": 117,
+      "pdfPageEnd": 117,
+      "printedPageStart": 112,
+      "printedPageEnd": 112,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p038",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং $x - 2 = 0$ অথবা $3x + 1 = 0$",
+      "image": null,
+      "formulas": [
+        "x - 2 = 0",
+        "3x + 1 = 0"
+      ],
+      "pdfPageStart": 117,
+      "pdfPageEnd": 117,
+      "printedPageStart": 112,
+      "printedPageEnd": 112,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p039",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ, $x = 2$ বা, $x = -\\frac{1}{3}$",
+      "image": null,
+      "formulas": [
+        "x = 2",
+        "x = -\\frac{1}{3}"
+      ],
+      "pdfPageStart": 117,
+      "pdfPageEnd": 117,
+      "printedPageStart": 112,
+      "printedPageEnd": 112,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p040",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কিন্তু সংখ্যার অঙ্ক ঋণাত্মক বা ভগ্নাংশ হতে পারে না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 117,
+      "pdfPageEnd": 117,
+      "printedPageStart": 112,
+      "printedPageEnd": 112,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p041",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং $x = 2$ এবং $y = x + 2 = 2 + 2 = 4$",
+      "image": null,
+      "formulas": [
+        "x = 2",
+        "y = x + 2 = 2 + 2 = 4"
+      ],
+      "pdfPageStart": 117,
+      "pdfPageEnd": 117,
+      "printedPageStart": 112,
+      "printedPageEnd": 112,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.5-p042",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ সংখ্যাটি 24",
+      "image": null,
+      "formulas": [
+        "\\therefore"
+      ],
+      "pdfPageStart": 117,
+      "pdfPageEnd": 117,
+      "printedPageStart": 112,
+      "printedPageEnd": 112,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

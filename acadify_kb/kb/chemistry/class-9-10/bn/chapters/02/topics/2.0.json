@@ -1,0 +1,54 @@
+{
+  "id": "chemistry-9-10-bn-c02-t2.0",
+  "key": "2.0",
+  "title": "ভূমিকা ও শিখনফল",
+  "chapter": 2,
+  "ordinal": 0,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c02-t2.0-p001",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "photo: water being poured into a glass with ice cubes",
+      "image": "p22-page_1_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 22,
+      "pdfPageEnd": 22,
+      "printedPageStart": 17,
+      "printedPageEnd": 17,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c02-t2.0-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "পদার্থের বিশেষ বৈশিষ্ট্য হলো- এগুলোর ভর আছে এবং এরা স্থান দখল করে। যেমন- চেয়ার, টেবিল, খাতা, কলম, বরফ, পানি, বাতাস ইত্যাদি। একটি পদার্থ কর্ঠিন, তরল ও গ্যাসীয়—এ তিন অবস্থাতেই থাকতে পারে। এ তিন অবস্থাতেই প্রত্যেক পদার্থের নিজস্ব কিছু ধর্ম ও বৈশিষ্ট্য দেখা যায়। এ বিষয়গুলোই এ অধ্যায়ে আলোচনা করা হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 22,
+      "pdfPageEnd": 22,
+      "printedPageStart": 17,
+      "printedPageEnd": 17,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c02-t2.0-p003",
+      "kind": "text",
+      "section": "এ অধ্যায় পাঠ শেষে আমরা",
+      "caption": null,
+      "body": "* কণার গতিতত্ত্বের সাহায্যে পদার্থের ভৌত অবস্থা ব্যাখ্যা করতে পারব।\n* কণার গতিতত্ত্বের সাহায্যে ব্যাপন ও নিঃসরণ ব্যাখ্যা করতে পারব।\n* পদার্থের ভৌত অবস্থা ও তাপের মধ্যে সম্পর্ক ব্যাখ্যা করতে পারব।\n* তাপমাত্রা বৃদ্ধিতে ব্যাপন হার বৃদ্ধি পরীক্ষার মাধ্যমে দেখাতে পারব।\n* কঠিন পদার্থের গলন ও উর্ধ্বপাতন এবং তরল পদার্থের স্ফুটন প্রক্রিয়া বর্ণনা করতে পারব।\n* কঠিন পদার্থের গলন ও উর্ধ্বপাতন এবং তরল পদার্থের স্ফুটন প্রক্রিয়া পরীক্ষার মাধ্যমে দেখাতে পারব।\n* প্রকৃতিতে সংযুটিত বাস্তব ঘটনা রসায়নের দৃষ্টিতে বিশ্লেষণ করতে পারব।\n* রাসায়নিক দ্রব্য ও থার্মোমিটার সঠিকভাবে ব্যবহার করতে পারব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 23,
+      "pdfPageEnd": 23,
+      "printedPageStart": 18,
+      "printedPageEnd": 18,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

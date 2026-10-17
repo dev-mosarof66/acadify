@@ -1,0 +1,359 @@
+{
+  "id": "physics-9-10-bn-c02-t2.6",
+  "key": "2.6",
+  "title": "ত্বরণ",
+  "chapter": 2,
+  "ordinal": 6,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c02-t2.6-p001",
+      "kind": "text",
+      "section": "(Acceleration)",
+      "caption": null,
+      "body": "যখন কোনো বস্তু সমবেগে চলে তখন তার কোনো ত্বরণ নেই। বেগের পরিবর্তন হলেই বুঝতে হবে সেখানে ত্বরণ রয়েছে। আরো সুস্পষ্ট করে বললে বলতে হবে ত্বরণ হচ্ছে সময়ের সাথে বেগের পরিবর্তনের হার।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 48,
+      "pdfPageEnd": 48,
+      "printedPageStart": 43,
+      "printedPageEnd": 43,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.6-p002",
+      "kind": "text",
+      "section": "(Acceleration)",
+      "caption": null,
+      "body": "বেগের যেহেতু দিক এবং মান দুটিই আছে তাই বেগের পরিবর্তন দুভাবেই হতে পারে। আমাদের আগের উদাহরণে তুমি যখন আঁকাবাঁকা পথে সাইকেল চালিয়ে গিয়েছ, তখন যতবার তুমি বাঁক নিয়েছ ততবার তোমার বেগের পরিবর্তন হয়েছে অর্থাৎ তোমার ত্বরণ হয়েছে। তুমি পুরো পথটুকু সমদ্রুতিতে গিয়ে থাকলেও শুধু দিক পরিবর্তনের জন্য ত্বরণ হয়েছে। তুমি যদি আগের উদাহরণের মতো (চিত্র ২.০৫) একটা পাথরকে সূতা দিয়ে বৈধে মাথার উপর সমদ্রুতিতে যোরাতে থাক তাহলে ধুরতে থাকা পাথরটির ক্রমাগত দিক পরিবর্তন হবে। অর্থাৎ তার বেগের পরিবর্তন হবে বা ত্বরণ হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 48,
+      "pdfPageEnd": 48,
+      "printedPageStart": 43,
+      "printedPageEnd": 43,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.6-p003",
+      "kind": "text",
+      "section": "(Acceleration)",
+      "caption": null,
+      "body": "যদি তোমার গতি সরলরৈখিক হয়ে থাকে, তাহলে দিক পরিবর্তনের কোনো সুযোগ নেই। তার ত্বরণ হতে পারে শুধু বেগের মানের (দ্বিতর) পরিবর্তনের কারণে। যদি বেগের মান বাড়তে থাকে, তাহলে আমরা বলি বেগের দিকে বস্তুটির ধনাত্মক ত্বরণ হচ্ছে। যদি বেগের মান কমতে থাকে আমরা বলি বস্তুটির ঋণাত্মক ত্বরণ বা মন্দন (deceleration) হচ্ছে। আমরা এখন সরলরেখায় চলমান কোনো একটি বস্তুর ত্বরণ বের করতে পারি। ত্বরণ একটি ভেক্টর রাশি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 48,
+      "pdfPageEnd": 48,
+      "printedPageStart": 43,
+      "printedPageEnd": 43,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.6-p004",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** ২.০৬ চিত্রে কোনো একটা বস্তুর সময়ের সাথে বেগের পরিবর্তন দেখানো হয়েছে। কোথায় ত্বরণ আছে এবং কোথায় নেই বলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 48,
+      "pdfPageEnd": 48,
+      "printedPageStart": 43,
+      "printedPageEnd": 43,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.6-p005",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** A তে ধনাত্মক ত্বরণ আছে, B তে ত্বরণ নেই, C তে ধনাত্মক ত্বরণ আছে, D তে মন্দন বা নেগেটিভ ত্বরণ আছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 48,
+      "pdfPageEnd": 48,
+      "printedPageStart": 43,
+      "printedPageEnd": 43,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.6-p006",
+      "kind": "table",
+      "section": "চিত্র ২.০৬: সময়ের সাথে বেগের পরিবর্তন।",
+      "caption": null,
+      "body": "<table><tr><th>সময় (Time)</th><th>বেগ (Velocity)</th><th>সেকশন</th></tr>\n<tr><th>0</th><td>0</td><td>A</td></tr>\n<tr><th>1</th><td>10</td><td>A</td></tr>\n<tr><th>2</th><td>10</td><td>B</td></tr>\n<tr><th>3</th><td>10</td><td>B</td></tr>\n<tr><th>4</th><td>20</td><td>C</td></tr>\n<tr><th>5</th><td>30</td><td>C</td></tr>\n<tr><th>6</th><td>40</td><td>C</td></tr>\n<tr><th>7</th><td>30</td><td>D</td></tr>\n<tr><th>8</th><td>20</td><td>D</td></tr>\n<tr><th>9</th><td>10</td><td>D</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 48,
+      "pdfPageEnd": 48,
+      "printedPageStart": 43,
+      "printedPageEnd": 43,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.6-p007",
+      "kind": "text",
+      "section": "চিত্র ২.০৬: সময়ের সাথে বেগের পরিবর্তন।",
+      "caption": null,
+      "body": "এই অধ্যায়ে আমরা শুধু সরল রৈখিক গতি নিয়ে আলোচনা করব, অর্থাৎ যদি দ্বিতির পরিবর্তন হয় তাহলেই ত্বরণ হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 49,
+      "pdfPageEnd": 49,
+      "printedPageStart": 44,
+      "printedPageEnd": 44,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.6-p008",
+      "kind": "text",
+      "section": "চিত্র ২.০৬: সময়ের সাথে বেগের পরিবর্তন।",
+      "caption": null,
+      "body": "ত্বরণ হচ্ছে বেগের পরিবর্তনের হার। যদি সমত্বরণ হয়, অর্থাৎ সময়ের সাথে সাথে ত্বরণের পরিবর্তন না হয় তাহলে আমরা লিখতে পারি:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 49,
+      "pdfPageEnd": 49,
+      "printedPageStart": 44,
+      "printedPageEnd": 44,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.6-p009",
+      "kind": "formula",
+      "section": "চিত্র ২.০৬: সময়ের সাথে বেগের পরিবর্তন।",
+      "caption": null,
+      "body": "$$ত্বরণ = \\frac{(অতিক্রান্ত সময়ের শেষে বেগ - অতিক্রান্ত সময়ের আদিতে বেগ)}{অতিক্রান্ত সময়}$$",
+      "image": null,
+      "formulas": [
+        "ত্বরণ = \\frac{(অতিক্রান্ত সময়ের শেষে বেগ - অতিক্রান্ত সময়ের আদিতে বেগ)}{অতিক্রান্ত সময়}"
+      ],
+      "pdfPageStart": 49,
+      "pdfPageEnd": 49,
+      "printedPageStart": 44,
+      "printedPageEnd": 44,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.6-p010",
+      "kind": "text",
+      "section": "চিত্র ২.০৬: সময়ের সাথে বেগের পরিবর্তন।",
+      "caption": null,
+      "body": "অর্থাৎ যদি কোনো এক মুহূর্তে একটি বস্তুর বেগ হয় $u$ এবং $t$ সময় পর তার বেগ হয় $v$ তাহলে ত্বরণ $a$ হচ্ছে",
+      "image": null,
+      "formulas": [
+        "u",
+        "t",
+        "v",
+        "a"
+      ],
+      "pdfPageStart": 49,
+      "pdfPageEnd": 49,
+      "printedPageStart": 44,
+      "printedPageEnd": 44,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.6-p011",
+      "kind": "formula",
+      "section": "চিত্র ২.০৬: সময়ের সাথে বেগের পরিবর্তন।",
+      "caption": null,
+      "body": "$$a = \\frac{v - u}{t}$$",
+      "image": null,
+      "formulas": [
+        "a = \\frac{v - u}{t}"
+      ],
+      "pdfPageStart": 49,
+      "pdfPageEnd": 49,
+      "printedPageStart": 44,
+      "printedPageEnd": 44,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.6-p012",
+      "kind": "text",
+      "section": "চিত্র ২.০৬: সময়ের সাথে বেগের পরিবর্তন।",
+      "caption": null,
+      "body": "ত্বরণের মাত্রা, $[a] = LT^{-2}$\nত্বরণের একক $ms^{-2}$",
+      "image": null,
+      "formulas": [
+        "[a] = LT^{-2}",
+        "ms^{-2}"
+      ],
+      "pdfPageStart": 49,
+      "pdfPageEnd": 49,
+      "printedPageStart": 44,
+      "printedPageEnd": 44,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.6-p013",
+      "kind": "text",
+      "section": "চিত্র ২.০৬: সময়ের সাথে বেগের পরিবর্তন।",
+      "caption": null,
+      "body": "উপরের সমীকরণটি এভাবেও লেখা যায় (চিত্র ২.০৭) :",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 49,
+      "pdfPageEnd": 49,
+      "printedPageStart": 44,
+      "printedPageEnd": 44,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.6-p014",
+      "kind": "formula",
+      "section": "চিত্র ২.০৬: সময়ের সাথে বেগের পরিবর্তন।",
+      "caption": null,
+      "body": "$$v = u + at$$",
+      "image": null,
+      "formulas": [
+        "v = u + at"
+      ],
+      "pdfPageStart": 49,
+      "pdfPageEnd": 49,
+      "printedPageStart": 44,
+      "printedPageEnd": 44,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.6-p015",
+      "kind": "text",
+      "section": "চিত্র ২.০৬: সময়ের সাথে বেগের পরিবর্তন।",
+      "caption": null,
+      "body": "বস্তুটি যদি স্থির অবস্থায় থেকে শুরু করে সমত্বরণে চলতে থাকে তাহলে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 49,
+      "pdfPageEnd": 49,
+      "printedPageStart": 44,
+      "printedPageEnd": 44,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.6-p016",
+      "kind": "formula",
+      "section": "চিত্র ২.০৬: সময়ের সাথে বেগের পরিবর্তন।",
+      "caption": null,
+      "body": "$$v = at$$",
+      "image": null,
+      "formulas": [
+        "v = at"
+      ],
+      "pdfPageStart": 49,
+      "pdfPageEnd": 49,
+      "printedPageStart": 44,
+      "printedPageEnd": 44,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.6-p017",
+      "kind": "text",
+      "section": "চিত্র ২.০৬: সময়ের সাথে বেগের পরিবর্তন।",
+      "caption": null,
+      "body": "আমরা ইতিমধ্যে বলেছি, এখন পর্যন্ত যা বলা হয়েছে তার সবকিছু প্রয়োজ্য সমত্বরণের জন্য। যদি সমত্বরণ না হয় তাহলে কিন্তু এত সহজে শুধু আদি বেগ আর শেষ বেগ থেকে ত্বরণ বের করে ফেলা যাবে না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 49,
+      "pdfPageEnd": 49,
+      "printedPageStart": 44,
+      "printedPageEnd": 44,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.6-p018",
+      "kind": "figure",
+      "section": "চিত্র ২.০৬: সময়ের সাথে বেগের পরিবর্তন।",
+      "caption": null,
+      "body": "drawing: A velocity-time graph showing a linear increase in velocity (v) over time (সময়), with initial velocity (u) and final velocity (v) labeled.",
+      "image": "p49-page_13_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 49,
+      "pdfPageEnd": 49,
+      "printedPageStart": 44,
+      "printedPageEnd": 44,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.6-p019",
+      "kind": "figure",
+      "section": "চিত্র ২.০৬: সময়ের সাথে বেগের পরিবর্তন।",
+      "caption": null,
+      "body": "**চিত্র ২.০৭: স্থির অবস্থায় শুরু করে সমত্বরণে গতিশীল বস্তুর বেগ বেড়ে যাওয়া।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 49,
+      "pdfPageEnd": 49,
+      "printedPageStart": 44,
+      "printedPageEnd": 44,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.6-p020",
+      "kind": "text",
+      "section": "চিত্র ২.০৬: সময়ের সাথে বেগের পরিবর্তন।",
+      "caption": null,
+      "body": "আমরা আমাদের চারপাশে গতির যেসব উদাহরণ দেখি; যেমন: গাড়ি, ট্রেন বা সাইকেলের গতি, সেসবের ক্ষেত্রে ত্বরণ প্রায় সব সময়ই অসম ত্বরণ। যেমন: একটি গাড়ি যদি স্থির অবস্থা থেকে শুরু করে ধীরে ধীরে বেগবান হয়, তাহলে তার ত্বরণ শূন্য থেকে শুরু করে ধীরে ধীরে একটি মানে পৌঁছায়, গাড়ি যখন তার পূর্ণ বেগে পৌঁছায়, তখন তার গতি আর বাড়ো না অর্থাৎ ত্বরণ আবার শূন্য হয়ে যায়, আবার গাড়িটি যদি বেগ কমিয়ে থামতে শুরু করে, তাহলে মন্দন হতে থাকে। গাড়িটি যদি পুরোপুরি থেমে যায় তাহলে তার বেগ এবং ত্বরণ দুটিই শূন্য হয়ে যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 49,
+      "pdfPageEnd": 50,
+      "printedPageStart": 44,
+      "printedPageEnd": 45,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.6-p021",
+      "kind": "text",
+      "section": "চিত্র ২.০৬: সময়ের সাথে বেগের পরিবর্তন।",
+      "caption": null,
+      "body": "তোমাদের মনে হতে পারে সমত্বরণের উদাহরণ খুঁজে পাওয়া বৃষ্টি খুব কঠিন। আসলে আমরা আমাদের চারপাশে যা কিছু দেখি, তার মাঝে কিন্তু সমত্বরণের একটা পরিচিত উদাহরণ আছে। সেটি হচ্ছে মাধ্যাকর্ষণজনিত ত্বরণ (g)। পৃথিবীপৃষ্ঠের কাছাকাছি তার মান 9.8 m/s<sup>2</sup>, আমরা যদি কোনো একটা বস্তুরকে স্থির অবস্থা থেকে মুক্ত অবস্থায় পড়তে দিই, তাহলে দেখতে পাই তার গতিবেগ $v = gt$ হিসেবে বাড়তে থাকে।",
+      "image": null,
+      "formulas": [
+        "v = gt"
+      ],
+      "pdfPageStart": 50,
+      "pdfPageEnd": 50,
+      "printedPageStart": 45,
+      "printedPageEnd": 45,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

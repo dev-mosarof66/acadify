@@ -1,0 +1,345 @@
+{
+  "id": "chemistry-9-10-bn-c07-t7.3",
+  "key": "7.3",
+  "title": "বিশেষ ধরনের রাসায়নিক বিক্রিয়া",
+  "chapter": 7,
+  "ordinal": 3,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c07-t7.3-p001",
+      "kind": "text",
+      "section": "(Special Types of Chemical Reactions)",
+      "caption": null,
+      "body": "কিছু কিছু রাসায়নিক বিক্রিয়া দেখতে পাওয়া যায় যেগুলো Redox এবং Non-Redox শ্রেণিবিভাগের মধ্যে পড়ে না। নিচে কিছু বিশেষ ধরনের রাসায়নিক বিক্রিয়া আলোচনা করা হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 161,
+      "pdfPageEnd": 161,
+      "printedPageStart": 156,
+      "printedPageEnd": 156,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.3-p002",
+      "kind": "text",
+      "section": "আর্দ্র বিক্ষোষণ বিক্রিয়া বা পানি বিক্ষোষণ (Hydrolysis) বিক্রিয়া",
+      "caption": null,
+      "body": "কোনো রাসায়নিক ব্রিকিয়ায় ব্রিকিয়ক হিসেবে পানি অন্য কোনো যৌগের সাথে বিক্রিয়া করে উৎপাদ উৎপন্ন করলে তাকে আর্দ্র বিক্ষোষণ বিক্রিয়া বলে। যেমন:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 161,
+      "pdfPageEnd": 161,
+      "printedPageStart": 156,
+      "printedPageEnd": 156,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.3-p003",
+      "kind": "formula",
+      "section": "আর্দ্র বিক্ষোষণ বিক্রিয়া বা পানি বিক্ষোষণ (Hydrolysis) বিক্রিয়া",
+      "caption": null,
+      "body": "$$SiCl_4 + H_2O \\longrightarrow Si(OH)_4 + 4HCl$$",
+      "image": null,
+      "formulas": [
+        "SiCl_4 + H_2O \\longrightarrow Si(OH)_4 + 4HCl"
+      ],
+      "pdfPageStart": 161,
+      "pdfPageEnd": 161,
+      "printedPageStart": 156,
+      "printedPageEnd": 156,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.3-p004",
+      "kind": "text",
+      "section": "আর্দ্র বিক্ষোষণ বিক্রিয়া বা পানি বিক্ষোষণ (Hydrolysis) বিক্রিয়া",
+      "caption": null,
+      "body": "এখানে $SiCl_4$ এবং $H_2O$ বিক্রিয়া করছে। অতএব, এটি আর্দ্র বিক্ষোষণ বিক্রিয়া। আর্দ্র বিক্ষোষণ বিক্রিয়ায় অনেক সময় অস্বচ্ছ দ্রবণীয় যৌগ উৎপন্ন করে। সেক্ষেত্রে বিক্রিয়াটি অধঃক্ষেপণ হিসেবেও বিবেচিত হতে পারে। নিম্নের বিক্রিয়াকে আর্দ্র বিক্ষোষণ বিক্রিয়াও বলা যায় আবার অধঃক্ষেপণ বিক্রিয়াও বলা যায়। যেমন:",
+      "image": null,
+      "formulas": [
+        "SiCl_4",
+        "H_2O"
+      ],
+      "pdfPageStart": 161,
+      "pdfPageEnd": 161,
+      "printedPageStart": 156,
+      "printedPageEnd": 156,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.3-p005",
+      "kind": "formula",
+      "section": "আর্দ্র বিক্ষোষণ বিক্রিয়া বা পানি বিক্ষোষণ (Hydrolysis) বিক্রিয়া",
+      "caption": null,
+      "body": "$$AlCl_3(s) + 3H_2O(l) \\longrightarrow Al(OH)_3(s) + 3HCl(aq)$$",
+      "image": null,
+      "formulas": [
+        "AlCl_3(s) + 3H_2O(l) \\longrightarrow Al(OH)_3(s) + 3HCl(aq)"
+      ],
+      "pdfPageStart": 161,
+      "pdfPageEnd": 161,
+      "printedPageStart": 156,
+      "printedPageEnd": 156,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.3-p006",
+      "kind": "text",
+      "section": "আর্দ্র বিক্ষোষণ বিক্রিয়া বা পানি বিক্ষোষণ (Hydrolysis) বিক্রিয়া",
+      "caption": null,
+      "body": "এখানে, $Al(OH)_3$ পানিতে অদ্রবণীয়।",
+      "image": null,
+      "formulas": [
+        "Al(OH)_3"
+      ],
+      "pdfPageStart": 161,
+      "pdfPageEnd": 161,
+      "printedPageStart": 156,
+      "printedPageEnd": 156,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.3-p007",
+      "kind": "text",
+      "section": "পানিযোজন (Hydration) বিক্রিয়া",
+      "caption": null,
+      "body": "অনেক সময় দেখা যায়, আয়নিক যৌগগুলো কেলাস বা স্ফটিক গঠনের জন্য এক বা একাধিক পানির অণুর সাথে যুক্ত হয়। এ ধরনের বিক্রিয়াকে পানিযোজন বিক্রিয়া বলে। যৌগগুলোর সাথে যে কয়টি পানির অণু যুক্ত হয় তাদেরকে কেলাস পানি বলে। যেমন: কপার সালফেট ($CuSO_4$) এর সাথে 5 অণু পানি ($5H_2O$) যুক্ত হয়ে পেন্টা হাইড্রেট কপার সালফেট ($CuSO_4.5H_2O$) উৎপন্ন হয়।",
+      "image": null,
+      "formulas": [
+        "CuSO_4",
+        "5H_2O",
+        "CuSO_4.5H_2O"
+      ],
+      "pdfPageStart": 161,
+      "pdfPageEnd": 161,
+      "printedPageStart": 156,
+      "printedPageEnd": 156,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.3-p008",
+      "kind": "text",
+      "section": "পানিযোজন (Hydration) বিক্রিয়া",
+      "caption": null,
+      "body": "$$CuSO_4 + 5H_2O \\longrightarrow CuSO_4.5H_2O$$\n(পেন্টা হাইড্রেট কপার সালফেট)",
+      "image": null,
+      "formulas": [
+        "CuSO_4 + 5H_2O \\longrightarrow CuSO_4.5H_2O"
+      ],
+      "pdfPageStart": 161,
+      "pdfPageEnd": 161,
+      "printedPageStart": 156,
+      "printedPageEnd": 156,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.3-p009",
+      "kind": "text",
+      "section": "পানিযোজন (Hydration) বিক্রিয়া",
+      "caption": null,
+      "body": "এরকম আরও অনেক উদাহরণ রয়েছে:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 161,
+      "pdfPageEnd": 161,
+      "printedPageStart": 156,
+      "printedPageEnd": 156,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.3-p010",
+      "kind": "text",
+      "section": "পানিযোজন (Hydration) বিক্রিয়া",
+      "caption": null,
+      "body": "$$ZnSO_4 + 7H_2O \\longrightarrow ZnSO_4 \\cdot 7H_2O$$\n(হেপ্টা হাইড্রেট জিংক সালফেট)",
+      "image": null,
+      "formulas": [
+        "ZnSO_4 + 7H_2O \\longrightarrow ZnSO_4 \\cdot 7H_2O"
+      ],
+      "pdfPageStart": 162,
+      "pdfPageEnd": 162,
+      "printedPageStart": 157,
+      "printedPageEnd": 157,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.3-p011",
+      "kind": "text",
+      "section": "পানিযোজন (Hydration) বিক্রিয়া",
+      "caption": null,
+      "body": "$$FeSO_4 + 7H_2O \\longrightarrow FeSO_4 \\cdot 7H_2O$$\n(হেপ্টা হাইড্রেট ফেরাস সালফেট)",
+      "image": null,
+      "formulas": [
+        "FeSO_4 + 7H_2O \\longrightarrow FeSO_4 \\cdot 7H_2O"
+      ],
+      "pdfPageStart": 162,
+      "pdfPageEnd": 162,
+      "printedPageStart": 157,
+      "printedPageEnd": 157,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.3-p012",
+      "kind": "text",
+      "section": "পানিযোজন (Hydration) বিক্রিয়া",
+      "caption": null,
+      "body": "$$CaCl_2 + 6H_2O \\longrightarrow CaCl_2 \\cdot 6H_2O$$\n(হেক্সা হাইড্রেট ক্যালসিয়াম ক্লোরাইড)",
+      "image": null,
+      "formulas": [
+        "CaCl_2 + 6H_2O \\longrightarrow CaCl_2 \\cdot 6H_2O"
+      ],
+      "pdfPageStart": 162,
+      "pdfPageEnd": 162,
+      "printedPageStart": 157,
+      "printedPageEnd": 157,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.3-p013",
+      "kind": "text",
+      "section": "পানিযোজন (Hydration) বিক্রিয়া",
+      "caption": null,
+      "body": "$$MgCl_2 + 7H_2O \\longrightarrow MgCl_2 \\cdot 7H_2O$$\n(হেপ্টা হাইড্রেট ম্যাগনেসিয়াম ক্লোরাইড)",
+      "image": null,
+      "formulas": [
+        "MgCl_2 + 7H_2O \\longrightarrow MgCl_2 \\cdot 7H_2O"
+      ],
+      "pdfPageStart": 162,
+      "pdfPageEnd": 162,
+      "printedPageStart": 157,
+      "printedPageEnd": 157,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.3-p014",
+      "kind": "text",
+      "section": "পানিযোজন (Hydration) বিক্রিয়া",
+      "caption": null,
+      "body": "পানিযোজন বিক্রিয়া মূলত সংযোজন বিক্রিয়ার মতো। তবে সংযোজন বিক্রিয়ায় ইলেকট্রনের আদান-প্রদান ঘটে কিন্তু পানিযোজনে ইলেকট্রনের আদানপ্রদান ঘটে না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 162,
+      "pdfPageEnd": 162,
+      "printedPageStart": 157,
+      "printedPageEnd": 157,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.3-p015",
+      "kind": "text",
+      "section": "সমানুকরণ (Isomerisation) বিক্রিয়া",
+      "caption": null,
+      "body": "যদি দুটি যৌগের আণবিক সংকেত একই থাকে কিন্তু গাঠনিক সংকেত ভিন্ন হয় তবে তাদেরকে পরস্পরের সমানু বলা হয়। একটি সমানু থেকে অপর একটি সমানু তৈরির প্রক্রিয়াকে সমানুকরণ বিক্রিয়া বলে। যেমন, $H_4N_2CO$ আণবিক সংকেত দ্বারা ভিন্ন গাঠনিক সংকেত বিশিষ্ট দুটি যৌগকে প্রকাশ করা হয়। যৌগ দুটি হলো: $NH_4CNO$ (অ্যামোনিয়াম সায়ানেট) ও ইউরিয়া ($H_2N-CO-NH_2$)। এরা পরস্পরের সমানু। অ্যামোনিয়াম সায়ানেটকে তাপ দিলে তা ইউরিয়াতে পরিণত হয়।",
+      "image": null,
+      "formulas": [
+        "H_4N_2CO",
+        "NH_4CNO",
+        "H_2N-CO-NH_2"
+      ],
+      "pdfPageStart": 162,
+      "pdfPageEnd": 162,
+      "printedPageStart": 157,
+      "printedPageEnd": 157,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.3-p016",
+      "kind": "formula",
+      "section": "সমানুকরণ (Isomerisation) বিক্রিয়া",
+      "caption": null,
+      "body": "$$NH_4CNO \\xrightarrow{তাপ} H_2N-CO-NH_2$$",
+      "image": null,
+      "formulas": [
+        "NH_4CNO \\xrightarrow{তাপ} H_2N-CO-NH_2"
+      ],
+      "pdfPageStart": 162,
+      "pdfPageEnd": 162,
+      "printedPageStart": 157,
+      "printedPageEnd": 157,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.3-p017",
+      "kind": "text",
+      "section": "পলিমারকরণ (Polymerization) বিক্রিয়া",
+      "caption": null,
+      "body": "প্রভাবক, উচ্চ চাপ ও তাপের প্রভাবে যখন এক বা একাধিক যৌগের অসংখ্য স্কুড স্কুড অণু পরস্পরের সাথে যুক্ত হয়ে একটি বৃহদাকার অণু তৈরি করে তখন তাকে পলিমারকরণ বিক্রিয়া বলে। এক্ষেত্রে বৃহদাকার অণুটিকে পলিমার অণু এবং স্কুড অণুটিকে মনোমার অণু বলা হয়। যে বিক্রিয়ায় অসংখ্য মনোমার থেকে পলিমার উৎপন্ন হয় তাকে পলিমারকরণ বিক্রিয়া বলে। 1000 atm চাপে 200 $^\\circC$ তাপমাত্রায় ও $O_2$ প্রভাবকের উপস্থিতিতে ইথিলিনের অসংখ্য স্কুড স্কুড অণু যুক্ত হয়ে বৃহৎ পলিমার অণু পলিথিন উৎপন্ন করে। এ বিক্রিয়া হচ্ছে ইথিলিনের পলিমারকরণ বিক্রিয়া। এখানে ইথিলিন মনোমার এবং পলিথিন পলিমার অণু হিসেবে বিবেচিত। এখানে $n$ দ্বারা ইথিলিনের অসংখ্য অণুর সংখ্যা বোঝায়।",
+      "image": null,
+      "formulas": [
+        "^\\circC",
+        "O_2",
+        "n"
+      ],
+      "pdfPageStart": 162,
+      "pdfPageEnd": 162,
+      "printedPageStart": 157,
+      "printedPageEnd": 157,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.3-p018",
+      "kind": "text",
+      "section": "পলিমারকরণ (Polymerization) বিক্রিয়া",
+      "caption": null,
+      "body": "$$n(CH_2=CH_2) \\xrightarrow[200^\\circC, 1000 atm]{O_2} (-CH_2-CH_2-)_{n}$$\nইথিলিন $\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad$ পলিথিন",
+      "image": null,
+      "formulas": [
+        "n(CH_2=CH_2) \\xrightarrow[200^\\circC, 1000 atm]{O_2} (-CH_2-CH_2-)_{n}",
+        "\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad\\qquad"
+      ],
+      "pdfPageStart": 162,
+      "pdfPageEnd": 162,
+      "printedPageStart": 157,
+      "printedPageEnd": 157,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "id": "chemistry-9-10-bn-c09-t9.5",
+  "key": "9.5",
+  "title": "প্রশমন বিক্রিয়া (Neutralization Reaction)",
+  "chapter": 9,
+  "ordinal": 5,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c09-t9.5-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা জানি, এসিড জলীয় দ্রবণে H<sup>+</sup> দান করে এবং ক্ষার জলীয় দ্রবণে OH<sup>-</sup> দান করে। তাই এসিড ও ক্ষার একত্রে মিশ্রিত করলে এসিডের H<sup>+</sup> আয়ন এবং ক্ষারের OH<sup>-</sup> আয়ন বিক্রিয়া করে পানি উৎপন্ন করে। যেমন— HCl পানিতে H<sup>+</sup> আয়ন এবং NaOH পানিতে OH<sup>-</sup> দান করে। এ দ্রবণ দুটিকে একসাথে মিশ্রিত করলে এসিডের H<sup>+</sup> এবং ক্ষারের OH<sup>-</sup> বিক্রিয়া করে পানি উৎপন্ন করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 227,
+      "pdfPageEnd": 227,
+      "printedPageStart": 222,
+      "printedPageEnd": 222,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.5-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এসিডের বাকি ঋণাত্মক আয়ন Cl<sup>-</sup> এবং ক্ষারের ধনাত্মক আয়ন Na<sup>+</sup> বিক্রিয়া করে লবণ (NaCl) উৎপন্ন করে। এসিড ক্ষারের সাথে বিক্রিয়া করে লবণ ও পানি উৎপন্ন হওয়ার বিক্রিয়াকে প্রশমন বিক্রিয়া বলে। কেননা এ বিক্রিয়াতে এসিড তার এসিডত্ব হারায় আর ক্ষার তার ক্ষারকত্ব হারায় এবং প্রশম পদার্থ লবণ আর পানি উৎপন্ন করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 228,
+      "pdfPageEnd": 228,
+      "printedPageStart": 223,
+      "printedPageEnd": 223,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.5-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$$NaOH(aq) + HCl(aq) \\longrightarrow NaCl(aq) + H_2O(l)$$\nএসিড ক্ষার লবণ পানি",
+      "image": null,
+      "formulas": [
+        "NaOH(aq) + HCl(aq) \\longrightarrow NaCl(aq) + H_2O(l)"
+      ],
+      "pdfPageStart": 228,
+      "pdfPageEnd": 228,
+      "printedPageStart": 223,
+      "printedPageEnd": 223,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.5-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "উপরের বিক্রিয়াতে দেখো এক মোল হাইড্রোক্লোরিক এসিড এক মোল সোডিয়াম হাইড্রোক্লাইডকে সম্পূর্ণরূপে প্রশমিত করে। কাজেই দুই মোল হাইড্রোক্লোরিক এসিড দুই মোল সোডিয়াম হাইড্রোক্লাইডকে সম্পূর্ণরূপে প্রশমিত করবে। আবার, সালফিউরিক এসিড ও সোডিয়াম হাইড্রোক্লাইডের বিক্রিয়ায় সোডিয়াম সালফেট লবণ আর পানি উৎপন্ন করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 228,
+      "pdfPageEnd": 228,
+      "printedPageStart": 223,
+      "printedPageEnd": 223,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.5-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$$H_2SO_4(aq) + 2NaOH (aq) \\longrightarrow Na_2SO_4(aq) + 2H_2O(l)$$\nএসিড ক্ষার লবণ পানি",
+      "image": null,
+      "formulas": [
+        "H_2SO_4(aq) + 2NaOH (aq) \\longrightarrow Na_2SO_4(aq) + 2H_2O(l)"
+      ],
+      "pdfPageStart": 228,
+      "pdfPageEnd": 228,
+      "printedPageStart": 223,
+      "printedPageEnd": 223,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.5-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "উপরের বিক্রিয়া হতে দেখা যায়, এক মোল সালফিউরিক এসিড দুই মোল সোডিয়াম হাইড্রোক্লাইডকে সম্পূর্ণরূপে প্রশমিত করে। এ থেকে প্রমাণিত হয় যে, কোনো নির্দিষ্ট এসিডের একটি নির্দিষ্ট পরিমাণ অপর কোনো নির্দিষ্ট ক্ষারের নির্দিষ্ট পরিমাণকে সম্পূর্ণরূপে প্রশমিত করবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 228,
+      "pdfPageEnd": 228,
+      "printedPageStart": 223,
+      "printedPageEnd": 223,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.5-p007",
+      "kind": "text",
+      "section": "৯.৫.১ দৈনন্দিন জীবনে প্রশমন বিক্রিয়ার গুরুত্ব",
+      "caption": null,
+      "body": "**পরিপাক:** খাদ্য হজম করতে পাকস্থলীতে হাইড্রোক্লোরিক এসিড নিঃসৃত হয়। কোনো কারণে পাকস্থলীতে এই এসিডের পরিমাণ বেশি হয়ে গেলে তখন পেটে অস্বস্তি বোধ হয়। সাধারণভাবে এটিকে এসিডিটি বলে। বেশিদিন এসিডিটি থাকলে পাকস্থলীতে যা হয়ে যেতে পারে। তাই এই এসিডকে প্রশমিত করতে এন্টাসিড নামক ওষুধ খেতে হয়। এন্টাসিডে Al(OH)<sub>3</sub> ও Mg(OH)<sub>2</sub> থাকে। এরা ক্ষারজাতীয় পদার্থ। তাই পেটের অতিরিক্ত হাইড্রোক্লোরিক এসিডকে এরা প্রশমিত করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 228,
+      "pdfPageEnd": 228,
+      "printedPageStart": 223,
+      "printedPageEnd": 223,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.5-p008",
+      "kind": "text",
+      "section": "৯.৫.১ দৈনন্দিন জীবনে প্রশমন বিক্রিয়ার গুরুত্ব",
+      "caption": null,
+      "body": "$$Al(OH)_3 + 3HCl \\longrightarrow AlCl_3 + 3H_2O$$\n$$Mg(OH)_2 + 2HCl \\longrightarrow MgCl_2 + 2H_2O$$",
+      "image": null,
+      "formulas": [
+        "Al(OH)_3 + 3HCl \\longrightarrow AlCl_3 + 3H_2O",
+        "Mg(OH)_2 + 2HCl \\longrightarrow MgCl_2 + 2H_2O"
+      ],
+      "pdfPageStart": 228,
+      "pdfPageEnd": 228,
+      "printedPageStart": 223,
+      "printedPageEnd": 223,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.5-p009",
+      "kind": "text",
+      "section": "৯.৫.১ দৈনন্দিন জীবনে প্রশমন বিক্রিয়ার গুরুত্ব",
+      "caption": null,
+      "body": "**দাঁতের যত্ন:** কখনো মিশিজাতীয় খাবার খেয়ে মুখ পরিষ্কার না করলে কিছুক্ষণ পর মুখে টক টক অনুভূত হয়। আসলে মুখের মধ্যে অনেক ব্যাকটেরিয়া থাকে যা আমাদের খাওয়া খাবার থেকে বিভিন্ন ধরনের জৈব এসিড তৈরি করে। তাই মুখে টক স্বাদ অনুভূত হয়। এই এসিড দাঁতের এনামেলকে (ক্যালসিয়ামের যৌগ) ক্ষয় করে। টুথপেস্টে থাকা ক্ষারজাতীয় পদার্থ এ সকল এসিডকে প্রশমিত করে। ফলে দাঁতের এনামেল রক্ষা পায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 228,
+      "pdfPageEnd": 229,
+      "printedPageStart": 223,
+      "printedPageEnd": 224,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.5-p010",
+      "kind": "text",
+      "section": "৯.৫.১ দৈনন্দিন জীবনে প্রশমন বিক্রিয়ার গুরুত্ব",
+      "caption": null,
+      "body": "**কৃষিক্ষেত্রে:** গাছ যখন মাটি থেকে বিভিন্ন ধাতব আয়ন যেমন— Fe<sup>2+</sup>, Mg<sup>2+</sup>, Ca<sup>2+</sup>, K<sup>+</sup> ইত্যাদি শোষণ করে তখন মাটি অম্লীয় হয়ে যায়। মাটির উর্বরতা হ্রাস পায়। মাটির উর্বরতা বৃদ্ধি করতে চুন ব্যবহার করতে হয়। চুনের রাসায়নিক নাম ক্যালসিয়াম অক্সাইড (CaO)। চুন মাটির অতিরিক্ত এসিডকে প্রশমিত করে মাটির উর্বরতা বৃদ্ধি করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 229,
+      "pdfPageEnd": 229,
+      "printedPageStart": 224,
+      "printedPageEnd": 224,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.5-p011",
+      "kind": "text",
+      "section": "৯.৫.২ লবণ",
+      "caption": null,
+      "body": "তোমরা ইতোমধ্যে জেনেছো যে, প্রশমন বিক্রিয়ায় এসিডের সাথে ক্ষার বিক্রিয়া করে লবণ এবং পানি উৎপন্ন হয়। লবণের ধনাত্মক আয়নটি ক্ষার থেকে আসে। তাই ধনাত্মক আয়নকে ক্ষারীয়মূলক (Basic radical) বলে। আর লবণের ঋণাত্মক আয়নটি এসিড বা অম্ল থেকে আসে। তাই লবণের ঋণাত্মক আয়নকে অম্লীয় মূলক (Acid radical) বলে। তীব্র এসিড ও তীব্র ক্ষারের বিক্রিয়ায় উৎপন্ন লবণের জলীয় দ্রবণ নিরপেক্ষ প্রকৃতির। যেমন— NaCl, Na<sub>2</sub>SO<sub>4</sub> ইত্যাদির জলীয় দ্রবণ নিরপেক্ষ। তীব্র এসিড ও মৃদু ক্ষারের বিক্রিয়ায় উৎপন্ন লবণের জলীয় দ্রবণ অম্লীয় প্রকৃতির। যেমন— FeCl<sub>3</sub>, Zn(NO<sub>3</sub>)<sub>2</sub> ইত্যাদির জলীয় দ্রবণ অম্লীয়। তীব্র ক্ষার ও মৃদু এসিডের জলীয় দ্রবণ ক্ষারীয় প্রকৃতির। যেমন— Na<sub>2</sub>CO<sub>3</sub>, CH<sub>3</sub>COONa (সোডিয়াম ইথানয়েট) ইত্যাদির জলীয় দ্রবণ ক্ষারীয় প্রকৃতির।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 229,
+      "pdfPageEnd": 229,
+      "printedPageStart": 224,
+      "printedPageEnd": 224,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    }
+  ]
+}

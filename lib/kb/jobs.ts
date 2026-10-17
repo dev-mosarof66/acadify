@@ -78,7 +78,44 @@ async function writeJob(job: KbJob) {
   await mkdir(KB_JOBS_DIR, { recursive: true });
   const tmp = `${jobFile(job.id)}.${process.pid}.${Date.now()}.tmp`;
   await writeFile(tmp, JSON.stringify(job, null, 2), "utf8");
-  await rename(tmp, jobFile(job.id));
+  // On Windows a rename onto a file that was just read (or is being scanned) can fail for a moment
+  for (let attempt = 1; ; attempt++) {
+    try {
+      return await rename(tmp, jobFile(job.id));
+    } catch (err) {
+      const code = (err as NodeJS.ErrnoException).code;
+      if (attempt >= 8 || (code !== "EPERM" && code !== "EBUSY" && code !== "EACCES")) {
+        await rm(tmp, { force: true });
+        throw err;
+      }
+      await new Promise((r) => setTimeout(r, 30 * attempt));
+    }
+  }
+}
+
+// Two chapters finishing together would each read the job, change their own part and write it back, so one change
+// was lost. Changes to one job run one after another. Kept on globalThis because the worker and the pages are bundled apart.
+const g = globalThis as typeof globalThis & { __kbJobLocks?: Map<string, Promise<unknown>> };
+const locks = (g.__kbJobLocks ??= new Map());
+
+function locked<T>(id: string, fn: () => Promise<T>): Promise<T> {
+  const run = (locks.get(id) ?? Promise.resolve()).catch(() => undefined).then(fn);
+  locks.set(id, run);
+  void run.then(
+    () => locks.get(id) === run && locks.delete(id),
+    () => locks.get(id) === run && locks.delete(id)
+  );
+  return run;
+}
+
+async function mutate(id: string, change: (job: KbJob) => Partial<Omit<KbJob, "id" | "createdAt">>) {
+  return locked(id, async () => {
+    const job = await getJob(id);
+    if (!job) throw new Error("Job not found");
+    const next: KbJob = { ...job, ...change(job), updatedAt: new Date().toISOString() };
+    await writeJob(next);
+    return next;
+  });
 }
 
 type NewJob = Pick<KbJob, "meta" | "fileName" | "sizeBytes" | "sha256" | "pageCount" | "tier" | "createdByName">;
@@ -100,18 +137,12 @@ export async function getJob(id: string): Promise<KbJob | null> {
 }
 
 export async function updateJob(id: string, patch: Partial<Omit<KbJob, "id" | "createdAt">>) {
-  const job = await getJob(id);
-  if (!job) throw new Error("Job not found");
-  const next: KbJob = { ...job, ...patch, updatedAt: new Date().toISOString() };
-  await writeJob(next);
-  return next;
+  return mutate(id, () => patch);
 }
 
 /** Changes one chapter's plan entry. */
 export async function updateChapter(id: string, number: number, patch: Partial<ChapterPlan>) {
-  const job = await getJob(id);
-  if (!job) throw new Error("Job not found");
-  return updateJob(id, { chapters: job.chapters.map((c) => (c.number === number ? { ...c, ...patch } : c)) });
+  return mutate(id, (job) => ({ chapters: job.chapters.map((c) => (c.number === number ? { ...c, ...patch } : c)) }));
 }
 
 /** Newest first. Files from older versions of the job format are skipped. */

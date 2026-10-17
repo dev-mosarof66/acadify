@@ -1,0 +1,346 @@
+{
+  "id": "chemistry-9-10-bn-c07-t7.4",
+  "key": "7.4",
+  "title": "বাস্তব ক্ষেত্রে সংঘটিত কয়েকটি রাসায়নিক বিক্রিয়ার উদাহরণ",
+  "chapter": 7,
+  "ordinal": 4,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c07-t7.4-p001",
+      "kind": "text",
+      "section": "৭.৪.১ বাস্তব ক্ষেত্রে সংঘটিত রাসায়নিক বিক্রিয়া",
+      "caption": null,
+      "body": "আমরা প্রতিদিন অনেক ঘটনা পর্যবেক্ষণ করি যেগুলো বিভিন্ন রাসায়নিক বিক্রিয়ার কারণে ঘটে থাকে। যেমন:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 163,
+      "pdfPageEnd": 163,
+      "printedPageStart": 158,
+      "printedPageEnd": 158,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.4-p002",
+      "kind": "text",
+      "section": "১. লোহায় মরিচা পড়া",
+      "caption": null,
+      "body": "আমরা লোহার (আয়রন বা Fe) তৈরি বিভিন্ন যন্ত্রপাতি যেমন: ছুরি, কাঁচি, বাঁটি, দা ইত্যাদি ব্যবহার করি। এসব যন্ত্রপাতি বাতাসে মুক্ত অবস্থায় রেখে দিলে এদের পৃষ্ঠে মরিচা পড়ে। এখানে আয়রন বাতাসের অক্সিজেন ও জলীয় বাষ্পের সাথে বিক্রিয়া করে আর্দ্র ফেরিক অক্সাইড বা মরিচা তৈরি করে। এতে ধাতুর পৃষ্ঠতল ক্ষয় হয়। মরিচা বাঁঝারা জাতীয় পদার্থ হওয়ায় এর ভিতর দিয়ে বাতাসের অক্সিজেন এবং জলীয় বাষ্প ঢুকে লোহার পৃষ্ঠকে ক্রমাগত ক্ষয় করতে থাকে। এভাবে লোহার তৈরি পুরো জিনিসটিই এক সময় নষ্ট হয়ে যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 163,
+      "pdfPageEnd": 163,
+      "printedPageStart": 158,
+      "printedPageEnd": 158,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.4-p003",
+      "kind": "text",
+      "section": "১. লোহায় মরিচা পড়া",
+      "caption": null,
+      "body": "$$2Fe + 1.5O_2 + 3H_2O \\longrightarrow 2Fe(OH)_3$$\n$$2Fe(OH)_3 \\longrightarrow Fe_2O_3 \\cdot nH_2O$$\nমরিচা",
+      "image": null,
+      "formulas": [
+        "2Fe + 1.5O_2 + 3H_2O \\longrightarrow 2Fe(OH)_3",
+        "2Fe(OH)_3 \\longrightarrow Fe_2O_3 \\cdot nH_2O"
+      ],
+      "pdfPageStart": 163,
+      "pdfPageEnd": 163,
+      "printedPageStart": 158,
+      "printedPageEnd": 158,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.4-p004",
+      "kind": "text",
+      "section": "১. লোহায় মরিচা পড়া",
+      "caption": null,
+      "body": "মরিচায় পানির অণুর সংখ্যা নির্দিষ্ট নয়। সুতরাং মরিচার রাসায়নিক সংকেত $Fe_2O_3 \\cdot nH_2O$। $n$ এর মান 1, 2, 3 ইত্যাদি যেকোনো পূর্ণ সংখ্যা হতে পারে।",
+      "image": null,
+      "formulas": [
+        "Fe_2O_3 \\cdot nH_2O",
+        "n"
+      ],
+      "pdfPageStart": 163,
+      "pdfPageEnd": 163,
+      "printedPageStart": 158,
+      "printedPageEnd": 158,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.4-p005",
+      "kind": "text",
+      "section": "২. তামা (Cu) ও অ্যালুমিনিয়াম (Al) এর ক্ষয়রোধ",
+      "caption": null,
+      "body": "লোহার তৈরি দ্রব্যাদি ছাড়াও আমরা দৈনন্দিন প্রয়োজনে কপার-আলুমিনিয়াম এর দ্রব্যাদি ব্যবহার করে থাকি। Cu ও Al এর দ্রব্যাদি বাতাসের অক্সিজেনের সংস্পর্শে এলে প্রথমে তাদের উপর CuO ও $Al_2O_3$ এর একটি আস্তরণ পড়ে। পরবর্তীতে বাতাসের অক্সিজেন উক্ত আস্তরণ ভেদ করে আর Cu বা Al সংস্পর্শে আসতে পারে না। ফলে আর বিক্রিয়া সাধিত হয় না। সুতরাং Cu বা Al এর ক্ষয় সাধিত হয় না। এরূপে CuO ও $Al_2O_3$ যথাক্রমে Cu ও Al কে রক্ষা করে।",
+      "image": null,
+      "formulas": [
+        "Al_2O_3",
+        "Al_2O_3"
+      ],
+      "pdfPageStart": 163,
+      "pdfPageEnd": 163,
+      "printedPageStart": 158,
+      "printedPageEnd": 158,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.4-p006",
+      "kind": "text",
+      "section": "৩. পিঁপড়া বা মৌমাছির কামড়ের জ্বালা নিরাময়",
+      "caption": null,
+      "body": "পিঁপড়া বা মৌমাছি কামড়ালে ক্ষতস্থানে জ্বালা যন্ত্রণা করে। এ যন্ত্রণা থেকে রেহাই পাওয়ার জন্য আমরা ক্ষতস্থানে চুন লাগাই। এর কারণ কী? পিঁপড়ার মুখ বা মৌমাছির হুলে এক ধরনের এসিড থাকে যেটি জ্বালা-যন্ত্রণার সৃষ্টি করে। ক্ষতস্থানে চুন (ক্ষারক) যোগ করার ফলে এসিডের সাথে বিক্রিয়া করে সেটি প্রশমিত হয়। ফলে জ্বালা-যন্ত্রণা বন্ধ হয়ে যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 163,
+      "pdfPageEnd": 163,
+      "printedPageStart": 158,
+      "printedPageEnd": 158,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.4-p007",
+      "kind": "text",
+      "section": "৪. শ্বসন প্রক্রিয়ার মাধ্যমে শক্তি উৎপাদন",
+      "caption": null,
+      "body": "আমাদের শরীরের প্রতিটি কোষে শ্বসন প্রক্রিয়া সাধিত হয়। শ্বসনে মূলত গ্লুকোজ (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) অণু অক্সিজেন দ্বারা জারিত হয়ে (O<sub>2</sub> এর সাথে বিক্রিয়া করে)",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 164,
+      "pdfPageEnd": 164,
+      "printedPageStart": 159,
+      "printedPageEnd": 159,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.4-p008",
+      "kind": "text",
+      "section": "৪. শ্বসন প্রক্রিয়ার মাধ্যমে শক্তি উৎপাদন",
+      "caption": null,
+      "body": "কার্বন ডাই-অক্সাইড (CO<sub>2</sub>), পানি (H<sub>2</sub>O) ও শক্তি উৎপন্ন করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 164,
+      "pdfPageEnd": 164,
+      "printedPageStart": 159,
+      "printedPageEnd": 159,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.4-p009",
+      "kind": "formula",
+      "section": "৪. শ্বসন প্রক্রিয়ার মাধ্যমে শক্তি উৎপাদন",
+      "caption": null,
+      "body": "$$C_6H_{12}O_6 + 6O_2 \\longrightarrow 6CO_2 + 6H_2O + শক্তি$$",
+      "image": null,
+      "formulas": [
+        "C_6H_{12}O_6 + 6O_2 \\longrightarrow 6CO_2 + 6H_2O + শক্তি"
+      ],
+      "pdfPageStart": 164,
+      "pdfPageEnd": 164,
+      "printedPageStart": 159,
+      "printedPageEnd": 159,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.4-p010",
+      "kind": "text",
+      "section": "৪. শ্বসন প্রক্রিয়ার মাধ্যমে শক্তি উৎপাদন",
+      "caption": null,
+      "body": "মানুষের শরীরের বিপাক ক্রিয়ায় অনেকের পাকস্থলীতে অতিরিক্ত HCl তৈরি হয়। অতিরিক্ত HCl কে প্রশমিত করার জন্য রোগীকে ডাক্তার এনটাসিড জাতীয় ওষুধ খেতে বলেন। এনটাসিড হলো Mg(OH)<sub>2</sub> ও Al(OH)<sub>3</sub> এর মিশ্রণ। এই ক্ষারক দুটি অতিরিক্ত HCl কে প্রশমিত করে এবং রোগী এসিডিটি থেকে মুক্তি পায়। এনটাসিডের বিক্রিয়া এরকম:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 164,
+      "pdfPageEnd": 164,
+      "printedPageStart": 159,
+      "printedPageEnd": 159,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.4-p011",
+      "kind": "formula",
+      "section": "৪. শ্বসন প্রক্রিয়ার মাধ্যমে শক্তি উৎপাদন",
+      "caption": null,
+      "body": "$$2HCl + Mg(OH)_2 \\longrightarrow MgCl_2 + 2H_2O$$",
+      "image": null,
+      "formulas": [
+        "2HCl + Mg(OH)_2 \\longrightarrow MgCl_2 + 2H_2O"
+      ],
+      "pdfPageStart": 164,
+      "pdfPageEnd": 164,
+      "printedPageStart": 159,
+      "printedPageEnd": 159,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.4-p012",
+      "kind": "formula",
+      "section": "৪. শ্বসন প্রক্রিয়ার মাধ্যমে শক্তি উৎপাদন",
+      "caption": null,
+      "body": "$$3HCl + Al(OH)_3 \\longrightarrow AlCl_3 + 3H_2O$$",
+      "image": null,
+      "formulas": [
+        "3HCl + Al(OH)_3 \\longrightarrow AlCl_3 + 3H_2O"
+      ],
+      "pdfPageStart": 164,
+      "pdfPageEnd": 164,
+      "printedPageStart": 159,
+      "printedPageEnd": 159,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.4-p013",
+      "kind": "text",
+      "section": "৫. জ্বালানি হিসেবে প্রাকৃতিক গ্যাস",
+      "caption": null,
+      "body": "প্রাকৃতিক গ্যাস জ্বালানি হিসেবে ব্যবহার করা হয়। প্রাকৃতিক গ্যাসে বেশির ভাগই মিথেন থাকে। মিথেন গ্যাসকে অক্সিজেনে পোড়ালে CO<sub>2</sub> এবং জলীয় বাষ্প ও তাপশক্তি উৎপন্ন হয়। CNG, ডিজেল, পেট্রল, কেরোসিন, অকটেন ইত্যাদি জ্বালানিকে পোড়ালেও একইভাবে CO<sub>2</sub> এবং জলীয়বাষ্প ও তাপশক্তি উৎপন্ন হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 164,
+      "pdfPageEnd": 164,
+      "printedPageStart": 159,
+      "printedPageEnd": 159,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.4-p014",
+      "kind": "formula",
+      "section": "৫. জ্বালানি হিসেবে প্রাকৃতিক গ্যাস",
+      "caption": null,
+      "body": "$$CH_4 + 2O_2 \\longrightarrow CO_2 + 2H_2O + শক্তি$$",
+      "image": null,
+      "formulas": [
+        "CH_4 + 2O_2 \\longrightarrow CO_2 + 2H_2O + শক্তি"
+      ],
+      "pdfPageStart": 164,
+      "pdfPageEnd": 164,
+      "printedPageStart": 159,
+      "printedPageEnd": 159,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.4-p015",
+      "kind": "text",
+      "section": "৭.৪.২ বাস্তব ক্ষেত্রে সংযুক্তি কতিপয় স্কৃতিকর বিক্রিয়া রোধ করার উপায়",
+      "caption": null,
+      "body": "আমাদের চারপাশের অনেক কিছুই প্রতিনিয়ত রাসায়নিক বিক্রিয়া করে স্ফয়প্রাপ্ত হচ্ছে কিংবা নষ্ট হচ্ছে। আমরা আমাদের রসায়নের জ্ঞান ব্যবহার করে অনেক ক্ষেত্রেই অনেক কিছু রক্ষা করতে পারি। যেমন:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 164,
+      "pdfPageEnd": 164,
+      "printedPageStart": 159,
+      "printedPageEnd": 159,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.4-p016",
+      "kind": "text",
+      "section": "৭.৪.২ বাস্তব ক্ষেত্রে সংযুক্তি কতিপয় স্কৃতিকর বিক্রিয়া রোধ করার উপায়",
+      "caption": null,
+      "body": "(i) মরিচার স্ফয় থেকে আয়রনকে রক্ষার জন্য লোহার তৈরি দ্রব্যাদির উপর রং দিলে সেটি আর বাতাসের সংস্পর্শে আসতে পারে না, ফলে মরিচা পড়তে পারে না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 164,
+      "pdfPageEnd": 164,
+      "printedPageStart": 159,
+      "printedPageEnd": 159,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.4-p017",
+      "kind": "text",
+      "section": "৭.৪.২ বাস্তব ক্ষেত্রে সংযুক্তি কতিপয় স্কৃতিকর বিক্রিয়া রোধ করার উপায়",
+      "caption": null,
+      "body": "তড়িৎ বিক্ষোষণের মাধ্যমে লোহার তৈরি দ্রব্যের উপর লোহা অপেক্ষা কম সক্রিয় অপর একটি ধাতুর প্রলেপ দিয়ে ইলেকট্রোপ্লেনিং করে লোহার তৈরি দ্রব্যাদিকে মরিচার হাত হতে রক্ষা করা যায়। কোনো ধাতুর উপর জিংকের প্রলেপ দেওয়াকে গ্যালভানাইজিং এবং টিনের প্রলেপ দেওয়াকে টিন প্লেনিং বলে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 164,
+      "pdfPageEnd": 164,
+      "printedPageStart": 159,
+      "printedPageEnd": 159,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.4-p018",
+      "kind": "text",
+      "section": "৭.৪.২ বাস্তব ক্ষেত্রে সংযুক্তি কতিপয় স্কৃতিকর বিক্রিয়া রোধ করার উপায়",
+      "caption": null,
+      "body": "তড়িৎ বিশ্লেষণের মাধ্যমে একটি ধাতুর উপর অন্য একটি ধাতুর প্রলেপ দেওয়ার প্রক্রিয়াগুলোকে ইলেকট্রোপ্লটিং বলে। এভাবে ধাতব পৃষ্ঠকে রক্ষা করা যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 165,
+      "pdfPageEnd": 165,
+      "printedPageStart": 160,
+      "printedPageEnd": 160,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.4-p019",
+      "kind": "text",
+      "section": "৭.৪.২ বাস্তব ক্ষেত্রে সংযুক্তি কতিপয় স্কৃতিকর বিক্রিয়া রোধ করার উপায়",
+      "caption": null,
+      "body": "(ii) বর্ষাকালে ছাদ বা বাড়ির আঙিনা পিচ্ছিল হয়। তখন আমরা বালি ফেলে দিয়ে পিচ্ছিলতা কমানোর চেষ্টা করি। ছাদ বা আঙিনাকে পিচ্ছিল করে স্কার জাতীয় পদার্থ। সুতরাং এ স্কারকে প্রশমিত করার জন্য এসিড জাতীয় পদার্থ যোগ করতে হবে। বালু (SiO<sub>2</sub>) অম্লধর্মী। তাই বালু যোগ করার ফলে অম্ল-স্কার প্রশমন বিক্রিয়ার মাধ্যমে পিচ্ছিলতা দূর হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 165,
+      "pdfPageEnd": 165,
+      "printedPageStart": 160,
+      "printedPageEnd": 160,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.4-p020",
+      "kind": "text",
+      "section": "৭.৪.২ বাস্তব ক্ষেত্রে সংযুক্তি কতিপয় স্কৃতিকর বিক্রিয়া রোধ করার উপায়",
+      "caption": null,
+      "body": "(iii) সেলাই করার সুচকে নারিকেল তেলের ভিতর ডুবিয়ে রাখা হয়। কারণ সুচ যাতে বাতাসের অক্সিজেন ও জলীয় বাষ্পের সাথে রাসায়নিক বিক্রিয়া করে ক্ষয় না হয়। এভাবে লোহার তৈরি সুচে মরিচা পড়া রোধ করা যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 165,
+      "pdfPageEnd": 165,
+      "printedPageStart": 160,
+      "printedPageEnd": 160,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

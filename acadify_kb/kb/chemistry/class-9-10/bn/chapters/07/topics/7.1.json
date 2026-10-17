@@ -1,0 +1,122 @@
+{
+  "id": "chemistry-9-10-bn-c07-t7.1",
+  "key": "7.1",
+  "title": "পদার্থের পরিবর্তন (Changes of Matter)",
+  "chapter": 7,
+  "ordinal": 1,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c07-t7.1-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা সব সময় আমাদের চারপাশের নানা পদার্থ তাপ, চাপ কিংবা একে অন্যের সংস্পর্শে এসে পরিবর্তিত হতে দেখি। পদার্থের দুই ধরনের পরিবর্তন হয়—কখনো হয় ভৌত পরিবর্তন, কখনো বা রাসায়নিক পরিবর্তন।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 149,
+      "pdfPageEnd": 149,
+      "printedPageStart": 144,
+      "printedPageEnd": 144,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.1-p002",
+      "kind": "text",
+      "section": "৭.১.১ ভৌত পরিবর্তন",
+      "caption": null,
+      "body": "প্রতিটি রাসায়নিক পদার্থ এক বা একাধিক মৌল দিয়ে গঠিত। যদি কোনো পদার্থের অভ্যন্তরীণ রাসায়নিক গঠনের কোনো পরিবর্তন না ঘটে শুধু বাহ্যিক অবস্থার পরিবর্তন ঘটে তাকে ভৌত পরিবর্তন (Physical Change) বলে। যেমন—এক খণ্ড কঠিন বরফকে কক্ষ তাপমাত্রায় রেখে দিলে তা পরিবেশ থেকে তাপ গ্রহণ করে আস্তে আস্তে গলে তরল পানিতে পরিণত হয়। আবার, তরল পানিকে তাপ প্রদান করে ১০০°C এ উল্লীত করলে সেটি জলীয় বাষ্পে পরিণত হয়। এখানে কঠিন বরফ, পানি এবং জলীয় বাষ্প এ তিনটি পদার্থের আণবিক সংকেত H<sub>2</sub>O। অর্থাৎ তরল পানি, কঠিন বরফ এবং গ্যাসীয় জলীয় বাষ্প তিনটিরই প্রতিটি অণুতে দুটি করে হাইড্রোজেন ও একটি করে অক্সিজেন পরমাণু থাকে। কাজেই তিনটি পদার্থ একই। শুধু এদের ভৌত অবস্থার পরিবর্তন ঘটেছে—বরফ কঠিন, পানি তরল এবং জলীয় বাষ্প গ্যাসীয়। এ ধরনের পরিবর্তনকে আমরা ভৌত পরিবর্তন বলব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 149,
+      "pdfPageEnd": 149,
+      "printedPageStart": 144,
+      "printedPageEnd": 144,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.1-p003",
+      "kind": "text",
+      "section": "৭.১.১ ভৌত পরিবর্তন",
+      "caption": null,
+      "body": "```mermaid\nflowchart LR\n    A[\"বরফ(কঠিন)\"] -- \"+তাপ\" --> B[\"পানি(তরল)\"]\n    B -- \"+তাপ\" --> C[\"গ্যাস\"]\n    B -- \"-তাপ\" --> A\n    C -- \"-তাপ\" --> B\n```",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 149,
+      "pdfPageEnd": 149,
+      "printedPageStart": 144,
+      "printedPageEnd": 144,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.1-p004",
+      "kind": "text",
+      "section": "৭.১.২ রাসায়নিক পরিবর্তন",
+      "caption": null,
+      "body": "কখনো কখনো দেখা যায় যেকোনো পদার্থের বাহ্যিক তাপমাত্রা ও চাপের পরিবর্তন করলে কিংবা অন্য পদার্থের সংস্পর্শে আনলে তা পরিবর্তিত হয়ে সম্পূর্ণ ভিন্নধর্মী নতুন পদার্থে পরিণত হয়। এ ধরনের পরিবর্তনকে রাসায়নিক পরিবর্তন (Chemical Change) বলে। অর্থাৎ যে পরিবর্তনের ফলে সম্পূর্ণ ভিন্ন ধর্মবিশিষ্ট নতুন পদার্থে পরিণত হয় তাকে রাসায়নিক পরিবর্তন বলে। রাসায়নিক পরিবর্তনে নতুন যে পদার্থ উৎপন্ন হয় তার অণুতে অবস্থিত মৌলগুলো পূর্বের পদার্থ থেকেই আসে। পূর্বের অণুর মধ্যে বন্ধনসমূহের ভাঙনের মাধ্যমে বিচ্ছিন্ন আয়ন বা পরমাণুর সৃষ্টি হয়। পরবর্তীকালে আয়ন বা পরমাণুগুলোর মধ্যে নতুন বন্ধন গঠিত হয়ে নতুন অণুর সৃষ্টি হয়। অর্থাৎ এক কথায় পুরোনো বন্ধনের ভাঙন এবং নতুন বন্ধনের গঠনই মূলত রাসায়নিক বিক্রিয়া বা রাসায়নিক পরিবর্তন। রান্নার কাজে আমরা যে প্রাকৃতিক গ্যাস ব্যবহার করি সে গ্যাসের প্রধান উপাদান হলো মিথেন (CH<sub>4</sub>)। মিথেন গ্যাসকে অক্সিজেনে পোড়ালে কার্বন ডাই-অক্সাইড গ্যাস, জলীয় বাষ্প এবং তাপ শক্তি উৎপন্ন হয়। এ ধরনের পরিবর্তনই রাসায়নিক পরিবর্তন।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 149,
+      "pdfPageEnd": 149,
+      "printedPageStart": 144,
+      "printedPageEnd": 144,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.1-p005",
+      "kind": "formula",
+      "section": "৭.১.২ রাসায়নিক পরিবর্তন",
+      "caption": null,
+      "body": "$$CH_4(g) + O_2(g) \\longrightarrow CO_2(g) + H_2O(l)$$",
+      "image": null,
+      "formulas": [
+        "CH_4(g) + O_2(g) \\longrightarrow CO_2(g) + H_2O(l)"
+      ],
+      "pdfPageStart": 150,
+      "pdfPageEnd": 150,
+      "printedPageStart": 145,
+      "printedPageEnd": 145,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.1-p006",
+      "kind": "text",
+      "section": "৭.১.২ রাসায়নিক পরিবর্তন",
+      "caption": null,
+      "body": "একইভাবে, ক্যালসিয়াম কার্বনেট হাইড্রোক্লোরিক এসিডের সাথে বিক্রিয়া করে ক্যালসিয়াম ক্লোরাইড, কার্বন ডাই-অক্সাইড ও পানি উৎপন্ন করে। এটিও রাসায়নিক পরিবর্তন।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 150,
+      "pdfPageEnd": 150,
+      "printedPageStart": 145,
+      "printedPageEnd": 145,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c07-t7.1-p007",
+      "kind": "formula",
+      "section": "৭.১.২ রাসায়নিক পরিবর্তন",
+      "caption": null,
+      "body": "$$CaCO_3 (s) + 2HCl (aq) \\longrightarrow CaCl_2 (aq) + CO_2 (g) + H_2O (l)$$",
+      "image": null,
+      "formulas": [
+        "CaCO_3 (s) + 2HCl (aq) \\longrightarrow CaCl_2 (aq) + CO_2 (g) + H_2O (l)"
+      ],
+      "pdfPageStart": 150,
+      "pdfPageEnd": 150,
+      "printedPageStart": 145,
+      "printedPageEnd": 145,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

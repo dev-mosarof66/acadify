@@ -1,0 +1,321 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.28",
+  "key": "1.28",
+  "title": "ফাংশন (Function)",
+  "chapter": 1,
+  "ordinal": 29,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.28-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সেটের মতো ফাংশনের ধারণাও গণিতে একটি অত্যন্ত গুরুত্বপূর্ণ বিষয়। ব্যবহারিক প্রয়োগে দুটি চলক অথবা দুটি সেটের মধ্যে সম্পর্ক বিবেচনা করা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 28,
+      "pdfPageEnd": 28,
+      "printedPageStart": 23,
+      "printedPageEnd": 23,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.28-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২০.** বৃত্তের ব্যাসার্ধ ও পরিসীমার মধ্যে যে সম্পর্ক তাকে $p = 2\\pi r$ লিখে প্রকাশ করা হয় যেখানে $r$ চলক বৃত্তের ব্যাসার্ধ ও $p$ চলক বৃত্তের পরিসীমা নির্দেশ করে। এখানে $r$ এর প্রত্যেক সম্ভাব্য মানের জন্য $p$ এর একটি ও কেবল একটি মান নির্দিষ্ট হয়। আমরা বলি, $p$ চলক $r$ চলকের একটি ফাংশন এবং লিখি $p = f(r)$, যেখানে $f(r) = 2\\pi r$।",
+      "image": null,
+      "formulas": [
+        "p = 2\\pi r",
+        "r",
+        "p",
+        "r",
+        "p",
+        "p",
+        "r",
+        "p = f(r)",
+        "f(r) = 2\\pi r"
+      ],
+      "pdfPageStart": 28,
+      "pdfPageEnd": 28,
+      "printedPageStart": 23,
+      "printedPageEnd": 23,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.28-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এই ফাংশনীয় সম্পর্কটি দ্বারা $r$ এর ব্যাপ্তি সেট $X$ থেকে $p$ এর ব্যাপ্তি সেট $Y$ এ একটি ফাংশন সংজ্ঞায়িত হয়েছে বলেও ধরা হয়। এই ফাংশনকে $X$ থেকে $Y$ তে বর্ণিত অস্বয় $\\{(r, p) : r \\in X  এবং  p \\in Y  ও  p = 2\\pi r\\}$ রূপেও বিবেচনা করা হয়। অস্বয়ের ধারণা নবম-দশম শ্রেণির গণিত বইয়ে ব্যখ্যা করা হয়েছে।",
+      "image": null,
+      "formulas": [
+        "r",
+        "X",
+        "p",
+        "Y",
+        "X",
+        "Y",
+        "\\{(r, p) : r \\in X  এবং  p \\in Y  ও  p = 2\\pi r\\}"
+      ],
+      "pdfPageStart": 28,
+      "pdfPageEnd": 28,
+      "printedPageStart": 23,
+      "printedPageEnd": 23,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.28-p004",
+      "kind": "definition",
+      "section": null,
+      "caption": null,
+      "body": "**সংজ্ঞা ৫ (ফাংশন).** যদি $X$ ও $Y$ অশূন্যক সেট হয় এবং কোনো নিয়মের অধীনে $X$ সেটের প্রত্যেক উপাদানের সঙ্গে $Y$ সেটের একটি ও কেবল একটি উপাদানকে সংশ্লিষ্ট করা হয় তবে ঐ নিয়মকে $X$ থেকে $Y$ এ বর্ণিত একটি ফাংশন বলা হয়। এরূপ ফাংশনকে $f, g, F, G$ ইত্যাদি প্রতীক দ্বারা নির্দেশ করা হয়।",
+      "image": null,
+      "formulas": [
+        "X",
+        "Y",
+        "X",
+        "Y",
+        "X",
+        "Y",
+        "f, g, F, G"
+      ],
+      "pdfPageStart": 28,
+      "pdfPageEnd": 28,
+      "printedPageStart": 23,
+      "printedPageEnd": 23,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.28-p005",
+      "kind": "definition",
+      "section": null,
+      "caption": null,
+      "body": "**সংজ্ঞা ৬ (ডোমেন ও কোডোমেন):** যদি $X$ সেট হতে $Y$ সেটে $f$ একটি ফাংশন হয়, তবে তাকে $f : X \\to Y$ লিখে প্রকাশ করা হয়। $X$ সেটকে $f : X \\to Y$ ফাংশনের ডোমেন (Domain) এবং $Y$ সেটকে এর কোডোমেন (Codomain) বলা হয়।",
+      "image": null,
+      "formulas": [
+        "X",
+        "Y",
+        "f",
+        "f : X \\to Y",
+        "X",
+        "f : X \\to Y",
+        "Y"
+      ],
+      "pdfPageStart": 28,
+      "pdfPageEnd": 28,
+      "printedPageStart": 23,
+      "printedPageEnd": 23,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.28-p006",
+      "kind": "definition",
+      "section": null,
+      "caption": null,
+      "body": "**সংজ্ঞা ৭ (প্রতিবিম্ব ও প্রাক প্রতিবিম্ব).** যদি $f : X \\to Y$ ফাংশনের অধীনে $x \\in X$ এর সাথে $y \\in Y$ সংশ্লিষ্ট হয়, তবে এই ফাংশনের অধীনে $y$ কে $x$ এর প্রতিবিম্ব বা ইমেজ (Image) এবং $x$ কে $y$ এর প্রাক প্রতিবিম্ব (Preimage) বলা হয় এবং $y = f(x)$ লিখে তা প্রকাশ করা হয়।",
+      "image": null,
+      "formulas": [
+        "f : X \\to Y",
+        "x \\in X",
+        "y \\in Y",
+        "y",
+        "x",
+        "x",
+        "y",
+        "y = f(x)"
+      ],
+      "pdfPageStart": 28,
+      "pdfPageEnd": 28,
+      "printedPageStart": 23,
+      "printedPageEnd": 23,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.28-p007",
+      "kind": "definition",
+      "section": null,
+      "caption": null,
+      "body": "**সংজ্ঞা ৮ (রেঞ্জ):** $f : X \\to Y$ ফাংশনের অধীনে $Y$ এর যে সকল উপাদান $X$ এর কোনো উপাদানের ইমেজ হয়, এদের সেটকে $f$ ফাংশনের রেঞ্জ (Range) বলা হয় এবং 'রেঞ্জ $f$' দ্বারা প্রকাশ করা হয়। অর্থাৎ রেঞ্জ $f = \\{y : y = f(x)  যেখানে  x \\in X\\} = \\{f(x) : x \\in X\\}$। লক্ষণীয় যে রেঞ্জ $f$ কোডোমেন $Y$ এর উপসেট।",
+      "image": null,
+      "formulas": [
+        "f : X \\to Y",
+        "Y",
+        "X",
+        "f",
+        "f",
+        "f = \\{y : y = f(x)  যেখানে  x \\in X\\} = \\{f(x) : x \\in X\\}",
+        "f",
+        "Y"
+      ],
+      "pdfPageStart": 28,
+      "pdfPageEnd": 28,
+      "printedPageStart": 23,
+      "printedPageEnd": 23,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.28-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ফাংশনকে বিভিন্নভাবে বর্ণনা করা যায়। নিচের উদাহরণগুলো লক্ষ্য করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 28,
+      "pdfPageEnd": 28,
+      "printedPageStart": 23,
+      "printedPageEnd": 23,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.28-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২১.** $f : x \\to 2x + 1, x \\in Z$; পূর্ণ সংখ্যার সেট $Z$ হতে $Z$ এ একটি ফাংশন বর্ণনা করে। এই ফাংশনের অধীনে পূর্ণসংখ্যা $x$ এর প্রতিবিষ্টি $y = f(x) = 2x + 1$; ফাংশনটির ডোমেন, ডোম $f = Z$ এবং ফাংশনটির রেঞ্জ, রেঞ্জ $f = \\{y : y = 2x + 1, x \\in Z\\}$ সকল বিজোড় পূর্ণসংখ্যার সেট।",
+      "image": null,
+      "formulas": [
+        "f : x \\to 2x + 1, x \\in Z",
+        "Z",
+        "Z",
+        "x",
+        "y = f(x) = 2x + 1",
+        "f = Z",
+        "f = \\{y : y = 2x + 1, x \\in Z\\}"
+      ],
+      "pdfPageStart": 29,
+      "pdfPageEnd": 29,
+      "printedPageStart": 24,
+      "printedPageEnd": 24,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.28-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২২.** ক্রমজোড়ের সেট $F = \\{(0,0), (1,1), (-1,1), (2,4), (-2,4), (3,9), (-3,9)\\}$ একটি ফাংশন বর্ণনা করে, যার ডোমেন হলো $F$ এর অন্তর্ভুক্ত ক্রমজোড়গুলোর প্রথম অংশকগুলোর সেট এবং রেঞ্জ হলো $F$ এর অন্তর্ভুক্ত ক্রমজোড়গুলোর দ্বিতীয় অংশকগুলোর সেট।",
+      "image": null,
+      "formulas": [
+        "F = \\{(0,0), (1,1), (-1,1), (2,4), (-2,4), (3,9), (-3,9)\\}",
+        "F",
+        "F"
+      ],
+      "pdfPageStart": 29,
+      "pdfPageEnd": 29,
+      "printedPageStart": 24,
+      "printedPageEnd": 24,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.28-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ ডোম $F = \\{0, 1, -1, 2, -2, 3, -3\\}$ এবং রেঞ্জ $F = \\{0, 1, 4, 9\\}$",
+      "image": null,
+      "formulas": [
+        "F = \\{0, 1, -1, 2, -2, 3, -3\\}",
+        "F = \\{0, 1, 4, 9\\}"
+      ],
+      "pdfPageStart": 29,
+      "pdfPageEnd": 29,
+      "printedPageStart": 24,
+      "printedPageEnd": 24,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.28-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "একটু লক্ষ্য করলে এক্ষেত্রে দেখা যাবে যে $F$ এর অধীনে $x \\in$ ডোম $F$ এর প্রতিবিষ্টি $F(x) = x^2$। উল্লেখ্য যে, একটি ক্রমজোড়ের সেট কেবল তখনই একটি ফাংশন বর্ণনা করে যখন ভিন্ন ভিন্ন ক্রমজোড়ের প্রথম অংশক ভিন্ন হয়।",
+      "image": null,
+      "formulas": [
+        "F",
+        "x \\in",
+        "F",
+        "F(x) = x^2"
+      ],
+      "pdfPageStart": 29,
+      "pdfPageEnd": 29,
+      "printedPageStart": 24,
+      "printedPageEnd": 24,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.28-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৩.** নিচে বর্ণিত ফাংশন $F$ এর ডোমেনকে $A$ ও রেঞ্জকে $B$ ধরে ফাংশনটিকে চিত্র দ্বারা বর্ণনা করা যায়, যেখানে $A$ এর প্রত্যেক বিন্দু থেকে একটি ও কেবল একটি তীর চিহ্নিত রেখা আরম্ভ হয়ে $B$ সেটের একটি ও কেবল একটি বিন্দুতে শেষ হয়েছে (বামের চিত্র)। উল্লেখ্য যে, ফাংশনের কোডোমেন হিসেবে একটি সেট $Y$ (যার উপসেট $B$) নিয়েও ফাংশনটিকে চিত্রিত করা যায় (ডানের চিত্র)।",
+      "image": null,
+      "formulas": [
+        "F",
+        "A",
+        "B",
+        "A",
+        "B",
+        "Y",
+        "B"
+      ],
+      "pdfPageStart": 29,
+      "pdfPageEnd": 29,
+      "printedPageStart": 24,
+      "printedPageEnd": 24,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.28-p014",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: mathematical function diagrams showing mappings between sets A and B, and A and Y",
+      "image": "p29-page_24_image_7_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 29,
+      "pdfPageEnd": 29,
+      "printedPageStart": 24,
+      "printedPageEnd": 24,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

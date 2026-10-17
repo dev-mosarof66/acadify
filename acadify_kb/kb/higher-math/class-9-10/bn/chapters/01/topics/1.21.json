@@ -1,0 +1,424 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.21",
+  "key": "1.21",
+  "title": "সমতুল সেট (Equivalent Set)",
+  "chapter": 1,
+  "ordinal": 21,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.21-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধরি, $A = \\{1, 2, 3\\}$ এবং $B = \\{a, b, c\\}$ দুটি সেট। নিচের চিত্রে $A$ ও $B$ সেটদ্বয়ের মধ্যে একটি এক-এক মিল স্থাপন করে দেখানো হলো:",
+      "image": null,
+      "formulas": [
+        "A = \\{1, 2, 3\\}",
+        "B = \\{a, b, c\\}",
+        "A",
+        "B"
+      ],
+      "pdfPageStart": 16,
+      "pdfPageEnd": 16,
+      "printedPageStart": 11,
+      "printedPageEnd": 11,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.21-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "```mermaid\nflowchart LR\n    subgraph A\n        A1[\"1\"]\n        A2[\"2\"]\n        A3[\"3\"]\n    end\n    subgraph B\n        B1[\"a\"]\n        B2[\"b\"]\n        B3[\"c\"]\n    end\n    A1 --> B1\n    A2 --> B2\n    A3 --> B3\n```",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 16,
+      "pdfPageEnd": 16,
+      "printedPageStart": 11,
+      "printedPageEnd": 11,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.21-p003",
+      "kind": "definition",
+      "section": null,
+      "caption": null,
+      "body": "**সংজ্ঞা ২ (সমতুল সেট):** যেকোনো সেট $A$ ও $B$ এর মধ্যে যদি একটি এক-এক মিল $A \\leftrightarrow B$ বর্ণনা করা যায়, তবে $A$ ও $B$ কে সমতুল সেট বলা হয়। $A$ ও $B$ কে সমতুল বোঝাতে $A \\sim B$ লেখা হয়। $A \\sim B$ হলে, এদের যেকোনো একটিকে অপরটির সাথে সমতুল বলা হয়। লক্ষণীয় যে, যেকোনো সেট $A, B$ ও $C$ এর জন্য",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "A \\leftrightarrow B",
+        "A",
+        "B",
+        "A",
+        "B",
+        "A \\sim B",
+        "A \\sim B",
+        "A, B",
+        "C"
+      ],
+      "pdfPageStart": 16,
+      "pdfPageEnd": 16,
+      "printedPageStart": 11,
+      "printedPageEnd": 11,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.21-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $A \\sim A$",
+      "image": null,
+      "formulas": [
+        "A \\sim A"
+      ],
+      "pdfPageStart": 16,
+      "pdfPageEnd": 16,
+      "printedPageStart": 11,
+      "printedPageEnd": 11,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.21-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $A \\sim B$ হলে $B \\sim A$",
+      "image": null,
+      "formulas": [
+        "A \\sim B",
+        "B \\sim A"
+      ],
+      "pdfPageStart": 16,
+      "pdfPageEnd": 16,
+      "printedPageStart": 11,
+      "printedPageEnd": 11,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.21-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $A \\sim B$ এবং $B \\sim C$ হলে $A \\sim C$।",
+      "image": null,
+      "formulas": [
+        "A \\sim B",
+        "B \\sim C",
+        "A \\sim C"
+      ],
+      "pdfPageStart": 16,
+      "pdfPageEnd": 16,
+      "printedPageStart": 11,
+      "printedPageEnd": 11,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.21-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৩.** দেখাও যে, $A = \\{1, 2, 3, \\dots, n\\}$ এবং $B = \\{1, 3, 5, \\dots, 2n - 1\\}$ সেটদ্বয় সমতুল, যেখানে $n$ একটি স্বাভাবিক সংখ্যা।",
+      "image": null,
+      "formulas": [
+        "A = \\{1, 2, 3, \\dots, n\\}",
+        "B = \\{1, 3, 5, \\dots, 2n - 1\\}",
+        "n"
+      ],
+      "pdfPageStart": 16,
+      "pdfPageEnd": 16,
+      "printedPageStart": 11,
+      "printedPageEnd": 11,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.21-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $A$ ও $B$ সমতুল, কারণ সেট দুটির মধ্যে নিচের মতো একটি এক-এক মিল রয়েছে।",
+      "image": null,
+      "formulas": [
+        "A",
+        "B"
+      ],
+      "pdfPageStart": 16,
+      "pdfPageEnd": 16,
+      "printedPageStart": 11,
+      "printedPageEnd": 11,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.21-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "```mermaid\nflowchart LR\n    subgraph A\n        A1[\"1\"]\n        A2[\"2\"]\n        A3[\"3\"]\n        A4[\"...\"]\n        A5[\"n\"]\n    end\n    subgraph B\n        B1[\"1\"]\n        B2[\"3\"]\n        B3[\"5\"]\n        B4[\"...\"]\n        B5[\"2n - 1\"]\n    end\n    A1 --> B1\n    A2 --> B2\n    A3 --> B3\n    A4 --> B4\n    A5 --> B5\n```",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 16,
+      "pdfPageEnd": 16,
+      "printedPageStart": 11,
+      "printedPageEnd": 11,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.21-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:** আগের পৃষ্ঠায় চিত্রিত এক-এক মিলটিকে $A \\leftrightarrow B : k \\leftrightarrow 2k - 1, k \\in A$ দ্বারা বর্ণনা করা যায়।",
+      "image": null,
+      "formulas": [
+        "A \\leftrightarrow B : k \\leftrightarrow 2k - 1, k \\in A"
+      ],
+      "pdfPageStart": 17,
+      "pdfPageEnd": 17,
+      "printedPageStart": 12,
+      "printedPageEnd": 12,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.21-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৪.** দেখাও যে, স্বাভাবিক সংখ্যার সেট $N$ এবং জোড় সংখ্যার সেট $A = \\{2, 4, 6, \\dots, 2n, \\dots\\}$ সমতুল।",
+      "image": null,
+      "formulas": [
+        "N",
+        "A = \\{2, 4, 6, \\dots, 2n, \\dots\\}"
+      ],
+      "pdfPageStart": 17,
+      "pdfPageEnd": 17,
+      "printedPageStart": 12,
+      "printedPageEnd": 12,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.21-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $N = \\{1, 2, 3, \\dots, n, \\dots\\}$ ও $A$ সমতুল সেট, কারণ $N$ এবং $A$ এর মধ্যে নিচের চিত্রের মতো একটি এক-এক মিল রয়েছে।",
+      "image": null,
+      "formulas": [
+        "N = \\{1, 2, 3, \\dots, n, \\dots\\}",
+        "A",
+        "N",
+        "A"
+      ],
+      "pdfPageStart": 17,
+      "pdfPageEnd": 17,
+      "printedPageStart": 12,
+      "printedPageEnd": 12,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.21-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "```mermaid\nflowchart LR\n    subgraph N\n    1\n    2\n    3\n    ...\n    n\n    ...\n    end\n    subgraph A\n    2\n    4\n    6\n    ...\n    2n\n    ...\n    end\n    1 --> 2\n    2 --> 4\n    3 --> 6\n    ... --> ...\n    n --> 2n\n    ... --> ...\n```",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 17,
+      "pdfPageEnd": 17,
+      "printedPageStart": 12,
+      "printedPageEnd": 12,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.21-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:** উপরে চিত্রিত এক-এক মিলটিকে $N \\leftrightarrow A : n \\leftrightarrow 2n, n \\in N$ দ্বারা বর্ণনা করা যায়।",
+      "image": null,
+      "formulas": [
+        "N \\leftrightarrow A : n \\leftrightarrow 2n, n \\in N"
+      ],
+      "pdfPageStart": 17,
+      "pdfPageEnd": 17,
+      "printedPageStart": 12,
+      "printedPageEnd": 12,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.21-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**দ্রষ্টব্য:** ফাঁকা সেট $\\emptyset$ কে নিজের সমতুল ধরা হয়। অর্থাৎ, $\\emptyset \\sim \\emptyset$।",
+      "image": null,
+      "formulas": [
+        "\\emptyset",
+        "\\emptyset \\sim \\emptyset"
+      ],
+      "pdfPageStart": 17,
+      "pdfPageEnd": 17,
+      "printedPageStart": 12,
+      "printedPageEnd": 12,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.21-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রতিজ্ঞা ৪.** প্রত্যেক সেট $A$ তার নিজের সমতুল। অর্থাৎ, $A \\sim A$।",
+      "image": null,
+      "formulas": [
+        "A",
+        "A \\sim A"
+      ],
+      "pdfPageStart": 17,
+      "pdfPageEnd": 17,
+      "printedPageStart": 12,
+      "printedPageEnd": 12,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.21-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:** $A = \\emptyset$ হলে, $A \\sim A$ ধরা হয়। আর $A \\neq \\emptyset$ হলে প্রত্যেক সদস্য $x$ এর সঙ্গে তার নিজেকে মিল করে এক-এক মিল $A \\leftrightarrow A : x \\leftrightarrow x, x \\in A$ স্থাপিত হয়। সুতরাং $A \\sim A$।",
+      "image": null,
+      "formulas": [
+        "A = \\emptyset",
+        "A \\sim A",
+        "A \\neq \\emptyset",
+        "x",
+        "A \\leftrightarrow A : x \\leftrightarrow x, x \\in A",
+        "A \\sim A"
+      ],
+      "pdfPageStart": 17,
+      "pdfPageEnd": 17,
+      "printedPageStart": 12,
+      "printedPageEnd": 12,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.21-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "```mermaid\nflowchart LR\n    subgraph A1 [\"A\"]\n    a\n    b\n    c\n    end\n    subgraph A2 [\"A\"]\n    a\n    b\n    c\n    end\n    a --> a\n    b --> b\n    c --> c\n```",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 17,
+      "pdfPageEnd": 17,
+      "printedPageStart": 12,
+      "printedPageEnd": 12,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.21-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রতিজ্ঞা ৫.** $A$ ও $B$ সমতুল সেট এবং $B$ ও $C$ সমতুল সেট হলে $A$ ও $C$ সমতুল সেট।",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "B",
+        "C",
+        "A",
+        "C"
+      ],
+      "pdfPageStart": 17,
+      "pdfPageEnd": 17,
+      "printedPageStart": 12,
+      "printedPageEnd": 12,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.21-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:** যেহেতু $A \\sim B$, সুতরাং $A$ এর প্রত্যেক সদস্য $x$ এর সঙ্গে $B$ এর একটি অনন্য সদস্য $y$ এর মিল করা যায়। আবার যেহেতু $B \\sim C$, সুতরাং $B$ এর এই সদস্য $y$ এর সঙ্গে $C$ এর একটি অনন্য সদস্য $z$ এর মিল করা যায়। এখন $A$ এর সদস্য $x$ এর সঙ্গে $C$ এর সদস্য $z$ এর মিল করা হলে, $A$ ও $C$ সেটের মধ্যে একটি এক-এক মিল স্থাপিত হয়। অর্থাৎ, $A \\sim C$ হয়।",
+      "image": null,
+      "formulas": [
+        "A \\sim B",
+        "A",
+        "x",
+        "B",
+        "y",
+        "B \\sim C",
+        "B",
+        "y",
+        "C",
+        "z",
+        "A",
+        "x",
+        "C",
+        "z",
+        "A",
+        "C",
+        "A \\sim C"
+      ],
+      "pdfPageStart": 17,
+      "pdfPageEnd": 17,
+      "printedPageStart": 12,
+      "printedPageEnd": 12,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

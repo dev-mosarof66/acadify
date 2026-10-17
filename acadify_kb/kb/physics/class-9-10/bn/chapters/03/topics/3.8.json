@@ -1,0 +1,594 @@
+{
+  "id": "physics-9-10-bn-c03-t3.8",
+  "key": "3.8",
+  "title": "নিউটনের তৃতীয় গতি সূত্র (Newton’s Third Law of Motion)",
+  "chapter": 3,
+  "ordinal": 8,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কোনো বল প্রয়োগ না করলে কী হয় সেটি আমরা জানতে পেরেছি নিউটনের প্রথম সূত্র থেকে। বল প্রয়োগ করলে কী হয় সেটা আমরা জেনেছি নিউটনের দ্বিতীয় সূত্র থেকে। যখন একটি বস্তু অন্য বস্তুর ওপর বল প্রয়োগ করে তখন বস্তু দুটির মাঝে কী ধরনের প্রতিক্রিয়া হয়, সেটি আমরা জানতে পারব নিউটনের তৃতীয় সূত্র থেকে। সূত্রটি এ রকম:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 89,
+      "pdfPageEnd": 89,
+      "printedPageStart": 84,
+      "printedPageEnd": 84,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "> **নিউটনের তৃতীয় সূত্র:** যখন একটি বস্তু অন্য একটি বস্তুর ওপর বল প্রয়োগ করে তখন সেই বস্তুটিও প্রথম বস্তুটির ওপর বিপরীত দিকে সমান বল প্রয়োগ করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 89,
+      "pdfPageEnd": 89,
+      "printedPageStart": 84,
+      "printedPageEnd": 84,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "পদার্থবিজ্ঞানের বইয়ে সাধারণত যেভাবে নিউটনের তৃতীয় সূত্র লেখা হয়, ‘প্রত্যেকটি ক্রিয়ার (Action) একটা সমান এবং বিপরীত প্রতিক্রিয়া (Reaction) থাকে’, আমরা এখানে সেভাবে লিখিনি। আমাদের এতক্ষণে যেহেতু বল সম্পর্কে খানিকটা ধারণা হয়েছে হঠাৎ করে বলকে ‘ক্রিয়া’ কিংবা ‘প্রতিক্রিয়া’ বললে বিভ্রান্তি হতে পারে। তার চেয়ে বড় কথা, যারা নতুন পদার্থবিজ্ঞান শেখে তাদের প্রথম প্রশ্নই হয় যে যদি সকল ক্রিয়ার (কোনো একটি বল) একটি বিপরীত প্রতিক্রিয়া (আরেকটি বল) থাকে তাহলে ক্রিয়া-প্রতিক্রিয়া একে অপরকে কাটাকাটি করে শূন্য হয়ে যায় না কেন। এ জন্য তৃতীয় সূত্রটিতে খুব স্পষ্ট করে লিখে দেওয়া দরকার, তৃতীয় সূত্র বলছে যে যদি দুটি বস্তু A এবং B থাকে তাহলে A যখন B বলের ওপর বল প্রয়োগ করে তখন B বল প্রয়োগ করে A এর ওপর। বিপরীত দুটি বল ভিন্ন ভিন্ন বস্তুতে কাজ করে, কখনোই এক বস্তুতে নয়। যদি একই বস্তুতে দুটি বল প্রয়োগ করা হতো, শুধু তাহলেই একে অন্যকে কাটাকাটি করতে পারত। এখানে কাটাকাটির কোনো সুযোগ নেই।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 89,
+      "pdfPageEnd": 90,
+      "printedPageStart": 84,
+      "printedPageEnd": 85,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কয়েকটা উদাহরণ দিলে বিষয়টা পরিষ্কার হবে। ধরা যাক ওপর থেকে আমরা $m$ ভরের একটা বস্তু (আপেল) ছেড়ে দিয়েছি (চিত্র ৩.১২)। আমরা জানি পৃথিবীর মাধ্যাকর্ষণ বলের জন্য $m$ ভর পৃথিবীর দিকে একটা বল $F$ অনুভব করবে:",
+      "image": null,
+      "formulas": [
+        "m",
+        "m",
+        "F"
+      ],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p005",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$F = G \\frac{mM}{R^2}$$",
+      "image": null,
+      "formulas": [
+        "F = G \\frac{mM}{R^2}"
+      ],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা আগেই দেখেছি এই বলটাকে $mg$ হিসেবে লেখা যায়।",
+      "image": null,
+      "formulas": [
+        "mg"
+      ],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p007",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: diagram showing an apple falling towards Earth with force vectors F",
+      "image": "p90-page_24_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p008",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "**চিত্র ৩.১২: একটি ভরকে পৃথিবী যেমন আকর্ষণ করে, ভরটি পৃথিবীকেও সেভাবে আকর্ষণ করে।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "নিউটনের তৃতীয় সূত্র শেখার পর আমরা জানি, $m$ ভরটিও বিশাল পুরো পৃথিবীটাকে নিজের দিকে আকর্ষণ করছে! সেই বলটিও $F$ শুধু বিপরীত দিকে। আমরা এই বলটিকে নিয়ে মাথা ঘামাই না, তার কারণ এই বলটার কারণে পৃথিবীর কতটুকু ত্বরণ $a$ হচ্ছে সেটা ইচ্ছা করলে বের করতে পারি:",
+      "image": null,
+      "formulas": [
+        "m",
+        "F",
+        "a"
+      ],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p010",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$F = Ma$$",
+      "image": null,
+      "formulas": [
+        "F = Ma"
+      ],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে $M$ হচ্ছে পৃথিবীর ভর এবং $a$ হচ্ছে পৃথিবীর ত্বরণ",
+      "image": null,
+      "formulas": [
+        "M",
+        "a"
+      ],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কাজেই",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p013",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$a = \\frac{F}{M} = \\frac{mg}{M} = \\left( \\frac{m}{M} \\right) g$$",
+      "image": null,
+      "formulas": [
+        "a = \\frac{F}{M} = \\frac{mg}{M} = \\left( \\frac{m}{M} \\right) g"
+      ],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যদি পৃথিবীর ভর $M = 5.98 \\times 10^{24}  kg$ হয় তাহলে আমরা যদি $1  kg$ ভরের একটা বস্তুর উপর থেকে ছেড়ে দিই তার জন্য পৃথিবীর ত্বরণ হবে—",
+      "image": null,
+      "formulas": [
+        "M = 5.98 \\times 10^{24}  kg",
+        "1  kg"
+      ],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p015",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$a = 1.6 \\times 10^{-24}  m/s^2$$",
+      "image": null,
+      "formulas": [
+        "a = 1.6 \\times 10^{-24}  m/s^2"
+      ],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এটি এত স্কুড় যে কেউ এটা নিয়ে মাথা ঘামায় না। তুমি যখন পরেরবার কোনো জায়গায় লাফ দেবে তখন মনে রেখ নিচে পড়ার সময় পুরো পৃথিবীকে তুমি আকর্ষণ করে নিজের দিকে টেনে নিয়েছিলে (যত কমই হোক তুমি সারা পৃথিবীকে নিজের দিকে টেনেছিলে, সেটা নিয়ে একটু গর্ব করতে পারো।)",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 91,
+      "pdfPageEnd": 91,
+      "printedPageStart": 86,
+      "printedPageEnd": 86,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "নিউটনের তৃতীয় সূত্র বোঝার সবচেয়ে সহজ উপায় হচ্ছে আমরা কীভাবে হাঁটি সেটা বোঝা। আমরা সবাই হাঁটতে পারি এর পেছনে কী পদার্থবিজ্ঞান আছে সেটা না জেনেই সবাই হাঁটে। কিন্তু তোমরা যেহেতু পদার্থবিজ্ঞান শিখতে শুরু করেছ তোমাদের খুব সহজ একটা প্রশ্ন করা যায়। তুমি যেহেতু স্থির অবস্থা থেকে হাঁটতে পারো, কাজেই আসলে তোমার একটি তুরণ হচ্ছে, যার অর্থ তোমার উপর বল প্রয়োগ করা হচ্ছে। কিন্তু আমরা সবাই জানি কেউ আমাদের উপর বল প্রয়োগ করে না। আমরা নিজেরাই হাঁটি। কেমন করে সেটা সম্ভব?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 91,
+      "pdfPageEnd": 91,
+      "printedPageStart": 86,
+      "printedPageEnd": 86,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "নিউটনের তৃতীয় সূত্র না জানা থাকলে আমরা কখনোই হাঁটার বিষয়টা ব্যাখ্যা করতে পারতাম না। আমরা যখন হাঁটি তখন আমরা পা দিয়ে মাটিতে ধাক্কা দিই (অর্থাৎ বল প্রয়োগ করি) তখন মাটিটা নিউটনের তৃতীয় সূত্র অনুযায়ী আমাদের শরীরে সমান এবং বিপরীত বল প্রয়োগ করে (চিত্র ৩.১২)। এই সমান এবং বিপরীত বলটা দিয়েই আমাদের তুরণ হয়, আমরা হাঁটি!",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 91,
+      "pdfPageEnd": 91,
+      "printedPageStart": 86,
+      "printedPageEnd": 86,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p019",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "**চিত্র ৩.১২: একজন মানুষ হাঁটার সময় পা দিয়ে যখন মাটিকে ধাক্কা দেয় তখন মাটিও মানুষটিকে পাল্টা ধাক্কা দেয়।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 91,
+      "pdfPageEnd": 91,
+      "printedPageStart": 86,
+      "printedPageEnd": 86,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বিষয়টা যাদের বুঝতে একটু সমস্যা হচ্ছে তাদেরকে মনে করিয়ে দেওয়া যায়, শক্ত্য মাটিতে হাঁটা সোজা; কিন্তু ঝুরঝুরে বালুর উপর হাঁটা সোজা না। তার কারণ বালুর ওপর ভালোভাবে বল প্রয়োগ করা যায় না, বালু সরে যায়। তাই নিউটনের তৃতীয় সূত্রের পাল্টা বলটাও পুরোপুরি পাওয়া যায় না। ব্যাপারটা আরো অনেক স্পষ্ট করে দেওয়া যায় যদি কাউকে অসম্ভব মসৃণ একটা মেঝেতে সাবান পানি কিংবা তেল দিয়ে পিছিল করে হাঁটতে দেওয়া হয়। সেখানে ঘর্ষণ খুব কম, তাই আমরা পেছনে বল প্রয়োগ করতেই পারব না সে জন্য তার প্রতিক্রিয়া হিসেবে আমাদের ওপর কোনো বলও পাব না, তাই হাঁটতেও পারব না (বিশ্বাস না হলে চেষ্টা করে দেখতে পারো)। বল প্রয়োগ করলে বিপরীত এবং সমান বল পাওয়া যায়, যদি প্রয়োগ করতেই না পারি তাহলে তার প্রতিক্রিয়া বল পাব কেমন করে? আর হাঁটব কেমন করে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 91,
+      "pdfPageEnd": 91,
+      "printedPageStart": 86,
+      "printedPageEnd": 86,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p021",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** (a) ধরা যাক তুমি সম্পূর্ণ ঘর্ষণহীন একটা সমতলে দাঁড়িয়ে আছ। তোমার ওজন 50 kg এবং তোমার সামনে একটা 100 kg ভরের পাথর। তুমি ঠিক করলে তুমি পাথরটাকে খুব দ্রুত 50 N বল দিয়ে ধাক্কা দিয়ে এক মাথা থেকে অন্য মাথায় নিয়ে যাবে। 10 s পরে পাথরটার বেগ কত হবে? (চিত্র 3.14)",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 92,
+      "pdfPageEnd": 92,
+      "printedPageStart": 87,
+      "printedPageEnd": 87,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p022",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "drawing: A person pushing a large boulder labeled 100 kg, with the person labeled 50 kg.",
+      "image": "p92-page_26_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 92,
+      "pdfPageEnd": 92,
+      "printedPageStart": 87,
+      "printedPageEnd": 87,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p023",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**চিত্র ৩.১৪: একজন মানুষ যখন একটা পাথরকে ধাক্কা দেয়, তখন পাথরটিও মানুষটিকে পাল্টা ধাক্কা দেয়।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 92,
+      "pdfPageEnd": 92,
+      "printedPageStart": 87,
+      "printedPageEnd": 87,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p024",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** তুমি যখন পাথরটাকে 50 N বল দিয়ে ধাক্কা দেবে পাথরটাও কিন্তু নিউটনের তৃতীয় সূত্র অনুযায়ী তোমাকে 50 N বল দিয়ে ধাক্কা দেবে। পাথরটার ত্বরণ হবে ডান দিকে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 92,
+      "pdfPageEnd": 92,
+      "printedPageStart": 87,
+      "printedPageEnd": 87,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p025",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$a = \\frac{F}{m} = \\frac{50}{100}  m/s^2 = 0.5  m/s^2$$",
+      "image": null,
+      "formulas": [
+        "a = \\frac{F}{m} = \\frac{50}{100}  m/s^2 = 0.5  m/s^2"
+      ],
+      "pdfPageStart": 92,
+      "pdfPageEnd": 92,
+      "printedPageStart": 87,
+      "printedPageEnd": 87,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p026",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "ঠিক সে রকম তোমারও ত্বরণ হবে কিন্তু বাম দিকে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 92,
+      "pdfPageEnd": 92,
+      "printedPageStart": 87,
+      "printedPageEnd": 87,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p027",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$a = \\frac{F}{m} = \\frac{50}{50}  m/s^2 = 1  m/s^2$$",
+      "image": null,
+      "formulas": [
+        "a = \\frac{F}{m} = \\frac{50}{50}  m/s^2 = 1  m/s^2"
+      ],
+      "pdfPageStart": 92,
+      "pdfPageEnd": 92,
+      "printedPageStart": 87,
+      "printedPageEnd": 87,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p028",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই তুমি এবং পাথর দুটি দুদিকে সেরে যাবে। পাথরটাকে ধাক্কা দিয়ে এক মাথা থেকে অন্য মাথায় তুমি নিয়ে যেতে পারবে না। কারণ পাথর আর তোমার ভেতর একটা দূরত্ব তৈরি হয়ে যাবে। কাজেই টানা 10s পাথরটাকে ধাক্কা দেওয়া সম্ভব না। তবে পাথরটা নড়তে শুরু করার পর ঘর্ষণহীন সমতলে নিজেই সেরে অন্য প্রান্তে পৌঁছে যাবে, তুমিও সেরকম উল্টো দিকে পৌঁছাবে, আরো আগে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 92,
+      "pdfPageEnd": 92,
+      "printedPageStart": 87,
+      "printedPageEnd": 87,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p029",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** (b) ধরা যাক তুমি 2s পাথরটাকে ধাক্কা দিতে পেরেছ তখন কী হবে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 93,
+      "pdfPageEnd": 93,
+      "printedPageStart": 88,
+      "printedPageEnd": 88,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p030",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** 2 s এ পাথরটার বেগ বেড়ে হবে:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 93,
+      "pdfPageEnd": 93,
+      "printedPageStart": 88,
+      "printedPageEnd": 88,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p031",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$v = u + at = 0 + 0.5 \\times 2  m/s = 1  m/s$$",
+      "image": null,
+      "formulas": [
+        "v = u + at = 0 + 0.5 \\times 2  m/s = 1  m/s"
+      ],
+      "pdfPageStart": 93,
+      "pdfPageEnd": 93,
+      "printedPageStart": 88,
+      "printedPageEnd": 88,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p032",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "এরপর পাথরটা 1 m/s সমবেগে যেতে থাকবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 93,
+      "pdfPageEnd": 93,
+      "printedPageStart": 88,
+      "printedPageEnd": 88,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p033",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "2 s এ তোমার বেগ হবে:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 93,
+      "pdfPageEnd": 93,
+      "printedPageStart": 88,
+      "printedPageEnd": 88,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p034",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$u + at = 0 + 1 \\times 2  m/s = 2  m/s$$",
+      "image": null,
+      "formulas": [
+        "u + at = 0 + 1 \\times 2  m/s = 2  m/s"
+      ],
+      "pdfPageStart": 93,
+      "pdfPageEnd": 93,
+      "printedPageStart": 88,
+      "printedPageEnd": 88,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.8-p035",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "এরপর তুমি 2 m/s সমবেগে পেছনে সরে যেতে থাকবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 93,
+      "pdfPageEnd": 93,
+      "printedPageStart": 88,
+      "printedPageEnd": 88,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,2016 @@
+{
+  "id": "higher-math-9-10-bn-c02-t2.15",
+  "key": "2.15",
+  "title": "আংশিক ভগ্নাংশ (Partial Fractions)",
+  "chapter": 2,
+  "ordinal": 15,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যদি কোনো ভগ্নাংশকে একাধিক ভগ্নাংশের যোগফল রূপে প্রকাশ করা হয়, তবে শেয়োক্ত ভগ্নাংশগুলোর প্রতিেকটিকে প্রথমোক্ত ভগ্নাংশের আংশিক ভগ্নাংশ বলা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 60,
+      "pdfPageEnd": 60,
+      "printedPageStart": 55,
+      "printedPageEnd": 55,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যেমন, একটি ভগ্নাংশ $\\frac{3x - 8}{x^2 - 5x + 6}$ কে লেখা যায়:",
+      "image": null,
+      "formulas": [
+        "\\frac{3x - 8}{x^2 - 5x + 6}"
+      ],
+      "pdfPageStart": 60,
+      "pdfPageEnd": 60,
+      "printedPageStart": 55,
+      "printedPageEnd": 55,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p003",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{3x - 8}{x^2 - 5x + 6} = \\frac{2(x - 3) + (x - 2)}{(x - 3)(x - 2)} = \\frac{2}{x - 2} + \\frac{1}{x - 3}$$",
+      "image": null,
+      "formulas": [
+        "\\frac{3x - 8}{x^2 - 5x + 6} = \\frac{2(x - 3) + (x - 2)}{(x - 3)(x - 2)} = \\frac{2}{x - 2} + \\frac{1}{x - 3}"
+      ],
+      "pdfPageStart": 60,
+      "pdfPageEnd": 60,
+      "printedPageStart": 55,
+      "printedPageEnd": 55,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে প্রদত্ত ভগ্নাংশটিকে দুটি ভগ্নাংশের যোগফল রূপে প্রকাশ করা হয়েছে। অর্থাৎ, ভগ্নাংশটিকে দুটি আংশিক ভগ্নাংশে বিভক্ত করা হয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 60,
+      "pdfPageEnd": 60,
+      "printedPageStart": 55,
+      "printedPageEnd": 55,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যদি $N(x)$ ও $D(x)$ উভয়ই $x$ চলকের বহুপদী এবং লব $N(x)$ এর মাত্রা হর $D(x)$ এর মাত্রা অপেক্ষা ছোট হয়, তাহলে ভগ্নাংশটি প্রকৃত ভগ্নাংশ (**proper fraction**) বলা হয়। লব $N(x)$ এর মাত্রা হর $D(x)$ এর মাত্রার সমান অথবা বড়ো হলে ভগ্নাংশটিকে অপ্রকৃত ভগ্নাংশ (**improper fraction**)",
+      "image": null,
+      "formulas": [
+        "N(x)",
+        "D(x)",
+        "x",
+        "N(x)",
+        "D(x)",
+        "N(x)",
+        "D(x)"
+      ],
+      "pdfPageStart": 60,
+      "pdfPageEnd": 60,
+      "printedPageStart": 55,
+      "printedPageEnd": 55,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বলা হয়। যেমন, $\\frac{x^2 + 1}{(x + 1)(x + 2)(x - 3)}$ একটি প্রকৃত ভগ্নাংশ। কিন্তু $\\frac{2x^4}{x + 1}$ ও $\\frac{x^3 + 3x^2 + 2}{x + 2}$ উভয়ই অপ্রকৃত ভগ্নাংশ। উল্লেখ্য যে, অপ্রকৃত ভগ্নাংশের লবকে হর দ্বারা সাধারণ নিয়মে ভাগ করে অথবা লবের পদগুলোকে সুবিধাজনকভাবে পুনর্বিন্যাস করে ভগ্নাংশটিকে একটি বহুপদী (ভাগফল) এবং একটি প্রকৃত ভগ্নাংশের যোগফল রূপে প্রকাশ করা যায়।",
+      "image": null,
+      "formulas": [
+        "\\frac{x^2 + 1}{(x + 1)(x + 2)(x - 3)}",
+        "\\frac{2x^4}{x + 1}",
+        "\\frac{x^3 + 3x^2 + 2}{x + 2}"
+      ],
+      "pdfPageStart": 61,
+      "pdfPageEnd": 61,
+      "printedPageStart": 56,
+      "printedPageEnd": 56,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যেমন, $\\frac{x^3 + 3x^2 + 2}{x + 2} = (x^2 + x - 2) + \\frac{6}{x + 2}$",
+      "image": null,
+      "formulas": [
+        "\\frac{x^3 + 3x^2 + 2}{x + 2} = (x^2 + x - 2) + \\frac{6}{x + 2}"
+      ],
+      "pdfPageStart": 61,
+      "pdfPageEnd": 61,
+      "printedPageStart": 56,
+      "printedPageEnd": 56,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বিভিন্ন ধরনের প্রকৃত মূলদ ভগ্নাংশকে কীভাবে আংশিক ভগ্নাংশে পরিণত করা হয়, তা নিচে বর্ণনা করা হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 61,
+      "pdfPageEnd": 61,
+      "printedPageStart": 56,
+      "printedPageEnd": 56,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) যখন হরে বাস্তব ও একঘাতবিশিষ্ট উৎপাদক থাকে কিন্তু সেগুলোর কোনো পুনরাবৃত্তি হয় না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 61,
+      "pdfPageEnd": 61,
+      "printedPageStart": 56,
+      "printedPageEnd": 56,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) যখন লবের ঘাত হরের ঘাত অপেক্ষা বৃহত্তর বা সমান হয়, তখন লবকে হর দ্বারা ভাগ করে লবের ঘাত হর অপেক্ষা ক্ষুদ্রতর করতে হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 61,
+      "pdfPageEnd": 61,
+      "printedPageStart": 56,
+      "printedPageEnd": 56,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) যখন হরে বাস্তব ও একঘাতবিশিষ্ট উৎপাদক থাকে এবং সেগুলোর কয়েকটির পুনরাবৃত্তি হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 61,
+      "pdfPageEnd": 61,
+      "printedPageStart": 56,
+      "printedPageEnd": 56,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঘ) যখন হরে বাস্তব ও দ্বিঘাতবিশিষ্ট উৎপাদক থাকে কিন্তু কোনো পুনরাবৃত্তি হয় না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 61,
+      "pdfPageEnd": 61,
+      "printedPageStart": 56,
+      "printedPageEnd": 56,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঙ) যখন হরে বাস্তব ও দ্বিঘাতবিশিষ্ট উৎপাদক থাকে এবং সেগুলোর কয়েকটির পুনরাবৃত্তি ঘটে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 61,
+      "pdfPageEnd": 61,
+      "printedPageStart": 56,
+      "printedPageEnd": 56,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**ক) যখন হরে বাস্তব ও একঘাতবিশিষ্ট উৎপাদক থাকে কিন্তু সেগুলোর কোনো পুনরাবৃত্তি হয় না**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 61,
+      "pdfPageEnd": 61,
+      "printedPageStart": 56,
+      "printedPageEnd": 56,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৩.** $\\frac{5x - 7}{(x - 1)(x - 2)}$ কে আংশিক ভগ্নাংশে প্রকাশ করো।",
+      "image": null,
+      "formulas": [
+        "\\frac{5x - 7}{(x - 1)(x - 2)}"
+      ],
+      "pdfPageStart": 61,
+      "pdfPageEnd": 61,
+      "printedPageStart": 56,
+      "printedPageEnd": 56,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** ধরি, $\\frac{5x - 7}{(x - 1)(x - 2)} \\equiv \\frac{A}{x - 1} + \\frac{B}{x - 2}$ (1)",
+      "image": null,
+      "formulas": [
+        "\\frac{5x - 7}{(x - 1)(x - 2)} \\equiv \\frac{A}{x - 1} + \\frac{B}{x - 2}"
+      ],
+      "pdfPageStart": 61,
+      "pdfPageEnd": 61,
+      "printedPageStart": 56,
+      "printedPageEnd": 56,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(1) এর উভয়পক্ষকে $(x - 1)(x - 2)$ দ্বারা গুণ করে পাই,",
+      "image": null,
+      "formulas": [
+        "(x - 1)(x - 2)"
+      ],
+      "pdfPageStart": 61,
+      "pdfPageEnd": 61,
+      "printedPageStart": 56,
+      "printedPageEnd": 56,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$5x - 7 \\equiv A(x - 2) + B(x - 1)$ (2)",
+      "image": null,
+      "formulas": [
+        "5x - 7 \\equiv A(x - 2) + B(x - 1)"
+      ],
+      "pdfPageStart": 61,
+      "pdfPageEnd": 61,
+      "printedPageStart": 56,
+      "printedPageEnd": 56,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যা $x$ এর সকল মানের জন্য সত্য।",
+      "image": null,
+      "formulas": [
+        "x"
+      ],
+      "pdfPageStart": 61,
+      "pdfPageEnd": 61,
+      "printedPageStart": 56,
+      "printedPageEnd": 56,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন (2) এর উভয়পক্ষে $x = 1$ বসিয়ে পাই, $5 - 7 = A(1 - 2) + B(1 - 1)$",
+      "image": null,
+      "formulas": [
+        "x = 1",
+        "5 - 7 = A(1 - 2) + B(1 - 1)"
+      ],
+      "pdfPageStart": 61,
+      "pdfPageEnd": 61,
+      "printedPageStart": 56,
+      "printedPageEnd": 56,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $-2 = -A, \\therefore A = 2$",
+      "image": null,
+      "formulas": [
+        "-2 = -A, \\therefore A = 2"
+      ],
+      "pdfPageStart": 61,
+      "pdfPageEnd": 61,
+      "printedPageStart": 56,
+      "printedPageEnd": 56,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার, (2) এর উভয়পক্ষে $x = 2$ বসিয়ে পাই, $10 - 7 = A(2 - 2) + B(2 - 1)$",
+      "image": null,
+      "formulas": [
+        "x = 2",
+        "10 - 7 = A(2 - 2) + B(2 - 1)"
+      ],
+      "pdfPageStart": 61,
+      "pdfPageEnd": 61,
+      "printedPageStart": 56,
+      "printedPageEnd": 56,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $3 = B, \\therefore B = 3$",
+      "image": null,
+      "formulas": [
+        "3 = B, \\therefore B = 3"
+      ],
+      "pdfPageStart": 61,
+      "pdfPageEnd": 61,
+      "printedPageStart": 56,
+      "printedPageEnd": 56,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন $A$ এবং $B$ এর মান (1) এ বসিয়ে পাই,",
+      "image": null,
+      "formulas": [
+        "A",
+        "B"
+      ],
+      "pdfPageStart": 61,
+      "pdfPageEnd": 61,
+      "printedPageStart": 56,
+      "printedPageEnd": 56,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p025",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{5x - 7}{(x - 1)(x - 2)} \\equiv \\frac{2}{x - 1} + \\frac{3}{x - 2};  প্রদত্ত ভগ্নাংশটি আংশিক ভগ্নাংশে বিভক্ত হলো।$$",
+      "image": null,
+      "formulas": [
+        "\\frac{5x - 7}{(x - 1)(x - 2)} \\equiv \\frac{2}{x - 1} + \\frac{3}{x - 2};  প্রদত্ত ভগ্নাংশটি আংশিক ভগ্নাংশে বিভক্ত হলো।"
+      ],
+      "pdfPageStart": 61,
+      "pdfPageEnd": 61,
+      "printedPageStart": 56,
+      "printedPageEnd": 56,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p026",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:** প্রদত্ত ভগ্নাংশটির আংশিক ভগ্নাংশে প্রকাশ যে যথাযথ হয়েছে তা পরীক্ষা করা যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 61,
+      "pdfPageEnd": 61,
+      "printedPageStart": 56,
+      "printedPageEnd": 56,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p027",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ডানপক্ষ $= \\frac{2}{x-1} + \\frac{3}{x-2} = \\frac{2(x-2) + 3(x-1)}{(x-1)(x-2)} = \\frac{5x-7}{(x-1)(x-2)} =$ বামপক্ষ",
+      "image": null,
+      "formulas": [
+        "= \\frac{2}{x-1} + \\frac{3}{x-2} = \\frac{2(x-2) + 3(x-1)}{(x-1)(x-2)} = \\frac{5x-7}{(x-1)(x-2)} ="
+      ],
+      "pdfPageStart": 62,
+      "pdfPageEnd": 62,
+      "printedPageStart": 57,
+      "printedPageEnd": 57,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p028",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৪.** $\\frac{x+5}{(x-1)(x-2)(x-3)}$ কে আংশিক ভগ্নাংশে প্রকাশ করো।",
+      "image": null,
+      "formulas": [
+        "\\frac{x+5}{(x-1)(x-2)(x-3)}"
+      ],
+      "pdfPageStart": 62,
+      "pdfPageEnd": 62,
+      "printedPageStart": 57,
+      "printedPageEnd": 57,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p029",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** ধরি, $\\frac{x+5}{(x-1)(x-2)(x-3)} \\equiv \\frac{A}{x-1} + \\frac{B}{x-2} + \\frac{C}{x-3}$ (1)",
+      "image": null,
+      "formulas": [
+        "\\frac{x+5}{(x-1)(x-2)(x-3)} \\equiv \\frac{A}{x-1} + \\frac{B}{x-2} + \\frac{C}{x-3}"
+      ],
+      "pdfPageStart": 62,
+      "pdfPageEnd": 62,
+      "printedPageStart": 57,
+      "printedPageEnd": 57,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p030",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(1) এর উভয়পক্ষকে $(x-1)(x-2)(x-3)$ দ্বারা গুণ করে পাই,",
+      "image": null,
+      "formulas": [
+        "(x-1)(x-2)(x-3)"
+      ],
+      "pdfPageStart": 62,
+      "pdfPageEnd": 62,
+      "printedPageStart": 57,
+      "printedPageEnd": 57,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p031",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$x+5 \\equiv A(x-2)(x-3) + B(x-1)(x-3) + C(x-1)(x-2)$ (2)",
+      "image": null,
+      "formulas": [
+        "x+5 \\equiv A(x-2)(x-3) + B(x-1)(x-3) + C(x-1)(x-2)"
+      ],
+      "pdfPageStart": 62,
+      "pdfPageEnd": 62,
+      "printedPageStart": 57,
+      "printedPageEnd": 57,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p032",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(2) এর উভয়পক্ষ $x$ এর সকল মানের জন্য সত্য।",
+      "image": null,
+      "formulas": [
+        "x"
+      ],
+      "pdfPageStart": 62,
+      "pdfPageEnd": 62,
+      "printedPageStart": 57,
+      "printedPageEnd": 57,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p033",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(2) এর উভয়পক্ষে $x=1$ বসিয়ে পাই,",
+      "image": null,
+      "formulas": [
+        "x=1"
+      ],
+      "pdfPageStart": 62,
+      "pdfPageEnd": 62,
+      "printedPageStart": 57,
+      "printedPageEnd": 57,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p034",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$1+5 = A(-1)(-2) \\implies 6 = 2A \\implies A = 3$।",
+      "image": null,
+      "formulas": [
+        "1+5 = A(-1)(-2) \\implies 6 = 2A \\implies A = 3"
+      ],
+      "pdfPageStart": 62,
+      "pdfPageEnd": 62,
+      "printedPageStart": 57,
+      "printedPageEnd": 57,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p035",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার (2) এর উভয়পক্ষে $x=2$ বসিয়ে পাই,",
+      "image": null,
+      "formulas": [
+        "x=2"
+      ],
+      "pdfPageStart": 62,
+      "pdfPageEnd": 62,
+      "printedPageStart": 57,
+      "printedPageEnd": 57,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p036",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$2+5 = B(1)(-1) \\implies 7 = -B, \\therefore B = -7$।",
+      "image": null,
+      "formulas": [
+        "2+5 = B(1)(-1) \\implies 7 = -B, \\therefore B = -7"
+      ],
+      "pdfPageStart": 62,
+      "pdfPageEnd": 62,
+      "printedPageStart": 57,
+      "printedPageEnd": 57,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p037",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এবং (2) এর উভয়পক্ষে $x=3$ বসিয়ে পাই,",
+      "image": null,
+      "formulas": [
+        "x=3"
+      ],
+      "pdfPageStart": 62,
+      "pdfPageEnd": 62,
+      "printedPageStart": 57,
+      "printedPageEnd": 57,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p038",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$3+5 = C(2)(1)$ বা $8 = 2C$ বা $C = 4$।",
+      "image": null,
+      "formulas": [
+        "3+5 = C(2)(1)",
+        "8 = 2C",
+        "C = 4"
+      ],
+      "pdfPageStart": 62,
+      "pdfPageEnd": 62,
+      "printedPageStart": 57,
+      "printedPageEnd": 57,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p039",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন, $A, B$ এবং $C$ এর মান (1) এ বসিয়ে পাই,",
+      "image": null,
+      "formulas": [
+        "A, B",
+        "C"
+      ],
+      "pdfPageStart": 62,
+      "pdfPageEnd": 62,
+      "printedPageStart": 57,
+      "printedPageEnd": 57,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p040",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\frac{x+5}{(x-1)(x-2)(x-3)} \\equiv \\frac{3}{x-1} - \\frac{7}{x-2} + \\frac{4}{x-3}$।",
+      "image": null,
+      "formulas": [
+        "\\frac{x+5}{(x-1)(x-2)(x-3)} \\equiv \\frac{3}{x-1} - \\frac{7}{x-2} + \\frac{4}{x-3}"
+      ],
+      "pdfPageStart": 62,
+      "pdfPageEnd": 62,
+      "printedPageStart": 57,
+      "printedPageEnd": 57,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p041",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**থ)** যখন লবের ঘাত হরের ঘাত অপেক্ষা বৃহত্তর বা সমান হয়, তখন লবকে হর দ্বারা ভাগ করে লবের ঘাত অপেক্ষা কুদ্দতর করতে হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 62,
+      "pdfPageEnd": 62,
+      "printedPageStart": 57,
+      "printedPageEnd": 57,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p042",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৫.** $\\frac{(x-1)(x-5)}{(x-2)(x-4)}$ কে আংশিক ভগ্নাংশে প্রকাশ করো।",
+      "image": null,
+      "formulas": [
+        "\\frac{(x-1)(x-5)}{(x-2)(x-4)}"
+      ],
+      "pdfPageStart": 62,
+      "pdfPageEnd": 62,
+      "printedPageStart": 57,
+      "printedPageEnd": 57,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p043",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** এখানে লবকে হর দ্বারা ভাগ করলে 1 হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 62,
+      "pdfPageEnd": 62,
+      "printedPageStart": 57,
+      "printedPageEnd": 57,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p044",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং ধরি, $\\frac{(x-1)(x-5)}{(x-2)(x-4)} \\equiv 1 + \\frac{A}{x-2} + \\frac{B}{x-4}$ (1)",
+      "image": null,
+      "formulas": [
+        "\\frac{(x-1)(x-5)}{(x-2)(x-4)} \\equiv 1 + \\frac{A}{x-2} + \\frac{B}{x-4}"
+      ],
+      "pdfPageStart": 62,
+      "pdfPageEnd": 62,
+      "printedPageStart": 57,
+      "printedPageEnd": 57,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p045",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(1) এর উভয়পক্ষকে $(x-2)(x-4)$ দ্বারা গুণ করে পাই,",
+      "image": null,
+      "formulas": [
+        "(x-2)(x-4)"
+      ],
+      "pdfPageStart": 62,
+      "pdfPageEnd": 62,
+      "printedPageStart": 57,
+      "printedPageEnd": 57,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p046",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$(x-1)(x-5) \\equiv (x-2)(x-4) + A(x-4) + B(x-2)$ (2)",
+      "image": null,
+      "formulas": [
+        "(x-1)(x-5) \\equiv (x-2)(x-4) + A(x-4) + B(x-2)"
+      ],
+      "pdfPageStart": 62,
+      "pdfPageEnd": 62,
+      "printedPageStart": 57,
+      "printedPageEnd": 57,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p047",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(2) এর উভয়পক্ষে পর্যায়ক্রমে $x=2, 4$ বসিয়ে পাই,",
+      "image": null,
+      "formulas": [
+        "x=2, 4"
+      ],
+      "pdfPageStart": 62,
+      "pdfPageEnd": 62,
+      "printedPageStart": 57,
+      "printedPageEnd": 57,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p048",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$(2-1)(2-5) = A(2-4)$ বা, $A = \\frac{3}{2}$ এবং $(4 - 1)(4 - 5) = B(4 - 2)$ বা, $B = \\frac{-3}{2}$",
+      "image": null,
+      "formulas": [
+        "(2-1)(2-5) = A(2-4)",
+        "A = \\frac{3}{2}",
+        "(4 - 1)(4 - 5) = B(4 - 2)",
+        "B = \\frac{-3}{2}"
+      ],
+      "pdfPageStart": 62,
+      "pdfPageEnd": 63,
+      "printedPageStart": 57,
+      "printedPageEnd": 58,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p049",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন $A$ এবং $B$ এর মান (1) এ বসিয়ে পাই,",
+      "image": null,
+      "formulas": [
+        "A",
+        "B"
+      ],
+      "pdfPageStart": 63,
+      "pdfPageEnd": 63,
+      "printedPageStart": 58,
+      "printedPageEnd": 58,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p050",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{(x - 1)(x - 5)}{(x - 2)(x - 4)} \\equiv 1 + \\frac{3}{2(x - 2)} - \\frac{3}{2(x - 4)}, যা নির্ণয়ে আংশিক ভগ্নাংশ।$$",
+      "image": null,
+      "formulas": [
+        "\\frac{(x - 1)(x - 5)}{(x - 2)(x - 4)} \\equiv 1 + \\frac{3}{2(x - 2)} - \\frac{3}{2(x - 4)}, যা নির্ণয়ে আংশিক ভগ্নাংশ।"
+      ],
+      "pdfPageStart": 63,
+      "pdfPageEnd": 63,
+      "printedPageStart": 58,
+      "printedPageEnd": 58,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p051",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৬.** $\\frac{2x^3}{(x - 1)(x - 2)(x - 3)}$ কে আংশিক ভগ্নাংশে প্রকাশ করো।",
+      "image": null,
+      "formulas": [
+        "\\frac{2x^3}{(x - 1)(x - 2)(x - 3)}"
+      ],
+      "pdfPageStart": 63,
+      "pdfPageEnd": 63,
+      "printedPageStart": 58,
+      "printedPageEnd": 58,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p052",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** এখানে লবকে হর দ্বারা ভাগ করলে 2 হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 63,
+      "pdfPageEnd": 63,
+      "printedPageStart": 58,
+      "printedPageEnd": 58,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p053",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং ধরি, $\\frac{2x^3}{(x - 1)(x - 2)(x - 3)} \\equiv 2 + \\frac{A}{x - 1} + \\frac{B}{x - 2} + \\frac{C}{x - 3}$ (1)",
+      "image": null,
+      "formulas": [
+        "\\frac{2x^3}{(x - 1)(x - 2)(x - 3)} \\equiv 2 + \\frac{A}{x - 1} + \\frac{B}{x - 2} + \\frac{C}{x - 3}"
+      ],
+      "pdfPageStart": 63,
+      "pdfPageEnd": 63,
+      "printedPageStart": 58,
+      "printedPageEnd": 58,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p054",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(1) এর উভয়পক্ষকে $(x - 1)(x - 2)(x - 3)$ দ্বারা গুণ করে পাই,",
+      "image": null,
+      "formulas": [
+        "(x - 1)(x - 2)(x - 3)"
+      ],
+      "pdfPageStart": 63,
+      "pdfPageEnd": 63,
+      "printedPageStart": 58,
+      "printedPageEnd": 58,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p055",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$$2x^3 \\equiv 2(x - 1)(x - 2)(x - 3) + A(x - 2)(x - 3) + B(x - 1)(x - 3)$$\n$$+ C(x - 1)(x - 2)$$ (2)",
+      "image": null,
+      "formulas": [
+        "2x^3 \\equiv 2(x - 1)(x - 2)(x - 3) + A(x - 2)(x - 3) + B(x - 1)(x - 3)",
+        "+ C(x - 1)(x - 2)"
+      ],
+      "pdfPageStart": 63,
+      "pdfPageEnd": 63,
+      "printedPageStart": 58,
+      "printedPageEnd": 58,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p056",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(2) এর উভয়পক্ষে পর্যায়ক্রমে $x = 1, 2, 3$ বসিয়ে পাই,",
+      "image": null,
+      "formulas": [
+        "x = 1, 2, 3"
+      ],
+      "pdfPageStart": 63,
+      "pdfPageEnd": 63,
+      "printedPageStart": 58,
+      "printedPageEnd": 58,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p057",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$2 = A(-1)(-2)  বা,  A = 1; \\quad 16 = B(1)(-1)  বা,  B = -16$$",
+      "image": null,
+      "formulas": [
+        "2 = A(-1)(-2)  বা,  A = 1; \\quad 16 = B(1)(-1)  বা,  B = -16"
+      ],
+      "pdfPageStart": 63,
+      "pdfPageEnd": 63,
+      "printedPageStart": 58,
+      "printedPageEnd": 58,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p058",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এবং $54 = C(2)(1)$ বা, $C = \\frac{54}{2} = 27$",
+      "image": null,
+      "formulas": [
+        "54 = C(2)(1)",
+        "C = \\frac{54}{2} = 27"
+      ],
+      "pdfPageStart": 63,
+      "pdfPageEnd": 63,
+      "printedPageStart": 58,
+      "printedPageEnd": 58,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p059",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন $A, B, C$ এর মান (1) এ বসিয়ে পাই,",
+      "image": null,
+      "formulas": [
+        "A, B, C"
+      ],
+      "pdfPageStart": 63,
+      "pdfPageEnd": 63,
+      "printedPageStart": 58,
+      "printedPageEnd": 58,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p060",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{2x^3}{(x - 1)(x - 2)(x - 3)} \\equiv 2 + \\frac{1}{x - 1} - \\frac{16}{x - 2} + \\frac{27}{x - 3}  যা নির্ণয়ে আংশিক ভগ্নাংশ।$$",
+      "image": null,
+      "formulas": [
+        "\\frac{2x^3}{(x - 1)(x - 2)(x - 3)} \\equiv 2 + \\frac{1}{x - 1} - \\frac{16}{x - 2} + \\frac{27}{x - 3}  যা নির্ণয়ে আংশিক ভগ্নাংশ।"
+      ],
+      "pdfPageStart": 63,
+      "pdfPageEnd": 63,
+      "printedPageStart": 58,
+      "printedPageEnd": 58,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p061",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**গ)** যখন হরে বাস্তব ও একঘাতবিশিষ্ট উৎপাদক থাকে এবং সেগুলোর কয়েকটির পুনরাবৃত্তি হয়",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 63,
+      "pdfPageEnd": 63,
+      "printedPageStart": 58,
+      "printedPageEnd": 58,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p062",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৭.** $\\frac{x}{(x - 1)^2(x - 2)}$ কে আংশিক ভগ্নাংশে প্রকাশ করো।",
+      "image": null,
+      "formulas": [
+        "\\frac{x}{(x - 1)^2(x - 2)}"
+      ],
+      "pdfPageStart": 63,
+      "pdfPageEnd": 63,
+      "printedPageStart": 58,
+      "printedPageEnd": 58,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p063",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** ধরি $\\frac{x}{(x - 1)^2(x - 2)} \\equiv \\frac{A}{x - 1} + \\frac{B}{(x - 1)^2} + \\frac{C}{x - 2}$",
+      "image": null,
+      "formulas": [
+        "\\frac{x}{(x - 1)^2(x - 2)} \\equiv \\frac{A}{x - 1} + \\frac{B}{(x - 1)^2} + \\frac{C}{x - 2}"
+      ],
+      "pdfPageStart": 63,
+      "pdfPageEnd": 63,
+      "printedPageStart": 58,
+      "printedPageEnd": 58,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p064",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(1) এর উভয়পক্ষকে $(x - 1)^2(x - 2)$ দ্বারা গুণ করে পাই,",
+      "image": null,
+      "formulas": [
+        "(x - 1)^2(x - 2)"
+      ],
+      "pdfPageStart": 63,
+      "pdfPageEnd": 63,
+      "printedPageStart": 58,
+      "printedPageEnd": 58,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p065",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$$x \\equiv A(x - 1)(x - 2) + B(x - 2) + C(x - 1)^2$$ (1)",
+      "image": null,
+      "formulas": [
+        "x \\equiv A(x - 1)(x - 2) + B(x - 2) + C(x - 1)^2"
+      ],
+      "pdfPageStart": 63,
+      "pdfPageEnd": 63,
+      "printedPageStart": 58,
+      "printedPageEnd": 58,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p066",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(2) এর উভয়পক্ষকে পর্যায়ক্রমে $x = 1, 2$ বসিয়ে পাই,",
+      "image": null,
+      "formulas": [
+        "x = 1, 2"
+      ],
+      "pdfPageStart": 63,
+      "pdfPageEnd": 63,
+      "printedPageStart": 58,
+      "printedPageEnd": 58,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p067",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$1 = B(1 - 2)  বা,  B = -1  এবং  2 = C(2 - 1)^2  বা,  2 = C \\implies C = 2$$",
+      "image": null,
+      "formulas": [
+        "1 = B(1 - 2)  বা,  B = -1  এবং  2 = C(2 - 1)^2  বা,  2 = C \\implies C = 2"
+      ],
+      "pdfPageStart": 63,
+      "pdfPageEnd": 63,
+      "printedPageStart": 58,
+      "printedPageEnd": 58,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p068",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার, (2) এ $x^2$ এর সহগ সমীকৃত করে পাই,",
+      "image": null,
+      "formulas": [
+        "x^2"
+      ],
+      "pdfPageStart": 63,
+      "pdfPageEnd": 63,
+      "printedPageStart": 58,
+      "printedPageEnd": 58,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p069",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$0 = A + C  বা,  A = -C = -2$$",
+      "image": null,
+      "formulas": [
+        "0 = A + C  বা,  A = -C = -2"
+      ],
+      "pdfPageStart": 63,
+      "pdfPageEnd": 63,
+      "printedPageStart": 58,
+      "printedPageEnd": 58,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p070",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন $A$, $B$ এবং $C$ এর মান (1) এ বসিয়ে পাই,",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p071",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{x}{(x-1)^2(x-2)} \\equiv \\frac{-2}{x-1} + \\frac{-1}{(x-1)^2} + \\frac{2}{x-2}  যা নির্ণয়ে আংশিক ভগ্নাংশ।$$",
+      "image": null,
+      "formulas": [
+        "\\frac{x}{(x-1)^2(x-2)} \\equiv \\frac{-2}{x-1} + \\frac{-1}{(x-1)^2} + \\frac{2}{x-2}  যা নির্ণয়ে আংশিক ভগ্নাংশ।"
+      ],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p072",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "য) যখন হরে বাস্তব ও দ্বিঘাতবিশিষ্ট উৎপাদক থাকে কিন্তু কোনো পুনরাবৃত্তি হয় না:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p073",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৮.** $\\frac{x}{(x-1)(x^2+4)}$ কে আংশিক ভগ্নাংশে প্রকাশ করো।",
+      "image": null,
+      "formulas": [
+        "\\frac{x}{(x-1)(x^2+4)}"
+      ],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p074",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** ধরি, $\\frac{x}{(x-1)(x^2+4)} \\equiv \\frac{A}{x-1} + \\frac{Bx+C}{x^2+4}$ (1)",
+      "image": null,
+      "formulas": [
+        "\\frac{x}{(x-1)(x^2+4)} \\equiv \\frac{A}{x-1} + \\frac{Bx+C}{x^2+4}"
+      ],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p075",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "উভয়পক্ষকে $(x-1)(x^2+4)$ দ্বারা গুণ করে পাই,",
+      "image": null,
+      "formulas": [
+        "(x-1)(x^2+4)"
+      ],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p076",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$$x \\equiv A(x^2+4) + (Bx+C)(x-1)$$ (2)",
+      "image": null,
+      "formulas": [
+        "x \\equiv A(x^2+4) + (Bx+C)(x-1)"
+      ],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p077",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(2) এ $x=1$ বসিয়ে পাই,",
+      "image": null,
+      "formulas": [
+        "x=1"
+      ],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p078",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$1 = A(5) \\implies A = \\frac{1}{5}$$",
+      "image": null,
+      "formulas": [
+        "1 = A(5) \\implies A = \\frac{1}{5}"
+      ],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p079",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$x^2$ ও $x$ এর সহগ সমীকৃত করে পাই,",
+      "image": null,
+      "formulas": [
+        "x^2",
+        "x"
+      ],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p080",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$$A + B = 0$$ (3) এবং $C - B = 1$ (4)",
+      "image": null,
+      "formulas": [
+        "A + B = 0",
+        "C - B = 1"
+      ],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p081",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(3) নং এ $A = \\frac{1}{5}$ বসিয়ে পাই, $B = -\\frac{1}{5}$।",
+      "image": null,
+      "formulas": [
+        "A = \\frac{1}{5}",
+        "B = -\\frac{1}{5}"
+      ],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p082",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(4) নং এ $B = -\\frac{1}{5}$ বসিয়ে পাই, $C = \\frac{4}{5}$।",
+      "image": null,
+      "formulas": [
+        "B = -\\frac{1}{5}",
+        "C = \\frac{4}{5}"
+      ],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p083",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন, $A$, $B$ ও $C$ এর মান (1) নং এ বসিয়ে পাই,",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "C"
+      ],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p084",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{x}{(x-1)(x^2+4)} \\equiv \\frac{\\frac{1}{5}}{x-1} + \\frac{-\\frac{x}{5} + \\frac{4}{5}}{x^2+4} = \\frac{1}{5(x-1)} - \\frac{x-4}{5(x^2+4)}$$",
+      "image": null,
+      "formulas": [
+        "\\frac{x}{(x-1)(x^2+4)} \\equiv \\frac{\\frac{1}{5}}{x-1} + \\frac{-\\frac{x}{5} + \\frac{4}{5}}{x^2+4} = \\frac{1}{5(x-1)} - \\frac{x-4}{5(x^2+4)}"
+      ],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p085",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যা নির্ণয়ে আংশিক ভগ্নাংশ।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p086",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ও) যখন হরে বাস্তব ও দ্বিঘাতবিশিষ্ট উৎপাদক থাকে এবং সেগুলোর কয়েকটির পুনরাবৃত্তি ঘটে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p087",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৯.** $\\frac{1}{x(x^2+1)^2}$ কে আংশিক ভগ্নাংশে প্রকাশ করো।",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{x(x^2+1)^2}"
+      ],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p088",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** ধরি, $\\frac{1}{x(x^2+1)^2} \\equiv \\frac{A}{x} + \\frac{Bx+C}{x^2+1} + \\frac{Dx+E}{(x^2+1)^2}$ (1)",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{x(x^2+1)^2} \\equiv \\frac{A}{x} + \\frac{Bx+C}{x^2+1} + \\frac{Dx+E}{(x^2+1)^2}"
+      ],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p089",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(1) এর উভয়পক্ষে $x(x^2+1)^2$ দ্বারা গুণ করে পাই,",
+      "image": null,
+      "formulas": [
+        "x(x^2+1)^2"
+      ],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p090",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$1 \\equiv A(x^2+1)^2 + (Bx+C)(x^2+1)x + (Dx+E)x$$",
+      "image": null,
+      "formulas": [
+        "1 \\equiv A(x^2+1)^2 + (Bx+C)(x^2+1)x + (Dx+E)x"
+      ],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p091",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\equiv A(x^4 + 2x^2 + 1) + (Bx+C)(x^3 + x) + Dx^2 + Ex$$",
+      "image": null,
+      "formulas": [
+        "\\equiv A(x^4 + 2x^2 + 1) + (Bx+C)(x^3 + x) + Dx^2 + Ex"
+      ],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p092",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $1 \\equiv Ax^4 + 2Ax^2 + A + Bx^4 + Bx^2 + Cx^3 + Cx + Dx^2 + Ex \\dots\\dots (2)$",
+      "image": null,
+      "formulas": [
+        "1 \\equiv Ax^4 + 2Ax^2 + A + Bx^4 + Bx^2 + Cx^3 + Cx + Dx^2 + Ex \\dots\\dots (2)"
+      ],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p093",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(2) নং এর উভয় পক্ষে $x^4, x^3, x^2, x$ এর সহগ এবং ধ্রুবক পদ সমীকৃত করে পাই,",
+      "image": null,
+      "formulas": [
+        "x^4, x^3, x^2, x"
+      ],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p094",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$A + B = 0, C = 0, 2A + B + D = 0, C + E = 0, A = 1$",
+      "image": null,
+      "formulas": [
+        "A + B = 0, C = 0, 2A + B + D = 0, C + E = 0, A = 1"
+      ],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p095",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$C + E = 0$ তে $C = 0$ বসিয়ে পাই $E = 0$।",
+      "image": null,
+      "formulas": [
+        "C + E = 0",
+        "C = 0",
+        "E = 0"
+      ],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p096",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$A + B = 0$ তে $A = 1$ বসিয়ে পাই $B = -1$।",
+      "image": null,
+      "formulas": [
+        "A + B = 0",
+        "A = 1",
+        "B = -1"
+      ],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p097",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$2A + B + D = 0$ তে $A = 1$ এবং $B = -1$ বসিয়ে পাই $D = -1$।",
+      "image": null,
+      "formulas": [
+        "2A + B + D = 0",
+        "A = 1",
+        "B = -1",
+        "D = -1"
+      ],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p098",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore A = 1, B = -1, C = 0, D = -1$ এবং $E = 0$।",
+      "image": null,
+      "formulas": [
+        "\\therefore A = 1, B = -1, C = 0, D = -1",
+        "E = 0"
+      ],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p099",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(1) নং এ $A, B, C, D$ ও $E$ এর মান বসিয়ে পাই,",
+      "image": null,
+      "formulas": [
+        "A, B, C, D",
+        "E"
+      ],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p100",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{1}{x(x^2 + 1)^2} \\equiv \\frac{1}{x} - \\frac{x}{x^2 + 1} - \\frac{x}{(x^2 + 1)^2}, যা নির্ণয়ে আংশিক ভগ্নাংশ।$$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{x(x^2 + 1)^2} \\equiv \\frac{1}{x} - \\frac{x}{x^2 + 1} - \\frac{x}{(x^2 + 1)^2}, যা নির্ণয়ে আংশিক ভগ্নাংশ।"
+      ],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p101",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ: আংশিক ভগ্নাংশে প্রকাশ করো:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p102",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $\\frac{x^2 + x + 1}{x^3 + x^2 - 6x}$",
+      "image": null,
+      "formulas": [
+        "\\frac{x^2 + x + 1}{x^3 + x^2 - 6x}"
+      ],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p103",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $\\frac{x^2}{x^4 + x^2 - 2}$",
+      "image": null,
+      "formulas": [
+        "\\frac{x^2}{x^4 + x^2 - 2}"
+      ],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p104",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $\\frac{x^3}{x^4 + 3x^2 + 2}$",
+      "image": null,
+      "formulas": [
+        "\\frac{x^3}{x^4 + 3x^2 + 2}"
+      ],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p105",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঘ) $\\frac{x^2}{(x - 1)^3(x - 2)}$",
+      "image": null,
+      "formulas": [
+        "\\frac{x^2}{(x - 1)^3(x - 2)}"
+      ],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p106",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঙ) $\\frac{1}{1 - x^3}$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{1 - x^3}"
+      ],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.15-p107",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "চ) $\\frac{2x}{(x + 1)(x^2 + 1)^2}$",
+      "image": null,
+      "formulas": [
+        "\\frac{2x}{(x + 1)(x^2 + 1)^2}"
+      ],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

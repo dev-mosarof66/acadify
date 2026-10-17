@@ -1,0 +1,155 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.16",
+  "key": "1.16",
+  "title": "সেট প্রক্রিয়ার কতিপয় প্রতিজ্ঞা",
+  "chapter": 1,
+  "ordinal": 16,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.16-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে প্রত্যেক ক্ষেত্রে $U$ সার্বিক সেট এবং $A, B, C$ সেটগুলো $U$ এর উপসেট।",
+      "image": null,
+      "formulas": [
+        "U",
+        "A, B, C",
+        "U"
+      ],
+      "pdfPageStart": 11,
+      "pdfPageEnd": 11,
+      "printedPageStart": 6,
+      "printedPageEnd": 6,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.16-p002",
+      "kind": "text",
+      "section": "ক) বিনিময়বিধি",
+      "caption": null,
+      "body": "(১) $A \\cup B = B \\cup A$ (২) $A \\cap B = B \\cap A$",
+      "image": null,
+      "formulas": [
+        "A \\cup B = B \\cup A",
+        "A \\cap B = B \\cap A"
+      ],
+      "pdfPageStart": 11,
+      "pdfPageEnd": 11,
+      "printedPageStart": 6,
+      "printedPageEnd": 6,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.16-p003",
+      "kind": "text",
+      "section": "খ) সংযোগবিধি",
+      "caption": null,
+      "body": "(১) $(A \\cup B) \\cup C = A \\cup (B \\cup C)$ (২) $(A \\cap B) \\cap C = A \\cap (B \\cap C)$",
+      "image": null,
+      "formulas": [
+        "(A \\cup B) \\cup C = A \\cup (B \\cup C)",
+        "(A \\cap B) \\cap C = A \\cap (B \\cap C)"
+      ],
+      "pdfPageStart": 11,
+      "pdfPageEnd": 11,
+      "printedPageStart": 6,
+      "printedPageEnd": 6,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.16-p004",
+      "kind": "text",
+      "section": "গ) বণ্টনবিধি",
+      "caption": null,
+      "body": "(১) $A \\cup (B \\cap C) = (A \\cup B) \\cap (A \\cup C)$\n(২) $A \\cap (B \\cup C) = (A \\cap B) \\cup (A \\cap C)$",
+      "image": null,
+      "formulas": [
+        "A \\cup (B \\cap C) = (A \\cup B) \\cap (A \\cup C)",
+        "A \\cap (B \\cup C) = (A \\cap B) \\cup (A \\cap C)"
+      ],
+      "pdfPageStart": 11,
+      "pdfPageEnd": 11,
+      "printedPageStart": 6,
+      "printedPageEnd": 6,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.16-p005",
+      "kind": "text",
+      "section": "ঘ) ডি মরগ্যানের সূত্র",
+      "caption": null,
+      "body": "(১) $(A \\cup B)' = A' \\cap B'$ (২) $(A \\cap B)' = A' \\cup B'$",
+      "image": null,
+      "formulas": [
+        "(A \\cup B)' = A' \\cap B'",
+        "(A \\cap B)' = A' \\cup B'"
+      ],
+      "pdfPageStart": 11,
+      "pdfPageEnd": 11,
+      "printedPageStart": 6,
+      "printedPageEnd": 6,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.16-p006",
+      "kind": "text",
+      "section": "ঙ) অন্যান্য সূত্র",
+      "caption": null,
+      "body": "(১) $A \\cup A = A, A \\cap A = A$ (২) $A \\cup \\varnothing = A, A \\cap \\varnothing = \\varnothing$\n(৩) $A \\cup U = U, A \\cap U = A$ (৪) $A \\subseteq B \\implies B' \\subseteq A'$\n(৫) $A \\subseteq B \\implies A \\cup B = B$ (৬) $A \\subseteq B \\implies A \\cap B = A$",
+      "image": null,
+      "formulas": [
+        "A \\cup A = A, A \\cap A = A",
+        "A \\cup \\varnothing = A, A \\cap \\varnothing = \\varnothing",
+        "A \\cup U = U, A \\cap U = A",
+        "A \\subseteq B \\implies B' \\subseteq A'",
+        "A \\subseteq B \\implies A \\cup B = B",
+        "A \\subseteq B \\implies A \\cap B = A"
+      ],
+      "pdfPageStart": 11,
+      "pdfPageEnd": 11,
+      "printedPageStart": 6,
+      "printedPageEnd": 6,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.16-p007",
+      "kind": "text",
+      "section": "ঙ) অন্যান্য সূত্র",
+      "caption": null,
+      "body": "(৭) $A \\subseteq A \\cup B$\n(৮) $A \\cap B \\subseteq A$\n(৯) $A \\setminus B = A \\cap B'$",
+      "image": null,
+      "formulas": [
+        "A \\subseteq A \\cup B",
+        "A \\cap B \\subseteq A",
+        "A \\setminus B = A \\cap B'"
+      ],
+      "pdfPageStart": 12,
+      "pdfPageEnd": 12,
+      "printedPageStart": 7,
+      "printedPageEnd": 7,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

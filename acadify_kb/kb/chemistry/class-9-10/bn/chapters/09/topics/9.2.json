@@ -1,0 +1,651 @@
+{
+  "id": "chemistry-9-10-bn-c09-t9.2",
+  "key": "9.2",
+  "title": "ক্ষারক এবং ক্ষার (Base and Alkali)",
+  "chapter": 9,
+  "ordinal": 2,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**ক্ষারক (Base):** সাধারণত ধাতু বা ধাতুর মতো ক্রিয়াশীল যৌগমূলকের অক্সাইড এবং হাইড্রোঅক্সাইড যা এসিডের সাথে বিক্রিয়া করে লবণ ও পানি উৎপন্ন করে তাকে ক্ষারক বলে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 218,
+      "pdfPageEnd": 218,
+      "printedPageStart": 213,
+      "printedPageEnd": 213,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p002",
+      "kind": "formula",
+      "section": "যেমন:",
+      "caption": null,
+      "body": "$$CaO + 2HCl \\longrightarrow CaCl_2 + H_2O$$",
+      "image": null,
+      "formulas": [
+        "CaO + 2HCl \\longrightarrow CaCl_2 + H_2O"
+      ],
+      "pdfPageStart": 219,
+      "pdfPageEnd": 219,
+      "printedPageStart": 214,
+      "printedPageEnd": 214,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p003",
+      "kind": "formula",
+      "section": "যেমন:",
+      "caption": null,
+      "body": "$$2KOH + H_2SO_4 \\longrightarrow K_2SO_4 + 2H_2O$$",
+      "image": null,
+      "formulas": [
+        "2KOH + H_2SO_4 \\longrightarrow K_2SO_4 + 2H_2O"
+      ],
+      "pdfPageStart": 219,
+      "pdfPageEnd": 219,
+      "printedPageStart": 214,
+      "printedPageEnd": 214,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p004",
+      "kind": "formula",
+      "section": "যেমন:",
+      "caption": null,
+      "body": "$$NH_4OH + HCl \\longrightarrow NH_4Cl + H_2O$$",
+      "image": null,
+      "formulas": [
+        "NH_4OH + HCl \\longrightarrow NH_4Cl + H_2O"
+      ],
+      "pdfPageStart": 219,
+      "pdfPageEnd": 219,
+      "printedPageStart": 214,
+      "printedPageEnd": 214,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p005",
+      "kind": "text",
+      "section": "যেমন:",
+      "caption": null,
+      "body": "CaO এবং KOH ছাড়াও ক্ষারকের উদাহরণ হচ্ছে: সোডিয়াম অক্সাইড (Na<sub>2</sub>O), কপার অক্সাইড (CuO), ফেরাস অক্সাইড (FeO), সোডিয়াম হাইড্রোক্সাইড (NaOH), ক্যালসিয়াম হাইড্রোক্সাইড Ca(OH)<sub>2</sub>, ফেরাস হাইড্রোক্সাইড Fe(OH)<sub>2</sub>, অ্যামোনিয়াম হাইড্রোক্সাইড (NH<sub>4</sub>OH) ইত্যাদি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 219,
+      "pdfPageEnd": 219,
+      "printedPageStart": 214,
+      "printedPageEnd": 214,
+      "reviewReasons": [
+        "latin-junk",
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p006",
+      "kind": "text",
+      "section": "যেমন:",
+      "caption": null,
+      "body": "অ্যামোনিয়াম আয়ন (NH<sub>4</sub><sup>+</sup>), ফসফোনিয়াম আয়ন (PH<sub>4</sub><sup>+</sup>) এগুলো ধাতুর মতো ক্রিয়াশীল মূলক। কেননা ধাতব আয়ন, যেমন Na<sup>+</sup>, K<sup>+</sup> ইত্যাদি অধাতব আয়ন Cl<sup>-</sup>, SO<sub>4</sub><sup>2-</sup> ইত্যাদির সাথে যুক্ত হয়ে আয়নিক যৌগ NaCl, KCl, Na<sub>2</sub>SO<sub>4</sub>, K<sub>2</sub>SO<sub>4</sub>, উৎপন্ন করে তেমনই NH<sub>4</sub><sup>+</sup>, PH<sub>4</sub><sup>+</sup> আয়ন Cl<sup>-</sup>, SO<sub>4</sub><sup>2-</sup> ইত্যাদির সাথে যুক্ত হয়ে আয়নিক যৌগ NH<sub>4</sub>Cl, PH<sub>4</sub>Cl, (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, (PH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>, ইত্যাদি উৎপন্ন করে। এসিডের সাথে ক্ষারের বিক্রিয়ায় লবণ ও পানি উৎপন্ন হওয়ার বিক্রিয়াকে এসিড-ক্ষারক প্রশমন বিক্রিয়া বলে। তাই বলা হয় এসিড ক্ষারককে আর ক্ষারক এসিডকে প্রশমিত করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 219,
+      "pdfPageEnd": 219,
+      "printedPageStart": 214,
+      "printedPageEnd": 214,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p007",
+      "kind": "text",
+      "section": "যেমন:",
+      "caption": null,
+      "body": "**ক্ষার (Alkali):** ধাতু বা ধাতুর মতো ক্রিয়াশীল যৌগমূলকের হাইড্রোক্সাইড যৌগ যা পানিতে দ্রবণীয় তাদেরকে ক্ষার বলে। কোনো যৌগের ক্ষার হবার জন্য ২টি শর্ত রয়েছে: (i) যৌগটিতে হাইড্রোক্সাইড (OH<sup>-</sup>) যৌগমূলক থাকতে হবে এবং (ii) ঐ যৌগ পানিতে দ্রবীভূত হতে হবে। NaOH ক্ষার, কারণ সোডিয়াম হাইড্রোক্সাইড যৌগে OH<sup>-</sup> মূলক আছে এবং এটি পানিতে দ্রবণীয়। Fe(OH)<sub>2</sub> কে ক্ষার বলা যায় না। কারণ এটিতে OH<sup>-</sup> গ্রুপ আছে কিন্তু এটি পানিতে দ্রবণীয় নয়, এটি শুধু ক্ষারক। CaO ক্ষারক, ক্ষার নয় কারণ CaO এ OH<sup>-</sup> মূলক নাই। অর্থাৎ তোমরা বুঝতে পারলে হাইড্রোক্সাইড মূলকধারী পানিতে দ্রবণীয় ক্ষারকগুলোই হলো ক্ষার। তাই বলা যায় সব ক্ষারকই ক্ষার নয় কিন্তু সব ক্ষারই ক্ষারক।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 219,
+      "pdfPageEnd": 219,
+      "printedPageStart": 214,
+      "printedPageEnd": 214,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p008",
+      "kind": "text",
+      "section": "যেমন:",
+      "caption": null,
+      "body": "বাসাবাড়িতে ক্ষার জাতীয় অনেক পদার্থ ব্যবহার করা হয়। যেমন- টয়লেট পরিষ্কার করার জন্য যে টয়লেট ক্লিনার ব্যবহার করা হয় তার মধ্যে সোডিয়াম হাইড্রোক্সাইড ক্ষার থাকে। কাচ পরিষ্কার করার জন্য যে গ্লাস ক্লিনার ব্যবহার করা হয় তার মধ্যে অ্যামোনিয়াম হাইড্রোক্সাইড ক্ষার (NH<sub>4</sub>OH) থাকে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 219,
+      "pdfPageEnd": 219,
+      "printedPageStart": 214,
+      "printedPageEnd": 214,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p009",
+      "kind": "text",
+      "section": "৯.২.১ লঘু ক্ষারের ধর্মসমূহ",
+      "caption": null,
+      "body": "বেশি পানির মধ্যে কম পরিমাণ ক্ষার যোগ করে যে দ্রবণ তৈরি করা হয় সেই দ্রবণকে লঘু ক্ষার দ্রবণ বলা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 219,
+      "pdfPageEnd": 219,
+      "printedPageStart": 214,
+      "printedPageEnd": 214,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p010",
+      "kind": "text",
+      "section": "৯.২.১ লঘু ক্ষারের ধর্মসমূহ",
+      "caption": null,
+      "body": "**লিটমাস পরীক্ষা:** একটি টেস্টটিউবে সামান্য পরিমাণ লঘু সোডিয়াম হাইড্রোক্সাইড দ্রবণ নাও। লাল লিটমাস কাগজের এক টুকরা টেস্টটিউবের দ্রবণের মধ্যে যোগ করো। দেখবে লাল লিটমাস কাগজ নীল বর্ণ ধারণ করেছে। আবার, আরেকটি টেস্টটিউবের মধ্যে সামান্য পরিমাণ NaOH দ্রবণ নাও। এবার এই টেস্টটিউবের মধ্যে নীল লিটমাস কাগজ প্রবেশ করাও, দেখবে নীল লিটমাস কাগজ নীলই রয়ে গেছে। এই পরীক্ষা থেকে বোঝা যায়, ক্ষার দ্রবণ শুধু লাল লিটমাস পেপারকে নীল করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 220,
+      "pdfPageEnd": 220,
+      "printedPageStart": 215,
+      "printedPageEnd": 215,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p011",
+      "kind": "text",
+      "section": "৯.২.১ লঘু ক্ষারের ধর্মসমূহ",
+      "caption": null,
+      "body": "**অনুভব:** লঘু NaOH দ্রবণ হাত দিয়ে স্পর্শ করলে এক প্রকার পিছিল অনুভূতি সৃষ্টি হয়। ক্ষার দ্রবণ পিছিল জাতীয় পদার্থ। ক্ষার দ্রবণের কিছু ধর্ম এখানে আলোচনা করা হলো। তবে ক্ষারকে স্পর্শ করা হলে সেটি ত্বকের ক্ষতি করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 220,
+      "pdfPageEnd": 220,
+      "printedPageStart": 215,
+      "printedPageEnd": 215,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p012",
+      "kind": "text",
+      "section": "৯.২.২ ধাতব লবণের সাথে লঘু ক্ষারের বিক্রিয়া",
+      "caption": null,
+      "body": "অ্যালুমিনিয়াম নাইট্রেট [Al(NO<sub>3</sub>)<sub>3</sub>], ফেরাস নাইট্রেট [Fe(NO<sub>3</sub>)<sub>2</sub>], ফেরিক নাইট্রেট [Fe(NO<sub>3</sub>)<sub>3</sub>], জিংক নাইট্রেট [Zn(NO<sub>3</sub>)<sub>2</sub>] ইত্যাদি ধাতব লবণের সাথে লঘু ক্ষার বিক্রিয়া করে সংশ্লিষ্ট ধাতব হাইড্রোক্সাইড উৎপন্ন করে। উল্লেখ্য, এখানে শুধু ধাতব নাইট্রেট লবণ ব্যবহার করা হয়েছে। ধাতব নাইট্রেট লবণ ব্যতীত ধাতব ক্লোরাইড, ধাতব সালফেট, ধাতব কার্বনেট ইত্যাদি লবণ ব্যবহার করলেও সংশ্লিষ্ট ধাতব হাইড্রোক্সাইড উৎপন্ন হবে। নিচে ধাতব নাইট্রেট লবণের সাথে লঘু ক্ষারের বিক্রিয়া দেখানো হলো। যেমন-",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 220,
+      "pdfPageEnd": 220,
+      "printedPageStart": 215,
+      "printedPageEnd": 215,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p013",
+      "kind": "text",
+      "section": "Al(NO<sub>3</sub>)<sub>3</sub> এর সাথে লঘু NaOH এর বিক্রিয়া",
+      "caption": null,
+      "body": "একটি টেস্টটিউবে Al(NO<sub>3</sub>)<sub>3</sub> এর দ্রবণ নিয়ে এর মধ্যে কয়েক ফোঁটা লঘু NaOH দ্রবণ যোগ করলে অ্যালুমিনিয়াম হাইড্রোক্সাইড [Al(OH)<sub>3</sub>] এবং NaNO<sub>3</sub> উৎপন্ন হয়। Al(OH)<sub>3</sub> সাদা বর্ণের অধঃক্ষেপ হিসেবে টেস্টটিউবের নিচে জমা হয় এবং সোডিয়াম নাইট্রেট NaNO<sub>3</sub> পানিতে দ্রবীভূত অবস্থায় থাকে। এটি পানিতে কোনো বর্ণ প্রদান করে না। সংশ্লিষ্ট বিক্রিয়া:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 220,
+      "pdfPageEnd": 220,
+      "printedPageStart": 215,
+      "printedPageEnd": 215,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p014",
+      "kind": "text",
+      "section": "Al(NO<sub>3</sub>)<sub>3</sub> এর সাথে লঘু NaOH এর বিক্রিয়া",
+      "caption": null,
+      "body": "$$Al(NO_3)_3 + 3NaOH \\longrightarrow Al(OH)_3 \\downarrow + 3NaNO_3$$\nঅধঃক্ষেপ",
+      "image": null,
+      "formulas": [
+        "Al(NO_3)_3 + 3NaOH \\longrightarrow Al(OH)_3 \\downarrow + 3NaNO_3"
+      ],
+      "pdfPageStart": 220,
+      "pdfPageEnd": 220,
+      "printedPageStart": 215,
+      "printedPageEnd": 215,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p015",
+      "kind": "text",
+      "section": "ফেরাস নাইট্রেট Fe (NO<sub>3</sub>)<sub>2</sub> এর সাথে লঘু NaOH এর বিক্রিয়া",
+      "caption": null,
+      "body": "একটি টেস্টটিউবে Fe (NO<sub>3</sub>)<sub>2</sub> এর দ্রবণ নিয়ে এর মধ্যে কয়েক ফোঁটা লঘু NaOH দ্রবণ যোগ করলে ফেরাস হাইড্রোক্সাইড [Fe(OH)<sub>2</sub>] এর সবুজ বর্ণের অধঃক্ষেপ উৎপন্ন হয় এবং NaNO<sub>3</sub> পানিতে দ্রবীভূত অবস্থায় থাকে। সংশ্লিষ্ট বিক্রিয়া:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 220,
+      "pdfPageEnd": 220,
+      "printedPageStart": 215,
+      "printedPageEnd": 215,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p016",
+      "kind": "text",
+      "section": "ফেরাস নাইট্রেট Fe (NO<sub>3</sub>)<sub>2</sub> এর সাথে লঘু NaOH এর বিক্রিয়া",
+      "caption": null,
+      "body": "$$Fe(NO_3)_2 + 2NaOH \\longrightarrow Fe(OH)_2 \\downarrow + 2NaNO_3$$\nঅধঃক্ষেপ",
+      "image": null,
+      "formulas": [
+        "Fe(NO_3)_2 + 2NaOH \\longrightarrow Fe(OH)_2 \\downarrow + 2NaNO_3"
+      ],
+      "pdfPageStart": 220,
+      "pdfPageEnd": 220,
+      "printedPageStart": 215,
+      "printedPageEnd": 215,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p017",
+      "kind": "text",
+      "section": "ফেরিক নাইট্রেট Fe(NO<sub>3</sub>)<sub>3</sub> এর সাথে NaOH এর বিক্রিয়া",
+      "caption": null,
+      "body": "একটি টেস্টটিউবে Fe(NO<sub>3</sub>)<sub>3</sub> এর দ্রবণ নিয়ে এর মধ্যে কয়েক ফোঁটা লঘু NaOH দ্রবণ যোগ করলে Fe(OH)<sub>3</sub> এর লালচে বাদামী বর্ণের অধঃক্ষেপ উৎপন্ন হয় এবং সোডিয়াম নাইট্রেট NaNO<sub>3</sub> পানিতে দ্রবীভূত অবস্থায় থাকে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 221,
+      "pdfPageEnd": 221,
+      "printedPageStart": 216,
+      "printedPageEnd": 216,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p018",
+      "kind": "text",
+      "section": "ফেরিক নাইট্রেট Fe(NO<sub>3</sub>)<sub>3</sub> এর সাথে NaOH এর বিক্রিয়া",
+      "caption": null,
+      "body": "সংশ্লিষ্ট বিক্রিয়া:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 221,
+      "pdfPageEnd": 221,
+      "printedPageStart": 216,
+      "printedPageEnd": 216,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p019",
+      "kind": "text",
+      "section": "ফেরিক নাইট্রেট Fe(NO<sub>3</sub>)<sub>3</sub> এর সাথে NaOH এর বিক্রিয়া",
+      "caption": null,
+      "body": "$$Fe(NO_3)_3 + 3NaOH \\longrightarrow Fe(OH)_3 \\downarrow + 3NaNO_3$$\nঅধঃক্ষেপ",
+      "image": null,
+      "formulas": [
+        "Fe(NO_3)_3 + 3NaOH \\longrightarrow Fe(OH)_3 \\downarrow + 3NaNO_3"
+      ],
+      "pdfPageStart": 221,
+      "pdfPageEnd": 221,
+      "printedPageStart": 216,
+      "printedPageEnd": 216,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p020",
+      "kind": "text",
+      "section": "Cu(NO<sub>3</sub>)<sub>2</sub> এর সাথে লঘু NaOH এর বিক্রিয়া",
+      "caption": null,
+      "body": "একটি টেস্টটিউবে Cu(NO<sub>3</sub>)<sub>2</sub> এর দ্রবণ নিয়ে এর মধ্যে কয়েক ফোঁটা লঘু NaOH দ্রবণ যোগ করলে কপার হাইড্রোক্সাইড [Cu(OH)<sub>2</sub>] এর হালকা নীল বর্ণের অধঃক্ষেপ উৎপন্ন হয় এবং সোডিয়াম নাইট্রেট NaNO<sub>3</sub> পানিতে দ্রবীভূত অবস্থায় থাকে। সংশ্লিষ্ট বিক্রিয়া:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 221,
+      "pdfPageEnd": 221,
+      "printedPageStart": 216,
+      "printedPageEnd": 216,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p021",
+      "kind": "text",
+      "section": "Cu(NO<sub>3</sub>)<sub>2</sub> এর সাথে লঘু NaOH এর বিক্রিয়া",
+      "caption": null,
+      "body": "$$Cu(NO_3)_2 + 2NaOH \\longrightarrow Cu(OH)_2 \\downarrow + 2NaNO_3$$\nঅধঃক্ষেপ",
+      "image": null,
+      "formulas": [
+        "Cu(NO_3)_2 + 2NaOH \\longrightarrow Cu(OH)_2 \\downarrow + 2NaNO_3"
+      ],
+      "pdfPageStart": 221,
+      "pdfPageEnd": 221,
+      "printedPageStart": 216,
+      "printedPageEnd": 216,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p022",
+      "kind": "text",
+      "section": "Zn(NO<sub>3</sub>)<sub>2</sub> এর সাথে লঘু NaOH এর বিক্রিয়া",
+      "caption": null,
+      "body": "একটি টেস্টটিউবে Zn(NO<sub>3</sub>)<sub>2</sub> এর দ্রবণ নিয়ে এর মধ্যে কয়েক ফোঁটা লঘু NaOH দ্রবণ যোগ করলে জিংক হাইড্রোক্সাইড [Zn(OH)<sub>2</sub>] এর সাদা বর্ণের অধঃক্ষেপ উৎপন্ন হয় এবং সোডিয়াম নাইট্রেট NaNO<sub>3</sub> পানিতে দ্রবীভূত অবস্থায় থাকে। সংশ্লিষ্ট বিক্রিয়া:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 221,
+      "pdfPageEnd": 221,
+      "printedPageStart": 216,
+      "printedPageEnd": 216,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p023",
+      "kind": "text",
+      "section": "Zn(NO<sub>3</sub>)<sub>2</sub> এর সাথে লঘু NaOH এর বিক্রিয়া",
+      "caption": null,
+      "body": "$$Zn(NO_3)_2 + 2NaOH \\longrightarrow Zn(OH)_2 \\downarrow + 2NaNO_3$$\nঅধঃক্ষেপ",
+      "image": null,
+      "formulas": [
+        "Zn(NO_3)_2 + 2NaOH \\longrightarrow Zn(OH)_2 \\downarrow + 2NaNO_3"
+      ],
+      "pdfPageStart": 221,
+      "pdfPageEnd": 221,
+      "printedPageStart": 216,
+      "printedPageEnd": 216,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p024",
+      "kind": "text",
+      "section": "Zn(NO<sub>3</sub>)<sub>2</sub> এর সাথে লঘু NaOH এর বিক্রিয়া",
+      "caption": null,
+      "body": "উপরের বিক্রিয়াগুলোতে দেখা যায়, ধাতব নাইট্রেট যৌগের সাথে ক্ষার দ্রবণ বিক্রিয়া করলে ঐ ধাতুর হাইড্রোক্সাইডের অধঃক্ষেপ উৎপন্ন হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 221,
+      "pdfPageEnd": 221,
+      "printedPageStart": 216,
+      "printedPageEnd": 216,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p025",
+      "kind": "text",
+      "section": "অ্যামোনিয়াম লবণের সাথে ক্ষারের বিক্রিয়া",
+      "caption": null,
+      "body": "একটি পাত্রে অ্যামোনিয়াম ক্লোরাইড (NH<sub>4</sub>Cl) নিয়ে এর মধ্যে ক্ষার (NaOH) যোগ করলে অ্যামোনিয়া গ্যাস (NH<sub>3</sub>), সোডিয়াম ক্লোরাইড (NaCl) লবণ এবং পানি (H<sub>2</sub>O) উৎপন্ন হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 221,
+      "pdfPageEnd": 221,
+      "printedPageStart": 216,
+      "printedPageEnd": 216,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p026",
+      "kind": "formula",
+      "section": "অ্যামোনিয়াম লবণের সাথে ক্ষারের বিক্রিয়া",
+      "caption": null,
+      "body": "$$NH_4Cl + NaOH \\longrightarrow NH_3 \\uparrow + NaCl + H_2O$$",
+      "image": null,
+      "formulas": [
+        "NH_4Cl + NaOH \\longrightarrow NH_3 \\uparrow + NaCl + H_2O"
+      ],
+      "pdfPageStart": 221,
+      "pdfPageEnd": 221,
+      "printedPageStart": 216,
+      "printedPageEnd": 216,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p027",
+      "kind": "text",
+      "section": "অ্যামোনিয়াম লবণের সাথে ক্ষারের বিক্রিয়া",
+      "caption": null,
+      "body": "অ্যামোনিয়াম লবণের সাথে ক্ষারের একটি বৈশিষ্ট্যপূর্ণ বিক্রিয়া আছে। যেকোনো অ্যামোনিয়াম লবণের সাথে ক্ষার বিক্রিয়া করে NH<sub>3</sub> গ্যাস উৎপন্ন করে। যেমন-",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 221,
+      "pdfPageEnd": 221,
+      "printedPageStart": 216,
+      "printedPageEnd": 216,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p028",
+      "kind": "formula",
+      "section": "অ্যামোনিয়াম লবণের সাথে ক্ষারের বিক্রিয়া",
+      "caption": null,
+      "body": "$$NH_4Cl + KOH \\longrightarrow NH_3 + KCl + H_2O$$",
+      "image": null,
+      "formulas": [
+        "NH_4Cl + KOH \\longrightarrow NH_3 + KCl + H_2O"
+      ],
+      "pdfPageStart": 222,
+      "pdfPageEnd": 222,
+      "printedPageStart": 217,
+      "printedPageEnd": 217,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p029",
+      "kind": "formula",
+      "section": "অ্যামোনিয়াম লবণের সাথে ক্ষারের বিক্রিয়া",
+      "caption": null,
+      "body": "$$2NH_4Cl + Ca(OH)_2 \\longrightarrow 2NH_3 + CaCl_2 + 2H_2O$$",
+      "image": null,
+      "formulas": [
+        "2NH_4Cl + Ca(OH)_2 \\longrightarrow 2NH_3 + CaCl_2 + 2H_2O"
+      ],
+      "pdfPageStart": 222,
+      "pdfPageEnd": 222,
+      "printedPageStart": 217,
+      "printedPageEnd": 217,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p030",
+      "kind": "formula",
+      "section": "অ্যামোনিয়াম লবণের সাথে ক্ষারের বিক্রিয়া",
+      "caption": null,
+      "body": "$$2NH_4Cl + CaO \\longrightarrow 2NH_3 + CaCl_2 + H_2O$$",
+      "image": null,
+      "formulas": [
+        "2NH_4Cl + CaO \\longrightarrow 2NH_3 + CaCl_2 + H_2O"
+      ],
+      "pdfPageStart": 222,
+      "pdfPageEnd": 222,
+      "printedPageStart": 217,
+      "printedPageEnd": 217,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p031",
+      "kind": "text",
+      "section": "৯.২.৩ ক্ষারের রাসায়নিক ধর্মে পানির ভূমিকা",
+      "caption": null,
+      "body": "পটাশিয়াম হাইড্রোক্লোরাইড এবং সোডিয়াম হাইড্রোক্লোরাইড এই দুইটি যৌগেই আয়ন থাকে, তবে কঠিন অবস্থায় এই আয়ন মুক্ত থাকে না। এগুলোকে দ্রবীভূত করার সাথে সাথে সম্পূর্ণরূপে আয়নিত হয়ে মুক্ত হাইড্রোক্লোরাইড আয়ন উৎপন্ন করে। দ্রবণে কেবল হাইড্রোক্লোরাইড আয়নই ঋণাত্মক আধান বা চার্জ বহন করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 222,
+      "pdfPageEnd": 222,
+      "printedPageStart": 217,
+      "printedPageEnd": 217,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p032",
+      "kind": "formula",
+      "section": "৯.২.৩ ক্ষারের রাসায়নিক ধর্মে পানির ভূমিকা",
+      "caption": null,
+      "body": "$$KOH(s) + পানি \\longrightarrow K^+(aq) + OH^-(aq)$$",
+      "image": null,
+      "formulas": [
+        "KOH(s) + পানি \\longrightarrow K^+(aq) + OH^-(aq)"
+      ],
+      "pdfPageStart": 222,
+      "pdfPageEnd": 222,
+      "printedPageStart": 217,
+      "printedPageEnd": 217,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p033",
+      "kind": "formula",
+      "section": "৯.২.৩ ক্ষারের রাসায়নিক ধর্মে পানির ভূমিকা",
+      "caption": null,
+      "body": "$$NaOH(s) + পানি \\longrightarrow Na^+(aq) + OH^-(aq)$$",
+      "image": null,
+      "formulas": [
+        "NaOH(s) + পানি \\longrightarrow Na^+(aq) + OH^-(aq)"
+      ],
+      "pdfPageStart": 222,
+      "pdfPageEnd": 222,
+      "printedPageStart": 217,
+      "printedPageEnd": 217,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p034",
+      "kind": "text",
+      "section": "৯.২.৩ ক্ষারের রাসায়নিক ধর্মে পানির ভূমিকা",
+      "caption": null,
+      "body": "অ্যামোনিয়া গ্যাস হচ্ছে অ্যামোনিয়া অণুর সমষ্টি। অ্যামোনিয়াকে পানিতে দ্রবীভূত করা হলে অ্যামোনিয়া গ্যাস ও পানির বিক্রিয়ায় অ্যামোনিয়াম আয়ন আর হাইড্রোক্লোরাইড আয়ন উৎপন্ন হয়। তবে পানিতে অ্যামোনিয়ার সামান্য অংশই দ্রবীভূত হয় এবং খুব অল্প সংখ্যক হাইড্রোক্লোরাইড আয়ন উৎপন্ন হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 222,
+      "pdfPageEnd": 222,
+      "printedPageStart": 217,
+      "printedPageEnd": 217,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p035",
+      "kind": "text",
+      "section": "৯.২.৩ ক্ষারের রাসায়নিক ধর্মে পানির ভূমিকা",
+      "caption": null,
+      "body": "সুতরাং, অ্যামোনিয়া দ্রবণে অ্যামোনিয়া অণু, পানির অণু এবং অল্পসংখ্যক অ্যামোনিয়াম আয়ন ও হাইড্রোক্লোরাইড আয়ন উপস্থিত থাকে। প্রামাণ্য হাইড্রোক্লোরাইড আয়নের উপস্থিতির উপর ক্ষার দ্রবণের বৈশিষ্ট্য নির্ভর করে। যে সকল ক্ষার জলীয় দ্রবণে আংশিক আয়নিত হয় তারা দুর্বল ক্ষার। সবল ক্ষার জলীয় দ্রবণে সম্পূর্ণ আয়নিত হয়। অর্থাৎ দুর্বল ক্ষারের দ্রবণে হাইড্রোক্লোরাইড আয়নের পরিমাণ সবল ক্ষারের তুলনায় কম থাকে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 222,
+      "pdfPageEnd": 222,
+      "printedPageStart": 217,
+      "printedPageEnd": 217,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p036",
+      "kind": "activity",
+      "section": "একক কাজ",
+      "caption": null,
+      "body": "নিচের প্রতিটি কাজ সম্পন্ন করো। চোখে দেখা যায় এমন একটি করে পরিবর্তন বর্ণনা করো। সংশ্লিষ্ট আয়নিক সমীকরণ লেখো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 222,
+      "pdfPageEnd": 222,
+      "printedPageStart": 217,
+      "printedPageEnd": 217,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c09-t9.2-p037",
+      "kind": "activity",
+      "section": "একক কাজ",
+      "caption": null,
+      "body": "* লঘু সালফিউরিক এসিড দ্রবণে আয়রন গুঁড়া যোগ করা হলে।\n* লঘু হাইড্রোক্লোরিক এসিডে কঠিন সোডিয়াম কার্বনেট যোগ করা হলে।\n* কপার (II) সালফেট দ্রবণে অ্যামোনিয়া দ্রবণ যোগ করা হলে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 222,
+      "pdfPageEnd": 222,
+      "printedPageStart": 217,
+      "printedPageEnd": 217,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

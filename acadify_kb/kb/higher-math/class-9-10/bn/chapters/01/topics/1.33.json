@@ -1,0 +1,121 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.33",
+  "key": "1.33",
+  "title": "সরলরৈখিক ফাংশন",
+  "chapter": 1,
+  "ordinal": 34,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.33-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সরলরৈখিক ফাংশন এর সাধারণ রূপ হলো $f(x) = mx + b$ যেখানে, $m$ এবং $b$ বাস্তব সংখ্যা। এর লেখচিত্র একটি রেখা যার ঢাল হলো $m$ এবং $y$ অক্ষের ছেদক $b$।",
+      "image": null,
+      "formulas": [
+        "f(x) = mx + b",
+        "m",
+        "b",
+        "m",
+        "y",
+        "b"
+      ],
+      "pdfPageStart": 36,
+      "pdfPageEnd": 36,
+      "printedPageStart": 31,
+      "printedPageEnd": 31,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.33-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে, ধরি $m = 3$ এবং $b = 2$ তাহলে ফাংশনটি দাঁড়ায় $f(x) = 3x + 2$",
+      "image": null,
+      "formulas": [
+        "m = 3",
+        "b = 2",
+        "f(x) = 3x + 2"
+      ],
+      "pdfPageStart": 36,
+      "pdfPageEnd": 36,
+      "printedPageStart": 31,
+      "printedPageEnd": 31,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.33-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বর্গিত ফাংশন হতে $x$ ও $y$ এর নিম্নরূপ সংশ্লিষ্ট মান পাওয়া যায়:",
+      "image": null,
+      "formulas": [
+        "x",
+        "y"
+      ],
+      "pdfPageStart": 36,
+      "pdfPageEnd": 36,
+      "printedPageStart": 31,
+      "printedPageEnd": 31,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.33-p004",
+      "kind": "table",
+      "section": null,
+      "caption": null,
+      "body": "<table><tr><th>x</th><th>-2</th><th>-1</th><th>0</th><th>1</th><th>2</th></tr>\n<tr><th>y</th><th>-4</th><th>-1</th><th>2</th><th>5</th><th>8</th></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 36,
+      "pdfPageEnd": 36,
+      "printedPageStart": 31,
+      "printedPageEnd": 31,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.33-p005",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A coordinate plane showing a line passing through the points (-2, -4), (-1, -1), (0, 2), (1, 5), and (2, 8). The origin is labeled O, and the axes are labeled X and Y.",
+      "image": "p36-page_31_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 36,
+      "pdfPageEnd": 36,
+      "printedPageStart": 31,
+      "printedPageEnd": 31,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.33-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "∴ ফাংশনটির লেখ পাশে দেখানো হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 36,
+      "pdfPageEnd": 36,
+      "printedPageStart": 31,
+      "printedPageEnd": 31,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

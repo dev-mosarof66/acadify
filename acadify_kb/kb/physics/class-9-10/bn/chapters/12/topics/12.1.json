@@ -1,0 +1,69 @@
+{
+  "id": "physics-9-10-bn-c12-t12.1",
+  "key": "12.1",
+  "title": "চুম্বক (Magnet)",
+  "chapter": 12,
+  "ordinal": 1,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c12-t12.1-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তোমরা সবাই নিশ্চয়ই চুম্বক দেখেছ, একটা চুম্বক লোহাজাতীয় পদার্থের কাছে আনলে সেটা লোহাকে আকর্ষণ করে। চুম্বক এবং লোহার মাঝখানে কিছু নেই; কিন্তু একটা অদ্ভুত বল সেটাকে টেনে আনছে। সেটি প্রথমবার দেখার পর সবাই এক ধরনের বিস্ময় হয়। যারা দুটি চুম্বক হাতে নিয়ে নাড়াচাড়া করার সুযোগ পেয়েছে তারা নিশ্চয়ই লক্ষ্য করেছে (চিত্র ১২.০১) যে চুম্বকের দুটি মেরু আছে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 336,
+      "pdfPageEnd": 336,
+      "printedPageStart": 331,
+      "printedPageEnd": 331,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.1-p002",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: diagram showing two magnets interacting",
+      "image": "p336-page_3_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 336,
+      "pdfPageEnd": 336,
+      "printedPageStart": 331,
+      "printedPageEnd": 331,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.1-p003",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "**চিত্র ১২.০১: চুম্বকের বিপরীত মেরুতে আকর্ষণ ও সমমেরুতে বিকর্ষণ হয়।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 336,
+      "pdfPageEnd": 336,
+      "printedPageStart": 331,
+      "printedPageEnd": 331,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c12-t12.1-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যদি দুইটি চুম্বকের কাছাকাছি নিয়ে আনা মেরু দুটি একই ধরনের হয়ে থাকে তাহলে তারা পরস্পর বিকর্ষণ করে; আর মেরু দুটি যদি ভিন্ন ধরনের হয় তাহলে তারা পরস্পর আকর্ষণ করে। চুম্বকের মেরু দুটিকে উত্তর আর দক্ষিণ মেরু নাম দেওয়া হয়েছে। কারণ দেখা গেছে একটা চুম্বককে মুক্তভাবে ঝুলিয়ে দিলে সেটা উত্তর-দক্ষিণ বরাবর থাকে। যে অংশটুকু উত্তর দিকে থাকে সেটার নাম উত্তর মেরু (বা উত্তরসন্ধানী মেরু) যেটা দক্ষিণ দিক বরাবর থাকে সেটা দক্ষিণ মেরু (দক্ষিণ সন্ধানী মেরু)। এটা ঘটে তার কারণ পৃথিবীর একটা চৌম্বক ক্ষেত্র রয়েছে। কোনো চুম্বক ঝোলালে সেই ক্ষেত্র বরাবর চুম্বকটা নিজেকে সাজিয়ে নেয়। দুটো চুম্বক কেমন করে একে অন্যকে আকর্ষণ করে আমরা সেগুলো নিয়ে আলোচনা করতেই পারি কিন্তু সবার আগে জানা দরকার চুম্বকের যে বল। সেটা আসে কোথা থেকে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 336,
+      "pdfPageEnd": 336,
+      "printedPageStart": 331,
+      "printedPageEnd": 331,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

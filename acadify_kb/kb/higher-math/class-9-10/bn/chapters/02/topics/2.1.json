@@ -1,0 +1,185 @@
+{
+  "id": "higher-math-9-10-bn-c02-t2.1",
+  "key": "2.1",
+  "title": "এক চলকের বহুপদী",
+  "chapter": 2,
+  "ordinal": 1,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c02-t2.1-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "মনে করি, $x$ একটি চলক। তাহলে, $(i) a$, $(ii) ax+b$, $(iii) ax^2+bx+c$, $(iv) ax^3+bx^2+cx+d$ ইত্যাদি আকারের রাশিকে $x$ চলকের বহুপদী বলা হয়, যেখানে, $a, b, c, d$ ইত্যাদি ধ্রুবক। সাধারণভাবে, $x$ চলকের বহুপদীর পদসমূহ $cx^p$ আকারের হয়, যেখানে $c$ একটি $x$-বর্জিত নির্দিষ্ট সংখ্যা (যা শূন্যও হতে পারে) এবং $p$ একটি অক্ষণাত্মক পূর্ণসংখ্যা। $p$ শূন্য হলে পদটি শুধু $c$ হয় এবং $c$ শূন্য হলে পদটি বহুপদীতে অনুklেন্থ থাকে। কোনো বহুপদীর সাধারণ পদ $cx^p$ এ $c$ কে $x^p$ এর সহগ (coefficient) এবং $p$ কে এই পদের মাত্রা বা ঘাত (degree) বলা হয়। কোনো বহুপদীতে উল্লিখিত পদসমূহের গরিষ্ঠ মাত্রাকে বহুপদীটির মাত্রা বলা হয়। বহুপদীতে গরিষ্ঠ মাত্রায়ুক্ত পদটিকে মুখ্যপদ ও মুখ্যপদের সহগকে মুখ্যসহগ এবং ০ মাত্রায়ুক্ত অর্থাৎ, চলক-বর্জিত পদটিকে ধ্রুবপদ বলা হয়। যেমন, $2x^6 - 3x^5 - x^4 + 2x - 5$, $x$ চলকের একটি বহুপদী, যার মাত্রা 6, মুখ্যপদ $2x^6$, মুখ্য সহগ 2 এবং ধ্রুবপদ $-5$। $a \\neq 0$ হলে, পূর্বোক্ত $(i)$ বহুপদীর মাত্রা 0, $(ii)$ বহুপদীর মাত্রা 1, $(iii)$ বহুপদীর মাত্রা 2 এবং $(iv)$ বহুপদীর মাত্রা 3। যেকোনো অশূন্য ধ্রুবক ($a \\neq 0$) প্রদত্ত যেকোনো চলকের 0 মাত্রার বহুপদী ($a = ax^0$ বিবেচ্য)। 0 সংখ্যাটিকে শূন্য বহুপদী বিবেচনা করা হয় এবং শূন্য বহুপদীর মাত্রা অসংজ্ঞায়িত ধরা হয়।",
+      "image": null,
+      "formulas": [
+        "x",
+        "(i) a",
+        "(ii) ax+b",
+        "(iii) ax^2+bx+c",
+        "(iv) ax^3+bx^2+cx+d",
+        "x",
+        "a, b, c, d",
+        "x",
+        "cx^p",
+        "c",
+        "x",
+        "p",
+        "p",
+        "c",
+        "c",
+        "cx^p",
+        "c",
+        "x^p",
+        "p",
+        "2x^6 - 3x^5 - x^4 + 2x - 5",
+        "x",
+        "2x^6",
+        "-5",
+        "a \\neq 0",
+        "(i)",
+        "(ii)",
+        "(iii)",
+        "(iv)",
+        "a \\neq 0",
+        "a = ax^0"
+      ],
+      "pdfPageStart": 44,
+      "pdfPageEnd": 44,
+      "printedPageStart": 39,
+      "printedPageEnd": 39,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.1-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$x$ চলকের বহুপদীকে সাধারণত $x$ এর ঘাতের অধঃক্রমে (অর্থাৎ, মুখ্যপদ থেকে শুরু করে ক্রমে ক্রমে ধ্রুবপদ পর্যন্ত) বর্ণনা করা হয়। এরূপ বর্ণনাকে বহুপদীটির আদর্শ রূপ (standard form) বলা হয়। ব্যবহারের সুবিধার্থে $x$ চলকের বহুপদীকে $P(x), Q(x)$ ইত্যাদি প্রতীক দ্বারা সূচিত করা হয়। যেমন, $P(x) = 2x^2 + 7x + 5$। এরূপ $P(x)$ প্রতীকে $x$ এর উপর বহুপদীটির মানের নির্ভরতা নির্দেশ করে। $P(x)$ বহুপদীতে $x$ চলকের পরিবর্তে কোনো নির্দিষ্ট সংখ্যা $a$ বসালে বহুপদীটির যে মান পাওয়া যায়, একে $P(a)$ দ্বারা সূচিত করা হয়।",
+      "image": null,
+      "formulas": [
+        "x",
+        "x",
+        "x",
+        "P(x), Q(x)",
+        "P(x) = 2x^2 + 7x + 5",
+        "P(x)",
+        "x",
+        "P(x)",
+        "x",
+        "a",
+        "P(a)"
+      ],
+      "pdfPageStart": 44,
+      "pdfPageEnd": 44,
+      "printedPageStart": 39,
+      "printedPageEnd": 39,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.1-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১.** যদি $P(x) = 3x^3 + 2x^2 - 7x + 8$ হয়, তবে $P(2), P(-2)$ এবং $P\\left(\\frac{1}{2}\\right)$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "P(x) = 3x^3 + 2x^2 - 7x + 8",
+        "P(2), P(-2)",
+        "P\\left(\\frac{1}{2}\\right)"
+      ],
+      "pdfPageStart": 44,
+      "pdfPageEnd": 44,
+      "printedPageStart": 39,
+      "printedPageEnd": 39,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.1-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** প্রদত্ত বহুপদীতে $x$ এর পরিবর্তে $2, -2, \\frac{1}{2}$ বসিয়ে পাই,",
+      "image": null,
+      "formulas": [
+        "x",
+        "2, -2, \\frac{1}{2}"
+      ],
+      "pdfPageStart": 44,
+      "pdfPageEnd": 44,
+      "printedPageStart": 39,
+      "printedPageEnd": 39,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.1-p005",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$P(2) = 3(2^3) + 2(2^2) - 7(2) + 8 = 26$$",
+      "image": null,
+      "formulas": [
+        "P(2) = 3(2^3) + 2(2^2) - 7(2) + 8 = 26"
+      ],
+      "pdfPageStart": 44,
+      "pdfPageEnd": 44,
+      "printedPageStart": 39,
+      "printedPageEnd": 39,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.1-p006",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$P(-2) = 3(-2)^3 + 2(-2)^2 - 7(-2) + 8 = 6$$",
+      "image": null,
+      "formulas": [
+        "P(-2) = 3(-2)^3 + 2(-2)^2 - 7(-2) + 8 = 6"
+      ],
+      "pdfPageStart": 44,
+      "pdfPageEnd": 44,
+      "printedPageStart": 39,
+      "printedPageEnd": 39,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.1-p007",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$P\\left(\\frac{1}{2}\\right) = 3\\left(\\frac{1}{2}\\right)^3 + 2\\left(\\frac{1}{2}\\right)^2 - 7\\left(\\frac{1}{2}\\right) + 8 = \\frac{43}{8}$$",
+      "image": null,
+      "formulas": [
+        "P\\left(\\frac{1}{2}\\right) = 3\\left(\\frac{1}{2}\\right)^3 + 2\\left(\\frac{1}{2}\\right)^2 - 7\\left(\\frac{1}{2}\\right) + 8 = \\frac{43}{8}"
+      ],
+      "pdfPageStart": 44,
+      "pdfPageEnd": 44,
+      "printedPageStart": 39,
+      "printedPageEnd": 39,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

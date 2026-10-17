@@ -1,0 +1,546 @@
+{
+  "id": "physics-9-10-bn-c10-t10.5",
+  "key": "10.5",
+  "title": "তড়িৎ ক্ষেত্র (Electric Field)",
+  "chapter": 10,
+  "ordinal": 5,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "দুটি চার্জের ভেতরকার বল আমরা কুলমের সূত্র দিয়ে বের করতে পারি। তোমাদের নিশ্চয়ই মনে আছে মাধ্যাকর্ষণ বলের জন্য প্রত্যেকবারই আলাদা করে মহাকর্ষ বল থেকে শুরু না করে আমরা মাধ্যাকর্ষণজনিত ত্বরণ বের করে নিয়েছিলাম। সেটার সঙ্গে ভর গুণ দিলেই বল বের হয়ে যেত।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তড়িৎ বলের বেলাতেও আমরা সেটা করতে পারি, আমরা তড়িৎ ক্ষেত্র বলে একটা নতুন রাশি সংজ্ঞায়িত করতে পারি, তার সাথে চার্জ $q$ গুণ করলেই আমরা সেই চার্জের ওপর আরোপিত বল $F$ পেয়ে যাব। অর্থাৎ যেকোনো চার্জ $q$ তার চারপাশে একটা তড়িৎ ক্ষেত্র তৈরি করে। সেই তড়িৎ ক্ষেত্রের কোন বিন্দুতে তড়িৎ ক্ষেত্র বা ক্ষেত্র প্রাবল্যের মান হচ্ছে",
+      "image": null,
+      "formulas": [
+        "q",
+        "F",
+        "q"
+      ],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p003",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$E = k \\frac{q}{r^2}$$",
+      "image": null,
+      "formulas": [
+        "E = k \\frac{q}{r^2}"
+      ],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এই তড়িৎ ক্ষেত্রে যদি কোনো চার্জ $q$ আনা হয় তাহলে চার্জটি $F$ বল অনুভব করবে, আর $F$ বলের পরিমাণ হবে:",
+      "image": null,
+      "formulas": [
+        "q",
+        "F",
+        "F"
+      ],
+      "pdfPageStart": 289,
+      "pdfPageEnd": 289,
+      "printedPageStart": 284,
+      "printedPageEnd": 284,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p005",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$F = Eq$$",
+      "image": null,
+      "formulas": [
+        "F = Eq"
+      ],
+      "pdfPageStart": 289,
+      "pdfPageEnd": 289,
+      "printedPageStart": 284,
+      "printedPageEnd": 284,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বল $F$ যেহেতু ভেক্টর, $q$ যেহেতু স্কেলার তাই $E$ হচ্ছে ভেক্টর এবং তার একক হচ্ছে N/C তোমরা দেখবে তড়িৎ ক্ষেত্র দিয়ে ব্যাখ্যা করা হলে পুরো বিষয়টি বিশ্লেষণ করা অনেক সহজ হয়।",
+      "image": null,
+      "formulas": [
+        "F",
+        "q",
+        "E"
+      ],
+      "pdfPageStart": 289,
+      "pdfPageEnd": 289,
+      "printedPageStart": 284,
+      "printedPageEnd": 284,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তড়িৎ ক্ষেত্র দেখা যায় না কিন্তু কাউকে বোঝানোর জন্য অনেক সময় তড়িৎ বলরেখা নামে পুরোপুরি কাল্পনিক এক ধরনের রেখা ঐকে কাল্পনিক এক ধরনের রেখা ঐকে দেখানো হয় (মাইকেল ফ্যারাডে প্রথম সেটা করেছিলেন।) আমাদের পরিচিত জগৎ ত্রিমাত্রিক কাজেই বলরেখাগুলো চারদিকেই ছড়িয়ে পড়েবে। তোমাদের দেখানোর জন্য সেগুলো একটা সমতলে ঐকে দেখানো হয়েছে। (চিত্র ১০.১১)",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 289,
+      "pdfPageEnd": 289,
+      "printedPageStart": 284,
+      "printedPageEnd": 284,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p008",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: Electric field lines radiating from a positive charge (left) and converging to a negative charge (right)",
+      "image": "p289-page_15_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 289,
+      "pdfPageEnd": 289,
+      "printedPageStart": 284,
+      "printedPageEnd": 284,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p009",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "**চিত্র ১০.১১: পজিটিভ চার্জ থেকে বলরেখা চারদিকে ছড়িয়ে পড়ে এবং নেগেটিভ চার্জের দিকে বলরেখা কেন্দ্রীভূত হয়।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 289,
+      "pdfPageEnd": 289,
+      "printedPageStart": 284,
+      "printedPageEnd": 284,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বলরেখাগুলো আঁকার সময় কিছু নিয়ম মনে চলা হয়। যেমন:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 289,
+      "pdfPageEnd": 289,
+      "printedPageStart": 284,
+      "printedPageEnd": 284,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(a) পজিটিভ চার্জের বেলায় বলরেখা পজিটিভ চার্জ থেকে বের হবে এবং নেগেটিভ চার্জের বেলায় বলরেখা নেগেটিভ চার্জ এসে কেন্দ্রীভূত হবে। একটা নির্দিষ্ট বিন্দুতে বলরেখার স্পর্শকের দিক হচ্ছে তড়িৎ ক্ষেত্রের দিক।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 289,
+      "pdfPageEnd": 289,
+      "printedPageStart": 284,
+      "printedPageEnd": 284,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(b) চার্জের পরিমাণ যত বেশি হবে প্রতি একক আয়তন বা ক্ষেত্রফলে বলরেখার সংখ্যা তত বেশি হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 289,
+      "pdfPageEnd": 289,
+      "printedPageStart": 284,
+      "printedPageEnd": 284,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(c) বলরেখাগুলো যত কাছাকাছি থাকবে তড়িৎ ক্ষেত্রের মান তত বেশি হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 289,
+      "pdfPageEnd": 289,
+      "printedPageStart": 284,
+      "printedPageEnd": 284,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(d) একটি চার্জের বলরেখা কখনো অন্য চার্জের বলরেখার ওপর দিয়ে যাবে না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 289,
+      "pdfPageEnd": 289,
+      "printedPageStart": 284,
+      "printedPageEnd": 284,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "১০.১২ **a** চিত্রটিতে দুটো বিপরীত চার্জের জন্য বলরেখা দেখানো হয়েছে এবং তোমরা দেখতে পাছছ এক চার্জের বলরেখা অন্য চার্জে গিয়ে সমাপ্ত হয়েছে। যেখানে তড়িৎ ক্ষেত্র বেশি সেখানে বলরেখার সংখ্যাও বেশি। শুধু তা-ই নয় চিত্রটি দেখলে দুটো চার্জ একটা আরেকটাকে টানছে এ রকম একটা অনুভূতি হয়। ১০.১২ **b** চিত্রটিতে দুটোই পজিটিভ চার্জ দেখানো হয়েছে এবং চিত্রটি দেখেই দুটো চার্জ একটি আরেকটিকে ঠেলে দিচ্ছে এ রকম অনুভূতি হচ্ছে। শুধু তা-ই নয় দুটো চার্জের মাঝামাঝি অংশে একটি চার্জের তড়িৎ ক্ষেত্র অন্য চার্জের তড়িৎ ক্ষেত্রকে কাটাকাটি করে ফেলে ফলে, সেখানে বলরেখা কম এবং এর মাঝখানে একটি বিন্দু রয়েছে যেখানে তড়িৎ ক্ষেত্রের মান শূন্য। যদি দুটোই নেগেটিভ চার্জ হতো তাহলে শুধু বলরেখার দিক পরিবর্তন হতো, তাছাড়া অন্য সবকিছু আগের মতোই হতো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 290,
+      "pdfPageEnd": 290,
+      "printedPageStart": 285,
+      "printedPageEnd": 285,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p016",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: electric field line diagrams for (a) opposite charges and (b) like charges",
+      "image": "p290-page_16_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 290,
+      "pdfPageEnd": 290,
+      "printedPageStart": 285,
+      "printedPageEnd": 285,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p017",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "**চিত্র ১০.১২: (a) বিপরীত এবং (b) সমচার্জের জন্য তৈরি বলরেখা।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 290,
+      "pdfPageEnd": 290,
+      "printedPageStart": 285,
+      "printedPageEnd": 285,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p018",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** 5 C চার্জের জন্য 10 m দূরে তড়িৎ ক্ষেত্রের মান কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 291,
+      "pdfPageEnd": 291,
+      "printedPageStart": 286,
+      "printedPageEnd": 286,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p019",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 291,
+      "pdfPageEnd": 291,
+      "printedPageStart": 286,
+      "printedPageEnd": 286,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p020",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$E = k \\frac{q}{r^2}$$",
+      "image": null,
+      "formulas": [
+        "E = k \\frac{q}{r^2}"
+      ],
+      "pdfPageStart": 291,
+      "pdfPageEnd": 291,
+      "printedPageStart": 286,
+      "printedPageEnd": 286,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p021",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "এখানে\n$$q = 5  C$$\n$$r = 10  m$$\n$$k = 9 \\times 10^9  Nm^2/C^2$$",
+      "image": null,
+      "formulas": [
+        "q = 5  C",
+        "r = 10  m",
+        "k = 9 \\times 10^9  Nm^2/C^2"
+      ],
+      "pdfPageStart": 291,
+      "pdfPageEnd": 291,
+      "printedPageStart": 286,
+      "printedPageEnd": 286,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p022",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 291,
+      "pdfPageEnd": 291,
+      "printedPageStart": 286,
+      "printedPageEnd": 286,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p023",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$E = \\frac{9 \\times 10^9 \\times 5}{10^2}  N/C = 4.5 \\times 10^8  N/C$$",
+      "image": null,
+      "formulas": [
+        "E = \\frac{9 \\times 10^9 \\times 5}{10^2}  N/C = 4.5 \\times 10^8  N/C"
+      ],
+      "pdfPageStart": 291,
+      "pdfPageEnd": 291,
+      "printedPageStart": 286,
+      "printedPageEnd": 286,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p024",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "drawing: electric field lines between two charges",
+      "image": "p291-page_17_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 291,
+      "pdfPageEnd": 291,
+      "printedPageStart": 286,
+      "printedPageEnd": 286,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p025",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**চিত্র ১০.১৩: চার্জ এবং দ্বিগুণ পরিমাণ বিপরীত চার্জের জন্য বলরেখা।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 291,
+      "pdfPageEnd": 291,
+      "printedPageStart": 286,
+      "printedPageEnd": 286,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p026",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** 3C চার্জের একটি বস্তু 10N বল অনুভব করছে, ঐ জায়গায় তড়িৎ ক্ষেত্রের মান কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 291,
+      "pdfPageEnd": 291,
+      "printedPageStart": 286,
+      "printedPageEnd": 286,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p027",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** $F = qE$",
+      "image": null,
+      "formulas": [
+        "F = qE"
+      ],
+      "pdfPageStart": 291,
+      "pdfPageEnd": 291,
+      "printedPageStart": 286,
+      "printedPageEnd": 286,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p028",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই\n$$E = \\frac{F}{q}$$",
+      "image": null,
+      "formulas": [
+        "E = \\frac{F}{q}"
+      ],
+      "pdfPageStart": 291,
+      "pdfPageEnd": 291,
+      "printedPageStart": 286,
+      "printedPageEnd": 286,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p029",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "এখানে\n$$F = 10  N$$\n$$q = 3  C$$",
+      "image": null,
+      "formulas": [
+        "F = 10  N",
+        "q = 3  C"
+      ],
+      "pdfPageStart": 291,
+      "pdfPageEnd": 291,
+      "printedPageStart": 286,
+      "printedPageEnd": 286,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p030",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই\n$$E = \\frac{F}{q} = \\frac{10  N}{3  C} = 3.33  N/C$$",
+      "image": null,
+      "formulas": [
+        "E = \\frac{F}{q} = \\frac{10  N}{3  C} = 3.33  N/C"
+      ],
+      "pdfPageStart": 291,
+      "pdfPageEnd": 291,
+      "printedPageStart": 286,
+      "printedPageEnd": 286,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p031",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** চার্জ এবং তার দ্বিগুণ পরিমাণ বিপরীত চার্জ থাকলে তার বলরেখা কেমন হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 291,
+      "pdfPageEnd": 291,
+      "printedPageStart": 286,
+      "printedPageEnd": 286,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.5-p032",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** ১০.১৩ চিত্রটিতে দেখানো হয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 291,
+      "pdfPageEnd": 291,
+      "printedPageStart": 286,
+      "printedPageEnd": 286,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

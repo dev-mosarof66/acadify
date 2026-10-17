@@ -1,0 +1,69 @@
+{
+  "id": "chemistry-9-10-bn-c02-t2.5",
+  "key": "2.5",
+  "title": "মোমবাতির প্রজ্বলন এবং মোমের তিন অবস্থা",
+  "chapter": 2,
+  "ordinal": 5,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c02-t2.5-p001",
+      "kind": "figure",
+      "section": "(Burning of a Candle and the Three States of Wax)",
+      "caption": null,
+      "body": "drawing: A diagram of a burning candle with labels pointing to the liquid wax (তরল মোম) and the solid wax (কঠিন মোম).",
+      "image": "p30-page_9_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 30,
+      "pdfPageEnd": 30,
+      "printedPageStart": 25,
+      "printedPageEnd": 25,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c02-t2.5-p002",
+      "kind": "figure",
+      "section": "(Burning of a Candle and the Three States of Wax)",
+      "caption": null,
+      "body": "**চিত্র ২.০৫: মোমবাতির জ্বলন**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 30,
+      "pdfPageEnd": 30,
+      "printedPageStart": 25,
+      "printedPageEnd": 25,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c02-t2.5-p003",
+      "kind": "text",
+      "section": "(Burning of a Candle and the Three States of Wax)",
+      "caption": null,
+      "body": "মোম হলো বিভিন্ন হাইড্রোকার্বনের মিশ্রণ। হাইড্রোজেন এবং কার্বন মিলে গঠিত জৈব যৌগই হলো হাইড্রোকার্বন। মোমের প্রজ্বলনে আমরা মোমের কঠিন, তরল এবং গ্যাসীয় এই তিনটি অবস্থাই দেখতে পাই। মোমবাতিতে মোমের মধ্যে একটি সুতা থাকে। এ সুতাতে আগুন জ্বালালে সুতার চারদিকে হাইড্রোকার্বন অণুগুলো তাপে গলে তরলে পরিণত হয়। অর্থাৎ কঠিন অবস্থা থেকে তরল অবস্থায় পরিণত হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 30,
+      "pdfPageEnd": 30,
+      "printedPageStart": 25,
+      "printedPageEnd": 25,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c02-t2.5-p004",
+      "kind": "text",
+      "section": "(Burning of a Candle and the Three States of Wax)",
+      "caption": null,
+      "body": "ঐ তরল মোম আগুনের তাপে প্রথমে বাষ্পে পরিণত হয়। অতপর ঐ বাষ্পীয় মোম বাতাসের অক্সিজেনের সাথে বিক্রিয়া করে কার্বন ডাই-অক্সাইড, জলীয় বাষ্প, আলো এবং তাপ উৎপন্ন করে। তরল মোমের কিছু অংশ ঠান্ডা হলে তা কঠিন মোমে পরিণত হয়। অর্থাৎ তাপের প্রভাবে মোমের কঠিন, তরল ও গ্যাসীয় এই তিন অবস্থারই অস্তিত্ব পাওয়া যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 30,
+      "pdfPageEnd": 30,
+      "printedPageStart": 25,
+      "printedPageEnd": 25,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

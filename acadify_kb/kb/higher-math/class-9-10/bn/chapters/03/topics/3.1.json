@@ -1,0 +1,1344 @@
+{
+  "id": "higher-math-9-10-bn-c03-t3.1",
+  "key": "3.1",
+  "title": "কতিপয় গুরুত্বপূর্ণ উপপাদ্য",
+  "chapter": 3,
+  "ordinal": 1,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "পিথাগোরাসের উপপাদ্যের উপর ভিত্তি করে এবং লম্ব অভিক্ষেপের ধারণার সাহায্যে আমরা এখন কয়েকটি গুরুত্বপূর্ণ উপপাদ্যের যুক্তিমূলক প্রমাণ উপস্থাপন করব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 71,
+      "pdfPageEnd": 71,
+      "printedPageStart": 66,
+      "printedPageEnd": 66,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উপপাদ্য ৩.** স্তূলকোণী ত্রিভুজের স্তূলকোণের বিপরীত বাহুর উপর অঙ্কিত বর্গক্ষেত্রের ক্ষেত্রফল ঐ কোণের সমনিহিত অন্য দুই বাহুর উপর অঙ্কিত বর্গক্ষেত্রদ্বয়ের ক্ষেত্রফল এবং ঐ দুই বাহুর যেকোনো একটি ও তার উপর অপর বাহুর লম্ব অভিক্ষেপের অন্তর্গত আয়তক্ষেত্রের ক্ষেত্রফলের দ্বিগুণের সমষ্টির সমান।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 71,
+      "pdfPageEnd": 71,
+      "printedPageStart": 66,
+      "printedPageEnd": 66,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**বিশেষ নির্বাচন:** মনে করি, $ABC$ ত্রিভুজের $\\angle BCA$ স্তূলকোণ, $AB$ স্তূলকোণের বিপরীত বাহু এবং স্তূলকোণের সমনিহিত বাহুদ্বয় $BC$ ও $AC$।",
+      "image": null,
+      "formulas": [
+        "ABC",
+        "\\angle BCA",
+        "AB",
+        "BC",
+        "AC"
+      ],
+      "pdfPageStart": 71,
+      "pdfPageEnd": 71,
+      "printedPageStart": 66,
+      "printedPageEnd": 66,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$BC$ বাহুর বর্ধিতাংশের উপর $AC$ বাহুর লম্ব অভিক্ষেপ $CD$ (নিচের চিত্র)। প্রমাণ করতে হবে যে, $AB^2 = AC^2 + BC^2 + 2 \\cdot BC \\cdot CD$",
+      "image": null,
+      "formulas": [
+        "BC",
+        "AC",
+        "CD",
+        "AB^2 = AC^2 + BC^2 + 2 \\cdot BC \\cdot CD"
+      ],
+      "pdfPageStart": 71,
+      "pdfPageEnd": 71,
+      "printedPageStart": 66,
+      "printedPageEnd": 66,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p005",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A right-angled triangle with vertices A, B, and D, and a point C on the base BD.",
+      "image": "p71-page_4_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 71,
+      "pdfPageEnd": 71,
+      "printedPageStart": 66,
+      "printedPageEnd": 66,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:** $BC$ বাহুর বর্ধিতাংশের উপর $AC$ বাহুর লম্ব অভিক্ষেপ $CD$ হওয়ায় $\\triangle ABD$ একটি সমকোণী ত্রিভুজ এবং $\\angle ADB$ সমকোণ।",
+      "image": null,
+      "formulas": [
+        "BC",
+        "AC",
+        "CD",
+        "\\triangle ABD",
+        "\\angle ADB"
+      ],
+      "pdfPageStart": 71,
+      "pdfPageEnd": 71,
+      "printedPageStart": 66,
+      "printedPageEnd": 66,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং পিথাগোরাসের উপপাদ্য অনুসারে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 71,
+      "pdfPageEnd": 71,
+      "printedPageStart": 66,
+      "printedPageEnd": 66,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p008",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\begin{aligned}\nAB^2 &= AD^2 + BD^2 \\\\\n&= AD^2 + (BC + CD)^2 & [\\because BD = BC + CD] \\\\\n&= AD^2 + BC^2 + CD^2 + 2 \\cdot BC \\cdot CD\n\\end{aligned}$$",
+      "image": null,
+      "formulas": [
+        "\\begin{aligned}\nAB^2 &= AD^2 + BD^2 \\\\\n&= AD^2 + (BC + CD)^2 & [\\because BD = BC + CD] \\\\\n&= AD^2 + BC^2 + CD^2 + 2 \\cdot BC \\cdot CD\n\\end{aligned}"
+      ],
+      "pdfPageStart": 71,
+      "pdfPageEnd": 71,
+      "printedPageStart": 66,
+      "printedPageEnd": 66,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p009",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\therefore AB^2 = AD^2 + CD^2 + BC^2 + 2 \\cdot BC \\cdot CD \\dots\\dots (1)$$",
+      "image": null,
+      "formulas": [
+        "\\therefore AB^2 = AD^2 + CD^2 + BC^2 + 2 \\cdot BC \\cdot CD \\dots\\dots (1)"
+      ],
+      "pdfPageStart": 71,
+      "pdfPageEnd": 71,
+      "printedPageStart": 66,
+      "printedPageEnd": 66,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার $\\triangle ACD$ সমকোণী ত্রিভুজ এবং $\\angle ADC$ সমকোণ।",
+      "image": null,
+      "formulas": [
+        "\\triangle ACD",
+        "\\angle ADC"
+      ],
+      "pdfPageStart": 71,
+      "pdfPageEnd": 71,
+      "printedPageStart": 66,
+      "printedPageEnd": 66,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p011",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\therefore AC^2 = AD^2 + CD^2 \\dots\\dots (2)$$",
+      "image": null,
+      "formulas": [
+        "\\therefore AC^2 = AD^2 + CD^2 \\dots\\dots (2)"
+      ],
+      "pdfPageStart": 71,
+      "pdfPageEnd": 71,
+      "printedPageStart": 66,
+      "printedPageEnd": 66,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(2) নং সমীকরণ হতে $AD^2 + CD^2 = AC^2$ (1) নং সমীকরণে বসিয়ে পাই,",
+      "image": null,
+      "formulas": [
+        "AD^2 + CD^2 = AC^2"
+      ],
+      "pdfPageStart": 71,
+      "pdfPageEnd": 71,
+      "printedPageStart": 66,
+      "printedPageEnd": 66,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p013",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$AB^2 = AC^2 + BC^2 + 2 \\cdot BC \\cdot CD \\quad [প্রমাণিত]$$",
+      "image": null,
+      "formulas": [
+        "AB^2 = AC^2 + BC^2 + 2 \\cdot BC \\cdot CD \\quad [প্রমাণিত]"
+      ],
+      "pdfPageStart": 71,
+      "pdfPageEnd": 71,
+      "printedPageStart": 66,
+      "printedPageEnd": 66,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উপপাদ্য ৪.** যেকোনো ত্রিভুজের সূক্ষ্মকোণের বিপরীত বাহুর উপর অঙ্কিত বর্গক্ষেত্রের ক্ষেত্রফল অপর দুই বাহুর উপর অঙ্কিত বর্গক্ষেত্রদ্বয়ের ক্ষেত্রফলের সমষ্টি অপেক্ষা ঐ দুই বাহুর যেকোনো একটি ও তার উপর অপরটির লম্ব অভিক্ষেপের অন্তর্গত আয়তক্ষেত্রের ক্ষেত্রফলের দ্বিগুণ পরিমাণ কম।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 71,
+      "pdfPageEnd": 71,
+      "printedPageStart": 66,
+      "printedPageEnd": 66,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**বিশেষ নির্বচন:** মনে করি, $\\triangle ABC$ ত্রিভুজের $\\angle ACB$ সূক্ষ্মকোণ এবং সূক্ষ্মকোণের বিপরীত বাহু $AB$। অপর দুই বাহু $AC$ ও $BC$। মনে করি, $BC$ বাহুর উপর (নিচের বাম পাশের চিত্র) এবং $CB$ বাহুর বর্ধিতাংশের উপর (নিচের ডান পাশের চিত্র) লম্ব $AD$। তাহলে উভয় ত্রিভুজের ক্ষেত্রে $BC$ বাহুর উপর $AC$ বাহুর লম্ব অভিক্ষেপ $CD$। প্রমাণ করতে হবে যে $AB^2 = AC^2 + BC^2 - 2 \\cdot BC \\cdot CD$।",
+      "image": null,
+      "formulas": [
+        "\\triangle ABC",
+        "\\angle ACB",
+        "AB",
+        "AC",
+        "BC",
+        "BC",
+        "CB",
+        "AD",
+        "BC",
+        "AC",
+        "CD",
+        "AB^2 = AC^2 + BC^2 - 2 \\cdot BC \\cdot CD"
+      ],
+      "pdfPageStart": 72,
+      "pdfPageEnd": 72,
+      "printedPageStart": 67,
+      "printedPageEnd": 67,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "[উল্লেখ করা দরকার যে এখানে $A$ থেকে $BC$ এর উপর লম্ব টানা হয়েছে। কিন্তু $B$ বিন্দু থেকে $AC$ এর উপর লম্ব অঙ্কনের মাধ্যমেও একইভাবে উপপাদ্যটি প্রমাণ করা যায়।]",
+      "image": null,
+      "formulas": [
+        "A",
+        "BC",
+        "B",
+        "AC"
+      ],
+      "pdfPageStart": 72,
+      "pdfPageEnd": 72,
+      "printedPageStart": 67,
+      "printedPageEnd": 67,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p017",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: geometric diagrams of triangles with altitude AD",
+      "image": "p72-page_5_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 72,
+      "pdfPageEnd": 72,
+      "printedPageStart": 67,
+      "printedPageEnd": 67,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:** $\\triangle ADB$ সমকোণী ত্রিভুজ এবং $\\angle ADB$ সমকোণ।",
+      "image": null,
+      "formulas": [
+        "\\triangle ADB",
+        "\\angle ADB"
+      ],
+      "pdfPageStart": 72,
+      "pdfPageEnd": 72,
+      "printedPageStart": 67,
+      "printedPageEnd": 67,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ পিথাগোরাসের উপপাদ্য অনুসারে $AB^2 = AD^2 + BD^2$ (1)",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "AB^2 = AD^2 + BD^2"
+      ],
+      "pdfPageStart": 72,
+      "pdfPageEnd": 72,
+      "printedPageStart": 67,
+      "printedPageEnd": 67,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "উপরের বামের চিত্রে $BD = BC - CD$।",
+      "image": null,
+      "formulas": [
+        "BD = BC - CD"
+      ],
+      "pdfPageStart": 72,
+      "pdfPageEnd": 72,
+      "printedPageStart": 67,
+      "printedPageEnd": 67,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p021",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore BD^2 = (BC - CD)^2 = BC^2 + CD^2 - 2 \\cdot BC \\cdot CD$",
+      "image": null,
+      "formulas": [
+        "\\therefore BD^2 = (BC - CD)^2 = BC^2 + CD^2 - 2 \\cdot BC \\cdot CD"
+      ],
+      "pdfPageStart": 72,
+      "pdfPageEnd": 72,
+      "printedPageStart": 67,
+      "printedPageEnd": 67,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "উপরের ডানের চিত্রে $BD = CD - BC$।",
+      "image": null,
+      "formulas": [
+        "BD = CD - BC"
+      ],
+      "pdfPageStart": 72,
+      "pdfPageEnd": 72,
+      "printedPageStart": 67,
+      "printedPageEnd": 67,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p023",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore BD^2 = (CD - BC)^2 = CD^2 + BC^2 - 2 \\cdot CD \\cdot BC$",
+      "image": null,
+      "formulas": [
+        "\\therefore BD^2 = (CD - BC)^2 = CD^2 + BC^2 - 2 \\cdot CD \\cdot BC"
+      ],
+      "pdfPageStart": 72,
+      "pdfPageEnd": 72,
+      "printedPageStart": 67,
+      "printedPageEnd": 67,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং উভয় চিত্রে $BD^2 = BC^2 + CD^2 - 2 \\cdot BC \\cdot CD$ (2)",
+      "image": null,
+      "formulas": [
+        "BD^2 = BC^2 + CD^2 - 2 \\cdot BC \\cdot CD"
+      ],
+      "pdfPageStart": 72,
+      "pdfPageEnd": 72,
+      "printedPageStart": 67,
+      "printedPageEnd": 67,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p025",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন সমীকরণ (1) ও (2) হতে পাওয়া যায়,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 72,
+      "pdfPageEnd": 72,
+      "printedPageStart": 67,
+      "printedPageEnd": 67,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p026",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$AB^2 = AD^2 + BC^2 + CD^2 - 2 \\cdot BC \\cdot CD$",
+      "image": null,
+      "formulas": [
+        "AB^2 = AD^2 + BC^2 + CD^2 - 2 \\cdot BC \\cdot CD"
+      ],
+      "pdfPageStart": 72,
+      "pdfPageEnd": 72,
+      "printedPageStart": 67,
+      "printedPageEnd": 67,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p027",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $AB^2 = AD^2 + CD^2 + BC^2 - 2 \\cdot BC \\cdot CD$ (3)",
+      "image": null,
+      "formulas": [
+        "AB^2 = AD^2 + CD^2 + BC^2 - 2 \\cdot BC \\cdot CD"
+      ],
+      "pdfPageStart": 72,
+      "pdfPageEnd": 72,
+      "printedPageStart": 67,
+      "printedPageEnd": 67,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p028",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার $\\triangle ADC$ সমকোণী ত্রিভুজ এবং $\\angle ADC$ সমকোণ।",
+      "image": null,
+      "formulas": [
+        "\\triangle ADC",
+        "\\angle ADC"
+      ],
+      "pdfPageStart": 72,
+      "pdfPageEnd": 72,
+      "printedPageStart": 67,
+      "printedPageEnd": 67,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p029",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ পিথাগোরাসের উপপাদ্য অনুসারে $AC^2 = AD^2 + CD^2$ (4)",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "AC^2 = AD^2 + CD^2"
+      ],
+      "pdfPageStart": 72,
+      "pdfPageEnd": 72,
+      "printedPageStart": 67,
+      "printedPageEnd": 67,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p030",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সমীকরণ (3) ও (4) হতে পাওয়া যায়,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 72,
+      "pdfPageEnd": 72,
+      "printedPageStart": 67,
+      "printedPageEnd": 67,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p031",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$AB^2 = AC^2 + BC^2 - 2 \\cdot BC \\cdot CD$ [প্রমাণিত]",
+      "image": null,
+      "formulas": [
+        "AB^2 = AC^2 + BC^2 - 2 \\cdot BC \\cdot CD"
+      ],
+      "pdfPageStart": 72,
+      "pdfPageEnd": 72,
+      "printedPageStart": 67,
+      "printedPageEnd": 67,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p032",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 72,
+      "pdfPageEnd": 72,
+      "printedPageStart": 67,
+      "printedPageEnd": 67,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p033",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "১. সমকোণী ত্রিভুজের ক্ষেত্রে সমকোণের সন্নিহিত বাহুদ্বয় পরস্পর লম্ব বিধায় তাদের প্রত্যেকটির উপর অপরটির লম্ব অভিক্ষেপ শূন্য। $\\angle ACB$ সমকোণ হলে $BC$ এর উপর $AC$ এর লম্ব অভিক্ষেপ $CD = 0$। সুতরাং $BC \\cdot CD = 0$, ফলে $AB^2 = AC^2 + BC^2$",
+      "image": null,
+      "formulas": [
+        "\\angle ACB",
+        "BC",
+        "AC",
+        "CD = 0",
+        "BC \\cdot CD = 0",
+        "AB^2 = AC^2 + BC^2"
+      ],
+      "pdfPageStart": 72,
+      "pdfPageEnd": 72,
+      "printedPageStart": 67,
+      "printedPageEnd": 67,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p034",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "২০২",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 72,
+      "pdfPageEnd": 72,
+      "printedPageStart": 67,
+      "printedPageEnd": 67,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p035",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "২. উপপাদ্য ৩ ও উপপাদ্য ৪, উপপাদ্য ১ এর ভিত্তির উপর প্রতিষ্ঠিত। তাই উপপাদ্য ৩ ও উপপাদ্য ৪ কে উপপাদ্য ১ অর্থাৎ পিথাগোরাসের উপপাদ্যের অনুসিদ্ধান্ত বলা যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 73,
+      "pdfPageEnd": 73,
+      "printedPageStart": 68,
+      "printedPageEnd": 68,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p036",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "উপরোক্ত আলোচনা সাপেক্ষে গৃহীত সিদ্ধান্তসমূহ: $\\triangle ABC$ এর ক্ষেত্রে,",
+      "image": null,
+      "formulas": [
+        "\\triangle ABC"
+      ],
+      "pdfPageStart": 73,
+      "pdfPageEnd": 73,
+      "printedPageStart": 68,
+      "printedPageEnd": 68,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p037",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $\\angle ACB$ স্থূলকোণ হলে, $AB^2 > AC^2 + BC^2$ [উপপাদ্য ৩]",
+      "image": null,
+      "formulas": [
+        "\\angle ACB",
+        "AB^2 > AC^2 + BC^2"
+      ],
+      "pdfPageStart": 73,
+      "pdfPageEnd": 73,
+      "printedPageStart": 68,
+      "printedPageEnd": 68,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p038",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $\\angle ACB$ সমকোণ হলে, $AB^2 = AC^2 + BC^2$ [উপপাদ্য ১]",
+      "image": null,
+      "formulas": [
+        "\\angle ACB",
+        "AB^2 = AC^2 + BC^2"
+      ],
+      "pdfPageStart": 73,
+      "pdfPageEnd": 73,
+      "printedPageStart": 68,
+      "printedPageEnd": 68,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p039",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $\\angle ACB$ সূক্ষ্মকোণ হলে, $AB^2 < AC^2 + BC^2$ [উপপাদ্য ৪]",
+      "image": null,
+      "formulas": [
+        "\\angle ACB",
+        "AB^2 < AC^2 + BC^2"
+      ],
+      "pdfPageStart": 73,
+      "pdfPageEnd": 73,
+      "printedPageStart": 68,
+      "printedPageEnd": 68,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p040",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "নিচের উপপাদ্যটি এ্যাপোলোনিয়াস (জন্ম খ্রিস্টপূর্ব ২৪০-মৃত্যু খ্রিস্টপূর্ব ১৯০) কর্তৃক বর্ণিত বলে এটি অ্যাপোলোনিয়াসের উপপাদ্য নামে পরিচিত। এটি পিথাগোরাসের উপপাদ্যের বিস্তার অর্থাৎ উপপাদ্য ৩ ও উপপাদ্য ৪ এর উপর ভিত্তি করে প্রতিষ্ঠিত।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 73,
+      "pdfPageEnd": 73,
+      "printedPageStart": 68,
+      "printedPageEnd": 68,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p041",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "উপপাদ্য ৫ (এ্যাপোলোনিয়াসের উপপাদ্য). ত্রিভুজের যেকোনো দুই বাহুর উপর অঙ্কিত বর্গক্ষেত্রদ্বয়ের ক্ষেত্রফলের সমষ্টি, তৃতীয় বাহুর অর্ধেকের উপর অঙ্কিত বর্গক্ষেত্রের ক্ষেত্রফল এবং ঐ বাহুর সমদ্বিখণ্ডক মধ্যমার উপর অঙ্কিত বর্গক্ষেত্রের ক্ষেত্রফলের সমষ্টির দ্বিগুণ।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 73,
+      "pdfPageEnd": 73,
+      "printedPageStart": 68,
+      "printedPageEnd": 68,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p042",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**বিশেষ নির্দেশ:** মনে করি, $\\triangle ABC$ এর $AD$ মধ্যমা $BC$ বাহুকে সমদ্বিখণ্ডিত করেছে। প্রমাণ করতে হবে যে, $AB^2 + AC^2 = 2(AD^2 + BD^2)$।",
+      "image": null,
+      "formulas": [
+        "\\triangle ABC",
+        "AD",
+        "BC",
+        "AB^2 + AC^2 = 2(AD^2 + BD^2)"
+      ],
+      "pdfPageStart": 73,
+      "pdfPageEnd": 73,
+      "printedPageStart": 68,
+      "printedPageEnd": 68,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p043",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: geometric diagrams of a triangle with an altitude and median",
+      "image": "p73-page_6_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 73,
+      "pdfPageEnd": 73,
+      "printedPageStart": 68,
+      "printedPageEnd": 68,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p044",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:** $BC$ বাহুর উপর (উপরের বাম পাশের চিত্রে) এবং $BC$ বাহুর বর্ধিতাংশের উপর (উপরের ডান পাশের চিত্রে) $AE$ লম্ব অঙ্কন করি। উভয় চিত্রে $\\triangle ABD$ এর $\\angle ADB$ স্থূলকোণ এবং $BD$ রেখার বর্ধিতাংশের উপর $AD$ রেখার লম্ব অভিক্ষেপ $DE$।",
+      "image": null,
+      "formulas": [
+        "BC",
+        "BC",
+        "AE",
+        "\\triangle ABD",
+        "\\angle ADB",
+        "BD",
+        "AD",
+        "DE"
+      ],
+      "pdfPageStart": 73,
+      "pdfPageEnd": 73,
+      "printedPageStart": 68,
+      "printedPageEnd": 68,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p045",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "স্থূলকোণের ক্ষেত্রে পিথাগোরাসের উপপাদ্যের বিস্তৃতি অনুসারে [উপপাদ্য ৩] আমরা পাই,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 73,
+      "pdfPageEnd": 73,
+      "printedPageStart": 68,
+      "printedPageEnd": 68,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p046",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$AB^2 = AD^2 + BD^2 + 2 \\cdot BD \\cdot DE \\dots\\dots (1)$$",
+      "image": null,
+      "formulas": [
+        "AB^2 = AD^2 + BD^2 + 2 \\cdot BD \\cdot DE \\dots\\dots (1)"
+      ],
+      "pdfPageStart": 73,
+      "pdfPageEnd": 73,
+      "printedPageStart": 68,
+      "printedPageEnd": 68,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p047",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে, $\\triangle ACD$ এর $\\angle ADC$ সূক্ষ্মকোণ এবং $DC$ রেখার (উপরের বাম পাশের চিত্রে) এবং $DC$ রেখার বর্ধিতাংশের (উপরের ডান পাশের চিত্রে) উপর $AD$ রেখার লম্ব অভিক্ষেপ $DE$।",
+      "image": null,
+      "formulas": [
+        "\\triangle ACD",
+        "\\angle ADC",
+        "DC",
+        "DC",
+        "AD",
+        "DE"
+      ],
+      "pdfPageStart": 73,
+      "pdfPageEnd": 73,
+      "printedPageStart": 68,
+      "printedPageEnd": 68,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p048",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সূক্ষ্মকোণের ক্ষেত্রে পিথাগোরাসের উপপাদ্যের বিস্তৃতি অনুসারে [উপপাদ্য ৪] আমরা পাই,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 73,
+      "pdfPageEnd": 73,
+      "printedPageStart": 68,
+      "printedPageEnd": 68,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p049",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$AC^2 = AD^2 + CD^2 - 2 \\cdot CD \\cdot DE \\dots\\dots (2)$$",
+      "image": null,
+      "formulas": [
+        "AC^2 = AD^2 + CD^2 - 2 \\cdot CD \\cdot DE \\dots\\dots (2)"
+      ],
+      "pdfPageStart": 73,
+      "pdfPageEnd": 73,
+      "printedPageStart": 68,
+      "printedPageEnd": 68,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p050",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন সমীকরণ (1) ও (2) যোগ করে পাই, $$AB^2 + AC^2 = 2AD^2 + BD^2 + CD^2 + 2 \\cdot BD \\cdot DE - 2 \\cdot CD \\cdot DE$$\n$$= 2AD^2 + 2BD^2 \\quad [\\because BD = CD]$$\n$$\\therefore AB^2 + AC^2 = 2(AD^2 + BD^2) \\quad [প্রমাণিত]$$",
+      "image": null,
+      "formulas": [
+        "AB^2 + AC^2 = 2AD^2 + BD^2 + CD^2 + 2 \\cdot BD \\cdot DE - 2 \\cdot CD \\cdot DE",
+        "= 2AD^2 + 2BD^2 \\quad [\\because BD = CD]",
+        "\\therefore AB^2 + AC^2 = 2(AD^2 + BD^2) \\quad [প্রমাণিত]"
+      ],
+      "pdfPageStart": 73,
+      "pdfPageEnd": 74,
+      "printedPageStart": 68,
+      "printedPageEnd": 69,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p051",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অ্যাপোলোনিয়াসের উপপাদ্যের মাধ্যমে ত্রিভুজের বাহু ও মধ্যমার সম্পর্ক নির্ণয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 74,
+      "pdfPageEnd": 74,
+      "printedPageStart": 69,
+      "printedPageEnd": 69,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p052",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "মনে করি, $\\triangle ABC$ এর $BC$, $CA$ ও $AB$ বাহুর দৈর্ঘ্য যথাক্রমে $a$, $b$ ও $c$। $BC$, $CA$ ও $AB$ বাহুর উপর অঙ্কিত মধ্যমা $AD$, $BE$ ও $CF$ এর দৈর্ঘ্য যথাক্রমে $d$, $e$ ও $f$।",
+      "image": null,
+      "formulas": [
+        "\\triangle ABC",
+        "BC",
+        "CA",
+        "AB",
+        "a",
+        "b",
+        "c",
+        "BC",
+        "CA",
+        "AB",
+        "AD",
+        "BE",
+        "CF",
+        "d",
+        "e",
+        "f"
+      ],
+      "pdfPageStart": 74,
+      "pdfPageEnd": 74,
+      "printedPageStart": 69,
+      "printedPageEnd": 69,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p053",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A triangle ABC with medians AD, BE, and CF intersecting at a central point. The lengths of the medians are labeled d, e, and f.",
+      "image": "p74-page_7_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 74,
+      "pdfPageEnd": 74,
+      "printedPageStart": 69,
+      "printedPageEnd": 69,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p054",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাহলে, অ্যাপোলোনিয়াসের উপপাদ্য হতে পাই,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 74,
+      "pdfPageEnd": 74,
+      "printedPageStart": 69,
+      "printedPageEnd": 69,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p055",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$AB^2 + AC^2 = 2(AD^2 + BD^2)$$",
+      "image": null,
+      "formulas": [
+        "AB^2 + AC^2 = 2(AD^2 + BD^2)"
+      ],
+      "pdfPageStart": 74,
+      "pdfPageEnd": 74,
+      "printedPageStart": 69,
+      "printedPageEnd": 69,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p056",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $c^2 + b^2 = 2 \\left( d^2 + \\left( \\frac{1}{2} a \\right)^2 \\right) \\quad [\\because BD = \\frac{1}{2} a]$",
+      "image": null,
+      "formulas": [
+        "c^2 + b^2 = 2 \\left( d^2 + \\left( \\frac{1}{2} a \\right)^2 \\right) \\quad [\\because BD = \\frac{1}{2} a]"
+      ],
+      "pdfPageStart": 74,
+      "pdfPageEnd": 74,
+      "printedPageStart": 69,
+      "printedPageEnd": 69,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p057",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $b^2 + c^2 = 2d^2 + 2 \\cdot \\frac{1}{4} a^2$",
+      "image": null,
+      "formulas": [
+        "b^2 + c^2 = 2d^2 + 2 \\cdot \\frac{1}{4} a^2"
+      ],
+      "pdfPageStart": 74,
+      "pdfPageEnd": 74,
+      "printedPageStart": 69,
+      "printedPageEnd": 69,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p058",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $b^2 + c^2 = 2d^2 + \\frac{a^2}{2}$",
+      "image": null,
+      "formulas": [
+        "b^2 + c^2 = 2d^2 + \\frac{a^2}{2}"
+      ],
+      "pdfPageStart": 74,
+      "pdfPageEnd": 74,
+      "printedPageStart": 69,
+      "printedPageEnd": 69,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p059",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $d^2 = \\frac{2(b^2 + c^2) - a^2}{4}$",
+      "image": null,
+      "formulas": [
+        "d^2 = \\frac{2(b^2 + c^2) - a^2}{4}"
+      ],
+      "pdfPageStart": 74,
+      "pdfPageEnd": 74,
+      "printedPageStart": 69,
+      "printedPageEnd": 69,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p060",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অনুরূপভাবে পাওয়া যায়, $e^2 = \\frac{2(c^2 + a^2) - b^2}{4}$ এবং $f^2 = \\frac{2(a^2 + b^2) - c^2}{4}$",
+      "image": null,
+      "formulas": [
+        "e^2 = \\frac{2(c^2 + a^2) - b^2}{4}",
+        "f^2 = \\frac{2(a^2 + b^2) - c^2}{4}"
+      ],
+      "pdfPageStart": 74,
+      "pdfPageEnd": 74,
+      "printedPageStart": 69,
+      "printedPageEnd": 69,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p061",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং বলা যায় কোনো ত্রিভুজের বাহুগুলোর দৈর্ঘ্য জানা থাকলে মধ্যমাসমূহের দৈর্ঘ্য জানা যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 74,
+      "pdfPageEnd": 74,
+      "printedPageStart": 69,
+      "printedPageEnd": 69,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p062",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার, $d^2 + e^2 + f^2 = \\frac{2(b^2 + c^2) - a^2}{4} + \\frac{2(c^2 + a^2) - b^2}{4} + \\frac{2(a^2 + b^2) - c^2}{4}$",
+      "image": null,
+      "formulas": [
+        "d^2 + e^2 + f^2 = \\frac{2(b^2 + c^2) - a^2}{4} + \\frac{2(c^2 + a^2) - b^2}{4} + \\frac{2(a^2 + b^2) - c^2}{4}"
+      ],
+      "pdfPageStart": 74,
+      "pdfPageEnd": 74,
+      "printedPageStart": 69,
+      "printedPageEnd": 69,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p063",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ, $d^2 + e^2 + f^2 = \\frac{3}{4}(a^2 + b^2 + c^2)$",
+      "image": null,
+      "formulas": [
+        "d^2 + e^2 + f^2 = \\frac{3}{4}(a^2 + b^2 + c^2)"
+      ],
+      "pdfPageStart": 74,
+      "pdfPageEnd": 74,
+      "printedPageStart": 69,
+      "printedPageEnd": 69,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p064",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore 3(a^2 + b^2 + c^2) = 4(d^2 + e^2 + f^2)$",
+      "image": null,
+      "formulas": [
+        "\\therefore 3(a^2 + b^2 + c^2) = 4(d^2 + e^2 + f^2)"
+      ],
+      "pdfPageStart": 74,
+      "pdfPageEnd": 74,
+      "printedPageStart": 69,
+      "printedPageEnd": 69,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p065",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং বলা যায় কোন ত্রিভুজের তিনটি বাহুর উপর অঙ্কিত বর্গক্ষেত্রসমূহের ক্ষেত্রফলের সমষ্টির তিনগুণ উক্ত ত্রিভুজের মধ্যমাত্রয়ের উপর অঙ্কিত বর্গক্ষেত্রসমূহের ক্ষেত্রফলের সমষ্টির চারগুণের সমান।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 75,
+      "pdfPageEnd": 75,
+      "printedPageStart": 70,
+      "printedPageEnd": 70,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p066",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ত্রিভুজটি সমকোণী অর্থাৎ $\\angle ACB$ সমকোণ এবং $AB$ অতিভুজ হলে",
+      "image": null,
+      "formulas": [
+        "\\angle ACB",
+        "AB"
+      ],
+      "pdfPageStart": 75,
+      "pdfPageEnd": 75,
+      "printedPageStart": 70,
+      "printedPageEnd": 70,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p067",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$c^2 = a^2 + b^2$$",
+      "image": null,
+      "formulas": [
+        "c^2 = a^2 + b^2"
+      ],
+      "pdfPageStart": 75,
+      "pdfPageEnd": 75,
+      "printedPageStart": 70,
+      "printedPageEnd": 70,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p068",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $a^2 + b^2 + c^2 = 2c^2$",
+      "image": null,
+      "formulas": [
+        "a^2 + b^2 + c^2 = 2c^2"
+      ],
+      "pdfPageStart": 75,
+      "pdfPageEnd": 75,
+      "printedPageStart": 70,
+      "printedPageEnd": 70,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p069",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\frac{4}{3}(d^2 + e^2 + f^2) = 2c^2$",
+      "image": null,
+      "formulas": [
+        "\\frac{4}{3}(d^2 + e^2 + f^2) = 2c^2"
+      ],
+      "pdfPageStart": 75,
+      "pdfPageEnd": 75,
+      "printedPageStart": 70,
+      "printedPageEnd": 70,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p070",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $2(d^2 + e^2 + f^2) = 3c^2$",
+      "image": null,
+      "formulas": [
+        "2(d^2 + e^2 + f^2) = 3c^2"
+      ],
+      "pdfPageStart": 75,
+      "pdfPageEnd": 75,
+      "printedPageStart": 70,
+      "printedPageEnd": 70,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c03-t3.1-p071",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং, বলা যায় সমকোণী ত্রিভুজের মধ্যমাত্রয়ের উপর অঙ্কিত বর্গক্ষেত্রসমূহের ক্ষেত্রফলের সমষ্টির দ্বিগুণ অতিভুজের উপর অঙ্কিত বর্গক্ষেত্রের ক্ষেত্রফলের তিনগুণের সমান।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 75,
+      "pdfPageEnd": 75,
+      "printedPageStart": 70,
+      "printedPageEnd": 70,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

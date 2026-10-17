@@ -1,0 +1,79 @@
+{
+  "id": "chemistry-9-10-bn-c08",
+  "textbookId": "chemistry-9-10-bn",
+  "number": 8,
+  "title": "রসায়ন ও শক্তি",
+  "englishTitle": "Chemistry and Energy",
+  "pdfPages": [
+    173,
+    210
+  ],
+  "printedPages": [
+    168,
+    205
+  ],
+  "topics": [
+    {
+      "key": "8.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/8.0.json",
+      "passages": 3
+    },
+    {
+      "key": "8.1",
+      "title": "রাসায়নিক শক্তি (Chemical Energy)",
+      "file": "topics/8.1.json",
+      "passages": 55
+    },
+    {
+      "key": "8.2",
+      "title": "রাসায়নিক শক্তির ব্যবহার (Uses of Chemical Energy)",
+      "file": "topics/8.2.json",
+      "passages": 24
+    },
+    {
+      "key": "8.3",
+      "title": "তড়িৎ-রাসায়নিক প্রক্রিয়া",
+      "file": "topics/8.3.json",
+      "passages": 69
+    },
+    {
+      "key": "8.4",
+      "title": "রাসায়নিক বিক্রিয়ার মাধ্যমে বিদ্যুৎ উৎপাদন",
+      "file": "topics/8.4.json",
+      "passages": 56
+    },
+    {
+      "key": "8.5",
+      "title": "নিউক্লিয়ার বিক্রিয়া ও বিদ্যুৎ শক্তি উৎপাদন",
+      "file": "topics/8.5.json",
+      "passages": 50
+    },
+    {
+      "key": "8.ex",
+      "title": "নমুনা প্রশ্ন",
+      "file": "topics/8.ex.json",
+      "passages": 35
+    }
+  ],
+  "stats": {
+    "topics": 7,
+    "passages": 292,
+    "images": 20,
+    "byKind": {
+      "figure": 40,
+      "text": 190,
+      "formula": 22,
+      "table": 6,
+      "example": 1,
+      "exercise": 33
+    },
+    "byReason": {
+      "verify-formula": 65,
+      "latin-junk": 11,
+      "known-confusable-corrected": 25,
+      "verify-table": 6
+    },
+    "needsReview": 99
+  }
+}

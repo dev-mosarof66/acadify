@@ -1,0 +1,1866 @@
+{
+  "id": "chemistry-9-10-bn-c06-t6.1",
+  "key": "6.1",
+  "title": "মোল (Mole)",
+  "chapter": 6,
+  "ordinal": 1,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "মোল হলো রাসায়নিক পদার্থ পরিমাপের একক। মনে করো,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$$12 টি  O_2 = 1  ডজন  O_2$$\n$$100 টি  O_2 = 1  শতক  O_2$$\n$$1000 টি  O_2 = 1  হাজার  O_2$$",
+      "image": null,
+      "formulas": [
+        "12 টি  O_2 = 1  ডজন  O_2",
+        "100 টি  O_2 = 1  শতক  O_2",
+        "1000 টি  O_2 = 1  হাজার  O_2"
+      ],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তেমনি $6.023 \\times 10^{23}$ টি $O_2 = 1$ মোল $O_2$",
+      "image": null,
+      "formulas": [
+        "6.023 \\times 10^{23}",
+        "O_2 = 1",
+        "O_2"
+      ],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "1 মোল পরমাণুতে $6.023 \\times 10^{23}$ টি পরমাণু থাকে।\n1 মোল অণুতে $6.023 \\times 10^{23}$ টি অণু থাকে।\n1 মোল আয়নে $6.023 \\times 10^{23}$ টি আয়ন থাকে।",
+      "image": null,
+      "formulas": [
+        "6.023 \\times 10^{23}",
+        "6.023 \\times 10^{23}",
+        "6.023 \\times 10^{23}"
+      ],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অতএব, $6.023 \\times 10^{23}$ সংখ্যাটি পরমাণু, অণু, আয়ন ইত্যাদি সকল ক্ষেত্রেই ব্যবহার করা হয়। এই সংখ্যাটিকে অ্যাভোগাদ্রোর সংখ্যা বলা হয়।",
+      "image": null,
+      "formulas": [
+        "6.023 \\times 10^{23}"
+      ],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কোনো পদার্থের যে পরিমাণের মধ্যে $6.023 \\times 10^{23}$ টি পরমাণু, অণু বা আয়ন থাকে সেই পরিমাণকে ঐ পদার্থের মোল বলা হয়। যেমন: 12 গ্রাম C এর মধ্যে $6.023 \\times 10^{23}$ টি C পরমাণু থাকে।",
+      "image": null,
+      "formulas": [
+        "6.023 \\times 10^{23}",
+        "6.023 \\times 10^{23}"
+      ],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "রাসায়নিক পদার্থের (পরমাণুর ক্ষেত্রে) পারমাণবিক ভর অথবা (অণুর ক্ষেত্রে) আণবিক ভরকে গ্রাম এককে প্রকাশ করলে যে পরিমাণ পাওয়া যায় তাকে ঐ পদার্থের এক মোল বলা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অতএব 12 গ্রাম C = 1 মোল C পরমাণু।\nআবার, 18 গ্রাম H<sub>2</sub>O এর মধ্যে $6.023 \\times 10^{23}$ টি H<sub>2</sub>O অণু থাকে।\nঅতএব 18 গ্রাম H<sub>2</sub>O = 1 মোল H<sub>2</sub>O",
+      "image": null,
+      "formulas": [
+        "6.023 \\times 10^{23}"
+      ],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p009",
+      "kind": "text",
+      "section": "অণুর আণবিক ভর বের করার পদ্ধতি",
+      "caption": null,
+      "body": "কোনো অণুতে বিদ্যমান সকল পরমাণুর পারমাণবিক ভর যোগ করলে ঐ অণুর আণবিক ভর পাওয়া যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p010",
+      "kind": "text",
+      "section": "অণুর আণবিক ভর বের করার পদ্ধতি",
+      "caption": null,
+      "body": "যেমন: Cl<sub>2</sub> অণুতে Cl পরমাণু আছে 2টি।\nঅতএব, Cl<sub>2</sub> এর আণবিক ভর = $2 \\times$ Cl এর পারমাণবিক ভর = $2 \\times 35.5 = 71$\nএক মোল Cl<sub>2</sub> = 71g Cl<sub>2</sub>",
+      "image": null,
+      "formulas": [
+        "2 \\times",
+        "2 \\times 35.5 = 71"
+      ],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 116,
+      "printedPageStart": 111,
+      "printedPageEnd": 111,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p011",
+      "kind": "text",
+      "section": "অণুর আণবিক ভর বের করার পদ্ধতি",
+      "caption": null,
+      "body": "NaCl অণুতে Na পরমাণু আছে 1টি এবং Cl পরমাণু আছে 1টি অতএব, NaCl এর আণবিক ভর = Na এর পারমাণবিক ভর + Cl এর পারমাণবিক ভর\n$$= 23 + 35.5 = 58.5$$\nএক মোল NaCl = 58.5g NaCl",
+      "image": null,
+      "formulas": [
+        "= 23 + 35.5 = 58.5"
+      ],
+      "pdfPageStart": 116,
+      "pdfPageEnd": 117,
+      "printedPageStart": 111,
+      "printedPageEnd": 112,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p012",
+      "kind": "text",
+      "section": "অণুর আণবিক ভর বের করার পদ্ধতি",
+      "caption": null,
+      "body": "CuSO<sub>4</sub>.5H<sub>2</sub>O তে Cu আছে 1টি, S আছে 1টি, O আছে 9টি এবং H আছে 10টি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 117,
+      "pdfPageEnd": 117,
+      "printedPageStart": 112,
+      "printedPageEnd": 112,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p013",
+      "kind": "text",
+      "section": "অণুর আণবিক ভর বের করার পদ্ধতি",
+      "caption": null,
+      "body": "অতএব, CuSO<sub>4</sub>.5H<sub>2</sub>O এর আণবিক ভর = 1 × Cu এর পারমাণবিক ভর + 1 × S এর পারমাণবিক ভর + 9× O এর পারমাণবিক ভর + 10 × H এর পারমাণবিক ভর\n$$= 1 \\times 63.5 + 1 \\times 32 + 9 \\times 16 + 10 \\times 1$$\n$$= 249.5$$\nএক মোল CuSO<sub>4</sub>.5H<sub>2</sub>O = 249.5 g CuSO<sub>4</sub>.5H<sub>2</sub>O",
+      "image": null,
+      "formulas": [
+        "= 1 \\times 63.5 + 1 \\times 32 + 9 \\times 16 + 10 \\times 1",
+        "= 249.5"
+      ],
+      "pdfPageStart": 117,
+      "pdfPageEnd": 117,
+      "printedPageStart": 112,
+      "printedPageEnd": 112,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p014",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**১. সমস্যা:** 1টি H<sub>2</sub>O অণুর ভর কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 117,
+      "pdfPageEnd": 117,
+      "printedPageStart": 112,
+      "printedPageEnd": 112,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p015",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**সমাধান:** আমরা জানি, 1 মোল H<sub>2</sub>O = 18g H<sub>2</sub>O = 6.023 × 10<sup>23</sup> টি H<sub>2</sub>O অণু\nএখানে 6.02 × 10<sup>23</sup> টি H<sub>2</sub>O অণুর ভর = 18g\nঅতএব, 1টি H<sub>2</sub>O অণুর ভর = $\\frac{18}{6.023 \\times 10^{23}}$ g = 2.99 × 10<sup>-23</sup> g",
+      "image": null,
+      "formulas": [
+        "\\frac{18}{6.023 \\times 10^{23}}"
+      ],
+      "pdfPageStart": 117,
+      "pdfPageEnd": 117,
+      "printedPageStart": 112,
+      "printedPageEnd": 112,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p016",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**২. সমস্যা:** 1g H<sub>2</sub>SO<sub>4</sub> এ কতগুলো H<sub>2</sub>SO<sub>4</sub> অণু আছে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 117,
+      "pdfPageEnd": 117,
+      "printedPageStart": 112,
+      "printedPageEnd": 112,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p017",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**সমাধান:** আমরা জানি, 1 মোল H<sub>2</sub>SO<sub>4</sub> = 98g H<sub>2</sub>SO<sub>4</sub> = 6.023 × 10<sup>23</sup> টি H<sub>2</sub>SO<sub>4</sub> অণু\nএখানে, 98g H<sub>2</sub>SO<sub>4</sub> = 6.023 × 10<sup>23</sup> টি H<sub>2</sub>SO<sub>4</sub> অণু\n1g H<sub>2</sub>SO<sub>4</sub> = $\\frac{6.023 \\times 10^{23}}{98}$ টি H<sub>2</sub>SO<sub>4</sub> অণু = 6.14 × 10<sup>21</sup> টি H<sub>2</sub>SO<sub>4</sub> অণু",
+      "image": null,
+      "formulas": [
+        "\\frac{6.023 \\times 10^{23}}{98}"
+      ],
+      "pdfPageStart": 117,
+      "pdfPageEnd": 117,
+      "printedPageStart": 112,
+      "printedPageEnd": 112,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p018",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**৩. সমস্যা:** 5 g H<sub>2</sub>O এ কত মোল H<sub>2</sub>O বিদ্যমান?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 117,
+      "pdfPageEnd": 117,
+      "printedPageStart": 112,
+      "printedPageEnd": 112,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p019",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**সমাধান:** আমরা জানি, 1 মোল H<sub>2</sub>O = 18 g H<sub>2</sub>O\nএখানে, 18 g H<sub>2</sub>O = 1 মোল H<sub>2</sub>O\n1 g H<sub>2</sub>O = $\\frac{1}{18}$ মোল H<sub>2</sub>O\n5 g H<sub>2</sub>O = $\\frac{1 \\times 5}{18}$ মোল H<sub>2</sub>O = 0.277 মোল H<sub>2</sub>O",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{18}",
+        "\\frac{1 \\times 5}{18}"
+      ],
+      "pdfPageStart": 117,
+      "pdfPageEnd": 117,
+      "printedPageStart": 112,
+      "printedPageEnd": 112,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p020",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**নিজে করো:** 1 g H<sub>2</sub>SO<sub>4</sub> এ কতগুলো H, S এবং O পরমাণু আছে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 117,
+      "pdfPageEnd": 117,
+      "printedPageStart": 112,
+      "printedPageEnd": 112,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p021",
+      "kind": "text",
+      "section": "৬.১.১ গ্যাসের মোলার আয়তন",
+      "caption": null,
+      "body": "১ মোল গ্যাসীয় পদার্থ যে আয়তন দখল করে তাকে ঐ গ্যাসের মোলার আয়তন বলে। ০° সেন্টিগ্রেড তাপমাত্রা এবং ১ বায়ুমণ্ডল চাপকে একত্রে প্রমাণ তাপমাত্রা ও চাপ বা আদর্শ তাপমাত্রা ও চাপ বা সংক্ষিপে আদর্শ বা প্রমাণ অবস্থায় বলা হয়। প্রমাণ অবস্থায় ১ মোল গ্যাসের আয়তন হয় ২২.৪ লিটার।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p022",
+      "kind": "text",
+      "section": "৬.১.১ গ্যাসের মোলার আয়তন",
+      "caption": null,
+      "body": "যদি n = মোল সংখ্যা,\nw = গ্রাম এককে ভর,\nV = লিটার এককে আয়তন,\nN = অণুর সংখ্যা এবং\nM = আণবিক ভর হয় তাহলে আমরা লিখতে পারি:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p023",
+      "kind": "formula",
+      "section": "৬.১.১ গ্যাসের মোলার আয়তন",
+      "caption": null,
+      "body": "$$n = \\frac{w}{M}$$",
+      "image": null,
+      "formulas": [
+        "n = \\frac{w}{M}"
+      ],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p024",
+      "kind": "text",
+      "section": "৬.১.১ গ্যাসের মোলার আয়তন",
+      "caption": null,
+      "body": "কিংবা",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p025",
+      "kind": "formula",
+      "section": "৬.১.১ গ্যাসের মোলার আয়তন",
+      "caption": null,
+      "body": "$$n = \\frac{V}{22.4}$$",
+      "image": null,
+      "formulas": [
+        "n = \\frac{V}{22.4}"
+      ],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p026",
+      "kind": "text",
+      "section": "৬.১.১ গ্যাসের মোলার আয়তন",
+      "caption": null,
+      "body": "কিংবা",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p027",
+      "kind": "formula",
+      "section": "৬.১.১ গ্যাসের মোলার আয়তন",
+      "caption": null,
+      "body": "$$n = \\frac{N}{6.023 \\times 10^{23}}$$",
+      "image": null,
+      "formulas": [
+        "n = \\frac{N}{6.023 \\times 10^{23}}"
+      ],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p028",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**১. সমস্যা:** আদর্শ তাপমাত্রা ও চাপে ১ লিটার CO<sub>2</sub> গ্যাসে কতটি অণু থাকে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p029",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**সমাধান:** আমরা জানি, ১ মোল CO<sub>2</sub> = 44g CO<sub>2</sub> = 6.023 × 10<sup>23</sup> টি CO<sub>2</sub> অণু = আদর্শ তাপমাত্রা ও চাপে ২২.৪ লিটার আয়তনের CO<sub>2</sub> গ্যাস\nআদর্শ তাপমাত্রা ও চাপে, ২২.৪ লিটার CO<sub>2</sub> গ্যাসে থাকে = 6.023 × 10<sup>23</sup> টি অণু\nঅতএব, ১ লিটার CO<sub>2</sub> গ্যাসে থাকে = $\\frac{6.023 \\times 10^{23}}{22.4}$ টি অণু = 2.69 × 10<sup>22</sup> টি অণু",
+      "image": null,
+      "formulas": [
+        "\\frac{6.023 \\times 10^{23}}{22.4}"
+      ],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p030",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "> **নিজে করো:** প্রমাণ অবস্থায় ৫ লিটার CH<sub>4</sub> গ্যাসে কয়টি H পরমাণু আছে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p031",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**২. সমস্যা:** ৫ মোল CO<sub>2</sub> গ্যাসের প্রমাণ অবস্থায় আয়তন কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p032",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**সমাধান:** এখানে দেওয়া আছে, মোল n = 5 বের করতে হবে প্রমাণ অবস্থায় আয়তন $V = ?$",
+      "image": null,
+      "formulas": [
+        "V = ?"
+      ],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 119,
+      "printedPageStart": 113,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p033",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "আমরা জানি $n = \\frac{V}{22.4}$",
+      "image": null,
+      "formulas": [
+        "n = \\frac{V}{22.4}"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p034",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "বা, $5 = \\frac{V}{22.4}$",
+      "image": null,
+      "formulas": [
+        "5 = \\frac{V}{22.4}"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p035",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই $V = 5 \\times 22.4$ লিটার $= 112$ লিটার",
+      "image": null,
+      "formulas": [
+        "V = 5 \\times 22.4",
+        "= 112"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p036",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "> **নিজে করো: প্রমাণ অবস্থায় 5টি CO<sub>2</sub> অণুর আয়তন কত?**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p037",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**৩. সমস্যা:** প্রমাণ অবস্থায় 10 গ্রাম হাইড্রোজেন গ্যাসের আয়তন কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p038",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**সমাধান:** এখানে দেওয়া আছে, ভর $w = 10$ গ্রাম, H<sub>2</sub> এর আণবিক ভর $M = 2$",
+      "image": null,
+      "formulas": [
+        "w = 10",
+        "M = 2"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p039",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "আয়তন, $V = ?$",
+      "image": null,
+      "formulas": [
+        "V = ?"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p040",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "আমরা জানি,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p041",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$n = \\frac{w}{M} = \\frac{V}{22.4}$$",
+      "image": null,
+      "formulas": [
+        "n = \\frac{w}{M} = \\frac{V}{22.4}"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p042",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$\\frac{10}{2} = \\frac{V}{22.4}$$",
+      "image": null,
+      "formulas": [
+        "\\frac{10}{2} = \\frac{V}{22.4}"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p043",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "বা, $V = 22.4 \\times 5$ লিটার $= 112$ লিটার",
+      "image": null,
+      "formulas": [
+        "V = 22.4 \\times 5",
+        "= 112"
+      ],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p044",
+      "kind": "text",
+      "section": "৬.১.২ মোল এবং আণবিক সংকেত",
+      "caption": null,
+      "body": "মোল এবং আণবিক সংকেতের মধ্যে একটি সম্পর্ক রয়েছে। কোনো পদার্থের আণবিক সংকেত থেকে প্রাপ্ত আণবিক ভরকে গ্রামে প্রকাশিত করলে যে পরিমাণ পাওয়া যায় সেই পরিমাণকে ঐ পদার্থের 1 মোল বলা হয়। যেমন- পানির আণবিক সংকেত H<sub>2</sub>O। পানির আণবিক ভর 18। অতএব, 18 গ্রামকে 1 গ্রাম আণবিক ভর পানি বা 1 মোল পানি বলা হয়। এখানে দেখা যাচ্ছে, মোলকে গ্রাম আণবিক ভরও বলা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p045",
+      "kind": "text",
+      "section": "৬.১.২ মোল এবং আণবিক সংকেত",
+      "caption": null,
+      "body": "আণবিক সংকেত থেকে আরও অনেক তথ্য পাওয়া যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p046",
+      "kind": "text",
+      "section": "৬.১.২ মোল এবং আণবিক সংকেত",
+      "caption": null,
+      "body": "H<sub>2</sub>O আণবিক সংকেত থেকে যে যে তথ্য পাওয়া যায় তা নিচে উল্লেখ করা হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p047",
+      "kind": "text",
+      "section": "৬.১.২ মোল এবং আণবিক সংকেত",
+      "caption": null,
+      "body": "1. H<sub>2</sub>O এর নাম পানি\n2. 1 অণু পানি এর সংকেত H<sub>2</sub>O\n3. 1 মোল পানি এর সংকেত H<sub>2</sub>O\n4. 1 অণু H<sub>2</sub>O এ 2টি হাইড্রোজেন পরমাণু এবং 1টি অক্সিজেন পরমাণু আছে।\n5. 1 মোল H<sub>2</sub>O অণুতে 2 মোল H পরমাণু আছে ও 1 মোল O পরমাণু আছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 119,
+      "pdfPageEnd": 119,
+      "printedPageStart": 114,
+      "printedPageEnd": 114,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p048",
+      "kind": "text",
+      "section": "৬.১.২ মোল এবং আণবিক সংকেত",
+      "caption": null,
+      "body": "৬. ১ মোল H<sub>2</sub>O অর্থাতে H পরমাণুর ভর $1 \\times 2 = 2g$ এবং O পরমাণুর ভর $16 \\times 1 = 16g$। অতএব,\n    ১ মোল H<sub>2</sub>O অণুর ভর $(2 + 16)g = 18g$",
+      "image": null,
+      "formulas": [
+        "1 \\times 2 = 2g",
+        "16 \\times 1 = 16g",
+        "(2 + 16)g = 18g"
+      ],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p049",
+      "kind": "text",
+      "section": "৬.১.২ মোল এবং আণবিক সংকেত",
+      "caption": null,
+      "body": "৭. ১ মোল H<sub>2</sub>O অর্থাতে H পরমাণুর সংখ্যা $6.023 \\times 10^{23} \\times 2$ টি $= 1.20 \\times 10^{24}$ টি, O পরমাণুর সংখ্যা $6.023 \\times 10^{23} \\times 1$ টি $= 6.023 \\times 10^{23}$ টি, এবং H<sub>2</sub>O অণুর সংখ্যা $= 6.023 \\times 10^{23}$ টি।",
+      "image": null,
+      "formulas": [
+        "6.023 \\times 10^{23} \\times 2",
+        "= 1.20 \\times 10^{24}",
+        "6.023 \\times 10^{23} \\times 1",
+        "= 6.023 \\times 10^{23}",
+        "= 6.023 \\times 10^{23}"
+      ],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p050",
+      "kind": "text",
+      "section": "৬.১.৩ মোলার দ্রবণ",
+      "caption": null,
+      "body": "ধরা যাক কোনো দ্রাবকে একটি দ্রব দ্রবীভূত আছে। একটি নির্দিষ্ট তাপমাত্রায় ১ লিটার দ্রবণের মধ্যে যদি এক মোল দ্রব দ্রবীভূত থাকে তবে ঐ দ্রবণকে মোলার দ্রবণ বলে বা এক মোলার দ্রবণ বলা হয়। ১ লিটার দ্রবণে যদি ২ মোল দ্রব দ্রবীভূত থাকে তবে ঐ দ্রবণকে ২ মোলার দ্রবণ বলা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p051",
+      "kind": "text",
+      "section": "৬.১.৩ মোলার দ্রবণ",
+      "caption": null,
+      "body": "দ্রাবক, দ্রব ও দ্রবণ বলতে কী বোঝায় সেটি বোঝানোর জন্য একটি উদাহরণ দেওয়া যাক। একটি গ্লাসে প্রায় অর্ধেক পানি নাও। সেই পানিতে সামান্য পরিমাণ খাবার লবণ নিয়ে তা একটি চামচ দিয়ে মেশাও। দেখা গেল পানিতে লবণ মিশে গেছে বা পানিতে আর লবণ দেখা যাচ্ছে না। এই লবণ-পানির মিশ্রণ একটি দ্রবণ। এই মিশ্রণে পানিকে বলা হয় দ্রাবক এবং লবণকে বলা হয় দ্রব। দ্রবণ প্রস্তুত করার সময় পানি, এসিড, অ্যালকোহল ইত্যাদি নানা রকম তরল ব্যবহার করা যায়। এই অধ্যায়ে আমরা মূলত পানিকে দ্রাবক হিসেবে ব্যবহার করব। পানিকে দ্রাবক হিসাবে ব্যবহার করলে যে দ্রবণ তৈরি হয় তাকে জলীয় দ্রবণ বলে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p052",
+      "kind": "formula",
+      "section": "৬.১.৩ মোলার দ্রবণ",
+      "caption": null,
+      "body": "$$দ্রবণ = দ্রব + দ্রাবক$$",
+      "image": null,
+      "formulas": [
+        "দ্রবণ = দ্রব + দ্রাবক"
+      ],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p053",
+      "kind": "figure",
+      "section": "৬.১.৩ মোলার দ্রবণ",
+      "caption": null,
+      "body": "drawing: two test tubes showing dilute and concentrated solutions",
+      "image": "p120-page_7_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p054",
+      "kind": "figure",
+      "section": "৬.১.৩ মোলার দ্রবণ",
+      "caption": null,
+      "body": "**চিত্র ৬.০১: লঘু দ্রবণ এবং গাঢ় দ্রবণ**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p055",
+      "kind": "text",
+      "section": "৬.১.৩ মোলার দ্রবণ",
+      "caption": null,
+      "body": "তোমরা মাঝে মাঝেই লঘু দ্রবণ এবং গাঢ় দ্রবণ কথাগুলো শুনবে। তুমি যদি একটি গ্লাসে ২৫০ মিলিলিটার পানির মধ্যে ১০ গ্রাম খাবার লবণ মিশাও তাহলে একটি দ্রবণ তৈরি হবে। তুমি যদি আরেকটি গ্লাসে ২৫০ মিলিলিটার পানির মধ্যে ১৫ গ্রাম খাবার লবণ মিশাও তাহলেও একটি দ্রবণ তৈরি হবে। এই দুটি দ্রবণের মধ্যে একটি লঘু দ্রবণ এবং অন্যটি গাঢ় দ্রবণ। যে দ্রবণে খাবার লবণ কম সেই দ্রবণটি লঘু দ্রবণ আর যে দ্রবণে খাবার লবণ বেশি সেই দ্রবণটি গাঢ় দ্রবণ। আবার একটি গ্লাসে ২৫০ mL পানি এবং অপর একটি গ্লাসে ২০০ mL পানি নেওয়া হলো। এবারে দুটি গ্লাসেই ১০g লবণ মেশানো হয়েছে। এখন বলতে পারবে কোন পাত্রের দ্রবণটি লঘু এবং কোন পাত্রের দ্রবণ গাঢ়? যে পাত্রে পানির পরিমাণ বেশি সেটি লঘু দ্রবণ আর যে পাত্রে পানির পরিমাণ কম সেটি গাঢ় দ্রবণ। ল্যাবরেটরিতে একটি নির্দিষ্ট পরিমাণ দ্রাবকের মধ্যে কম পরিমাণ দ্রব মিশ্রিত করলে তাকে লঘু দ্রবণ বলে এবং একটি নির্দিষ্ট পরিমাণ দ্রাবকের মধ্যে বেশি পরিমাণ দ্রব মিশ্রিত করলে তাকে গাঢ় দ্রবণ বলে। আসলে দ্রাবকের মধ্যে কতটুকু পদার্থ যোগ করলে সেই দ্রবণ লঘু হবে আর কতটুকু পদার্থ যোগ করলে দ্রবণ গাঢ় হবে তার কোনো নিয়ম নেই। অর্থাৎ দ্রাবকের মধ্যে তুলনামূলক কম পরিমাণ দ্রব থাকলে তাহলে সেটা লঘু দ্রবণ এবং দ্রাবকের মধ্যে তুলনামূলকভাবে বেশি পরিমাণে দ্রব থাকলে সেটা গাঢ় দ্রবণ।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 121,
+      "printedPageStart": 115,
+      "printedPageEnd": 116,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p056",
+      "kind": "text",
+      "section": "৬.১.৩ মোলার দ্রবণ",
+      "caption": null,
+      "body": "একটি নির্দিষ্ট তাপমাত্রায় ১ লিটার দ্রবণের মধ্যে যত মোল দ্রব দ্রবীভূত থাকে তাকে ঐ দ্রবণের মোলারিটি বলা হয়। একটি নির্দিষ্ট তাপমাত্রায় ১ লিটার দ্রবণের মধ্যে যদি দুই মোল দ্রব দ্রবীভূত থাকে তবে ঐ দ্রবণের মোলারিটি দুই। যদি ১ লিটার দ্রবণের মধ্যে 0.5 মোল দ্রব দ্রবীভূত থাকে তাহলে ঐ দ্রবণকে সেমিমোলার দ্রবণ বলে এবং ঐ ১ লিটার দ্রবণের মধ্যে যদি 0.1 মোল দ্রব দ্রবীভূত থাকে তবে ঐ দ্রবণকে ডেসিমোলার দ্রবণ বলে এবং ডেসিমোলার দ্রবণের মোলারিটি = 0.1। সেমিমোলার দ্রবণের মোলারিটি হবে 0.5।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 121,
+      "pdfPageEnd": 121,
+      "printedPageStart": 116,
+      "printedPageEnd": 116,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p057",
+      "kind": "text",
+      "section": "বিভিন্ন মোলারিটির দ্রবণ প্রস্তুতকরণ",
+      "caption": null,
+      "body": "ল্যাবরেটরিতে মোলার দ্রবণ, ডেসিমোলার দ্রবণ, সেমিমোলার দ্রবণ ইত্যাদি প্রস্তুত করার প্রয়োজন হয়। বিভিন্ন মোলারিটির দ্রবণ প্রস্তুত করা অত্যন্ত সহজ। এক্ষেত্রে তোমাকে কতগুলো কাজ ধাপে ধাপে করতে হবে। প্রথমত, তোমাকে একটি নির্দিষ্ট আয়তনের আয়তনিক ফ্লাস্ক বাছাই করতে হবে। দ্বিতীয়ত, যে পদার্থের দ্রবণ তৈরি করতে হবে সেই পদার্থের নির্দিষ্ট পরিমাণ ওজন করে নিয়ে আয়তনিক ফ্লাস্কে ঢেলে নিতে হবে। তৃতীয়ত, আয়তনিক ফ্লাস্কের মধ্যে খানিকটা পানি যোগ করে ঝাঁকিয়ে পদার্থটির দ্রবণ তৈরি করতে হবে। তারপর সাবধানে আয়তনিক ফ্লাস্কের নির্দিষ্ট দাগ পর্যন্ত পানি দ্বারা পূর্ণ করতে হবে। দ্রবণের মোলারিটি, দ্রবণের আয়তন, দ্রবের ভর এবং দ্রবের আণবিক ভরের মধ্যে একটি সম্পর্ক আছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 121,
+      "pdfPageEnd": 121,
+      "printedPageStart": 116,
+      "printedPageEnd": 116,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p058",
+      "kind": "formula",
+      "section": "বিভিন্ন মোলারিটির দ্রবণ প্রস্তুতকরণ",
+      "caption": null,
+      "body": "$$গ্রাম এককে দ্রবের ভর = \\frac{দ্রবণের মোলারিটি \\times মিলিলিটার এককে দ্রবণের আয়তন \\times দ্রবের আণবিক ভর}{1000}$$",
+      "image": null,
+      "formulas": [
+        "গ্রাম এককে দ্রবের ভর = \\frac{দ্রবণের মোলারিটি \\times মিলিলিটার এককে দ্রবণের আয়তন \\times দ্রবের আণবিক ভর}{1000}"
+      ],
+      "pdfPageStart": 121,
+      "pdfPageEnd": 121,
+      "printedPageStart": 116,
+      "printedPageEnd": 116,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p059",
+      "kind": "text",
+      "section": "বিভিন্ন মোলারিটির দ্রবণ প্রস্তুতকরণ",
+      "caption": null,
+      "body": "এখানে গ্রাম এককে দ্রবের ভর = $w$\nদ্রবণের মোলারিটি = $S$\nমিলিলিটার এককে দ্রবণের আয়তন = $V$\nএবং দ্রবের আণবিক ভর = $M$ ধরে নিলে",
+      "image": null,
+      "formulas": [
+        "w",
+        "S",
+        "V",
+        "M"
+      ],
+      "pdfPageStart": 121,
+      "pdfPageEnd": 121,
+      "printedPageStart": 116,
+      "printedPageEnd": 116,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p060",
+      "kind": "formula",
+      "section": "বিভিন্ন মোলারিটির দ্রবণ প্রস্তুতকরণ",
+      "caption": null,
+      "body": "$$w = \\frac{SVM}{1000}$$",
+      "image": null,
+      "formulas": [
+        "w = \\frac{SVM}{1000}"
+      ],
+      "pdfPageStart": 121,
+      "pdfPageEnd": 121,
+      "printedPageStart": 116,
+      "printedPageEnd": 116,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p061",
+      "kind": "text",
+      "section": "বিভিন্ন মোলারিটির দ্রবণ প্রস্তুতকরণ",
+      "caption": null,
+      "body": "মোলারিটি বা ঘনমাত্রা সংক্রান্ত সমস্যা সমাধানের জন্য এই সূত্রটি ব্যবহার করা যেতে পারে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 121,
+      "pdfPageEnd": 121,
+      "printedPageStart": 116,
+      "printedPageEnd": 116,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p062",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**১. সমস্যা:** 250 মিলিলিটার আয়তনিক ফ্লাস্কে 0.2 মোলার NaCl দ্রবণ কীভাবে প্রস্তুত করবে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 122,
+      "pdfPageEnd": 122,
+      "printedPageStart": 117,
+      "printedPageEnd": 117,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p063",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**সমাধান:** দেওয়া আছে, দ্রবণের আয়তন, $V = 250mL$, দ্রবণের মোলারিটি, $S = 0.2$ মোলার, NaCl এর আণবিক ভর $23 + 35.5 = 58.5$",
+      "image": null,
+      "formulas": [
+        "V = 250mL",
+        "S = 0.2",
+        "23 + 35.5 = 58.5"
+      ],
+      "pdfPageStart": 122,
+      "pdfPageEnd": 122,
+      "printedPageStart": 117,
+      "printedPageEnd": 117,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p064",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই 1 মোল NaCl = 58.5 g",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 122,
+      "pdfPageEnd": 122,
+      "printedPageStart": 117,
+      "printedPageEnd": 117,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p065",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "1000 মিলি বা 1 লিটার দ্রবণে 0.2 মোলারিটির জন্য প্রয়োজন $58.5 \\times 0.2 = 11.7 g$",
+      "image": null,
+      "formulas": [
+        "58.5 \\times 0.2 = 11.7 g"
+      ],
+      "pdfPageStart": 122,
+      "pdfPageEnd": 122,
+      "printedPageStart": 117,
+      "printedPageEnd": 117,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p066",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "250 mL দ্রবণে প্রয়োজন $= \\frac{11.7 \\times 250}{1000} = 2.925 g$",
+      "image": null,
+      "formulas": [
+        "= \\frac{11.7 \\times 250}{1000} = 2.925 g"
+      ],
+      "pdfPageStart": 122,
+      "pdfPageEnd": 122,
+      "printedPageStart": 117,
+      "printedPageEnd": 117,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p067",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "একটি 250 মিলিলিটার আয়তনিক ফ্লাস্ক নিয়ে তার মধ্যে 2.925 গ্রাম NaCl যোগ করো। এবার পানি যোগ করে আয়তনিক ফ্লাস্কে দ্রবণের আয়তন 250 মিলিলিটার করো। তাহলেই 0.2 মোলার দ্রবণ প্রস্তুত হয়ে যাবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 122,
+      "pdfPageEnd": 122,
+      "printedPageStart": 117,
+      "printedPageEnd": 117,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p068",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**বিকল্প সমাধান:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 122,
+      "pdfPageEnd": 122,
+      "printedPageStart": 117,
+      "printedPageEnd": 117,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p069",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "আমরা জানি, $w = \\frac{SVM}{1000}$",
+      "image": null,
+      "formulas": [
+        "w = \\frac{SVM}{1000}"
+      ],
+      "pdfPageStart": 122,
+      "pdfPageEnd": 122,
+      "printedPageStart": 117,
+      "printedPageEnd": 117,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p070",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই $w = \\frac{0.2 \\times 250 \\times 58.5}{1000} g = 2.925 g$",
+      "image": null,
+      "formulas": [
+        "w = \\frac{0.2 \\times 250 \\times 58.5}{1000} g = 2.925 g"
+      ],
+      "pdfPageStart": 122,
+      "pdfPageEnd": 122,
+      "printedPageStart": 117,
+      "printedPageEnd": 117,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p071",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "এবারে আগের মতো আয়তনিক ফ্লাস্কে 2.925 গ্রাম NaCl নিয়ে পানি যোগ করে দ্রবণের আয়তন 250 মিলিলিটার করো। তাহলেই 0.2 মোলার দ্রবণ প্রস্তুত হয়ে যাবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 122,
+      "pdfPageEnd": 122,
+      "printedPageStart": 117,
+      "printedPageEnd": 117,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p072",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**২. সমস্যা:** 2 লিটার 0.1 মোলার Na<sub>2</sub>CO<sub>3</sub> দ্রবণের মধ্যে কী পরিমাণ Na<sub>2</sub>CO<sub>3</sub> আছে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 122,
+      "pdfPageEnd": 122,
+      "printedPageStart": 117,
+      "printedPageEnd": 117,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p073",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**সমাধান:** Na<sub>2</sub>CO<sub>3</sub> এর আণবিক ভর $= 23 \\times 2 + 12 + 16 \\times 3 = 106$",
+      "image": null,
+      "formulas": [
+        "= 23 \\times 2 + 12 + 16 \\times 3 = 106"
+      ],
+      "pdfPageStart": 122,
+      "pdfPageEnd": 122,
+      "printedPageStart": 117,
+      "printedPageEnd": 117,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p074",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই 1 লিটার 1 মোলার দ্রবণে Na<sub>2</sub>CO<sub>3</sub> এর পরিমাণ 106 g",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 122,
+      "pdfPageEnd": 122,
+      "printedPageStart": 117,
+      "printedPageEnd": 117,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p075",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "1 লিটার 0.1 মোলার দ্রবণে Na<sub>2</sub>CO<sub>3</sub> এর পরিমাণ 10.6 g",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 122,
+      "pdfPageEnd": 122,
+      "printedPageStart": 117,
+      "printedPageEnd": 117,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p076",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "2 লিটার 0.1 মোলার দ্রবণে Na<sub>2</sub>CO<sub>3</sub> এর পরিমাণ $10.6 \\times 2 = 21.2 g$",
+      "image": null,
+      "formulas": [
+        "10.6 \\times 2 = 21.2 g"
+      ],
+      "pdfPageStart": 122,
+      "pdfPageEnd": 122,
+      "printedPageStart": 117,
+      "printedPageEnd": 117,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p077",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**বিকল্প সমাধান:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 122,
+      "pdfPageEnd": 122,
+      "printedPageStart": 117,
+      "printedPageEnd": 117,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p078",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$w = \\frac{SVM}{1000}$$",
+      "image": null,
+      "formulas": [
+        "w = \\frac{SVM}{1000}"
+      ],
+      "pdfPageStart": 122,
+      "pdfPageEnd": 122,
+      "printedPageStart": 117,
+      "printedPageEnd": 117,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p079",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$w = \\frac{0.1 \\times 2000 \\times 106 g}{1000}$$",
+      "image": null,
+      "formulas": [
+        "w = \\frac{0.1 \\times 2000 \\times 106 g}{1000}"
+      ],
+      "pdfPageStart": 122,
+      "pdfPageEnd": 122,
+      "printedPageStart": 117,
+      "printedPageEnd": 117,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p080",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "w = 21.2 g",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p081",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**৩. সমস্যা:** 250 mL দ্রবণে 20g Na<sub>2</sub>CO<sub>3</sub> থাকলে Na<sub>2</sub>CO<sub>3</sub> দ্রবণের মোলারিটি কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p082",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**সমাধান:** Na<sub>2</sub>CO<sub>3</sub> এর আণবিক ভর 23×2 + 12 + 16×3 = 106",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p083",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "1 লিটারে 1 মোলারিটির জন্য প্রয়োজন 106 g",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p084",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "250 mL দ্রবণে 1 মোলারিটির জন্য প্রয়োজন $\\frac{106 \\times 250}{1000}$ g = 26.5 g",
+      "image": null,
+      "formulas": [
+        "\\frac{106 \\times 250}{1000}"
+      ],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p085",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "250 mL দ্রবণে 26.5 g Na<sub>2</sub>CO<sub>3</sub> থাকলে মোলারিটি হয় 1 মোলার",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p086",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "250 mL দ্রবণে 1 g Na<sub>2</sub>CO<sub>3</sub> থাকলে মোলারিটি হয় $\\frac{1}{26.5}$ মোলার",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{26.5}"
+      ],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p087",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "250 mL দ্রবণে 20 g Na<sub>2</sub>CO<sub>3</sub> থাকলে মোলারিটি হয় $\\frac{1 \\times 20}{26.5} = 0.75$ মোলার",
+      "image": null,
+      "formulas": [
+        "\\frac{1 \\times 20}{26.5} = 0.75"
+      ],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p088",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**বিকল্প সমাধান:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p089",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$w = \\frac{SVM}{1000}$$",
+      "image": null,
+      "formulas": [
+        "w = \\frac{SVM}{1000}"
+      ],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p090",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$20 = \\frac{S \\times 250 \\times 106}{1000}$$",
+      "image": null,
+      "formulas": [
+        "20 = \\frac{S \\times 250 \\times 106}{1000}"
+      ],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p091",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$S = 0.75  মোলার$$",
+      "image": null,
+      "formulas": [
+        "S = 0.75  মোলার"
+      ],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p092",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**৪. সমস্যা:** 0.75 মোলার Na<sub>2</sub>CO<sub>3</sub> দ্রবণের মধ্যে 20 গ্রাম Na<sub>2</sub>CO<sub>3</sub> দ্রবীভূত থাকলে ঐ দ্রবণের আয়তন কত মিলিলিটার?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p093",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**সমাধান:** দেওয়া আছে, S = 0.75 Molar, w = 20 g, M = 23×2 + 12 + 16×3 = 106, V=?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p094",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "আমরা জানি,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p095",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$W = \\frac{SVM}{1000}$$",
+      "image": null,
+      "formulas": [
+        "W = \\frac{SVM}{1000}"
+      ],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p096",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$20 = \\frac{0.75 \\times V \\times 106}{1000}$$",
+      "image": null,
+      "formulas": [
+        "20 = \\frac{0.75 \\times V \\times 106}{1000}"
+      ],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p097",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$V = \\frac{1000 \\times 20}{0.75 \\times 106}  mL = 250  mL$$",
+      "image": null,
+      "formulas": [
+        "V = \\frac{1000 \\times 20}{0.75 \\times 106}  mL = 250  mL"
+      ],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p098",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**৫. সমস্যা:** একটি 250 mL দ্রবণের মধ্যে 20 g পদার্থ দ্রবীভূত থাকলে এবং ঐ দ্রবণের মোলারিটি 0.75 মোলার হবে। ঐ দ্রবণে দ্রবের আণবিক ভর কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p099",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**সমাধান:** দেওয়া আছে, w = 20g, V = 250 mL, S = 0.7 Molar, M = ?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p100",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "আমরা জানি,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p101",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$W = \\frac{SVM}{1000}$$",
+      "image": null,
+      "formulas": [
+        "W = \\frac{SVM}{1000}"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p102",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$20 = \\frac{0.75 \\times 250 \\times M}{1000}$$",
+      "image": null,
+      "formulas": [
+        "20 = \\frac{0.75 \\times 250 \\times M}{1000}"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p103",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$M = \\frac{1000 \\times 20}{0.75 \\times 250} = 106$$",
+      "image": null,
+      "formulas": [
+        "M = \\frac{1000 \\times 20}{0.75 \\times 250} = 106"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p104",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**৬. সমস্যা:** তুমি কীভাবে 200 মিলিলিটার সেমিমোলার Na<sub>2</sub>CO<sub>3</sub> দ্রবণ তৈরি করবে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p105",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**সমাধান:** V= 200 mL, S = 0.5 Molar, M = 23×2 + 12 + 16×3 = 106",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p106",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "আমরা জানি, $w = \\frac{SVM}{1000} = \\frac{0.5 \\times 200 \\times 106}{1000}  g = 10.6  g$",
+      "image": null,
+      "formulas": [
+        "w = \\frac{SVM}{1000} = \\frac{0.5 \\times 200 \\times 106}{1000}  g = 10.6  g"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p107",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "এবারে একটি 200 mL পাত্রে 10.6g Na<sub>2</sub>CO<sub>3</sub> নিয়ে তাতে পানি যোগ করে দ্রবণের আয়তন 200 mL করলেই সেমি মোলার Na<sub>2</sub>CO<sub>3</sub> দ্রবণ তৈরি হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.1-p108",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**কাজ:** 100 মিলিলিটার দ্রবণে 4 গ্রাম NaOH থাকলে দ্রবণের মোলারিটি কত বের করো।\n**কাজ:** 100 মিলিলিটার দ্রবণে 4 গ্রাম HCl থাকলে দ্রবণের মোলারিটি কত বের করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

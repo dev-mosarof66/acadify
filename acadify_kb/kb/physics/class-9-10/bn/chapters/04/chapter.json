@@ -1,0 +1,98 @@
+{
+  "id": "physics-9-10-bn-c04",
+  "textbookId": "physics-9-10-bn",
+  "number": 4,
+  "title": "কাজ, ক্ষমতা ও শক্তি",
+  "englishTitle": "Work, Power and Energy",
+  "pdfPages": [
+    103,
+    131
+  ],
+  "printedPages": [
+    98,
+    126
+  ],
+  "topics": [
+    {
+      "key": "4.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/4.0.json",
+      "passages": 4
+    },
+    {
+      "key": "4.1",
+      "title": "কাজ (Work)",
+      "file": "topics/4.1.json",
+      "passages": 13
+    },
+    {
+      "key": "4.2",
+      "title": "শক্তি (Energy)",
+      "file": "topics/4.2.json",
+      "passages": 13
+    },
+    {
+      "key": "4.3",
+      "title": "শক্তির বিভিন্ন রূপ (Different Forms of Energy)",
+      "file": "topics/4.3.json",
+      "passages": 79
+    },
+    {
+      "key": "4.4",
+      "title": "শক্তির বিভিন্ন উৎস (Sources of Energy)",
+      "file": "topics/4.4.json",
+      "passages": 19
+    },
+    {
+      "key": "4.5",
+      "title": "শক্তির নিত্যতা এবং রূপান্তর",
+      "file": "topics/4.5.json",
+      "passages": 16
+    },
+    {
+      "key": "4.6",
+      "title": "ভর ও শক্তির সম্পর্ক (Relation between mass and energy)",
+      "file": "topics/4.6.json",
+      "passages": 8
+    },
+    {
+      "key": "4.7",
+      "title": "ক্ষমতা (Power)",
+      "file": "topics/4.7.json",
+      "passages": 6
+    },
+    {
+      "key": "4.8",
+      "title": "কর্মদক্ষতা (Efficiency)",
+      "file": "topics/4.8.json",
+      "passages": 19
+    },
+    {
+      "key": "4.ex",
+      "title": "নমুনা প্রশ্ন",
+      "file": "topics/4.ex.json",
+      "passages": 36
+    }
+  ],
+  "stats": {
+    "topics": 10,
+    "passages": 213,
+    "images": 7,
+    "byKind": {
+      "figure": 13,
+      "text": 119,
+      "objective": 1,
+      "formula": 35,
+      "example": 10,
+      "table": 1,
+      "exercise": 34
+    },
+    "byReason": {
+      "verify-formula": 84,
+      "known-confusable-corrected": 16,
+      "latin-junk": 9,
+      "verify-table": 1
+    },
+    "needsReview": 104
+  }
+}

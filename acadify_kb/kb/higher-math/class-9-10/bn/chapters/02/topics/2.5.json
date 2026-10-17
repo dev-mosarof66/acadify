@@ -1,0 +1,65 @@
+{
+  "id": "higher-math-9-10-bn-c02-t2.5",
+  "key": "2.5",
+  "title": "ভাগ সূত্র",
+  "chapter": 2,
+  "ordinal": 5,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c02-t2.5-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যদি $P(x)$ ও $Q(x)$ উভয়ই $x$ চলকের বহুপদী হয় এবং $Q(x)$ এর মাত্রা $\\le P(x)$ এর মাত্রা হয়, তবে $Q(x)$ দ্বারা $P(x)$ কে ভাগ করে ভাগফল $F(x)$ ও ভাগশেষ $R(x)$ পাওয়া যায়, যেখানে",
+      "image": null,
+      "formulas": [
+        "P(x)",
+        "Q(x)",
+        "x",
+        "Q(x)",
+        "\\le P(x)",
+        "Q(x)",
+        "P(x)",
+        "F(x)",
+        "R(x)"
+      ],
+      "pdfPageStart": 46,
+      "pdfPageEnd": 46,
+      "printedPageStart": 41,
+      "printedPageEnd": 41,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.5-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $F(x)$ ও $R(x)$ উভয়ই $x$ চলকের বহুপদী,\nখ) $F(x)$ এর মাত্রা $= P(x)$ এর মাত্রা $- Q(x)$ এর মাত্রা,\nগ) $R(x) = 0$ অথবা $R(x)$ এর মাত্রা $< Q(x)$ এর মাত্রা,\nঘ) সকল $x$ এর জন্য $P(x) = F(x)Q(x) + R(x)$।",
+      "image": null,
+      "formulas": [
+        "F(x)",
+        "R(x)",
+        "x",
+        "F(x)",
+        "= P(x)",
+        "- Q(x)",
+        "R(x) = 0",
+        "R(x)",
+        "< Q(x)",
+        "x",
+        "P(x) = F(x)Q(x) + R(x)"
+      ],
+      "pdfPageStart": 46,
+      "pdfPageEnd": 46,
+      "printedPageStart": 41,
+      "printedPageEnd": 41,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

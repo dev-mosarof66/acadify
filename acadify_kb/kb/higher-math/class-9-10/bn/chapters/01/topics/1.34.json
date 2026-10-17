@@ -1,0 +1,133 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.34",
+  "key": "1.34",
+  "title": "দ্বিঘাত ফাংশন (Quadratic Function)",
+  "chapter": 1,
+  "ordinal": 35,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.34-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "দ্বিঘাত ফাংশন হলো একটি ফাংশন যা $y = ax^2 + bx + c$ সমীকরণ দ্বারা বর্গিত যেখানে $a, b$ ও $c$ বাস্তব সংখ্যা এবং $a \\neq 0$। প্রদত্ত ফাংশনে ধরি $a = 1, b = -4, c = -1$। তাহলে $y = ax^2 + bx + c$ কে লেখা যায় $y = x^2 - 4x - 1$। বর্গিত ফাংশন হতে $x$ ও $y$ এর সংশ্লিষ্ট মান পাওয়া যায় যা নিচের সারণিতে দেখানো হয়েছে।",
+      "image": null,
+      "formulas": [
+        "y = ax^2 + bx + c",
+        "a, b",
+        "c",
+        "a \\neq 0",
+        "a = 1, b = -4, c = -1",
+        "y = ax^2 + bx + c",
+        "y = x^2 - 4x - 1",
+        "x",
+        "y"
+      ],
+      "pdfPageStart": 36,
+      "pdfPageEnd": 36,
+      "printedPageStart": 31,
+      "printedPageEnd": 31,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.34-p002",
+      "kind": "table",
+      "section": null,
+      "caption": null,
+      "body": "<table><tr><th><em>x</em></th><th><em>x</em><sup>2</sup> — 4<em>x</em> — 1</th><th><em>y</em></th></tr>\n<tr><td>-1</td><td>(-1)<sup>2</sup> — 4(-1) — 1</td><td>4</td></tr>\n<tr><td>0</td><td>(0)<sup>2</sup> — 4(0) — 1</td><td>-1</td></tr>\n<tr><td>1</td><td>(1)<sup>2</sup> — 4(1) — 1</td><td>-4</td></tr>\n<tr><td>2</td><td>(2)<sup>2</sup> — 4(2) — 1</td><td>-5</td></tr>\n<tr><td>3</td><td>(3)<sup>2</sup> — 4(3) — 1</td><td>-4</td></tr>\n<tr><td>4</td><td>(4)<sup>2</sup> — 4(4) — 1</td><td>-1</td></tr>\n<tr><td>5</td><td>(5)<sup>2</sup> — 4(5) — 1</td><td>4</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 37,
+      "pdfPageEnd": 37,
+      "printedPageStart": 32,
+      "printedPageEnd": 32,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.34-p003",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A coordinate plane showing a parabola with labeled points (-1, 4), (0, -1), (1, -4), (2, -5), (3, -4), (4, -1), and (5, 4).",
+      "image": "p37-page_32_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 37,
+      "pdfPageEnd": 37,
+      "printedPageStart": 32,
+      "printedPageEnd": 32,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.34-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "উপরে দিঘাত ফাংশনটির লেখচিত্র। এই দিঘাত ফাংশন এর কিছু সাধারণ বৈশিষ্ট্য লক্ষ্য করি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 37,
+      "pdfPageEnd": 37,
+      "printedPageStart": 32,
+      "printedPageEnd": 32,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.34-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) লেখচিত্রটি পরাবৃত্ত আকারের।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 37,
+      "pdfPageEnd": 37,
+      "printedPageStart": 32,
+      "printedPageEnd": 32,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.34-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) লেখচিত্রটির $y$ অক্ষের সমানতরাল রেখা বা $y$ অক্ষ বরাবর প্রতিসাম্য বিন্দু পাওয়া যাবে।",
+      "image": null,
+      "formulas": [
+        "y",
+        "y"
+      ],
+      "pdfPageStart": 37,
+      "pdfPageEnd": 37,
+      "printedPageStart": 32,
+      "printedPageEnd": 32,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.34-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) একটি বিন্দুতে ফাংশনটির মান সূত্রতম বা বৃহত্তম হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 37,
+      "pdfPageEnd": 37,
+      "printedPageStart": 32,
+      "printedPageEnd": 32,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

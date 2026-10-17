@@ -1,0 +1,1484 @@
+{
+  "id": "higher-math-9-10-bn-c05-t5.3",
+  "key": "5.3",
+  "title": "সূচক সমীকরণ (Indicial Equation)",
+  "chapter": 5,
+  "ordinal": 4,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যে সমীকরণে অঞ্জাত চলক সূচকরূপে থাকে, তাকে সূচক সমীকরণ বলে। $2^x = 8$, $16^x = 4^{x+2}$, $2^{x+1} - 2^x - 8 = 0$ সমীকরণগুলো সূচক সমীকরণ যেখানে $x$ অঞ্জাত চলক। সূচক সমীকরণ সমাধান করতে সূচকের নিম্নলিখিত ধর্মটি প্রায়ই ব্যবহার করা হয়:",
+      "image": null,
+      "formulas": [
+        "2^x = 8",
+        "16^x = 4^{x+2}",
+        "2^{x+1} - 2^x - 8 = 0",
+        "x"
+      ],
+      "pdfPageStart": 107,
+      "pdfPageEnd": 108,
+      "printedPageStart": 102,
+      "printedPageEnd": 103,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$a > 0, a \\neq 1$ হলে $a^x = a^m$ হবে যদি ও কেবল যদি $x = m$ হয়। এ জন্য প্রথমে সমীকরণের উভয় পক্ষকে একই সংখ্যার ঘাত রূপে প্রকাশ করা হয়।",
+      "image": null,
+      "formulas": [
+        "a > 0, a \\neq 1",
+        "a^x = a^m",
+        "x = m"
+      ],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) 4096 কে $\\frac{1}{2}, 2, 4, 8, 16, 2\\sqrt{2}$ এবং $\\sqrt[3]{4}$ এর সূচকে প্রকাশ করো।",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{2}, 2, 4, 8, 16, 2\\sqrt{2}",
+        "\\sqrt[3]{4}"
+      ],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) 729 কে 3, 9, 27, 16 এবং $\\sqrt[5]{9}$ এর সূচকে লেখো।",
+      "image": null,
+      "formulas": [
+        "\\sqrt[5]{9}"
+      ],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $\\frac{64}{729}$ কে $\\frac{3}{2}$ এবং $\\sqrt[3]{\\frac{3}{2}}$ এর সূচকে প্রকাশ করো।",
+      "image": null,
+      "formulas": [
+        "\\frac{64}{729}",
+        "\\frac{3}{2}",
+        "\\sqrt[3]{\\frac{3}{2}}"
+      ],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১১. সমাধান করো:** $2^{x+7} = 4^{x+2}$",
+      "image": null,
+      "formulas": [
+        "2^{x+7} = 4^{x+2}"
+      ],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $2^{x+7} = 4^{x+2}$",
+      "image": null,
+      "formulas": [
+        "2^{x+7} = 4^{x+2}"
+      ],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $2^{x+7} = (2^2)^{x+2}$",
+      "image": null,
+      "formulas": [
+        "2^{x+7} = (2^2)^{x+2}"
+      ],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $2^{x+7} = 2^{2x+4}$",
+      "image": null,
+      "formulas": [
+        "2^{x+7} = 2^{2x+4}"
+      ],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x + 7 = 2x + 4$",
+      "image": null,
+      "formulas": [
+        "x + 7 = 2x + 4"
+      ],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x = 3$",
+      "image": null,
+      "formulas": [
+        "x = 3"
+      ],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণেয় সমাধান $x = 3$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "x = 3"
+      ],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১২. সমাধান করো:** $3 \\cdot 27^x = 9^{x+4}$",
+      "image": null,
+      "formulas": [
+        "3 \\cdot 27^x = 9^{x+4}"
+      ],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $3 \\cdot 27^x = 9^{x+4}$",
+      "image": null,
+      "formulas": [
+        "3 \\cdot 27^x = 9^{x+4}"
+      ],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $3 \\cdot (3^3)^x = (3^2)^{x+4}$",
+      "image": null,
+      "formulas": [
+        "3 \\cdot (3^3)^x = (3^2)^{x+4}"
+      ],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $3 \\cdot 3^{3x} = 3^{2(x+4)}$",
+      "image": null,
+      "formulas": [
+        "3 \\cdot 3^{3x} = 3^{2(x+4)}"
+      ],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $3^{3x+1} = 3^{2x+8}$",
+      "image": null,
+      "formulas": [
+        "3^{3x+1} = 3^{2x+8}"
+      ],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $3x + 1 = 2x + 8$",
+      "image": null,
+      "formulas": [
+        "3x + 1 = 2x + 8"
+      ],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x = 7$",
+      "image": null,
+      "formulas": [
+        "x = 7"
+      ],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণেয় সমাধান $x = 7$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "x = 7"
+      ],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৩. সমাধান করো:** $3^{mx-1} = 3a^{mx-2}$ ($a > 0, a \\neq 3, m \\neq 0$)",
+      "image": null,
+      "formulas": [
+        "3^{mx-1} = 3a^{mx-2}",
+        "a > 0, a \\neq 3, m \\neq 0"
+      ],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $3^{mx-1} = 3a^{mx-2}$",
+      "image": null,
+      "formulas": [
+        "3^{mx-1} = 3a^{mx-2}"
+      ],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\frac{3^{mx-1}}{3} = a^{mx-2}$ [উভয় পক্ষকে 3 দ্বারা ভাগ করে] বা, $3^{mx-2} = a^{mx-2}$",
+      "image": null,
+      "formulas": [
+        "\\frac{3^{mx-1}}{3} = a^{mx-2}",
+        "3^{mx-2} = a^{mx-2}"
+      ],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 109,
+      "printedPageStart": 103,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p025",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\left(\\frac{a}{3}\\right)^{mx-2} = 1 = \\left(\\frac{a}{3}\\right)^0$",
+      "image": null,
+      "formulas": [
+        "\\left(\\frac{a}{3}\\right)^{mx-2} = 1 = \\left(\\frac{a}{3}\\right)^0"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p026",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $mx - 2 = 0$",
+      "image": null,
+      "formulas": [
+        "mx - 2 = 0"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p027",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $mx = 2$",
+      "image": null,
+      "formulas": [
+        "mx = 2"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p028",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x = \\frac{2}{m}$",
+      "image": null,
+      "formulas": [
+        "x = \\frac{2}{m}"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p029",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণয়ে সমাধান $x = \\frac{2}{m}$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "x = \\frac{2}{m}"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p030",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৪. সমাধান করো:** $2^{3x-5} \\cdot a^{x-2} = 2^{x-3} \\cdot 2a^{1-x}$ ($a > 0$ এবং $a \\neq \\frac{1}{2}$)",
+      "image": null,
+      "formulas": [
+        "2^{3x-5} \\cdot a^{x-2} = 2^{x-3} \\cdot 2a^{1-x}",
+        "a > 0",
+        "a \\neq \\frac{1}{2}"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p031",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $2^{3x-5} \\cdot a^{x-2} = 2^{x-3} \\cdot 2a^{1-x}$",
+      "image": null,
+      "formulas": [
+        "2^{3x-5} \\cdot a^{x-2} = 2^{x-3} \\cdot 2a^{1-x}"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p032",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\frac{a^{x-2}}{a^{1-x}} = \\frac{2^{x-3} \\cdot 2^1}{2^{3x-5}}$ বা, $a^{x-2-1+x} = 2^{x-3+1-3x+5}$",
+      "image": null,
+      "formulas": [
+        "\\frac{a^{x-2}}{a^{1-x}} = \\frac{2^{x-3} \\cdot 2^1}{2^{3x-5}}",
+        "a^{x-2-1+x} = 2^{x-3+1-3x+5}"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p033",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $a^{2x-3} = 2^{-2x+3}$ বা, $a^{2x-3} = 2^{-(2x-3)}$",
+      "image": null,
+      "formulas": [
+        "a^{2x-3} = 2^{-2x+3}",
+        "a^{2x-3} = 2^{-(2x-3)}"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p034",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $a^{2x-3} = \\frac{1}{2^{2x-3}}$ বা, $a^{2x-3} \\cdot 2^{2x-3} = 1$",
+      "image": null,
+      "formulas": [
+        "a^{2x-3} = \\frac{1}{2^{2x-3}}",
+        "a^{2x-3} \\cdot 2^{2x-3} = 1"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p035",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $(2a)^{2x-3} = 1 = (2a)^0$",
+      "image": null,
+      "formulas": [
+        "(2a)^{2x-3} = 1 = (2a)^0"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p036",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $2x - 3 = 0$ বা, $2x = 3$ বা, $x = \\frac{3}{2}$",
+      "image": null,
+      "formulas": [
+        "2x - 3 = 0",
+        "2x = 3",
+        "x = \\frac{3}{2}"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p037",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণয়ে সমাধান $x = \\frac{3}{2}$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "x = \\frac{3}{2}"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p038",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৫. সমাধান করো:** $a^{-x}(a^x + b^{-x}) = \\frac{a^2b^2 + 1}{a^2b^2}$ ($a > 0, b > 0, ab \\neq 1$)",
+      "image": null,
+      "formulas": [
+        "a^{-x}(a^x + b^{-x}) = \\frac{a^2b^2 + 1}{a^2b^2}",
+        "a > 0, b > 0, ab \\neq 1"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p039",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $a^{-x}(a^x + b^{-x}) = 1 + \\frac{1}{a^2b^2}$",
+      "image": null,
+      "formulas": [
+        "a^{-x}(a^x + b^{-x}) = 1 + \\frac{1}{a^2b^2}"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p040",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $a^{-x} \\cdot a^x + a^{-x} \\cdot b^{-x} = 1 + \\frac{1}{a^2b^2}$",
+      "image": null,
+      "formulas": [
+        "a^{-x} \\cdot a^x + a^{-x} \\cdot b^{-x} = 1 + \\frac{1}{a^2b^2}"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p041",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $1 + (ab)^{-x} = 1 + (ab)^{-2}$",
+      "image": null,
+      "formulas": [
+        "1 + (ab)^{-x} = 1 + (ab)^{-2}"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p042",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $(ab)^{-x} = (ab)^{-2}$",
+      "image": null,
+      "formulas": [
+        "(ab)^{-x} = (ab)^{-2}"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p043",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $-x = -2$",
+      "image": null,
+      "formulas": [
+        "-x = -2"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p044",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x = 2$",
+      "image": null,
+      "formulas": [
+        "x = 2"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p045",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণয়ে সমাধান $x = 2$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "x = 2"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p046",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৬. সমাধান করো:** $3^{x+5} = 3^{x+3} + \\frac{8}{3}$",
+      "image": null,
+      "formulas": [
+        "3^{x+5} = 3^{x+3} + \\frac{8}{3}"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p047",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $3^{x+5} = 3^{x+3} + \\frac{8}{3}$",
+      "image": null,
+      "formulas": [
+        "3^{x+5} = 3^{x+3} + \\frac{8}{3}"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p048",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $3^x \\cdot 3^5 = 3^x \\cdot 3^3 + \\frac{8}{3}$",
+      "image": null,
+      "formulas": [
+        "3^x \\cdot 3^5 = 3^x \\cdot 3^3 + \\frac{8}{3}"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p049",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $3^x \\cdot 3^6 - 3^x \\cdot 3^4 = 8$ [পক্ষান্তর করে এবং উভয় পক্ষকে 3 দ্বারা গুণ করে]",
+      "image": null,
+      "formulas": [
+        "3^x \\cdot 3^6 - 3^x \\cdot 3^4 = 8"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p050",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $3^x \\cdot 3^4(3^2 - 1) = 8$",
+      "image": null,
+      "formulas": [
+        "3^x \\cdot 3^4(3^2 - 1) = 8"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p051",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $3^{x+4} \\cdot 8 = 8$",
+      "image": null,
+      "formulas": [
+        "3^{x+4} \\cdot 8 = 8"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p052",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $3^{x+4} = 1 = 3^0$",
+      "image": null,
+      "formulas": [
+        "3^{x+4} = 1 = 3^0"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p053",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x + 4 = 0$ বা, $x = -4$",
+      "image": null,
+      "formulas": [
+        "x + 4 = 0",
+        "x = -4"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p054",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণেয় সমাধান $x = -4$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "x = -4"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p055",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৭. সমাধান করো:** $3^{2x-2} - 5 \\cdot 3^{x-2} - 66 = 0$",
+      "image": null,
+      "formulas": [
+        "3^{2x-2} - 5 \\cdot 3^{x-2} - 66 = 0"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p056",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $3^{2x-2} - 5 \\cdot 3^{x-2} - 66 = 0$",
+      "image": null,
+      "formulas": [
+        "3^{2x-2} - 5 \\cdot 3^{x-2} - 66 = 0"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p057",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\frac{3^{2x}}{9} - \\frac{5}{9} \\cdot 3^x - 66 = 0$",
+      "image": null,
+      "formulas": [
+        "\\frac{3^{2x}}{9} - \\frac{5}{9} \\cdot 3^x - 66 = 0"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p058",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $3^{2x} - 5 \\cdot 3^x - 594 = 0$ [উভয় পক্ষকে 9 দ্বারা গুণ করে]",
+      "image": null,
+      "formulas": [
+        "3^{2x} - 5 \\cdot 3^x - 594 = 0"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p059",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $a^2 - 5a - 594 = 0$ [$3^x = a$ ধরে]",
+      "image": null,
+      "formulas": [
+        "a^2 - 5a - 594 = 0",
+        "3^x = a"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p060",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $a^2 - 27a + 22a - 594 = 0$",
+      "image": null,
+      "formulas": [
+        "a^2 - 27a + 22a - 594 = 0"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p061",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $(a - 27)(a + 22) = 0$",
+      "image": null,
+      "formulas": [
+        "(a - 27)(a + 22) = 0"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p062",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন $a \\neq -22$ কেননা $a = 3^x > 0$ সুতরাং $a + 22 \\neq 0$",
+      "image": null,
+      "formulas": [
+        "a \\neq -22",
+        "a = 3^x > 0",
+        "a + 22 \\neq 0"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p063",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অতএব, $a - 27 = 0$",
+      "image": null,
+      "formulas": [
+        "a - 27 = 0"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p064",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $3^x = 27 = 3^3$",
+      "image": null,
+      "formulas": [
+        "3^x = 27 = 3^3"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p065",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x = 3$",
+      "image": null,
+      "formulas": [
+        "x = 3"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p066",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "নির্ণেয় সমাধান: $x = 3$",
+      "image": null,
+      "formulas": [
+        "x = 3"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p067",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৮. সমাধান করো:** $a^{2x} - (a^3 + a)a^{x-1} + a^2 = 0$ ($a > 0, a \\neq 1$)",
+      "image": null,
+      "formulas": [
+        "a^{2x} - (a^3 + a)a^{x-1} + a^2 = 0",
+        "a > 0, a \\neq 1"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p068",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $a^{2x} - (a^3 + a)a^{x-1} + a^2 = 0$",
+      "image": null,
+      "formulas": [
+        "a^{2x} - (a^3 + a)a^{x-1} + a^2 = 0"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p069",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $a^{2x} - a(a^2 + 1)a^x \\cdot a^{-1} + a^2 = 0$",
+      "image": null,
+      "formulas": [
+        "a^{2x} - a(a^2 + 1)a^x \\cdot a^{-1} + a^2 = 0"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p070",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $a^{2x} - (a^2 + 1)a^x + a^2 = 0$",
+      "image": null,
+      "formulas": [
+        "a^{2x} - (a^2 + 1)a^x + a^2 = 0"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p071",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $p^2 - (a^2 + 1)p + a^2 = 0$ [$a^x = p$ ধরে]",
+      "image": null,
+      "formulas": [
+        "p^2 - (a^2 + 1)p + a^2 = 0",
+        "a^x = p"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p072",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $p^2 - a^2p - p + a^2 = 0$ বা, $(p - 1)(p - a^2) = 0$",
+      "image": null,
+      "formulas": [
+        "p^2 - a^2p - p + a^2 = 0",
+        "(p - 1)(p - a^2) = 0"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 111,
+      "printedPageStart": 105,
+      "printedPageEnd": 106,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p073",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $p = 1$ অথবা $p = a^2$",
+      "image": null,
+      "formulas": [
+        "p = 1",
+        "p = a^2"
+      ],
+      "pdfPageStart": 111,
+      "pdfPageEnd": 111,
+      "printedPageStart": 106,
+      "printedPageEnd": 106,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p074",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $a^x = 1 = a^0$ অথবা $a^x = a^2$",
+      "image": null,
+      "formulas": [
+        "a^x = 1 = a^0",
+        "a^x = a^2"
+      ],
+      "pdfPageStart": 111,
+      "pdfPageEnd": 111,
+      "printedPageStart": 106,
+      "printedPageEnd": 106,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p075",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x = 0$ অথবা $x = 2$",
+      "image": null,
+      "formulas": [
+        "x = 0",
+        "x = 2"
+      ],
+      "pdfPageStart": 111,
+      "pdfPageEnd": 111,
+      "printedPageStart": 106,
+      "printedPageEnd": 106,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.3-p076",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণয়ে সমাধান $x = 0, 2$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "x = 0, 2"
+      ],
+      "pdfPageStart": 111,
+      "pdfPageEnd": 111,
+      "printedPageStart": 106,
+      "printedPageEnd": 106,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

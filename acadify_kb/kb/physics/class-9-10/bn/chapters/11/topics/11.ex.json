@@ -1,0 +1,588 @@
+{
+  "id": "physics-9-10-bn-c11-t11.ex",
+  "key": "11.ex",
+  "title": "নমুনা প্রশ্ন",
+  "chapter": 11,
+  "ordinal": 7,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p001",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "সঠিক উত্তরটির পাশে টিক (✓) চিহ্ন দাও",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 331,
+      "pdfPageEnd": 331,
+      "printedPageStart": 326,
+      "printedPageEnd": 326,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p002",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "১. যে সকল পদার্থের মধ্য দিয়ে খুব সহজেই তড়িৎপ্রবাহ চলতে পারে তাদেরকে কী বলে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 331,
+      "pdfPageEnd": 331,
+      "printedPageStart": 326,
+      "printedPageEnd": 326,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p003",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) অপরিবাহী\n(খ) কুপরিবাহী\n(গ) অর্ধপরিবাহী\n(ঘ) পরিবাহী",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 331,
+      "pdfPageEnd": 331,
+      "printedPageStart": 326,
+      "printedPageEnd": 326,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p004",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "২. ২ $\\Omega$, ৩ $\\Omega$ ও ৪ $\\Omega$ মানের তিনটি রোধ শ্রেণি সমবায়ে সংযুক্ত থাকলে তুল্য রোধের মান হবে—",
+      "image": null,
+      "formulas": [
+        "\\Omega",
+        "\\Omega",
+        "\\Omega"
+      ],
+      "pdfPageStart": 331,
+      "pdfPageEnd": 331,
+      "printedPageStart": 326,
+      "printedPageEnd": 326,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p005",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) ৪ $\\Omega$\n(খ) ৭ $\\Omega$\n(গ) ৯ $\\Omega$\n(ঘ) ২০ $\\Omega$",
+      "image": null,
+      "formulas": [
+        "\\Omega",
+        "\\Omega",
+        "\\Omega",
+        "\\Omega"
+      ],
+      "pdfPageStart": 331,
+      "pdfPageEnd": 331,
+      "printedPageStart": 326,
+      "printedPageEnd": 326,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p006",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৩. কোনো পরিবাহীর দুই প্রান্তের বিভব পার্থক্য ১০০ V এবং তড়িৎপ্রবাহমাত্রা ১০ A হলে এর রোধ কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 331,
+      "pdfPageEnd": 331,
+      "printedPageStart": 326,
+      "printedPageEnd": 326,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p007",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) ১০০০ $\\Omega$\n(খ) ০.১ $\\Omega$\n(গ) ১০ $\\Omega$\n(ঘ) ১ $\\Omega$",
+      "image": null,
+      "formulas": [
+        "\\Omega",
+        "\\Omega",
+        "\\Omega",
+        "\\Omega"
+      ],
+      "pdfPageStart": 331,
+      "pdfPageEnd": 331,
+      "printedPageStart": 326,
+      "printedPageEnd": 326,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p008",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৪. বর্তনীতে বৈদ্যুতিক অবস্থা পরিমাপের জন্য ব্যবহার করা হয়—",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 332,
+      "pdfPageEnd": 332,
+      "printedPageStart": 327,
+      "printedPageEnd": 327,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p009",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "i. ভোল্টমিটার\nii. অ্যামিটার\niii. জেনারেটর",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 332,
+      "pdfPageEnd": 332,
+      "printedPageStart": 327,
+      "printedPageEnd": 327,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p010",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "কোনটি সঠিক?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 332,
+      "pdfPageEnd": 332,
+      "printedPageStart": 327,
+      "printedPageEnd": 327,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p011",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) i ও ii\n(খ) i ও iii\n(গ) ii ও iii\n(ঘ) i, ii ও iii",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 332,
+      "pdfPageEnd": 332,
+      "printedPageStart": 327,
+      "printedPageEnd": 327,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p012",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "নিচের উদ্দীপকের (চিত্র ১১.১৯) আলোকে ৫ ও ৬ নং প্রশ্নের উত্তর দাও।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 332,
+      "pdfPageEnd": 332,
+      "printedPageStart": 327,
+      "printedPageEnd": 327,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p013",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৫. বর্তনীর তুল্যরোধ কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 332,
+      "pdfPageEnd": 332,
+      "printedPageStart": 327,
+      "printedPageEnd": 327,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p014",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) $11\\Omega$\n(খ) $4\\Omega$\n(গ) $1.64\\Omega$\n(ঘ) $0.61\\Omega$",
+      "image": null,
+      "formulas": [
+        "11\\Omega",
+        "4\\Omega",
+        "1.64\\Omega",
+        "0.61\\Omega"
+      ],
+      "pdfPageStart": 332,
+      "pdfPageEnd": 332,
+      "printedPageStart": 327,
+      "printedPageEnd": 327,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p015",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৬. উদ্দীপকে—",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 332,
+      "pdfPageEnd": 332,
+      "printedPageStart": 327,
+      "printedPageEnd": 327,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p016",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "i. $I_1 = I_2$\nii. $I_1 > I_2$\niii. $I_1 = 2I_2$",
+      "image": null,
+      "formulas": [
+        "I_1 = I_2",
+        "I_1 > I_2",
+        "I_1 = 2I_2"
+      ],
+      "pdfPageStart": 332,
+      "pdfPageEnd": 332,
+      "printedPageStart": 327,
+      "printedPageEnd": 327,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p017",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "নিচের কোনটি সঠিক?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 332,
+      "pdfPageEnd": 332,
+      "printedPageStart": 327,
+      "printedPageEnd": 327,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p018",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) i ও ii\n(খ) ii ও iii\n(গ) i ও iii\n(ঘ) i, ii ও iii",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 332,
+      "pdfPageEnd": 332,
+      "printedPageStart": 327,
+      "printedPageEnd": 327,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p019",
+      "kind": "figure",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "drawing: circuit diagram with a 12V battery, a 2Ω resistor, a 3Ω resistor, and a 6Ω resistor",
+      "image": "p332-page_30_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 332,
+      "pdfPageEnd": 332,
+      "printedPageStart": 327,
+      "printedPageEnd": 327,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p020",
+      "kind": "figure",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "**চিত্র ১১.১৯**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 332,
+      "pdfPageEnd": 332,
+      "printedPageStart": 327,
+      "printedPageEnd": 327,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p021",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "১. পড়ার সময় আলাভি $220\\ V - 100\\ W$ এর একটি বাতি দৈনিক ৩ ঘণ্টা করে ব্যবহার করে। অন্যদিকে তার ভাই আলিফ $220\\ V - 40\\ W$ একটি টেবিল ল্যাম্প দৈনিক ৪ ঘণ্টা করে ব্যবহার করে। প্রতি ইউনিট বিদ্যুৎ শক্তির মূল্য ৬ টাকা।",
+      "image": null,
+      "formulas": [
+        "220\\ V - 100\\ W",
+        "220\\ V - 40\\ W"
+      ],
+      "pdfPageStart": 333,
+      "pdfPageEnd": 333,
+      "printedPageStart": 328,
+      "printedPageEnd": 328,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p022",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(ক) ও’মের সূত্রটি লেখ।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 333,
+      "pdfPageEnd": 333,
+      "printedPageStart": 328,
+      "printedPageEnd": 328,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p023",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(খ) নির্দিষ্ট তাপমাত্রা, উপাদান ও প্রস্থচ্ছেদের পরিবাহকের দৈর্ঘ্য ৫ গুণ বড় করলে রোধের কী পরিবর্তন হবে ব্যাখ্যা করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 333,
+      "pdfPageEnd": 333,
+      "printedPageStart": 328,
+      "printedPageEnd": 328,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p024",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(গ) আলিফের বাতির প্রবাহমাত্রা নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 333,
+      "pdfPageEnd": 333,
+      "printedPageStart": 328,
+      "printedPageEnd": 328,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p025",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(ঘ) আর্থিক দিক বিবেচনায় আলাভি ও আলিফের মধ্যে কে মিতব্যয়ী? গাণিতিক যুক্তিসহ বিশ্লেষণ করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 333,
+      "pdfPageEnd": 333,
+      "printedPageStart": 328,
+      "printedPageEnd": 328,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p026",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "২. আমাদের দেশে বিদ্যুৎ সরবরাহ লাইনের তড়িৎ চালক শক্তি ২২০ ভোল্ট। একটি বৈদ্যুতিক বাত্নের ফিলামেন্টের রোধ ৪৮৪ ও’ম। বাত্নের গায়ে লেখা আছে $220\\ V-100\\ W$।",
+      "image": null,
+      "formulas": [
+        "220\\ V-100\\ W"
+      ],
+      "pdfPageStart": 333,
+      "pdfPageEnd": 333,
+      "printedPageStart": 328,
+      "printedPageEnd": 328,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p027",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(ক) অ্যাম্পিয়ারের সংজ্ঞা দাও।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 333,
+      "pdfPageEnd": 333,
+      "printedPageStart": 328,
+      "printedPageEnd": 328,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p028",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(খ) একটি ড্রাইসেলের তড়িৎচালক শক্তি ১.৫ V বলতে কী বোঝায়?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 333,
+      "pdfPageEnd": 333,
+      "printedPageStart": 328,
+      "printedPageEnd": 328,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p029",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(গ) বাত্নটি সরবরাহ লাইনে সংযুক্ত করা হলে তড়িৎ প্রবাহ কত হবে তা নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 333,
+      "pdfPageEnd": 333,
+      "printedPageStart": 328,
+      "printedPageEnd": 328,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p030",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(ঘ) বাত্নের গায়ে লেখা $220\\ V-100\\ W$ এর সত্যতা যাচাইয়ে একটি পরীক্ষণ প্রস্তাব করো।",
+      "image": null,
+      "formulas": [
+        "220\\ V-100\\ W"
+      ],
+      "pdfPageStart": 333,
+      "pdfPageEnd": 333,
+      "printedPageStart": 328,
+      "printedPageEnd": 328,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p031",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "১. দূর-দূরান্তে বিদ্যুৎ সরবরাহ করার জন্য উচ্চ ভোল্টেজ প্রয়োগ করা হয় কেন?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 333,
+      "pdfPageEnd": 333,
+      "printedPageStart": 328,
+      "printedPageEnd": 328,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p032",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "২. ও’মের সূত্র ব্যাখ্যা করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 333,
+      "pdfPageEnd": 333,
+      "printedPageStart": 328,
+      "printedPageEnd": 328,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p033",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "৩. তাপমাত্রা বাড়লে পরিবাহীর রোধ বাড়ে কেন? ব্যাখ্যা করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 333,
+      "pdfPageEnd": 333,
+      "printedPageStart": 328,
+      "printedPageEnd": 328,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.ex-p034",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "৪. তড়িৎের সিস্টেম লস বলতে কি বোঝায়?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 333,
+      "pdfPageEnd": 333,
+      "printedPageStart": 328,
+      "printedPageEnd": 328,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

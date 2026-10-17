@@ -1,0 +1,704 @@
+{
+  "id": "physics-9-10-bn-c02-t2.ex",
+  "key": "2.ex",
+  "title": "নমুনা প্রশ্ন",
+  "chapter": 2,
+  "ordinal": 9,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p001",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "সঠিক উত্তরটির পাশে টিক ( √ ) চিহ্ন দাও",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p002",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "১. ত্বরণের একক কোনটি?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p003",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) $ms^{-1}$",
+      "image": null,
+      "formulas": [
+        "ms^{-1}"
+      ],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p004",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(খ) $ms^{-2}$",
+      "image": null,
+      "formulas": [
+        "ms^{-2}"
+      ],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p005",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(গ) $Ns$",
+      "image": null,
+      "formulas": [
+        "Ns"
+      ],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p006",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ঘ) $kgs^{-2}$",
+      "image": null,
+      "formulas": [
+        "kgs^{-2}"
+      ],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p007",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "২. ঘড়ির কাঁটার গতি কী রকম গতি?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p008",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) রৈখিক গতি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p009",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(খ) উপবৃত্তাকার গতি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p010",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(গ) পর্যাবৃত্ত গতি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p011",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ঘ) স্পন্দন গতি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p012",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৩. স্থির অবস্থান থেকে বিনা বাধায় পড়ন্ত বস্তুর নির্দিষ্ট সময়ে যে দূরত্ব অতিক্রম করে তা ঐ সময়ের-",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p013",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) সমানুপাতিক",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p014",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(খ) বর্গের সমানুপাতিক",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p015",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(গ) ব্যস্তানুপাতিক",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p016",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ঘ) বর্গমূলের সমানুপাতিক",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 64,
+      "pdfPageEnd": 64,
+      "printedPageStart": 59,
+      "printedPageEnd": 59,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p017",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৪. একটি বস্তু স্থির অবস্থান থেকে $a$ সমত্বরণে চলছে। নির্দিষ্ট সময়ে এই বস্তুর অতিক্রান্ত দূরত্ব হবে:",
+      "image": null,
+      "formulas": [
+        "a"
+      ],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p018",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(i) $s = \\frac{(u+v)}{2} t$",
+      "image": null,
+      "formulas": [
+        "s = \\frac{(u+v)}{2} t"
+      ],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p019",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ii) $s = ut + \\frac{1}{2} at$",
+      "image": null,
+      "formulas": [
+        "s = ut + \\frac{1}{2} at"
+      ],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p020",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(iii) $s = ut + 2a t^2$",
+      "image": null,
+      "formulas": [
+        "s = ut + 2a t^2"
+      ],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p021",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "নিচের কোনটি সঠিক?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p022",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) i",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p023",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(খ) ii",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p024",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(গ) ii ও iii",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p025",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ঘ) i ও ii",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p026",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৫.২.১২ চিত্রের বেগ-সময় লেখচিত্রের কোনটি মুক্তভাবে পড়ন্ত বস্তুর লেখচিত্র নির্দেশ করে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p027",
+      "kind": "figure",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "drawing: four velocity-time graphs labeled (ক), (খ), (গ), and (ঘ)",
+      "image": "p65-page_29_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p028",
+      "kind": "figure",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "**চিত্র ২.১২**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p029",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "১. রাজীবরা সপরিবারে সিলেটের জাফলং বেড়াতে যাবার জন্য একটি মাইক্রোবাসে রওনা হলো। সে যাত্রার শুরু থেকে সিলেট যাওয়া পর্যন্ত প্রতি 5 minute পরপর গাড়ির স্পিডোমিটার থেকে বেগের মান তথা দ্রুতি লিখে নিল। বেগের মান পেল যথাক্রমে প্রতি ঘণ্টায় 18, 36, 54, 54, 54, 36 ও 18 কিলোমিটার।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "latin-junk",
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p030",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(ক) তাৎক্ষণিক দ্রুতি কী?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p031",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(খ) বৃত্তাকার পথে গতিশীল কোনো বস্তুর ত্বরণ ব্যাখ্যা করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p032",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(গ) প্রথম ৫ মিনিটে গাড়িটির অতিক্রান্ত দূরত্ব নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p033",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(ঘ) সংগৃহীত উপাত্ত দিয়ে বেগ-সময় লেখচিত্র অঙ্কন করে তা ব্যাখ্যা করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p034",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "২. একটি বাস যাত্রা শুরু করে 0.05 m/s<sup>2</sup> সুসম ত্বরণে বাসস্থান্ডের দিকে যাচ্ছিল। বাসস্থান্ডে পৌঁছার 300 m পূর্বে ড্রাইভার বাসস্থান্ড বরাবর উত্তর রাস্তায় একটি গরু দেখে গাড়িতে ব্রেক কষল। এতে বাসটির থামতে 28 s সময় লাগল। যাত্রা শুরুর স্থান থেকে বাসস্থান্ডের দূরত্ব 4.3 km।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p035",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(ক) চলন গতি কাকে বলে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p036",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(খ) একটি পানিপূর্ণ বোতল ও এক টুকরো কাগজ একসাথে চার তলার বারান্দা থেকে ফেলে দিলে কোনটি আগে মাটিতে পড়বে এবং কেন?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p037",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(গ) যাত্রা শুরুর কত সময় পরে ড্রাইভার বাসটিতে ব্রেক কষল তা নির্ণয় কর।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p038",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(ঘ) গরুটিকে দুষ্টিনা থেকে রক্ষা করা সম্ভব হয়েছিল কি? গাণিতিক যুক্তিসহ মতামত দাও।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p039",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "১. সরল স্পন্দন গতি উদাহরণ সহ ব্যাখ্যা করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p040",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "২. মহাবিশ্বের সব গতিই আপেক্ষিক ব্যাখ্যা করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p041",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "৩. ত্বরণকে ভেক্টর রাশি বলা হয় কেন?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.ex-p042",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "৪. একটি গাড়ির গড়বেগ 4 m/s বলতে কি বোঝায়?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    }
+  ]
+}

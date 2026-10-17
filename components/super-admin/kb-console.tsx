@@ -2,7 +2,7 @@
 
 import * as React from "react";
 import { useRouter } from "next/navigation";
-import { FileUp, Loader2, Pencil, Play, RefreshCw, Square, Trash2, TriangleAlert } from "lucide-react";
+import { ChevronDown, FileUp, Loader2, Pencil, Play, RefreshCw, Square, Trash2, TriangleAlert } from "lucide-react";
 
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";
@@ -16,10 +16,15 @@ import { needsWork } from "@/lib/kb/queue";
 import type { ChapterPlanView, JobView } from "@/lib/kb/jobs";
 import type { KbBookSummary } from "@/lib/kb/export";
 import { groupBooks, versionLabel } from "@/lib/kb/labels";
+import { cn } from "@/lib/utils";
 
 const POLL_MS = 6000;
 const fmtMb = (bytes: number) => `${(bytes / 1024 / 1024).toFixed(1)} MB`;
-const LANG = { bn: "Bangla", en: "English", auto: "language auto-detected" } as const;
+const LANG = {
+  bn: "Bangla",
+  en: "English",
+  auto: "language auto-detected",
+} as const;
 
 /**
  * The header's Upload button: pick a PDF and it uploads straight away, no form.
@@ -103,11 +108,23 @@ const CHAPTER_STATUS: Record<ChapterPlanView["status"], { label: string; variant
 /** The background worker does the work; the open page just re-reads the job while there is some. */
 const isActive = (j: JobView) => needsWork(j);
 
-function JobCard({ job, onChange, onRemoved }: { job: JobView; onChange: (job: JobView) => void; onRemoved: (id: string) => void }) {
+function JobCard({
+  job,
+  defaultOpen,
+  onChange,
+  onRemoved,
+}: {
+  job: JobView;
+  defaultOpen: boolean;
+  onChange: (job: JobView) => void;
+  onRemoved: (id: string) => void;
+}) {
   const router = useRouter();
   const [error, setError] = React.useState<string>();
   const [pending, startTransition] = React.useTransition();
   const [editing, setEditing] = React.useState<ChapterPlanView | null>(null);
+  // A lone upload starts open; with several, only the ones still working do
+  const [open, setOpen] = React.useState(defaultOpen || isActive(job));
 
   const run = (fn: () => Promise<{ job?: JobView; error?: string }>) =>
     startTransition(async () => {
@@ -121,129 +138,154 @@ function JobCard({ job, onChange, onRemoved }: { job: JobView; onChange: (job: J
   const done = job.chapters.filter((c) => c.status === "done").length;
   const parsing = job.chapters.filter((c) => c.status === "parsing").length;
   const queued = job.chapters.filter((c) => c.status === "queued").length;
-  const todo =job.chapters.filter((c) => c.status === "pending" || c.status === "failed").length;
+  const todo = job.chapters.filter((c) => c.status === "pending" || c.status === "failed").length;
 
   return (
     <div className="grid gap-3 border-b border-border px-5 py-4 last:border-b-0">
-      <div className="flex flex-wrap items-start justify-between gap-3">
-        <div className="min-w-0">
-          <p className="truncate text-[15px] font-bold">{job.meta.title}</p>
-          <p className="text-[13px] text-muted-foreground">
-            {job.meta.subject}
-            {job.meta.classLevel ? ` · class ${job.meta.classLevel}` : ""} · {LANG[job.meta.language]} · {job.pageCount} pages · {fmtMb(job.sizeBytes)} · by {job.createdByName}
-          </p>
+      <button type="button" onClick={() => setOpen((v) => !v)} aria-expanded={open} className="flex flex-wrap items-start justify-between gap-3 text-left">
+        <div className="flex min-w-0 items-start gap-2">
+          <ChevronDown className={cn("mt-1 size-4 shrink-0 transition-transform", !open && "-rotate-90")} />
+          <div className="min-w-0">
+            <p className="truncate text-[15px] font-bold">{job.meta.title}</p>
+            <p className="text-[13px] text-muted-foreground">
+              {job.meta.subject}
+              {job.meta.classLevel ? ` · class ${job.meta.classLevel}` : ""} · {LANG[job.meta.language]} · {job.pageCount} pages · {fmtMb(job.sizeBytes)} · by{" "}
+              {job.createdByName}
+              {job.chapters.length > 0 && ` · ${done} of ${job.chapters.length} chapters done`}
+            </p>
+          </div>
         </div>
         <Badge variant={JOB_STATUS[job.status].variant}>
           {(job.status === "planning" || job.status === "uploaded") && <Loader2 className="animate-spin" />}
           {JOB_STATUS[job.status].label}
         </Badge>
-      </div>
+      </button>
 
-      {job.error && (
-        <p role="alert" className="flex items-start gap-2 rounded-xl bg-danger-light px-4 py-3 text-sm font-semibold text-destructive">
-          <TriangleAlert className="mt-0.5 size-4 shrink-0" />
-          {job.error}
-        </p>
-      )}
-      <FormError>{error}</FormError>
-
-      {(job.status === "uploaded" || job.status === "planning") && (
-        <p className="text-[13px] text-muted-foreground">Reading the first pages to find the chapters and their page numbers. This takes a minute and parses nothing else.</p>
-      )}
-
-      {job.status === "failed" && !job.chapters.length && (
-        <div>
-          <Button variant="outline" disabled={pending} onClick={() => run(() => retryKbPlan(job.id))} className="rounded-xl">
-            {pending ? <Loader2 className="animate-spin" /> : <RefreshCw />}
-            Try reading the contents again
-          </Button>
-        </div>
-      )}
-
-      {job.chapters.length > 0 && (
+      {open && (
         <>
-          <div className="flex flex-wrap items-center gap-3">
-            <Button disabled={pending || todo === 0} onClick={() => run(() => queueAllKbChapters(job.id))} className="rounded-xl">
-              {pending ? <Loader2 className="animate-spin" /> : <Play />}
-              Parse all {todo} remaining {todo === 1 ? "chapter" : "chapters"}
-            </Button>
-            {queued > 0 && (
-              <Button variant="outline" disabled={pending} onClick={() => run(() => unqueueKbChapters(job.id))} className="rounded-xl">
-                <Square />
-                Cancel the {queued} waiting
-              </Button>
-            )}
-            <p className="text-[13px] text-muted-foreground">
-              {done} of {job.chapters.length} done{parsing ? ` · ${parsing} parsing` : ""}
-              {queued ? ` · ${queued} queued` : ""}. Parsing runs in the background, so you can close this page. Each chapter uses LlamaParse credits per page.
+          {job.error && (
+            <p role="alert" className="flex items-start gap-2 rounded-xl bg-danger-light px-4 py-3 text-sm font-semibold text-destructive">
+              <TriangleAlert className="mt-0.5 size-4 shrink-0" />
+              {job.error}
             </p>
-          </div>
-          <ul className="grid gap-3 text-[13px]">
-            {job.chapters.map((c) => (
-              <div key={c.number} className="grid gap-1">
-                <ChapterRow
-                  dir={c.status === "done" ? job.outDir : null}
-                  number={c.number}
-                  title={c.title}
-                  summary={
-                    <>
-                      pages {c.pageFrom}-{c.pageTo}
-                      {c.result ? ` · ${c.result.passages} passages · ${c.result.images} pictures · ${c.result.needsReview} to review` : ""}
-                      {c.creditsUsed != null ? ` · ${c.creditsUsed} credits` : ""}
-                    </>
-                  }
-                  trailing={
-                    <>
-                      <Badge variant={CHAPTER_STATUS[c.status].variant}>
-                        {c.status === "parsing" && <Loader2 className="animate-spin" />}
-                        {CHAPTER_STATUS[c.status].label}
-                      </Badge>
-                      {(c.status === "pending" || c.status === "failed") && (
-                        <Button size="sm" variant="outline" disabled={pending} onClick={() => run(() => queueKbChapters(job.id, [c.number]))} className="rounded-lg">
-                          <Play />
-                          {c.status === "failed" ? "Retry" : "Parse"}
-                        </Button>
-                      )}
-                      {c.status !== "parsing" && (
-                        <Button size="sm" variant="ghost" disabled={pending} onClick={() => setEditing(c)} className="rounded-lg">
-                          <Pencil />
-                          Edit
-                        </Button>
-                      )}
-                      {c.status === "done" && (
-                        <Button size="sm" variant="ghost" disabled={pending} onClick={() => run(() => rebuildKbChapter(job.id, c.number))} className="rounded-lg">
-                          <RefreshCw />
-                          Rebuild (free)
-                        </Button>
-                      )}
-                    </>
-                  }
-                />
-                {c.error && <p className="pl-7 text-[12px] font-semibold text-destructive">{c.error}</p>}
-              </div>
-            ))}
-          </ul>
-        </>
-      )}
+          )}
+          <FormError>{error}</FormError>
 
-      {!parsing && job.status !== "planning" && (
-        <div>
-          <Button
-            variant="ghost"
-            disabled={pending}
-            onClick={() =>
-              startTransition(async () => {
-                await deleteKbJob(job.id);
-                onRemoved(job.id);
-                router.refresh();
-              })
-            }
-            className="rounded-xl text-destructive"
-          >
-            <Trash2 />
-            Delete upload
-          </Button>
-        </div>
+          {(job.status === "uploaded" || job.status === "planning") && (
+            <p className="text-[13px] text-muted-foreground">
+              Reading the first pages to find the chapters and their page numbers. This takes a minute and parses nothing else.
+            </p>
+          )}
+
+          {job.status === "failed" && !job.chapters.length && (
+            <div>
+              <Button variant="outline" disabled={pending} onClick={() => run(() => retryKbPlan(job.id))} className="rounded-xl">
+                {pending ? <Loader2 className="animate-spin" /> : <RefreshCw />}
+                Try reading the contents again
+              </Button>
+            </div>
+          )}
+
+          {job.chapters.length > 0 && (
+            <>
+              <div className="flex flex-wrap items-center gap-3">
+                <Button disabled={pending || todo === 0} onClick={() => run(() => queueAllKbChapters(job.id))} className="rounded-xl">
+                  {pending ? <Loader2 className="animate-spin" /> : <Play />}
+                  Parse all {todo} remaining {todo === 1 ? "chapter" : "chapters"}
+                </Button>
+                {queued > 0 && (
+                  <Button variant="outline" disabled={pending} onClick={() => run(() => unqueueKbChapters(job.id))} className="rounded-xl">
+                    <Square />
+                    Cancel the {queued} waiting
+                  </Button>
+                )}
+                <p className="text-[13px] text-muted-foreground">
+                  {done} of {job.chapters.length} done
+                  {parsing ? ` · ${parsing} parsing` : ""}
+                  {queued ? ` · ${queued} queued` : ""}. Parsing runs in the background, so you can close this page. Each chapter uses LlamaParse credits per
+                  page.
+                </p>
+              </div>
+              <ul className="grid gap-3 text-[13px]">
+                {job.chapters.map((c) => (
+                  <div key={c.number} className="grid gap-1">
+                    <ChapterRow
+                      dir={c.status === "done" ? job.outDir : null}
+                      number={c.number}
+                      title={c.title}
+                      summary={
+                        <>
+                          pages {c.pageFrom}-{c.pageTo}
+                          {c.result ? ` · ${c.result.passages} passages · ${c.result.images} pictures · ${c.result.needsReview} to review` : ""}
+                          {c.creditsUsed != null ? ` · ${c.creditsUsed} credits` : ""}
+                        </>
+                      }
+                      trailing={
+                        <>
+                          <Badge variant={CHAPTER_STATUS[c.status].variant}>
+                            {c.status === "parsing" && <Loader2 className="animate-spin" />}
+                            {CHAPTER_STATUS[c.status].label}
+                          </Badge>
+                          {(c.status === "pending" || c.status === "failed") && (
+                            <Button
+                              size="sm"
+                              variant="outline"
+                              disabled={pending}
+                              onClick={() => run(() => queueKbChapters(job.id, [c.number]))}
+                              className="rounded-lg"
+                            >
+                              <Play />
+                              {c.status === "failed" ? "Retry" : "Parse"}
+                            </Button>
+                          )}
+                          {c.status !== "parsing" && (
+                            <Button size="sm" variant="ghost" disabled={pending} onClick={() => setEditing(c)} className="rounded-lg">
+                              <Pencil />
+                              Edit
+                            </Button>
+                          )}
+                          {c.status === "done" && (
+                            <Button
+                              size="sm"
+                              variant="ghost"
+                              disabled={pending}
+                              onClick={() => run(() => rebuildKbChapter(job.id, c.number))}
+                              className="rounded-lg"
+                            >
+                              <RefreshCw />
+                              Rebuild (free)
+                            </Button>
+                          )}
+                        </>
+                      }
+                    />
+                    {c.error && <p className="pl-7 text-[12px] font-semibold text-destructive">{c.error}</p>}
+                  </div>
+                ))}
+              </ul>
+            </>
+          )}
+
+          {!parsing && job.status !== "planning" && (
+            <div>
+              <Button
+                variant="ghost"
+                disabled={pending}
+                onClick={() =>
+                  startTransition(async () => {
+                    await deleteKbJob(job.id);
+                    onRemoved(job.id);
+                    router.refresh();
+                  })
+                }
+                className="rounded-xl text-destructive"
+              >
+                <Trash2 />
+                {job.outDir ? "Delete upload and extracted data" : "Delete upload"}
+              </Button>
+            </div>
+          )}
+        </>
       )}
 
       {editing && <EditChapterDialog job={job} chapter={editing} onSaved={onChange} onClose={() => setEditing(null)} />}
@@ -251,10 +293,23 @@ function JobCard({ job, onChange, onRemoved }: { job: JobView; onChange: (job: J
   );
 }
 
-export function KbConsole({ initialJobs, books, apiKeySet, canWrite }: { initialJobs: JobView[]; books: KbBookSummary[]; apiKeySet: boolean; canWrite: boolean }) {
+export function KbConsole({
+  initialJobs,
+  books,
+  apiKeySet,
+  canWrite,
+}: {
+  initialJobs: JobView[];
+  books: KbBookSummary[];
+  apiKeySet: boolean;
+  canWrite: boolean;
+}) {
   const router = useRouter();
   const [jobs, setJobs] = React.useState(initialJobs);
-  const activeIds = jobs.filter(isActive).map((j) => j.id).join(",");
+  const activeIds = jobs
+    .filter(isActive)
+    .map((j) => j.id)
+    .join(",");
 
   // While anything is running, ask the server to check on it. A finished chapter is written to kb/.
   React.useEffect(() => {
@@ -286,7 +341,8 @@ export function KbConsole({ initialJobs, books, apiKeySet, canWrite }: { initial
       {!canWrite && (
         <p role="alert" className="flex items-start gap-2 rounded-2xl bg-danger-light px-5 py-4 text-sm font-semibold text-destructive">
           <TriangleAlert className="mt-0.5 size-4 shrink-0" />
-          This server can&apos;t write files, so uploads are off here. Run the dashboard locally or on a server with a disk, then commit the kb/ folder and deploy.
+          This server can&apos;t write files, so uploads are off here. Run the dashboard locally or on a server with a disk, then commit the kb/ folder and
+          deploy.
         </p>
       )}
       {!apiKeySet && (
@@ -297,9 +353,18 @@ export function KbConsole({ initialJobs, books, apiKeySet, canWrite }: { initial
       )}
 
       <Panel>
-        <PanelHeader title="Uploads and processing" description={jobs.length ? `${jobs.length} upload${jobs.length === 1 ? "" : "s"}` : "No uploads yet. Use Upload PDF at the top right."} />
+        <PanelHeader
+          title="Uploads and processing"
+          description={jobs.length ? `${jobs.length} upload${jobs.length === 1 ? "" : "s"}` : "No uploads yet. Use Upload PDF at the top right."}
+        />
         {jobs.map((job) => (
-          <JobCard key={job.id} job={job} onChange={upsert} onRemoved={(id) => setJobs((all) => all.filter((j) => j.id !== id))} />
+          <JobCard
+            key={job.id}
+            job={job}
+            defaultOpen={jobs.length === 1}
+            onChange={upsert}
+            onRemoved={(id) => setJobs((all) => all.filter((j) => j.id !== id))}
+          />
         ))}
       </Panel>
 
@@ -323,8 +388,12 @@ export function KbConsole({ initialJobs, books, apiKeySet, canWrite }: { initial
                   href={`/admin/knowledge-base/versions/${g.key}`}
                   title={versionLabel(g)}
                   stats={[
-                    { label: `${g.books.length} ${g.books.length === 1 ? "subject" : "subjects"}` },
-                    { label: `${chapters} ${chapters === 1 ? "chapter" : "chapters"}` },
+                    {
+                      label: `${g.books.length} ${g.books.length === 1 ? "subject" : "subjects"}`,
+                    },
+                    {
+                      label: `${chapters} ${chapters === 1 ? "chapter" : "chapters"}`,
+                    },
                     ...(review ? [{ label: `${review} to review`, warn: true }] : []),
                   ]}
                 />

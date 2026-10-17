@@ -1,0 +1,253 @@
+{
+  "id": "higher-math-9-10-bn-c01",
+  "textbookId": "higher-math-9-10-bn",
+  "number": 1,
+  "title": "সেট ও ফাংশন",
+  "englishTitle": "Set and Function",
+  "pdfPages": [
+    6,
+    42
+  ],
+  "printedPages": [
+    1,
+    37
+  ],
+  "topics": [
+    {
+      "key": "1.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/1.0.json",
+      "passages": 3
+    },
+    {
+      "key": "1.1",
+      "title": "সেট (Set)",
+      "file": "topics/1.1.json",
+      "passages": 3
+    },
+    {
+      "key": "1.2",
+      "title": "সার্বিক সেট (Universal Set)",
+      "file": "topics/1.2.json",
+      "passages": 6
+    },
+    {
+      "key": "1.3",
+      "title": "কয়েকটি বিশেষ সংখ্যা সেট",
+      "file": "topics/1.3.json",
+      "passages": 4
+    },
+    {
+      "key": "1.4",
+      "title": "উপসেট (Subset)",
+      "file": "topics/1.4.json",
+      "passages": 4
+    },
+    {
+      "key": "1.5",
+      "title": "ফাঁকা সেট (Empty Set)",
+      "file": "topics/1.5.json",
+      "passages": 3
+    },
+    {
+      "key": "1.6",
+      "title": "সেট সমতা (Equality of Sets)",
+      "file": "topics/1.6.json",
+      "passages": 1
+    },
+    {
+      "key": "1.7",
+      "title": "প্রকৃত উপসেট (Proper Subset)",
+      "file": "topics/1.7.json",
+      "passages": 3
+    },
+    {
+      "key": "1.8",
+      "title": "সেটের অন্তর (Difference of Sets)",
+      "file": "topics/1.8.json",
+      "passages": 3
+    },
+    {
+      "key": "1.9",
+      "title": "পূরক সেট (Complementary Set)",
+      "file": "topics/1.9.json",
+      "passages": 4
+    },
+    {
+      "key": "1.10",
+      "title": "শক্তি সেট (Power Set)",
+      "file": "topics/1.10.json",
+      "passages": 15
+    },
+    {
+      "key": "1.11",
+      "title": "ভেনচিত্র (Venn Diagram)",
+      "file": "topics/1.11.json",
+      "passages": 3
+    },
+    {
+      "key": "1.12",
+      "title": "সেটের সংযোগ (Union of Sets)",
+      "file": "topics/1.12.json",
+      "passages": 2
+    },
+    {
+      "key": "1.13",
+      "title": "সেটের ছেদ (Intersection of Sets)",
+      "file": "topics/1.13.json",
+      "passages": 9
+    },
+    {
+      "key": "1.14",
+      "title": "নিশ্চেষ্ট সেট (Disjoint Set)",
+      "file": "topics/1.14.json",
+      "passages": 4
+    },
+    {
+      "key": "1.15",
+      "title": "কার্তেসীয় গুণজসেট (Cartesian Product Set)",
+      "file": "topics/1.15.json",
+      "passages": 2
+    },
+    {
+      "key": "1.16",
+      "title": "সেট প্রক্রিয়ার কতিপয় প্রতিজ্ঞা",
+      "file": "topics/1.16.json",
+      "passages": 7
+    },
+    {
+      "key": "1.17",
+      "title": "বিনিময়বিধির প্রতিজ্ঞা দুটি যাচাইকরণ",
+      "file": "topics/1.17.json",
+      "passages": 10
+    },
+    {
+      "key": "1.18",
+      "title": "সংযোগবিধির প্রতিজ্ঞা দুটির যাচাইকরণ",
+      "file": "topics/1.18.json",
+      "passages": 35
+    },
+    {
+      "key": "1.19",
+      "title": "সেট প্রক্রিয়াসংক্রান্ত আরও কতিপয় প্রতিজ্ঞা",
+      "file": "topics/1.19.json",
+      "passages": 15
+    },
+    {
+      "key": "1.20",
+      "title": "এক-এক মিল (One-One Correspondence)",
+      "file": "topics/1.20.json",
+      "passages": 2
+    },
+    {
+      "key": "1.21",
+      "title": "সমতুল সেট (Equivalent Set)",
+      "file": "topics/1.21.json",
+      "passages": 20
+    },
+    {
+      "key": "1.22",
+      "title": "ব্যবধি (Interval)",
+      "file": "topics/1.22.json",
+      "passages": 4
+    },
+    {
+      "key": "1.23",
+      "title": "সান্ত ও অনন্ত সেট (Finite and Infinite Sets)",
+      "file": "topics/1.23.json",
+      "passages": 12
+    },
+    {
+      "key": "1.24",
+      "title": "সান্ত সেটের উপাদান সংখ্যা",
+      "file": "topics/1.24.json",
+      "passages": 29
+    },
+    {
+      "key": "1.25",
+      "title": "বাস্তব সমস্যা সমাধানে সেট",
+      "file": "topics/1.25.json",
+      "passages": 48
+    },
+    {
+      "key": "1.ex",
+      "title": "অনুশীলনী ১.১",
+      "file": "topics/1.ex.json",
+      "passages": 77
+    },
+    {
+      "key": "1.27",
+      "title": "অস্বয় (Relation)",
+      "file": "topics/1.27.json",
+      "passages": 6
+    },
+    {
+      "key": "1.28",
+      "title": "ফাংশন (Function)",
+      "file": "topics/1.28.json",
+      "passages": 14
+    },
+    {
+      "key": "1.29",
+      "title": "বিপরীত ফাংশন (Inverse Function)",
+      "file": "topics/1.29.json",
+      "passages": 52
+    },
+    {
+      "key": "1.30",
+      "title": "এক-এক ফাংশন (One-One Function)",
+      "file": "topics/1.30.json",
+      "passages": 33
+    },
+    {
+      "key": "1.31",
+      "title": "সার্বিক ফাংশন (Onto Function)",
+      "file": "topics/1.31.json",
+      "passages": 14
+    },
+    {
+      "key": "1.32",
+      "title": "অন্তর ও ফাংশনের লেখচিত্র",
+      "file": "topics/1.32.json",
+      "passages": 2
+    },
+    {
+      "key": "1.33",
+      "title": "সরলরৈখিক ফাংশন",
+      "file": "topics/1.33.json",
+      "passages": 6
+    },
+    {
+      "key": "1.34",
+      "title": "দ্বিঘাত ফাংশন (Quadratic Function)",
+      "file": "topics/1.34.json",
+      "passages": 7
+    },
+    {
+      "key": "1.35",
+      "title": "বৃত্তের লেখচিত্র",
+      "file": "topics/1.35.json",
+      "passages": 40
+    }
+  ],
+  "stats": {
+    "topics": 36,
+    "passages": 502,
+    "images": 18,
+    "byKind": {
+      "text": 378,
+      "table": 3,
+      "figure": 18,
+      "formula": 18,
+      "definition": 11,
+      "exercise": 74
+    },
+    "byReason": {
+      "verify-formula": 416,
+      "verify-table": 3,
+      "latin-junk": 8,
+      "known-confusable-corrected": 5
+    },
+    "needsReview": 418
+  }
+}

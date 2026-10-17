@@ -1,0 +1,43 @@
+{
+  "id": "chemistry-9-10-bn-c03-t3.2",
+  "key": "3.2",
+  "title": "পরমাণু ও অণু (Atoms and Molecules)",
+  "chapter": 3,
+  "ordinal": 2,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c03-t3.2-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "পরমাণু হলো মৌলিক পদার্থের ক্ষুদ্রতম কণা যার মধ্যে মৌলের গুণাগুণ বর্তমান থাকে। যেমন— নাইট্রোজেনের পরমাণুতে নাইট্রোজেনের ধর্ম বিদ্যমান আর অক্সিজেনের পরমাণুতে অক্সিজেনের ধর্ম বিদ্যমান থাকে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 42,
+      "pdfPageEnd": 42,
+      "printedPageStart": 37,
+      "printedPageEnd": 37,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.2-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "দুই বা দুইয়ের অধিক সংখ্যক পরমাণু পরস্পরের সাথে রাসায়নিক বন্ধনের মাধ্যমে যুক্ত থাকলে তাকে অণু বলে। রাসায়নিক বন্ধন সম্পর্কে তোমরা পঞ্চাম অধ্যায়ে বিস্তারিত জানবে। দুটি অক্সিজেন পরমাণু (O) পরস্পরের সাথে যুক্ত হয়ে অক্সিজেন অণু (O<sub>2</sub>) গঠিত হয়। আবার, একটি কার্বন পরমাণু (C) দুটি অক্সিজেন পরমাণুর (O) সাথে যুক্ত হয়ে একটি কার্বন ডাই-অক্সাইড অণু (CO<sub>2</sub>) গঠিত হয়। একই মৌলের একাধিক পরমাণু পরস্পরের সাথে যুক্ত হলে তাকে মৌলের অণু বলে। যেমন—O<sub>2</sub>। ভিন্ন ভিন্ন মৌলের পরমাণু পরস্পর যুক্ত হলে তাকে যৌগের অণু বলে। যেমন—CO<sub>2</sub>।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 42,
+      "pdfPageEnd": 43,
+      "printedPageStart": 37,
+      "printedPageEnd": 38,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    }
+  ]
+}

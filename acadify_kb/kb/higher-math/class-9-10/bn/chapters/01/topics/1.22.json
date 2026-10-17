@@ -1,0 +1,88 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.22",
+  "key": "1.22",
+  "title": "ব্যবধি (Interval)",
+  "chapter": 1,
+  "ordinal": 22,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.22-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$a$ ও $b$ বাস্তব সংখ্যা এবং $a < b$ হলে",
+      "image": null,
+      "formulas": [
+        "a",
+        "b",
+        "a < b"
+      ],
+      "pdfPageStart": 17,
+      "pdfPageEnd": 17,
+      "printedPageStart": 12,
+      "printedPageEnd": 12,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.22-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $(a, b) = \\{x \\in R : a < x < b\\}$ কে খোলা ব্যবধি (open interval) বলে।",
+      "image": null,
+      "formulas": [
+        "(a, b) = \\{x \\in R : a < x < b\\}"
+      ],
+      "pdfPageStart": 17,
+      "pdfPageEnd": 17,
+      "printedPageStart": 12,
+      "printedPageEnd": 12,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.22-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $[a, b] = \\{x \\in R : a \\leq x \\leq b\\}$ কে বদ্ধ ব্যবধি (closed interval) বলে।",
+      "image": null,
+      "formulas": [
+        "[a, b] = \\{x \\in R : a \\leq x \\leq b\\}"
+      ],
+      "pdfPageStart": 17,
+      "pdfPageEnd": 17,
+      "printedPageStart": 12,
+      "printedPageEnd": 12,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.22-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $(a, b] = \\{x \\in R : a < x \\le b\\}$ এবং $[a, b) = \\{x \\in R : a \\le x < b\\}$ কে যথাক্রমে খোলা-বদ্ধ ও বদ্ধ-খোলা ব্যবধি বলে।",
+      "image": null,
+      "formulas": [
+        "(a, b] = \\{x \\in R : a < x \\le b\\}",
+        "[a, b) = \\{x \\in R : a \\le x < b\\}"
+      ],
+      "pdfPageStart": 18,
+      "pdfPageEnd": 18,
+      "printedPageStart": 13,
+      "printedPageEnd": 13,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

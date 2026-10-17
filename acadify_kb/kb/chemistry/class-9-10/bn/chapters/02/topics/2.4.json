@@ -1,0 +1,88 @@
+{
+  "id": "chemistry-9-10-bn-c02-t2.4",
+  "key": "2.4",
+  "title": "নিঃসরণ (Effusion)",
+  "chapter": 2,
+  "ordinal": 4,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c02-t2.4-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "নিঃসরণ হলো এমন একটি প্রক্রিয়া যার মাধ্যমে গ্যাসের কণাগুলো খুব ছোট একটি ছিদ্র দিয়ে পারস্পরিক সংঘর্ষ ছাড়াই একে একে বের হয়ে যায়। যেমন বেলুনের ছোট ছিদ্র দিয়ে গ্যাস নির্গমন। বেলুনে যদি অতি সূক্ষ্ম বা মাইক্রোস্কোপিক ছিদ্র থাকে, তাহলে কিছু সময় পর সেটি ধীরে ধীরে হাওয়া ছেড়ে সঙ্কুচিত হয়ে যায়। এটি হয় কারণ গ্যাসের কণাগুলো একটি একটি করে সেই সূক্ষ্ম ছিদ্র দিয়ে বাইরে বেরিয়ে আসে। এই ধরনের ধীর গ্যাস নির্গমনকে নিঃসরণ (Effusion) বলা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 29,
+      "pdfPageEnd": 29,
+      "printedPageStart": 24,
+      "printedPageEnd": 24,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c02-t2.4-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এছাড়া যদি কোনো টায়ার খুব ছোট একটি ছিদ্র থাকে, তবে সেই ছিদ্র দিয়ে গ্যাস ধীরে ধীরে কণার আকারে বের হয়ে যায়। এটি জোর বের হওয়া বা হঠাৎ বিস্ফোরণের মতো নয়। এই ধরনের ধীর গতিতে ও ধাপে ধাপে নির্গমনই নিঃসরণ বা Effusion।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 29,
+      "pdfPageEnd": 29,
+      "printedPageStart": 24,
+      "printedPageEnd": 24,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c02-t2.4-p003",
+      "kind": "text",
+      "section": "গ্যাস সিলিন্ডার ও পাইপলাইনে লিক শনাক্তকরণ",
+      "caption": null,
+      "body": "গ্যাস সিলিন্ডার বা পাইপলাইনে সূক্ষ্ম ছিদ্র দিয়ে ধীরে ধীরে গ্যাস নির্গমন হলে তা নিঃসরণের মাধ্যমে ঘটে। এই ধীর গ্যাস নির্গমন পর্যবেক্ষণের মাধ্যমে লিক বা ত্রুটি শনাক্ত করা যায়। সাবান পানি দিয়ে এল পি জি সিলিন্ডার এর ভালভ ও লাইনে নিয়মিত লিক টেস্ট করা যায়। যেমন গ্যাস সিলিন্ডার বা পাইপলাইন সাবান পানিতে ঢেকে ফেলা হয়। যদি ছোট ছোট বদবুদের মতো কিছু দেখা যায়, তাহলে বুঝা যায় সিলিন্ডারে বা পাইপলাইনে সূক্ষ্ম ছিদ্র আছে যা দিয়ে effusion হচ্ছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 29,
+      "pdfPageEnd": 29,
+      "printedPageStart": 24,
+      "printedPageEnd": 24,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c02-t2.4-p004",
+      "kind": "text",
+      "section": "গ্যাস সিলিন্ডার ও পাইপলাইনে লিক শনাক্তকরণ",
+      "caption": null,
+      "body": "**সাবান পানি ব্যবহার করে লিক টেস্ট**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 29,
+      "pdfPageEnd": 29,
+      "printedPageStart": 24,
+      "printedPageEnd": 24,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c02-t2.4-p005",
+      "kind": "text",
+      "section": "গ্যাসের মোলার ভর নির্ণয়",
+      "caption": null,
+      "body": "দুটি অজানা গ্যাসের effusion হার নিণয় করে গবেষকরা তাদের মোলার ভরের তুলনা করেন। হালকা গ্যাস দ্রুত বের হয়, ভারী গ্যাস ধীরে, আর এভাবেই জানা যায় কোন গ্যাস কতটা ভারী।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 29,
+      "pdfPageEnd": 29,
+      "printedPageStart": 24,
+      "printedPageEnd": 24,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    }
+  ]
+}

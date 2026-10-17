@@ -1,0 +1,66 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.20",
+  "key": "1.20",
+  "title": "এক-এক মিল (One-One Correspondence)",
+  "chapter": 1,
+  "ordinal": 20,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.20-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "মনে করি, $A = \\{a, b, c\\}$ তিনজন লোকের সেট এবং $B = \\{30, 40, 50\\}$ ঐ তিনজন লোকের বয়সের সেট। অধিকন্তু মনে করি, $a$ এর বয়স 30 বছর, $b$ এর বয়স 40 বছর এবং $c$ এর বয়স 50 বছর। বলা যায় যে, $A$ সেটের সাথে $B$ সেটের এক-এক মিল আছে।",
+      "image": null,
+      "formulas": [
+        "A = \\{a, b, c\\}",
+        "B = \\{30, 40, 50\\}",
+        "a",
+        "b",
+        "c",
+        "A",
+        "B"
+      ],
+      "pdfPageStart": 16,
+      "pdfPageEnd": 16,
+      "printedPageStart": 11,
+      "printedPageEnd": 11,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.20-p002",
+      "kind": "definition",
+      "section": null,
+      "caption": null,
+      "body": "**সংজ্ঞা ১ (এক-এক মিল):** যদি $A$ সেটের প্রতিটি উপাদানের সাথে $B$ সেটের একটি ও কেবল একটি উপাদান এবং $B$ সেটের প্রতিটি উপাদানের সাথে $A$ সেটের একটি ও কেবল একটি উপাদানের মিল স্থাপন করা যায়, তবে তাকে $A$ ও $B$ এর মধ্যে এক-এক মিল বলা হয়। $A$ ও $B$ এর মধ্যে এক-এক মিলকে সাধারণত $A \\leftrightarrow B$ লিখে প্রকাশ করা হয় এবং $A$ সেটের কোনো সদস্য $x$ এর সঙ্গে $B$ সেটের যে সদস্য $y$ এর মিল করা হয়েছে তা $x \\leftrightarrow y$ লিখে বর্ণনা করা হয়।",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "B",
+        "A",
+        "A",
+        "B",
+        "A",
+        "B",
+        "A \\leftrightarrow B",
+        "A",
+        "x",
+        "B",
+        "y",
+        "x \\leftrightarrow y"
+      ],
+      "pdfPageStart": 16,
+      "pdfPageEnd": 16,
+      "printedPageStart": 11,
+      "printedPageEnd": 11,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

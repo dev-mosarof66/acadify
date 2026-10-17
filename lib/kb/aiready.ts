@@ -33,7 +33,7 @@ export interface AiDecision {
 /** Kinds that count as textbook content. Figures only qualify as captions (see isFigureDescription). */
 const CONTENT_KINDS = new Set(["text", "definition", "formula", "example", "activity", "table", "figure"]);
 /** Reasons that keep a passage out until a person has looked at it. Formulas and tables are included but marked unverified. */
-export const HELD_REASONS = new Set(["latin-junk"]);
+export const HELD_REASONS = new Set(["latin-junk", "foreign-script"]);
 
 const FIGURE_DESCRIPTION = /^(drawing|illustration|photo|photograph|image|diagram|chart|graph|picture):/i;
 /** The parser's own description of a picture ("drawing: a ruler..."), as opposed to the book's caption ("চিত্র ১.২ : ..."). */
@@ -69,6 +69,8 @@ export function cleanText(kind: string, body: string): string {
   const text = kind === "table" ? tableToText(body) : body;
   return text
     .replace(/\*\*/g, "")
+    .replace(/<sup>(.*?)<\/sup>/g, "^$1")
+    .replace(/<sub>(.*?)<\/sub>/g, "_$1")
     .replace(/[ \t]+/g, " ")
     .replace(/\n{3,}/g, "\n\n")
     .trim();

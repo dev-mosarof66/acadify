@@ -64,3 +64,15 @@ test("rejects names and page ranges that can't be right", () => {
     assert.equal(checkChapterEdit(bad, 366).ok, false, JSON.stringify(bad));
   }
 });
+
+test("ends the last chapter where the back matter listed after it begins", () => {
+  const toc = `## সূচিপত্র
+<table><tr><td>প্রথম</td><td>সেট</td><td>১</td></tr>
+<tr><td>দ্বিতীয়</td><td>বীজগণিত</td><td>৩৮</td></tr>
+<tr><td rowspan="3">তৃতীয়</td><td>সম্ভাবনা</td><td>৬৩</td></tr>
+<tr><td>কয়েকজন গণিতবিদ</td><td>৮০</td></tr>
+<tr><td>পরিশিষ্ট</td><td>৮৫</td></tr></table>`;
+  const plan = planChapters([page(5, toc), page(6, "## অধ্যায় ১\n\n### সেট")], 100);
+  assert.ok(plan.ok);
+  assert.deepEqual(plan.chapters.map((c) => [c.number, c.pageFrom, c.pageTo]), [[1, 6, 42], [2, 43, 67], [3, 68, 84]]);
+});

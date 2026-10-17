@@ -1,0 +1,1389 @@
+{
+  "id": "higher-math-9-10-bn-c05-t5.ex",
+  "key": "5.ex",
+  "title": "অনুশীলনী ৫.১",
+  "chapter": 5,
+  "ordinal": 2,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p001",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "সূত্রের সাহায্যে নিচের সমীকরণগুলোর সমাধান করো:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 104,
+      "pdfPageEnd": 104,
+      "printedPageStart": 99,
+      "printedPageEnd": 99,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p002",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১. $2x^2 + 9x + 9 = 0$ ২. $3 - 4x - 2x^2 = 0$ ৩. $4x - 1 - x^2 = 0$\n৪. $2x^2 - 5x - 1 = 0$ ৫. $3x^2 + 7x + 1 = 0$ ৬. $2 - 3x^2 + 9x = 0$\n৭. $x^2 - 8x + 16 = 0$ ৮. $2x^2 + 7x - 1 = 0$ ৯. $7x - 2 - 3x^2 = 0$",
+      "image": null,
+      "formulas": [
+        "2x^2 + 9x + 9 = 0",
+        "3 - 4x - 2x^2 = 0",
+        "4x - 1 - x^2 = 0",
+        "2x^2 - 5x - 1 = 0",
+        "3x^2 + 7x + 1 = 0",
+        "2 - 3x^2 + 9x = 0",
+        "x^2 - 8x + 16 = 0",
+        "2x^2 + 7x - 1 = 0",
+        "7x - 2 - 3x^2 = 0"
+      ],
+      "pdfPageStart": 104,
+      "pdfPageEnd": 104,
+      "printedPageStart": 99,
+      "printedPageEnd": 99,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p003",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.২",
+      "caption": null,
+      "body": "**সমাধান করো:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 107,
+      "pdfPageEnd": 107,
+      "printedPageStart": 102,
+      "printedPageEnd": 102,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p004",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.২",
+      "caption": null,
+      "body": "১. $\\sqrt{x - 4} + 2 = \\sqrt{x + 12}$\n২. $\\sqrt{11x - 6} = \\sqrt{4x + 5} - \\sqrt{x - 1}$\n৩. $\\sqrt{2x + 7} + \\sqrt{3x - 18} = \\sqrt{7x + 1}$\n৪. $\\sqrt{x + 4} + \\sqrt{x + 11} = \\sqrt{8x + 9}$\n৫. $\\sqrt{11x - 6} = \\sqrt{4x + 5} + \\sqrt{x - 1}$\n৬. $\\sqrt{x^2 - 8} + \\sqrt{x^2 - 14} = 6$\n৭. $\\sqrt{x^2 - 6x + 9} - \\sqrt{x^2 - 6x + 6} = 1$\n৮. $\\sqrt{x - 2} - \\sqrt{x - 9} = 1$\n৯. $6\\sqrt{\\frac{2x}{x - 1}} + 5\\sqrt{\\frac{x - 1}{2x}} = 13$\n১০. $\\sqrt{\\frac{x - 1}{3x + 2}} + 2\\sqrt{\\frac{3x + 2}{x - 1}} = 3$",
+      "image": null,
+      "formulas": [
+        "\\sqrt{x - 4} + 2 = \\sqrt{x + 12}",
+        "\\sqrt{11x - 6} = \\sqrt{4x + 5} - \\sqrt{x - 1}",
+        "\\sqrt{2x + 7} + \\sqrt{3x - 18} = \\sqrt{7x + 1}",
+        "\\sqrt{x + 4} + \\sqrt{x + 11} = \\sqrt{8x + 9}",
+        "\\sqrt{11x - 6} = \\sqrt{4x + 5} + \\sqrt{x - 1}",
+        "\\sqrt{x^2 - 8} + \\sqrt{x^2 - 14} = 6",
+        "\\sqrt{x^2 - 6x + 9} - \\sqrt{x^2 - 6x + 6} = 1",
+        "\\sqrt{x - 2} - \\sqrt{x - 9} = 1",
+        "6\\sqrt{\\frac{2x}{x - 1}} + 5\\sqrt{\\frac{x - 1}{2x}} = 13",
+        "\\sqrt{\\frac{x - 1}{3x + 2}} + 2\\sqrt{\\frac{3x + 2}{x - 1}} = 3"
+      ],
+      "pdfPageStart": 107,
+      "pdfPageEnd": 107,
+      "printedPageStart": 102,
+      "printedPageEnd": 102,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p005",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৩",
+      "caption": null,
+      "body": "**সমাধান করো:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 111,
+      "pdfPageEnd": 111,
+      "printedPageStart": 106,
+      "printedPageEnd": 106,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p006",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৩",
+      "caption": null,
+      "body": "১. $3^{x+2} = 81$",
+      "image": null,
+      "formulas": [
+        "3^{x+2} = 81"
+      ],
+      "pdfPageStart": 111,
+      "pdfPageEnd": 111,
+      "printedPageStart": 106,
+      "printedPageEnd": 106,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p007",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৩",
+      "caption": null,
+      "body": "২. $5^{3x-7} = 3^{3x-7}$",
+      "image": null,
+      "formulas": [
+        "5^{3x-7} = 3^{3x-7}"
+      ],
+      "pdfPageStart": 111,
+      "pdfPageEnd": 111,
+      "printedPageStart": 106,
+      "printedPageEnd": 106,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p008",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৩",
+      "caption": null,
+      "body": "৩. $2^{x-4} = 4a^{x-6}$ ($a > 0, a \\neq 2$)",
+      "image": null,
+      "formulas": [
+        "2^{x-4} = 4a^{x-6}",
+        "a > 0, a \\neq 2"
+      ],
+      "pdfPageStart": 111,
+      "pdfPageEnd": 111,
+      "printedPageStart": 106,
+      "printedPageEnd": 106,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p009",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৩",
+      "caption": null,
+      "body": "৪. $(\\sqrt{3})^{x+5} = (\\sqrt[3]{3})^{2x+5}$",
+      "image": null,
+      "formulas": [
+        "(\\sqrt{3})^{x+5} = (\\sqrt[3]{3})^{2x+5}"
+      ],
+      "pdfPageStart": 111,
+      "pdfPageEnd": 111,
+      "printedPageStart": 106,
+      "printedPageEnd": 106,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p010",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৩",
+      "caption": null,
+      "body": "৫. $(\\sqrt[5]{4})^{4x+7} = (\\sqrt[11]{64})^{2x+7}$",
+      "image": null,
+      "formulas": [
+        "(\\sqrt[5]{4})^{4x+7} = (\\sqrt[11]{64})^{2x+7}"
+      ],
+      "pdfPageStart": 111,
+      "pdfPageEnd": 111,
+      "printedPageStart": 106,
+      "printedPageEnd": 106,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p011",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৩",
+      "caption": null,
+      "body": "৬. $\\frac{3^{3x-4} \\cdot a^{2x-5}}{3^{x+1}} = a^{2x-5}$ ($a > 0$)",
+      "image": null,
+      "formulas": [
+        "\\frac{3^{3x-4} \\cdot a^{2x-5}}{3^{x+1}} = a^{2x-5}",
+        "a > 0"
+      ],
+      "pdfPageStart": 111,
+      "pdfPageEnd": 111,
+      "printedPageStart": 106,
+      "printedPageEnd": 106,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p012",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৩",
+      "caption": null,
+      "body": "৭. $\\frac{5^{2x} \\cdot b^{x-3}}{5^{x+3}} = a^{x-3}$ ($a, b > 0, 5b \\neq a$)",
+      "image": null,
+      "formulas": [
+        "\\frac{5^{2x} \\cdot b^{x-3}}{5^{x+3}} = a^{x-3}",
+        "a, b > 0, 5b \\neq a"
+      ],
+      "pdfPageStart": 111,
+      "pdfPageEnd": 111,
+      "printedPageStart": 106,
+      "printedPageEnd": 106,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p013",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৩",
+      "caption": null,
+      "body": "৮. $4^{x+2} = 2^{2x+1} + 14$",
+      "image": null,
+      "formulas": [
+        "4^{x+2} = 2^{2x+1} + 14"
+      ],
+      "pdfPageStart": 111,
+      "pdfPageEnd": 111,
+      "printedPageStart": 106,
+      "printedPageEnd": 106,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p014",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৩",
+      "caption": null,
+      "body": "৯. $5^x + 5^{2-x} = 26$",
+      "image": null,
+      "formulas": [
+        "5^x + 5^{2-x} = 26"
+      ],
+      "pdfPageStart": 111,
+      "pdfPageEnd": 111,
+      "printedPageStart": 106,
+      "printedPageEnd": 106,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p015",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৩",
+      "caption": null,
+      "body": "১০. $3(9^x - 4 \\cdot 3^{x-1}) + 1 = 0$",
+      "image": null,
+      "formulas": [
+        "3(9^x - 4 \\cdot 3^{x-1}) + 1 = 0"
+      ],
+      "pdfPageStart": 111,
+      "pdfPageEnd": 111,
+      "printedPageStart": 106,
+      "printedPageEnd": 106,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p016",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৩",
+      "caption": null,
+      "body": "১১. $4^{1+x} + 4^{1-x} = 10$",
+      "image": null,
+      "formulas": [
+        "4^{1+x} + 4^{1-x} = 10"
+      ],
+      "pdfPageStart": 111,
+      "pdfPageEnd": 111,
+      "printedPageStart": 106,
+      "printedPageEnd": 106,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p017",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৩",
+      "caption": null,
+      "body": "১২. $2^{2x} - 3 \\cdot 2^{x+2} = -32$",
+      "image": null,
+      "formulas": [
+        "2^{2x} - 3 \\cdot 2^{x+2} = -32"
+      ],
+      "pdfPageStart": 111,
+      "pdfPageEnd": 111,
+      "printedPageStart": 106,
+      "printedPageEnd": 106,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p018",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৪",
+      "caption": null,
+      "body": "**সমাধান করো:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p019",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৪",
+      "caption": null,
+      "body": "১. $(2x + 3)(y - 1) = 14, (x - 3)(y - 2) = -1$",
+      "image": null,
+      "formulas": [
+        "(2x + 3)(y - 1) = 14, (x - 3)(y - 2) = -1"
+      ],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p020",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৪",
+      "caption": null,
+      "body": "২. $(x - 2)(y - 1) = 3, (x + 2)(2y - 5) = 15$",
+      "image": null,
+      "formulas": [
+        "(x - 2)(y - 1) = 3, (x + 2)(2y - 5) = 15"
+      ],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p021",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৪",
+      "caption": null,
+      "body": "৩. $x^2 = 7x + 6y, y^2 = 7y + 6x$",
+      "image": null,
+      "formulas": [
+        "x^2 = 7x + 6y, y^2 = 7y + 6x"
+      ],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p022",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৪",
+      "caption": null,
+      "body": "৪. $x^2 = 3x + 2y, y^2 = 3y + 2x$",
+      "image": null,
+      "formulas": [
+        "x^2 = 3x + 2y, y^2 = 3y + 2x"
+      ],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p023",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৪",
+      "caption": null,
+      "body": "৫. $x + \\frac{4}{y} = 1, y + \\frac{4}{x} = 25$",
+      "image": null,
+      "formulas": [
+        "x + \\frac{4}{y} = 1, y + \\frac{4}{x} = 25"
+      ],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p024",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৪",
+      "caption": null,
+      "body": "৬. $y + 3 = \\frac{4}{x}, \\quad x - 4 = \\frac{5}{3y}$",
+      "image": null,
+      "formulas": [
+        "y + 3 = \\frac{4}{x}, \\quad x - 4 = \\frac{5}{3y}"
+      ],
+      "pdfPageStart": 115,
+      "pdfPageEnd": 115,
+      "printedPageStart": 110,
+      "printedPageEnd": 110,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p025",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৪",
+      "caption": null,
+      "body": "৭. $xy - x^2 = 1, \\quad y^2 - xy = 2$",
+      "image": null,
+      "formulas": [
+        "xy - x^2 = 1, \\quad y^2 - xy = 2"
+      ],
+      "pdfPageStart": 115,
+      "pdfPageEnd": 115,
+      "printedPageStart": 110,
+      "printedPageEnd": 110,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p026",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৪",
+      "caption": null,
+      "body": "৮. $x^2 - xy = 14, \\quad y^2 + xy = 60$",
+      "image": null,
+      "formulas": [
+        "x^2 - xy = 14, \\quad y^2 + xy = 60"
+      ],
+      "pdfPageStart": 115,
+      "pdfPageEnd": 115,
+      "printedPageStart": 110,
+      "printedPageEnd": 110,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p027",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৪",
+      "caption": null,
+      "body": "৯. $x^2 + y^2 = 25, \\quad xy = 12$",
+      "image": null,
+      "formulas": [
+        "x^2 + y^2 = 25, \\quad xy = 12"
+      ],
+      "pdfPageStart": 115,
+      "pdfPageEnd": 115,
+      "printedPageStart": 110,
+      "printedPageEnd": 110,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p028",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৪",
+      "caption": null,
+      "body": "১০. $\\frac{x + y}{x - y} + \\frac{x - y}{x + y} = \\frac{10}{3}, \\quad x^2 - y^2 = 3$",
+      "image": null,
+      "formulas": [
+        "\\frac{x + y}{x - y} + \\frac{x - y}{x + y} = \\frac{10}{3}, \\quad x^2 - y^2 = 3"
+      ],
+      "pdfPageStart": 115,
+      "pdfPageEnd": 115,
+      "printedPageStart": 110,
+      "printedPageEnd": 110,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p029",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৪",
+      "caption": null,
+      "body": "১১. $x^2 + xy + y^2 = 3, \\quad x^2 - xy + y^2 = 7$",
+      "image": null,
+      "formulas": [
+        "x^2 + xy + y^2 = 3, \\quad x^2 - xy + y^2 = 7"
+      ],
+      "pdfPageStart": 115,
+      "pdfPageEnd": 115,
+      "printedPageStart": 110,
+      "printedPageEnd": 110,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p030",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৪",
+      "caption": null,
+      "body": "১২. $2x^2 + 3xy + y^2 = 20, \\quad 5x^2 + 4y^2 = 41$",
+      "image": null,
+      "formulas": [
+        "2x^2 + 3xy + y^2 = 20, \\quad 5x^2 + 4y^2 = 41"
+      ],
+      "pdfPageStart": 115,
+      "pdfPageEnd": 115,
+      "printedPageStart": 110,
+      "printedPageEnd": 110,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p031",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৫",
+      "caption": null,
+      "body": "১. দুটি বর্গক্ষেত্রের ক্ষেত্রফলের সমষ্টি 481 বর্গমিটার। ঐ দুটি বর্গক্ষেত্রের দুই বাহু দ্বারা গঠিত আয়তক্ষেত্রের ক্ষেত্রফল 240 বর্গমিটার হলে, বর্গক্ষেত্র দুটির প্রত্যেক বাহুর পরিমাণ কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 117,
+      "pdfPageEnd": 117,
+      "printedPageStart": 112,
+      "printedPageEnd": 112,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p032",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৫",
+      "caption": null,
+      "body": "২. দুইটি ধনাত্মক সংখ্যার বর্গের সমষ্টি 250। সংখ্যা দুটির গুণফল 117, সংখ্যা দুটি নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 117,
+      "pdfPageEnd": 117,
+      "printedPageStart": 112,
+      "printedPageEnd": 112,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p033",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৫",
+      "caption": null,
+      "body": "৩. একটি আয়তক্ষেত্রের কর্ণের দৈর্ঘ্য 10 মিটার। ইহার বাহুদ্বয়ের যোগফল ও বিয়োগফলের সমান দৈর্ঘ্য বিশিষ্ট বাহুদ্বয় দ্বারা অঙ্কিত আয়তক্ষেত্রের ক্ষেত্রফল 28 বর্গমিটার হলে, প্রথম আয়তক্ষেত্রটির দৈর্ঘ্য ও প্রস্থ নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 117,
+      "pdfPageEnd": 117,
+      "printedPageStart": 112,
+      "printedPageEnd": 112,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p034",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৫",
+      "caption": null,
+      "body": "৪. দুটি সংখ্যার বর্গের সমষ্টি 181 এবং সংখ্যা দুইটির গুণফল 90, সংখ্যা দুইটির বর্গের অন্তর নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 117,
+      "pdfPageEnd": 117,
+      "printedPageStart": 112,
+      "printedPageEnd": 112,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p035",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৫",
+      "caption": null,
+      "body": "৫. একটি আয়তক্ষেত্রের ক্ষেত্রফল 24 বর্গমিটার। অপর একটি আয়তক্ষেত্রের দৈর্ঘ্য ও প্রস্থ প্রথম আয়তক্ষেত্রের দৈর্ঘ্য ও প্রস্থ অপেক্ষা যথাক্রমে 4 মিটার এবং 1 মিটার বেশি এবং ক্ষেত্রফল 50 বর্গমিটার। প্রথম আয়তক্ষেত্রের দৈর্ঘ্য ও প্রস্থ নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 117,
+      "pdfPageEnd": 117,
+      "printedPageStart": 112,
+      "printedPageEnd": 112,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p036",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৫",
+      "caption": null,
+      "body": "৬. একটি আয়তক্ষেত্রের প্রস্থের দ্বিগুণ দৈর্ঘ্য অপেক্ষা 23 মিটার বেশি। আয়তক্ষেত্রের ক্ষেত্রফল 600 বর্গমিটার হলে, তার দৈর্ঘ্য ও প্রস্থ নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 117,
+      "pdfPageEnd": 117,
+      "printedPageStart": 112,
+      "printedPageEnd": 112,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p037",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৫",
+      "caption": null,
+      "body": "৭. একটি আয়তক্ষেত্রের পরিসীমা কর্ণদ্বয়ের দৈর্ঘ্যের সমষ্টি অপেক্ষা ৪ মিটার বেশি। ক্ষেত্রটির ক্ষেত্রফল 48 বর্গমিটার হলে, তার দৈর্ঘ্য ও প্রস্থ নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 117,
+      "pdfPageEnd": 117,
+      "printedPageStart": 112,
+      "printedPageEnd": 112,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p038",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৫",
+      "caption": null,
+      "body": "৮. দুই অঙ্কবিশিষ্ট একটি সংখ্যাকে এর অঙ্কদ্বয়ের গুণফল দ্বারা ভাগ করলে ভাগফল 2 হয়। সংখ্যাটির সাথে 27 যোগ করলে অঙ্কদ্বয় স্থান বিনিময় করে। সংখ্যাটি নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 117,
+      "pdfPageEnd": 117,
+      "printedPageStart": 112,
+      "printedPageEnd": 112,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p039",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৫",
+      "caption": null,
+      "body": "৯. একটি আয়তাকার বাগানের পরিসীমা 56 মিটার এবং কর্ণ 20 মিটার। ঐ বাগানের সমান ক্ষেত্রফলবিশিষ্ট বর্গক্ষেত্রের বাহুর দৈর্ঘ্য কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 117,
+      "pdfPageEnd": 117,
+      "printedPageStart": 112,
+      "printedPageEnd": 112,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p040",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৫",
+      "caption": null,
+      "body": "১০. একটি আয়তক্ষেত্রের ক্ষেত্রফল 300 বর্গমিটার এবং এর অর্ধপরিসীমা একটি কর্ণ অপেক্ষা 10 মিটার বেশি। ক্ষেত্রটির দৈর্ঘ্য ও প্রস্থ নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p041",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৫",
+      "caption": null,
+      "body": "১১. দুটি বর্গক্ষেত্রের বাহু $x$ ও $y$ দ্বারা আবদ্ধ আয়তক্ষেত্রের ক্ষেত্রফল 49। বর্গক্ষেত্রদ্বয়ের ক্ষেত্রফলের সমষ্টি সর্বোচ্চ কত হতে পারে?",
+      "image": null,
+      "formulas": [
+        "x",
+        "y"
+      ],
+      "pdfPageStart": 118,
+      "pdfPageEnd": 118,
+      "printedPageStart": 113,
+      "printedPageEnd": 113,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p042",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৬",
+      "caption": null,
+      "body": "**সমাধান করো:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p043",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৬",
+      "caption": null,
+      "body": "১. $2^x + 3^y = 31$\n$2^x - 3^y = -23$",
+      "image": null,
+      "formulas": [
+        "2^x + 3^y = 31",
+        "2^x - 3^y = -23"
+      ],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p044",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৬",
+      "caption": null,
+      "body": "২. $3^x = 9^y$\n$5^{x+y+1} = 25^{xy}$",
+      "image": null,
+      "formulas": [
+        "3^x = 9^y",
+        "5^{x+y+1} = 25^{xy}"
+      ],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p045",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৬",
+      "caption": null,
+      "body": "৩. $3^x \\cdot 9^y = 81$\n$2x - y = 8$",
+      "image": null,
+      "formulas": [
+        "3^x \\cdot 9^y = 81",
+        "2x - y = 8"
+      ],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p046",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৬",
+      "caption": null,
+      "body": "৪. $a^x \\cdot a^{y+1} = a^7$\n$a^{2y} \\cdot a^{3x+5} = a^{20}$",
+      "image": null,
+      "formulas": [
+        "a^x \\cdot a^{y+1} = a^7",
+        "a^{2y} \\cdot a^{3x+5} = a^{20}"
+      ],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p047",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৬",
+      "caption": null,
+      "body": "৫. $2^x \\cdot 3^y = 18$\n$2^{2x} \\cdot 3^y = 36$",
+      "image": null,
+      "formulas": [
+        "2^x \\cdot 3^y = 18",
+        "2^{2x} \\cdot 3^y = 36"
+      ],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p048",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৬",
+      "caption": null,
+      "body": "৬. $y^x = x^2$\n$x^{2x} = y^4$ ($y \\neq 1$)",
+      "image": null,
+      "formulas": [
+        "y^x = x^2",
+        "x^{2x} = y^4",
+        "y \\neq 1"
+      ],
+      "pdfPageStart": 120,
+      "pdfPageEnd": 120,
+      "printedPageStart": 115,
+      "printedPageEnd": 115,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p049",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৬",
+      "caption": null,
+      "body": "৭. $y^x = 4$\n   $y^2 = 2^x$",
+      "image": null,
+      "formulas": [
+        "y^x = 4",
+        "y^2 = 2^x"
+      ],
+      "pdfPageStart": 121,
+      "pdfPageEnd": 121,
+      "printedPageStart": 116,
+      "printedPageEnd": 116,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p050",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৬",
+      "caption": null,
+      "body": "৮. $4^x = 2^y$\n   $(27)^{xy} = 9^{y+1}$",
+      "image": null,
+      "formulas": [
+        "4^x = 2^y",
+        "(27)^{xy} = 9^{y+1}"
+      ],
+      "pdfPageStart": 121,
+      "pdfPageEnd": 121,
+      "printedPageStart": 116,
+      "printedPageEnd": 116,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p051",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৬",
+      "caption": null,
+      "body": "৯. $8y^x - y^{2x} = 16$\n   $2^x = y^2$",
+      "image": null,
+      "formulas": [
+        "8y^x - y^{2x} = 16",
+        "2^x = y^2"
+      ],
+      "pdfPageStart": 121,
+      "pdfPageEnd": 121,
+      "printedPageStart": 116,
+      "printedPageEnd": 116,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p052",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৯",
+      "caption": null,
+      "body": "১. $x^2 - x - 12 = 0$ সমীকরণটিকে $ax^2 + bx + c = 0$ এর সাথে তুলনা করলে $b$ এর মান কোনটি?\nক) 0                      খ) 1                      গ) -1                      ঘ) 3",
+      "image": null,
+      "formulas": [
+        "x^2 - x - 12 = 0",
+        "ax^2 + bx + c = 0",
+        "b"
+      ],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p053",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৯",
+      "caption": null,
+      "body": "২. $x^2 - x - 13 = 0$ হলে সমীকরণটির একটি মূল কোনটি?\nক) $-\\frac{-1 + \\sqrt{51}}{2}$                      খ) $-\\frac{-1 - \\sqrt{51}}{2}$\nগ) $-\\frac{1 + \\sqrt{-51}}{2}$                      ঘ) $\\frac{1 + \\sqrt{53}}{2}$",
+      "image": null,
+      "formulas": [
+        "x^2 - x - 13 = 0",
+        "-\\frac{-1 + \\sqrt{51}}{2}",
+        "-\\frac{-1 - \\sqrt{51}}{2}",
+        "-\\frac{1 + \\sqrt{-51}}{2}",
+        "\\frac{1 + \\sqrt{53}}{2}"
+      ],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p054",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৯",
+      "caption": null,
+      "body": "৩. $y^x = 9, y^2 = 3^x$ সমীকরণ জোটির একটি সমাধান কোনটি?\nক) $(-3, -3)$                      খ) $(2, \\frac{1}{3})$\nগ) $(-2, \\frac{1}{3})$                      ঘ) $(-2, 3)$",
+      "image": null,
+      "formulas": [
+        "y^x = 9, y^2 = 3^x",
+        "(-3, -3)",
+        "(2, \\frac{1}{3})",
+        "(-2, \\frac{1}{3})",
+        "(-2, 3)"
+      ],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p055",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৯",
+      "caption": null,
+      "body": "৪. একটি সংখ্যা ও ঐ সংখ্যার গুণাঙ্ক বিপরীত সংখ্যার সমষ্টি ৬। সন্ন্যব্য সমীকরণটির গঠন হবে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p056",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৯",
+      "caption": null,
+      "body": "(i) $x + \\frac{1}{x} = 6$",
+      "image": null,
+      "formulas": [
+        "x + \\frac{1}{x} = 6"
+      ],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p057",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৯",
+      "caption": null,
+      "body": "(ii) $x^2 + 1 = 6x$",
+      "image": null,
+      "formulas": [
+        "x^2 + 1 = 6x"
+      ],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p058",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৯",
+      "caption": null,
+      "body": "(iii) $x^2 - 6x - 1 = 0$",
+      "image": null,
+      "formulas": [
+        "x^2 - 6x - 1 = 0"
+      ],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p059",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৯",
+      "caption": null,
+      "body": "নিচের কোনটি সঠিক?\nক) $i$ ও $ii$                      খ) $i$ ও $iii$                      গ) $ii$ ও $iii$                      ঘ) $i, ii$ ও $iii$",
+      "image": null,
+      "formulas": [
+        "i",
+        "ii",
+        "i",
+        "iii",
+        "ii",
+        "iii",
+        "i, ii",
+        "iii"
+      ],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p060",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৯",
+      "caption": null,
+      "body": "৫. $2^{px-1} = 2^{2px-2}$ এর সমাধান কোনটি?\nক) $\\frac{p}{2}$ খ) $p$ গ) $-\\frac{p}{2}$ ঘ) $\\frac{1}{p}$",
+      "image": null,
+      "formulas": [
+        "2^{px-1} = 2^{2px-2}",
+        "\\frac{p}{2}",
+        "p",
+        "-\\frac{p}{2}",
+        "\\frac{1}{p}"
+      ],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p061",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৯",
+      "caption": null,
+      "body": "৬. লেখচিত্রের সাহায্যে নিচের সমীকরণগুলোর সমাধান করো:\nক) $x^2 - 4x + 3 = 0$ খ) $x^2 + 2x - 3 = 0$ গ) $x^2 + 7x = 0$\nঘ) $2x^2 - 7x + 3 = 0$ ও) $2x^2 - 5x + 2 = 0$ চ) $x^2 + 8x + 16 = 0$\nছ) $x^2 + x - 3 = 0$ জ) $x^2 = 8$",
+      "image": null,
+      "formulas": [
+        "x^2 - 4x + 3 = 0",
+        "x^2 + 2x - 3 = 0",
+        "x^2 + 7x = 0",
+        "2x^2 - 7x + 3 = 0",
+        "2x^2 - 5x + 2 = 0",
+        "x^2 + 8x + 16 = 0",
+        "x^2 + x - 3 = 0",
+        "x^2 = 8"
+      ],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p062",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৯",
+      "caption": null,
+      "body": "৭. একটি সংখ্যার বর্গের দ্বিগুণ সংখ্যাটির ৫ গুণ থেকে ৩ কম। কিন্তু ঐ সংখ্যাটির বর্গের ৫ গুণ সংখ্যাটির ২ গুণ থেকে ৩ বেশি।\nক) উদ্দীপকের তথ্যগুলোর সাহায্যে সমীকরণ গঠন করো।\nখ) সূত্র প্রয়োগ করে ১ম সমীকরণটি সমাধান করো।\nগ) ২য় সমীকরণটি লেখচিত্রের সাহায্যে সমাধান করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p063",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৯",
+      "caption": null,
+      "body": "৮. জনাব আশফাক আলীর আয়তাকার এক খণ্ড জমির ক্ষেত্রফল 0.12 হেক্টর। জমিটির অর্ধপরিসীমা এর একটি কর্ণ অপেক্ষা 20 মিটার বেশি। তিনি তাঁর জমি থেকে শ্যাম বাবুর নিকট আয়তাকার এক তৃতীয়াংশ বিক্রি করেন। শ্যাম বাবুর জমির দৈর্ঘ্য, প্রস্থ অপেক্ষা 5 মিটার বেশি। [1 হেক্টর = 10,000 বর্গমিটার]\nক) উদ্দীপকের আলোকে দুটি সমীকরণ গঠন করো।\nখ) আশফাক আলীর জমির দৈর্ঘ্য ও প্রস্থ নির্ণয় করো।\nগ) শ্যাম বাবুর জমির কর্ণের দৈর্ঘ্য ও পরিসীমা নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p064",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৯",
+      "caption": null,
+      "body": "৯. পাঁচটি ক্রমিক পূর্ণসংখ্যার অঙ্কগুলোর যোগফল কি পরবর্তী পাঁচটি ক্রমিক পূর্ণসংখ্যার অঙ্কগুলোর যোগফল দিয়ে গুণ করলে গুণফল 120635 হতে পারে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p065",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৯",
+      "caption": null,
+      "body": "১০. একটি আয়তক্ষেত্রের দৈর্ঘ্য ও প্রস্থের ব্যবধান 1 সেমি। তার ক্ষেত্রফলের শেষ অঙ্ক যদি 6 হয় তাহলে তার কোনো বাহুর দৈর্ঘ্য পূর্ণবর্গ হতে পারে কি?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p066",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৯",
+      "caption": null,
+      "body": "১১. ঘড়ির ঘণ্টা ও মিনিটের কাঁটা কতবার পরস্পর ঠিক বিপরীত দিকে বসে? সময়গুলো বের করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p067",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৫.৯",
+      "caption": null,
+      "body": "১২. ঘড়ির ঘণ্টা ও মিনিটের কাঁটা কতবার ঠিক লম্বালম্বি হয়ে বসে? সময়গুলো বের করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p068",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "১. $16^x = 4^{x+1}$ সমীকরণটির সমাধান কোনটি?\nক) 2 খ) 1 গ) 4 ঘ) 3",
+      "image": null,
+      "formulas": [
+        "16^x = 4^{x+1}"
+      ],
+      "pdfPageStart": 127,
+      "pdfPageEnd": 127,
+      "printedPageStart": 122,
+      "printedPageEnd": 122,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p069",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "২. একটি সংখ্যা এবং ঐ সংখ্যার গুণাত্মক বিপরীত সংখ্যার সমষ্টি 2 হলে -\n(i) $x + \\frac{1}{x} = 2$\n(ii) $x^2 + 2x = 1$\n(iii) $x - \\frac{1}{x} = 0$\nনিচের কোনটি সঠিক?\n(ক) i ও ii খ) i ও iii গ) ii ও iii ঘ) i, ii ও iii",
+      "image": null,
+      "formulas": [
+        "x + \\frac{1}{x} = 2",
+        "x^2 + 2x = 1",
+        "x - \\frac{1}{x} = 0"
+      ],
+      "pdfPageStart": 127,
+      "pdfPageEnd": 127,
+      "printedPageStart": 122,
+      "printedPageEnd": 122,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p070",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "নিচের তথ্যের ভিত্তিতে ৩ ও ৪ নং প্রশ্নের উত্তর দাও:\nদুইটি ধনাত্মক পূর্ণ সংখ্যার বর্গের অন্তর 11 এবং গুণফল 30.",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 127,
+      "pdfPageEnd": 127,
+      "printedPageStart": 122,
+      "printedPageEnd": 122,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p071",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৩. সংখ্যা দুইটির বর্গের সমষ্টি কত?\n(ক) 1 খ) 5 গ) 41 ঘ) 61",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 127,
+      "pdfPageEnd": 127,
+      "printedPageStart": 122,
+      "printedPageEnd": 122,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p072",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৪. সংখ্যা দুইটি কী কী?\n(ক) 1 এবং 30 খ) 2 এবং 15\n(গ) 5 এবং 6 ঘ) 3 এবং 10",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 127,
+      "pdfPageEnd": 127,
+      "printedPageStart": 122,
+      "printedPageEnd": 122,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p073",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "৫. $f(x) = x^2 - 6x + 15$ এবং $g(x) = x^2 - 6x + 13$\nক) $f(x) = 7$ হলে, $x$ এর মান নির্ণয় করো।\nখ) $\\sqrt{f(x)} - \\sqrt{g(x)} = \\sqrt{10} - \\sqrt{8}$ হলে, সমীকরণটি সমাধান করো।\nগ) $g(x)$ এর লেখচিত্র অঙ্কন করো।",
+      "image": null,
+      "formulas": [
+        "f(x) = x^2 - 6x + 15",
+        "g(x) = x^2 - 6x + 13",
+        "f(x) = 7",
+        "x",
+        "\\sqrt{f(x)} - \\sqrt{g(x)} = \\sqrt{10} - \\sqrt{8}",
+        "g(x)"
+      ],
+      "pdfPageStart": 127,
+      "pdfPageEnd": 127,
+      "printedPageStart": 122,
+      "printedPageEnd": 122,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.ex-p074",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "৬. (ক) $a^{mx-1} = a^{3mx+1}$ হলে, $x$ এর মান নির্ণয় করো।\n(খ) $x^2 - x - 11 = 0$ সমীকরণটির মূলদ্বয়ের প্রকৃতি নির্ণয় করো।\n(গ) $\\frac{81}{625}$ কে $\\frac{5}{3}$ এর সূচকে প্রকাশ করো।",
+      "image": null,
+      "formulas": [
+        "a^{mx-1} = a^{3mx+1}",
+        "x",
+        "x^2 - x - 11 = 0",
+        "\\frac{81}{625}",
+        "\\frac{5}{3}"
+      ],
+      "pdfPageStart": 127,
+      "pdfPageEnd": 127,
+      "printedPageStart": 122,
+      "printedPageEnd": 122,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

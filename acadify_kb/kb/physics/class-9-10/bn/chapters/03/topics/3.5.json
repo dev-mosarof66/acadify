@@ -1,0 +1,554 @@
+{
+  "id": "physics-9-10-bn-c03-t3.5",
+  "key": "3.5",
+  "title": "সংঘর্ষ (Collision)",
+  "chapter": 3,
+  "ordinal": 5,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c03-t3.5-p001",
+      "kind": "text",
+      "section": "(Conservation of Momentum and Energy)",
+      "caption": null,
+      "body": "মনে করি, একটি সমতলে $m_1$ এবং $m_2$ ভর $u_1$ এবং $u_2$ বেগে সরলরেখায় যাচ্ছে। তাদের বেগের ভিন্নতার কারণে ধরা যাক তাদের মাঝে সংঘর্ষ হলো এবং সে কারণে তাদের বেগ পাল্টে গেল। $m_1$ ভরটির বেগ এখন $v_1$ এবং $m_2$ ভরটির বেগ $v_2$ (চিত্র 3.04)। আমরা কি সংঘর্ষের পর বেগ $v_1$ এবং $v_2$ কত, সেটা বের করতে পারব?",
+      "image": null,
+      "formulas": [
+        "m_1",
+        "m_2",
+        "u_1",
+        "u_2",
+        "m_1",
+        "v_1",
+        "m_2",
+        "v_2",
+        "v_1",
+        "v_2"
+      ],
+      "pdfPageStart": 77,
+      "pdfPageEnd": 77,
+      "printedPageStart": 72,
+      "printedPageEnd": 72,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.5-p002",
+      "kind": "text",
+      "section": "(Conservation of Momentum and Energy)",
+      "caption": null,
+      "body": "সংঘর্ষের আগে ভর দুটির সম্মিলিত ভরবেগ $m_1u_1 + m_2u_2$\nসংঘর্ষের পর ভর দুটির সম্মিলিত ভরবেগ $m_1v_1 + m_2v_2$",
+      "image": null,
+      "formulas": [
+        "m_1u_1 + m_2u_2",
+        "m_1v_1 + m_2v_2"
+      ],
+      "pdfPageStart": 77,
+      "pdfPageEnd": 77,
+      "printedPageStart": 72,
+      "printedPageEnd": 72,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.5-p003",
+      "kind": "text",
+      "section": "(Conservation of Momentum and Energy)",
+      "caption": null,
+      "body": "যেহেতু বাইরে থেকে কোনো বল দেওয়া হয়নি তাই সংঘর্ষের আগে যেটুকু ভরবেগ ছিল সংঘর্ষের পরেও সেটুকু ভরবেগ থাকবে। এটা হচ্ছে ভরবেগের সংরক্ষণশীলতা বা নিত্যতা।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 77,
+      "pdfPageEnd": 77,
+      "printedPageStart": 72,
+      "printedPageEnd": 72,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.5-p004",
+      "kind": "text",
+      "section": "(Conservation of Momentum and Energy)",
+      "caption": null,
+      "body": "কাজেই আমরা লিখতে পারি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 78,
+      "pdfPageEnd": 78,
+      "printedPageStart": 73,
+      "printedPageEnd": 73,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.5-p005",
+      "kind": "formula",
+      "section": "(Conservation of Momentum and Energy)",
+      "caption": null,
+      "body": "$$m_1u_1 + m_2u_2 = m_1v_1 + m_2v_2$$",
+      "image": null,
+      "formulas": [
+        "m_1u_1 + m_2u_2 = m_1v_1 + m_2v_2"
+      ],
+      "pdfPageStart": 78,
+      "pdfPageEnd": 78,
+      "printedPageStart": 73,
+      "printedPageEnd": 73,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.5-p006",
+      "kind": "text",
+      "section": "(Conservation of Momentum and Energy)",
+      "caption": null,
+      "body": "এখানে একটি মাত্র সমীকরণ এবং দুটো অজানা রাশি $v_1$ এবং $v_2$, কাজেই আমরা $v_1$ এবং $v_2$ বের করতে পারব না। যদি $v_1$ এবং $v_2$ বের করতে চাই, তাহলে আরেকটা সমীকরণ দরকার, সৌভাগ্যক্রমে আমাদের আরো একটি সমীকরণ আছে। পরের অধ্যায়ে আমরা যখন শক্তি সম্পর্কে জানব তখন শক্তির নিত্যতার সূত্র থেকে দ্বিতীয় আরেকটি সমীকরণ পেয়ে যাব, সেটি হচ্ছে শক্তির সংরক্ষণশীলতার সূত্র। তোমরা পরের অধ্যায়ে দেখবে $m$ ভরের কোনো বস্তু যদি $u$ বেগে যায় তাহলে তার গতি শক্তি $\\frac{1}{2}mu^2$। আমরা ধরে নিই সংঘর্ষে গতিশক্তি ব্যতীত অন্য কোনো শক্তির আদান-প্রদান ঘটেনি। সেসক্রে আমরা শক্তির সংরক্ষণশীলতা ব্যবহার করে লিখতে পারি:",
+      "image": null,
+      "formulas": [
+        "v_1",
+        "v_2",
+        "v_1",
+        "v_2",
+        "v_1",
+        "v_2",
+        "m",
+        "u",
+        "\\frac{1}{2}mu^2"
+      ],
+      "pdfPageStart": 78,
+      "pdfPageEnd": 78,
+      "printedPageStart": 73,
+      "printedPageEnd": 73,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.5-p007",
+      "kind": "figure",
+      "section": "(Conservation of Momentum and Energy)",
+      "caption": null,
+      "body": "drawing: diagram of two colliding spheres with initial velocities u1 and u2, collision, and final velocities v1 and v2",
+      "image": "p78-page_12_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 78,
+      "pdfPageEnd": 78,
+      "printedPageStart": 73,
+      "printedPageEnd": 73,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.5-p008",
+      "kind": "figure",
+      "section": "(Conservation of Momentum and Energy)",
+      "caption": null,
+      "body": "**চিত্র ৩.০৪:** $m_1$ এবং $m_2$ পরস্পরকে আঘাত করার পর তাদের বেগ পরিবর্তিত হয়ে $v_1$ এবং $v_2$ হয়েছে।",
+      "image": null,
+      "formulas": [
+        "m_1",
+        "m_2",
+        "v_1",
+        "v_2"
+      ],
+      "pdfPageStart": 78,
+      "pdfPageEnd": 78,
+      "printedPageStart": 73,
+      "printedPageEnd": 73,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.5-p009",
+      "kind": "formula",
+      "section": "(Conservation of Momentum and Energy)",
+      "caption": null,
+      "body": "$$\\frac{1}{2}m_1u_1^2 + \\frac{1}{2}m_2u_2^2 = \\frac{1}{2}m_1v_1^2 + \\frac{1}{2}m_2v_2^2$$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{2}m_1u_1^2 + \\frac{1}{2}m_2u_2^2 = \\frac{1}{2}m_1v_1^2 + \\frac{1}{2}m_2v_2^2"
+      ],
+      "pdfPageStart": 78,
+      "pdfPageEnd": 78,
+      "printedPageStart": 73,
+      "printedPageEnd": 73,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.5-p010",
+      "kind": "text",
+      "section": "(Conservation of Momentum and Energy)",
+      "caption": null,
+      "body": "তোমরা নিচের এই দুটো সূত্র ব্যবহার করে $v_1$ এবং $v_2$ এর মান বের করো।",
+      "image": null,
+      "formulas": [
+        "v_1",
+        "v_2"
+      ],
+      "pdfPageStart": 78,
+      "pdfPageEnd": 78,
+      "printedPageStart": 73,
+      "printedPageEnd": 73,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.5-p011",
+      "kind": "text",
+      "section": "(Conservation of Momentum and Energy)",
+      "caption": null,
+      "body": "ভরবেগের সংরক্ষণশীলতা সূত্রটি এভাবে লিখতে পারি: $m_1(u_1 - v_1) = m_2(v_2 - u_2)$\nশক্তির সংরক্ষণশীলতা সূত্রটি এভাবে লিখতে পারি: $m_1(u_1^2 - v_1^2) = m_2(v_2^2 - u_2^2)$",
+      "image": null,
+      "formulas": [
+        "m_1(u_1 - v_1) = m_2(v_2 - u_2)",
+        "m_1(u_1^2 - v_1^2) = m_2(v_2^2 - u_2^2)"
+      ],
+      "pdfPageStart": 78,
+      "pdfPageEnd": 78,
+      "printedPageStart": 73,
+      "printedPageEnd": 73,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.5-p012",
+      "kind": "text",
+      "section": "(Conservation of Momentum and Energy)",
+      "caption": null,
+      "body": "এবারে এই দুটো সমীকরণ ব্যবহার করে খুব সহজেই সংঘর্ষের পর $m_1$ এবং $m_2$ ভরের বেগ $v_1$ এবং $v_2$ বের করতে পারব। সেটি হচ্ছে:",
+      "image": null,
+      "formulas": [
+        "m_1",
+        "m_2",
+        "v_1",
+        "v_2"
+      ],
+      "pdfPageStart": 78,
+      "pdfPageEnd": 78,
+      "printedPageStart": 73,
+      "printedPageEnd": 73,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.5-p013",
+      "kind": "formula",
+      "section": "(Conservation of Momentum and Energy)",
+      "caption": null,
+      "body": "$$v_1 = \\frac{(m_1 - m_2)u_1 + 2m_2u_2}{m_1 + m_2}$$",
+      "image": null,
+      "formulas": [
+        "v_1 = \\frac{(m_1 - m_2)u_1 + 2m_2u_2}{m_1 + m_2}"
+      ],
+      "pdfPageStart": 78,
+      "pdfPageEnd": 78,
+      "printedPageStart": 73,
+      "printedPageEnd": 73,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.5-p014",
+      "kind": "text",
+      "section": "(Conservation of Momentum and Energy)",
+      "caption": null,
+      "body": "এবং",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 78,
+      "pdfPageEnd": 78,
+      "printedPageStart": 73,
+      "printedPageEnd": 73,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.5-p015",
+      "kind": "formula",
+      "section": "(Conservation of Momentum and Energy)",
+      "caption": null,
+      "body": "$$v_2 = \\frac{(m_2 - m_1)u_2 + 2m_1u_1}{m_1 + m_2}$$",
+      "image": null,
+      "formulas": [
+        "v_2 = \\frac{(m_2 - m_1)u_2 + 2m_1u_1}{m_1 + m_2}"
+      ],
+      "pdfPageStart": 78,
+      "pdfPageEnd": 78,
+      "printedPageStart": 73,
+      "printedPageEnd": 73,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.5-p016",
+      "kind": "text",
+      "section": "(Conservation of Momentum and Energy)",
+      "caption": null,
+      "body": "সূত্র দুটোর দিকে তাকিয়েই তুমি বলতে পারবে দুটোর ভর যদি সমান হয়, অর্থাৎ $m_1 = m_2$ তাহলে $v_1 = u_2$ এবং $v_2 = u_1$ অর্থাৎ বস্তু দুটো একটি অন্যটির সাথে তাদের বেগ পাল্টে নেয়।",
+      "image": null,
+      "formulas": [
+        "m_1 = m_2",
+        "v_1 = u_2",
+        "v_2 = u_1"
+      ],
+      "pdfPageStart": 78,
+      "pdfPageEnd": 78,
+      "printedPageStart": 73,
+      "printedPageEnd": 73,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.5-p017",
+      "kind": "activity",
+      "section": "নিজে করো",
+      "caption": null,
+      "body": "তোমরা এখনোনি এই পরীক্ষাটি করতে পারো। একটা মারবেল স্থির রেখে অন্য একটা মারবেলকে ধাক্কা দাও যেন সেটি ছুটে গিয়ে স্থির মারবেলকে আঘাত করে। দেখবে ধাক্কা দেওয়া মারবেলটা স্থির হয়ে যাবে এবং স্থির মারবেলটা ছুটে আসা মারবেলের গতিতে বের হয়ে যাবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 79,
+      "pdfPageEnd": 79,
+      "printedPageStart": 74,
+      "printedPageEnd": 74,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.5-p018",
+      "kind": "text",
+      "section": "৩.৫.২ নিরাপদ ভ্রমণ: বেগ ও বল (Safe journey: Vellocity and Force)",
+      "caption": null,
+      "body": "আমরা পরের অধ্যায়ে শক্তি সম্পর্কে জানার সময় গতিশক্তির বিষয়টি বিস্তারিতভাবে বুঝতে পারব কিন্তু “সংঘর্ষ” পড়ার সময় এর মাঝে জেনে গেছি যে গতিশক্তিকে $\\frac{1}{2}mv^2$ হিসেবে প্রকাশ করতে হয়। ভ্রমণ সম্পর্কে আলোচনা করার জন্য বিষয়টি খুবই গুরুত্বপূর্ণ। গতিশক্তির মাঝে বেগের বর্গ রয়েছে, যার অর্থ বেগ দ্বিগুণ করা হলে গতিশক্তি চার গুণ বেড়ে যায়। যখন দুটো গাড়ির মাঝে সংঘর্ষ হয়, তখন এই শক্তির কারণেই গাড়ি ক্ষতিগ্রস্ত হয় এবং আরোহীরা আঘাত পায়। কাজেই দৃঘটনার সময় ক্ষতি কমানোর সবচেয়ে সহজ উপায় হচ্ছে গতি কম রাখা। আমাদের দেশের বেশির ভাগ দৃঘটনা হয় গাড়ির বেগ বেশি রাখার কারণে। তখন গাড়িকে নিয়ন্ত্রণ করাও কঠিন হয় এবং দৃঘটনা ঘটার সময় সেখানে অনেক শক্তি ব্যয় হয়।",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{2}mv^2"
+      ],
+      "pdfPageStart": 79,
+      "pdfPageEnd": 79,
+      "printedPageStart": 74,
+      "printedPageEnd": 74,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.5-p019",
+      "kind": "text",
+      "section": "৩.৫.২ নিরাপদ ভ্রমণ: বেগ ও বল (Safe journey: Vellocity and Force)",
+      "caption": null,
+      "body": "ধরা যাক, পথে একটি অনেক ভারী পাথর বোঝাই ট্রাকের ($m_1$) সাথে একই বেগে আসা ছোট একটা গাড়ির ($m_2$) মুখোমুখি সংঘর্ষ হন। কে বেশি ক্ষতিগ্রস্ত হবে?",
+      "image": null,
+      "formulas": [
+        "m_1",
+        "m_2"
+      ],
+      "pdfPageStart": 79,
+      "pdfPageEnd": 79,
+      "printedPageStart": 74,
+      "printedPageEnd": 74,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.5-p020",
+      "kind": "text",
+      "section": "৩.৫.২ নিরাপদ ভ্রমণ: বেগ ও বল (Safe journey: Vellocity and Force)",
+      "caption": null,
+      "body": "যেহেতু মুখোমুখি সংঘর্ষ হয়েছে তাই ছোট গাড়ির বেগ ট্রাকের বেগের বিপরীত।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 79,
+      "pdfPageEnd": 79,
+      "printedPageStart": 74,
+      "printedPageEnd": 74,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.5-p021",
+      "kind": "text",
+      "section": "৩.৫.২ নিরাপদ ভ্রমণ: বেগ ও বল (Safe journey: Vellocity and Force)",
+      "caption": null,
+      "body": "অর্থাৎ ট্রাকের বেগ $u$ হলে গাড়ির বেগ $-u$",
+      "image": null,
+      "formulas": [
+        "u",
+        "-u"
+      ],
+      "pdfPageStart": 79,
+      "pdfPageEnd": 79,
+      "printedPageStart": 74,
+      "printedPageEnd": 74,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.5-p022",
+      "kind": "text",
+      "section": "৩.৫.২ নিরাপদ ভ্রমণ: বেগ ও বল (Safe journey: Vellocity and Force)",
+      "caption": null,
+      "body": "যেহেতু ছোট গাড়ির ভর $m_2$ ট্রাকের ভর $m_1$ এর তুলনায় অনেক কম, সেটাকে শূন্য ধরে নিলে খুব বেশি ভুল হবে না কিন্তু আমাদের হিসাবটি খুব সহজ হবে। (তুমি ইচ্ছা করলে সত্যিকারের বাস-ট্রাক এবং ছোট গাড়ির ভর নিয়ে হিসাবটি করে দেখতে পারো) $m_2$ কে শূন্য ধরে আমরা দেখি সংঘর্ষের পর ট্রাকের বেগ,",
+      "image": null,
+      "formulas": [
+        "m_2",
+        "m_1",
+        "m_2"
+      ],
+      "pdfPageStart": 79,
+      "pdfPageEnd": 79,
+      "printedPageStart": 74,
+      "printedPageEnd": 74,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.5-p023",
+      "kind": "formula",
+      "section": "৩.৫.২ নিরাপদ ভ্রমণ: বেগ ও বল (Safe journey: Vellocity and Force)",
+      "caption": null,
+      "body": "$$v_1 = \\frac{(m_1 - 0)u + 2 \\times 0 \\times (-u)}{m_1 + 0} = u$$",
+      "image": null,
+      "formulas": [
+        "v_1 = \\frac{(m_1 - 0)u + 2 \\times 0 \\times (-u)}{m_1 + 0} = u"
+      ],
+      "pdfPageStart": 79,
+      "pdfPageEnd": 79,
+      "printedPageStart": 74,
+      "printedPageEnd": 74,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.5-p024",
+      "kind": "text",
+      "section": "৩.৫.২ নিরাপদ ভ্রমণ: বেগ ও বল (Safe journey: Vellocity and Force)",
+      "caption": null,
+      "body": "এবং",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 79,
+      "pdfPageEnd": 79,
+      "printedPageStart": 74,
+      "printedPageEnd": 74,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.5-p025",
+      "kind": "formula",
+      "section": "৩.৫.২ নিরাপদ ভ্রমণ: বেগ ও বল (Safe journey: Vellocity and Force)",
+      "caption": null,
+      "body": "$$v_2 = \\frac{(0 - m_1)(-u) + 2m_1u}{m_1 + 0} = 3u$$",
+      "image": null,
+      "formulas": [
+        "v_2 = \\frac{(0 - m_1)(-u) + 2m_1u}{m_1 + 0} = 3u"
+      ],
+      "pdfPageStart": 79,
+      "pdfPageEnd": 79,
+      "printedPageStart": 74,
+      "printedPageEnd": 74,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.5-p026",
+      "kind": "text",
+      "section": "৩.৫.২ নিরাপদ ভ্রমণ: বেগ ও বল (Safe journey: Vellocity and Force)",
+      "caption": null,
+      "body": "ফলাফলটি খুবই ভীতিজনক। সংঘর্ষের পর ট্রাকটি একই বেগে যেতে থাকবে, অর্থাৎ সংঘর্ষের ভয়াবহতা অনুভব করবে না। ছোট গাড়িটির বেগ $-u$ থেকে পরিবর্তিত হয়ে $3u$ হয়ে যাবে যার অর্থ বেগের পরিবর্তন $3u - (-u) = 4u$, ছোট গাড়ির বেগের দিক পরিবর্তিত হয়ে উল্টোদিকে চার গুণ বেগে ছিটকে যাবে। এই প্রক্রিয়ায় ছোট গাড়িটি দুমড়েমুচড়ে ধ্বংস হয়ে যাবে এবং আরোহীদের প্রাণ হারানো হবে খুবই স্বাভাবিক ঘটনা। এখানেও আমরা ধরে নিয়েছি যে গতিশক্তি ছাড়া অন্য কোনো শক্তির আদান প্রদান ঘটেনি, যা আসলে ঠিক নয়।",
+      "image": null,
+      "formulas": [
+        "-u",
+        "3u",
+        "3u - (-u) = 4u"
+      ],
+      "pdfPageStart": 80,
+      "pdfPageEnd": 80,
+      "printedPageStart": 75,
+      "printedPageEnd": 75,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.5-p027",
+      "kind": "text",
+      "section": "৩.৫.২ নিরাপদ ভ্রমণ: বেগ ও বল (Safe journey: Vellocity and Force)",
+      "caption": null,
+      "body": "কাজেই আমাদের পথে ভারী ট্রাক এবং ভারী বাস খুব সতর্ক হয়ে চলাতে হবে। কারণ দুঘটনায় তারা বেশি ক্ষতিগ্রস্ত না হলেও তাদের সাথে মুখোমুখি সংঘর্ষ হলে ছোট গাড়ি অনেক বেশি ক্ষতিগ্রস্ত হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 80,
+      "pdfPageEnd": 80,
+      "printedPageStart": 75,
+      "printedPageEnd": 75,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.5-p028",
+      "kind": "figure",
+      "section": "৩.৫.২ নিরাপদ ভ্রমণ: বেগ ও বল (Safe journey: Vellocity and Force)",
+      "caption": null,
+      "body": "**চিত্র ৩.০৫ : ভরবেগ এবং শক্তির সংরক্ষণশীলতার পরীক্ষা**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 80,
+      "pdfPageEnd": 80,
+      "printedPageStart": 75,
+      "printedPageEnd": 75,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.5-p029",
+      "kind": "text",
+      "section": "৩.৫.২ নিরাপদ ভ্রমণ: বেগ ও বল (Safe journey: Vellocity and Force)",
+      "caption": null,
+      "body": "দুটি বই সমানতরালভাবে পাশাপাশি রেখে মাঝখানের ফাঁকাটিতে চার-পাঁচটি মারবেল রাখ যেন একটি আরেকটিকে স্পর্শ করে থাকে (চিত্র ৩.০৫)। এখন একটি মারবেলকে টোকা দিয়ে বাকি মারবেলের সারিকে আঘাত করো। দেখবে একটি মারবেল দিয়ে এক পাশে আঘাত করলে অন্য পাশ দিয়ে একটি মারবেল বের হবে, দুটি দিয়ে আঘাত করলে দুটি মারবেল বের হবে। কখনোই একটি মারবেল দিয়ে আঘাত করে দুটি মারবেলকে কিংবা দুটি মারবেল দিয়ে আঘাত করে একটি মারবেলকে বের করতে পারবে না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 80,
+      "pdfPageEnd": 80,
+      "printedPageStart": 75,
+      "printedPageEnd": 75,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

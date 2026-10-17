@@ -1,0 +1,1362 @@
+{
+  "id": "higher-math-9-10-bn-c02-t2.9",
+  "key": "2.9",
+  "title": "উৎপাদক উপপাদ্যের বিপরীত উপপাদ্য",
+  "chapter": 2,
+  "ordinal": 9,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রতিজ্ঞা ৪.** $x - a$ যদি $P(x)$ বহুপদীর একটি উৎপাদক হয়, তবে $P(a) = 0$ হবে।",
+      "image": null,
+      "formulas": [
+        "x - a",
+        "P(x)",
+        "P(a) = 0"
+      ],
+      "pdfPageStart": 49,
+      "pdfPageEnd": 49,
+      "printedPageStart": 44,
+      "printedPageEnd": 44,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:** যেহেতু $x - a$, $P(x)$ বহুপদীর একটি উৎপাদক, সুতরাং আরেকটি বহুপদী $Q(x)$ পাওয়া যায় যেন $P(x) = (x - a)Q(x)$।\nএখানে $x = a$ বসিয়ে দেখা যায় যে, $P(a) = (a - a)Q(a) = 0 \\cdot Q(a) = 0$।",
+      "image": null,
+      "formulas": [
+        "x - a",
+        "P(x)",
+        "Q(x)",
+        "P(x) = (x - a)Q(x)",
+        "x = a",
+        "P(a) = (a - a)Q(a) = 0 \\cdot Q(a) = 0"
+      ],
+      "pdfPageStart": 49,
+      "pdfPageEnd": 49,
+      "printedPageStart": 44,
+      "printedPageEnd": 44,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১০.** দেখাও যে, $P(x) = ax^3 + bx^2 + cx + d$ বহুপদীর $x - 1$ একটি উৎপাদক হবে যদি ও কেবল যদি $a + b + c + d = 0$ হয়।",
+      "image": null,
+      "formulas": [
+        "P(x) = ax^3 + bx^2 + cx + d",
+        "x - 1",
+        "a + b + c + d = 0"
+      ],
+      "pdfPageStart": 49,
+      "pdfPageEnd": 49,
+      "printedPageStart": 44,
+      "printedPageEnd": 44,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** মনে করি, $a + b + c + d = 0$।\nতাহলে, $P(1) = a + b + c + d = 0$ [শর্তানুসারে]।\nসুতরাং, $x - 1$, $P(x)$ এর একটি উৎপাদক [উৎপাদক উপপাদ্যের সাহায্যে]।",
+      "image": null,
+      "formulas": [
+        "a + b + c + d = 0",
+        "P(1) = a + b + c + d = 0",
+        "x - 1",
+        "P(x)"
+      ],
+      "pdfPageStart": 49,
+      "pdfPageEnd": 49,
+      "printedPageStart": 44,
+      "printedPageEnd": 44,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এবার মনে করি $P(x)$ এর একটি উৎপাদক $x - 1$।",
+      "image": null,
+      "formulas": [
+        "P(x)",
+        "x - 1"
+      ],
+      "pdfPageStart": 50,
+      "pdfPageEnd": 50,
+      "printedPageStart": 45,
+      "printedPageEnd": 45,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তবে, উৎপাদকের বিপরীত উপপাদ্যের সাহায্যে পাই,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 50,
+      "pdfPageEnd": 50,
+      "printedPageStart": 45,
+      "printedPageEnd": 45,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p007",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$P(1) = 0  অর্থাৎ  a + b + c + d = 0$$",
+      "image": null,
+      "formulas": [
+        "P(1) = 0  অর্থাৎ  a + b + c + d = 0"
+      ],
+      "pdfPageStart": 50,
+      "pdfPageEnd": 50,
+      "printedPageStart": 45,
+      "printedPageEnd": 45,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:** $x - 1$ ধনাত্মক মাত্রার যেকোনো বহুপদীর একটি উৎপাদক হবে যদি ও কেবল যদি বহুপদীটির সহগসমূহের সমষ্টি ০ হয়।",
+      "image": null,
+      "formulas": [
+        "x - 1"
+      ],
+      "pdfPageStart": 50,
+      "pdfPageEnd": 50,
+      "printedPageStart": 45,
+      "printedPageEnd": 45,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১১.** মনে করি, $P(x) = ax^3 + bx^2 + cx + d$ বহুপদীর সহগগুলো পূর্ণসংখ্যা, $a \\neq 0, d \\neq 0$ এবং $x - r$ বহুপদীটির একটি উৎপাদক। দেখাও যে,",
+      "image": null,
+      "formulas": [
+        "P(x) = ax^3 + bx^2 + cx + d",
+        "a \\neq 0, d \\neq 0",
+        "x - r"
+      ],
+      "pdfPageStart": 50,
+      "pdfPageEnd": 50,
+      "printedPageStart": 45,
+      "printedPageEnd": 45,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) যদি $r$ পূর্ণসংখ্যা হয়, তবে $r, d$ এর উৎপাদক হবে।",
+      "image": null,
+      "formulas": [
+        "r",
+        "r, d"
+      ],
+      "pdfPageStart": 50,
+      "pdfPageEnd": 50,
+      "printedPageStart": 45,
+      "printedPageEnd": 45,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) যদি $r = \\frac{p}{q}$ লঘিষ্ঠ আকারে প্রকাশিত মূলদ সংখ্যা হয়, তবে $p, d$ এর উৎপাদক ও $q, a$ এর উৎপাদক হবে।",
+      "image": null,
+      "formulas": [
+        "r = \\frac{p}{q}",
+        "p, d",
+        "q, a"
+      ],
+      "pdfPageStart": 50,
+      "pdfPageEnd": 50,
+      "printedPageStart": 45,
+      "printedPageEnd": 45,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p012",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "ক) উৎপাদক উপপাদ্যের বিপরীত উপপাদ্য থেকে দেখা যায় যে,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 50,
+      "pdfPageEnd": 50,
+      "printedPageStart": 45,
+      "printedPageEnd": 45,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p013",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$$P(r) = ar^3 + br^2 + cr + d = 0 \\quad বা,  (ar^2 + br + c)r = -d$$",
+      "image": null,
+      "formulas": [
+        "P(r) = ar^3 + br^2 + cr + d = 0 \\quad বা,  (ar^2 + br + c)r = -d"
+      ],
+      "pdfPageStart": 50,
+      "pdfPageEnd": 50,
+      "printedPageStart": 45,
+      "printedPageEnd": 45,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p014",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "যেহেতু $(ar^2 + br + c), r$ ও $d$ প্রত্যেকই পূর্ণসংখ্যা, সুতরাং $r, d$ এর একটি উৎপাদক।",
+      "image": null,
+      "formulas": [
+        "(ar^2 + br + c), r",
+        "d",
+        "r, d"
+      ],
+      "pdfPageStart": 50,
+      "pdfPageEnd": 50,
+      "printedPageStart": 45,
+      "printedPageEnd": 45,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p015",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "খ) উৎপাদক উপপাদ্যের বিপরীত উপপাদ্য থেকে দেখা যায় যে,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 50,
+      "pdfPageEnd": 50,
+      "printedPageStart": 45,
+      "printedPageEnd": 45,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p016",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$$P(r) = ar^3 + br^2 + cr + d = 0$$",
+      "image": null,
+      "formulas": [
+        "P(r) = ar^3 + br^2 + cr + d = 0"
+      ],
+      "pdfPageStart": 50,
+      "pdfPageEnd": 50,
+      "printedPageStart": 45,
+      "printedPageEnd": 45,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p017",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $P\\left(\\frac{p}{q}\\right) = a\\left(\\frac{p}{q}\\right)^3 + b\\left(\\frac{p}{q}\\right)^2 + c\\left(\\frac{p}{q}\\right) + d = 0$",
+      "image": null,
+      "formulas": [
+        "P\\left(\\frac{p}{q}\\right) = a\\left(\\frac{p}{q}\\right)^3 + b\\left(\\frac{p}{q}\\right)^2 + c\\left(\\frac{p}{q}\\right) + d = 0"
+      ],
+      "pdfPageStart": 50,
+      "pdfPageEnd": 50,
+      "printedPageStart": 45,
+      "printedPageEnd": 45,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p018",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $ap^3 + bp^2q + cpq^2 + dq^3 = 0 \\dots \\dots (1)$",
+      "image": null,
+      "formulas": [
+        "ap^3 + bp^2q + cpq^2 + dq^3 = 0 \\dots \\dots (1)"
+      ],
+      "pdfPageStart": 50,
+      "pdfPageEnd": 50,
+      "printedPageStart": 45,
+      "printedPageEnd": 45,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p019",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "(1) থেকে পাওয়া যায় $(ap^2 + bpq + cq^2)p = -dq^3 \\dots \\dots (2)$",
+      "image": null,
+      "formulas": [
+        "(ap^2 + bpq + cq^2)p = -dq^3 \\dots \\dots (2)"
+      ],
+      "pdfPageStart": 50,
+      "pdfPageEnd": 50,
+      "printedPageStart": 45,
+      "printedPageEnd": 45,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p020",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "এবং $(bp^2 + cpq + dq^2)q = -ap^3 \\dots \\dots (3)$",
+      "image": null,
+      "formulas": [
+        "(bp^2 + cpq + dq^2)q = -ap^3 \\dots \\dots (3)"
+      ],
+      "pdfPageStart": 50,
+      "pdfPageEnd": 50,
+      "printedPageStart": 45,
+      "printedPageEnd": 45,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p021",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "এখন, $ap^2 + bpq + cq^2, bp^2 + cpq + dq^2, p, q, d, a$ প্রত্যেকেই পূর্ণসংখ্যা।",
+      "image": null,
+      "formulas": [
+        "ap^2 + bpq + cq^2, bp^2 + cpq + dq^2, p, q, d, a"
+      ],
+      "pdfPageStart": 50,
+      "pdfPageEnd": 50,
+      "printedPageStart": 45,
+      "printedPageEnd": 45,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p022",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "সুতরাং (2) থেকে পাওয়া যায়, $p, dq^3$ এর একটি উৎপাদক এবং (3) থেকে পাওয়া যায়, $q, ap^3$ এর একটি উৎপাদক। কিন্তু $p$ ও $q$ এর $\\pm 1$ ছাড়া কোনো সাধারণ উৎপাদক নেই। সুতরাং $p, d$ এর একটি উৎপাদক এবং $q, a$ এর একটি উৎপাদক।",
+      "image": null,
+      "formulas": [
+        "p, dq^3",
+        "q, ap^3",
+        "p",
+        "q",
+        "\\pm 1",
+        "p, d",
+        "q, a"
+      ],
+      "pdfPageStart": 50,
+      "pdfPageEnd": 50,
+      "printedPageStart": 45,
+      "printedPageEnd": 45,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p023",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "**দ্রষ্টব্য:** উপরের উদাহরণ থেকে আমরা লক্ষ্য করি যে, উৎপাদক উপপাদ্যের সাহায্যে পূর্ণসাংখ্যিক সহগবিশিষ্ট বহুপদী $P(x)$ এর উৎপাদক নির্ণয়ের জন্য প্রথমে $P(r)$ এবং পরে $P\\left(\\frac{r}{s}\\right)$ পরীক্ষা করা যেতে পারে, যেখানে, $r$ বহুপদীটির ধ্রুব পদের উৎপাদক ($r = \\pm 1$ সহ) এবং $s$ বহুপদীটির মুখ্যসহগের উৎপাদক ($s = \\pm 1$ সহ)।",
+      "image": null,
+      "formulas": [
+        "P(x)",
+        "P(r)",
+        "P\\left(\\frac{r}{s}\\right)",
+        "r",
+        "r = \\pm 1",
+        "s",
+        "s = \\pm 1"
+      ],
+      "pdfPageStart": 50,
+      "pdfPageEnd": 50,
+      "printedPageStart": 45,
+      "printedPageEnd": 45,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p024",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "**উদাহরণ ১২.** $P(x) = x^3 - 6x^2 + 11x - 6$ কে উৎপাদকে বিশ্লেষণ করো।",
+      "image": null,
+      "formulas": [
+        "P(x) = x^3 - 6x^2 + 11x - 6"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p025",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "**সমাধান:** প্রদত্ত বহুপদীর সহগসমূহ পূর্ণসংখ্যা এবং ধ্রুবপদ $= -6$, মুখ্যসহগ $= 1$।",
+      "image": null,
+      "formulas": [
+        "= -6",
+        "= 1"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p026",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "এখন $r$ যদি পূর্ণসংখ্যা হয় এবং $P(x)$ এর যদি $x - r$ আকারের কোন উৎপাদক থাকে, তবে $r$ অবশ্যই $-6$ এর উৎপাদক অর্থাৎ, $\\pm 1, \\pm 2, \\pm 3, \\pm 6$ এর কোনো একটি হবে। এখন $r$ এর এরূপ বিভিন্ন মানের জন্য $P(x)$ পরীক্ষা করি।",
+      "image": null,
+      "formulas": [
+        "r",
+        "P(x)",
+        "x - r",
+        "r",
+        "-6",
+        "\\pm 1, \\pm 2, \\pm 3, \\pm 6",
+        "r",
+        "P(x)"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p027",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$P(1) = 1 - 6 + 11 - 6 = 0, \\therefore x - 1, P(x)$ এর একটি উৎপাদক।",
+      "image": null,
+      "formulas": [
+        "P(1) = 1 - 6 + 11 - 6 = 0, \\therefore x - 1, P(x)"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p028",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$P(-1) = -1 - 6 - 11 - 6 \\neq 0, \\therefore x + 1, P(x)$ এর উৎপাদক নয়।",
+      "image": null,
+      "formulas": [
+        "P(-1) = -1 - 6 - 11 - 6 \\neq 0, \\therefore x + 1, P(x)"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p029",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$P(2) = 8 - 24 + 22 - 6 = 0, \\therefore x - 2, P(x)$ এর একটি উৎপাদক।",
+      "image": null,
+      "formulas": [
+        "P(2) = 8 - 24 + 22 - 6 = 0, \\therefore x - 2, P(x)"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p030",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$P(-2) = -8 - 24 - 22 - 6 \\neq 0, \\therefore x + 2, P(x)$ এর উৎপাদক নয়।",
+      "image": null,
+      "formulas": [
+        "P(-2) = -8 - 24 - 22 - 6 \\neq 0, \\therefore x + 2, P(x)"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p031",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$P(3) = 27 - 54 + 33 - 6 = 0, \\therefore x - 3, P(x)$ এর একটি উৎপাদক।",
+      "image": null,
+      "formulas": [
+        "P(3) = 27 - 54 + 33 - 6 = 0, \\therefore x - 3, P(x)"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p032",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "যেহেতু, $P(x)$ এর মাত্রা ৩ এবং তিনটি ১ মাত্রার উৎপাদক পাওয়া গেছে, সুতরাং $P(x)$ এর অন্য কোনো উৎপাদক যদি থাকে তবে তা ধ্রুবক হবে।",
+      "image": null,
+      "formulas": [
+        "P(x)",
+        "P(x)"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p033",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore P(x) = k(x - 1)(x - 2)(x - 3)$ যেখানে $k$ ধ্রুবক।",
+      "image": null,
+      "formulas": [
+        "\\therefore P(x) = k(x - 1)(x - 2)(x - 3)",
+        "k"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p034",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "উভয়পক্ষে $x$ এর সর্বোচ্চ ঘাতের সহগ বিবেচনা করে দেখা যায় যে, $k = 1$।",
+      "image": null,
+      "formulas": [
+        "x",
+        "k = 1"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p035",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "সুতরাং, $P(x) = (x - 1)(x - 2)(x - 3)$।",
+      "image": null,
+      "formulas": [
+        "P(x) = (x - 1)(x - 2)(x - 3)"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p036",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "**দ্রষ্টব্য:** কোনো বহুপদী $P(x)$ কে উৎপাদকে বিশ্লেষণ করার জন্য প্রথমে $(x - r)$ আকারের একটি উৎপাদক নির্ণয় করে $P(x)$ কে সরাসরি $(x - r)$ দ্বারা ভাগ করে অথবা $P(x)$ এর পদসমূহকে পুনর্বিন্যাস করে $P(x)$ কে $P(x) = (x - r)Q(x)$ আকারে লেখা যায়। সেখানে $Q(x)$ বহুপদীর মাত্রা $P(x)$ এর মাত্রা থেকে ১ কম। অতঃপর $Q(x)$ এর উৎপাদক নির্ণয় করে অগ্রসর হতে হয়।",
+      "image": null,
+      "formulas": [
+        "P(x)",
+        "(x - r)",
+        "P(x)",
+        "(x - r)",
+        "P(x)",
+        "P(x)",
+        "P(x) = (x - r)Q(x)",
+        "Q(x)",
+        "P(x)",
+        "Q(x)"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p037",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "**উদাহরণ ১৩.** উৎপাদকে বিশ্লেষণ কর: $18x^3 + 15x^2 - x - 2$।",
+      "image": null,
+      "formulas": [
+        "18x^3 + 15x^2 - x - 2"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p038",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "**সমাধান:** মনে করি, $P(x) = 18x^3 + 15x^2 - x - 2$।",
+      "image": null,
+      "formulas": [
+        "P(x) = 18x^3 + 15x^2 - x - 2"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p039",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$P(x)$ এর ধ্রুবপদ $-2$ এর উৎপাদকসমূহের সেট $F_1 = \\{1, -1, 2, -2\\}$।",
+      "image": null,
+      "formulas": [
+        "P(x)",
+        "-2",
+        "F_1 = \\{1, -1, 2, -2\\}"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p040",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$P(x)$ এর মুখ্যসহগ ১৮ এর উৎপাদকসমূহের সেট",
+      "image": null,
+      "formulas": [
+        "P(x)"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p041",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$$F_2 = \\{1, -1, 2, -2, 3, -3, 6, -6, 9, -9, 18, -18\\}$$",
+      "image": null,
+      "formulas": [
+        "F_2 = \\{1, -1, 2, -2, 3, -3, 6, -6, 9, -9, 18, -18\\}"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p042",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "এখন $P(a)$ বিবেচনা করি, যেখানে, $a = \\frac{r}{s}$ এবং $r \\in F_1, s \\in F_2$।",
+      "image": null,
+      "formulas": [
+        "P(a)",
+        "a = \\frac{r}{s}",
+        "r \\in F_1, s \\in F_2"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p043",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$a = 1$ হলে, $P(1) = 18 + 15 - 1 - 2 \\neq 0$।",
+      "image": null,
+      "formulas": [
+        "a = 1",
+        "P(1) = 18 + 15 - 1 - 2 \\neq 0"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p044",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$a = -1$ হলে, $P(-1) = -18 + 15 + 1 - 2 \\neq 0$।",
+      "image": null,
+      "formulas": [
+        "a = -1",
+        "P(-1) = -18 + 15 + 1 - 2 \\neq 0"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p045",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$a = -\\frac{1}{2}$ হলে, $P\\left(-\\frac{1}{2}\\right) = 18\\left(-\\frac{1}{8}\\right) + 15\\left(\\frac{1}{4}\\right) + \\frac{1}{2} - 2 = 0$।",
+      "image": null,
+      "formulas": [
+        "a = -\\frac{1}{2}",
+        "P\\left(-\\frac{1}{2}\\right) = 18\\left(-\\frac{1}{8}\\right) + 15\\left(\\frac{1}{4}\\right) + \\frac{1}{2} - 2 = 0"
+      ],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p046",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "সুতরাং $x + \\frac{1}{2} = \\frac{1}{2}(2x + 1)$ অর্থাৎ $(2x + 1)$, $P(x)$ এর একটি উৎপাদক।",
+      "image": null,
+      "formulas": [
+        "x + \\frac{1}{2} = \\frac{1}{2}(2x + 1)",
+        "(2x + 1)",
+        "P(x)"
+      ],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p047",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "এখন, $18x^3 + 15x^2 - x - 2 = 18x^3 + 9x^2 + 6x^2 + 3x - 4x - 2$\n$$= 9x^2(2x + 1) + 3x(2x + 1) - 2(2x + 1) = (2x + 1)(9x^2 + 3x - 2)$$",
+      "image": null,
+      "formulas": [
+        "18x^3 + 15x^2 - x - 2 = 18x^3 + 9x^2 + 6x^2 + 3x - 4x - 2",
+        "= 9x^2(2x + 1) + 3x(2x + 1) - 2(2x + 1) = (2x + 1)(9x^2 + 3x - 2)"
+      ],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p048",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "এবং $9x^2 + 3x - 2 = 9x^2 + 6x - 3x - 2 = 3x(3x + 2) - 1(3x + 2) = (3x + 2)(3x - 1)$।",
+      "image": null,
+      "formulas": [
+        "9x^2 + 3x - 2 = 9x^2 + 6x - 3x - 2 = 3x(3x + 2) - 1(3x + 2) = (3x + 2)(3x - 1)"
+      ],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p049",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore P(x) = (2x + 1)(3x + 2)(3x - 1)$।",
+      "image": null,
+      "formulas": [
+        "\\therefore P(x) = (2x + 1)(3x + 2)(3x - 1)"
+      ],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p050",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "**উদাহরণ ১৪.** $-3x^2 - 2xy + 8y^2 + 11x - 8y - 6$ কে উৎপাদকে বিশ্লেষণ করো।",
+      "image": null,
+      "formulas": [
+        "-3x^2 - 2xy + 8y^2 + 11x - 8y - 6"
+      ],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p051",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "**সমাধান:** কেবল $x$ সম্মলিত পদগুলো ও ধ্রুবক নিয়ে পাওয়া যায় $-3x^2 + 11x - 6$।\n$$-3x^2 + 11x - 6 \\equiv (-3x + 2)(x - 3)  অথবা  (3x - 2)(-x + 3) \\dots\\dots(1)$$",
+      "image": null,
+      "formulas": [
+        "x",
+        "-3x^2 + 11x - 6",
+        "-3x^2 + 11x - 6 \\equiv (-3x + 2)(x - 3)  অথবা  (3x - 2)(-x + 3) \\dots\\dots(1)"
+      ],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p052",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "আবার কেবল $y$ সম্মলিত পদগুলো ও ধ্রুবক নিয়ে পাওয়া যায় $8y^2 - 8y - 6$।\n$$8y^2 - 8y - 6 \\equiv (4y + 2)(2y - 3)  অথবা  (-4y - 2)(-2y + 3) \\dots\\dots(2)$$",
+      "image": null,
+      "formulas": [
+        "y",
+        "8y^2 - 8y - 6",
+        "8y^2 - 8y - 6 \\equiv (4y + 2)(2y - 3)  অথবা  (-4y - 2)(-2y + 3) \\dots\\dots(2)"
+      ],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p053",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "উপরের (1) ও (2) এর উৎপাদকগুলোকে সমন্যয় করে প্রদত্ত রাশির উৎপাদক পাওয়া যাবে, তবে ধ্রুবকগুলো $+2, -3$ অথবা $-2, +3$ উভয় সম্মীকরণে অবশ্যই একই হতে হবে ঠিক যেমনটি $x$ এবং $y$ এর সহগ।",
+      "image": null,
+      "formulas": [
+        "+2, -3",
+        "-2, +3",
+        "x",
+        "y"
+      ],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p054",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore$ নির্ণয়ে উৎপাদক $(-3x + 4y + 2)(x + 2y - 3)$ অথবা $(3x - 4y - 2)(-x - 2y + 3)$।",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "(-3x + 4y + 2)(x + 2y - 3)",
+        "(3x - 4y - 2)(-x - 2y + 3)"
+      ],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p055",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "নির্ণীত উৎপাদক যে সঠিক সেটা যাচাই করার জন্য আমরা $xy$ এর সহগ $-3 \\cdot 2 + 4 \\cdot 1 = -2$ অথবা $3 \\cdot (-2) - 4 \\cdot (-1) = -2$ মিলিয়ে দেখতে পারি।",
+      "image": null,
+      "formulas": [
+        "xy",
+        "-3 \\cdot 2 + 4 \\cdot 1 = -2",
+        "3 \\cdot (-2) - 4 \\cdot (-1) = -2"
+      ],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p056",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "ক) যদি $P(x) = 2x^4 - 6x^3 + 5x - 2$ হয়, তবে $P(x)$ কে নিম্নলিখিত বহুপদী দ্বারা ভাগ করে ভাগশেষ নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "P(x) = 2x^4 - 6x^3 + 5x - 2",
+        "P(x)"
+      ],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p057",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "(১) $x - 1$ (২) $x - 2$ (৩) $x + 2$\n(৪) $x + 3$ (৫) $2x - 1$ (৬) $2x + 1$",
+      "image": null,
+      "formulas": [
+        "x - 1",
+        "x - 2",
+        "x + 2",
+        "x + 3",
+        "2x - 1",
+        "2x + 1"
+      ],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p058",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "খ) ভাগশেষ উপপাদ্যের সাহায্যে ভাগশেষ নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p059",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "(১) ভাজ্য: $4x^3 - 7x + 10$, ভাজক: $x - 2$\n(২) ভাজ্য: $5x^3 - 11x^2 - 3x + 4$, ভাজক: $x + 1$\n(৩) ভাজ্য: $2y^3 - y^2 - y - 4$, ভাজক: $y + 3$\n(৪) ভাজ্য: $2x^3 + x^2 - 18x + 10$, ভাজক: $2x + 1$ গ) দেখাও যে, $3x^3 - 4x^2 + 4x - 3$ এর একটি উৎপাদক $(x - 1)$।",
+      "image": null,
+      "formulas": [
+        "4x^3 - 7x + 10",
+        "x - 2",
+        "5x^3 - 11x^2 - 3x + 4",
+        "x + 1",
+        "2y^3 - y^2 - y - 4",
+        "y + 3",
+        "2x^3 + x^2 - 18x + 10",
+        "2x + 1",
+        "3x^3 - 4x^2 + 4x - 3",
+        "(x - 1)"
+      ],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 53,
+      "printedPageStart": 47,
+      "printedPageEnd": 48,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p060",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "ঘ) $2x^3 + x^2 + ax - 9$ বহুপদীর একটি উৎপাদক $x + 3$ হলে $a$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "2x^3 + x^2 + ax - 9",
+        "x + 3",
+        "a"
+      ],
+      "pdfPageStart": 53,
+      "pdfPageEnd": 53,
+      "printedPageStart": 48,
+      "printedPageEnd": 48,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p061",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "ঙ) দেখাও যে, $x^3 - 4x^2 + 4x - 3$ বহুপদীর একটি উৎপাদক $x - 3$।",
+      "image": null,
+      "formulas": [
+        "x^3 - 4x^2 + 4x - 3",
+        "x - 3"
+      ],
+      "pdfPageStart": 53,
+      "pdfPageEnd": 53,
+      "printedPageStart": 48,
+      "printedPageEnd": 48,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p062",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "চ) যদি $P(x) = 2x^3 - 5x^2 + 7x - 8$ হয়, তবে $P(x)$ কে $x - 2$ দ্বারা ভাগ করলে যে ভাগশেষ থাকে একে ভাগশেষ উপপাদ্যের সাহায্যে নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "P(x) = 2x^3 - 5x^2 + 7x - 8",
+        "P(x)",
+        "x - 2"
+      ],
+      "pdfPageStart": 53,
+      "pdfPageEnd": 53,
+      "printedPageStart": 48,
+      "printedPageEnd": 48,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p063",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "ছ) দেখাও যে, $4x^4 - 5x^3 + 5x - 4$ বহুপদীর $x + 1$ এবং $x - 1$ রাশিদ্বয় উৎপাদক।",
+      "image": null,
+      "formulas": [
+        "4x^4 - 5x^3 + 5x - 4",
+        "x + 1",
+        "x - 1"
+      ],
+      "pdfPageStart": 53,
+      "pdfPageEnd": 53,
+      "printedPageStart": 48,
+      "printedPageEnd": 48,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p064",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "জ) উৎপাদকে বিশ্লেষণ করো:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 53,
+      "pdfPageEnd": 53,
+      "printedPageStart": 48,
+      "printedPageEnd": 48,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p065",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "(১) $x^3 + 2x^2 - 5x - 6$ (২) $x^3 + 4x^2 + x - 6$",
+      "image": null,
+      "formulas": [
+        "x^3 + 2x^2 - 5x - 6",
+        "x^3 + 4x^2 + x - 6"
+      ],
+      "pdfPageStart": 53,
+      "pdfPageEnd": 53,
+      "printedPageStart": 48,
+      "printedPageEnd": 48,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p066",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "(৩) $a^3 - a^2 - 10a - 8$ (৪) $x^4 + 3x^3 + 5x^2 + 8x + 5$",
+      "image": null,
+      "formulas": [
+        "a^3 - a^2 - 10a - 8",
+        "x^4 + 3x^3 + 5x^2 + 8x + 5"
+      ],
+      "pdfPageStart": 53,
+      "pdfPageEnd": 53,
+      "printedPageStart": 48,
+      "printedPageEnd": 48,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.9-p067",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "(৫) $-2x^2 + 6y^2 + xy + 8x - 2y - 8$",
+      "image": null,
+      "formulas": [
+        "-2x^2 + 6y^2 + xy + 8x - 2y - 8"
+      ],
+      "pdfPageStart": 53,
+      "pdfPageEnd": 53,
+      "printedPageStart": 48,
+      "printedPageEnd": 48,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

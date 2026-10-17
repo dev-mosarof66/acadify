@@ -1,0 +1,625 @@
+{
+  "id": "physics-9-10-bn-c05-t5.5",
+  "key": "5.5",
+  "title": "স্থিতিস্থাপকতা (Elasticity)",
+  "chapter": 5,
+  "ordinal": 5,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তোমরা সবাই কখনো না কখনো একটা স্প্রিং কিংবা একটা রাবার ব্যান্ড টেনে লম্বা করে আবার ছেড়ে দিয়েছ। তোমরা নিশ্চয়ই লক্ষ্য করেছ স্প্রিং কিংবা রাবার ব্যান্ডকে টেনে ছেড়ে দেওয়া হলে সেটা আবার আগের দৈর্ঘ্য ফিরে আসার চেষ্টা করছে। টেনে ধরাকে পদার্থবিজ্ঞানের ভাষায় বলা হয় বল প্রয়োগ করা আর দৈর্ঘ্য পরিবর্তন হওয়াকে বলা হয় বিকৃতি ঘটা। দৈনন্দিন জীবনে বিকৃতি শব্দটি খুবই নেতিবাচক। কিন্তু এখানে এটাকে তোমরা নেতিবাচক হিসেবে দেখো না। এটা হচ্ছে আকার বা আকৃতির পরিবর্তন মাত্র।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 152,
+      "pdfPageEnd": 152,
+      "printedPageStart": 147,
+      "printedPageEnd": 147,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কাজেই তোমরা বুঝতে পারছ কোনো বস্তুরকে বল প্রদান করলে তার ভেতরে একটা বিকৃতি ঘটে (এবং এই বিকৃতির জন্য প্রত্যয়নী বল নামে একটা পাল্টা বলের তৈরি হয়) বলাটি সরিয়ে নিলে বিকৃতির অবসান ঘটে আর বস্তুটি আবার তার আগের অবস্থায় ফিরে যায়। পদার্থের এই ধর্মের নাম স্থিতিস্থাপকতা। তবে মনে রাখতে হবে কতটুকু বল প্রয়োগ করা যাবে তার একটা সীমা আছে। এই সীমা অতিক্রম করে ফেললে পদার্থ তার আগের অবস্থায় ফিরে আসতে পারবে না। তার মাঝে একটা স্থায়ী বিকৃতি ঘটে যেতে পারে। এই সীমাকে স্থিতিস্থাপক সীমা বলে। একটা রডকে অল্প একটু বাঁকা করে ছেড়ে দিলে সেটা সোজা হয়ে যায়। বেশি বাঁকা করলে বাঁকা হয়েই থাকে আর সোজা হয় না। কাজেই আমরা বিষয়টা এভাবে বলতে পারি:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 152,
+      "pdfPageEnd": 152,
+      "printedPageStart": 147,
+      "printedPageEnd": 147,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**বিকৃতি:** বাইরে থেকে বল প্রয়োগ করলে পদার্থের আকার বা দৈর্ঘ্যের যে আপেক্ষিক পরিবর্তন হয় সেটা হচ্ছে বিকৃতি। অর্থাৎ $L_0$ দৈর্ঘ্যের একটি বস্তুর ওপর বল প্রয়োগ করা হলে তার দৈর্ঘ্য যদি $L$ হয় তাহলে বিকৃতি হচ্ছে",
+      "image": null,
+      "formulas": [
+        "L_0",
+        "L"
+      ],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p004",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{L - L_0}{L_0}$$",
+      "image": null,
+      "formulas": [
+        "\\frac{L - L_0}{L_0}"
+      ],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p005",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: diagram showing a rod under tension T with initial length L0 and final length L",
+      "image": "p153-page_22_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "দেখাই যাচ্ছে বিকৃতির কোনো একক নেই, এটি একটি সংখ্যা মাত্র।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**পীড়ন:** একক ক্ষেত্রফলে বিকৃতির কারণে পদার্থের ভেতর যে বল তৈরি হয়, সেটাই হচ্ছে পীড়ন। অর্থাৎ $A$ প্রস্থচ্ছেদের একটা বস্তুরে বল প্রয়োগ করা হলে যদি তার বিকৃতি ঘটে সেই বিকৃতি যদি $F$ প্রত্যয়নী বল তৈরি করে তাহলে পীড়ন হচ্ছে",
+      "image": null,
+      "formulas": [
+        "A",
+        "F"
+      ],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p008",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{F}{A}$$",
+      "image": null,
+      "formulas": [
+        "\\frac{F}{A}"
+      ],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p009",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: diagram of a rod under tension T with weight W",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p010",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "**চিত্র ৫.১১:** বল প্রয়োগ করলে দণ্ডের বিকৃতি ঘটে এবং সে জন্য্য পীড়ন সৃষ্টি হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "দেখতেই পাচ্ছ এটা চাপের মতো এবং এর একক (Pa) প্যাসকেল।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "> **তুকের সূত্র:** আমরা যদি পীড়ন এবং বিকৃতি বুঝে থাকি, তাহলে তুকের সূত্রটি বোঝা খুব সহজ। এই সূত্র অনুসারে স্থিতিস্থাপক সীমার ভেতরে পীড়ন এবং বিকৃতি সমানুপাতিক\n>\n> পীড়ন $\\propto$ বিকৃতি",
+      "image": null,
+      "formulas": [
+        "\\propto"
+      ],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কাজেই",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p014",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$পীড়ন = ধ্রুবক \\times বিকৃতি$$",
+      "image": null,
+      "formulas": [
+        "পীড়ন = ধ্রুবক \\times বিকৃতি"
+      ],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ প্রত্যেক পদার্থের পীড়ন এবং বিকৃতির সাথে সম্পর্কযুক্ত একটা ধ্রুবক থাকে, সেই ধ্রুবকটার নাম স্থিতিস্থাপক গুণাঙ্ক। দুটি নির্দিষ্ট বিষয় নিয়ে আলোচনা করলে বোঝা আরো সহজ হবে:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(i) ধরা যাক $A$ প্রস্থচ্ছেদের একটা তারের দৈর্ঘ্য $L_0$, এর সাথে $W$ ওজনের একটা ভর ঝুলিয়ে দেওয়া হলো এই বলটি বোলানের কারণে $L_0$ দৈর্ঘ্যটি বেড়ে হলো $L$ (চিত্র ৫.১১) এই বাড়িত দৈর্ঘ্য তারটির ভেতরে একটা পাল্টা বল তৈরি করেছে $T$ (এখানে $T$ অক্ষরটি ব্যবহার করা হয় টেনশন Tension শব্দের জন্য। সাধারণত যখন কোনো তারকে টানা, হয় তখন তার ভেতরে যে বল কাজ করে তার নাম টেনশন)। কাজেই পীড়ন হচ্ছে $T/A$ এবং বিকৃতি হচ্ছে:",
+      "image": null,
+      "formulas": [
+        "A",
+        "L_0",
+        "W",
+        "L_0",
+        "L",
+        "T",
+        "T",
+        "T/A"
+      ],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p017",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{L - L_0}{L_0}$$",
+      "image": null,
+      "formulas": [
+        "\\frac{L - L_0}{L_0}"
+      ],
+      "pdfPageStart": 154,
+      "pdfPageEnd": 154,
+      "printedPageStart": 149,
+      "printedPageEnd": 149,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কাজেই",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 154,
+      "pdfPageEnd": 154,
+      "printedPageStart": 149,
+      "printedPageEnd": 149,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p019",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{T}{A} \\propto \\frac{L - L_0}{L_0}$$",
+      "image": null,
+      "formulas": [
+        "\\frac{T}{A} \\propto \\frac{L - L_0}{L_0}"
+      ],
+      "pdfPageStart": 154,
+      "pdfPageEnd": 154,
+      "printedPageStart": 149,
+      "printedPageEnd": 149,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কিংবা",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 154,
+      "pdfPageEnd": 154,
+      "printedPageStart": 149,
+      "printedPageEnd": 149,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p021",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{T}{A} = Y \\left( \\frac{L - L_0}{L_0} \\right)$$",
+      "image": null,
+      "formulas": [
+        "\\frac{T}{A} = Y \\left( \\frac{L - L_0}{L_0} \\right)"
+      ],
+      "pdfPageStart": 154,
+      "pdfPageEnd": 154,
+      "printedPageStart": 149,
+      "printedPageEnd": 149,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p022",
+      "kind": "table",
+      "section": null,
+      "caption": "টেবিল ৫.০২: বিভিন্ন পদার্থের ইয়াংস মডুলাস",
+      "body": "<table><tr><th>পদার্থ</th><th>G-Pa</th></tr>\n<tr><td>রবাব</td><td>0.01-0.1</td></tr>\n<tr><td>হাড়</td><td>9</td></tr>\n<tr><td>কাঠ</td><td>10</td></tr>\n<tr><td>কাচ</td><td>50 - 90</td></tr>\n<tr><td>অ্যালুমিনিয়াম</td><td>69</td></tr>\n<tr><td>তামা</td><td>117</td></tr>\n<tr><td>লোহা</td><td>200</td></tr>\n<tr><td>হীরা</td><td>1220</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 154,
+      "pdfPageEnd": 154,
+      "printedPageStart": 149,
+      "printedPageEnd": 149,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এই ধ্রুবকের নাম ইয়াংস মডুলাস (Young’s Modulus)। যেহেতু বিকৃতির কোনো একক নেই, তাই $Y$ এর একক হচ্ছে Nm$^{-2}$. টেবিল ৫.০২ এ কয়েকটি পদার্থের ইয়াংস মডুলাস দেওয়া হলো।",
+      "image": null,
+      "formulas": [
+        "Y",
+        "^{-2}"
+      ],
+      "pdfPageStart": 154,
+      "pdfPageEnd": 154,
+      "printedPageStart": 149,
+      "printedPageEnd": 149,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p024",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** ইয়াংস মডুলাসের মান বেশি হলে পদার্থ কীভাবে দৈর্ঘ্য পরিবর্তন করে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 154,
+      "pdfPageEnd": 154,
+      "printedPageStart": 149,
+      "printedPageEnd": 149,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p025",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** দৈর্ঘ্যের পরিবর্তনের হার",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 154,
+      "pdfPageEnd": 154,
+      "printedPageStart": 149,
+      "printedPageEnd": 149,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p026",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$\\frac{L - L_0}{L_0} = \\frac{1}{Y} \\left( \\frac{T}{A} \\right)$$",
+      "image": null,
+      "formulas": [
+        "\\frac{L - L_0}{L_0} = \\frac{1}{Y} \\left( \\frac{T}{A} \\right)"
+      ],
+      "pdfPageStart": 154,
+      "pdfPageEnd": 154,
+      "printedPageStart": 149,
+      "printedPageEnd": 149,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p027",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই $T/A$ যদি সমান হয়, তাহলে $Y$ যত বেশি হবে দৈর্ঘ্যের পরিবর্তন তত কম হবে।",
+      "image": null,
+      "formulas": [
+        "T/A",
+        "Y"
+      ],
+      "pdfPageStart": 154,
+      "pdfPageEnd": 154,
+      "printedPageStart": 149,
+      "printedPageEnd": 149,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p028",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "(ii) ধরা যাক একটি সিলিন্ডারে সাধারণ অবস্থায় $V_0$ আয়তনের গ্যাস আছে। এই গ্যাসে $P$ চাপ দেওয়ার কারণে সিলিন্ডারের গ্যাসের আয়তন কমে হয়ে গেল $V$ (চিত্র ৫.১২), এখানে পীড়ন হচ্ছে $P$ এবং বিকৃতি হচ্ছে:",
+      "image": null,
+      "formulas": [
+        "V_0",
+        "P",
+        "V",
+        "P"
+      ],
+      "pdfPageStart": 154,
+      "pdfPageEnd": 154,
+      "printedPageStart": 149,
+      "printedPageEnd": 149,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p029",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$\\frac{V - V_0}{V_0}$$",
+      "image": null,
+      "formulas": [
+        "\\frac{V - V_0}{V_0}"
+      ],
+      "pdfPageStart": 154,
+      "pdfPageEnd": 154,
+      "printedPageStart": 149,
+      "printedPageEnd": 149,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p030",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই আমরা লিখতে পারি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 155,
+      "pdfPageEnd": 155,
+      "printedPageStart": 150,
+      "printedPageEnd": 150,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p031",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$P \\propto \\left( \\frac{V - V_0}{V_0} \\right)$$",
+      "image": null,
+      "formulas": [
+        "P \\propto \\left( \\frac{V - V_0}{V_0} \\right)"
+      ],
+      "pdfPageStart": 155,
+      "pdfPageEnd": 155,
+      "printedPageStart": 150,
+      "printedPageEnd": 150,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p032",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$P = B \\left( \\frac{V - V_0}{V_0} \\right)$$",
+      "image": null,
+      "formulas": [
+        "P = B \\left( \\frac{V - V_0}{V_0} \\right)"
+      ],
+      "pdfPageStart": 155,
+      "pdfPageEnd": 155,
+      "printedPageStart": 150,
+      "printedPageEnd": 150,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p033",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "এখানে $B$ হচ্ছে ধ্বংসক এবং এই ধ্বংসকের নাম বাল্ক মডুলাস বা আয়তন গুণাঙ্ক (Bulk Modulus)। $B$ এর একক হচ্ছে Nm$^{-2}$ কিংবা প্যাসকেল!",
+      "image": null,
+      "formulas": [
+        "B",
+        "B",
+        "^{-2}"
+      ],
+      "pdfPageStart": 155,
+      "pdfPageEnd": 155,
+      "printedPageStart": 150,
+      "printedPageEnd": 150,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p034",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "drawing: diagram showing a container with gas at volume V0 and the same container with a weight on top compressing the gas to volume V",
+      "image": "p155-page_24_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 155,
+      "pdfPageEnd": 155,
+      "printedPageStart": 150,
+      "printedPageEnd": 150,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.5-p035",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**চিত্র৫.১২: আবদ্ধ বাতাসে চাপ প্রয়োগ করলে বাতাস সংকুচিত হয়।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 155,
+      "pdfPageEnd": 155,
+      "printedPageStart": 150,
+      "printedPageEnd": 150,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

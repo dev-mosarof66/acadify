@@ -1,0 +1,670 @@
+{
+  "id": "higher-math-9-10-bn-c02-t2.14",
+  "key": "2.14",
+  "title": "মূলদ ভগ্নাংশ (Rational Fractions)",
+  "chapter": 2,
+  "ordinal": 14,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "একটি বহুপদিকে হর এবং একটি বহুপদিকে লব নিয়ে গঠিত ভগ্নাংশকে মূলদ ভগ্নাংশ বলা হয়। যেমন $\\frac{x}{(x - a)(x - b)}$ এবং $\\frac{a^2 + a + 1}{(a - b)(a - c)}$ মূলদ ভগ্নাংশ।",
+      "image": null,
+      "formulas": [
+        "\\frac{x}{(x - a)(x - b)}",
+        "\\frac{a^2 + a + 1}{(a - b)(a - c)}"
+      ],
+      "pdfPageStart": 58,
+      "pdfPageEnd": 58,
+      "printedPageStart": 53,
+      "printedPageEnd": 53,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৯.** সরল করো: $\\frac{a}{(a - b)(a - c)} + \\frac{b}{(b - c)(b - a)} + \\frac{c}{(c - a)(c - b)}$",
+      "image": null,
+      "formulas": [
+        "\\frac{a}{(a - b)(a - c)} + \\frac{b}{(b - c)(b - a)} + \\frac{c}{(c - a)(c - b)}"
+      ],
+      "pdfPageStart": 58,
+      "pdfPageEnd": 58,
+      "printedPageStart": 53,
+      "printedPageEnd": 53,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:**\n$$\\frac{a}{(a - b)(a - c)} + \\frac{b}{(b - c)(b - a)} + \\frac{c}{(c - a)(c - b)}$$\n$$= -\\frac{a}{(a - b)(c - a)} - \\frac{b}{(b - c)(a - b)} - \\frac{c}{(c - a)(b - c)}$$\n$$= \\frac{a(b - c) + b(c - a) + c(a - b)}{-(a - b)(b - c)(c - a)}$$\n$$= \\frac{0}{-(a - b)(b - c)(c - a)} = 0$$",
+      "image": null,
+      "formulas": [
+        "\\frac{a}{(a - b)(a - c)} + \\frac{b}{(b - c)(b - a)} + \\frac{c}{(c - a)(c - b)}",
+        "= -\\frac{a}{(a - b)(c - a)} - \\frac{b}{(b - c)(a - b)} - \\frac{c}{(c - a)(b - c)}",
+        "= \\frac{a(b - c) + b(c - a) + c(a - b)}{-(a - b)(b - c)(c - a)}",
+        "= \\frac{0}{-(a - b)(b - c)(c - a)} = 0"
+      ],
+      "pdfPageStart": 58,
+      "pdfPageEnd": 58,
+      "printedPageStart": 53,
+      "printedPageEnd": 53,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "৯ **উদাহরণ ২০.** সরল করো: $\\frac{a^2 - (b - c)^2}{(a + c)^2 - b^2} + \\frac{b^2 - (c - a)^2}{(a + b)^2 - c^2} + \\frac{c^2 - (a - b)^2}{(b + c)^2 - a^2}$",
+      "image": null,
+      "formulas": [
+        "\\frac{a^2 - (b - c)^2}{(a + c)^2 - b^2} + \\frac{b^2 - (c - a)^2}{(a + b)^2 - c^2} + \\frac{c^2 - (a - b)^2}{(b + c)^2 - a^2}"
+      ],
+      "pdfPageStart": 58,
+      "pdfPageEnd": 58,
+      "printedPageStart": 53,
+      "printedPageEnd": 53,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** প্রথম ভগ্নাংশ $= \\frac{(a + b - c)(a - b + c)}{(a + b + c)(a - b + c)} = \\frac{a + b - c}{a + b + c}$",
+      "image": null,
+      "formulas": [
+        "= \\frac{(a + b - c)(a - b + c)}{(a + b + c)(a - b + c)} = \\frac{a + b - c}{a + b + c}"
+      ],
+      "pdfPageStart": 59,
+      "pdfPageEnd": 59,
+      "printedPageStart": 54,
+      "printedPageEnd": 54,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "দ্বিতীয় ভগ্নাংশ $= \\frac{(a + b - c)(b - a + c)}{(a + b + c)(a + b - c)} = \\frac{b + c - a}{a + b + c}$",
+      "image": null,
+      "formulas": [
+        "= \\frac{(a + b - c)(b - a + c)}{(a + b + c)(a + b - c)} = \\frac{b + c - a}{a + b + c}"
+      ],
+      "pdfPageStart": 59,
+      "pdfPageEnd": 59,
+      "printedPageStart": 54,
+      "printedPageEnd": 54,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তৃতীয় ভগ্নাংশ $= \\frac{(c + a - b)(c - a + b)}{(a + b + c)(b + c - a)} = \\frac{c + a - b}{a + b + c}$",
+      "image": null,
+      "formulas": [
+        "= \\frac{(c + a - b)(c - a + b)}{(a + b + c)(b + c - a)} = \\frac{c + a - b}{a + b + c}"
+      ],
+      "pdfPageStart": 59,
+      "pdfPageEnd": 59,
+      "printedPageStart": 54,
+      "printedPageEnd": 54,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ প্রদত্ত রাশি $\\frac{a + b - c}{a + b + c} + \\frac{b + c - a}{a + b + c} + \\frac{c + a - b}{a + b + c}$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "\\frac{a + b - c}{a + b + c} + \\frac{b + c - a}{a + b + c} + \\frac{c + a - b}{a + b + c}"
+      ],
+      "pdfPageStart": 59,
+      "pdfPageEnd": 59,
+      "printedPageStart": 54,
+      "printedPageEnd": 54,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p009",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$= \\frac{a + b - c + b + c - a + c + a - b}{a + b + c} = \\frac{a + b + c}{a + b + c} = 1$",
+      "image": null,
+      "formulas": [
+        "= \\frac{a + b - c + b + c - a + c + a - b}{a + b + c} = \\frac{a + b + c}{a + b + c} = 1"
+      ],
+      "pdfPageStart": 59,
+      "pdfPageEnd": 59,
+      "printedPageStart": 54,
+      "printedPageEnd": 54,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২১. সরল করো:** $\\frac{(ax + 1)^2}{(x - y)(z - x)} + \\frac{(ay + 1)^2}{(x - y)(y - z)} + \\frac{(az + 1)^2}{(y - z)(z - x)}$",
+      "image": null,
+      "formulas": [
+        "\\frac{(ax + 1)^2}{(x - y)(z - x)} + \\frac{(ay + 1)^2}{(x - y)(y - z)} + \\frac{(az + 1)^2}{(y - z)(z - x)}"
+      ],
+      "pdfPageStart": 59,
+      "pdfPageEnd": 59,
+      "printedPageStart": 54,
+      "printedPageEnd": 54,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** প্রদত্ত রাশি $\\frac{(ax + 1)^2}{(x - y)(z - x)} + \\frac{(ay + 1)^2}{(x - y)(y - z)} + \\frac{(az + 1)^2}{(y - z)(z - x)}$",
+      "image": null,
+      "formulas": [
+        "\\frac{(ax + 1)^2}{(x - y)(z - x)} + \\frac{(ay + 1)^2}{(x - y)(y - z)} + \\frac{(az + 1)^2}{(y - z)(z - x)}"
+      ],
+      "pdfPageStart": 59,
+      "pdfPageEnd": 59,
+      "printedPageStart": 54,
+      "printedPageEnd": 54,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$= \\frac{(ax + 1)^2(y - z) + (ay + 1)^2(z - x) + (az + 1)^2(x - y)}{(x - y)(y - z)(z - x)}$ (1)",
+      "image": null,
+      "formulas": [
+        "= \\frac{(ax + 1)^2(y - z) + (ay + 1)^2(z - x) + (az + 1)^2(x - y)}{(x - y)(y - z)(z - x)}"
+      ],
+      "pdfPageStart": 59,
+      "pdfPageEnd": 59,
+      "printedPageStart": 54,
+      "printedPageEnd": 54,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে (1) এর লব",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 59,
+      "pdfPageEnd": 59,
+      "printedPageStart": 54,
+      "printedPageEnd": 54,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p014",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$(a^2x^2 + 2ax + 1)(y - z) + (a^2y^2 + 2ay + 1)(z - x) + (a^2z^2 + 2az + 1)(x - y)$",
+      "image": null,
+      "formulas": [
+        "(a^2x^2 + 2ax + 1)(y - z) + (a^2y^2 + 2ay + 1)(z - x) + (a^2z^2 + 2az + 1)(x - y)"
+      ],
+      "pdfPageStart": 59,
+      "pdfPageEnd": 59,
+      "printedPageStart": 54,
+      "printedPageEnd": 54,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p015",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$= a^2\\{x^2(y - z) + y^2(z - x) + z^2(x - y)\\} + 2a\\{x(y - z) + y(z - x) + z(x - y)\\}$",
+      "image": null,
+      "formulas": [
+        "= a^2\\{x^2(y - z) + y^2(z - x) + z^2(x - y)\\} + 2a\\{x(y - z) + y(z - x) + z(x - y)\\}"
+      ],
+      "pdfPageStart": 59,
+      "pdfPageEnd": 59,
+      "printedPageStart": 54,
+      "printedPageEnd": 54,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p016",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$+ \\{(y - z) + (z - x) + (x - y)\\}$",
+      "image": null,
+      "formulas": [
+        "+ \\{(y - z) + (z - x) + (x - y)\\}"
+      ],
+      "pdfPageStart": 59,
+      "pdfPageEnd": 59,
+      "printedPageStart": 54,
+      "printedPageEnd": 54,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কিন্তু $x^2(y - z) + y^2(z - x) + z^2(x - y) = -(x - y)(y - z)(z - x)$",
+      "image": null,
+      "formulas": [
+        "x^2(y - z) + y^2(z - x) + z^2(x - y) = -(x - y)(y - z)(z - x)"
+      ],
+      "pdfPageStart": 59,
+      "pdfPageEnd": 59,
+      "printedPageStart": 54,
+      "printedPageEnd": 54,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তদপরি, $x(y - z) + y(z - x) + z(x - y) = 0$ এবং $(y - z) + (z - x) + (x - y) = 0$",
+      "image": null,
+      "formulas": [
+        "x(y - z) + y(z - x) + z(x - y) = 0",
+        "(y - z) + (z - x) + (x - y) = 0"
+      ],
+      "pdfPageStart": 59,
+      "pdfPageEnd": 59,
+      "printedPageStart": 54,
+      "printedPageEnd": 54,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ (1) এর লব $= -a^2(x - y)(y - z)(z - x)$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "= -a^2(x - y)(y - z)(z - x)"
+      ],
+      "pdfPageStart": 59,
+      "pdfPageEnd": 59,
+      "printedPageStart": 54,
+      "printedPageEnd": 54,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং প্রদত্ত রাশি $= \\frac{-a^2(x - y)(y - z)(z - x)}{(x - y)(y - z)(z - x)} = -a^2$",
+      "image": null,
+      "formulas": [
+        "= \\frac{-a^2(x - y)(y - z)(z - x)}{(x - y)(y - z)(z - x)} = -a^2"
+      ],
+      "pdfPageStart": 59,
+      "pdfPageEnd": 59,
+      "printedPageStart": 54,
+      "printedPageEnd": 54,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২২. সরল করো:** $\\frac{1}{x + a} + \\frac{2x}{x^2 + a^2} + \\frac{4x^3}{x^4 + a^4} + \\frac{8x^7}{a^8 - x^8}$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{x + a} + \\frac{2x}{x^2 + a^2} + \\frac{4x^3}{x^4 + a^4} + \\frac{8x^7}{a^8 - x^8}"
+      ],
+      "pdfPageStart": 59,
+      "pdfPageEnd": 59,
+      "printedPageStart": 54,
+      "printedPageEnd": 54,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** প্রদত্ত রাশির তৃতীয় ও চতুর্থ পদের যোগফল",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 59,
+      "pdfPageEnd": 59,
+      "printedPageStart": 54,
+      "printedPageEnd": 54,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p023",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$= \\frac{4x^3}{x^4 + a^4} + \\frac{8x^7}{a^8 - x^8} = \\frac{4x^3}{x^4 + a^4} + \\frac{8x^7}{(x^4 + a^4)(a^4 - x^4)}$",
+      "image": null,
+      "formulas": [
+        "= \\frac{4x^3}{x^4 + a^4} + \\frac{8x^7}{a^8 - x^8} = \\frac{4x^3}{x^4 + a^4} + \\frac{8x^7}{(x^4 + a^4)(a^4 - x^4)}"
+      ],
+      "pdfPageStart": 59,
+      "pdfPageEnd": 59,
+      "printedPageStart": 54,
+      "printedPageEnd": 54,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p024",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$= \\frac{4x^3}{x^4 + a^4} \\left( 1 + \\frac{2x^4}{a^4 - x^4} \\right) = \\frac{4x^3}{x^4 + a^4} \\times \\frac{a^4 - x^4 + 2x^4}{a^4 - x^4}$",
+      "image": null,
+      "formulas": [
+        "= \\frac{4x^3}{x^4 + a^4} \\left( 1 + \\frac{2x^4}{a^4 - x^4} \\right) = \\frac{4x^3}{x^4 + a^4} \\times \\frac{a^4 - x^4 + 2x^4}{a^4 - x^4}"
+      ],
+      "pdfPageStart": 59,
+      "pdfPageEnd": 59,
+      "printedPageStart": 54,
+      "printedPageEnd": 54,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p025",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\frac{4x^3}{x^4 + a^4} \\times \\frac{a^4 + x^4}{a^4 - x^4} = \\frac{4x^3}{a^4 - x^4}$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{4x^3}{x^4 + a^4} \\times \\frac{a^4 + x^4}{a^4 - x^4} = \\frac{4x^3}{a^4 - x^4}"
+      ],
+      "pdfPageStart": 60,
+      "pdfPageEnd": 60,
+      "printedPageStart": 55,
+      "printedPageEnd": 55,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p026",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ দ্বিতীয়, তৃতীয় এবং চতুর্থ পদের যোগফল",
+      "image": null,
+      "formulas": [
+        "\\therefore"
+      ],
+      "pdfPageStart": 60,
+      "pdfPageEnd": 60,
+      "printedPageStart": 55,
+      "printedPageEnd": 55,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p027",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\frac{2x}{x^2 + a^2} + \\frac{4x^3}{a^4 - x^4} = \\frac{2x}{x^2 + a^2} \\left[ 1 + \\frac{2x^2}{a^2 - x^2} \\right]$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{2x}{x^2 + a^2} + \\frac{4x^3}{a^4 - x^4} = \\frac{2x}{x^2 + a^2} \\left[ 1 + \\frac{2x^2}{a^2 - x^2} \\right]"
+      ],
+      "pdfPageStart": 60,
+      "pdfPageEnd": 60,
+      "printedPageStart": 55,
+      "printedPageEnd": 55,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p028",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\frac{2x}{x^2 + a^2} \\times \\frac{a^2 - x^2 + 2x^2}{a^2 - x^2} = \\frac{2x}{x^2 + a^2} \\times \\frac{a^2 + x^2}{a^2 - x^2} = \\frac{2x}{a^2 - x^2}$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{2x}{x^2 + a^2} \\times \\frac{a^2 - x^2 + 2x^2}{a^2 - x^2} = \\frac{2x}{x^2 + a^2} \\times \\frac{a^2 + x^2}{a^2 - x^2} = \\frac{2x}{a^2 - x^2}"
+      ],
+      "pdfPageStart": 60,
+      "pdfPageEnd": 60,
+      "printedPageStart": 55,
+      "printedPageEnd": 55,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p029",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ প্রদত্ত রাশি $= \\frac{1}{x + a} + \\frac{2x}{a^2 - x^2} = \\frac{a - x + 2x}{a^2 - x^2} = \\frac{a + x}{a^2 - x^2} = \\frac{1}{a - x}$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "= \\frac{1}{x + a} + \\frac{2x}{a^2 - x^2} = \\frac{a - x + 2x}{a^2 - x^2} = \\frac{a + x}{a^2 - x^2} = \\frac{1}{a - x}"
+      ],
+      "pdfPageStart": 60,
+      "pdfPageEnd": 60,
+      "printedPageStart": 55,
+      "printedPageEnd": 55,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p030",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ: সরল করো:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 60,
+      "pdfPageEnd": 60,
+      "printedPageStart": 55,
+      "printedPageEnd": 55,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p031",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $\\frac{b + c}{(a - b)(a - c)} + \\frac{c + a}{(b - c)(b - a)} + \\frac{a + b}{(c - a)(c - b)}$",
+      "image": null,
+      "formulas": [
+        "\\frac{b + c}{(a - b)(a - c)} + \\frac{c + a}{(b - c)(b - a)} + \\frac{a + b}{(c - a)(c - b)}"
+      ],
+      "pdfPageStart": 60,
+      "pdfPageEnd": 60,
+      "printedPageStart": 55,
+      "printedPageEnd": 55,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p032",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $\\frac{a^3 - 1}{(a - b)(a - c)} + \\frac{b^3 - 1}{(b - c)(b - a)} + \\frac{c^3 - 1}{(c - a)(c - b)}$",
+      "image": null,
+      "formulas": [
+        "\\frac{a^3 - 1}{(a - b)(a - c)} + \\frac{b^3 - 1}{(b - c)(b - a)} + \\frac{c^3 - 1}{(c - a)(c - b)}"
+      ],
+      "pdfPageStart": 60,
+      "pdfPageEnd": 60,
+      "printedPageStart": 55,
+      "printedPageEnd": 55,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p033",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $\\frac{bc(a + d)}{(a - b)(a - c)} + \\frac{ca(b + d)}{(b - c)(b - a)} + \\frac{ab(c + d)}{(c - a)(c - b)}$",
+      "image": null,
+      "formulas": [
+        "\\frac{bc(a + d)}{(a - b)(a - c)} + \\frac{ca(b + d)}{(b - c)(b - a)} + \\frac{ab(c + d)}{(c - a)(c - b)}"
+      ],
+      "pdfPageStart": 60,
+      "pdfPageEnd": 60,
+      "printedPageStart": 55,
+      "printedPageEnd": 55,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p034",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঘ) $\\frac{a^3 + a^2 + 1}{(a - b)(a - c)} + \\frac{b^3 + b^2 + 1}{(b - c)(b - a)} + \\frac{c^3 + c^2 + 1}{(c - a)(c - b)}$",
+      "image": null,
+      "formulas": [
+        "\\frac{a^3 + a^2 + 1}{(a - b)(a - c)} + \\frac{b^3 + b^2 + 1}{(b - c)(b - a)} + \\frac{c^3 + c^2 + 1}{(c - a)(c - b)}"
+      ],
+      "pdfPageStart": 60,
+      "pdfPageEnd": 60,
+      "printedPageStart": 55,
+      "printedPageEnd": 55,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.14-p035",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঙ) $\\frac{a^2 + bc}{(a - b)(a - c)} + \\frac{b^2 + ca}{(b - c)(b - a)} + \\frac{c^2 + ab}{(c - a)(c - b)}$",
+      "image": null,
+      "formulas": [
+        "\\frac{a^2 + bc}{(a - b)(a - c)} + \\frac{b^2 + ca}{(b - c)(b - a)} + \\frac{c^2 + ab}{(c - a)(c - b)}"
+      ],
+      "pdfPageStart": 60,
+      "pdfPageEnd": 60,
+      "printedPageStart": 55,
+      "printedPageEnd": 55,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

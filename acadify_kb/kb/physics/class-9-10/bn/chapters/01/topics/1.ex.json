@@ -40,7 +40,7 @@
       "kind": "exercise",
       "section": "বহুনির্বাচনি প্রশ্ন",
       "caption": null,
-      "body": "(ক) প্ল্যাঙ্ক",
+      "body": "(ক) প্ল্যাঙ্ক\n(খ) আইনস্টাইন\n(গ) রাদারফোর্ড\n(ঘ) হাইজেনবার্গ",
       "image": null,
       "formulas": [],
       "pdfPageStart": 34,
@@ -55,7 +55,7 @@
       "kind": "exercise",
       "section": "বহুনির্বাচনি প্রশ্ন",
       "caption": null,
-      "body": "(খ) আইনস্টাইন",
+      "body": "২. বোজন কার নাম থেকে এসেছে?",
       "image": null,
       "formulas": [],
       "pdfPageStart": 34,
@@ -70,7 +70,7 @@
       "kind": "exercise",
       "section": "বহুনির্বাচনি প্রশ্ন",
       "caption": null,
-      "body": "(গ) রাদারফোর্ড",
+      "body": "(ক) জগদীশচন্দ্র বসু\n(খ) সুভাষচন্দ্র বসু\n(গ) সত্যেন্দ্রনাথ বসু\n(ঘ) শরৎচন্দ্র বসু",
       "image": null,
       "formulas": [],
       "pdfPageStart": 34,
@@ -85,7 +85,7 @@
       "kind": "exercise",
       "section": "বহুনির্বাচনি প্রশ্ন",
       "caption": null,
-      "body": "(ঘ) হাইজেনবার্গ",
+      "body": "৩. নিচের কোনটি মৌলিক রাশি নয়?",
       "image": null,
       "formulas": [],
       "pdfPageStart": 34,
@@ -100,7 +100,7 @@
       "kind": "exercise",
       "section": "বহুনির্বাচনি প্রশ্ন",
       "caption": null,
-      "body": "২. বোজন কার নাম থেকে এসেছে?",
+      "body": "(ক) ভর\n(খ) তাপ\n(গ) তড়িৎ প্রবাহ\n(ঘ) পদার্থের পরিমাণ",
       "image": null,
       "formulas": [],
       "pdfPageStart": 34,
@@ -115,142 +115,7 @@
       "kind": "exercise",
       "section": "বহুনির্বাচনি প্রশ্ন",
       "caption": null,
-      "body": "(ক) জগদীশচন্দ্র বসু",
-      "image": null,
-      "formulas": [],
-      "pdfPageStart": 34,
-      "pdfPageEnd": 34,
-      "printedPageStart": 29,
-      "printedPageEnd": 29,
-      "reviewReasons": [],
-      "needsReview": false
-    },
-    {
-      "id": "physics-9-10-bn-c01-t1.ex-p009",
-      "kind": "exercise",
-      "section": "বহুনির্বাচনি প্রশ্ন",
-      "caption": null,
-      "body": "(খ) সুভাষচন্দ্র বসু",
-      "image": null,
-      "formulas": [],
-      "pdfPageStart": 34,
-      "pdfPageEnd": 34,
-      "printedPageStart": 29,
-      "printedPageEnd": 29,
-      "reviewReasons": [],
-      "needsReview": false
-    },
-    {
-      "id": "physics-9-10-bn-c01-t1.ex-p010",
-      "kind": "exercise",
-      "section": "বহুনির্বাচনি প্রশ্ন",
-      "caption": null,
-      "body": "(গ) সত্যেন্দ্রনাথ বসু",
-      "image": null,
-      "formulas": [],
-      "pdfPageStart": 34,
-      "pdfPageEnd": 34,
-      "printedPageStart": 29,
-      "printedPageEnd": 29,
-      "reviewReasons": [],
-      "needsReview": false
-    },
-    {
-      "id": "physics-9-10-bn-c01-t1.ex-p011",
-      "kind": "exercise",
-      "section": "বহুনির্বাচনি প্রশ্ন",
-      "caption": null,
-      "body": "(ঘ) শরৎচন্দ্র বসু",
-      "image": null,
-      "formulas": [],
-      "pdfPageStart": 34,
-      "pdfPageEnd": 34,
-      "printedPageStart": 29,
-      "printedPageEnd": 29,
-      "reviewReasons": [],
-      "needsReview": false
-    },
-    {
-      "id": "physics-9-10-bn-c01-t1.ex-p012",
-      "kind": "exercise",
-      "section": "বহুনির্বাচনি প্রশ্ন",
-      "caption": null,
-      "body": "৩. নিচের কোনটি মৌলিক রাশি নয়?",
-      "image": null,
-      "formulas": [],
-      "pdfPageStart": 34,
-      "pdfPageEnd": 34,
-      "printedPageStart": 29,
-      "printedPageEnd": 29,
-      "reviewReasons": [],
-      "needsReview": false
-    },
-    {
-      "id": "physics-9-10-bn-c01-t1.ex-p013",
-      "kind": "exercise",
-      "section": "বহুনির্বাচনি প্রশ্ন",
-      "caption": null,
-      "body": "(ক) ভর",
-      "image": null,
-      "formulas": [],
-      "pdfPageStart": 34,
-      "pdfPageEnd": 34,
-      "printedPageStart": 29,
-      "printedPageEnd": 29,
-      "reviewReasons": [],
-      "needsReview": false
-    },
-    {
-      "id": "physics-9-10-bn-c01-t1.ex-p014",
-      "kind": "exercise",
-      "section": "বহুনির্বাচনি প্রশ্ন",
-      "caption": null,
-      "body": "(খ) তাপ",
-      "image": null,
-      "formulas": [],
-      "pdfPageStart": 34,
-      "pdfPageEnd": 34,
-      "printedPageStart": 29,
-      "printedPageEnd": 29,
-      "reviewReasons": [],
-      "needsReview": false
-    },
-    {
-      "id": "physics-9-10-bn-c01-t1.ex-p015",
-      "kind": "exercise",
-      "section": "বহুনির্বাচনি প্রশ্ন",
-      "caption": null,
-      "body": "(গ) তড়িৎ প্রবাহ",
-      "image": null,
-      "formulas": [],
-      "pdfPageStart": 34,
-      "pdfPageEnd": 34,
-      "printedPageStart": 29,
-      "printedPageEnd": 29,
-      "reviewReasons": [],
-      "needsReview": false
-    },
-    {
-      "id": "physics-9-10-bn-c01-t1.ex-p016",
-      "kind": "exercise",
-      "section": "বহুনির্বাচনি প্রশ্ন",
-      "caption": null,
-      "body": "(ঘ) পদার্থের পরিমাণ",
-      "image": null,
-      "formulas": [],
-      "pdfPageStart": 34,
-      "pdfPageEnd": 34,
-      "printedPageStart": 29,
-      "printedPageEnd": 29,
-      "reviewReasons": [],
-      "needsReview": false
-    },
-    {
-      "id": "physics-9-10-bn-c01-t1.ex-p017",
-      "kind": "exercise",
-      "section": "বহুনির্বাচনি প্রশ্ন",
-      "caption": null,
-      "body": "৪. একটি দড়িকে স্লাইড ক্যালিপারে স্থাপনের পর যে পাঠ পাওয়া গেল তা হচ্ছে প্রধান স্কেল পাঠ 4 cm, ভানিয়ার সমপাতন 7 এবং ভানিয়ার ধ্ববক 0.1 mm, দড়িটির দৈর্ঘ্য কত?",
+      "body": "৪. একটি দড়িকে স্লাইড ক্যালিপারে স্থাপনের পর যে পাঠ পাওয়া গেল তা হচ্ছে প্রধান স্কেল পাঠ 4 cm, ভান্নিয়ার সমপাতন 7 এবং ভান্নিয়ার ধ্রুবক 0.1 mm, দড়িটির দৈর্ঘ্য কত?",
       "image": null,
       "formulas": [],
       "pdfPageStart": 35,
@@ -261,7 +126,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p018",
+      "id": "physics-9-10-bn-c01-t1.ex-p009",
       "kind": "exercise",
       "section": "বহুনির্বাচনি প্রশ্ন",
       "caption": null,
@@ -276,7 +141,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p019",
+      "id": "physics-9-10-bn-c01-t1.ex-p010",
       "kind": "exercise",
       "section": "বহুনির্বাচনি প্রশ্ন",
       "caption": null,
@@ -291,7 +156,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p020",
+      "id": "physics-9-10-bn-c01-t1.ex-p011",
       "kind": "exercise",
       "section": "বহুনির্বাচনি প্রশ্ন",
       "caption": null,
@@ -306,7 +171,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p021",
+      "id": "physics-9-10-bn-c01-t1.ex-p012",
       "kind": "exercise",
       "section": "বহুনির্বাচনি প্রশ্ন",
       "caption": null,
@@ -321,7 +186,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p022",
+      "id": "physics-9-10-bn-c01-t1.ex-p013",
       "kind": "exercise",
       "section": "বহুনির্বাচনি প্রশ্ন",
       "caption": null,
@@ -336,11 +201,11 @@
       "needsReview": false
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p023",
+      "id": "physics-9-10-bn-c01-t1.ex-p014",
       "kind": "exercise",
       "section": "বহুনির্বাচনি প্রশ্ন",
       "caption": null,
-      "body": "রফিক স্কেল দিয়ে একটি পেন্সিলের দৈর্ঘ্য 15 cm পরিমাণ করল। [দৈর্ঘ্য মাপার চুড়ান্ত ত্রুটি 0.5 cm]",
+      "body": "রফিক স্কুল দিয়ে একটি পেন্সিলের দৈর্ঘ্য 15 cm পরিমাণ করল। [দৈর্ঘ্য মাপার চুড়ান্ত ত্রুটি 0.5 cm]",
       "image": null,
       "formulas": [],
       "pdfPageStart": 35,
@@ -351,7 +216,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p024",
+      "id": "physics-9-10-bn-c01-t1.ex-p015",
       "kind": "exercise",
       "section": "বহুনির্বাচনি প্রশ্ন",
       "caption": null,
@@ -366,7 +231,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p025",
+      "id": "physics-9-10-bn-c01-t1.ex-p016",
       "kind": "exercise",
       "section": "বহুনির্বাচনি প্রশ্ন",
       "caption": null,
@@ -381,7 +246,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p026",
+      "id": "physics-9-10-bn-c01-t1.ex-p017",
       "kind": "exercise",
       "section": "বহুনির্বাচনি প্রশ্ন",
       "caption": null,
@@ -396,7 +261,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p027",
+      "id": "physics-9-10-bn-c01-t1.ex-p018",
       "kind": "exercise",
       "section": "বহুনির্বাচনি প্রশ্ন",
       "caption": null,
@@ -411,7 +276,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p028",
+      "id": "physics-9-10-bn-c01-t1.ex-p019",
       "kind": "exercise",
       "section": "বহুনির্বাচনি প্রশ্ন",
       "caption": null,
@@ -426,7 +291,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p029",
+      "id": "physics-9-10-bn-c01-t1.ex-p020",
       "kind": "exercise",
       "section": "বহুনির্বাচনি প্রশ্ন",
       "caption": null,
@@ -441,12 +306,12 @@
       "needsReview": false
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p030",
+      "id": "physics-9-10-bn-c01-t1.ex-p021",
       "kind": "figure",
       "section": "বহুনির্বাচনি প্রশ্ন",
       "caption": null,
-      "body": "drawing: A cube with dimensions 7 cm, 6 cm, and 4 cm.\ndrawing: A sphere with radius r=3cm.",
-      "image": "p35-page_30_image_2_v2.jpg",
+      "body": "drawing: A cube with dimensions 7 cm, 6 cm, and 4 cm, and a sphere with radius r=3cm.",
+      "image": "p35-page_30_image_1_v2.jpg",
       "formulas": [],
       "pdfPageStart": 35,
       "pdfPageEnd": 35,
@@ -456,7 +321,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p031",
+      "id": "physics-9-10-bn-c01-t1.ex-p022",
       "kind": "exercise",
       "section": "বহুনির্বাচনি প্রশ্ন",
       "caption": null,
@@ -471,7 +336,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p032",
+      "id": "physics-9-10-bn-c01-t1.ex-p023",
       "kind": "exercise",
       "section": "বহুনির্বাচনি প্রশ্ন",
       "caption": null,
@@ -486,7 +351,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p033",
+      "id": "physics-9-10-bn-c01-t1.ex-p024",
       "kind": "exercise",
       "section": "বহুনির্বাচনি প্রশ্ন",
       "caption": null,
@@ -501,7 +366,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p034",
+      "id": "physics-9-10-bn-c01-t1.ex-p025",
       "kind": "exercise",
       "section": "বহুনির্বাচনি প্রশ্ন",
       "caption": null,
@@ -516,11 +381,11 @@
       "needsReview": false
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p035",
+      "id": "physics-9-10-bn-c01-t1.ex-p026",
       "kind": "figure",
       "section": "বহুনির্বাচনি প্রশ্ন",
       "caption": null,
-      "body": "**চিত্র ১.১৩: একটি ব্লক এবং একটি গোলক।**",
+      "body": "**চিত্র ১.১৩: একটি বুক এবং একটি গোলক।**",
       "image": null,
       "formulas": [],
       "pdfPageStart": 35,
@@ -531,11 +396,11 @@
       "needsReview": false
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p036",
+      "id": "physics-9-10-bn-c01-t1.ex-p027",
       "kind": "exercise",
       "section": "সৃজনশীল প্রশ্ন",
       "caption": null,
-      "body": "১. রাশেদ তার সদ্য কেনা স্কেল দিয়ে পেনসিলের দৈর্ঘ্য মেপে বলল, পেনসিলটির দৈর্ঘ্য 11.73 cm। তার বন্ধু সুজন বলল এই পরিমাপ সঠিক না-ও হতে পারে। রাশেদ বলল যে এই স্কেল দিয়ে কয়েকবার পরিমাপ করে একই ফল পেয়েছে। তারা শিক্ষকের কাছে গেলে শিক্ষক তাদের 0.005 cm ভার্নিয়ার ধ্রুবকবিশিষ্ট ভার্নিয়ার স্কেল ব্যবহার করতে বললেন। রাশেদ ভার্নিয়ার স্কেলের সাহায্যে সঠিক দৈর্ঘ্য পরিমাপ করল। প্রধান স্কেলের স্কুড্রতম এক ভাগের মান 1 mm ছিল।",
+      "body": "১. রাশেদ তার সদ্য কένα স্কেল দিয়ে পেনসিলের দৈর্ঘ্য মেপে বলল, পেনসিলটির দৈর্ঘ্য 11.73 cm। তার বন্ধু সুজন বলল এই পরিমাপ সঠিক না-ও হতে পারে। রাশেদ বলল যে এই স্কেল দিয়ে কয়েকবার পরিমাপ করে একই ফল পেয়েছে। তারা শিক্ষকের কাছে গেলে শিক্ষক তাদের 0.005 cm ভার্নিয়ার ধ্রুবকবিশিষ্ট ভার্নিয়ার স্কেল ব্যবহার করতে বললেন। রাশেদ ভার্নিয়ার স্কেলের সাহায্যে সঠিক দৈর্ঘ্য পরিমাপ করল। প্রধান স্কেলের স্কুড্রতম এক ভাগের মান 1 mm ছিল।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 36,
@@ -548,7 +413,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p037",
+      "id": "physics-9-10-bn-c01-t1.ex-p028",
       "kind": "exercise",
       "section": "সৃজনশীল প্রশ্ন",
       "caption": null,
@@ -565,7 +430,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p038",
+      "id": "physics-9-10-bn-c01-t1.ex-p029",
       "kind": "exercise",
       "section": "সৃজনশীল প্রশ্ন",
       "caption": null,
@@ -582,7 +447,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p039",
+      "id": "physics-9-10-bn-c01-t1.ex-p030",
       "kind": "exercise",
       "section": "সৃজনশীল প্রশ্ন",
       "caption": null,
@@ -599,7 +464,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p040",
+      "id": "physics-9-10-bn-c01-t1.ex-p031",
       "kind": "exercise",
       "section": "সৃজনশীল প্রশ্ন",
       "caption": null,
@@ -616,11 +481,11 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p041",
+      "id": "physics-9-10-bn-c01-t1.ex-p032",
       "kind": "exercise",
       "section": "সৃজনশীল প্রশ্ন",
       "caption": null,
-      "body": "২. বিজ্ঞান শিক্ষক রশিদ সাহেব পদার্থবিজ্ঞান ক্লাসে ছাত্র-ছাত্রীদের একটি বাক্স এবং একটি রুলার দিয়ে বাক্সটির আয়তন নির্ণয় করতে বললেন। ছাত্র-ছাত্রীরা লক্ষ্য করল, রুলারে শুধু cm পর্যন্ত মাপা যায়। ছাত্র-ছাত্রীরা রুলার দিয়ে বাক্সটির দৈর্ঘ্য, প্রস্থ এবং উচ্চতা হিসেবে যথাক্রমে 20 cm, 15 cm এবং 10 cm পেল।",
+      "body": "২. বিজ্ঞান শিক্ষক রশিদ সাহেব পদার্থবিজ্ঞান ক্লাসে ছাত্র-ছাত্রীদের একটি বাস্ক্র এবং একটি রুলার দিয়ে বাস্ক্রটির আয়তন নির্ণয় করতে বললেন। ছাত্র-ছাত্রীরা লক্ষ্য করল, রুলারে শুধু cm পর্যন্ত মাপা যায়। ছাত্র-ছাত্রীরা রুলার দিয়ে বাস্ক্রটির দৈর্ঘ্য, প্রস্থ এবং উচ্চতা হিসেবে যথাক্রমে 20 cm, 15 cm এবং 10 cm পেল।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 36,
@@ -633,7 +498,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p042",
+      "id": "physics-9-10-bn-c01-t1.ex-p033",
       "kind": "exercise",
       "section": "সৃজনশীল প্রশ্ন",
       "caption": null,
@@ -650,7 +515,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p043",
+      "id": "physics-9-10-bn-c01-t1.ex-p034",
       "kind": "exercise",
       "section": "সৃজনশীল প্রশ্ন",
       "caption": null,
@@ -667,11 +532,11 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p044",
+      "id": "physics-9-10-bn-c01-t1.ex-p035",
       "kind": "exercise",
       "section": "সৃজনশীল প্রশ্ন",
       "caption": null,
-      "body": "(গ) বাক্সটির আয়তন পরিমাণে আপেক্ষিক ত্রুটি কত শতাংশ নির্ণয় করো।",
+      "body": "(গ) বাস্ক্রটির আয়তন পরিমাণে আপেক্ষিক ত্রুটি কত শতাংশ নির্ণয় করো।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 36,
@@ -684,7 +549,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p045",
+      "id": "physics-9-10-bn-c01-t1.ex-p036",
       "kind": "exercise",
       "section": "সৃজনশীল প্রশ্ন",
       "caption": null,
@@ -701,7 +566,7 @@
       "needsReview": true
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p046",
+      "id": "physics-9-10-bn-c01-t1.ex-p037",
       "kind": "exercise",
       "section": "সংক্ষিপ্ত উত্তর প্রশ্ন",
       "caption": null,
@@ -716,11 +581,11 @@
       "needsReview": false
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p047",
+      "id": "physics-9-10-bn-c01-t1.ex-p038",
       "kind": "exercise",
       "section": "সংক্ষিপ্ত উত্তর প্রশ্ন",
       "caption": null,
-      "body": "২. মৌলিক ও লক্ষ্য রাশির মধ্যে দুইটি পার্থক্য লিখ।",
+      "body": "২. মৌলিক ও লক্ষ রাশির মধ্যে দুইটি পার্থক্য লিখ।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 36,
@@ -731,7 +596,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p048",
+      "id": "physics-9-10-bn-c01-t1.ex-p039",
       "kind": "exercise",
       "section": "সংক্ষিপ্ত উত্তর প্রশ্ন",
       "caption": null,
@@ -746,7 +611,7 @@
       "needsReview": false
     },
     {
-      "id": "physics-9-10-bn-c01-t1.ex-p049",
+      "id": "physics-9-10-bn-c01-t1.ex-p040",
       "kind": "exercise",
       "section": "সংক্ষিপ্ত উত্তর প্রশ্ন",
       "caption": null,

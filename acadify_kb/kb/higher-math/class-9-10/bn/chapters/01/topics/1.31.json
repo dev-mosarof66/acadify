@@ -1,0 +1,315 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.31",
+  "key": "1.31",
+  "title": "সার্বিক ফাংশন (Onto Function)",
+  "chapter": 1,
+  "ordinal": 32,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.31-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "চিত্রে ফাংশন $f$ এর অধীনে সেট $A = \\{1, 2, 3\\}$ এবং $B = \\{5, 7, 9\\}$ বিবেচনা করি যেখানে $1 \\to 5, 2 \\to 7$ এবং $3 \\to 9$ অর্থাৎ $B$ এর প্রত্যেক উপাদান $A$ সেটের একটি উপাদানের প্রতিবিষ্ণ। এইরূপ ফাংশনকে সার্বিক ফাংশন বলা হয়।",
+      "image": null,
+      "formulas": [
+        "f",
+        "A = \\{1, 2, 3\\}",
+        "B = \\{5, 7, 9\\}",
+        "1 \\to 5, 2 \\to 7",
+        "3 \\to 9",
+        "B",
+        "A"
+      ],
+      "pdfPageStart": 34,
+      "pdfPageEnd": 34,
+      "printedPageStart": 29,
+      "printedPageEnd": 29,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.31-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "```mermaid\nflowchart LR\n    subgraph A\n        A1[\"1\"]\n        A2[\"2\"]\n        A3[\"3\"]\n    end\n    subgraph B\n        B1[\"5\"]\n        B2[\"7\"]\n        B3[\"9\"]\n    end\n    A1 --> B1\n    A2 --> B2\n    A3 --> B3\n```",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 34,
+      "pdfPageEnd": 34,
+      "printedPageStart": 29,
+      "printedPageEnd": 29,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.31-p003",
+      "kind": "definition",
+      "section": null,
+      "caption": null,
+      "body": "**সংজ্ঞা ১১ (সার্বিক ফাংশন).** একটি ফাংশন $f : A \\to B$ কে সার্বিক ফাংশন (onto function) বলা হবে যদি প্রত্যেক $b \\in B$ এর জন্য একটি $a \\in A$ পাওয়া যায় যেন $f(a) = b$ হয়। অর্থাৎ $B =$ রেঞ্জ $f$।",
+      "image": null,
+      "formulas": [
+        "f : A \\to B",
+        "b \\in B",
+        "a \\in A",
+        "f(a) = b",
+        "B =",
+        "f"
+      ],
+      "pdfPageStart": 34,
+      "pdfPageEnd": 34,
+      "printedPageStart": 29,
+      "printedPageEnd": 29,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.31-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৩৪.** যদি $f : R \\to R$ এবং $g : R \\to R$ ফাংশন দুটি $f(x) = x + 5$ এবং $g(x) = x - 5$ দ্বারা সংজ্ঞায়িত হয়, তবে দেখাও যে, $f$ এর বিপরীত ফাংশন $g$।",
+      "image": null,
+      "formulas": [
+        "f : R \\to R",
+        "g : R \\to R",
+        "f(x) = x + 5",
+        "g(x) = x - 5",
+        "f",
+        "g"
+      ],
+      "pdfPageStart": 34,
+      "pdfPageEnd": 34,
+      "printedPageStart": 29,
+      "printedPageEnd": 29,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.31-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $f$ ফাংশনটি এক-এক, কেননা\n$$f(x_1) = f(x_2)  হলে  x_1 + 5 = x_2 + 5  বা,  x_1 = x_2 ।$$",
+      "image": null,
+      "formulas": [
+        "f",
+        "f(x_1) = f(x_2)  হলে  x_1 + 5 = x_2 + 5  বা,  x_1 = x_2 ।"
+      ],
+      "pdfPageStart": 35,
+      "pdfPageEnd": 35,
+      "printedPageStart": 30,
+      "printedPageEnd": 30,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.31-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার, $f$ ফাংশনটি সার্বিক, কেননা\n$$y = f(x)  হলে  x + 5 = y  বা,  x = y - 5 \\in R ।$$",
+      "image": null,
+      "formulas": [
+        "f",
+        "y = f(x)  হলে  x + 5 = y  বা,  x = y - 5 \\in R ।"
+      ],
+      "pdfPageStart": 35,
+      "pdfPageEnd": 35,
+      "printedPageStart": 30,
+      "printedPageEnd": 30,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.31-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং বিপরীত ফাংশন $f^{-1}$ বিদ্যমান।\n$$f^{-1}(x) = y  হলে  f(y) = x  বা,  y + 5 = x  বা,  y = x - 5$$",
+      "image": null,
+      "formulas": [
+        "f^{-1}",
+        "f^{-1}(x) = y  হলে  f(y) = x  বা,  y + 5 = x  বা,  y = x - 5"
+      ],
+      "pdfPageStart": 35,
+      "pdfPageEnd": 35,
+      "printedPageStart": 30,
+      "printedPageEnd": 30,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.31-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার, $f^{-1}(x) = x - 5 = g(x)$\n$f^{-1}$ ও $g$ উভয়ের ডোমেন একই হওয়ায় $f^{-1} = g$",
+      "image": null,
+      "formulas": [
+        "f^{-1}(x) = x - 5 = g(x)",
+        "f^{-1}",
+        "g",
+        "f^{-1} = g"
+      ],
+      "pdfPageStart": 35,
+      "pdfPageEnd": 35,
+      "printedPageStart": 30,
+      "printedPageEnd": 30,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.31-p009",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "ক) নিম্নের প্রতিটি এক-এক ফাংশনের জন্য সংশ্লিষ্ট $f^{-1}$ নির্ণয় করো, যদি বিদ্যমান হয়।\n(১) $f(x) = \\frac{3}{x - 1}, x \\neq 1$ (২) $f(x) = \\frac{2x}{x - 2}, x \\neq 2$\n(৩) $f : x \\to \\frac{2x + 3}{2x - 1}, x \\neq \\frac{1}{2}$",
+      "image": null,
+      "formulas": [
+        "f^{-1}",
+        "f(x) = \\frac{3}{x - 1}, x \\neq 1",
+        "f(x) = \\frac{2x}{x - 2}, x \\neq 2",
+        "f : x \\to \\frac{2x + 3}{2x - 1}, x \\neq \\frac{1}{2}"
+      ],
+      "pdfPageStart": 35,
+      "pdfPageEnd": 35,
+      "printedPageStart": 30,
+      "printedPageEnd": 30,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.31-p010",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "খ) বর্ণিত ফাংশন $f(x) = \\frac{4x - 9}{x - 2}, x \\neq 2$ এর ক্ষেত্রে যদি $f^{-1}$ বিদ্যমান হয় তবে\n(১) $f^{-1}(-1)$ এবং $f^{-1}(1)$ নির্ণয় করো।\n(২) $x$ এর মান নির্ণয় করো, যেন $4f^{-1}(x) = x$",
+      "image": null,
+      "formulas": [
+        "f(x) = \\frac{4x - 9}{x - 2}, x \\neq 2",
+        "f^{-1}",
+        "f^{-1}(-1)",
+        "f^{-1}(1)",
+        "x",
+        "4f^{-1}(x) = x"
+      ],
+      "pdfPageStart": 35,
+      "pdfPageEnd": 35,
+      "printedPageStart": 30,
+      "printedPageEnd": 30,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.31-p011",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "গ) বর্ণিত ফাংশন $f(x) = \\frac{2x + 2}{x - 1}, x \\neq 1$ এর জন্য যদি $f^{-1}$ বিদ্যমান হয় তবে\n(১) $f^{-1}(3)$ নির্ণয় করো।\n(২) $f^{-1}(p) = kp, p$ এর সাপেক্ষে $k$ কে প্রকাশ করো।",
+      "image": null,
+      "formulas": [
+        "f(x) = \\frac{2x + 2}{x - 1}, x \\neq 1",
+        "f^{-1}",
+        "f^{-1}(3)",
+        "f^{-1}(p) = kp, p",
+        "k"
+      ],
+      "pdfPageStart": 35,
+      "pdfPageEnd": 35,
+      "printedPageStart": 30,
+      "printedPageEnd": 30,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.31-p012",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "ঘ) নিম্নোক্ত প্রত্যেক ক্ষেত্রে প্রদত্ত সম্পর্ক $F$ একটি ফাংশন কিনা তা নির্ণয় করো। $F$ ফাংশন হলে উহার ডোমেন এবং রেঞ্জ নির্ণয় করো, উহা এক-এক কিনা তাও নির্ধারণ করো:\n(১) $F = \\{(x, y) \\in R^2 : y = x\\}$ (২) $F = \\{(x, y) \\in R^2 : y = x^2\\}$\n(৩) $F = \\{(x, y) \\in R^2 : y^2 = x\\}$ (৪) $F = \\{(x, y) \\in R^2 : y = \\sqrt{x}\\}$",
+      "image": null,
+      "formulas": [
+        "F",
+        "F",
+        "F = \\{(x, y) \\in R^2 : y = x\\}",
+        "F = \\{(x, y) \\in R^2 : y = x^2\\}",
+        "F = \\{(x, y) \\in R^2 : y^2 = x\\}",
+        "F = \\{(x, y) \\in R^2 : y = \\sqrt{x}\\}"
+      ],
+      "pdfPageStart": 35,
+      "pdfPageEnd": 35,
+      "printedPageStart": 30,
+      "printedPageEnd": 30,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.31-p013",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "ঙ) যদি $f : \\{-2, -1, 0, 1, 2\\} \\to \\{-8, -1, 0, 1, 8\\}$ ফাংশনটি $f(x) = x^3$ দ্বারা সংজ্ঞায়িত হয় তবে দেখাও যে, $f$ এক-এক এবং সার্বিক।",
+      "image": null,
+      "formulas": [
+        "f : \\{-2, -1, 0, 1, 2\\} \\to \\{-8, -1, 0, 1, 8\\}",
+        "f(x) = x^3",
+        "f"
+      ],
+      "pdfPageStart": 35,
+      "pdfPageEnd": 35,
+      "printedPageStart": 30,
+      "printedPageEnd": 30,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.31-p014",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "চ) $f : \\{1, 2, 3, 4\\} \\to R$ একটি ফাংশন যা $f(x) = 2x + 1$ দ্বারা সংজ্ঞায়িত। দেখাও যে, $f$ এক-এক ফাংশন কিন্তু সার্বিক ফাংশন নয়।",
+      "image": null,
+      "formulas": [
+        "f : \\{1, 2, 3, 4\\} \\to R",
+        "f(x) = 2x + 1",
+        "f"
+      ],
+      "pdfPageStart": 35,
+      "pdfPageEnd": 35,
+      "printedPageStart": 30,
+      "printedPageEnd": 30,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

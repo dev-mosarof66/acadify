@@ -1,0 +1,60 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.32",
+  "key": "1.32",
+  "title": "অন্তর ও ফাংশনের লেখচিত্র",
+  "chapter": 1,
+  "ordinal": 33,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.32-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "লেখচিত্র হলো ফাংশনের জ্যামিতিক উপস্থাপন। $y = f(x)$ লেখচিত্র অঙ্কনের জন্য $O$ বিন্দুতে পরস্পর ছেদী লম্ব দুটি সরলরেখা $XOX'$ এবং $YOY'$ নেওয়া হয়। $O$ কে মূলবিন্দু, $XOX'$ কে $x$ অক্ষ এবং $YOY'$ কে $y$ অক্ষ বলা হয়।",
+      "image": null,
+      "formulas": [
+        "y = f(x)",
+        "O",
+        "XOX'",
+        "YOY'",
+        "O",
+        "XOX'",
+        "x",
+        "YOY'",
+        "y"
+      ],
+      "pdfPageStart": 36,
+      "pdfPageEnd": 36,
+      "printedPageStart": 31,
+      "printedPageEnd": 31,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.32-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$y = f(x)$ ফাংশনের লেখচিত্র অঙ্কনের জন্য $a \\le x \\le b$ ব্যবধিতে স্বাধীন চলক $x$ এবং অধীন চলক $y$ এর মানগুলোর তালিকা প্রস্তুত করতে হয়। অতঃপর তালিকার সীমিত সংখ্যক বিন্দুগুলোকে $xy$ সমতলে স্থাপন করতে হয়। প্রাপ্ত বিন্দুগুলোকে সরলরেখা অথবা বক্ররেখা দ্বারা যুক্ত করলে $y = f(x)$ ফাংশনের লেখচিত্র পাওয়া যায়। নবম-দশম শ্রেণির গণিতে লেখচিত্র সম্পর্কে প্রাথমিক ধারণা প্রদান করা হয়েছে। এখানে, সরলরৈখিক (Linear) ফাংশন, দ্বিঘাত (Quadratic) ফাংশন এবং বৃত্তের লেখচিত্র অঙ্কন সম্পর্কে আলোচনা করা হয়েছে।",
+      "image": null,
+      "formulas": [
+        "y = f(x)",
+        "a \\le x \\le b",
+        "x",
+        "y",
+        "xy",
+        "y = f(x)"
+      ],
+      "pdfPageStart": 36,
+      "pdfPageEnd": 36,
+      "printedPageStart": 31,
+      "printedPageEnd": 31,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

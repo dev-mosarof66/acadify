@@ -1,0 +1,182 @@
+{
+  "id": "chemistry-9-10-bn-c04-t4.3",
+  "key": "4.3",
+  "title": "ইলেকট্রন বিন্যাস থেকে পর্যায় সারণিতে মৌলের অবস্থান নির্ণয়",
+  "chapter": 4,
+  "ordinal": 3,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c04-t4.3-p001",
+      "kind": "text",
+      "section": "(Determination of the Position of Elements in the Periodic Table from Their Electronic Configuration)",
+      "caption": null,
+      "body": "আমরা কোনো একটি মৌলের ইলেকট্রন বিন্যাস থেকে সহজেই মৌলটি কোন গ্রুপ এবং কোন পর্যায়ে রয়েছে সেটি বের করতে পারি। নিচে পর্যায় সারণিতে কোনো মৌলের অবস্থান নির্ণয়ের পদ্ধতি বর্ণনা করা হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 71,
+      "pdfPageEnd": 71,
+      "printedPageStart": 66,
+      "printedPageEnd": 66,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.3-p002",
+      "kind": "text",
+      "section": "পর্যায় নম্বর বের করার নিয়ম",
+      "caption": null,
+      "body": "কোনো মৌলের ইলেকট্রন বিন্যাসের সবচেয়ে বাইরের প্রধান শক্তিস্তরের নম্বরই ঐ মৌলের পর্যায় নম্বর। যেমন— Li এর ইলেকট্রন বিন্যাস হলো: Li(3) → 1s<sup>2</sup>2s<sup>1</sup>। যেহেতু লিথিয়ামের ইলেকট্রন বিন্যাসে সবচেয়ে বাইরের শক্তিস্তর 2, তাই লিথিয়াম 2 নম্বর পর্যায়ের মৌল।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 71,
+      "pdfPageEnd": 71,
+      "printedPageStart": 66,
+      "printedPageEnd": 66,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.3-p003",
+      "kind": "text",
+      "section": "পর্যায় নম্বর বের করার নিয়ম",
+      "caption": null,
+      "body": "K এর ইলেকট্রন বিন্যাস হলো: K(19) → 1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>1</sup>। যেহেতু পটাশিয়ামের ইলেকট্রন বিন্যাসে সবচেয়ে বাইরের শক্তিস্তর 4, তাই পটাশিয়াম 4 নম্বর পর্যায়ের মৌল।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 71,
+      "pdfPageEnd": 71,
+      "printedPageStart": 66,
+      "printedPageEnd": 66,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.3-p004",
+      "kind": "text",
+      "section": "গ্রুপ নম্বর বের করার নিয়ম",
+      "caption": null,
+      "body": "কোনো মৌলের গ্রুপ নম্বর বের করার কয়েকটি নিয়ম আছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 71,
+      "pdfPageEnd": 71,
+      "printedPageStart": 66,
+      "printedPageEnd": 66,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.3-p005",
+      "kind": "text",
+      "section": "গ্রুপ নম্বর বের করার নিয়ম",
+      "caption": null,
+      "body": "**নিয়ম 1:** কোনো মৌলের ইলেকট্রন বিন্যাসের বাইরের প্রধান শক্তিস্তরে যদি শুধু s অরবিটাল থাকে তবে ঐ s অরবিটালের মোট ইলেকট্রন সংখ্যাই ঐ মৌলের গ্রুপ নম্বর। যেমন- হাইড্রোজেন, H(1) মৌলের ইলেকট্রন বিন্যাস 1s<sup>1</sup>। এখানে s অরবিটালে 1টি ইলেকট্রন আছে। কাজেই হাইড্রোজেন এর গ্রুপ বা শ্রেণি নম্বর 1।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 71,
+      "pdfPageEnd": 71,
+      "printedPageStart": 66,
+      "printedPageEnd": 66,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.3-p006",
+      "kind": "text",
+      "section": "গ্রুপ নম্বর বের করার নিয়ম",
+      "caption": null,
+      "body": "**নিয়ম 2:** কোনো মৌলের ইলেকট্রন বিন্যাসের বাইরের প্রধান শক্তিস্তর যদি শুধু s ও p অরবিটাল থাকে তবে ঐ s ও p অরবিটালের মোট ইলেকট্রন সংখ্যার সাথে 10 যোগ করলে যে সংখ্যা পাওয়া যায় সেই সংখ্যাই ঐ মৌলের গ্রুপ নম্বর। যেমন: বোরন B(5) মৌলের ইলেকট্রন বিন্যাস 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>1</sup>। এখানে বোরনের বাইরের শেলে s অরবিটালে 2টি ইলেকট্রন ও p অরবিটালে 1টি ইলেকট্রন আছে। কাজেই বোরনের গ্রুপ নম্বর 2 + 1 + 10 = 13",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 71,
+      "pdfPageEnd": 71,
+      "printedPageStart": 66,
+      "printedPageEnd": 66,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.3-p007",
+      "kind": "text",
+      "section": "গ্রুপ নম্বর বের করার নিয়ম",
+      "caption": null,
+      "body": "**নিয়ম 3:** কোনো মৌলের ইলেকট্রন বিন্যাসে সবচেয়ে বাইরের প্রধান শক্তিস্তরে যদি s অরবিটাল থাকে এবং আগের প্রধান শক্তিস্তরে যদি d অরবিটাল থাকে তবে s অরবিটাল ও d অরবিটালের ইলেকট্রন সংখ্যা যোগ করলেই গ্রুপ নম্বর পাওয়া যায়। যেমন: Fe(26) মৌলের ইলেকট্রন বিন্যাস 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>6</sup> 4s<sup>2</sup>। এখানে আয়রন এর বাইরের শক্তিস্তরে s অরবিটাল আছে এবং তার আগের শক্তিস্তরে d অরবিটাল আছে। এখানে d অরবিটালে ৬টি এবং s অরবিটালে ২টি ইলেকট্রন আছে। কাজেই আয়রনের গ্রুপ নম্বর $6 + 2 = 8$।",
+      "image": null,
+      "formulas": [
+        "6 + 2 = 8"
+      ],
+      "pdfPageStart": 71,
+      "pdfPageEnd": 72,
+      "printedPageStart": 66,
+      "printedPageEnd": 67,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.3-p008",
+      "kind": "text",
+      "section": "গ্রুপ নম্বর বের করার নিয়ম",
+      "caption": null,
+      "body": "বোঝার সুবিধার জন্য মৌলের সবচেয়ে বাইরের স্তরের ইলেকট্রন বিন্যাসকে লাল রং দিয়ে দেখানো হয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 72,
+      "pdfPageEnd": 72,
+      "printedPageStart": 67,
+      "printedPageEnd": 67,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.3-p009",
+      "kind": "table",
+      "section": "গ্রুপ নম্বর বের করার নিয়ম",
+      "caption": "টেবিল ৪.০১: মৌলের ইলেকট্রন বিন্যাস ও গ্রুপ নম্বর",
+      "body": "<table><tr><th>মৌল</th><th>মৌলের ইলেকট্রন বিন্যাস</th><th>পার্যায় নম্বর</th><th>গ্রুপ বা শ্রেণি নম্বর</th></tr>\n<tr><td>H(1)</td><td>1s<sup>1</sup></td><td>1</td><td>1 (নিয়ম 1)</td></tr>\n<tr><td>He(2)</td><td>1s<sup>2</sup></td><td>1</td><td>18 (ব্যতিক্রম)</td></tr>\n<tr><td>Li(3)</td><td></td><td></td><td></td></tr>\n<tr><td>Be(4)</td><td></td><td></td><td></td></tr>\n<tr><td>B(5)</td><td>1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>1</sup></td><td>2</td><td>2 + 1 + 10 = 13 (নিয়ম 2)</td></tr>\n<tr><td>C(6)</td><td></td><td></td><td></td></tr>\n<tr><td>N(7)</td><td>1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>3</sup></td><td>2</td><td>2 + 3 + 10 = 15 (নিয়ম 2)</td></tr>\n<tr><td>O(8)</td><td>1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>4</sup></td><td>2</td><td>2 + 4 + 10 = 16 (নিয়ম 2)</td></tr>\n<tr><td>F(9)</td><td>1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>5</sup></td><td>2</td><td>2 + 5 + 10 = 17 (নিয়ম 2)</td></tr>\n<tr><td>Ne(10)</td><td>1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup></td><td>2</td><td>2 + 6 + 10 = 18 (নিয়ম 2)</td></tr>\n<tr><td>Na(11)</td><td></td><td></td><td></td></tr>\n<tr><td>Mg(12)</td><td>1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup></td><td>3</td><td>2 (নিয়ম 1)</td></tr>\n<tr><td>Al(13)</td><td></td><td></td><td></td></tr>\n<tr><td>Si(14)</td><td>1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>2</sup></td><td>3</td><td>2 + 2 + 10 = 14 (নিয়ম 2)</td></tr>\n<tr><td>P(15)</td><td>1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>3</sup></td><td>3</td><td>2 + 3 + 10 = 15 (নিয়ম 2)</td></tr>\n<tr><td>S(16)</td><td></td><td></td><td></td></tr>\n<tr><td>Cl(17)</td><td>1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>5</sup></td><td>3</td><td>2 + 5 + 10 = 17 (নিয়ম 2)</td></tr>\n<tr><td>Ar(18)</td><td>1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup></td><td>3</td><td>2 + 6 + 10 = 18 (নিয়ম 2)</td></tr>\n<tr><td>K(19)</td><td>1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 4s<sup>1</sup></td><td>4</td><td>1 (নিয়ম 1)</td></tr>\n<tr><td>Ca(20)</td><td>1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 4s<sup>2</sup></td><td>4</td><td>2 (নিয়ম 1)</td></tr>\n<tr><td>Sc(21)</td><td></td><td></td><td></td></tr>\n<tr><td>Ti(22)</td><td>1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>2</sup> 4s<sup>2</sup></td><td>4</td><td>2 + 2 = 4 (নিয়ম 3)</td></tr>\n<tr><td>V(23)</td><td>1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>3</sup> 4s<sup>2</sup></td><td>4</td><td>2 + 3 = 5 (নিয়ম 3)</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 72,
+      "pdfPageEnd": 72,
+      "printedPageStart": 67,
+      "printedPageEnd": 67,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.3-p010",
+      "kind": "table",
+      "section": "গ্রুপ নম্বর বের করার নিয়ম",
+      "caption": null,
+      "body": "<table><tr><td>Cr(24)</td><td>1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>5</sup> 4s<sup>1</sup></td><td>4</td><td>1 + 5 = 6 (নিয়ম 3)</td></tr>\n<tr><td>Mn(25)</td><td>1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>5</sup> 4s<sup>2</sup></td><td>4</td><td>2 + 5 = 7 (নিয়ম 3)</td></tr>\n<tr><td>Fe(26)</td><td></td><td></td><td></td></tr>\n<tr><td>Co(27)</td><td>1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>7</sup> 4s<sup>2</sup></td><td>4</td><td>2 + 7 = 9 (নিয়ম 3)</td></tr>\n<tr><td>Ni(28)</td><td>1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>8</sup> 4s<sup>2</sup></td><td>4</td><td>2 + 8 = 10 (নিয়ম 3)</td></tr>\n<tr><td>Cu(29)</td><td>1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>1</sup></td><td>4</td><td>1 + 10 = 11 (নিয়ম 3)</td></tr>\n<tr><td>Zn(30)</td><td>1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>10</sup> 4s<sup>2</sup></td><td>4</td><td>2 + 10 = 12 (নিয়ম 3)</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 73,
+      "pdfPageEnd": 73,
+      "printedPageStart": 68,
+      "printedPageEnd": 68,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.3-p011",
+      "kind": "text",
+      "section": "গ্রুপ নম্বর বের করার নিয়ম",
+      "caption": null,
+      "body": "**শিক্ষার্থীর কাজ:** উপরের ছকে পারমাণবিক সংখ্যা 3, 4, 6, 11, 13, 16, 21, 26 বিশিষ্ট মৌলের ইলেকট্রন বিন্যাস লেখো এবং ইলেকট্রন বিন্যাস থেকে পর্যায় সারণিতে সেগুলোর অবস্থান নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 73,
+      "pdfPageEnd": 73,
+      "printedPageStart": 68,
+      "printedPageEnd": 68,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

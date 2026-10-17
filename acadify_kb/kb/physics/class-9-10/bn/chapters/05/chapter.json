@@ -1,0 +1,87 @@
+{
+  "id": "physics-9-10-bn-c05",
+  "textbookId": "physics-9-10-bn",
+  "number": 5,
+  "title": "পদার্থের অবস্থা ও চাপ",
+  "englishTitle": "State of Matter and Pressure",
+  "pdfPages": [
+    132,
+    163
+  ],
+  "printedPages": [
+    127,
+    158
+  ],
+  "topics": [
+    {
+      "key": "5.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/5.0.json",
+      "passages": 5
+    },
+    {
+      "key": "5.1",
+      "title": "চাপ (Pressure)",
+      "file": "topics/5.1.json",
+      "passages": 18
+    },
+    {
+      "key": "5.2",
+      "title": "ঘনত্ব (Density)",
+      "file": "topics/5.2.json",
+      "passages": 29
+    },
+    {
+      "key": "5.3",
+      "title": "তরলের ভেতর চাপ (Pressure in Liquids)",
+      "file": "topics/5.3.json",
+      "passages": 93
+    },
+    {
+      "key": "5.4",
+      "title": "বাতাসের চাপ (Air Pressure)",
+      "file": "topics/5.4.json",
+      "passages": 31
+    },
+    {
+      "key": "5.5",
+      "title": "স্থিতিস্থাপকতা (Elasticity)",
+      "file": "topics/5.5.json",
+      "passages": 35
+    },
+    {
+      "key": "5.6",
+      "title": "পদার্থের তিন অবস্থা: কঠিন, তরল এবং গ্যাস",
+      "file": "topics/5.6.json",
+      "passages": 21
+    },
+    {
+      "key": "5.ex",
+      "title": "নমুনা প্রশ্ন",
+      "file": "topics/5.ex.json",
+      "passages": 32
+    }
+  ],
+  "stats": {
+    "topics": 8,
+    "passages": 264,
+    "images": 13,
+    "byKind": {
+      "figure": 29,
+      "text": 133,
+      "objective": 1,
+      "formula": 50,
+      "example": 13,
+      "table": 9,
+      "activity": 2,
+      "exercise": 27
+    },
+    "byReason": {
+      "verify-formula": 91,
+      "latin-junk": 22,
+      "verify-table": 9,
+      "known-confusable-corrected": 20
+    },
+    "needsReview": 135
+  }
+}

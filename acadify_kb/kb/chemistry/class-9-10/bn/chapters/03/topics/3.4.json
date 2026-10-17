@@ -1,0 +1,41 @@
+{
+  "id": "chemistry-9-10-bn-c03-t3.4",
+  "key": "3.4",
+  "title": "সংকেত (Formula)",
+  "chapter": 3,
+  "ordinal": 4,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c03-t3.4-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "হাইড্রোজেনের একটি অণুকে প্রকাশ করতে H<sub>2</sub> ব্যবহার করা হয়। যার অর্থ হলো একটি হাইড্রোজেনের অণুতে দুটি হাইড্রোজেনের পরমাণু (H) আছে। আবার, পানির একটি অণুকে প্রকাশ করতে H<sub>2</sub>O ব্যবহার করা হয়। এর অর্থ হচ্ছে পানির একটি অণুতে দুটি হাইড্রোজেন (H) এবং একটি অক্সিজেন পরমাণু (O) থাকে। পাশের তালিকায় সাধারণ কয়েকটি অণুর সংকেত দেখানো হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 44,
+      "pdfPageEnd": 44,
+      "printedPageStart": 39,
+      "printedPageEnd": 39,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.4-p002",
+      "kind": "table",
+      "section": null,
+      "caption": "টেবিল ৩.০৪: অণুর সংকেত",
+      "body": "<table><tr><th>অণুর নাম</th><th>সংকেত</th></tr>\n<tr><td>নাইট্রোজেন</td><td>N<sub>2</sub></td></tr>\n<tr><td>অ্যামোনিয়া</td><td>NH<sub>3</sub></td></tr>\n<tr><td>ক্লোরিন</td><td>Cl<sub>2</sub></td></tr>\n<tr><td>সালফিউরিক এসিড</td><td>H<sub>2</sub>SO<sub>4</sub></td></tr>\n<tr><td>হাইড্রোক্লোরিক এসিড</td><td>HCl</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 44,
+      "pdfPageEnd": 44,
+      "printedPageStart": 39,
+      "printedPageEnd": 39,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    }
+  ]
+}

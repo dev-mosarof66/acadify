@@ -1,0 +1,1650 @@
+{
+  "id": "physics-9-10-bn-c05-t5.3",
+  "key": "5.3",
+  "title": "তরলের ভেতর চাপ (Pressure in Liquids)",
+  "chapter": 5,
+  "ordinal": 3,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যারা পানিতে ঝাঁপাঝাঁপি করেছে তারা সবাই জানে পানির গভীরে গেলে একধরনের চাপ অনুভব করা যায় (যদিও বায়ুমণ্ডল আমাদের ওপর একটা চাপ দেয় কিন্তু আমরা সেটা অনুভব করি না। কারণ আমাদের শরীরও সমান পরিমাণ চাপ দেয়।) পানি কিংবা অন্য কোনো তরলের গভীরে গেলে ঠিক কতটুকু চাপ অনুভব করা যাবে সেটি ইতিমধ্যে তোমাদের বলা হয়েছে। তোমার উপরে তরলের যে স্তম্ভটুকু থাকবে তার ওজন থেকেই তোমার উপরের চাপ নির্ণয় করতে হবে। ধরা যাক তুমি তরলের $h$ গভীরতায় চাপ নির্ণয় করতে চাইছ। সেখানে $A$ ক্ষেত্রফলের একটি পৃষ্ঠ কল্পনা করে নাও (চিত্র ৫.০২)। তার উপরে তরলের যে স্তম্ভটুকু হবে, সেখানকার তরলটুকুর ওজন $A$ পৃষ্ঠে বল প্রয়োগ করবে।",
+      "image": null,
+      "formulas": [
+        "h",
+        "A",
+        "A"
+      ],
+      "pdfPageStart": 139,
+      "pdfPageEnd": 139,
+      "printedPageStart": 134,
+      "printedPageEnd": 134,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p002",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A diagram showing a cylindrical column of liquid with height h and base area A inside a larger container.",
+      "image": "p139-page_8_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 139,
+      "pdfPageEnd": 139,
+      "printedPageStart": 134,
+      "printedPageEnd": 134,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$A$ পৃষ্ঠের উপরের তরলটুকুর আয়তন $Ah$ তরলের ঘনত্ব যদি $\\rho$ হয় তাহলে এই তরলের ওজন বা বল",
+      "image": null,
+      "formulas": [
+        "A",
+        "Ah",
+        "\\rho"
+      ],
+      "pdfPageStart": 139,
+      "pdfPageEnd": 139,
+      "printedPageStart": 134,
+      "printedPageEnd": 134,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p004",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$F = mg = (Ah\\rho)g$$",
+      "image": null,
+      "formulas": [
+        "F = mg = (Ah\\rho)g"
+      ],
+      "pdfPageStart": 139,
+      "pdfPageEnd": 139,
+      "printedPageStart": 134,
+      "printedPageEnd": 134,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কাজেই চাপ:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 139,
+      "pdfPageEnd": 139,
+      "printedPageStart": 134,
+      "printedPageEnd": 134,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p006",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$P = \\frac{F}{A} = \\frac{Ah\\rho g}{A} = h\\rho g$$",
+      "image": null,
+      "formulas": [
+        "P = \\frac{F}{A} = \\frac{Ah\\rho g}{A} = h\\rho g"
+      ],
+      "pdfPageStart": 139,
+      "pdfPageEnd": 139,
+      "printedPageStart": 134,
+      "printedPageEnd": 134,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ নির্দিষ্ট ঘনত্বের তরলে গভীরতার সাথে সাথে চাপ বাড়তে থাকে। পানির বেলায় আনুমানিক প্রতি দশ মিটার গভীরতায় বাতাসের চাপের সমপরিমাণ চাপ বেড়ে যায়। ভূপৃষ্ঠে বায়ুমণ্ডলের চাপকে 1 atm বলা হয়, যার পরিমাণ হলো 101325 Pa!",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 139,
+      "pdfPageEnd": 139,
+      "printedPageStart": 134,
+      "printedPageEnd": 134,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p008",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "**চিত্র ৫.০২: তরলের উচ্চতার জন্য নিচের পৃষ্ঠে চাপ সৃষ্টি হয়।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 139,
+      "pdfPageEnd": 139,
+      "printedPageStart": 134,
+      "printedPageEnd": 134,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বাতাস বা গ্যাসকে যে রকম চাপ দিয়ে সংকুচিত করে তার ঘনত্ব বাড়িয়ে ফেলা যায়, তরলের বেলায় কিন্তু সেটি সত্যি নয় (কঠিনের বেলায় তো নয়ই ) তরলকে চাপ দিয়ে সে রকম সংকুচিত করা যায় না। তাই তার ঘনত্ব বাড়ানো কিংবা কমানো যায় না। ৫.০৩ চিত্রে সমুদ্রের পৃষ্ঠদেশ থেকে সমুদ্রের গভীরতায় গেলে কীভাবে পানির চাপ বাড়তে থাকে সেটা দেখানো হয়েছে। যেহেতু পানির ঘনত্ব প্রায় সমান তাই চাপটা সমান হারে বাড়ছে। সমুদ্রপৃষ্ঠে শূন্য থেকে শুরু করে সমুদ্রের তলদেশে সেটি অনেক বেড়ে গেছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 140,
+      "pdfPageEnd": 140,
+      "printedPageStart": 135,
+      "printedPageEnd": 135,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p010",
+      "kind": "table",
+      "section": "চিত্র ৫.০৩: পানির গভীরতার সাথে সাথে পানির চাপ বেড়ে যায়।",
+      "caption": null,
+      "body": "<table><tr><th>গভীরতা (km)</th><th>পানির চাপ (atm)</th></tr>\n<tr><th>0</th><td>0</td></tr>\n<tr><th>1</th><td>100</td></tr>\n<tr><th>2</th><td>200</td></tr>\n<tr><th>3</th><td>300</td></tr>\n<tr><th>4</th><td>400</td></tr>\n<tr><th>5</th><td>500</td></tr>\n<tr><th>6</th><td>600</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 140,
+      "pdfPageEnd": 140,
+      "printedPageStart": 135,
+      "printedPageEnd": 135,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p011",
+      "kind": "figure",
+      "section": "চিত্র ৫.০৩: পানির গভীরতার সাথে সাথে পানির চাপ বেড়ে যায়।",
+      "caption": null,
+      "body": "**চিত্র ৫.০৩: পানির গভীরতার সাথে সাথে পানির চাপ বেড়ে যায়।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 140,
+      "pdfPageEnd": 140,
+      "printedPageStart": 135,
+      "printedPageEnd": 135,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p012",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** তুমি মাছ সমুদ্রপৃষ্ঠ থেকে 2,100 m গভীরতায় যেতে পারে, সেটি কত চাপ সহ্য করতে পারে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 140,
+      "pdfPageEnd": 140,
+      "printedPageStart": 135,
+      "printedPageEnd": 135,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p013",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "ধরে নাও যে, প্রতি 10 m গভীরতার জন্য 1 atm চাপ বাড়ে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 140,
+      "pdfPageEnd": 140,
+      "printedPageStart": 135,
+      "printedPageEnd": 135,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p014",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** তুমি মাছ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 140,
+      "pdfPageEnd": 140,
+      "printedPageStart": 135,
+      "printedPageEnd": 135,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p015",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$P = \\frac{2,100  m}{10  m/atm} = 210  atm$$",
+      "image": null,
+      "formulas": [
+        "P = \\frac{2,100  m}{10  m/atm} = 210  atm"
+      ],
+      "pdfPageStart": 140,
+      "pdfPageEnd": 140,
+      "printedPageStart": 135,
+      "printedPageEnd": 135,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p016",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "চাপ সহ্য করতে পারে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 140,
+      "pdfPageEnd": 140,
+      "printedPageStart": 135,
+      "printedPageEnd": 135,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p017",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** পানির নিচে প্রতি 10 m গভীরতায় 1 atm চাপ বেড়ে যায়। ডাইভাররা সর্বোচ্চ 1,000 ft (305 m) গভীর পর্যন্ত গিয়েছে, সেখানে তাদের কতটুকু চাপ সহ্য করতে হয়েছে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p018",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** প্রতি 10 m এ 1 atm বা 1 bar চাপ বেড়ে গেলে 305 m গভীরতায়",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p019",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$\\frac{305  m}{10  m/atm} = 30.5  atm$$",
+      "image": null,
+      "formulas": [
+        "\\frac{305  m}{10  m/atm} = 30.5  atm"
+      ],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p020",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "ডাইভারদের 30.5 atm চাপ সহ্য করতে হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p021",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** কেরোসিন (ঘনত্ব 800 kg m<sup>-3</sup>), পানি (ঘনত্ব 1000 kg m<sup>-3</sup>) এবং পারদ (ঘনত্ব 13,600 kg m<sup>-3</sup>) এই তিনটি তরলের জন্য 50 cm নিচে চাপ বের করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p022",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** চাপ $P = h\\rho g$",
+      "image": null,
+      "formulas": [
+        "P = h\\rho g"
+      ],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p023",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কেরোসিনের জন্য",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p024",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$P = 0.50  m \\times 800  kg m^{-3} \\times 9.8  N kg^{-1} = 3,920  N m^{-2}$$",
+      "image": null,
+      "formulas": [
+        "P = 0.50  m \\times 800  kg m^{-3} \\times 9.8  N kg^{-1} = 3,920  N m^{-2}"
+      ],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p025",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "পানির জন্য",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p026",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$P = 0.50  m \\times 1000  kg m^{-3} \\times 9.8  N kg^{-1} = 4,900  N m^{-2}$$",
+      "image": null,
+      "formulas": [
+        "P = 0.50  m \\times 1000  kg m^{-3} \\times 9.8  N kg^{-1} = 4,900  N m^{-2}"
+      ],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p027",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "পারদের জন্য",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p028",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$P = 0.50  m \\times 13,600  kg m^{-3} \\times 9.8  N kg^{-1} = 666,40  N m^{-2}$$",
+      "image": null,
+      "formulas": [
+        "P = 0.50  m \\times 13,600  kg m^{-3} \\times 9.8  N kg^{-1} = 666,40  N m^{-2}"
+      ],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p029",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** কেরোসিন, পানি এবং পারদ এই তিনটি তরলের কত গভীরতায় 1 *atm* এর সমান চাপ হবে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p030",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** আমরা জানি পারদের জন্য 76 cm গভীরতায় 1 atm চাপ হয়। পানির ঘনত্ব পারদ থেকে 13.6 গুণ কম কাজেই পানির গভীরতা 13.6 গুণ বেশি হবে। অর্থাৎ পানির গভীরতা:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p031",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$76  cm \\times 13.6 = 1034  cm = 10.34  m$$",
+      "image": null,
+      "formulas": [
+        "76  cm \\times 13.6 = 1034  cm = 10.34  m"
+      ],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p032",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কেরোসিনের ঘনত্ব পানির ঘনত্ব থেকে 0.8 গুণ কম কাজেই কেরোসিনের জন্য গভীরতা পানির গভীরতা থেকে $1/0.8 = 1.25$ গুণ বেশি হবে",
+      "image": null,
+      "formulas": [
+        "1/0.8 = 1.25"
+      ],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p033",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$10.34  m \\times 1.25 = 12.92  m$$",
+      "image": null,
+      "formulas": [
+        "10.34  m \\times 1.25 = 12.92  m"
+      ],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p034",
+      "kind": "text",
+      "section": "৫.৩.১ আর্কিমিডিসের নীতি এবং প্লবতা (Archimedes’ Principle and Buoyancy)",
+      "caption": null,
+      "body": "তোমরা সবাই নিশ্চয়ই আর্কিমিডিসের নীতি এবং সেই সূত্রের পেছনের গল্পটি জানো। নীতিটি সহজ, কোনো বস্তু তরলে নিমজ্জিত করলে সেটি যে পরিমাণ তরল অপসারণ করে সেইটুকু তরলের সমান ওজন বস্তুটির ওজন থেকে কমে যায়। আমরা এখন এই নীতিটি বের করব। ৫.০৪ চিত্রে দেখানো হয়েছে খানিকটা তরল পদার্থে একটা সিলিন্ডার ডোবানো রয়েছে। (এটি সিলিন্ডার না হয়ে অন্য যেকোনো আকৃতির বস্তু হতে পারত, আমরা হিসাবের সুবিধার জন্য সিলিন্ডার নিয়েছি।) ধরা যাক সিলিন্ডারের উচ্চতা $h$ এবং উপরের ও নিচের প্রস্থচ্ছেদের ক্ষেত্রফল $A$। আমরা কল্পনা করে নিই সিলিন্ডারটি এমনভাবে তরলে ডুবিয়ে রাখা হয়েছে যেন তার উপরের পৃষ্ঠটির গভীরতা $h_1$ এবং নিচের পৃষ্ঠের গভীরতা $h_2$। (তরল কিংবা বায়বীয়) পদার্থের চাপ কোনো নির্দিষ্ট দিকে কাজ করে না। এটি সব দিকে কাজ করে। কাজেই সিলিন্ডারের উপরের পৃষ্ঠে নিচের দিকে যে চাপ কাজ করে তার পরিমাণ",
+      "image": null,
+      "formulas": [
+        "h",
+        "A",
+        "h_1",
+        "h_2"
+      ],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p035",
+      "kind": "figure",
+      "section": "৫.৩.১ আর্কিমিডিসের নীতি এবং প্লবতা (Archimedes’ Principle and Buoyancy)",
+      "caption": null,
+      "body": "drawing: A diagram showing a cylinder labeled 'A' submerged in a liquid, with height labels h1, h, and h2.",
+      "image": "p142-page_11_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p036",
+      "kind": "figure",
+      "section": "৫.৩.১ আর্কিমিডিসের নীতি এবং প্লবতা (Archimedes’ Principle and Buoyancy)",
+      "caption": null,
+      "body": "**চিত্র ৫.০৪: একটি বস্তু যতটুকু তরল অপসারিত করে তার সমপরিমাণ ওজন হারায়।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p037",
+      "kind": "formula",
+      "section": "৫.৩.১ আর্কিমিডিসের নীতি এবং প্লবতা (Archimedes’ Principle and Buoyancy)",
+      "caption": null,
+      "body": "$$P_1 = h_1 \\rho g$$",
+      "image": null,
+      "formulas": [
+        "P_1 = h_1 \\rho g"
+      ],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p038",
+      "kind": "text",
+      "section": "৫.৩.১ আর্কিমিডিসের নীতি এবং প্লবতা (Archimedes’ Principle and Buoyancy)",
+      "caption": null,
+      "body": "এবং নিচের পৃষ্ঠে উপরের দিকে যে চাপ কাজ করে তার পরিমাণ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p039",
+      "kind": "formula",
+      "section": "৫.৩.১ আর্কিমিডিসের নীতি এবং প্লবতা (Archimedes’ Principle and Buoyancy)",
+      "caption": null,
+      "body": "$$P_2 = h_2 \\rho g$$",
+      "image": null,
+      "formulas": [
+        "P_2 = h_2 \\rho g"
+      ],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p040",
+      "kind": "text",
+      "section": "৫.৩.১ আর্কিমিডিসের নীতি এবং প্লবতা (Archimedes’ Principle and Buoyancy)",
+      "caption": null,
+      "body": "কাজেই সিলিন্ডারে উপর পৃষ্ঠে নিচের দিকে এবং নিচের পৃষ্ঠে উপরের দিকে প্রয়োগ করা বল যথাক্রমে:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p041",
+      "kind": "formula",
+      "section": "৫.৩.১ আর্কিমিডিসের নীতি এবং প্লবতা (Archimedes’ Principle and Buoyancy)",
+      "caption": null,
+      "body": "$$F_1 = AP_1 = Ah_1 \\rho g$$",
+      "image": null,
+      "formulas": [
+        "F_1 = AP_1 = Ah_1 \\rho g"
+      ],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p042",
+      "kind": "formula",
+      "section": "৫.৩.১ আর্কিমিডিসের নীতি এবং প্লবতা (Archimedes’ Principle and Buoyancy)",
+      "caption": null,
+      "body": "$$F_2 = AP_2 = Ah_2 \\rho g$$",
+      "image": null,
+      "formulas": [
+        "F_2 = AP_2 = Ah_2 \\rho g"
+      ],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p043",
+      "kind": "text",
+      "section": "৫.৩.১ আর্কিমিডিসের নীতি এবং প্লবতা (Archimedes’ Principle and Buoyancy)",
+      "caption": null,
+      "body": "চারপাশের পৃষ্ঠের উপর কতটুকু বল প্রয়োগ হয়েছে সেটা নিয়ে আমাদের মাথা ঘামাতে হবে না। কারণ সিলিন্ডারটি একদিক থেকে যে বল অনুভব করে অন্যদিক থেকে ঠিক তার বিপরীত পরিমাণ বল অনুভব করে এবং একে অন্যকে কাটাকাটি করে দেয়। যেহেতু $h_2$ এর মান $h_1$ থেকে বেশি তাই দেখতে পাচ্ছি $F_2$ এর মান $F_1$ থেকে বেশি। কাজেই মোট বলটি হবে উপরের দিকে এবং তার পরিমাণ:",
+      "image": null,
+      "formulas": [
+        "h_2",
+        "h_1",
+        "F_2",
+        "F_1"
+      ],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 143,
+      "printedPageStart": 137,
+      "printedPageEnd": 138,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p044",
+      "kind": "formula",
+      "section": "৫.৩.১ আর্কিমিডিসের নীতি এবং প্লবতা (Archimedes’ Principle and Buoyancy)",
+      "caption": null,
+      "body": "$$F = F_2 - F_1 = A(h_2 - h_1)\\rho g$$",
+      "image": null,
+      "formulas": [
+        "F = F_2 - F_1 = A(h_2 - h_1)\\rho g"
+      ],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p045",
+      "kind": "formula",
+      "section": "৫.৩.১ আর্কিমিডিসের নীতি এবং প্লবতা (Archimedes’ Principle and Buoyancy)",
+      "caption": null,
+      "body": "$$F = Ah\\rho g$$",
+      "image": null,
+      "formulas": [
+        "F = Ah\\rho g"
+      ],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p046",
+      "kind": "text",
+      "section": "৫.৩.১ আর্কিমিডিসের নীতি এবং প্লবতা (Archimedes’ Principle and Buoyancy)",
+      "caption": null,
+      "body": "যেহেতু $Ah$ হচ্ছে সিলিন্ডারের আয়তন, $\\rho$ তরলের ঘনত্ব এবং $g$ মাধ্যাকর্ষণজনিত ত্বরণ, কাজেই উপরের দিকে প্রয়োগ করা বলের পরিমাণ হচ্ছে সিলিন্ডারের আয়তনের সমান তরলের ওজন। ঠিক যেটি আর্কিমিডিসের নীতি নামে পরিচিত। উর্ধ্বমুখী এই বলটিকে প্লুবতা (Buoyancy) বলে।",
+      "image": null,
+      "formulas": [
+        "Ah",
+        "\\rho",
+        "g"
+      ],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p047",
+      "kind": "activity",
+      "section": "নিজে করো",
+      "caption": null,
+      "body": "একটি রাবার ব্যান্ডের এক মাথায় একটা বড় আলু বা অন্য কোনো ফল বেঁধে বুলিয়ে দেখো রাবার ব্যান্ডটি কতখানি লম্বা হয়ে আছে। এবারে আলু কিংবা ফলটি পানিতে ডুবিয়ে নাও দেখবে রাবার ব্যান্ডটি বেশি খানিকটা সংকুচিত হয়ে গেছে কারণ, ডুবন্ত অবস্থায় ফলটির ওজন অনেক কম!",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p048",
+      "kind": "text",
+      "section": "৫.৩.২ বস্তুর ভেসে থাকা বা ডুবে যাওয়া",
+      "caption": null,
+      "body": "এখন তোমরা নিশ্চয়ই বুঝতে পেরেছ কেন একটা বস্তু ভেসে থাকে আবার অন্য একটা বস্তু ডুবে যায়। তোমরা জানো একটা বস্তু পানিতে ডোবানো হলে প্লুবতার কারণে সেটা যতটুকু পানি সরিয়েছে উপরের দিকে সেই পানির ওজনের সমপরিমাণ বল অনুভব করে। সেই বলটি বস্তুটার ওজনের বেশি হলে বস্তুটা ভেসে থাকবে। ঠিক যে পরিমাণ ডুবে থাকলে বস্তুর সমান ওজনের পানি অপসারণ করবে, ততটুকুই ডুবে, বাকি অংশটুকু পানিতে ডুবে যাবে না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p049",
+      "kind": "text",
+      "section": "৫.৩.২ বস্তুর ভেসে থাকা বা ডুবে যাওয়া",
+      "caption": null,
+      "body": "যদি বস্তুটার ওজন অপসারিত পানির ওজন থেকে বেশি হয়, তাহলে সেটি পানিতে ডুবে যাবে। তবে পানিতে ডুবে থাকা অবস্থায় তার ওজন কিন্তু সত্যিকার ওজন থেকে কম মনে হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p050",
+      "kind": "text",
+      "section": "৫.৩.২ বস্তুর ভেসে থাকা বা ডুবে যাওয়া",
+      "caption": null,
+      "body": "যদি কোনোভাবে বস্তুটার ওজন অপসারিত পানির ওজনের ঠিক সমান করে ফেলা যায়, তাহলে বস্তুটাকে পানির ভেতরে যেখানেই রাখা হবে সেটা সেখানেই থাকবে, উপরেও ভেসে উঠবে না নিচেও ডুবে যাবে না। দৈনন্দিন জীবনে সে রকম কিছু চোখে না পড়লেও পানির নিচে দিয়ে চলাচল করার জন্য সাবমেরিনে এটি করা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p051",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** এক টুকরো কাঠ পানিতে ভাসিয়ে দিলে তার কত শতাংশ ডুবে থাকবে? (কাঠের ঘনত্ব $\\rho = 0.5 \\times 10^3  kg/m^3$ পানির ঘনত্ব $\\rho_W = 10^3  kg/m^3$)",
+      "image": null,
+      "formulas": [
+        "\\rho = 0.5 \\times 10^3  kg/m^3",
+        "\\rho_W = 10^3  kg/m^3"
+      ],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p052",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** কাঠকে ভেসে থাকতে হলে তার ডুবন্ত অংশের সমপরিমাণ পানির ভর কাঠের ভরের সমান হতে হবে। অর্থাৎ যদি কাঠের আয়তন $V$ হয় তার ভর $V\\rho$, এবং যদি কাঠের $V_1$ অংশ পানিতে ডুবে থাকে তাহলে সেই পরিমাণ পানির ভর $V_1\\rho_W$, কাজেই",
+      "image": null,
+      "formulas": [
+        "V",
+        "V\\rho",
+        "V_1",
+        "V_1\\rho_W"
+      ],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p053",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$V\\rho = V_1\\rho_W$$",
+      "image": null,
+      "formulas": [
+        "V\\rho = V_1\\rho_W"
+      ],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p054",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$\\frac{V_1}{V} = \\frac{\\rho}{\\rho_W} = \\frac{0.5 \\times 10^3  kg/m^3}{10^3  kg/m^3} \\times 100 = 50\\%$$",
+      "image": null,
+      "formulas": [
+        "\\frac{V_1}{V} = \\frac{\\rho}{\\rho_W} = \\frac{0.5 \\times 10^3  kg/m^3}{10^3  kg/m^3} \\times 100 = 50\\%"
+      ],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p055",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** $10kg$ ভরের একটা কাঠ নদীর পানিতে ভেসে ভেসে সমুদ্রে গেল। নদীর পানিতে সেটি অর্ধেক ডুবেছিল, সমুদ্রে কতটুকু ডুববে? (সমুদ্রের পানির ঘনত্ব $\\rho_S = 1.03 \\times 10^3  kg/m^3$)",
+      "image": null,
+      "formulas": [
+        "10kg",
+        "\\rho_S = 1.03 \\times 10^3  kg/m^3"
+      ],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p056",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** নদীর পানির ঘনত্ব $\\rho_W = 10^3  kg/m^3$",
+      "image": null,
+      "formulas": [
+        "\\rho_W = 10^3  kg/m^3"
+      ],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p057",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাঠের আয়তন $V$ এবং ঘনত্ব $\\rho$ হলে কাঠের ভর $V\\rho$",
+      "image": null,
+      "formulas": [
+        "V",
+        "\\rho",
+        "V\\rho"
+      ],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p058",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "নদীর পানিতে কাঠের অর্ধেক ডুবে থাকে কাজেই",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p059",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$V\\rho = \\frac{1}{2}V\\rho_W$$",
+      "image": null,
+      "formulas": [
+        "V\\rho = \\frac{1}{2}V\\rho_W"
+      ],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p060",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাঠের ঘনত্ব",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p061",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$\\rho = \\frac{1}{2}\\rho_W = 0.5 \\times 10^3  kg/m^3$$",
+      "image": null,
+      "formulas": [
+        "\\rho = \\frac{1}{2}\\rho_W = 0.5 \\times 10^3  kg/m^3"
+      ],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p062",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "সমুদ্রের পানিতে $V_1$ পরিমাণ ডুবে থাকলে",
+      "image": null,
+      "formulas": [
+        "V_1"
+      ],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p063",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$V\\rho = V_1\\rho_S$$",
+      "image": null,
+      "formulas": [
+        "V\\rho = V_1\\rho_S"
+      ],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p064",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$\\frac{V_1}{V} = \\frac{\\rho}{\\rho_S} = \\frac{0.5 \\times 10^3  kg/m^3}{1.03 \\times 10^3  kg/m^3} \\times 100 = 48.5\\%$$",
+      "image": null,
+      "formulas": [
+        "\\frac{V_1}{V} = \\frac{\\rho}{\\rho_S} = \\frac{0.5 \\times 10^3  kg/m^3}{1.03 \\times 10^3  kg/m^3} \\times 100 = 48.5\\%"
+      ],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p065",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** ধরা যাক আর্কিমিডিসের সোনার মুকুটের ভর বাতাসে 10 kg এবং পানিতে ভুবিয়ে ভর করলে আপাতভাব 9.4 kg হয়েছে। মুকুটের ঘনত্ব কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 145,
+      "pdfPageEnd": 145,
+      "printedPageStart": 140,
+      "printedPageEnd": 140,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p066",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** মুকুটের আয়তন $V$, ঘনত্ব $\\rho$ হলে, $V\\rho = 10  kg$",
+      "image": null,
+      "formulas": [
+        "V",
+        "\\rho",
+        "V\\rho = 10  kg"
+      ],
+      "pdfPageStart": 145,
+      "pdfPageEnd": 145,
+      "printedPageStart": 140,
+      "printedPageEnd": 140,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p067",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "এবং $V\\rho - V\\rho_W = 9.4  kg$",
+      "image": null,
+      "formulas": [
+        "V\\rho - V\\rho_W = 9.4  kg"
+      ],
+      "pdfPageStart": 145,
+      "pdfPageEnd": 145,
+      "printedPageStart": 140,
+      "printedPageEnd": 140,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p068",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$V\\rho_W = V\\rho - 9.4  kg = 10  kg - 9.4  kg = 0.6  kg$$",
+      "image": null,
+      "formulas": [
+        "V\\rho_W = V\\rho - 9.4  kg = 10  kg - 9.4  kg = 0.6  kg"
+      ],
+      "pdfPageStart": 145,
+      "pdfPageEnd": 145,
+      "printedPageStart": 140,
+      "printedPageEnd": 140,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p069",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$V = \\frac{0.6  kg}{\\rho_W} = \\frac{0.6  kg}{10^3  kg/m^3} = 0.6 \\times 10^{-3}  m^3$$",
+      "image": null,
+      "formulas": [
+        "V = \\frac{0.6  kg}{\\rho_W} = \\frac{0.6  kg}{10^3  kg/m^3} = 0.6 \\times 10^{-3}  m^3"
+      ],
+      "pdfPageStart": 145,
+      "pdfPageEnd": 145,
+      "printedPageStart": 140,
+      "printedPageEnd": 140,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p070",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$\\rho = \\frac{10  kg}{V} = \\frac{10  kg}{0.6 \\times 10^{-3}  m^3} = 16,666  kg/m^3$$",
+      "image": null,
+      "formulas": [
+        "\\rho = \\frac{10  kg}{V} = \\frac{10  kg}{0.6 \\times 10^{-3}  m^3} = 16,666  kg/m^3"
+      ],
+      "pdfPageStart": 145,
+      "pdfPageEnd": 145,
+      "printedPageStart": 140,
+      "printedPageEnd": 140,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p071",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "সোনার আসল ঘনত্ব 19,300 kg/m<sup>3</sup> কাজেই বোঝাই যাচ্ছে এই মুকুটে খাদ মেশানো আছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 145,
+      "pdfPageEnd": 145,
+      "printedPageStart": 140,
+      "printedPageEnd": 140,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p072",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "> এক গ্লাস পানিতে এক টুকরো বরফ ভাসছে, বরফটি গলে যাওয়ার পর গ্লাসে পানির উচ্চতা কি বেড়ে যাবে নাকি সমান থাকবে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 145,
+      "pdfPageEnd": 145,
+      "printedPageStart": 140,
+      "printedPageEnd": 140,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p073",
+      "kind": "text",
+      "section": "৫.৩.৩ প্যাসকেলের সূত্র",
+      "caption": null,
+      "body": "এই অধ্যায়ে আমরা দেখিয়েছি যে তরল পদার্থে চাপ প্রয়োগ করলে সেটা চারদিকে সমধালিত হয়। তোমরা একটু চিন্তা করলেই বুঝতে পারবে এটাই স্বাভাবিক। তার কারণ এই চাপটুকু যদি পুরো তরল পদার্থে সমধালিত না হয় তাহলে তরলের এক অংশে চাপ বেশি এবং অন্য অংশে চাপ কম থাকবে, কাজেই সেখানে একটা প্রস্থচ্ছেদ কল্পনা করে নিলে এক দিক থেকে আরোপিত বল অন্যদিক থেকে আরোপিত বল থেকে বেশি হবে এবং এই বলের কারণে তরলটি প্রবাহিত হবে যতক্ষণ পর্যন্ত না চাপ সমান হয়ে যায়। প্যাসকেল এই বিষয়টি একটা সূত্র হিসেবে দিয়েছিলেন, সেটি এ রকম:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 145,
+      "pdfPageEnd": 145,
+      "printedPageStart": 140,
+      "printedPageEnd": 140,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p074",
+      "kind": "text",
+      "section": "৫.৩.৩ প্যাসকেলের সূত্র",
+      "caption": null,
+      "body": "> **প্যাসকেলের সূত্র:** একটা আবদ্ধ পাত্রে তরল বা বায়বীয় পদার্থে বাইরে থেকে চাপ দেওয়া হলে সেই চাপ সমানভাবে সমধালিত হয়ে পাত্রের সংলগ্ন গায়ে লক্ষ্যভাবে কাজ করবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 145,
+      "pdfPageEnd": 145,
+      "printedPageStart": 140,
+      "printedPageEnd": 140,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p075",
+      "kind": "text",
+      "section": "৫.৩.৩ প্যাসকেলের সূত্র",
+      "caption": null,
+      "body": "**প্যাসকেলের সূত্রের ব্যবহার:** প্যাসকেলের এই সূত্রটি ব্যবহার করে অত্যন্ত চমকপ্রদ কিছু যন্ত্র তৈরি করা যায়। ৫.০৫ ছবিতে সে রকম একটা যন্ত্র দেখানো হয়েছে, এখানে পাশাপাশি দুটি সিলিন্ডার একটা নল দিয়ে সংযুক্ত। ধরা যাক একটি সিলিন্ডারের প্রস্থচ্ছেদ $A_1$ অন্যটির $A_2$ এবং তুমি $A_1$ প্রস্থচ্ছেদের সিলিন্ডারে $F_1$ বল প্রয়োগ করেছ তাহলে তোমার প্রয়োগ করা চাপ",
+      "image": null,
+      "formulas": [
+        "A_1",
+        "A_2",
+        "A_1",
+        "F_1"
+      ],
+      "pdfPageStart": 145,
+      "pdfPageEnd": 145,
+      "printedPageStart": 140,
+      "printedPageEnd": 140,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p076",
+      "kind": "formula",
+      "section": "৫.৩.৩ প্যাসকেলের সূত্র",
+      "caption": null,
+      "body": "$$P = \\frac{F_1}{A_1}$$",
+      "image": null,
+      "formulas": [
+        "P = \\frac{F_1}{A_1}"
+      ],
+      "pdfPageStart": 146,
+      "pdfPageEnd": 146,
+      "printedPageStart": 141,
+      "printedPageEnd": 141,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p077",
+      "kind": "text",
+      "section": "৫.৩.৩ প্যাসকেলের সূত্র",
+      "caption": null,
+      "body": "এই চাপ তরলের মাধ্যমে চারদিকে সন্ধ্যালিত হবে ও দ্বিতীয় সিলিন্ডারে প্রস্থচ্ছেদেও প্রয়োগ করবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 146,
+      "pdfPageEnd": 146,
+      "printedPageStart": 141,
+      "printedPageEnd": 141,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p078",
+      "kind": "text",
+      "section": "৫.৩.৩ প্যাসকেলের সূত্র",
+      "caption": null,
+      "body": "কাজেই দ্বিতীয় সিলিন্ডারে প্রয়োগ করা বলের পরিমাণ হবে $F_2 = PA_2 = F_1 \\left( \\frac{A_2}{A_1} \\right)$",
+      "image": null,
+      "formulas": [
+        "F_2 = PA_2 = F_1 \\left( \\frac{A_2}{A_1} \\right)"
+      ],
+      "pdfPageStart": 146,
+      "pdfPageEnd": 146,
+      "printedPageStart": 141,
+      "printedPageEnd": 141,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p079",
+      "kind": "text",
+      "section": "৫.৩.৩ প্যাসকেলের সূত্র",
+      "caption": null,
+      "body": "তুমি নিশ্চয়ই চমৎকৃত হয়ে দেখতে পাচ্ছ যদি $(A_2/A_1)$ এর মান 100 হয় তাহলে তুমি প্রথম সিলিন্ডারে যে পরিমাণ বল প্রয়োগ করছ দ্বিতীয় সিলিন্ডারে তার থেকে 100 গুণ বল পেয়ে যাচ্ছ! এই পদ্ধতিটি খুব কার্যকর, বড় বড় কলকারখানা কিংবা বিমান নিয়ন্ত্রণে এই পদ্ধতি ব্যবহার করা হয়। তবে তোমরা একটা জিনিস জেনে রাখো এটা বলবুদ্ধিকরণ নীতি। এই পদ্ধতিতে শক্তি কিন্তু মোটেও বাড়ানো যায় না। তুমি প্রথম সিলিন্ডারে যে পরিমাণ শক্তি প্রয়োগ করবে দ্বিতীয় সিলিন্ডারে ঠিক সেই পরিমাণ শক্তি ফিরে পাবে!",
+      "image": null,
+      "formulas": [
+        "(A_2/A_1)"
+      ],
+      "pdfPageStart": 146,
+      "pdfPageEnd": 146,
+      "printedPageStart": 141,
+      "printedPageEnd": 141,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p080",
+      "kind": "figure",
+      "section": "৫.৩.৩ প্যাসকেলের সূত্র",
+      "caption": null,
+      "body": "drawing: hydraulic lift diagram showing forces F1 and F2",
+      "image": "p146-page_15_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 146,
+      "pdfPageEnd": 146,
+      "printedPageStart": 141,
+      "printedPageEnd": 141,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p081",
+      "kind": "figure",
+      "section": "৫.৩.৩ প্যাসকেলের সূত্র",
+      "caption": null,
+      "body": "**চিত্র ৫.০৫ : $F_1$ বল প্রয়োগ করলে প্রস্থচ্ছেদের উপর নির্ভর করে অন্য দিকে $F_2$ বল পাওয়া যায়।**",
+      "image": null,
+      "formulas": [
+        "F_1",
+        "F_2"
+      ],
+      "pdfPageStart": 146,
+      "pdfPageEnd": 146,
+      "printedPageStart": 141,
+      "printedPageEnd": 141,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p082",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** দেখাও যে বল বৃদ্ধি করা হলেও যে পরিমাণ শক্তি প্রয়োগ করা হচ্ছে, ঠিক সেই পরিমাণ শক্তি ফিরে পাচ্ছ।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 146,
+      "pdfPageEnd": 146,
+      "printedPageStart": 141,
+      "printedPageEnd": 141,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p083",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** ধরা যাক, ছোট পিস্টনে $F_1$ বল প্রয়োগ করা হয়েছে এবং পিস্টনটি $l_1$ দূরত্ব অতিক্রম করেছে, কাজেই কাজের পরিমাণ",
+      "image": null,
+      "formulas": [
+        "F_1",
+        "l_1"
+      ],
+      "pdfPageStart": 146,
+      "pdfPageEnd": 146,
+      "printedPageStart": 141,
+      "printedPageEnd": 141,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p084",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$W_1 = F_1 l_1$$",
+      "image": null,
+      "formulas": [
+        "W_1 = F_1 l_1"
+      ],
+      "pdfPageStart": 146,
+      "pdfPageEnd": 146,
+      "printedPageStart": 141,
+      "printedPageEnd": 141,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p085",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "বড় পিস্টনে বলের পরিমাণ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 146,
+      "pdfPageEnd": 146,
+      "printedPageStart": 141,
+      "printedPageEnd": 141,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p086",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$F_2 = F_1 \\left( \\frac{A_2}{A_1} \\right)$$",
+      "image": null,
+      "formulas": [
+        "F_2 = F_1 \\left( \\frac{A_2}{A_1} \\right)"
+      ],
+      "pdfPageStart": 146,
+      "pdfPageEnd": 146,
+      "printedPageStart": 141,
+      "printedPageEnd": 141,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p087",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "যেহেতু ছোট পিস্টন অপসারিত তরলটুকু বড় পিস্টনটুকুকে $l_2$ দূরত্ব ঠেলে নিয়ে যায়, কাজেই",
+      "image": null,
+      "formulas": [
+        "l_2"
+      ],
+      "pdfPageStart": 146,
+      "pdfPageEnd": 146,
+      "printedPageStart": 141,
+      "printedPageEnd": 141,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p088",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$l_1 A_1 = l_2 A_2$$",
+      "image": null,
+      "formulas": [
+        "l_1 A_1 = l_2 A_2"
+      ],
+      "pdfPageStart": 146,
+      "pdfPageEnd": 146,
+      "printedPageStart": 141,
+      "printedPageEnd": 141,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p089",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "বড় পিস্টনে অতিক্রান্ত দূরত্ব:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 146,
+      "pdfPageEnd": 146,
+      "printedPageStart": 141,
+      "printedPageEnd": 141,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p090",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই কাজের পরিমাণ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 147,
+      "pdfPageEnd": 147,
+      "printedPageStart": 142,
+      "printedPageEnd": 142,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p091",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$l_2 = l_1 \\left( \\frac{A_1}{A_2} \\right)$$",
+      "image": null,
+      "formulas": [
+        "l_2 = l_1 \\left( \\frac{A_1}{A_2} \\right)"
+      ],
+      "pdfPageStart": 147,
+      "pdfPageEnd": 147,
+      "printedPageStart": 142,
+      "printedPageEnd": 142,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p092",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$W_2 = F_2 l_2 = F_1 \\left( \\frac{A_2}{A_1} \\right) l_1 \\left( \\frac{A_1}{A_2} \\right) = F_1 l_1$$",
+      "image": null,
+      "formulas": [
+        "W_2 = F_2 l_2 = F_1 \\left( \\frac{A_2}{A_1} \\right) l_1 \\left( \\frac{A_1}{A_2} \\right) = F_1 l_1"
+      ],
+      "pdfPageStart": 147,
+      "pdfPageEnd": 147,
+      "printedPageStart": 142,
+      "printedPageEnd": 142,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.3-p093",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "অর্থাৎ বড় পিস্টনের কাজের পরিমাণ ছোট পিস্টনের কাজের সমান।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 147,
+      "pdfPageEnd": 147,
+      "printedPageStart": 142,
+      "printedPageEnd": 142,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

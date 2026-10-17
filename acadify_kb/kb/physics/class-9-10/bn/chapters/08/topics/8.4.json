@@ -1,0 +1,39 @@
+{
+  "id": "physics-9-10-bn-c08-t8.4",
+  "key": "8.4",
+  "title": "গোলীয় আয়না (Spherical Mirror)",
+  "chapter": 8,
+  "ordinal": 4,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c08-t8.4-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সাধারণ সমতল আয়না আমরা সবাই দেখেছি কিন্তু সত্যিকারের গোলীয় আয়না আমরা সবাই নাও দেখে থাকতে পারি—তবে গোলীয় আয়নার মূল বিষয়টি কিন্তু চকচকে নতুন চামচে অনেকটা দেখা যায়। গোলীয় আয়না দুই রকমের হয়ে থাকে—অবতল এবং উত্তল। একটা ফার্ণি গোলকের খানিকটা কেটে তার পৃষ্ঠে রুপা বা অ্যালুমিনিয়ামের প্রলেপ লাগিয়ে অবতল কিংবা উত্তল গোলীয় আয়না তৈরি করা যায়। কোন পৃষ্ঠে রুপা বা অ্যালুমিনিয়ামের প্রলেপ দেওয়া হবে তার ওপর নির্ভর করবে এই গোলীয় আয়নাটি অবতল না উত্তল গোলীয় আয়না হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 228,
+      "pdfPageEnd": 228,
+      "printedPageStart": 223,
+      "printedPageEnd": 223,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c08-t8.4-p002",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "**চিত্র ৮.১৬: একটি চামচের উল্টো পৃষ্ঠ উত্তল গোলীয় আয়নার মতো।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 228,
+      "pdfPageEnd": 228,
+      "printedPageStart": 223,
+      "printedPageEnd": 223,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

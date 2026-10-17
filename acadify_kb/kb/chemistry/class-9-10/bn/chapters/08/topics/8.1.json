@@ -1,0 +1,958 @@
+{
+  "id": "chemistry-9-10-bn-c08-t8.1",
+  "key": "8.1",
+  "title": "রাসায়নিক শক্তি (Chemical Energy)",
+  "chapter": 8,
+  "ordinal": 1,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p001",
+      "kind": "text",
+      "section": "৮.১.১ রাসায়নিক শক্তির উৎস",
+      "caption": null,
+      "body": "আমরা ইতোমধ্যে জেনেছি যে, পদার্থের মধ্যে অণু ও পরমাণু থাকে। একটি বস্তুরে এ অণু বা পরমাণুগুলো পরস্পরের সাথে যে শক্তির সাহায্যে যুক্ত থাকে তাদেরকে রাসায়নিক শক্তি বলে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p002",
+      "kind": "text",
+      "section": "৮.১.১ রাসায়নিক শক্তির উৎস",
+      "caption": null,
+      "body": "তোমরা এই অধ্যায়ে এসব রাসায়নিক শক্তি সম্পর্কে জানবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p003",
+      "kind": "text",
+      "section": "বন্ধন শক্তি (Bond Energy)",
+      "caption": null,
+      "body": "বস্তু বা যৌগে বন্ধনে আবদ্ধ একটি পরমাণুর সাথে আরেকটি পরমাণু যে আকর্ষণ শক্তির মাধ্যমে যুক্ত থাকে তাকে বন্ধন শক্তি বলে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p004",
+      "kind": "text",
+      "section": "বন্ধন শক্তি (Bond Energy)",
+      "caption": null,
+      "body": "সোডিয়াম ক্লোরাইডে সোডিয়াম আয়ন ও ক্লোরাইড আয়নের মধ্যে আয়নিক বন্ধন বিদ্যমান। কার্বন ডাই-অক্সাইড অণুতে কার্বন ও অক্সিজেনের মধ্যে সমযোজী বন্ধন বিদ্যমান। আবার, একটি লোহার টুকরায় আয়রন পরমাণুসমূহের মধ্যে ধাতব বন্ধন বিদ্যমান। এসব বন্ধনে একটি পরমাণুর সাথে আরেকটি পরমাণু যে আকর্ষণ শক্তির মাধ্যমে যুক্ত থাকে তাকেই বন্ধন শক্তি বলে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p005",
+      "kind": "text",
+      "section": "আন্তঃআণবিক শক্তি",
+      "caption": null,
+      "body": "সমযোজী যৌগের অণুসমূহ একে অপরের সাথে যে আকর্ষণ শক্তির মাধ্যমে যুক্ত থাকে তাকে আন্তঃআণবিক শক্তি (Intermolecular Energy) বলা হয়। যেমন- পানি একটি সমযোজী যৌগ। একটি পানির অণুর সাথে আশপাশের অন্যান্য পানির অণুসমূহ আন্তঃআণবিক আকর্ষণ শক্তির মাধ্যমে যুক্ত থাকে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p006",
+      "kind": "text",
+      "section": "আন্তঃআণবিক শক্তি",
+      "caption": null,
+      "body": "অন্যদিকে, সোডিয়াম ক্লোরাইডের আয়নিক যৌগে একটি সোডিয়াম আয়নের চারদিকে ৬টি ক্লোরাইড আয়ন অবস্থান করে। এখানে একটি সোডিয়াম ও ৬টি ক্লোরাইড আয়নের মধ্যে আকর্ষণ বিদ্যমান থাকে। আবার প্রত্যেকটি ক্লোরাইড আয়নের চারদিকে ৬টি সোডিয়াম আয়ন অবস্থান করে। এখানে প্রত্যেকটি ক্লোরাইড আয়ন ও ৬টি সোডিয়াম আয়নের মধ্যে আকর্ষণ বিদ্যমান থাকে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p007",
+      "kind": "text",
+      "section": "আন্তঃআণবিক শক্তি",
+      "caption": null,
+      "body": "আয়নিক যৌগে আয়নসমূহের মধ্যে যে আকর্ষণ শক্তি থাকে ঐ আকর্ষণ শক্তি সমযোজী যৌগের আন্তঃআণবিক শক্তির চেয়ে বেশি। এজন্য আয়নিক পদার্থের গলনাঙ্ক ও স্ফুটনাঙ্ক সমযোজী পদার্থের গলনাঙ্ক ও স্ফুটনাঙ্ক অপেক্ষা বেশি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p008",
+      "kind": "text",
+      "section": "আন্তঃআণবিক শক্তি",
+      "caption": null,
+      "body": "এজন্য আয়নিক যৌগসমূহ সাধারণত কক্ষ তাপমাত্রায় কঠিন অবস্থায় থাকে আর সমযোজী যৌগসমূহ সাধারণত কক্ষ তাপমাত্রায় তরল বা বায়বীয় অবস্থায় থাকে। তবে অনেক সমযোজী যৌগ আছে যেগুলো কক্ষ তাপমাত্রায় কঠিন অবস্থায় থাকে। যেমন: ন্যাপথলিন।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p009",
+      "kind": "text",
+      "section": "আন্তঃআণবিক শক্তি",
+      "caption": null,
+      "body": "একই মৌলের পরমাণু থেকে উৎপন্ন সমযোজী অণুসমূহের (যেমন– H<sub>2</sub>) আন্তঃআণবিক শক্তির চেয়ে দুইটি ভিন্ন মৌলের পরমাণু দিয়ে গঠিত অণুর (যেমন HCl) আন্তঃআণবিক শক্তি বেশি হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p010",
+      "kind": "text",
+      "section": "রাসায়নিক বিক্রিয়ায় শক্তির রূপান্তর",
+      "caption": null,
+      "body": "প্রত্যেক পদার্থের মধ্যে কিছু না কিছু শক্তি বিদ্যমান থাকে। সপ্তম অধ্যায়ে বিক্রিয়ায় আমরা দেখেছি কোনো কোনো রাসায়নিক বিক্রিয়ায় শক্তি নির্গত হয় আবার কোনো কোনো রাসায়নিক বিক্রিয়ায় শক্তি শোষিত হয়। অর্থাৎ রাসায়নিক বিক্রিয়ায় শক্তির রূপান্তর ঘটে। একটি বিক্রিয়ায় শক্তির রূপান্তর বিভিন্ন রূপে হতে পারে। যেমন– তাপশক্তি, আলোক শক্তি, বিদ্যুৎ শক্তি, শব্দ শক্তি ইত্যাদিতে রূপান্তরিত হতে পারে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p011",
+      "kind": "text",
+      "section": "শক্তি পরিমাপের একক",
+      "caption": null,
+      "body": "পূর্বে শক্তি মাপার জন্য ক্যালরি (Calorie) বা কিলো ক্যালরি (kilo Calorie) একক ব্যবহার করা হতো। ১ গ্রাম পানির তাপমাত্রা ১°C বাড়াতে যে পরিমাণ তাপশক্তি প্রদান করতে হয় তাকে এক ক্যালরি (সংক্ষেপে Cal) বলে। ১ হাজার ক্যালরিকে ১ কিলো ক্যালরি বলে। কিলো ক্যালরিকে সংক্ষেপে kCal দিয়ে প্রকাশ করা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p012",
+      "kind": "text",
+      "section": "শক্তি পরিমাপের একক",
+      "caption": null,
+      "body": "বর্তমানে সকল ধরনের শক্তির একক হিসেবে জুল (Joule) কে আন্তর্জাতিকভাবে গ্রহণ করা হয়েছে। কোনো বস্তুর উপর ১ নিউটন বল প্রয়োগ করলে যদি বলের দিকে ১ মিটার সরণ ঘটে তবে তার জন্য প্রয়োজনীয় কাজকে ১ জুল বলে। একে সংক্ষেপে J দিয়ে প্রকাশ করা হয়। ১ হাজার জুলকে ১ কিলোজুল (kJ) বলে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p013",
+      "kind": "text",
+      "section": "শক্তি পরিমাপের একক",
+      "caption": null,
+      "body": "জুল ও ক্যালোরির সম্পর্ক হচ্ছে: 1 Cal = 4.18 J",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p014",
+      "kind": "text",
+      "section": "৮.১.২ তাপের পরিবর্তনের ভিত্তিতে রাসায়নিক বিক্রিয়ার শ্রেণিবিভাগ",
+      "caption": null,
+      "body": "কিছু কিছু বিক্রিয়া স্বঃতস্ফূর্তভাবে ঘটে আবার কিছু কিছু বিক্রিয়া শক্তি প্রয়োগ করে ঘটেতে হয়। যে সকল বিক্রিয়া স্বঃতস্ফূর্তভাবে ঘটে সেসব বিক্রিয়ায় বিক্রিয়ক উৎপাদে পরিণত হবার সময়ে তাপ উৎপন্ন হয়। তাপের পরিবর্তনের ভিত্তিতে রাসায়নিক বিক্রিয়া দুই ধরনের- (i) তাপোৎপাদী বিক্রিয়া (ii) তাপহারী বিক্রিয়া। তাপোৎপাদী বিক্রিয়ার ক্ষেত্রে $\\Delta H$ এর মান ঋণাত্মক (negative) এবং তাপহারী বিক্রিয়ার ক্ষেত্রে $\\Delta H$ এর মান ধনাত্মক (positive) হয়।",
+      "image": null,
+      "formulas": [
+        "\\Delta H",
+        "\\Delta H"
+      ],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p015",
+      "kind": "text",
+      "section": "৮.১.২ তাপের পরিবর্তনের ভিত্তিতে রাসায়নিক বিক্রিয়ার শ্রেণিবিভাগ",
+      "caption": null,
+      "body": "এখানে H হলো heat content বা বস্তুর ধারণকৃত তাপ।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p016",
+      "kind": "text",
+      "section": "৮.১.২ তাপের পরিবর্তনের ভিত্তিতে রাসায়নিক বিক্রিয়ার শ্রেণিবিভাগ",
+      "caption": null,
+      "body": "একটি পদার্থ একটি নির্দিষ্ট তাপমাত্রায় নির্দিষ্ট পরিমাণ শক্তি ধারণ করে। এই শক্তিকে অভ্যন্তরীণ শক্তিও (Internal Energy) বলে। একটি বিক্রিয়ায় বিক্রিয়কসমূহের মোট অভ্যন্তরীণ শক্তিকে $H_1$ দ্বারা এবং উৎপাদসমূহের মোট অভ্যন্তরীণ শক্তিকে $H_2$ দ্বারা চিহ্নিত করা হলে ঐ বিক্রিয়ার তাপ শক্তির পরিবর্তন-",
+      "image": null,
+      "formulas": [
+        "H_1",
+        "H_2"
+      ],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p017",
+      "kind": "formula",
+      "section": "৮.১.২ তাপের পরিবর্তনের ভিত্তিতে রাসায়নিক বিক্রিয়ার শ্রেণিবিভাগ",
+      "caption": null,
+      "body": "$$\\Delta H = উৎপাদসমূহের মোট অভ্যন্তরীণ শক্তি (H_2) - বিক্রিয়কসমূহের মোট অভ্যন্তরীণ শক্তি (H_1)$$",
+      "image": null,
+      "formulas": [
+        "\\Delta H = উৎপাদসমূহের মোট অভ্যন্তরীণ শক্তি (H_2) - বিক্রিয়কসমূহের মোট অভ্যন্তরীণ শক্তি (H_1)"
+      ],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p018",
+      "kind": "text",
+      "section": "৮.১.২ তাপের পরিবর্তনের ভিত্তিতে রাসায়নিক বিক্রিয়ার শ্রেণিবিভাগ",
+      "caption": null,
+      "body": "তাপোৎপাদী বিক্রিয়ার ক্ষেত্রে বিক্রিয়কসমূহের মোট অভ্যন্তরীণ শক্তি $H_1$ উৎপাদসমূহের মোট অভ্যন্তরীণ শক্তি $H_2$ থেকে বেশি। কাজেই এ বিক্রিয়াতে বিক্রিয়া তাপ বা শক্তির পরিবর্তন $\\Delta H = H_2 - H_1$ এর মান ঋণাত্মক। এইসব বিক্রিয়ায় তাপ নির্গত হয়।",
+      "image": null,
+      "formulas": [
+        "H_1",
+        "H_2",
+        "\\Delta H = H_2 - H_1"
+      ],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p019",
+      "kind": "text",
+      "section": "৮.১.২ তাপের পরিবর্তনের ভিত্তিতে রাসায়নিক বিক্রিয়ার শ্রেণিবিভাগ",
+      "caption": null,
+      "body": "যেমন- কোনো বিক্রিয়ায় বিক্রিয়কসমূহের মোট অভ্যন্তরীণ শক্তি 50 kJ/mol এবং উৎপাদসমূহের মোট অভ্যন্তরীণ শক্তি 20 kJ/mol হলে $\\Delta H = (20 - 50)$ kJ/mol = -30 kJ/mol অর্থাৎ 30kJ/mol তাপ নির্গত হয়।",
+      "image": null,
+      "formulas": [
+        "\\Delta H = (20 - 50)"
+      ],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p020",
+      "kind": "figure",
+      "section": "৮.১.২ তাপের পরিবর্তনের ভিত্তিতে রাসায়নিক বিক্রিয়ার শ্রেণিবিভাগ",
+      "caption": null,
+      "body": "drawing: Diagram showing heat evolution (তাপ উৎপাদন) and heat absorption (তাপ শোষণ)",
+      "image": "p177-page_5_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p021",
+      "kind": "figure",
+      "section": "৮.১.২ তাপের পরিবর্তনের ভিত্তিতে রাসায়নিক বিক্রিয়ার শ্রেণিবিভাগ",
+      "caption": null,
+      "body": "**চিত্র ৮.০১: তাপ উৎপাদন ও তাপ শোষণ**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p022",
+      "kind": "text",
+      "section": "৮.১.২ তাপের পরিবর্তনের ভিত্তিতে রাসায়নিক বিক্রিয়ার শ্রেণিবিভাগ",
+      "caption": null,
+      "body": "আবার, তাপহারা বিক্রিয়ায় ক্ষেত্রে বিক্রিয়কসমূহের মোট অভ্যন্তরীণ শক্তি $H_1$ উৎপাদসমূহের মোট অভ্যন্তরীণ শক্তি $H_2$ থেকে কম। কাজেই এ বিক্রিয়াতে তাপ শক্তির পরিবর্তন $\\Delta H = H_2 - H_1$ এর মান ধনাত্মক। এ ধরনের বিক্রিয়ায় শক্তি প্রয়োগ করা না হলে বিক্রিয়া ঘটে না।",
+      "image": null,
+      "formulas": [
+        "H_1",
+        "H_2",
+        "\\Delta H = H_2 - H_1"
+      ],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p023",
+      "kind": "text",
+      "section": "৮.১.২ তাপের পরিবর্তনের ভিত্তিতে রাসায়নিক বিক্রিয়ার শ্রেণিবিভাগ",
+      "caption": null,
+      "body": "**যেমন:** কোনো বিক্রিয়ায় বিক্রিয়কসমূহের মোট অভ্যন্তরীণ শক্তি 70 kJ/mol এবং উৎপাদসমূহের মোট অভ্যন্তরীণ শক্তি 80 kJ/mol হলে $\\Delta H = (80 - 70)$ kJ/mol = +10 kJ/mol। অর্থাৎ এ ক্ষেত্রে কমপক্ষে 10 kj শক্তি প্রয়োগ করতে হবে। তা না হলে বিক্রিয়া ঘটেবে না।",
+      "image": null,
+      "formulas": [
+        "\\Delta H = (80 - 70)"
+      ],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p024",
+      "kind": "text",
+      "section": "তাপোৎপাদী বিক্রিয়া (Exothermic Reactions)",
+      "caption": null,
+      "body": "যে বিক্রিয়ায় তাপ উৎপন্ন হয় তাকে তাপোৎপাদী বিক্রিয়া বলা হয়। তাপোৎপাদী বিক্রিয়ার সমীকরণ লেখার সময় বিক্রিয়ার ডানপাশে উৎপাদের সাথে + চিহ্ন দিয়ে তাপ লেখা যেতে পারে কিংবা $\\Delta H$ দিয়ে বিক্রিয়ায় উৎপাদিত তাপ প্রকাশ করা যেতে পারে, এ ক্ষেত্রে $\\Delta H$ এর মান ঋণাত্মক হবে। তোমরা দেখেছ, কোনো কিছু রান্না করতে চুলাতে জ্বালানি হিসেবে যে গ্যাস ব্যবহার করি তা পোড়ালে তাপ উৎপন্ন হয়। আবার শুকনা চুন পানিতে যোগ করলে তা গরম হয়ে ওঠে। রান্নার গ্যাসের প্রধান উপাদান হলো মিথেন (CH<sub>4</sub>)। এ গ্যাস পোড়ালে প্রতি 1 মোল মিথেন গ্যাস বাতাসের অক্সিজেনের সাথে বিক্রিয়া করে কার্বন ডাই-অক্সাইড আর পানি উৎপন্ন হয়। সেই সাথে 890 kJ তাপও উৎপন্ন হয়।",
+      "image": null,
+      "formulas": [
+        "\\Delta H",
+        "\\Delta H"
+      ],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p025",
+      "kind": "text",
+      "section": "তাপোৎপাদী বিক্রিয়া (Exothermic Reactions)",
+      "caption": null,
+      "body": "$$CH_4(g) + 2O_2(g) \\longrightarrow CO_2(g) + 2H_2O(g) + 890\\ kJ/mol$$\nমিথেন অক্সিজেন কার্বন ডাই-অক্সাইড জলীয় বাষ্প",
+      "image": null,
+      "formulas": [
+        "CH_4(g) + 2O_2(g) \\longrightarrow CO_2(g) + 2H_2O(g) + 890\\ kJ/mol"
+      ],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p026",
+      "kind": "text",
+      "section": "তাপোৎপাদী বিক্রিয়া (Exothermic Reactions)",
+      "caption": null,
+      "body": "বা",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p027",
+      "kind": "text",
+      "section": "তাপোৎপাদী বিক্রিয়া (Exothermic Reactions)",
+      "caption": null,
+      "body": "$$CH_4(g) + 2O_2(g) \\longrightarrow CO_2(g) + 2H_2O(g) \\ ;\\ \\Delta H = -890\\ kJ/mol$$\nমিথেন অক্সিজেন কার্বন ডাই-অক্সাইড জলীয় বাষ্প",
+      "image": null,
+      "formulas": [
+        "CH_4(g) + 2O_2(g) \\longrightarrow CO_2(g) + 2H_2O(g) \\ ;\\ \\Delta H = -890\\ kJ/mol"
+      ],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p028",
+      "kind": "text",
+      "section": "তাপোৎপাদী বিক্রিয়া (Exothermic Reactions)",
+      "caption": null,
+      "body": "আবার, শুকনা চুন হলো ক্যালসিয়াম অক্সাইড (CaO)। ক্যালসিয়াম অক্সাইডে পানি যোগ করলে ক্যালসিয়াম হাইড্রোক্সাইড Ca(OH)<sub>2</sub> উৎপন্ন হয়। সেই সাথে 63.95 kJ/mol তাপ উৎপন্ন হয়। সেজন্যই এ মিশ্রণ গরম হয়ে ওঠে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p029",
+      "kind": "text",
+      "section": "তাপোৎপাদী বিক্রিয়া (Exothermic Reactions)",
+      "caption": null,
+      "body": "$$CaO(s) + 2H_2O(l) \\longrightarrow Ca(OH)_2(aq) + 63.95\\ kJ/mol$$\nক্যালসিয়াম অক্সাইড পানি ক্যালসিয়াম হাইড্রোক্সাইড",
+      "image": null,
+      "formulas": [
+        "CaO(s) + 2H_2O(l) \\longrightarrow Ca(OH)_2(aq) + 63.95\\ kJ/mol"
+      ],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p030",
+      "kind": "text",
+      "section": "তাপোৎপাদী বিক্রিয়া (Exothermic Reactions)",
+      "caption": null,
+      "body": "বা",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p031",
+      "kind": "text",
+      "section": "তাপোৎপাদী বিক্রিয়া (Exothermic Reactions)",
+      "caption": null,
+      "body": "$$CaO(s) + 2H_2O(l) \\longrightarrow Ca(OH)_2(aq) \\ ;\\ \\Delta H = -63.95\\ kJ/mol$$\nক্যালসিয়াম অক্সাইড পানি ক্যালসিয়াম হাইড্রোক্সাইড",
+      "image": null,
+      "formulas": [
+        "CaO(s) + 2H_2O(l) \\longrightarrow Ca(OH)_2(aq) \\ ;\\ \\Delta H = -63.95\\ kJ/mol"
+      ],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p032",
+      "kind": "text",
+      "section": "তাপোৎপাদী বিক্রিয়া (Exothermic Reactions)",
+      "caption": null,
+      "body": "উপরের দুটি উদাহরণেই বিক্রিয়কের অভ্যন্তরীণ শক্তি উৎপাদের অভ্যন্তরীণ শক্তি থেকে বেশি। তাই বিক্রিয়ক যখন উৎপাদে পরিণত হয় তখন অতিরিক্ত শক্তিটুকু তাপশক্তি আকারে নির্গত হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p033",
+      "kind": "figure",
+      "section": "তাপহারী বিক্রিয়া (Endothermic Reactions)",
+      "caption": null,
+      "body": "drawing: Illustration of a pot on a stove with a spoon stirring, labeled 'বিনুকের খোলস'",
+      "image": "p178-page_6_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p034",
+      "kind": "text",
+      "section": "তাপহারী বিক্রিয়া (Endothermic Reactions)",
+      "caption": null,
+      "body": "চিত্র ৮.০২: বিনুকের খোলস থেকে চুন তৈরি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p035",
+      "kind": "text",
+      "section": "তাপহারী বিক্রিয়া (Endothermic Reactions)",
+      "caption": null,
+      "body": "তাপ প্রদান করে যে বিক্রিয়া ঘটেনো হয় সেই বিক্রিয়াকে তাপহারী বিক্রিয়া বলা হয়। তাপহারী বিক্রিয়াকে তাপশোষী বিক্রিয়াও বলা হয়। তাপহারী বিক্রিয়ার সমীকরণ লেখার সময় বিক্রিয়ার বামপাশে বিক্রিয়কের সাথে + চিহ্ন দিয়ে তাপ লেখা যেতে পারে। কিন্তু $\\Delta H$ দিয়ে লিখলে $\\Delta H$ এর মান ধনাত্মক হবে। গ্রামে শামুক বা বিনুকের খোলস থেকে চুন তৈরি করা হয়। অনেকগুলো শামুক বা বিনুকের খোলস একসাথে জড়ো করে আগুন জ্বালিয়ে সেগুলোকে উত্তপ্ত করা হয়। এতে খোলসগুলো থেকে চুন তৈরি হয়। আসলে বিনুক বা শামুকের খোলসগুলোতে প্রায় ৯৪% ক্যালসিয়াম কার্বনেট (CaCO<sub>3</sub>) থাকে। আগুনের তাপে এ ক্যালসিয়াম কার্বনেট ভেঙে গিয়ে ক্যালসিয়াম অক্সাইড এবং কার্বন ডাই-অক্সাইড তৈরি হয়। ক্যালসিয়াম অক্সাইড হচ্ছে চুন, সেটি পড়ে থাকে আর কার্বন ডাই-অক্সাইড বাতাসের সাথে মিশে যায়।",
+      "image": null,
+      "formulas": [
+        "\\Delta H",
+        "\\Delta H"
+      ],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 179,
+      "printedPageStart": 173,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p036",
+      "kind": "formula",
+      "section": "তাপহারী বিক্রিয়া (Endothermic Reactions)",
+      "caption": null,
+      "body": "$$CaCO_3(s) + 176.8  kJ/mole \\longrightarrow CaO(s) + CO_2(g)$$",
+      "image": null,
+      "formulas": [
+        "CaCO_3(s) + 176.8  kJ/mole \\longrightarrow CaO(s) + CO_2(g)"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p037",
+      "kind": "text",
+      "section": "তাপহারী বিক্রিয়া (Endothermic Reactions)",
+      "caption": null,
+      "body": "ক্যালসিয়াম কার্বনেট                      ক্যালসিয়াম অক্সাইড      কার্বন ডাই-অক্সাইড",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p038",
+      "kind": "text",
+      "section": "তাপহারী বিক্রিয়া (Endothermic Reactions)",
+      "caption": null,
+      "body": "বা",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p039",
+      "kind": "formula",
+      "section": "তাপহারী বিক্রিয়া (Endothermic Reactions)",
+      "caption": null,
+      "body": "$$CaCO_3(s) \\longrightarrow CaO(s) + CO_2(g) \\quad ; \\quad \\Delta H = 176.8  kJ/mole$$",
+      "image": null,
+      "formulas": [
+        "CaCO_3(s) \\longrightarrow CaO(s) + CO_2(g) \\quad ; \\quad \\Delta H = 176.8  kJ/mole"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p040",
+      "kind": "text",
+      "section": "তাপহারী বিক্রিয়া (Endothermic Reactions)",
+      "caption": null,
+      "body": "ক্যালসিয়াম কার্বনেট                      ক্যালসিয়াম অক্সাইড      কার্বন ডাই-অক্সাইড",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p041",
+      "kind": "text",
+      "section": "৮.১.৩ বন্ধন শক্তি হিসাব করে রাসায়নিক বিক্রিয়ায় তাপের পরিবর্তনের হিসাব",
+      "caption": null,
+      "body": "রাসায়নিক বিক্রিয়ায় তাপের পরিবর্তন বা $\\Delta H$ এর মান দুইভাবে হিসাব করা হয়। (১) অভ্যন্তরীণ শক্তি ব্যবহার করে এবং (২) বন্ধন শক্তি ব্যবহার করে।",
+      "image": null,
+      "formulas": [
+        "\\Delta H"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p042",
+      "kind": "text",
+      "section": "৮.১.৩ বন্ধন শক্তি হিসাব করে রাসায়নিক বিক্রিয়ায় তাপের পরিবর্তনের হিসাব",
+      "caption": null,
+      "body": "যদি অভ্যন্তরীণ শক্তি ব্যবহার করা হয় তাহলে উৎপাদসমূহের মোট অভ্যন্তরীণ শক্তি থেকে বিক্রিয়কসমূহের মোট অভ্যন্তরীণ শক্তি বাদ দিয়ে $\\Delta H$ এর মান হিসাব করা হয়। আর যদি বন্ধন শক্তি ব্যবহার করা হয় তাহলে বিক্রিয়কসমূহের মোট বন্ধন শক্তি থেকে উৎপাদসমূহের মোট বন্ধন শক্তি বাদ দিয়ে $\\Delta H$ এর মান হিসাব করা হয়। যেভাবে হিসাব করা হউক না কেন, বিক্রিয়ার $\\Delta H$ এর মান একই থাকে।",
+      "image": null,
+      "formulas": [
+        "\\Delta H",
+        "\\Delta H",
+        "\\Delta H"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p043",
+      "kind": "text",
+      "section": "৮.১.৩ বন্ধন শক্তি হিসাব করে রাসায়নিক বিক্রিয়ায় তাপের পরিবর্তনের হিসাব",
+      "caption": null,
+      "body": "একটি যৌগের যেকোনো দুইটি পরমাণুর মধ্যকার বন্ধন ভেঙে পরমাণু দুটিকে আলাদা করতে যে শক্তি দিতে হয় তাকে বন্ধন শক্তি বলে। আবার কোনো যৌগের যেকোনো দুইটি পরমাণুর মধ্যে বন্ধন তৈরি হলে যে শক্তি নির্গত হয় তাকেও বন্ধন শক্তি বলে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p044",
+      "kind": "text",
+      "section": "৮.১.৩ বন্ধন শক্তি হিসাব করে রাসায়নিক বিক্রিয়ায় তাপের পরিবর্তনের হিসাব",
+      "caption": null,
+      "body": "রাসায়নিক বিক্রিয়া সম্পন্ন হওয়ার সময় বিক্রিয়কগুলোর মধ্যে যে বন্ধনগুলো আছে সেই বন্ধনগুলো ভেঙে যায় এবং উৎপাদগুলোর মধ্যে নতুন নতুন বন্ধন তৈরি হয়। বিক্রিয়কগুলোর বন্ধন ভাঙার জন্য শক্তি দিতে হয় এবং উৎপাদগুলোর বন্ধন তৈরি হলে শক্তি নির্গত হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p045",
+      "kind": "text",
+      "section": "৮.১.৩ বন্ধন শক্তি হিসাব করে রাসায়নিক বিক্রিয়ায় তাপের পরিবর্তনের হিসাব",
+      "caption": null,
+      "body": "যেকোনো বিক্রিয়ায় বিক্রিয়কগুলোর মোট বন্ধন শক্তিকে $B_1$ দিয়ে এবং উৎপাদসমূহের মোট বন্ধন শক্তিকে $B_2$ দিয়ে চিহ্নিত করা হলে ঐ বিক্রিয়ার তাপ শক্তির পরিবর্তন:",
+      "image": null,
+      "formulas": [
+        "B_1",
+        "B_2"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p046",
+      "kind": "formula",
+      "section": "৮.১.৩ বন্ধন শক্তি হিসাব করে রাসায়নিক বিক্রিয়ায় তাপের পরিবর্তনের হিসাব",
+      "caption": null,
+      "body": "$$\\begin{aligned}\n\\Delta H &= বিক্রিয়কগুলোর মোট বন্ধন শক্তি  B_1 - উৎপাদগুলোর মোট বন্ধন শক্তি  B_2 \\\\\n&= (বিক্রিয়কগুলোর বন্ধন ভাঙার জন্য দেওয়া মোট শক্তি  B_1) \\\\\n&- (উৎপাদনগুলোর বন্ধন তৈরি হওয়ার জন্য নির্গত হওয়া মোট শক্তি  B_2)\n\\end{aligned}$$",
+      "image": null,
+      "formulas": [
+        "\\begin{aligned}\n\\Delta H &= বিক্রিয়কগুলোর মোট বন্ধন শক্তি  B_1 - উৎপাদগুলোর মোট বন্ধন শক্তি  B_2 \\\\\n&= (বিক্রিয়কগুলোর বন্ধন ভাঙার জন্য দেওয়া মোট শক্তি  B_1) \\\\\n&- (উৎপাদনগুলোর বন্ধন তৈরি হওয়ার জন্য নির্গত হওয়া মোট শক্তি  B_2)\n\\end{aligned}"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p047",
+      "kind": "text",
+      "section": "৮.১.৩ বন্ধন শক্তি হিসাব করে রাসায়নিক বিক্রিয়ায় তাপের পরিবর্তনের হিসাব",
+      "caption": null,
+      "body": "তাপ উৎপাদী বিক্রিয়ার ক্ষেত্রে $B_1$ এর মান $B_2$ থেকে কম। এজন্য তাপ উৎপাদী বিক্রিয়ার ক্ষেত্রে $\\Delta H$ এর মান ঋণাত্মক। অন্যদিকে তাপহারা বিক্রিয়ার ক্ষেত্রে $B_1$ এর মান $B_2$ থেকে বেশি। এজন্য তাপহারা বিক্রিয়ার ক্ষেত্রে $\\Delta H$ এর মান ধনাত্মক। নিচের তালিকায় কিছু বন্ধনের বন্ধন শক্তি উপস্থাপন করা হলো।",
+      "image": null,
+      "formulas": [
+        "B_1",
+        "B_2",
+        "\\Delta H",
+        "B_1",
+        "B_2",
+        "\\Delta H"
+      ],
+      "pdfPageStart": 180,
+      "pdfPageEnd": 180,
+      "printedPageStart": 175,
+      "printedPageEnd": 175,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p048",
+      "kind": "table",
+      "section": "৮.১.৩ বন্ধন শক্তি হিসাব করে রাসায়নিক বিক্রিয়ায় তাপের পরিবর্তনের হিসাব",
+      "caption": "টেবিল ৮.০১: বন্ধন এবং বন্ধন শক্তি",
+      "body": "<table><tr><th>বন্ধন</th><th>বন্ধন শক্তি<br />(কিলোজুল/মোল)</th></tr>\n<tr><td>C-H</td><td>414</td></tr>\n<tr><td>C-Cl</td><td>326</td></tr>\n<tr><td>C-C</td><td>344</td></tr>\n<tr><td>C=C</td><td>615</td></tr>\n<tr><td>N≡N</td><td>946</td></tr>\n<tr><td>Br-Br</td><td>193</td></tr>\n<tr><td>O-O</td><td>143</td></tr>\n<tr><td>H-Cl</td><td>431</td></tr>\n<tr><td>H-I</td><td>299</td></tr>\n<tr><td>C=O</td><td>724</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 180,
+      "pdfPageEnd": 180,
+      "printedPageStart": 175,
+      "printedPageEnd": 175,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p049",
+      "kind": "table",
+      "section": "৮.১.৩ বন্ধন শক্তি হিসাব করে রাসায়নিক বিক্রিয়ায় তাপের পরিবর্তনের হিসাব",
+      "caption": null,
+      "body": "<table><tr><th>বন্ধন</th><th>বন্ধন শক্তি<br />(কিলোজুল/মোল)</th></tr>\n<tr><td>N-H</td><td>391</td></tr>\n<tr><td>O-H</td><td>464</td></tr>\n<tr><td>O=O</td><td>498</td></tr>\n<tr><td>C≡C</td><td>812</td></tr>\n<tr><td>Cl-Cl</td><td>244</td></tr>\n<tr><td>I-I</td><td>151</td></tr>\n<tr><td>H-H</td><td>436</td></tr>\n<tr><td>H-Br</td><td>366</td></tr>\n<tr><td>H-F</td><td>563</td></tr>\n<tr><td>C-O</td><td>350</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 180,
+      "pdfPageEnd": 180,
+      "printedPageStart": 175,
+      "printedPageEnd": 175,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p050",
+      "kind": "text",
+      "section": "৮.১.৩ বন্ধন শক্তি হিসাব করে রাসায়নিক বিক্রিয়ায় তাপের পরিবর্তনের হিসাব",
+      "caption": null,
+      "body": "8.01 তালিকা থেকে দেখা যায়, O=O এর বন্ধন শক্তি 498 কিলোজুল/মোল। এ তথ্য থেকে বোঝা যায় 1 মোল O=O বন্ধনকে ভাঙতে 498 কিলোজুল তাপ দিতে হয়। অথবা অন্যভাবে বলা যায় 1 মোল O=O বন্ধন তৈরি হতে 498 কিলোজুল তাপ নির্গত হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 180,
+      "pdfPageEnd": 180,
+      "printedPageStart": 175,
+      "printedPageEnd": 175,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p051",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**সমস্যা:** $CH_4 + Cl_2 \\rightarrow CH_3Cl + HCl$ বিক্রিয়ার বিক্রিয়া তাপের পরিবর্তন ($\\Delta H$) হিসাব করো।",
+      "image": null,
+      "formulas": [
+        "CH_4 + Cl_2 \\rightarrow CH_3Cl + HCl",
+        "\\Delta H"
+      ],
+      "pdfPageStart": 180,
+      "pdfPageEnd": 180,
+      "printedPageStart": 175,
+      "printedPageEnd": 175,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p052",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "দেওয়া আছে, C-H বন্ধন শক্তি 414 কিলোজুল/মোল, C-Cl বন্ধন শক্তি 326 কিলোজুল/মোল, Cl-Cl বন্ধন শক্তি 244 কিলোজুল/মোল, H-Cl বন্ধন শক্তি 431 কিলোজুল/মোল।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 180,
+      "pdfPageEnd": 180,
+      "printedPageStart": 175,
+      "printedPageEnd": 175,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p053",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**সমাধান:** $CH_4 + Cl_2 \\rightarrow CH_3Cl + HCl$ এই বিক্রিয়ায় বিক্রিয়কগুলোর এক মোল C-H বন্ধন ও এক মোল Cl-Cl বন্ধন ভেঙেছে এবং উৎপাদসমূহের এক মোল C-Cl বন্ধন ও এক মোল H-Cl বন্ধন তৈরি হয়েছে।",
+      "image": null,
+      "formulas": [
+        "CH_4 + Cl_2 \\rightarrow CH_3Cl + HCl"
+      ],
+      "pdfPageStart": 180,
+      "pdfPageEnd": 180,
+      "printedPageStart": 175,
+      "printedPageEnd": 175,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p054",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই, বিক্রিয়কগুলোর বন্ধন ভাঙার জন্য প্রদত্ত মোট শক্তি = (414 + 244) kJ = 658 kJ\nউৎপাদগুলোর বন্ধন তৈরি হতে নির্গত মোট শক্তি = (326 + 431) kJ = 757 kJ\nকাজেই বিক্রিয়া তাপের পরিবর্তন, $\\Delta H = (658 - 757)  kJ = -99  kJ$",
+      "image": null,
+      "formulas": [
+        "\\Delta H = (658 - 757)  kJ = -99  kJ"
+      ],
+      "pdfPageStart": 181,
+      "pdfPageEnd": 181,
+      "printedPageStart": 176,
+      "printedPageEnd": 176,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.1-p055",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "যেহেতু $\\Delta H$ এর মান ঋণাত্মক সেহেতু এটি তাপ উৎপাদী বিক্রিয়া। এই বিক্রিয়ায় 99 কিলোজুল/মোল তাপ উৎপন্ন হয়।",
+      "image": null,
+      "formulas": [
+        "\\Delta H"
+      ],
+      "pdfPageStart": 181,
+      "pdfPageEnd": 181,
+      "printedPageStart": 176,
+      "printedPageEnd": 176,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

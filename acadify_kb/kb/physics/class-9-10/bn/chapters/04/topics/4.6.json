@@ -1,0 +1,155 @@
+{
+  "id": "physics-9-10-bn-c04-t4.6",
+  "key": "4.6",
+  "title": "ভর ও শক্তির সম্পর্ক (Relation between mass and energy)",
+  "chapter": 4,
+  "ordinal": 6,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c04-t4.6-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তোমরা জানো, বিজ্ঞানী আইনস্টাইনের থিওরি অব রিলেটিভিটিতে বলা হয়েছে যে বস্তুর ভর আর শক্তি একই ব্যাপার; এবং ভর $m$ কে যদি শক্তিতে রূপান্তর করা যায় তাহলে সেই শক্তি $E$ এবং এর পরিমাণ হচ্ছে $E = mc^2$, যেখানে $c$ হচ্ছে আলোর বেগ। আলোর বেগ ($3 \\times 10^8$ m/s) অনেক বেশী। সেটাকে বর্গ করা হলে আরো বড় হয়ে যায়। যার অর্থ অল্প একটু ভরকে শক্তিতে রূপান্তর করতে পারলে আমরা অনেক বেশি শক্তি পেয়ে যাব, নিউক্লিয়ার শক্তিকেন্দ্রে ঠিক এই ব্যাপারটিই ঘটে।",
+      "image": null,
+      "formulas": [
+        "m",
+        "E",
+        "E = mc^2",
+        "c",
+        "3 \\times 10^8"
+      ],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.6-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "নিউক্লিয়ার শক্তিকেন্দ্রে যেসব জ্বালানি ব্যবহার করা হয়, তার একটি হচ্ছে ইউরেনিয়াম 235। এখানে 92টি প্রোটন এবং 143টি নিউট্রন রয়েছে। প্রকৃতিতে এর পরিমাণ খুব কম। প্রাকৃতিক ইউরোনিয়ামের মাত্র 0.7% এর অর্ধায়ু 703,800,000 (704 মিলিয়ন) বছর। এই ইউরেনিয়াম 235 নিউক্লিয়াস খুব সহজেই আরেকটা নিউট্রনকে গ্রহণ করতে পারে (যদি সে নিউট্রনের গতি কম হয়) তখন ইউরেনিয়াম 235 পুরোপুরি অস্থিতিশীল হয়ে যায়, এটা তখন $^{92}_{36}Kr$ এবং $^{141}_{56}Ba$ এই দুটো ছোট নিউক্লিয়াসে ভাগ হয়ে যায়। তার সাথে সাথে আরো তিনটা নিউট্রন বের হয়ে আসে (চিত্র ৪.০৬) যেটা নিচের সমীকরণে দেখানো হয়েছে।",
+      "image": null,
+      "formulas": [
+        "^{92}_{36}Kr",
+        "^{141}_{56}Ba"
+      ],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.6-p003",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$^{1}_{0}n + ^{235}_{92}U \\rightarrow ^{92}_{36}Kr + ^{141}_{56}Ba + 3^{1}_{0}n$$",
+      "image": null,
+      "formulas": [
+        "^{1}_{0}n + ^{235}_{92}U \\rightarrow ^{92}_{36}Kr + ^{141}_{56}Ba + 3^{1}_{0}n"
+      ],
+      "pdfPageStart": 123,
+      "pdfPageEnd": 123,
+      "printedPageStart": 118,
+      "printedPageEnd": 118,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.6-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কেউ যদি সমীকরণের বাম পাশে যা আছে তার ভর বের করে এবং সেটাকে ডান পাশে যা আছে তার ভরের সাথে তুলনা করে তাহলে দেখবে ডান পাশে ভর কম, যেটুকু ভর কম সেটুকু আসলে $E = mc^2$ সমীকরণ অনুসারে শক্তি হিসেবে বের হয়ে এসেছে!",
+      "image": null,
+      "formulas": [
+        "E = mc^2"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.6-p005",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: diagram of nuclear fission showing U-235 splitting into Ba-141 and Kr-92 with neutrons",
+      "image": "p124-page_22_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.6-p006",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "**চিত্র ৪.০৬: নিউক্লিয়ার বিক্রিয়ায় শক্তি উৎপাদন।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.6-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এই বিক্রিয়ায় যে তিনটি নিউট্রন বের হয়ে এসেছে, তারা আসলে প্রচণ্ড গতিতে বের হয়ে আসে, তাই খুব সহজে অন্য ইউরেনিয়াম ($^{235}_{92}U$) সেগুলো ধরে রাখতে পারে না। কোনোভাবে যদি এগুলোর গতিশক্তি কমানো যায়, তাহলে সেগুলো অন্য ইউরেনিয়াম ($^{235}_{92}U$) নিউক্লিয়াসে আটকা পড়ে সেটাকেও ভেঙে দিয়ে আরো কিছু শক্তি এবং আরো তিনটি নতুন নিউট্রন বের করবে। নিউক্লিয়ার শক্তিকেদে এই কাজটি করা হয়, তাই বের হয়ে আসা নিউট্রনগুলোর গতি কমে আসার পর সেগুলো আবার অন্য নিউক্লিয়াসকে ভেঙে দেয় এবং এভাবে চলতেই থাকে। এই প্রক্রিয়াকে বলে চেইন রি-অ্যাকশন (Chain Reaction)।",
+      "image": null,
+      "formulas": [
+        "^{235}_{92}U",
+        "^{235}_{92}U"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.6-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এই পদ্ধতিতে প্রচণ্ড তাপশক্তি বের হয়ে আসে, সেই তাপশক্তি ব্যবহার করে পানিকে বাষ্পীভূত করে সেই বাষ্প দিয়ে টারবাইন ঘুরিয়ে জেনারেটর থেকে বিদ্যুৎ তৈরি করা হয় এবং এ রকম বিদ্যুৎকেন্দ্রকে আমরা বলি নিউক্লিয়ার বিদ্যুৎকেন্দ্র! এরকম একটা বিদ্যুৎকেন্দ্র থেকে খুব সহজেই হাজার মেগাওয়াট বিদ্যুৎ পাওয়া সম্ভব। তবে এই নিউক্লিয়ার বিক্রিয়ার পর যে বর্জ্য পদার্থ তৈরি হয় সেগুলো ভয়ংকর রকম তেজস্ক্রিয়, তাই সেগুলো প্রক্রিয়া করার সময় অনেক রকম সাবধানতা নিতে হয়। নিউক্লিয়ার বিক্রিয়ার পর যে বাড়তি নিউট্রন বের হয় কোনোভাবে সেগুলোকে অন্য কোথাও শোষণ করিয়ে নিতে পারলেই নিউক্লিয়ার বিক্রিয়া বন্ধ হয়ে যায়। নিউট্রনকে শোষণ করার জন্য বিশেষ ধরনের রড নিউক্লিয়ার রি-অ্যাক্ট্রির থাকে যেগুলোকে বলে কন্ট্রোল রড। সেগুলো দিয়ে নিউক্লিয়ার রি-অ্যাক্ট্রিকে নিয়ন্ত্রণ করা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

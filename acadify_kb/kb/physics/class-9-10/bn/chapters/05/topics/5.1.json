@@ -1,0 +1,312 @@
+{
+  "id": "physics-9-10-bn-c05-t5.1",
+  "key": "5.1",
+  "title": "চাপ (Pressure)",
+  "chapter": 5,
+  "ordinal": 1,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c05-t5.1-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা আমাদের দৈনন্দিন কথাবার্তায় চাপ শব্দটা নানাভাবে ব্যবহার করলেও পদার্থবিজ্ঞানে চাপ শব্দটার একটা সুনির্দিষ্ট অর্থ রয়েছে। আমরা আগের অধ্যায়গুলোতে নানা সময় নানা ধরনের বল প্রয়োগ করার কথা বলেছি, তবে বলটি ঠিক কীভাবে প্রয়োগ করা হবে, সেটি বলা হয়নি। যেমন—তুমি একটা পাথরকে এক হাতে ঠেলতে পারো, দুই হাতে ঠেলতে পারো কিংবা তোমার সারা শরীর দিয়ে ঠেলতে পারো (চিত্র ৫.০১)। প্রতেকবীর তুমি সমান পরিমাণ বল প্রয়োগ করলেও চাপ কিন্তু হবে ভিন্ন। প্রথম ক্ষেত্রে তুমি তোমার হাতের তালুর ক্ষেত্রফলের ভেতর দিয়ে বল প্রয়োগ করেছ, যদি তোমার প্রয়োগ করা বল হয় $F$ এবং হাতের তালুর ক্ষেত্রফল হয় $A$ তাহলে চাপ $P$ হচ্ছে",
+      "image": null,
+      "formulas": [
+        "F",
+        "A",
+        "P"
+      ],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.1-p002",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$P = \\frac{F}{A}$$",
+      "image": null,
+      "formulas": [
+        "P = \\frac{F}{A}"
+      ],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.1-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "চাপের একক $\\frac{N}{m^2}$ অথবা $Pa$ (প্যাসকেল)\nচাপের মাত্রা $[P] = ML^{-1}T^{-2}$",
+      "image": null,
+      "formulas": [
+        "\\frac{N}{m^2}",
+        "Pa",
+        "[P] = ML^{-1}T^{-2}"
+      ],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.1-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কাজেই দ্বিতীয় ক্ষেত্রে দুই হাত ব্যবহার করায় বল প্রয়োগকারী ক্ষেত্রফল দ্বিগুণ বেড়ে যাবে বলে চাপ অর্ধেক হয়ে যাবে, তৃতীয় ক্ষেত্রে সারা শরীর ব্যবহার করে বল প্রয়োগ করায় বল প্রয়োগকারী ক্ষেত্রফল আরো বেড়ে যাবে; তাই চাপ আরো কমে যাবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.1-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বল একটি ভেক্টর, তাই তোমাদের ধারণা হতে পারে চাপ $P$ বৃদ্ধি ভেক্টর! কিন্তু মজার ব্যাপার হচ্ছে চাপ $P$ কিন্তু একটা স্কেলার রাশি এবং আমরা যদি সঠিকভাবে লিখতে চাই তাহলে এটি লেখা উচিত এভাবে:",
+      "image": null,
+      "formulas": [
+        "P",
+        "P"
+      ],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.1-p006",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: Illustration of a person pushing a large rock with increasing effort",
+      "image": "p134-page_3_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.1-p007",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "**চিত্র ৫.০১: কতটুকু জায়গায় বল প্রয়োগ করা হচ্ছে তার উপরে চাপ নির্ভর করে।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.1-p008",
+      "kind": "text",
+      "section": "$F = PA$",
+      "caption": null,
+      "body": "অর্থাৎ স্ক্রেন্টফলকেই ভেক্টর হিসেবে ধরা হয়! ভেক্টরের পরিমাণ আর দিক থাকতে হয়, স্ক্রেন্টফলের পরিমাণটুকু হচ্ছে ভেক্টরের পরিমাণ, বক্রতলে স্ক্রেন্টফলের উপর বাইরের লম্ব হচ্ছে ভেক্টরের দিক।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 135,
+      "pdfPageEnd": 135,
+      "printedPageStart": 130,
+      "printedPageEnd": 130,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.1-p009",
+      "kind": "text",
+      "section": "$F = PA$",
+      "caption": null,
+      "body": "চাপ স্কেলার হওয়ার কারণে এর কোনো দিক নেই। এটি খুবই প্রয়োজনীয়; কারণ চাপ ধারণাটি কঠিন পদার্থ থেকে অনেক বেশি প্রয়োজনীয় তরল কিংবা বায়বীয় পদার্থে। তরল বা বায়বীয় পদার্থ যখন চাপ প্রয়োগ করে তখন আসলে সেটি দিকের উপর নির্ভর করে না। এই বিষয়টি আমরা একটু পরেই দেখব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 135,
+      "pdfPageEnd": 135,
+      "printedPageStart": 130,
+      "printedPageEnd": 130,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.1-p010",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** ধরা যাক তোমার ভর 50 kg, তোমার শরীরের পিঠের দিকের স্ক্রেন্টফল 0.5 m<sup>2</sup> এবং দুই পায়ের তলার স্ক্রেন্টফল 0.03 m<sup>2</sup>। তুমি চিত্র হয়ে শুয়ে থাকলে মেঝেতে কত চাপ প্রয়োগ করবে এবং দাঁড়িয়ে থাকলে মেঝেতে কত চাপ প্রয়োগ করবে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 135,
+      "pdfPageEnd": 135,
+      "printedPageStart": 130,
+      "printedPageEnd": 130,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.1-p011",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** ভর 50 kg কাজেই ওজন $50 \\times 9.8  N = 490  N$",
+      "image": null,
+      "formulas": [
+        "50 \\times 9.8  N = 490  N"
+      ],
+      "pdfPageStart": 135,
+      "pdfPageEnd": 135,
+      "printedPageStart": 130,
+      "printedPageEnd": 130,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.1-p012",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "যখন শুয়ে থাকো তখন চাপ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 135,
+      "pdfPageEnd": 135,
+      "printedPageStart": 130,
+      "printedPageEnd": 130,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.1-p013",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$P = \\frac{490  N}{0.5  m^2} = 980 \\frac{N}{m^2}$$",
+      "image": null,
+      "formulas": [
+        "P = \\frac{490  N}{0.5  m^2} = 980 \\frac{N}{m^2}"
+      ],
+      "pdfPageStart": 135,
+      "pdfPageEnd": 135,
+      "printedPageStart": 130,
+      "printedPageEnd": 130,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.1-p014",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "যখন দাঁড়িয়ে থাকো তখন চাপ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 135,
+      "pdfPageEnd": 135,
+      "printedPageStart": 130,
+      "printedPageEnd": 130,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.1-p015",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$P = \\frac{490  N}{0.03  m^2} = 16,333 \\frac{N}{m^2}$$",
+      "image": null,
+      "formulas": [
+        "P = \\frac{490  N}{0.03  m^2} = 16,333 \\frac{N}{m^2}"
+      ],
+      "pdfPageStart": 135,
+      "pdfPageEnd": 135,
+      "printedPageStart": 130,
+      "printedPageEnd": 130,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.1-p016",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "দেখতেই পাচ্ছ শুয়ে পড়লে অনেক কম চাপ দেওয়া হয়। এ জন্য মানুষ যখন চোরাবালিতে পড়ে, তখন নিজেকে বাঁচানোর জন্য সব সময় শুয়ে পড়তে হয় যেন সে অনেক কম চাপ দেয় এবং চোরাবালিতে সহজে ভুবে না যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 135,
+      "pdfPageEnd": 135,
+      "printedPageStart": 130,
+      "printedPageEnd": 130,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.1-p017",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "আবার এর উল্টোটাও সত্যি, বল প্রয়োগ করার অংশটুকুর স্ক্রেন্টফল যদি কম হয়, তাহলে চাপ বেড়ে যায়। একটি পেরেকের সুচালো মুখের স্ক্রেন্টফল খুবই কম তাই এটি যখন কাঠ বা দেয়ালে স্পর্শ করে পেছনের চওড়া মাথায় হাতুড়ি দিয়ে আঘাত করা হয়, তখন বলটি সুচালো মাথা দিয়ে কাঠ বা দেয়ালে চাপ দেয়। সুচালো মাথার স্ক্রেন্টফল যেহেতু খুবই কম তাই চাপটি খুবই বেশি এবং অনায়াসে পেরেক কাঠ বা দেয়ালে ঢুকে যেতে পারে। ছুরির বেলাতোও এই কথাটি সত্যি। তার ধারালো মাথা খুব তীক্ষ্ণ বলে সেই মাথা দিয়ে কোনো কিছুতে অনেক চাপ দিতে পারে এবং সহজেই সেটিকে কেটে ফেলা সম্ভব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 135,
+      "pdfPageEnd": 135,
+      "printedPageStart": 130,
+      "printedPageEnd": 130,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c05-t5.1-p018",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "চাপের এককের আরেকটি নাম প্যাসকেল (Pa), 1 N বল 1 m<sup>2</sup> ক্ষেত্রফলের উপর প্রয়োগ করলে 1 Pa (1 প্যাসকেল) চাপ প্রয়োগ করা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

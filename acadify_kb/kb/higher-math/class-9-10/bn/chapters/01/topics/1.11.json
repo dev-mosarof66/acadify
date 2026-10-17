@@ -1,0 +1,60 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.11",
+  "key": "1.11",
+  "title": "ভেনচিত্র (Venn Diagram)",
+  "chapter": 1,
+  "ordinal": 11,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.11-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সেটসংক্রান্ত তথ্যাদি অনেক সময় চিত্রে প্রকাশ করা সুবিধাজনক। উদ্ভাবক John Venn (১৮৩৪ - ১৯২৩) এর নামানুসারে এরূপ চিত্রকে ভেনচিত্র বলা হয়। গণিত বইতে এ সম্বর্কে বিশদ আলোচনা করা হয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 10,
+      "pdfPageEnd": 10,
+      "printedPageStart": 5,
+      "printedPageEnd": 5,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.11-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৭.** সার্বিক সেট $U$ এর সাপেক্ষে $A$ সেট এর পূরক সেট $A'$ এর চিত্ররূপ:",
+      "image": null,
+      "formulas": [
+        "U",
+        "A",
+        "A'"
+      ],
+      "pdfPageStart": 10,
+      "pdfPageEnd": 10,
+      "printedPageStart": 5,
+      "printedPageEnd": 5,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.11-p003",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: Venn diagram showing a universal set U containing a set A and its complement A'",
+      "image": "p10-page_5_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 10,
+      "pdfPageEnd": 10,
+      "printedPageStart": 5,
+      "printedPageEnd": 5,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

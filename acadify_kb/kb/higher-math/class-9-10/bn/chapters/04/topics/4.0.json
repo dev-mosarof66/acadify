@@ -1,0 +1,1945 @@
+{
+  "id": "higher-math-9-10-bn-c04-t4.0",
+  "key": "4.0",
+  "title": "ভূমিকা ও শিখনফল",
+  "chapter": 4,
+  "ordinal": 0,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কম্পাস ও রুলার ব্যবহার করে দেওয়া নির্দিষ্ট শর্ত অনুযায়ী যে চিত্র অঙ্কন করা হয়, তাহাই জ্যামিতিক অঙ্কন। উপপাদ্য প্রমাণের জন্য যে চিত্র অঙ্কন করা হয় তা যথাযথ (accurate) হওয়া খুব জরুরি নয়। সম্পাদ্যের ক্ষেত্রে জ্যামিতিক চিত্র অঙ্কন যথাযথ হওয়া খুবই প্রয়োজন।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 87,
+      "pdfPageEnd": 87,
+      "printedPageStart": 82,
+      "printedPageEnd": 82,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এ অধ্যায় শেষে শিক্ষার্থীরা -",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 87,
+      "pdfPageEnd": 87,
+      "printedPageStart": 82,
+      "printedPageEnd": 82,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "* প্রদত্ত তথ্য ও উপান্তের ভিত্তিতে ত্রিভুজ অঙ্কন এবং অঙ্কনের যথাযথতা যাচাই করতে পারবে;\n* প্রদত্ত তথ্য ও উপান্তের ভিত্তিতে বৃত্ত অঙ্কন এবং অঙ্কনের যথাযথতা যাচাই করতে পারবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 87,
+      "pdfPageEnd": 87,
+      "printedPageStart": 82,
+      "printedPageEnd": 82,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p004",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "**সম্পাদ্য ১.** ত্রিভুজের ভূমি, ভূমিসংলগ্ন একটি কোণ ও উচ্চতা দেওয়া আছে, ত্রিভুজটি অঙ্কন করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 87,
+      "pdfPageEnd": 87,
+      "printedPageStart": 82,
+      "printedPageEnd": 82,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p005",
+      "kind": "figure",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "drawing: geometric diagram showing a triangle with base 'a', height 'h', and angle 'x'",
+      "image": "p87-page_1_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 87,
+      "pdfPageEnd": 87,
+      "printedPageStart": 82,
+      "printedPageEnd": 82,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p006",
+      "kind": "figure",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "drawing: geometric diagram showing a vertical line segment with points P, M, B and a horizontal line segment with points B, C, D",
+      "image": "p87-page_1_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 87,
+      "pdfPageEnd": 87,
+      "printedPageStart": 82,
+      "printedPageEnd": 82,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p007",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "মনে করি, কোনো ত্রিভুজের ভূমি $a$, উচ্চতা $h$ এবং ভূমিসংলগ্ন একটি কোণ $x$ দেওয়া আছে। ত্রিভুজটি অঙ্কন করতে হবে।",
+      "image": null,
+      "formulas": [
+        "a",
+        "h",
+        "x"
+      ],
+      "pdfPageStart": 87,
+      "pdfPageEnd": 87,
+      "printedPageStart": 82,
+      "printedPageEnd": 82,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p008",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "**অঙ্কন:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 87,
+      "pdfPageEnd": 87,
+      "printedPageStart": 82,
+      "printedPageEnd": 82,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p009",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "**ধাপ ১.** যেকোনো রেখা $BD$ থেকে $BC = a$ অংশ কেটে নিই।",
+      "image": null,
+      "formulas": [
+        "BD",
+        "BC = a"
+      ],
+      "pdfPageStart": 87,
+      "pdfPageEnd": 87,
+      "printedPageStart": 82,
+      "printedPageEnd": 82,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p010",
+      "kind": "figure",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "drawing: geometric diagram showing a line segment BD with a point C and a length a",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 87,
+      "pdfPageEnd": 87,
+      "printedPageStart": 82,
+      "printedPageEnd": 82,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p011",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "**ধাপ ২.** $B$ বিন্দুতে $BC$ এর উপর লম্ব $BP$ আঁকি। $BP$ থেকে $BM = h$ কেটে নিই।",
+      "image": null,
+      "formulas": [
+        "B",
+        "BC",
+        "BP",
+        "BP",
+        "BM = h"
+      ],
+      "pdfPageStart": 87,
+      "pdfPageEnd": 87,
+      "printedPageStart": 82,
+      "printedPageEnd": 82,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p012",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "**ধাপ ৩.** $M$ বিন্দুতে $MN \\parallel BC$ অঙ্কন করি।",
+      "image": null,
+      "formulas": [
+        "M",
+        "MN \\parallel BC"
+      ],
+      "pdfPageStart": 87,
+      "pdfPageEnd": 87,
+      "printedPageStart": 82,
+      "printedPageEnd": 82,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p013",
+      "kind": "figure",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "drawing: geometric diagram showing a vertical line with points P, M, B and a horizontal line with points N, C, D, and a height h",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 87,
+      "pdfPageEnd": 87,
+      "printedPageStart": 82,
+      "printedPageEnd": 82,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p014",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "ধাপ ৪. আবার $B$ বিন্দুতে প্রদত্ত $\\angle x$ এর সমান করে $\\angle CBE$ অঙ্কন করি। $BE$ রেখাংশ $MN$ কে $A$ বিন্দুতে ছেদ করে।",
+      "image": null,
+      "formulas": [
+        "B",
+        "\\angle x",
+        "\\angle CBE",
+        "BE",
+        "MN",
+        "A"
+      ],
+      "pdfPageStart": 88,
+      "pdfPageEnd": 88,
+      "printedPageStart": 83,
+      "printedPageEnd": 83,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p015",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "ধাপ ৫. $A, C$ যোগ করি। তাহলে $ABC$-ই উদ্দিষ্ট ত্রিভুজ।",
+      "image": null,
+      "formulas": [
+        "A, C",
+        "ABC"
+      ],
+      "pdfPageStart": 88,
+      "pdfPageEnd": 88,
+      "printedPageStart": 83,
+      "printedPageEnd": 83,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p016",
+      "kind": "figure",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "drawing: geometric construction diagram 1",
+      "image": "p88-page_2_image_6_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 88,
+      "pdfPageEnd": 88,
+      "printedPageStart": 83,
+      "printedPageEnd": 83,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p017",
+      "kind": "figure",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "drawing: geometric construction diagram 2",
+      "image": "p88-page_2_image_3_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 88,
+      "pdfPageEnd": 88,
+      "printedPageStart": 83,
+      "printedPageEnd": 83,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p018",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "**প্রমাণ:** $MN \\parallel BC$ (অঙ্কনানুসারে)। $\\therefore ABC$ এর উচ্চতা $BM = h$। আবার, $BC = a$ এবং $\\angle ABC = \\angle x$। $\\therefore \\triangle ABC$-ই উদ্দিষ্ট ত্রিভুজ।",
+      "image": null,
+      "formulas": [
+        "MN \\parallel BC",
+        "\\therefore ABC",
+        "BM = h",
+        "BC = a",
+        "\\angle ABC = \\angle x",
+        "\\therefore \\triangle ABC"
+      ],
+      "pdfPageStart": 88,
+      "pdfPageEnd": 88,
+      "printedPageStart": 83,
+      "printedPageEnd": 83,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p019",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "**বিশ্লেষণ:** ভূমি ও ভূমিসংলগ্ন কোণ দেয়া আছে। সুতরাং একটি সরলরেখা থেকে ভূমির সমান অংশ কেটে নিয়ে তার এক প্রান্তে প্রদত্ত কোণের সমান কোণ ঝাঁকতে হবে। অতঃপর ভূমির সঙ্গে নির্দিষ্ট কোণে আনত নতুন অঙ্কিত রেখার উপর এমন একটা বিন্দু নির্ণয় করতে হবে যেন ভূমি থেকে ঐ বিন্দুটির উচ্চতা ত্রিভুজের উচ্চতার সমান হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 88,
+      "pdfPageEnd": 88,
+      "printedPageStart": 83,
+      "printedPageEnd": 83,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p020",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "**সম্পাদ্য ২.** ত্রিভুজের ভূমি, শিরঃকোণ ও অপর বাহুদ্বয়ের সমষ্টি দেওয়া আছে। ত্রিভুজটি অঙ্কন কর।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 88,
+      "pdfPageEnd": 88,
+      "printedPageStart": 83,
+      "printedPageEnd": 83,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p021",
+      "kind": "figure",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "drawing: geometric construction problem with labels s, a, and angle x",
+      "image": "p88-page_2_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 88,
+      "pdfPageEnd": 88,
+      "printedPageStart": 83,
+      "printedPageEnd": 83,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p022",
+      "kind": "figure",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "drawing: geometric construction diagram showing angle x, line segment s, and points D, B, E",
+      "image": "p88-page_2_image_4_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 88,
+      "pdfPageEnd": 88,
+      "printedPageStart": 83,
+      "printedPageEnd": 83,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p023",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "মনে করি, একটি ত্রিভুজের ভূমি $a$, অপর বাহুদ্বয়ের সমষ্টি $s$ এবং শিরঃকোণ $x$ দেওয়া আছে। ত্রিভুজটি অঙ্কন করতে হবে।",
+      "image": null,
+      "formulas": [
+        "a",
+        "s",
+        "x"
+      ],
+      "pdfPageStart": 88,
+      "pdfPageEnd": 88,
+      "printedPageStart": 83,
+      "printedPageEnd": 83,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p024",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "**অঙ্কন:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 88,
+      "pdfPageEnd": 88,
+      "printedPageStart": 83,
+      "printedPageEnd": 83,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p025",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "ধাপ ১. যেকোনো রেখা $DE$ থেকে $DB = s$ অংশ কেটে নিই।",
+      "image": null,
+      "formulas": [
+        "DE",
+        "DB = s"
+      ],
+      "pdfPageStart": 88,
+      "pdfPageEnd": 88,
+      "printedPageStart": 83,
+      "printedPageEnd": 83,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p026",
+      "kind": "figure",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "drawing: line segment DE with point B and label s",
+      "image": "p88-page_2_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 88,
+      "pdfPageEnd": 88,
+      "printedPageStart": 83,
+      "printedPageEnd": 83,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p027",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "ধাপ ২. $DB$ রেখার $D$ বিন্দুতে $\\angle BDF = \\frac{1}{2} \\angle x$ অঙ্কন করি।",
+      "image": null,
+      "formulas": [
+        "DB",
+        "D",
+        "\\angle BDF = \\frac{1}{2} \\angle x"
+      ],
+      "pdfPageStart": 88,
+      "pdfPageEnd": 88,
+      "printedPageStart": 83,
+      "printedPageEnd": 83,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p028",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "ধাপ ৩. $B$ কে কেন্দ্র করে ভূমি $a$ এর সমান ব্যাসার্ধ নিয়ে একটি বৃত্তচাপ অঙ্কন করি যা $DF$ কে $C$ ও $C'$ বিন্দুতে ছেদ করে। $B, C$ ও $B, C'$ যোগ করি।",
+      "image": null,
+      "formulas": [
+        "B",
+        "a",
+        "DF",
+        "C",
+        "C'",
+        "B, C",
+        "B, C'"
+      ],
+      "pdfPageStart": 88,
+      "pdfPageEnd": 88,
+      "printedPageStart": 83,
+      "printedPageEnd": 83,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p029",
+      "kind": "figure",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "drawing: geometric diagram showing points D, C, C', B, E and angle x/2",
+      "image": "p89-page_3_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 89,
+      "pdfPageEnd": 89,
+      "printedPageStart": 84,
+      "printedPageEnd": 84,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p030",
+      "kind": "figure",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "drawing: geometric diagram showing points D, A, A', B, E, C, C' and angle x/2",
+      "image": "p89-page_3_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 89,
+      "pdfPageEnd": 89,
+      "printedPageStart": 84,
+      "printedPageEnd": 84,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p031",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "রেখা দুটি $BD$ কে যথাক্রমে $A$ ও $A'$ বিন্দুতে ছেদ করে। তাহলে $ABC$ ও $A'BC'$ ত্রিভুজদ্বয় উদ্দিষ্ট ত্রিভুজ।",
+      "image": null,
+      "formulas": [
+        "BD",
+        "A",
+        "A'",
+        "ABC",
+        "A'BC'"
+      ],
+      "pdfPageStart": 89,
+      "pdfPageEnd": 89,
+      "printedPageStart": 84,
+      "printedPageEnd": 84,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p032",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "**ধাপ ৮.** $C$ বিন্দুতে $\\angle BDF$ এর সমান $\\angle DCA$ ও $C'$ বিন্দুতে $\\angle BDF$ এর সমান $\\angle DC'A'$ অঙ্কন করি। $CA$ ও $C'A'$",
+      "image": null,
+      "formulas": [
+        "C",
+        "\\angle BDF",
+        "\\angle DCA",
+        "C'",
+        "\\angle BDF",
+        "\\angle DC'A'",
+        "CA",
+        "C'A'"
+      ],
+      "pdfPageStart": 89,
+      "pdfPageEnd": 89,
+      "printedPageStart": 84,
+      "printedPageEnd": 84,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p033",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "**প্রমাণ:** যেহেতু $\\angle ACD = \\angle ADC = \\angle A'C'D = \\frac{1}{2}\\angle x$ (অঙ্কনানুসারে)",
+      "image": null,
+      "formulas": [
+        "\\angle ACD = \\angle ADC = \\angle A'C'D = \\frac{1}{2}\\angle x"
+      ],
+      "pdfPageStart": 89,
+      "pdfPageEnd": 89,
+      "printedPageStart": 84,
+      "printedPageEnd": 84,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p034",
+      "kind": "formula",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "$$\\therefore \\angle BAC = \\angle ADC + \\angle ACD = \\frac{1}{2}\\angle x + \\frac{1}{2}\\angle x = \\angle x$$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\angle BAC = \\angle ADC + \\angle ACD = \\frac{1}{2}\\angle x + \\frac{1}{2}\\angle x = \\angle x"
+      ],
+      "pdfPageStart": 89,
+      "pdfPageEnd": 89,
+      "printedPageStart": 84,
+      "printedPageEnd": 84,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p035",
+      "kind": "formula",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "$$\\therefore \\angle BA'C' = \\angle A'DC' + \\angle A'C'D = \\frac{1}{2}\\angle x + \\frac{1}{2}\\angle x = \\angle x$$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\angle BA'C' = \\angle A'DC' + \\angle A'C'D = \\frac{1}{2}\\angle x + \\frac{1}{2}\\angle x = \\angle x"
+      ],
+      "pdfPageStart": 89,
+      "pdfPageEnd": 89,
+      "printedPageStart": 84,
+      "printedPageEnd": 84,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p036",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "এবং $AC = AD, A'C' = A'D$",
+      "image": null,
+      "formulas": [
+        "AC = AD, A'C' = A'D"
+      ],
+      "pdfPageStart": 89,
+      "pdfPageEnd": 89,
+      "printedPageStart": 84,
+      "printedPageEnd": 84,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p037",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "$ABC$ ত্রিভুজে,",
+      "image": null,
+      "formulas": [
+        "ABC"
+      ],
+      "pdfPageStart": 89,
+      "pdfPageEnd": 89,
+      "printedPageStart": 84,
+      "printedPageEnd": 84,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p038",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "$\\angle BAC = \\angle x, BC = a$ এবং $CA + AB = DA + AB = DB = s$",
+      "image": null,
+      "formulas": [
+        "\\angle BAC = \\angle x, BC = a",
+        "CA + AB = DA + AB = DB = s"
+      ],
+      "pdfPageStart": 89,
+      "pdfPageEnd": 89,
+      "printedPageStart": 84,
+      "printedPageEnd": 84,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p039",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "$\\therefore \\triangle ABC$-ই উদ্দিষ্ট ত্রিভুজ।",
+      "image": null,
+      "formulas": [
+        "\\therefore \\triangle ABC"
+      ],
+      "pdfPageStart": 89,
+      "pdfPageEnd": 89,
+      "printedPageStart": 84,
+      "printedPageEnd": 84,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p040",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "আবার $A'BC'$ ত্রিভুজে,",
+      "image": null,
+      "formulas": [
+        "A'BC'"
+      ],
+      "pdfPageStart": 89,
+      "pdfPageEnd": 89,
+      "printedPageStart": 84,
+      "printedPageEnd": 84,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p041",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "$\\angle BA'C' = \\angle x, BC' = a$ এবং $C'A' + A'B = DA' + A'B = DB = s$",
+      "image": null,
+      "formulas": [
+        "\\angle BA'C' = \\angle x, BC' = a",
+        "C'A' + A'B = DA' + A'B = DB = s"
+      ],
+      "pdfPageStart": 89,
+      "pdfPageEnd": 89,
+      "printedPageStart": 84,
+      "printedPageEnd": 84,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p042",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "$\\therefore \\triangle A'BC'$-ই অপর উদ্দিষ্ট ত্রিভুজ।",
+      "image": null,
+      "formulas": [
+        "\\therefore \\triangle A'BC'"
+      ],
+      "pdfPageStart": 89,
+      "pdfPageEnd": 89,
+      "printedPageStart": 84,
+      "printedPageEnd": 84,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p043",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "**সম্পাদ্য ৩.** ত্রিভুজের ভূমি, শিরঃকোণ ও অপর দুই বাহুর অন্তর দেওয়া আছে। ত্রিভুজটি অঙ্কন করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 89,
+      "pdfPageEnd": 89,
+      "printedPageStart": 84,
+      "printedPageEnd": 84,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p044",
+      "kind": "figure",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "drawing: geometric diagram showing a triangle with base d, side a, and angle x",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 89,
+      "pdfPageEnd": 89,
+      "printedPageStart": 84,
+      "printedPageEnd": 84,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p045",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "মনে করি, একটি ত্রিভুজের ভূমি $a$, অপর দুই বাহুর অন্তর $d$ এবং শিরঃকোণ $x$ দেওয়া আছে। ত্রিভুজটি অঙ্কন করতে হবে।",
+      "image": null,
+      "formulas": [
+        "a",
+        "d",
+        "x"
+      ],
+      "pdfPageStart": 89,
+      "pdfPageEnd": 89,
+      "printedPageStart": 84,
+      "printedPageEnd": 84,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p046",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "**অঙ্কন:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 89,
+      "pdfPageEnd": 89,
+      "printedPageStart": 84,
+      "printedPageEnd": 84,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p047",
+      "kind": "figure",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "drawing: geometric diagram showing a line segment BD with a point P and distance d",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 89,
+      "pdfPageEnd": 89,
+      "printedPageStart": 84,
+      "printedPageEnd": 84,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p048",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "**ধাপ ১.** যেকোনো রেখা $BD$ থেকে $BP = d$ **ধাপ ২.** $P$ বিন্দুতে $\\angle x$ এর সমপূরক কোণের অংশ কেটে নিই। অর্ধেকের সমান $\\angle DPM$ অঙ্কন করি।",
+      "image": null,
+      "formulas": [
+        "BD",
+        "BP = d",
+        "P",
+        "\\angle x",
+        "\\angle DPM"
+      ],
+      "pdfPageStart": 89,
+      "pdfPageEnd": 89,
+      "printedPageStart": 84,
+      "printedPageEnd": 84,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p049",
+      "kind": "figure",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "drawing: geometric construction diagram",
+      "image": "p90-page_4_image_3_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p050",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "ধাপ ৩. $B$ কে কেন্দ্র করে $a$ এর সমান ব্যাসার্ধ নিয়ে অঙ্কিত বৃত্তচাপ $PM$ সরলরেখাকে $C$ বিন্দুতে ছেদ করে। $B$ ও $C$ যোগ করি।",
+      "image": null,
+      "formulas": [
+        "B",
+        "a",
+        "PM",
+        "C",
+        "B",
+        "C"
+      ],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p051",
+      "kind": "figure",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "drawing: geometric construction diagram showing points B, C, P, D and line M",
+      "image": "p90-page_4_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p052",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "ধাপ ৪. আবার $C$ বিন্দুতে $\\angle DPC = \\angle PCA$ কোণ অঙ্কন করি যেন $CA$ রেখাংশ $BD$ কে $A$ বিন্দুতে ছেদ করে। তাহলে $ABC$-ই উদ্দিষ্ট ত্রিভুজ।",
+      "image": null,
+      "formulas": [
+        "C",
+        "\\angle DPC = \\angle PCA",
+        "CA",
+        "BD",
+        "A",
+        "ABC"
+      ],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p053",
+      "kind": "figure",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "drawing: geometric construction diagram showing triangle ABC with points B, C, P, A, D and line M",
+      "image": "p90-page_4_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p054",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "**প্রমাণ:** $\\angle APC = \\angle ACP$",
+      "image": null,
+      "formulas": [
+        "\\angle APC = \\angle ACP"
+      ],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p055",
+      "kind": "formula",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "$\\therefore AP = AC$",
+      "image": null,
+      "formulas": [
+        "\\therefore AP = AC"
+      ],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p056",
+      "kind": "formula",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "$\\therefore AB - AC = AB - AP = d$",
+      "image": null,
+      "formulas": [
+        "\\therefore AB - AC = AB - AP = d"
+      ],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p057",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "আবার $\\angle APC = \\angle ACP = \\angle x$ এর সম্পূরক কোণের অর্ধেক।",
+      "image": null,
+      "formulas": [
+        "\\angle APC = \\angle ACP = \\angle x"
+      ],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p058",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "$\\therefore \\angle APC + \\angle ACP = \\angle x$ এর সম্পূরক $=$ বহিঃস্থ $\\angle CAD = \\angle CAB$ এর সম্পূরক।",
+      "image": null,
+      "formulas": [
+        "\\therefore \\angle APC + \\angle ACP = \\angle x",
+        "=",
+        "\\angle CAD = \\angle CAB"
+      ],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p059",
+      "kind": "formula",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "$\\therefore \\angle A = \\angle CAB = \\angle x$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\angle A = \\angle CAB = \\angle x"
+      ],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p060",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "$\\therefore ABC$-ই নির্ণেয় ত্রিভুজ।",
+      "image": null,
+      "formulas": [
+        "\\therefore ABC"
+      ],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p061",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "**সম্পাদ্য ৪.** ত্রিভুজের উচ্চতা, ভূমির উপর মধ্যমা এবং ভূমিসংলগ্ন একটি কোণ দেওয়া আছে। ত্রিভুজটি অঙ্কন করতে হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p062",
+      "kind": "figure",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "drawing: geometric construction diagram with labels d, h, and x",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p063",
+      "kind": "text",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "মনে করি, ত্রিভুজের উচ্চতা $h$, ভূমির ওপর মধ্যমা $d$ এবং ভূমি সংলগ্ন একটি $\\angle x$ দেওয়া আছে। ত্রিভুজটি অঙ্কন করতে হবে।",
+      "image": null,
+      "formulas": [
+        "h",
+        "d",
+        "\\angle x"
+      ],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p064",
+      "kind": "figure",
+      "section": "ত্রিভুজসংক্রান্ত কতিপয় সম্পাদ্য",
+      "caption": null,
+      "body": "drawing: geometric construction diagram",
+      "image": "p91-page_5_image_3_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 91,
+      "pdfPageEnd": 91,
+      "printedPageStart": 86,
+      "printedPageEnd": 86,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p065",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ১. যেকোনো রেখা $BE$ এর $B$ বিন্দুতে $\\angle x$ এর সমান $\\angle EBP$ অঙ্কন করি।",
+      "image": null,
+      "formulas": [
+        "BE",
+        "B",
+        "\\angle x",
+        "\\angle EBP"
+      ],
+      "pdfPageStart": 91,
+      "pdfPageEnd": 91,
+      "printedPageStart": 86,
+      "printedPageEnd": 86,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p066",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ২. $B$ বিন্দুতে $BE$ রেখার ওপর $BQ$ লম্ব অঙ্কন করি।",
+      "image": null,
+      "formulas": [
+        "B",
+        "BE",
+        "BQ"
+      ],
+      "pdfPageStart": 91,
+      "pdfPageEnd": 91,
+      "printedPageStart": 86,
+      "printedPageEnd": 86,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p067",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ৩. $BQ$ থেকে ত্রিভুজের উচ্চতা $h$ এর সমান $BM$ অংশ কেটে নিই।",
+      "image": null,
+      "formulas": [
+        "BQ",
+        "h",
+        "BM"
+      ],
+      "pdfPageStart": 91,
+      "pdfPageEnd": 91,
+      "printedPageStart": 86,
+      "printedPageEnd": 86,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p068",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ৪. $M$ বিন্দুতে $MN \\parallel BE$ অঙ্কন করি যা $BP$ কে $A$ বিন্দুতে ছেদ করে।",
+      "image": null,
+      "formulas": [
+        "M",
+        "MN \\parallel BE",
+        "BP",
+        "A"
+      ],
+      "pdfPageStart": 91,
+      "pdfPageEnd": 91,
+      "printedPageStart": 86,
+      "printedPageEnd": 86,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p069",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ৫. $A$ বিন্দুকে কেন্দ্র করে মধ্যমা $d$ এর সমান ব্যাসার্ধ নিয়ে একটি বৃত্তচাপ অঙ্কন করি। ঐ বৃত্তচাপ $BE$ কে $D$ বিন্দুতে ছেদ করে।",
+      "image": null,
+      "formulas": [
+        "A",
+        "d",
+        "BE",
+        "D"
+      ],
+      "pdfPageStart": 91,
+      "pdfPageEnd": 91,
+      "printedPageStart": 86,
+      "printedPageEnd": 86,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p070",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ৬. $BE$ থেকে $DC = BD$ অংশ কেটে নিই। $A$ ও $C$ যোগ করি।",
+      "image": null,
+      "formulas": [
+        "BE",
+        "DC = BD",
+        "A",
+        "C"
+      ],
+      "pdfPageStart": 91,
+      "pdfPageEnd": 91,
+      "printedPageStart": 86,
+      "printedPageEnd": 86,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p071",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "তাহলে, $\\triangle ABC$-ই উদ্দিষ্ট ত্রিভুজ।",
+      "image": null,
+      "formulas": [
+        "\\triangle ABC"
+      ],
+      "pdfPageStart": 91,
+      "pdfPageEnd": 91,
+      "printedPageStart": 86,
+      "printedPageEnd": 86,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p072",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "**প্রমাণ:** $BD = DC \\implies D$ বিন্দুই $BC$ এর মধ্যবিন্দু।",
+      "image": null,
+      "formulas": [
+        "BD = DC \\implies D",
+        "BC"
+      ],
+      "pdfPageStart": 91,
+      "pdfPageEnd": 91,
+      "printedPageStart": 86,
+      "printedPageEnd": 86,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p073",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "$A, D$ যোগ করি। $\\therefore AD = d =$ ভূমির উপর অঙ্কিত মধ্যমা, অর্থাৎ, $BC$ ভূমি।",
+      "image": null,
+      "formulas": [
+        "A, D",
+        "\\therefore AD = d =",
+        "BC"
+      ],
+      "pdfPageStart": 91,
+      "pdfPageEnd": 91,
+      "printedPageStart": 86,
+      "printedPageEnd": 86,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p074",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "$MN$ ও $BE$ সমান্তরাল। সুতরাং $\\triangle ABC$ এর উচ্চতা $BM = h$।",
+      "image": null,
+      "formulas": [
+        "MN",
+        "BE",
+        "\\triangle ABC",
+        "BM = h"
+      ],
+      "pdfPageStart": 91,
+      "pdfPageEnd": 91,
+      "printedPageStart": 86,
+      "printedPageEnd": 86,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p075",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "আবার, $\\angle ABC = \\angle x =$ ভূমি সংলগ্ন একটি কোণ।",
+      "image": null,
+      "formulas": [
+        "\\angle ABC = \\angle x ="
+      ],
+      "pdfPageStart": 91,
+      "pdfPageEnd": 91,
+      "printedPageStart": 86,
+      "printedPageEnd": 86,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p076",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "$\\therefore ABC$-ই উদ্দিষ্ট ত্রিভুজ।",
+      "image": null,
+      "formulas": [
+        "\\therefore ABC"
+      ],
+      "pdfPageStart": 91,
+      "pdfPageEnd": 91,
+      "printedPageStart": 86,
+      "printedPageEnd": 86,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p077",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "**মনতব্য:** $\\angle x$ এর উপর নির্ভর করে অনেক ক্ষেত্রে দুটি ত্রিভুজ পাওয়া যেতে পারে। এছাড়াও মধ্যমার দৈর্ঘ্য উচ্চতার থেকে কম হলে অঙ্কন করা যাবে না।",
+      "image": null,
+      "formulas": [
+        "\\angle x"
+      ],
+      "pdfPageStart": 91,
+      "pdfPageEnd": 91,
+      "printedPageStart": 86,
+      "printedPageEnd": 86,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p078",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "**উদাহরণ ১.** ত্রিভুজের ভূমির দৈর্ঘ্য ৫ সে.মি., ভূমি সংলগ্ন কোণ $60^\\circ$ এবং অপর দুই বাহুর সমষ্টি ৭ সে.মি.। ত্রিভুজটি অঙ্কন করতে হবে।",
+      "image": null,
+      "formulas": [
+        "60^\\circ"
+      ],
+      "pdfPageStart": 91,
+      "pdfPageEnd": 91,
+      "printedPageStart": 86,
+      "printedPageEnd": 86,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p079",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "**সমাধান:** দেওয়া আছে ভূমি $BC = 5$ সে.মি. অপর দুই বাহুর সমষ্টি $AB + AC = 7$ সে.মি. এবং $\\angle ABC = 60^\\circ$। $\\triangle ABC$ অঙ্কন করতে হবে।",
+      "image": null,
+      "formulas": [
+        "BC = 5",
+        "AB + AC = 7",
+        "\\angle ABC = 60^\\circ",
+        "\\triangle ABC"
+      ],
+      "pdfPageStart": 91,
+      "pdfPageEnd": 91,
+      "printedPageStart": 86,
+      "printedPageEnd": 86,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p080",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ১. যেকোনো রেখা $BX$ থেকে $BC = 5$ সে.মি. কেটে নিই।",
+      "image": null,
+      "formulas": [
+        "BX",
+        "BC = 5"
+      ],
+      "pdfPageStart": 91,
+      "pdfPageEnd": 91,
+      "printedPageStart": 86,
+      "printedPageEnd": 86,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p081",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ২. $\\angle XBY = 60^\\circ$ আঁকি।",
+      "image": null,
+      "formulas": [
+        "\\angle XBY = 60^\\circ"
+      ],
+      "pdfPageStart": 91,
+      "pdfPageEnd": 91,
+      "printedPageStart": 86,
+      "printedPageEnd": 86,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p082",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ৩. $BY$ রেখা থেকে $BD = 7$ সে.মি. কেটে নিই।",
+      "image": null,
+      "formulas": [
+        "BY",
+        "BD = 7"
+      ],
+      "pdfPageStart": 92,
+      "pdfPageEnd": 92,
+      "printedPageStart": 87,
+      "printedPageEnd": 87,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p083",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ৪. $C, D$ যোগ করি।",
+      "image": null,
+      "formulas": [
+        "C, D"
+      ],
+      "pdfPageStart": 92,
+      "pdfPageEnd": 92,
+      "printedPageStart": 87,
+      "printedPageEnd": 87,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p084",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ৫. $CD$ রেখার লম্বদ্বিখণ্ডক আঁকি যা $BD$ কে $A$ বিন্দুতে ছেদ করে।",
+      "image": null,
+      "formulas": [
+        "CD",
+        "BD",
+        "A"
+      ],
+      "pdfPageStart": 92,
+      "pdfPageEnd": 92,
+      "printedPageStart": 87,
+      "printedPageEnd": 87,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p085",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ৬. $A, C$ যোগ করি, তাহলে $ABC$-ই নির্ণেয় ত্রিভুজ।",
+      "image": null,
+      "formulas": [
+        "A, C",
+        "ABC"
+      ],
+      "pdfPageStart": 92,
+      "pdfPageEnd": 92,
+      "printedPageStart": 87,
+      "printedPageEnd": 87,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p086",
+      "kind": "figure",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "drawing: geometric construction diagram",
+      "image": "p92-page_6_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 92,
+      "pdfPageEnd": 92,
+      "printedPageStart": 87,
+      "printedPageEnd": 87,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p087",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "**দ্রষ্টব্য:** যেহেতু $AL, CD$ এর লম্বদ্বিখণ্ডক, $AD = AC$।",
+      "image": null,
+      "formulas": [
+        "AL, CD",
+        "AD = AC"
+      ],
+      "pdfPageStart": 92,
+      "pdfPageEnd": 92,
+      "printedPageStart": 87,
+      "printedPageEnd": 87,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p088",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "তাহলে $BD = BA + AD = BA + AC = 7$ সে.মি.।",
+      "image": null,
+      "formulas": [
+        "BD = BA + AD = BA + AC = 7"
+      ],
+      "pdfPageStart": 92,
+      "pdfPageEnd": 92,
+      "printedPageStart": 87,
+      "printedPageEnd": 87,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p089",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "**উদাহরণ ২.** ত্রিভুজের ভূমির দৈর্ঘ্য 7.5 সে.মি. ভূমিসংলগ্ন কোণ $45^\\circ$ এবং অপর দুই বাহুর অন্তর 2.5 সে.মি. দেওয়া আছে। ত্রিভুজটি অঙ্কন করতে হবে।",
+      "image": null,
+      "formulas": [
+        "45^\\circ"
+      ],
+      "pdfPageStart": 92,
+      "pdfPageEnd": 92,
+      "printedPageStart": 87,
+      "printedPageEnd": 87,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p090",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "**সমাধান:** দেওয়া আছে ভূমি $BC = 7.5$ সে.মি, অপর দুই বাহুর অন্তর $AB - AC$ বা $AC - AB = 2.5$ সে.মি. এবং ভূমি সংলগ্ন কোণ $45^\\circ$। ত্রিভুজটি আঁকতে হবে। আমরা এখানে $AB - AC = 2.5$ সে.মি. এর ক্ষেত্রে অঙ্কনের ধাপসমূহ দেখব। [$AC - AB = 2.5$ সে.মি. ধরে ত্রিভুজটি নিজে অঙ্কন করো।]",
+      "image": null,
+      "formulas": [
+        "BC = 7.5",
+        "AB - AC",
+        "AC - AB = 2.5",
+        "45^\\circ",
+        "AB - AC = 2.5",
+        "AC - AB = 2.5"
+      ],
+      "pdfPageStart": 92,
+      "pdfPageEnd": 92,
+      "printedPageStart": 87,
+      "printedPageEnd": 87,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p091",
+      "kind": "figure",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "drawing: geometric construction diagram",
+      "image": "p93-page_7_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 93,
+      "pdfPageEnd": 93,
+      "printedPageStart": 88,
+      "printedPageEnd": 88,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p092",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ১. যেকোনো রেখা $BX$ থেকে $BC = 7.5$ সে.মি. কেটে নিই।",
+      "image": null,
+      "formulas": [
+        "BX",
+        "BC = 7.5"
+      ],
+      "pdfPageStart": 93,
+      "pdfPageEnd": 93,
+      "printedPageStart": 88,
+      "printedPageEnd": 88,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p093",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ২. $\\angle YBC = 45^\\circ$ অঙ্কন করি।",
+      "image": null,
+      "formulas": [
+        "\\angle YBC = 45^\\circ"
+      ],
+      "pdfPageStart": 93,
+      "pdfPageEnd": 93,
+      "printedPageStart": 88,
+      "printedPageEnd": 88,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p094",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ৩. $BY$ রেখা থেকে $BD = 2.5$ সে.মি. কেটে নিই।",
+      "image": null,
+      "formulas": [
+        "BY",
+        "BD = 2.5"
+      ],
+      "pdfPageStart": 93,
+      "pdfPageEnd": 93,
+      "printedPageStart": 88,
+      "printedPageEnd": 88,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p095",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ৪. $C, D$ যোগ করি।",
+      "image": null,
+      "formulas": [
+        "C, D"
+      ],
+      "pdfPageStart": 93,
+      "pdfPageEnd": 93,
+      "printedPageStart": 88,
+      "printedPageEnd": 88,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p096",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ৫. $CD$ এর ওপর $RS$ লম্বদ্বিখণ্ডক আঁকি যেন $BY$ কে $A$ বিন্দুতে ছেদ করে।",
+      "image": null,
+      "formulas": [
+        "CD",
+        "RS",
+        "BY",
+        "A"
+      ],
+      "pdfPageStart": 93,
+      "pdfPageEnd": 93,
+      "printedPageStart": 88,
+      "printedPageEnd": 88,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p097",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ধাপ ৬. $A$ ও $C$ যোগ করি। তাহলে $ABC$-ই নির্ণয়ে ত্রিভুজ।",
+      "image": null,
+      "formulas": [
+        "A",
+        "C",
+        "ABC"
+      ],
+      "pdfPageStart": 93,
+      "pdfPageEnd": 93,
+      "printedPageStart": 88,
+      "printedPageEnd": 88,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p098",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "**কাজ:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 93,
+      "pdfPageEnd": 93,
+      "printedPageStart": 88,
+      "printedPageEnd": 88,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p099",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ক) একটি ত্রিভুজের পরিসীমা এবং ভূমিসংলগ্ন কোণদ্বয় দেওয়া আছে। ত্রিভুজটি অঙ্কন করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 93,
+      "pdfPageEnd": 93,
+      "printedPageStart": 88,
+      "printedPageEnd": 88,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p100",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "খ) ত্রিভুজের ভূমি $BC = 4.6$ সে.মি., $\\angle B = 45^\\circ$ এবং $AB + CA = 8.2$ সে.মি. দেওয়া আছে। ত্রিভুজটি আঁকতে হবে।",
+      "image": null,
+      "formulas": [
+        "BC = 4.6",
+        "\\angle B = 45^\\circ",
+        "AB + CA = 8.2"
+      ],
+      "pdfPageStart": 93,
+      "pdfPageEnd": 93,
+      "printedPageStart": 88,
+      "printedPageEnd": 88,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p101",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "গ) সমকোণী ত্রিভুজের দুটি বাহুর দৈর্ঘ্য যথাক্রমে ৩ সে.মি. এবং ৪ সে.মি. দেওয়া আছে। অতিভুজ নির্ণয় করে ত্রিভুজটি আঁকতে হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 93,
+      "pdfPageEnd": 93,
+      "printedPageStart": 88,
+      "printedPageEnd": 88,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p102",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ঘ) $\\triangle ABC$ এর $BC = 4.5$ সে.মি., $\\angle B = 45^\\circ$ এবং $AB - AC = 2.5$ সে.মি. দেওয়া আছে। $\\triangle ABC$ টি অঙ্কন করতে হবে।",
+      "image": null,
+      "formulas": [
+        "\\triangle ABC",
+        "BC = 4.5",
+        "\\angle B = 45^\\circ",
+        "AB - AC = 2.5",
+        "\\triangle ABC"
+      ],
+      "pdfPageStart": 93,
+      "pdfPageEnd": 93,
+      "printedPageStart": 88,
+      "printedPageEnd": 88,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c04-t4.0-p103",
+      "kind": "text",
+      "section": "অঙ্কন:",
+      "caption": null,
+      "body": "ঙ) $\\triangle ABC$ এর পরিসীমা 12 সে.মি., $\\angle B = 60^\\circ$ এবং $\\angle C = 45^\\circ$ দেওয়া আছে। $\\triangle ABC$ টি আঁকতে হবে।",
+      "image": null,
+      "formulas": [
+        "\\triangle ABC",
+        "\\angle B = 60^\\circ",
+        "\\angle C = 45^\\circ",
+        "\\triangle ABC"
+      ],
+      "pdfPageStart": 93,
+      "pdfPageEnd": 93,
+      "printedPageStart": 88,
+      "printedPageEnd": 88,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

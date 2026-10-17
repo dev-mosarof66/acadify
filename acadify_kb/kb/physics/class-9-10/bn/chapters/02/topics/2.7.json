@@ -1,0 +1,854 @@
+{
+  "id": "physics-9-10-bn-c02-t2.7",
+  "key": "2.7",
+  "title": "গতির সমীকরণ (Equations of Motion)",
+  "chapter": 2,
+  "ordinal": 7,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা যেহেতু শুধু সরল রৈখিক গতি নিয়ে আলোচনা করব, তাই গতি সম্পর্কে আলোচনা করতে গিয়ে আমরা এখন পর্যন্ত যে যে রাশিগুলোর কথা বলেছি সেগুলো হচ্ছে:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 50,
+      "pdfPageEnd": 50,
+      "printedPageStart": 45,
+      "printedPageEnd": 45,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$u$: আদি বেগ (বিবেচ্য সময়কালের শুরুতে বেগ)\n$a$: বস্তুকণার ত্বরণ\n$t$: যে সময়টুকু অতিক্রান্ত হয়েছে (বিবেচ্য সময়কাল)\n$v$: শেষ বেগ (বিবেচ্য সময়কালের শেষে বেগ)\n$s$: অতিক্রান্ত সময়ে বস্তুকণা যে দূরত্ব অতিক্রম করেছে।",
+      "image": null,
+      "formulas": [
+        "u",
+        "a",
+        "t",
+        "v",
+        "s"
+      ],
+      "pdfPageStart": 50,
+      "pdfPageEnd": 50,
+      "printedPageStart": 45,
+      "printedPageEnd": 45,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঐ সরলরেখা বরাবর সময় ($t$) বাদে অন্য রাশিগুলোর ধনাভ্যাক বা ঋণাত্মক মান হতে পারে, কিন্তু অন্য কোনো দিক বরাবর হবে না। অর্থাৎ এগুলোকে ভেক্টর হিসেবে বিবেচনা না করে শুধু এগুলোর মান নিয়ে আলোচনা করা হলেই চলবে।",
+      "image": null,
+      "formulas": [
+        "t"
+      ],
+      "pdfPageStart": 50,
+      "pdfPageEnd": 50,
+      "printedPageStart": 45,
+      "printedPageEnd": 45,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এই রাশিগুলোর মাঝে যে সম্পর্ক রয়েছে তার প্রায় সবগুলো এর মাঝে আমরা বের করে ফেলেছি। $s$ বা অতিক্রান্ত দূরত্ব সম্বন্ধে আলোচনা বাকি রয়ে গেছে। যদি কোনো ত্বরণ না থাকে তাহলে বেগের পরিবর্তন হয় না, তাই আদি বেগ আর শেষ বেগ সমান ($v = u$), আর অতিক্রান্ত দূরত্ব হচ্ছে",
+      "image": null,
+      "formulas": [
+        "s",
+        "v = u"
+      ],
+      "pdfPageStart": 50,
+      "pdfPageEnd": 50,
+      "printedPageStart": 45,
+      "printedPageEnd": 45,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p005",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$s = v t$$",
+      "image": null,
+      "formulas": [
+        "s = v t"
+      ],
+      "pdfPageStart": 50,
+      "pdfPageEnd": 50,
+      "printedPageStart": 45,
+      "printedPageEnd": 45,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যদি সমত্বরণ থাকে তাহলে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 50,
+      "pdfPageEnd": 50,
+      "printedPageStart": 45,
+      "printedPageEnd": 45,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p007",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$v = u + at$$",
+      "image": null,
+      "formulas": [
+        "v = u + at"
+      ],
+      "pdfPageStart": 50,
+      "pdfPageEnd": 50,
+      "printedPageStart": 45,
+      "printedPageEnd": 45,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যা থেকে বোঝা যাচ্ছে যে সময়ের সাথে সাথে বেগের পরিবর্তন হয়। পুরো সময়টিকে যদি অনেকগুলো অতিক্রুদ্ধ সমান ভাগে ভাগ করা হয়, তাহলে প্রতিটি ক্ষুদ্র সময়কালে অতিক্রান্ত দূরত্ব সমান হয়না, কারণ ত্বরণের দরুন বস্তুকণার বেগ প্রতি নিয়তই পরিবর্তিত হয়। কিন্তু সম্পূর্ণ অতিক্রান্ত দূরত্ব বের করার জন্য এই ভিন্ন ভিন্ন দূরত্বগুলোরই যোগফল প্রয়োজন। এ ধরনের হিসাব-নিকাশ করার জন্য ক্যালকুলাস (calculus) নামক বিশেষ একধরনের গণিত ব্যবহার করা হয়। কিন্তু ত্বরণশীল বস্তুকণাটির ত্বরণ যদি সুসম হয় তাহলে ক্যালকুলাস ব্যবহার না করেই অতিক্রান্ত দূরত্ব বের করা সম্ভব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 50,
+      "pdfPageEnd": 50,
+      "printedPageStart": 45,
+      "printedPageEnd": 45,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "প্রতি মুহূর্তে বেগের পরিবর্তন হচ্ছে বলে আমরা $s = vt$ লিখতে পারছি না কিন্তু আমরা যদি বস্তুকণার গড় বেগ $V$ জানতে পারি তাহলে কিন্তু লিখতে পারি",
+      "image": null,
+      "formulas": [
+        "s = vt",
+        "V"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p010",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$s = Vt$$",
+      "image": null,
+      "formulas": [
+        "s = Vt"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুসমভাবে ত্বরণিত একটি বস্তুকণার ক্ষেত্রে একটি নির্দিষ্ট সময়কালের গড় বেগ ঐ সময়কালের ঠিক মাঝামাঝি সময়ের বেগের সমান।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p012",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A line graph showing velocity (বেগ (মি/সে)) vs time (সময় (সে)) with the equation V = (u+v)/2",
+      "image": "p51-page_15_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গড়বেগ $V = \\frac{u + v}{2} = \\frac{u + (u + at)}{2}$",
+      "image": null,
+      "formulas": [
+        "V = \\frac{u + v}{2} = \\frac{u + (u + at)}{2}"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p015",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$V = u + \\frac{1}{2}at$$",
+      "image": null,
+      "formulas": [
+        "V = u + \\frac{1}{2}at"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p016",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "**চিত্র 2.08: সমত্বরণের গতিতে গড় বেগ হচ্ছে**\n**আদি বেগ ও শেষ বেগের মাঝামাঝি সময়ের**\n**বেগ।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কাজেই অতিক্রান্ত দূরত্ব",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p018",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$s = Vt$$",
+      "image": null,
+      "formulas": [
+        "s = Vt"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p019",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$s = \\left( u + \\frac{1}{2}at \\right) t$$",
+      "image": null,
+      "formulas": [
+        "s = \\left( u + \\frac{1}{2}at \\right) t"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p020",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$s = ut + \\frac{1}{2}at^2$$",
+      "image": null,
+      "formulas": [
+        "s = ut + \\frac{1}{2}at^2"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন পর্যন্ত আমরা গতির যে সমীকরণগুলো বের করেছি তার প্রত্যেকটিতেই সময় বা $t$ আছে। আমরা ইচ্ছে করলে এই সমীকরণগুলো ব্যবহার করে একটা সমীকরণ বের করতে পারি যেখানে $t$ নেই। যেমন:",
+      "image": null,
+      "formulas": [
+        "t",
+        "t"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p022",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$v = u + at$$",
+      "image": null,
+      "formulas": [
+        "v = u + at"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p023",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$v^2 = (u+at)^2 = u^2 + 2uat + a^2t^2 = u^2 + 2a\\left(ut + \\frac{1}{2}at^2\\right)$$",
+      "image": null,
+      "formulas": [
+        "v^2 = (u+at)^2 = u^2 + 2uat + a^2t^2 = u^2 + 2a\\left(ut + \\frac{1}{2}at^2\\right)"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p024",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$v^2 = u^2 + 2as$$",
+      "image": null,
+      "formulas": [
+        "v^2 = u^2 + 2as"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p025",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এই সমীকরণটি দেখতে অন্য একটি সাধারণ সমীকরণের মতো হলেও এর মাঝে কিছু চমকপ্রদ পদার্থবিজ্ঞান লুকিয়ে আছে, যেটি আমরা চতুর্থ অধ্যায়ে তোমাদের দেখাব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p026",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** একটা গাড়ির বেগ স্থির অবস্থা থেকে বেড়ে 1 মিনিটে 60 km/hour হয়েছে। গাড়িটির ত্বরণ কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p027",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** আমরা সময়ের জন্য মিনিট বা ঘণ্টা ব্যবহার না করে এখন থেকে সেকেন্ড (s) এবং দূরত্বের জন্য মাইল বা km ব্যবহার না করে m ব্যবহার করতে পারি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p028",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "উল্লিখিত 1 মিনিট সময়কালের শেষে গাড়ির বেগ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p029",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$v = 60 \\frac{km}{hour} = \\frac{60 \\times 1000  m}{60 \\times 60  s} = 16.67  m/s$$",
+      "image": null,
+      "formulas": [
+        "v = 60 \\frac{km}{hour} = \\frac{60 \\times 1000  m}{60 \\times 60  s} = 16.67  m/s"
+      ],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p030",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই সমস্যাটি হচ্ছে এ রকম, 60 s এ একটা গাড়ি স্থির অবস্থা থেকে শুরু করে 16.67 m/s গতিতে পৌঁছে গেছে, গাড়িটির ত্বরণ কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p031",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$v = u + at = at$$",
+      "image": null,
+      "formulas": [
+        "v = u + at = at"
+      ],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p032",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$a = \\frac{v}{t} = \\frac{16.67  m/s}{60  s} = 0.278  m/s^2$$",
+      "image": null,
+      "formulas": [
+        "a = \\frac{v}{t} = \\frac{16.67  m/s}{60  s} = 0.278  m/s^2"
+      ],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p033",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** একটা গাড়ি 60 miles/hour বেগে চলমান অবস্থায় হঠাৎ তার ইঞ্জিন বন্ধ হয়ে যায়। গাড়িটি থামতে 5 minutes সময় নেয়। গাড়িটির মন্দন কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p034",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** ত্বরণ থাকলে বেগ বাড়তে থাকে, আর বেগ কমতে থাকার অর্থ ঋণাত্মক বা নেগেটিভ ত্বরণ বা মন্দন রয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p035",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "আবার আমরা সময়ের জন্য $s$ এবং দূরত্বের জন্য $m$ ব্যবহার করব।",
+      "image": null,
+      "formulas": [
+        "s",
+        "m"
+      ],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p036",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$1  mile = 1.6  km = 1600  m$$",
+      "image": null,
+      "formulas": [
+        "1  mile = 1.6  km = 1600  m"
+      ],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p037",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "গাড়িটির আদি বেগ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p038",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$u = 60 \\frac{miles}{hour} = \\frac{60 \\times 1.6 \\times 1000  m}{60 \\times 60  s} = 26.8  m/s$$",
+      "image": null,
+      "formulas": [
+        "u = 60 \\frac{miles}{hour} = \\frac{60 \\times 1.6 \\times 1000  m}{60 \\times 60  s} = 26.8  m/s"
+      ],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p039",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "গাড়িটির শেষ বেগ $v = 0  m/s$",
+      "image": null,
+      "formulas": [
+        "v = 0  m/s"
+      ],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p040",
+      "kind": "formula",
+      "section": "ত্বরণ",
+      "caption": null,
+      "body": "$$a = \\frac{v - u}{t} = \\frac{(0 - 26.8)  m/s}{300  s} = -0.089  m/s^2$$",
+      "image": null,
+      "formulas": [
+        "a = \\frac{v - u}{t} = \\frac{(0 - 26.8)  m/s}{300  s} = -0.089  m/s^2"
+      ],
+      "pdfPageStart": 53,
+      "pdfPageEnd": 53,
+      "printedPageStart": 48,
+      "printedPageEnd": 48,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p041",
+      "kind": "text",
+      "section": "ত্বরণ",
+      "caption": null,
+      "body": "অর্থাৎ গাড়িটির ত্বরণ $-0.089  m/s^2$ কিংবা মন্দন $0.089  m/s^2$",
+      "image": null,
+      "formulas": [
+        "-0.089  m/s^2",
+        "0.089  m/s^2"
+      ],
+      "pdfPageStart": 53,
+      "pdfPageEnd": 53,
+      "printedPageStart": 48,
+      "printedPageEnd": 48,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p042",
+      "kind": "text",
+      "section": "ত্বরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** একটি বুলেট $1.5  km/s$ বেগে ছুটে একটি দেয়ালের মাঝে $10  cm$ ঢুকতে পেরেছে। বুলেটের মন্দন কত?",
+      "image": null,
+      "formulas": [
+        "1.5  km/s",
+        "10  cm"
+      ],
+      "pdfPageStart": 53,
+      "pdfPageEnd": 53,
+      "printedPageStart": 48,
+      "printedPageEnd": 48,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p043",
+      "kind": "text",
+      "section": "ত্বরণ",
+      "caption": null,
+      "body": "**উত্তর:** এটা করার একমাত্র উপায় হচ্ছে $v^2 = u^2 - 2as$ সূত্রটি ব্যবহার করা; যেখানে $a = ত্বরণ$।",
+      "image": null,
+      "formulas": [
+        "v^2 = u^2 - 2as",
+        "a = ত্বরণ"
+      ],
+      "pdfPageStart": 53,
+      "pdfPageEnd": 53,
+      "printedPageStart": 48,
+      "printedPageEnd": 48,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p044",
+      "kind": "text",
+      "section": "ত্বরণ",
+      "caption": null,
+      "body": "শেষ বেগ $v = 0  m/s$",
+      "image": null,
+      "formulas": [
+        "v = 0  m/s"
+      ],
+      "pdfPageStart": 53,
+      "pdfPageEnd": 53,
+      "printedPageStart": 48,
+      "printedPageEnd": 48,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p045",
+      "kind": "formula",
+      "section": "ত্বরণ",
+      "caption": null,
+      "body": "$$0 = (1.5 \\times 1000  m/s)^2 - 2a \\left( \\frac{10}{100} m \\right)$$",
+      "image": null,
+      "formulas": [
+        "0 = (1.5 \\times 1000  m/s)^2 - 2a \\left( \\frac{10}{100} m \\right)"
+      ],
+      "pdfPageStart": 53,
+      "pdfPageEnd": 53,
+      "printedPageStart": 48,
+      "printedPageEnd": 48,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p046",
+      "kind": "formula",
+      "section": "ত্বরণ",
+      "caption": null,
+      "body": "$$a = \\frac{(1.5 \\times 1000  m/s)^2}{0.2  m} = 11,250,000  m/s^2$$",
+      "image": null,
+      "formulas": [
+        "a = \\frac{(1.5 \\times 1000  m/s)^2}{0.2  m} = 11,250,000  m/s^2"
+      ],
+      "pdfPageStart": 53,
+      "pdfPageEnd": 53,
+      "printedPageStart": 48,
+      "printedPageEnd": 48,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.7-p047",
+      "kind": "text",
+      "section": "ত্বরণ",
+      "caption": null,
+      "body": "মন্দন: $11,250,000  m/s^2$ (কিংবা ত্বরণ $-11,250,000  m/s^2$)",
+      "image": null,
+      "formulas": [
+        "11,250,000  m/s^2",
+        "-11,250,000  m/s^2"
+      ],
+      "pdfPageStart": 53,
+      "pdfPageEnd": 53,
+      "printedPageStart": 48,
+      "printedPageEnd": 48,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

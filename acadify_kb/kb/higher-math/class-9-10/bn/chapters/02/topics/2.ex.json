@@ -1,0 +1,798 @@
+{
+  "id": "higher-math-9-10-bn-c02-t2.ex",
+  "key": "2.ex",
+  "title": "অনুশীলনী ২",
+  "chapter": 2,
+  "ordinal": 16,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p001",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১. মনে কর, $P(x) \\equiv ax^5 + bx^4 + cx^3 + cx^2 + bx + a$ যেখানে $a, b, c$ ধ্রুবক এবং $a \\neq 0$। দেখাও যে, $x - r$ যদি $P(x)$ এর একটি উৎপাদক হয়, তবে $P(x)$ এর আরেকটি উৎপাদক হবে $(rx - 1)$।",
+      "image": null,
+      "formulas": [
+        "P(x) \\equiv ax^5 + bx^4 + cx^3 + cx^2 + bx + a",
+        "a, b, c",
+        "a \\neq 0",
+        "x - r",
+        "P(x)",
+        "P(x)",
+        "(rx - 1)"
+      ],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p002",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "২. উৎপাদকে বিশ্লেষণ করো:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p003",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "ক) $x^4 + 7x^3 + 17x^2 + 17x + 6$",
+      "image": null,
+      "formulas": [
+        "x^4 + 7x^3 + 17x^2 + 17x + 6"
+      ],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p004",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "খ) $x^3 + 2x^2 + 2x + 1$",
+      "image": null,
+      "formulas": [
+        "x^3 + 2x^2 + 2x + 1"
+      ],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p005",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "গ) $x(y^2 + z^2) + y(z^2 + x^2) + z(x^2 + y^2) + 3xyz$",
+      "image": null,
+      "formulas": [
+        "x(y^2 + z^2) + y(z^2 + x^2) + z(x^2 + y^2) + 3xyz"
+      ],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p006",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "ঘ) $(x + 1)^2(y - z) + (y + 1)^2(z - x) + (z + 1)^2(x - y)$",
+      "image": null,
+      "formulas": [
+        "(x + 1)^2(y - z) + (y + 1)^2(z - x) + (z + 1)^2(x - y)"
+      ],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p007",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "ঙ) $b^2c^2(b^2 - c^2) + c^2a^2(c^2 - a^2) + a^2b^2(a^2 - b^2)$",
+      "image": null,
+      "formulas": [
+        "b^2c^2(b^2 - c^2) + c^2a^2(c^2 - a^2) + a^2b^2(a^2 - b^2)"
+      ],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p008",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "চ) $15x^2 + 2xy - 24y^2 - x + 24y - 6$",
+      "image": null,
+      "formulas": [
+        "15x^2 + 2xy - 24y^2 - x + 24y - 6"
+      ],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p009",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "ছ) $15x^2 - 24y^2 - 6z^2 + 2xy - xz + 24yz$",
+      "image": null,
+      "formulas": [
+        "15x^2 - 24y^2 - 6z^2 + 2xy - xz + 24yz"
+      ],
+      "pdfPageStart": 65,
+      "pdfPageEnd": 65,
+      "printedPageStart": 60,
+      "printedPageEnd": 60,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p010",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৩. যদি $\\frac{1}{a^3} + \\frac{1}{b^3} + \\frac{1}{c^3} = \\frac{3}{abc}$ হয়, তবে দেখাও যে, $bc + ca + ab = 0$ অথবা, $a = b = c$।",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{a^3} + \\frac{1}{b^3} + \\frac{1}{c^3} = \\frac{3}{abc}",
+        "bc + ca + ab = 0",
+        "a = b = c"
+      ],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p011",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৪. যদি $x = b + c - a$, $y = c + a - b$, এবং $z = a + b - c$ হয়, তবে দেখাও যে,\n$$x^3 + y^3 + z^3 - 3xyz = 4(a^3 + b^3 + c^3 - 3abc)$$।",
+      "image": null,
+      "formulas": [
+        "x = b + c - a",
+        "y = c + a - b",
+        "z = a + b - c",
+        "x^3 + y^3 + z^3 - 3xyz = 4(a^3 + b^3 + c^3 - 3abc)"
+      ],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p012",
+      "kind": "exercise",
+      "section": "৫. সরল করো:",
+      "caption": null,
+      "body": "ক) $\\frac{(a + b)^2 - ab}{(b - c)(a - c)} + \\frac{(b + c)^2 - bc}{(c - a)(b - a)} + \\frac{(c + a)^2 - ca}{(a - b)(c - b)}$",
+      "image": null,
+      "formulas": [
+        "\\frac{(a + b)^2 - ab}{(b - c)(a - c)} + \\frac{(b + c)^2 - bc}{(c - a)(b - a)} + \\frac{(c + a)^2 - ca}{(a - b)(c - b)}"
+      ],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p013",
+      "kind": "exercise",
+      "section": "৫. সরল করো:",
+      "caption": null,
+      "body": "খ) $\\frac{a}{(a - b)(a - c)(x - a)} + \\frac{b}{(b - c)(b - a)(x - b)} + \\frac{c}{(c - a)(c - b)(x - c)}$",
+      "image": null,
+      "formulas": [
+        "\\frac{a}{(a - b)(a - c)(x - a)} + \\frac{b}{(b - c)(b - a)(x - b)} + \\frac{c}{(c - a)(c - b)(x - c)}"
+      ],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p014",
+      "kind": "exercise",
+      "section": "৫. সরল করো:",
+      "caption": null,
+      "body": "গ) $\\frac{1}{(1 + x)} + \\frac{2}{(1 + x^2)} + \\frac{4}{(1 + x^4)} + \\frac{8}{(1 + x^8)} + \\frac{16}{(x^{16} - 1)}$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{(1 + x)} + \\frac{2}{(1 + x^2)} + \\frac{4}{(1 + x^4)} + \\frac{8}{(1 + x^8)} + \\frac{16}{(x^{16} - 1)}"
+      ],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p015",
+      "kind": "exercise",
+      "section": "৬. আংশিক ভগ্নাংশে প্রকাশ করো:",
+      "caption": null,
+      "body": "ক) $\\frac{5x + 4}{x(x + 2)}$",
+      "image": null,
+      "formulas": [
+        "\\frac{5x + 4}{x(x + 2)}"
+      ],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p016",
+      "kind": "exercise",
+      "section": "৬. আংশিক ভগ্নাংশে প্রকাশ করো:",
+      "caption": null,
+      "body": "খ) $\\frac{x + 2}{x^2 - 7x + 12}$",
+      "image": null,
+      "formulas": [
+        "\\frac{x + 2}{x^2 - 7x + 12}"
+      ],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p017",
+      "kind": "exercise",
+      "section": "৬. আংশিক ভগ্নাংশে প্রকাশ করো:",
+      "caption": null,
+      "body": "গ) $\\frac{x^2 - 9x - 6}{x(x - 2)(x + 3)}$",
+      "image": null,
+      "formulas": [
+        "\\frac{x^2 - 9x - 6}{x(x - 2)(x + 3)}"
+      ],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p018",
+      "kind": "exercise",
+      "section": "৬. আংশিক ভগ্নাংশে প্রকাশ করো:",
+      "caption": null,
+      "body": "ঘ) $\\frac{x^2 - 4x - 7}{(x + 1)(x^2 + 4)}$",
+      "image": null,
+      "formulas": [
+        "\\frac{x^2 - 4x - 7}{(x + 1)(x^2 + 4)}"
+      ],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p019",
+      "kind": "exercise",
+      "section": "৬. আংশিক ভগ্নাংশে প্রকাশ করো:",
+      "caption": null,
+      "body": "ঙ) $\\frac{x^2}{(2x + 1)(x + 3)^2}$",
+      "image": null,
+      "formulas": [
+        "\\frac{x^2}{(2x + 1)(x + 3)^2}"
+      ],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p020",
+      "kind": "exercise",
+      "section": "৬. আংশিক ভগ্নাংশে প্রকাশ করো:",
+      "caption": null,
+      "body": "৭. $x, y, z$ এর একটি বহুপদী, $F(x, y, z) = x^3 + y^3 + z^3 - 3xyz$।",
+      "image": null,
+      "formulas": [
+        "x, y, z",
+        "F(x, y, z) = x^3 + y^3 + z^3 - 3xyz"
+      ],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p021",
+      "kind": "exercise",
+      "section": "৬. আংশিক ভগ্নাংশে প্রকাশ করো:",
+      "caption": null,
+      "body": "ক) দেখাও যে, $F(x, y, z)$ হলো একটি চক্রবৃমিক রাশি।",
+      "image": null,
+      "formulas": [
+        "F(x, y, z)"
+      ],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p022",
+      "kind": "exercise",
+      "section": "৬. আংশিক ভগ্নাংশে প্রকাশ করো:",
+      "caption": null,
+      "body": "খ) $F(x, y, z)$ কে উৎপাদকে বিশ্লেষণ কর এবং যদি $F(x, y, z) = 0$, $(x + y + z) \\neq 0$ হয়, তবে দেখাও যে, $x^2 + y^2 + z^2 = xy + yz + zx$।",
+      "image": null,
+      "formulas": [
+        "F(x, y, z)",
+        "F(x, y, z) = 0",
+        "(x + y + z) \\neq 0",
+        "x^2 + y^2 + z^2 = xy + yz + zx"
+      ],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p023",
+      "kind": "exercise",
+      "section": "৬. আংশিক ভগ্নাংশে প্রকাশ করো:",
+      "caption": null,
+      "body": "গ) যদি $x = (b + c - a)$, $y = (c + a - b)$ এবং $z = (a + b - c)$ হয়, তবে দেখাও যে, $F(a, b, c) : F(x, y, z) = 1 : 4$।",
+      "image": null,
+      "formulas": [
+        "x = (b + c - a)",
+        "y = (c + a - b)",
+        "z = (a + b - c)",
+        "F(a, b, c) : F(x, y, z) = 1 : 4"
+      ],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p024",
+      "kind": "exercise",
+      "section": "৬. আংশিক ভগ্নাংশে প্রকাশ করো:",
+      "caption": null,
+      "body": "৮. চলক $x$ এর দুটি বহুপদী $P(x) = 7x^2 - 3x + 4x^4 - a + 12x^3$ এবং $Q(x) = 6x^3 + x^2 - 9x + 26$।",
+      "image": null,
+      "formulas": [
+        "x",
+        "P(x) = 7x^2 - 3x + 4x^4 - a + 12x^3",
+        "Q(x) = 6x^3 + x^2 - 9x + 26"
+      ],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p025",
+      "kind": "exercise",
+      "section": "৬. আংশিক ভগ্নাংশে প্রকাশ করো:",
+      "caption": null,
+      "body": "ক) $P(x)$ কে আদর্শরূপে লিখে এর মুখসহগ নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "P(x)"
+      ],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p026",
+      "kind": "exercise",
+      "section": "৬. আংশিক ভগ্নাংশে প্রকাশ করো:",
+      "caption": null,
+      "body": "খ) $P(x)$ এর একটি উৎপাদক $(x + 2)$ হলে $a$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "P(x)",
+        "(x + 2)",
+        "a"
+      ],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p027",
+      "kind": "exercise",
+      "section": "৬. আংশিক ভগ্নাংশে প্রকাশ করো:",
+      "caption": null,
+      "body": "গ) দেখাও যে, $P(x)$ এবং $Q(x)$ এর একটি সাধারণ উৎপাদক বিদ্যমান।",
+      "image": null,
+      "formulas": [
+        "P(x)",
+        "Q(x)"
+      ],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p028",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "১. নিচের কোন রাশিটি প্রতিসম?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p029",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "ক) $a + b + c$",
+      "image": null,
+      "formulas": [
+        "a + b + c"
+      ],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p030",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "খ) $xy - yz + zx$",
+      "image": null,
+      "formulas": [
+        "xy - yz + zx"
+      ],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p031",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "গ) $x^2 - y^2 + z^2$",
+      "image": null,
+      "formulas": [
+        "x^2 - y^2 + z^2"
+      ],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p032",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "ঘ) $2a^2 - 5bc - c^2$",
+      "image": null,
+      "formulas": [
+        "2a^2 - 5bc - c^2"
+      ],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p033",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "২. $P(x, y, z) = x^3 + y^3 + z^3 - 3xyz$ হলে\n    (i) $P(x, y, z)$ চক্রক্রমিক রাশি\n    (ii) $P(x, y, z)$ প্রতিসম রাশি\n    (iii) $P(1, -2, 1) = 0$\n    নিচের কোনটি সঠিক?\n    ক) $i, ii$                      খ) $i, iii$                      গ) $ii, iii$                      ঘ) $i, ii, iii$",
+      "image": null,
+      "formulas": [
+        "P(x, y, z) = x^3 + y^3 + z^3 - 3xyz",
+        "P(x, y, z)",
+        "P(x, y, z)",
+        "P(1, -2, 1) = 0",
+        "i, ii",
+        "i, iii",
+        "ii, iii",
+        "i, ii, iii"
+      ],
+      "pdfPageStart": 67,
+      "pdfPageEnd": 67,
+      "printedPageStart": 62,
+      "printedPageEnd": 62,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p034",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "$P(x) = x^5 - x^4 + x^3 - x^2 + x - 1$\nউপদ্বের তথ্যের আলোকে ৩ নং ও ৪ নং প্রশ্নের উত্তর দাও-",
+      "image": null,
+      "formulas": [
+        "P(x) = x^5 - x^4 + x^3 - x^2 + x - 1"
+      ],
+      "pdfPageStart": 67,
+      "pdfPageEnd": 67,
+      "printedPageStart": 62,
+      "printedPageEnd": 62,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p035",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৩. $P(x)$ এর একটি উৎপাদক নিচের কোনটি?\n    (ক) $x + 1$                      (খ) $x^2 - x - 1$\n    (গ) $x^2 + x - 1$                (ঘ) $x - 1$",
+      "image": null,
+      "formulas": [
+        "P(x)",
+        "x + 1",
+        "x^2 - x - 1",
+        "x^2 + x - 1",
+        "x - 1"
+      ],
+      "pdfPageStart": 67,
+      "pdfPageEnd": 67,
+      "printedPageStart": 62,
+      "printedPageEnd": 62,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p036",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৪. $P(-2)$ এর মান নিচের কোনটি?\n    (ক) $-63$                      (খ) $-55$\n    (গ) $-47$                      (ঘ) $-31$",
+      "image": null,
+      "formulas": [
+        "P(-2)",
+        "-63",
+        "-55",
+        "-47",
+        "-31"
+      ],
+      "pdfPageStart": 67,
+      "pdfPageEnd": 67,
+      "printedPageStart": 62,
+      "printedPageEnd": 62,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p037",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "৫. $P(a, b, c) = (a + b + c)(ab + bc + ca)$ এবং $Q = a^{-3} + b^{-3} + c^{-3} - 3a^{-1}b^{-1}c^{-1}$।\n    ক) $P(a, b, c)$ চক্রক্রমিক ও প্রতিসম রাশি কিনা তা কারণসহ উল্লেখ করো।\n    খ) $Q = 0$ হলে, প্রমাণ করো যে, $a = b = c$ অথবা $ab + bc + ca = 0$।\n    গ) $P(a, b, c) = abc$ হলে দেখাও যে, $\\frac{1}{(a + b + c)^7} = \\frac{1}{a^7} + \\frac{1}{b^7} + \\frac{1}{c^7}$।",
+      "image": null,
+      "formulas": [
+        "P(a, b, c) = (a + b + c)(ab + bc + ca)",
+        "Q = a^{-3} + b^{-3} + c^{-3} - 3a^{-1}b^{-1}c^{-1}",
+        "P(a, b, c)",
+        "Q = 0",
+        "a = b = c",
+        "ab + bc + ca = 0",
+        "P(a, b, c) = abc",
+        "\\frac{1}{(a + b + c)^7} = \\frac{1}{a^7} + \\frac{1}{b^7} + \\frac{1}{c^7}"
+      ],
+      "pdfPageStart": 67,
+      "pdfPageEnd": 67,
+      "printedPageStart": 62,
+      "printedPageEnd": 62,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p038",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "৬. $P(x) = 18x^3 + bx^2 - x - 2$ এবং $Q(x) = 4x^4 + 12x^3 + 7x^2 - 3x - 2$।\n    ক) $\\frac{Q(x)}{P(x)}$ ভাগফলটির মাত্রা নির্ণয় করো।\n    খ) $3x + 2, P(x)$ এর একটি উৎপাদক হলে $b$ এর মান নির্ণয় করো।\n    গ) $\\frac{8x^2 - 2}{Q(x)}$ কে আংশিক ভঙ্গাংশে প্রকাশ করো।",
+      "image": null,
+      "formulas": [
+        "P(x) = 18x^3 + bx^2 - x - 2",
+        "Q(x) = 4x^4 + 12x^3 + 7x^2 - 3x - 2",
+        "\\frac{Q(x)}{P(x)}",
+        "3x + 2, P(x)",
+        "b",
+        "\\frac{8x^2 - 2}{Q(x)}"
+      ],
+      "pdfPageStart": 67,
+      "pdfPageEnd": 67,
+      "printedPageStart": 62,
+      "printedPageEnd": 62,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.ex-p039",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "৭. ক) $x^4 - 5x^3 + 7x^2 - a$ বহুপদীর একটি উৎপাদক $x - 2$ হলে, দেখাও যে, $a = 4$।\n    খ) $4a^4 + 12a^3 + 7a^2 - 3a - 2$ কে উৎপাদকে বিশ্লেষণ করো।\n    গ) সরল করো: $\\frac{a^2}{(a - b)(a - c)} + \\frac{b^2}{(b - c)(b - a)} + \\frac{c^2}{(c - a)(c - b)}$",
+      "image": null,
+      "formulas": [
+        "x^4 - 5x^3 + 7x^2 - a",
+        "x - 2",
+        "a = 4",
+        "4a^4 + 12a^3 + 7a^2 - 3a - 2",
+        "\\frac{a^2}{(a - b)(a - c)} + \\frac{b^2}{(b - c)(b - a)} + \\frac{c^2}{(c - a)(c - b)}"
+      ],
+      "pdfPageStart": 67,
+      "pdfPageEnd": 67,
+      "printedPageStart": 62,
+      "printedPageEnd": 62,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

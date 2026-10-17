@@ -1,0 +1,91 @@
+{
+  "id": "chemistry-9-10-bn-c11",
+  "textbookId": "chemistry-9-10-bn",
+  "number": 11,
+  "title": "খনিজ সম্পদ: জীবাশ্ম",
+  "englishTitle": "Mineral Resources: Fossils",
+  "pdfPages": [
+    266,
+    291
+  ],
+  "printedPages": [
+    261,
+    286
+  ],
+  "topics": [
+    {
+      "key": "11.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/11.0.json",
+      "passages": 4
+    },
+    {
+      "key": "11.1",
+      "title": "জীবাশ্ম জ্বালানি (Fossil Fuel)",
+      "file": "topics/11.1.json",
+      "passages": 15
+    },
+    {
+      "key": "11.2",
+      "title": "হাইড্রোকার্বন (Hydrocarbons)",
+      "file": "topics/11.2.json",
+      "passages": 23
+    },
+    {
+      "key": "11.3",
+      "title": "সম্পৃক্ত হাইড্রোকার্বন: অ্যালকেন",
+      "file": "topics/11.3.json",
+      "passages": 24
+    },
+    {
+      "key": "11.4",
+      "title": "অসম্পূর্ণ হাইড্রোকার্বন: অ্যালকিন ও অ্যালকাইন",
+      "file": "topics/11.4.json",
+      "passages": 35
+    },
+    {
+      "key": "11.5",
+      "title": "অ্যালকোহল, অ্যালডিহাইড ও ফ্যাটি এসিড",
+      "file": "topics/11.5.json",
+      "passages": 24
+    },
+    {
+      "key": "11.6",
+      "title": "অ্যালকোহল, অ্যালডিহাইড ও জৈব এসিডের ব্যবহার",
+      "file": "topics/11.6.json",
+      "passages": 4
+    },
+    {
+      "key": "11.7",
+      "title": "পলিমার (Polymer)",
+      "file": "topics/11.7.json",
+      "passages": 27
+    },
+    {
+      "key": "11.ex",
+      "title": "নমুনা প্রশ্ন",
+      "file": "topics/11.ex.json",
+      "passages": 23
+    }
+  ],
+  "stats": {
+    "topics": 9,
+    "passages": 179,
+    "images": 6,
+    "byKind": {
+      "figure": 10,
+      "text": 127,
+      "table": 5,
+      "formula": 12,
+      "activity": 2,
+      "exercise": 23
+    },
+    "byReason": {
+      "latin-junk": 24,
+      "known-confusable-corrected": 25,
+      "verify-table": 5,
+      "verify-formula": 37
+    },
+    "needsReview": 73
+  }
+}

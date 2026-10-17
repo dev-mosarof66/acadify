@@ -1,0 +1,197 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.17",
+  "key": "1.17",
+  "title": "বিনিময়বিধির প্রতিজ্ঞা দুটি যাচাইকরণ",
+  "chapter": 1,
+  "ordinal": 17,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.17-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "নিচের বামের চিত্রে গাঢ় অংশটুকু $A \\cup B$ এবং $B \\cup A$ উভয় সেটই নির্দেশ করে। সুতরাং এখানে দেখা যাচ্ছে $A \\cup B = B \\cup A$। নিচের ডানের চিত্রে গাঢ় অংশটুকু $A \\cap B$ এবং $B \\cap A$ উভয় সেটই নির্দেশ করে। সুতরাং এখানে দেখা যাচ্ছে $A \\cap B = B \\cap A$।",
+      "image": null,
+      "formulas": [
+        "A \\cup B",
+        "B \\cup A",
+        "A \\cup B = B \\cup A",
+        "A \\cap B",
+        "B \\cap A",
+        "A \\cap B = B \\cap A"
+      ],
+      "pdfPageStart": 12,
+      "pdfPageEnd": 12,
+      "printedPageStart": 7,
+      "printedPageEnd": 7,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.17-p002",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: Venn diagram showing the union of sets A and B\ndrawing: Venn diagram showing the intersection of sets A and B",
+      "image": "p12-page_7_image_3_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 12,
+      "pdfPageEnd": 12,
+      "printedPageStart": 7,
+      "printedPageEnd": 7,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.17-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "উপরে ভেনচিট্রের সাহায্যে যাচাই করা হয়েছে। এবার সুনির্দিষ্ট উদাহরণ দিয়ে দেখা যাক।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 12,
+      "pdfPageEnd": 12,
+      "printedPageStart": 7,
+      "printedPageEnd": 7,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.17-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "মনে করি, $A = \\{1, 2, 4\\}$ এবং $B = \\{2, 3, 5\\}$ দুটি সেট।",
+      "image": null,
+      "formulas": [
+        "A = \\{1, 2, 4\\}",
+        "B = \\{2, 3, 5\\}"
+      ],
+      "pdfPageStart": 12,
+      "pdfPageEnd": 12,
+      "printedPageStart": 7,
+      "printedPageEnd": 7,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.17-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাহলে, $A \\cup B = \\{1, 2, 4\\} \\cup \\{2, 3, 5\\} = \\{1, 2, 3, 4, 5\\}$।",
+      "image": null,
+      "formulas": [
+        "A \\cup B = \\{1, 2, 4\\} \\cup \\{2, 3, 5\\} = \\{1, 2, 3, 4, 5\\}"
+      ],
+      "pdfPageStart": 12,
+      "pdfPageEnd": 12,
+      "printedPageStart": 7,
+      "printedPageEnd": 7,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.17-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার, $B \\cup A = \\{2, 3, 5\\} \\cup \\{1, 2, 4\\} = \\{1, 2, 3, 4, 5\\}$।",
+      "image": null,
+      "formulas": [
+        "B \\cup A = \\{2, 3, 5\\} \\cup \\{1, 2, 4\\} = \\{1, 2, 3, 4, 5\\}"
+      ],
+      "pdfPageStart": 12,
+      "pdfPageEnd": 12,
+      "printedPageStart": 7,
+      "printedPageEnd": 7,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.17-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং এখানে $A \\cup B = B \\cup A$।",
+      "image": null,
+      "formulas": [
+        "A \\cup B = B \\cup A"
+      ],
+      "pdfPageStart": 12,
+      "pdfPageEnd": 12,
+      "printedPageStart": 7,
+      "printedPageEnd": 7,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.17-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অন্যদিকে, $A \\cap B = \\{1, 2, 4\\} \\cap \\{2, 3, 5\\} = \\{2\\}$",
+      "image": null,
+      "formulas": [
+        "A \\cap B = \\{1, 2, 4\\} \\cap \\{2, 3, 5\\} = \\{2\\}"
+      ],
+      "pdfPageStart": 12,
+      "pdfPageEnd": 12,
+      "printedPageStart": 7,
+      "printedPageEnd": 7,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.17-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এবং $B \\cap A = \\{2, 3, 5\\} \\cap \\{1, 2, 4\\} = \\{2\\}$।",
+      "image": null,
+      "formulas": [
+        "B \\cap A = \\{2, 3, 5\\} \\cap \\{1, 2, 4\\} = \\{2\\}"
+      ],
+      "pdfPageStart": 12,
+      "pdfPageEnd": 12,
+      "printedPageStart": 7,
+      "printedPageEnd": 7,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.17-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং এখানে $A \\cap B = B \\cap A$।",
+      "image": null,
+      "formulas": [
+        "A \\cap B = B \\cap A"
+      ],
+      "pdfPageStart": 12,
+      "pdfPageEnd": 12,
+      "printedPageStart": 7,
+      "printedPageEnd": 7,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

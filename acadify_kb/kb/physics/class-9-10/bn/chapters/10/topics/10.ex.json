@@ -1,0 +1,570 @@
+{
+  "id": "physics-9-10-bn-c10-t10.ex",
+  "key": "10.ex",
+  "title": "নমুনা প্রশ্ন",
+  "chapter": 10,
+  "ordinal": 9,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p001",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "সঠিক উত্তরটির পাশে টিক (✓) চিহ্ন দাও",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 300,
+      "pdfPageEnd": 300,
+      "printedPageStart": 295,
+      "printedPageEnd": 295,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p002",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "১. কোনো বস্তুতে আধানের অস্তিত্ব নির্ণয়ের যন্ত্র হলো–",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 300,
+      "pdfPageEnd": 300,
+      "printedPageStart": 295,
+      "printedPageEnd": 295,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p003",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) অ্যামিটার\n(খ) ভোল্টমিটার\n(গ) অণুবীক্ষণ যন্ত্র\n(ঘ) তড়িৎবীক্ষণ যন্ত্র",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 300,
+      "pdfPageEnd": 300,
+      "printedPageStart": 295,
+      "printedPageEnd": 295,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p004",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "২. দুটি আধানের মধ্যকার তড়িৎ বল নিচের কোনটির ওপর নির্ভর করে না?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 300,
+      "pdfPageEnd": 300,
+      "printedPageStart": 295,
+      "printedPageEnd": 295,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p005",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "i. আধান দুটির মধ্যবর্তী দূরত্বের ওপর।\nii. আধান দুটি যে মাধ্যমে অবস্থিত তার প্রকৃতির ওপর।\niii. আধান দুটির ভরের ওপর।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 300,
+      "pdfPageEnd": 300,
+      "printedPageStart": 295,
+      "printedPageEnd": 295,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p006",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "কোনটি সঠিক",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 300,
+      "pdfPageEnd": 300,
+      "printedPageStart": 295,
+      "printedPageEnd": 295,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p007",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) i ও ii\n(খ) iii\n(গ) ii ও iii\n(ঘ) i, iii ও iii",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 300,
+      "pdfPageEnd": 300,
+      "printedPageStart": 295,
+      "printedPageEnd": 295,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p008",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৩. তড়িৎ তীব্রতার একক হচ্ছে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 300,
+      "pdfPageEnd": 300,
+      "printedPageStart": 295,
+      "printedPageEnd": 295,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p009",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) N\n(খ) Nm\n(গ) Nm<sup>-1</sup>\n(ঘ) NC<sup>-1</sup>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 300,
+      "pdfPageEnd": 300,
+      "printedPageStart": 295,
+      "printedPageEnd": 295,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p010",
+      "kind": "figure",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "drawing: Two charged spheres A and B connected by a rod, with labels for voltage (5V, 3V) and charge (6C, 9C)",
+      "image": "p301-page_27_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 301,
+      "pdfPageEnd": 301,
+      "printedPageStart": 296,
+      "printedPageEnd": 296,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p011",
+      "kind": "figure",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "**চিত্র ১০.১৭**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 301,
+      "pdfPageEnd": 301,
+      "printedPageStart": 296,
+      "printedPageEnd": 296,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p012",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "**৪. ১০.১৭ চিত্রে**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 301,
+      "pdfPageEnd": 301,
+      "printedPageStart": 296,
+      "printedPageEnd": 296,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p013",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "i. A গোলক থেকে কিছু আধান B গোলকে যাবে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 301,
+      "pdfPageEnd": 301,
+      "printedPageStart": 296,
+      "printedPageEnd": 296,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p014",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "ii. A গোলক থেকে নির্গত বলরেখা B গোলকে যাবে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 301,
+      "pdfPageEnd": 301,
+      "printedPageStart": 296,
+      "printedPageEnd": 296,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p015",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "iii. আধান পার্থক্য সর্বদা সমান থাকে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 301,
+      "pdfPageEnd": 301,
+      "printedPageStart": 296,
+      "printedPageEnd": 296,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p016",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "নিচের কোনটি সঠিক?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 301,
+      "pdfPageEnd": 301,
+      "printedPageStart": 296,
+      "printedPageEnd": 296,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p017",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) i",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 301,
+      "pdfPageEnd": 301,
+      "printedPageStart": 296,
+      "printedPageEnd": 296,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p018",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(খ) ii",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 301,
+      "pdfPageEnd": 301,
+      "printedPageStart": 296,
+      "printedPageEnd": 296,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p019",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(গ) i ও iii",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 301,
+      "pdfPageEnd": 301,
+      "printedPageStart": 296,
+      "printedPageEnd": 296,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p020",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ঘ) i, ii ও iii",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 301,
+      "pdfPageEnd": 301,
+      "printedPageStart": 296,
+      "printedPageEnd": 296,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p021",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "**৫. একটি 10 $\\mu$F এর ধারককে 12 V বিভব পার্থক্যে যুক্ত করলে ধারকে কী পরিমাণ শক্তিতে সঞ্চিত হবে?**",
+      "image": null,
+      "formulas": [
+        "\\mu"
+      ],
+      "pdfPageStart": 301,
+      "pdfPageEnd": 301,
+      "printedPageStart": 296,
+      "printedPageEnd": 296,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p022",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) $6 \\times 10^{-10}$ J",
+      "image": null,
+      "formulas": [
+        "6 \\times 10^{-10}"
+      ],
+      "pdfPageStart": 301,
+      "pdfPageEnd": 301,
+      "printedPageStart": 296,
+      "printedPageEnd": 296,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p023",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(খ) $6 \\times 10^{-5}$ J",
+      "image": null,
+      "formulas": [
+        "6 \\times 10^{-5}"
+      ],
+      "pdfPageStart": 301,
+      "pdfPageEnd": 301,
+      "printedPageStart": 296,
+      "printedPageEnd": 296,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p024",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(গ) $1.44 \\times 10^{-3}$ J",
+      "image": null,
+      "formulas": [
+        "1.44 \\times 10^{-3}"
+      ],
+      "pdfPageStart": 301,
+      "pdfPageEnd": 301,
+      "printedPageStart": 296,
+      "printedPageEnd": 296,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p025",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ঘ) $7.2 \\times 10^{-4}$ J",
+      "image": null,
+      "formulas": [
+        "7.2 \\times 10^{-4}"
+      ],
+      "pdfPageStart": 301,
+      "pdfPageEnd": 301,
+      "printedPageStart": 296,
+      "printedPageEnd": 296,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p026",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "১. রিমা চুল আঁচড়ানোর পর দেখতে পেল তার চিরুনি ছোট ছোট কাগজের টুকরাকে আকর্ষণ করছে।\nসীমা বলল চিরুনিটি ধনাত্মকভাবে আহিত হয়েছে, যার জন্য এটা ঘটেছে। রিমার বন্ধুবা চিরুনিটি ঋণাত্মক আধানে আহিত হয়েছে। বিষয়টির সুরাহার জন্য দুজন তাদের পদার্থবিজ্ঞান শিক্ষককে খুঁজতে গিয়ে তাকে পদার্থবিজ্ঞান গবেষণাগারে পেল। তিনি সব শুনে তাদেরকে তড়িৎবিজ্ঞান যন্ত্রের সাহায্যে পরীক্ষা করে চিরুনির আধানের প্রকৃতি নির্ণয় করতে বললেন।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 302,
+      "pdfPageEnd": 302,
+      "printedPageStart": 297,
+      "printedPageEnd": 297,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p027",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(ক) আধান বলতে কী বোঝায়?\n(খ) কোনো বিন্দুতে তড়িৎ বিভব শূন্য হলেই তড়িৎ ক্ষেত্র শূন্য হবে কী? ব্যাখ্যা কর।\n(গ) চিরুনিটি আহিত হওয়ার কারণ বর্ণনা করো।\n(ঘ) যন্ত্রটির সাহায্যে কীভাবে চিরুনিটির আধানের প্রকৃতি নির্ণয় করা যাবে ব্যাখ্যা করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 302,
+      "pdfPageEnd": 302,
+      "printedPageStart": 297,
+      "printedPageEnd": 297,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p028",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "২. $q_1 (2 C)$, $q_2 (-1 C)$ এবং $q_3 (1 C)$ এই তিনটি আধান একটি সরল রেখায় পর্যায়ক্রমে (চিত্র ১০.১৮) পরস্পর থেকে 1m সমদূরত্বে রাখা আছে।",
+      "image": null,
+      "formulas": [
+        "q_1 (2 C)",
+        "q_2 (-1 C)",
+        "q_3 (1 C)"
+      ],
+      "pdfPageStart": 302,
+      "pdfPageEnd": 302,
+      "printedPageStart": 297,
+      "printedPageEnd": 297,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p029",
+      "kind": "figure",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "drawing: diagram of three charges q1, q2, and q3 on a line with distances 1m between them",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 302,
+      "pdfPageEnd": 302,
+      "printedPageStart": 297,
+      "printedPageEnd": 297,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p030",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(ক) তড়িৎ বল কী?\n(খ) তড়িৎ ক্ষেত্র ও তড়িৎ বিভব একই নয় কেন?\n(গ) তিনটি চার্জের জন্য যে বলরেখা তৈরি হবে তার চিত্র আঁকো।\n(ঘ) $q_1$ আধানটির মান কত হলে $q_3$ আধানটি কোনো বল অনুভব করবে না বিশ্লেষণ করো।",
+      "image": null,
+      "formulas": [
+        "q_1",
+        "q_3"
+      ],
+      "pdfPageStart": 302,
+      "pdfPageEnd": 302,
+      "printedPageStart": 297,
+      "printedPageEnd": 297,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p031",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "১. স্বাভাবিক পরমাণু চার্জ নিরপেক্ষ কেন? ব্যাখ্যা কর।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 302,
+      "pdfPageEnd": 302,
+      "printedPageStart": 297,
+      "printedPageEnd": 297,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p032",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "২. ঘর্ষণে একটি অনাহিত বস্তু কীভাবে আহিত হয়- ব্যাখ্যা কর।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 302,
+      "pdfPageEnd": 302,
+      "printedPageStart": 297,
+      "printedPageEnd": 297,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p033",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "৩. শিশু হামাগুড়ি দেয়ার সময় শরীরের চুল খাড়া হয়ে যায় কেন? ব্যাখ্যা কর।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 302,
+      "pdfPageEnd": 302,
+      "printedPageStart": 297,
+      "printedPageEnd": 297,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.ex-p034",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "৪. তড়িৎ ক্ষেত্রের দুই বিন্দুর পার্থক্য 2 V বলতে কী বোঝায়?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 302,
+      "pdfPageEnd": 302,
+      "printedPageStart": 297,
+      "printedPageEnd": 297,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

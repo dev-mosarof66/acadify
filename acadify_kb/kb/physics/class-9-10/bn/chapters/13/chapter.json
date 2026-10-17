@@ -1,0 +1,72 @@
+{
+  "id": "physics-9-10-bn-c13",
+  "textbookId": "physics-9-10-bn",
+  "number": 13,
+  "title": "তেজস্ক্রিয়তা ও ইলেকট্রনিকস",
+  "englishTitle": "Rodioactivity and Electronics",
+  "pdfPages": [
+    351,
+    366
+  ],
+  "printedPages": [
+    346,
+    361
+  ],
+  "topics": [
+    {
+      "key": "13.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/13.0.json",
+      "passages": 4
+    },
+    {
+      "key": "13.1",
+      "title": "তেজস্ক্রিয়তা (Radioactivity)",
+      "file": "topics/13.1.json",
+      "passages": 44
+    },
+    {
+      "key": "13.2",
+      "title": "ইলেকট্রনিকসের ক্রমবিকাশ (Development of Electronics)",
+      "file": "topics/13.2.json",
+      "passages": 10
+    },
+    {
+      "key": "13.3",
+      "title": "অ্যানালগ ও ডিজিটাল ইলেকট্রনিকস (Analog & Digital Electronics)",
+      "file": "topics/13.3.json",
+      "passages": 7
+    },
+    {
+      "key": "13.4",
+      "title": "সেমিকন্ডাক্টর (Semiconductor)",
+      "file": "topics/13.4.json",
+      "passages": 8
+    },
+    {
+      "key": "13.ex",
+      "title": "নমুনা প্রশ্ন",
+      "file": "topics/13.ex.json",
+      "passages": 23
+    }
+  ],
+  "stats": {
+    "topics": 6,
+    "passages": 96,
+    "images": 5,
+    "byKind": {
+      "figure": 10,
+      "text": 53,
+      "objective": 1,
+      "formula": 7,
+      "example": 2,
+      "exercise": 23
+    },
+    "byReason": {
+      "verify-formula": 11,
+      "latin-junk": 4,
+      "known-confusable-corrected": 5
+    },
+    "needsReview": 19
+  }
+}

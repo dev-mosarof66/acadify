@@ -1,0 +1,87 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.7",
+  "key": "1.7",
+  "title": "প্রকৃত উপসেট (Proper Subset)",
+  "chapter": 1,
+  "ordinal": 7,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.7-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$A$ কে $B$ এর প্রকৃত উপসেট বলা হয় যদি ও কেবল যদি $A \\subsetneq B$ এবং $A \\neq B$। অর্থাৎ $A$ এর প্রত্যেক উপাদান $B$ এরও উপাদান এবং $B$ তে অন্তত একটি উপাদান আছে যা $A$ তে নেই। যেমন $A = \\{1, 2\\}$, $B = \\{1, 2, 3\\}$। $A, B$ এর প্রকৃত উপসেট বুঝাতে $A \\subset B$ লেখা হয়।",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "A \\subsetneq B",
+        "A \\neq B",
+        "A",
+        "B",
+        "B",
+        "A",
+        "A = \\{1, 2\\}",
+        "B = \\{1, 2, 3\\}",
+        "A, B",
+        "A \\subset B"
+      ],
+      "pdfPageStart": 8,
+      "pdfPageEnd": 8,
+      "printedPageStart": 3,
+      "printedPageEnd": 3,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.7-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) যেকোনো সেট $A$ এর জন্য $A \\subsetneq A$। এর কারণ $x \\in A \\implies x \\in A$।",
+      "image": null,
+      "formulas": [
+        "A",
+        "A \\subsetneq A",
+        "x \\in A \\implies x \\in A"
+      ],
+      "pdfPageStart": 8,
+      "pdfPageEnd": 8,
+      "printedPageStart": 3,
+      "printedPageEnd": 3,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.7-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) যেকোনো সেট $A$ এর জন্য $\\emptyset \\subsetneq A$। এর কারণ $\\emptyset \\subsetneq A$ না হলে $\\emptyset$ তে একটি উপাদান $x$ আছে যা $A$ তে নাই। কিন্তু ইহা কখনই সত্য নয় কারণ $\\emptyset$ ফাঁকা সেট। অতএব $\\emptyset \\subsetneq A$। উল্লেখ্য ফাঁকা সেট বা $\\emptyset$ যেকোনো সেটের প্রকৃত উপসেট।",
+      "image": null,
+      "formulas": [
+        "A",
+        "\\emptyset \\subsetneq A",
+        "\\emptyset \\subsetneq A",
+        "\\emptyset",
+        "x",
+        "A",
+        "\\emptyset",
+        "\\emptyset \\subsetneq A",
+        "\\emptyset"
+      ],
+      "pdfPageStart": 8,
+      "pdfPageEnd": 8,
+      "printedPageStart": 3,
+      "printedPageEnd": 3,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

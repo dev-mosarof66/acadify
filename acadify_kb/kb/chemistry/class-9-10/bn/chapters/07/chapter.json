@@ -1,0 +1,78 @@
+{
+  "id": "chemistry-9-10-bn-c07",
+  "textbookId": "chemistry-9-10-bn",
+  "number": 7,
+  "title": "রাসায়নিক বিক্রিয়া",
+  "englishTitle": "Chemical Reactions",
+  "pdfPages": [
+    147,
+    172
+  ],
+  "printedPages": [
+    142,
+    167
+  ],
+  "topics": [
+    {
+      "key": "7.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/7.0.json",
+      "passages": 3
+    },
+    {
+      "key": "7.1",
+      "title": "পদার্থের পরিবর্তন (Changes of Matter)",
+      "file": "topics/7.1.json",
+      "passages": 7
+    },
+    {
+      "key": "7.2",
+      "title": "রাসায়নিক বিক্রিয়ার শ্রেণিবিভাগ",
+      "file": "topics/7.2.json",
+      "passages": 94
+    },
+    {
+      "key": "7.3",
+      "title": "বিশেষ ধরনের রাসায়নিক বিক্রিয়া",
+      "file": "topics/7.3.json",
+      "passages": 18
+    },
+    {
+      "key": "7.4",
+      "title": "বাস্তব ক্ষেত্রে সংঘটিত কয়েকটি রাসায়নিক বিক্রিয়ার উদাহরণ",
+      "file": "topics/7.4.json",
+      "passages": 20
+    },
+    {
+      "key": "7.5",
+      "title": "বিক্রিয়ার গতিবেগ বা বিক্রিয়ার হার (Rate of Reaction)",
+      "file": "topics/7.5.json",
+      "passages": 52
+    },
+    {
+      "key": "7.ex",
+      "title": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "file": "topics/7.ex.json",
+      "passages": 3
+    }
+  ],
+  "stats": {
+    "topics": 7,
+    "passages": 197,
+    "images": 6,
+    "byKind": {
+      "figure": 11,
+      "text": 149,
+      "formula": 33,
+      "table": 1,
+      "exercise": 3
+    },
+    "byReason": {
+      "verify-formula": 72,
+      "latin-junk": 16,
+      "known-confusable-corrected": 2,
+      "verify-table": 1
+    },
+    "needsReview": 78
+  }
+}

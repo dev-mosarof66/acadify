@@ -1,0 +1,99 @@
+{
+  "id": "physics-9-10-bn-c02",
+  "textbookId": "physics-9-10-bn",
+  "number": 2,
+  "title": "গতি",
+  "englishTitle": "Motion",
+  "pdfPages": [
+    37,
+    66
+  ],
+  "printedPages": [
+    32,
+    61
+  ],
+  "topics": [
+    {
+      "key": "2.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/2.0.json",
+      "passages": 4
+    },
+    {
+      "key": "2.1",
+      "title": "স্থিতি এবং গতি (Rest and Motion)",
+      "file": "topics/2.1.json",
+      "passages": 6
+    },
+    {
+      "key": "2.2",
+      "title": "বিভিন্ন প্রকার গতি (Different Types of Motion)",
+      "file": "topics/2.2.json",
+      "passages": 12
+    },
+    {
+      "key": "2.3",
+      "title": "স্কেলার ও ভেক্টর রাশি (Scalar and Vector Quantities)",
+      "file": "topics/2.3.json",
+      "passages": 6
+    },
+    {
+      "key": "2.4",
+      "title": "দূরত্ব ও সরণ (Distance and Displacement)",
+      "file": "topics/2.4.json",
+      "passages": 10
+    },
+    {
+      "key": "2.5",
+      "title": "দ্রুতি এবং বেগ (Speed and Velocity)",
+      "file": "topics/2.5.json",
+      "passages": 26
+    },
+    {
+      "key": "2.6",
+      "title": "ত্বরণ",
+      "file": "topics/2.6.json",
+      "passages": 21
+    },
+    {
+      "key": "2.7",
+      "title": "গতির সমীকরণ (Equations of Motion)",
+      "file": "topics/2.7.json",
+      "passages": 47
+    },
+    {
+      "key": "2.8",
+      "title": "পড়ন্ত বস্তুর সূত্র (Laws of Falling Bodies)",
+      "file": "topics/2.8.json",
+      "passages": 81
+    },
+    {
+      "key": "2.ex",
+      "title": "নমুনা প্রশ্ন",
+      "file": "topics/2.ex.json",
+      "passages": 42
+    }
+  ],
+  "stats": {
+    "topics": 10,
+    "passages": 255,
+    "images": 8,
+    "byKind": {
+      "figure": 18,
+      "text": 139,
+      "objective": 1,
+      "formula": 38,
+      "example": 9,
+      "table": 6,
+      "activity": 4,
+      "exercise": 40
+    },
+    "byReason": {
+      "latin-junk": 12,
+      "verify-formula": 75,
+      "verify-table": 6,
+      "known-confusable-corrected": 16
+    },
+    "needsReview": 107
+  }
+}

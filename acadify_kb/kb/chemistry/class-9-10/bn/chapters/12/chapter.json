@@ -1,0 +1,67 @@
+{
+  "id": "chemistry-9-10-bn-c12",
+  "textbookId": "chemistry-9-10-bn",
+  "number": 12,
+  "title": "আমাদের জীবনে রসায়ন",
+  "englishTitle": "Chemistry in Our Lives",
+  "pdfPages": [
+    292,
+    310
+  ],
+  "printedPages": [
+    287,
+    305
+  ],
+  "topics": [
+    {
+      "key": "12.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/12.0.json",
+      "passages": 4
+    },
+    {
+      "key": "12.1",
+      "title": "গৃহস্থালির রসায়ন (Domestic Chemistry)",
+      "file": "topics/12.1.json",
+      "passages": 23
+    },
+    {
+      "key": "12.2",
+      "title": "পরিষ্কার-পরিচ্ছন্নতায় রসায়ন (Chemistry for Cleanliness)",
+      "file": "topics/12.2.json",
+      "passages": 70
+    },
+    {
+      "key": "12.3",
+      "title": "কৃষি ও শিল্পক্ষেত্রে রসায়ন",
+      "file": "topics/12.3.json",
+      "passages": 23
+    },
+    {
+      "key": "12.ex",
+      "title": "সৃজনশীল প্রশ্ন",
+      "file": "topics/12.ex.json",
+      "passages": 8
+    }
+  ],
+  "stats": {
+    "topics": 5,
+    "passages": 128,
+    "images": 6,
+    "byKind": {
+      "figure": 10,
+      "text": 88,
+      "formula": 21,
+      "activity": 1,
+      "table": 1,
+      "exercise": 7
+    },
+    "byReason": {
+      "latin-junk": 9,
+      "verify-formula": 23,
+      "known-confusable-corrected": 8,
+      "verify-table": 1
+    },
+    "needsReview": 36
+  }
+}

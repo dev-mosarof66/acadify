@@ -1,0 +1,69 @@
+{
+  "id": "physics-9-10-bn-c07-t7.0",
+  "key": "7.0",
+  "title": "ভূমিকা ও শিখনফল",
+  "chapter": 7,
+  "ordinal": 0,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c07-t7.0-p001",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "photo: a large ocean wave curling over",
+      "image": "p191-page_1_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 191,
+      "pdfPageEnd": 191,
+      "printedPageStart": 186,
+      "printedPageEnd": 186,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c07-t7.0-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "পদার্থবিজ্ঞান ঠিকভাবে বোঝার জন্য যে কয়েকটি বিষয়ে সুস্পষ্ট ধারণা থাকতে হয়, তার একটি হচ্ছে তরঙ্গ। আমাদের পরিচিত কয়েক ধরনের যান্ত্রিক তরঙ্গের মাঝেই আমরা এই অধ্যায়ের আলোচনা সীমাবদ্ধ রাখব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 191,
+      "pdfPageEnd": 191,
+      "printedPageStart": 186,
+      "printedPageEnd": 186,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c07-t7.0-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "শব্দ একধরনের তরঙ্গ। আমাদের দৈনন্দিন জীবনে শব্দের খুব বড় একটা ভূমিকা রয়েছে। তাই আমরা এই অধ্যায়ে শব্দ, শব্দের বেগ, শব্দের প্রতিধ্বনি এবং তার দূষণ নিয়েও আলোচনা করব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 191,
+      "pdfPageEnd": 191,
+      "printedPageStart": 186,
+      "printedPageEnd": 186,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c07-t7.0-p004",
+      "kind": "objective",
+      "section": "এ অধ্যায় শেষে আমরা –",
+      "caption": null,
+      "body": "* তরঞ্জোর বৈশিষ্ট্য ব্যাখ্যা করতে পারব।\n* তরঞ্জা-সংশ্লিষ্ট রাশিসমূহের মধ্যে সরল গাণিতিক সম্পর্ক স্থাপন এবং পরিমাণ করতে পারব।\n* শব্দ তরঞ্জোর বৈশিষ্ট্য ব্যাখ্যা করতে পারব।\n* প্রতিধ্বনি সৃষ্টি ব্যাখ্যা করতে পারব।\n* দৈনন্দিন জীবনে প্রতিধ্বনি ব্যবহার ব্যাখ্যা করতে পারব।\n* শব্দের বেগ, কম্পাঙ্ক এবং তরঞ্জা দৈর্ঘ্যের গাণিতিক সম্পর্ক স্থাপন এবং তা থেকে রাশিসমূহ পরিমাণ করতে পারব।\n* শব্দের বেগের পরিবর্তন ব্যাখ্যা করতে পারব।\n* শ্রাব্যতার সীমা ও এদের ব্যবহার ব্যাখ্যা করতে পারব।\n* শব্দদূষণের কারণ ও ফলাফল এবং প্রতিরোধের কৌশল ব্যাখ্যা করতে পারব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 192,
+      "pdfPageEnd": 192,
+      "printedPageStart": 187,
+      "printedPageEnd": 187,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.23",
+  "key": "1.23",
+  "title": "সান্ত ও অনন্ত সেট (Finite and Infinite Sets)",
+  "chapter": 1,
+  "ordinal": 23,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.23-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$A = \\{15, 16, 17, 18, 19, 20, 21, 22\\}$ সেটটির সদস্যগুলো গণনা করে দেখা যায় যে, $A$ সেটের সদস্য সংখ্যা ৪। এই গণনার কাজ $A$ সেটের সঙ্গে $B = \\{1, 2, 3, 4, 5, 6, 7, 8\\}$ সেটের একটি এক-এক মিল স্থাপন করে সম্পন্ন করা হয়। যেমন, নিচের চিত্রে দেখানো হয়েছে।",
+      "image": null,
+      "formulas": [
+        "A = \\{15, 16, 17, 18, 19, 20, 21, 22\\}",
+        "A",
+        "A",
+        "B = \\{1, 2, 3, 4, 5, 6, 7, 8\\}"
+      ],
+      "pdfPageStart": 18,
+      "pdfPageEnd": 18,
+      "printedPageStart": 13,
+      "printedPageEnd": 13,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.23-p002",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A diagram showing a one-to-one correspondence between set A and set B, with arrows connecting elements 15-22 in A to 1-8 in B.",
+      "image": "p18-page_13_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 18,
+      "pdfPageEnd": 18,
+      "printedPageStart": 13,
+      "printedPageEnd": 13,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.23-p003",
+      "kind": "definition",
+      "section": null,
+      "caption": null,
+      "body": "**সংজ্ঞা ৩ (সান্ত ও অনন্ত সেট):** গণনা করে যে সকল সেটের সদস্য সংখ্যা নির্ধারণ করা যায়, এদের সান্ত সেট বলা হয়। কোনো সেট $A$ সান্ত সেট না হলে, একে অনন্ত সেট বলা হয়।",
+      "image": null,
+      "formulas": [
+        "A"
+      ],
+      "pdfPageStart": 18,
+      "pdfPageEnd": 18,
+      "printedPageStart": 13,
+      "printedPageEnd": 13,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.23-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) ফাঁকা সেট $\\emptyset$ সান্ত সেট, এর সদস্য সংখ্যা ০।",
+      "image": null,
+      "formulas": [
+        "\\emptyset"
+      ],
+      "pdfPageStart": 18,
+      "pdfPageEnd": 18,
+      "printedPageStart": 13,
+      "printedPageEnd": 13,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.23-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) যদি কোনো সেট $A$ এবং $J_m = \\{1, 2, 3, \\dots, m\\}$ সমতুল হয়, যেখানে $m \\in N$, তবে $A$ একটি সান্ত সেট এবং $A$ এর সদস্য সংখ্যা $m$।",
+      "image": null,
+      "formulas": [
+        "A",
+        "J_m = \\{1, 2, 3, \\dots, m\\}",
+        "m \\in N",
+        "A",
+        "A",
+        "m"
+      ],
+      "pdfPageStart": 18,
+      "pdfPageEnd": 18,
+      "printedPageStart": 13,
+      "printedPageEnd": 13,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.23-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $A$ কোনো সান্ত সেট হলে, $A$ এর সদস্য সংখ্যাকে $n(A)$ দ্বারা সূচিত করা হয়।",
+      "image": null,
+      "formulas": [
+        "A",
+        "A",
+        "n(A)"
+      ],
+      "pdfPageStart": 18,
+      "pdfPageEnd": 18,
+      "printedPageStart": 13,
+      "printedPageEnd": 13,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.23-p007",
+      "kind": "text",
+      "section": "দৃষ্টব্য:",
+      "caption": null,
+      "body": "ক) $J_1 = \\{1\\}$, $J_2 = \\{1, 2\\}$, $J_3 = \\{1, 2, 3\\}$ ইত্যাদি প্রত্যেককেই $N$ এর সান্ত উপসেট বলা হয় এবং $n(J_1) = 1$, $n(J_2) = 2$, $n(J_3) = 3$ ইত্যাদি। বাস্তবিক পক্ষে, $J_m \\sim J_m$ এবং $n(J_m) = m$।",
+      "image": null,
+      "formulas": [
+        "J_1 = \\{1\\}",
+        "J_2 = \\{1, 2\\}",
+        "J_3 = \\{1, 2, 3\\}",
+        "N",
+        "n(J_1) = 1",
+        "n(J_2) = 2",
+        "n(J_3) = 3",
+        "J_m \\sim J_m",
+        "n(J_m) = m"
+      ],
+      "pdfPageStart": 18,
+      "pdfPageEnd": 18,
+      "printedPageStart": 13,
+      "printedPageEnd": 13,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.23-p008",
+      "kind": "text",
+      "section": "দৃষ্টব্য:",
+      "caption": null,
+      "body": "খ) শুধুমাত্র সান্ত সেটেরই সদস্য সংখ্যা নির্দিষ্ট করা যায়। $n(A)$ লিখলে বুঝাতে হবে $A$ সান্ত সেট।",
+      "image": null,
+      "formulas": [
+        "n(A)",
+        "A"
+      ],
+      "pdfPageStart": 18,
+      "pdfPageEnd": 18,
+      "printedPageStart": 13,
+      "printedPageEnd": 13,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.23-p009",
+      "kind": "text",
+      "section": "দৃষ্টব্য:",
+      "caption": null,
+      "body": "গ) $A$ ও $B$ সমতুল সেট এবং এদের মধ্যে একটি সেট সান্ত হলে অপর সেটটিও সান্ত হবে এবং $n(A) = n(B)$ হবে।",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "n(A) = n(B)"
+      ],
+      "pdfPageStart": 18,
+      "pdfPageEnd": 18,
+      "printedPageStart": 13,
+      "printedPageEnd": 13,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.23-p010",
+      "kind": "text",
+      "section": "দৃষ্টব্য:",
+      "caption": null,
+      "body": "**প্রতিজ্ঞা ৬.** যদি $A$ সান্ত সেট হয় এবং $B$, $A$ এর প্রকৃত উপসেট হয়, তবে $B$ সান্ত সেট এবং $n(B) < n(A)$ হবে।",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "A",
+        "B",
+        "n(B) < n(A)"
+      ],
+      "pdfPageStart": 18,
+      "pdfPageEnd": 18,
+      "printedPageStart": 13,
+      "printedPageEnd": 13,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.23-p011",
+      "kind": "text",
+      "section": "দৃষ্টব্য:",
+      "caption": null,
+      "body": "**প্রতিজ্ঞা ৭.** $A$ অনন্ত সেট হবে যদি ও কেবল যদি $A$ ও $A$ এর একটি প্রকৃত উপসেট সমতুল হয়।",
+      "image": null,
+      "formulas": [
+        "A",
+        "A",
+        "A"
+      ],
+      "pdfPageStart": 18,
+      "pdfPageEnd": 18,
+      "printedPageStart": 13,
+      "printedPageEnd": 13,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.23-p012",
+      "kind": "text",
+      "section": "দৃষ্টব্য:",
+      "caption": null,
+      "body": "**দ্রষ্টব্য:** স্বাভাবিক সংখ্যার সেট $N$ একটি অনন্ত সেট।",
+      "image": null,
+      "formulas": [
+        "N"
+      ],
+      "pdfPageStart": 19,
+      "pdfPageEnd": 19,
+      "printedPageStart": 14,
+      "printedPageEnd": 14,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

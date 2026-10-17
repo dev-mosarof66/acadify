@@ -1,0 +1,158 @@
+{
+  "id": "chemistry-9-10-bn-c04-t4.4",
+  "key": "4.4",
+  "title": "ইলেকট্রন বিন্যাসই পর্যায় সারণির মূল ভিত্তি",
+  "chapter": 4,
+  "ordinal": 4,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c04-t4.4-p001",
+      "kind": "text",
+      "section": "(Electronic Configurations of Elements are the Main Basis of the Periodic Table)",
+      "caption": null,
+      "body": "ইলেকট্রন বিন্যাসের মাধ্যমে কোনো মৌল কত নম্বর পর্যায় এবং কত নম্বর গ্রুপে অবস্থান করে তা বের করা যায়। আবার, যে সকল মৌলের বাইরের প্রধান শক্তিস্তরের ইলেকট্রন বিন্যাস একই রকম সে সকল মৌল একই গ্রুপে অবস্থান করে। অপরদিকে যে সকল মৌলের বাইরের প্রধান শক্তিস্তরের ইলেকট্রন বিন্যাস ভিন্ন রকম সে সকল মৌল ভিন্ন গ্রুপে অবস্থান করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 73,
+      "pdfPageEnd": 73,
+      "printedPageStart": 68,
+      "printedPageEnd": 68,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.4-p002",
+      "kind": "text",
+      "section": "(Electronic Configurations of Elements are the Main Basis of the Periodic Table)",
+      "caption": null,
+      "body": "**টেবিল ৪.০২: মৌল ও ইলেকট্রন বিন্যাস**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 73,
+      "pdfPageEnd": 73,
+      "printedPageStart": 68,
+      "printedPageEnd": 68,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.4-p003",
+      "kind": "table",
+      "section": "(Electronic Configurations of Elements are the Main Basis of the Periodic Table)",
+      "caption": null,
+      "body": "<table><tr><th>গ্রুপ-1</th><th></th></tr>\n<tr><th>মৌল</th><th>ইলেকট্রন বিন্যাস</th></tr>\n<tr><td>H(1)</td><td>1s<sup>1</sup></td></tr>\n<tr><td>Li(3)</td><td>1s<sup>2</sup>2s<sup>1</sup></td></tr>\n<tr><td>Na(11)</td><td>1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>1</sup></td></tr>\n<tr><td>K(19)</td><td>1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>1</sup></td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 73,
+      "pdfPageEnd": 73,
+      "printedPageStart": 68,
+      "printedPageEnd": 68,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.4-p004",
+      "kind": "table",
+      "section": "(Electronic Configurations of Elements are the Main Basis of the Periodic Table)",
+      "caption": null,
+      "body": "<table><tr><th>গ্রুপ-2</th><th></th></tr>\n<tr><th>মৌল</th><th>ইলেকট্রন বিন্যাস</th></tr>\n<tr><td>He(2)</td><td>1s<sup>2</sup></td></tr>\n<tr><td>Be(4)</td><td>1s<sup>2</sup>2s<sup>2</sup></td></tr>\n<tr><td>Mg(12)</td><td>1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup></td></tr>\n<tr><td>Ca(20)</td><td>1s<sup>2</sup>2s<sup>2</sup>2p<sup>6</sup>3s<sup>2</sup>3p<sup>6</sup>4s<sup>2</sup></td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 73,
+      "pdfPageEnd": 73,
+      "printedPageStart": 68,
+      "printedPageEnd": 68,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.4-p005",
+      "kind": "text",
+      "section": "(Electronic Configurations of Elements are the Main Basis of the Periodic Table)",
+      "caption": null,
+      "body": "যে সকল মৌলের ইলেকট্রন বিন্যাসে বাইরের শক্তিস্তরে মোট ইলেকট্রন সংখ্যা 1টি সে সকল মৌল সাধারণত ইলেকট্রন দান করে ধনাত্মক আয়নে পরিণত হওয়ার প্রবণতা দেখায়। যেমন- সোডিয়ামের বাইরের শক্তিস্তরে 1টি ইলেকট্রন আছে। তাই সোডিয়াম ঐ 1টি ইলেকট্রন তাগ করে ধনাত্মক আয়নে পরিণত হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 74,
+      "pdfPageEnd": 74,
+      "printedPageStart": 69,
+      "printedPageEnd": 69,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.4-p006",
+      "kind": "formula",
+      "section": "(Electronic Configurations of Elements are the Main Basis of the Periodic Table)",
+      "caption": null,
+      "body": "$$Na  (1s^2 2s^2 2p^6 3s^1) \\longrightarrow Na^+   (1s^2 2s^2 2p^6) + e^-$$",
+      "image": null,
+      "formulas": [
+        "Na  (1s^2 2s^2 2p^6 3s^1) \\longrightarrow Na^+   (1s^2 2s^2 2p^6) + e^-"
+      ],
+      "pdfPageStart": 74,
+      "pdfPageEnd": 74,
+      "printedPageStart": 69,
+      "printedPageEnd": 69,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.4-p007",
+      "kind": "text",
+      "section": "(Electronic Configurations of Elements are the Main Basis of the Periodic Table)",
+      "caption": null,
+      "body": "আবার যে সকল মৌলের ইলেকট্রন বিন্যাসে বাইরের শক্তিস্তরে মোট ইলেকট্রন সংখ্যা 7টি সে সকল মৌল সাধারণত 1টি ইলেকট্রন গ্রহণ করে ঋণাত্মক আয়নে পরিণত হবার প্রবণতা দেখায়। যেমন- ক্লোরিনের বাইরের শক্তিস্তরে 7টি ইলেকট্রন আছে। তাই ক্লোরিন 1টি ইলেকট্রন গ্রহণ করে ঋণাত্মক আয়নে পরিণত হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 74,
+      "pdfPageEnd": 74,
+      "printedPageStart": 69,
+      "printedPageEnd": 69,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.4-p008",
+      "kind": "formula",
+      "section": "(Electronic Configurations of Elements are the Main Basis of the Periodic Table)",
+      "caption": null,
+      "body": "$$Cl  (1s^2 2s^2 2p^6 3s^2 3p^5) + e^- \\longrightarrow Cl^-   (1s^2 2s^2 2p^6 3s^2 3p^6)$$",
+      "image": null,
+      "formulas": [
+        "Cl  (1s^2 2s^2 2p^6 3s^2 3p^5) + e^- \\longrightarrow Cl^-   (1s^2 2s^2 2p^6 3s^2 3p^6)"
+      ],
+      "pdfPageStart": 74,
+      "pdfPageEnd": 74,
+      "printedPageStart": 69,
+      "printedPageEnd": 69,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.4-p009",
+      "kind": "text",
+      "section": "(Electronic Configurations of Elements are the Main Basis of the Periodic Table)",
+      "caption": null,
+      "body": "অতএব ইলেকট্রন বিন্যাসের মাধ্যমে পর্যায় সারণিতে মৌলের অবস্থান নির্ণয় ও মৌলসমূহের অনেক ধর্ম ব্যাখ্যা করা যায়। এজন্য ইলেকট্রন বিন্যাসকেই পর্যায় সারণির মূল ভিত্তি হিসেবে বিবেচনা করা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 74,
+      "pdfPageEnd": 74,
+      "printedPageStart": 69,
+      "printedPageEnd": 69,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "id": "higher-math-9-10-bn-c02-t2.2",
+  "key": "2.2",
+  "title": "দুই চলকের বহুপদী",
+  "chapter": 2,
+  "ordinal": 2,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c02-t2.2-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "নিচের বহুপদীগুলো $x$ ও $y$ চলকের অর্থাৎ দুই চলকের বহুপদী।",
+      "image": null,
+      "formulas": [
+        "x",
+        "y"
+      ],
+      "pdfPageStart": 44,
+      "pdfPageEnd": 44,
+      "printedPageStart": 39,
+      "printedPageEnd": 39,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.2-p002",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$2x + 3y - 1$$",
+      "image": null,
+      "formulas": [
+        "2x + 3y - 1"
+      ],
+      "pdfPageStart": 44,
+      "pdfPageEnd": 44,
+      "printedPageStart": 39,
+      "printedPageEnd": 39,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.2-p003",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$x^2 - 4xy + y^2 - 5x + 7y + 1$$",
+      "image": null,
+      "formulas": [
+        "x^2 - 4xy + y^2 - 5x + 7y + 1"
+      ],
+      "pdfPageStart": 44,
+      "pdfPageEnd": 44,
+      "printedPageStart": 39,
+      "printedPageEnd": 39,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.2-p004",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$8x^3 + y^3 + 10x^2y + 6xy^2 - 6x + 2$$",
+      "image": null,
+      "formulas": [
+        "8x^3 + y^3 + 10x^2y + 6xy^2 - 6x + 2"
+      ],
+      "pdfPageStart": 44,
+      "pdfPageEnd": 44,
+      "printedPageStart": 39,
+      "printedPageEnd": 39,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.2-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সাধারণভাবে এরূপ বহুপদীর পদগুলো $cx^p y^q$ আকারের হয় যেখানে $c$ একটি নির্দিষ্ট সংখ্যা (ধ্রুবক) এবং $p$ ও $q$ অক্ষগাত্বক পূর্ণসংখ্যা। $cx^p y^q$ পদে $c$ হচ্ছে $x^p y^q$ এর সহগ এবং $p + q$ হচ্ছে এই পদের মাত্রা। এরূপ বহুপদীতে উল্লিখিত পদসমূহের গরিষ্ঠ মাত্রাকে বহুপদীটির মাত্রা বলা হয়। এরূপ বহুপদিকে $P(x, y)$ আকারের প্রতীক দ্বারা সূচিত করা হয়। যেমন, $P(x, y) = 8x^3 + y^3 - 4x^2 + 7xy + 2y - 5$ বহুপদীর মাত্রা 3 এবং $P(1, 0) = 8 - 4 - 5 = -1$।",
+      "image": null,
+      "formulas": [
+        "cx^p y^q",
+        "c",
+        "p",
+        "q",
+        "cx^p y^q",
+        "c",
+        "x^p y^q",
+        "p + q",
+        "P(x, y)",
+        "P(x, y) = 8x^3 + y^3 - 4x^2 + 7xy + 2y - 5",
+        "P(1, 0) = 8 - 4 - 5 = -1"
+      ],
+      "pdfPageStart": 45,
+      "pdfPageEnd": 45,
+      "printedPageStart": 40,
+      "printedPageEnd": 40,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

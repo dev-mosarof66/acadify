@@ -1,0 +1,184 @@
+{
+  "id": "chemistry-9-10-bn-c05-t5.2",
+  "key": "5.2",
+  "title": "যোজনী বা যোজ্যতা (Valency)",
+  "chapter": 5,
+  "ordinal": 2,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c05-t5.2-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "পূর্বেই উল্লেখ করা হয়েছে যে, বিভিন্ন মৌলের পরমাণুসমূহ একে অপরের সাথে সর্বশেষ কক্ষপথের ইলেকট্রন বর্জন, গ্রহণ অথবা ভাগভাগির মাধ্যমে অণু গঠন করে। অণু গঠনকালে কোনো মৌলের একটি পরমাণুর সাথে অপর একটি মৌলের পরমাণু যুক্ত হওয়ার ক্ষমতাকে যোজনী বা যোজ্যতা বলা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.2-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সাধারণত সব সময় হাইড্রোজেনের যোজনী এক (1) ধরা হয়। কোনো মৌলের একটি পরমাণু যতগুলো H পরমাণু বা Cl পরমাণুর সাথে যুক্ত হতে পারে সেই সংখ্যাই হলো ঐ মৌলের যোজনী বা যোজ্যতা।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.2-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "হাইড্রোজেনের একটি পরমাণু ক্লোরিনের একটি পরমাণুর সাথে যুক্ত হয়ে HCl অণু গঠিত হয়, তাই ক্লোরিনের যোজনীও 1 (এক)। আবার অক্সিজেনের একটি পরমাণু হাইড্রোজেনের দুটি পরমাণুর সাথে যুক্ত হয়ে H<sub>2</sub>O তৈরি করে, এজন্য অক্সিজেনের যোজনী 2 (দুই)। একটি Na পরমাণু একটি Cl পরমাণুর সাথে যুক্ত হয়ে NaCl গঠিত হয়। সুতরাং Na এর যোজনী 1 (এক)।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.2-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "একটি পরমাণুর সাথে যতটি অক্সিজেন পরমাণু যুক্ত হয় তার সেই সংখ্যার দ্বিগুণ করলে ঐ পরমাণুর যোজনী বা যোজ্যতা হয়। যেমন- ক্যালসিয়াম (Ca) এর একটি পরমাণু একটি অক্সিজেন (O) পরমাণুর সাথে যুক্ত হয়ে ক্যালসিয়াম অক্সাইড (CaO) তৈরি করে। এখানে অক্সিজেন পরমাণুর সংখ্যা 1 এই সংখ্যাকে 2 দ্বারা গুণ করলে হয় 2। কাজেই ক্যালসিয়ামের যোজনী 2।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.2-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কিছু কিছু মৌলের একাধিক যোজনী থাকে। কোনো মৌলের একাধিক যোজনী থাকলে সেই মৌলের যোজনীকে পরিবর্তনশীল যোজনী বলা হয়। যেমন- Fe এর পরিবর্তনশীল যোজনী 2 এবং 3।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.2-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কোনো মৌলের সর্বোচ্চ যোজনী এবং সক্রিয় যোজনার পার্থক্যকে ঐ মৌলের সুপ্ত যোজনী বলা হয়। যেমন: FeCl<sub>2</sub> যোগে Fe এর সক্রিয় যোজনী 2 কিন্তু Fe এর সর্বোচ্চ যোজনী 3। অতএব FeCl<sub>2</sub> যোগে Fe এর সুপ্ত যোজনী 3 - 2 = 1। আবার FeCl<sub>3</sub> যোগে Fe এর সক্রিয় যোজনী 3 কিন্তু Fe এর সর্বোচ্চ যোজনী 3, অতএব FeCl<sub>3</sub> যোগে Fe এর সুপ্ত যোজনী 3 - 3 = 0।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 90,
+      "pdfPageEnd": 90,
+      "printedPageStart": 85,
+      "printedPageEnd": 85,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.2-p007",
+      "kind": "table",
+      "section": null,
+      "caption": "টেবিল ৫.০২: বিভিন্ন মৌলের যোজনী",
+      "body": "<table><tr><th>মৌল</th><th>যোজনী</th></tr>\n<tr><td>H</td><td>1</td></tr>\n<tr><td>F</td><td>1</td></tr>\n<tr><td>Cl</td><td>1</td></tr>\n<tr><td>Br</td><td>1</td></tr>\n<tr><td>I</td><td>1</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 91,
+      "pdfPageEnd": 91,
+      "printedPageStart": 86,
+      "printedPageEnd": 86,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.2-p008",
+      "kind": "table",
+      "section": null,
+      "caption": null,
+      "body": "<table><tr><th>মৌল</th><th>যোজনী</th></tr>\n<tr><td>Na</td><td>1</td></tr>\n<tr><td>K</td><td>1</td></tr>\n<tr><td>C</td><td>2, 4</td></tr>\n<tr><td>Mg</td><td>2</td></tr>\n<tr><td>Al</td><td>3</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 91,
+      "pdfPageEnd": 91,
+      "printedPageStart": 86,
+      "printedPageEnd": 86,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.2-p009",
+      "kind": "table",
+      "section": null,
+      "caption": null,
+      "body": "<table><tr><th>মৌল</th><th>যোজনী</th></tr>\n<tr><td>Fe</td><td>2, 3</td></tr>\n<tr><td>Cu</td><td>1, 2</td></tr>\n<tr><td>Zn</td><td>2</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 91,
+      "pdfPageEnd": 91,
+      "printedPageStart": 86,
+      "printedPageEnd": 86,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.2-p010",
+      "kind": "table",
+      "section": null,
+      "caption": "টেবিল ৫.০৩: বিভিন্ন পরমাণুর যোজনী এবং যৌগ",
+      "body": "<table><tr><th>ধাতব ও<br />অধাতব পরমাণু</th><th>প্রতীক</th><th>যোজনী</th><th>যৌগ</th></tr>\n<tr><td>হাইড্রোজেন</td><td>H</td><td>1</td><td>HCl</td></tr>\n<tr><td>লিথিয়াম</td><td>Li</td><td>1</td><td>LiCl</td></tr>\n<tr><td>সোডিয়াম</td><td>Na</td><td>1</td><td>NaCl</td></tr>\n<tr><td>পটাশিয়াম</td><td>K</td><td>1</td><td>KCl</td></tr>\n<tr><td>ম্যাগনেসিয়াম</td><td>Mg</td><td>2</td><td>MgCl<sub>2</sub></td></tr>\n<tr><td>ক্যালসিয়াম</td><td>Ca</td><td>2</td><td>CaCl<sub>2</sub></td></tr>\n<tr><td>অ্যালুমিনিয়াম</td><td>Al</td><td>3</td><td>AlCl<sub>3</sub></td></tr>\n<tr><td>আয়রন</td><td>Fe</td><td>2<br />3</td><td>FeCl<sub>2</sub><br />FeCl<sub>3</sub></td></tr>\n<tr><td>জিংক</td><td>Zn</td><td>2</td><td>ZnCl<sub>2</sub></td></tr>\n<tr><td>লেড</td><td>Pb</td><td>2<br />4</td><td>PbCl<sub>2</sub><br />PbCl<sub>4</sub></td></tr>\n<tr><td>নাইট্রোজেন</td><td>N</td><td>3<br />5</td><td>NH<sub>3</sub><br />N<sub>2</sub>O<sub>5</sub></td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 91,
+      "pdfPageEnd": 91,
+      "printedPageStart": 86,
+      "printedPageEnd": 86,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c05-t5.2-p011",
+      "kind": "table",
+      "section": null,
+      "caption": null,
+      "body": "<table><tr><th>ধাতব ও<br />অধাতব পরমাণু</th><th>প্রতীক</th><th>যোজনী</th><th>যৌগ</th></tr>\n<tr><td>সিলভার</td><td>Ag</td><td>1</td><td>AgCl</td></tr>\n<tr><td>ফ্লোরিন</td><td>F</td><td>1</td><td>NaF</td></tr>\n<tr><td>ক্লোরিন</td><td>Cl</td><td>1</td><td>NaCl</td></tr>\n<tr><td>ব্রোমিন</td><td>Br</td><td>1</td><td>NaBr</td></tr>\n<tr><td>আয়োডিন</td><td>I</td><td>1</td><td>NaI</td></tr>\n<tr><td>বোরন</td><td>B</td><td>3</td><td>BCl<sub>3</sub></td></tr>\n<tr><td>ফসফরাস</td><td>P</td><td>3<br />5</td><td>PCl<sub>3</sub><br />PCl<sub>5</sub></td></tr>\n<tr><td>কপার</td><td>Cu</td><td>1<br />2</td><td>CuCl<br />CuCl<sub>2</sub></td></tr>\n<tr><td>অক্সিজেন</td><td>O</td><td>2</td><td>H<sub>2</sub>O</td></tr>\n<tr><td>কার্বন</td><td>C</td><td>2<br />4</td><td>CO<br />CH<sub>4</sub></td></tr>\n<tr><td>সালফার</td><td>S</td><td>2<br />4<br />6</td><td>H<sub>2</sub>S<br />SO<sub>2</sub><br />SO<sub>3</sub></td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 91,
+      "pdfPageEnd": 91,
+      "printedPageStart": 86,
+      "printedPageEnd": 86,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    }
+  ]
+}

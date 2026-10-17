@@ -1,0 +1,583 @@
+{
+  "id": "chemistry-9-10-bn-c08-t8.ex",
+  "key": "8.ex",
+  "title": "নমুনা প্রশ্ন",
+  "chapter": 8,
+  "ordinal": 6,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p001",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "**১. বিদ্যুৎ পরিবহনের কৌশলের উপর ভিত্তি করে পরিবাহী কত প্রকার?**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 208,
+      "pdfPageEnd": 208,
+      "printedPageStart": 203,
+      "printedPageEnd": 203,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p002",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) এক                      (খ) দুই\n(গ) তিন                      (ঘ) চার",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 208,
+      "pdfPageEnd": 208,
+      "printedPageStart": 203,
+      "printedPageEnd": 203,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p003",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "**৩ নং প্রশ্নের সাথে প্রদত্ত চিত্রের আলোকে ২ ও ৩ নং প্রশ্নের উত্তর দাও:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 208,
+      "pdfPageEnd": 208,
+      "printedPageStart": 203,
+      "printedPageEnd": 203,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p004",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "**২. উদ্দীপকের প্রক্রিয়া লোহার-**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 208,
+      "pdfPageEnd": 208,
+      "printedPageStart": 203,
+      "printedPageEnd": 203,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p005",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) পরিমাণ বৃদ্ধি করে                      (খ) ক্ষয়রোধ করে\n(গ) দৃঢ়তা বৃদ্ধি করে                      (ঘ) বিশুদ্ধতা বৃদ্ধি করে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 208,
+      "pdfPageEnd": 208,
+      "printedPageStart": 203,
+      "printedPageEnd": 203,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p006",
+      "kind": "exercise",
+      "section": "৩. পাস্কের চিহ্ন-",
+      "caption": null,
+      "body": "(i) Ni ক্ষয়প্রাপ্ত হয়\n(ii) Fe অ্যানোড হিসেবে কাজ করে\n(iii) ইলেকট্রনের আদান-প্রদান ঘটে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p007",
+      "kind": "exercise",
+      "section": "৩. পাস্কের চিহ্ন-",
+      "caption": null,
+      "body": "নিচের কোনটি সঠিক?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p008",
+      "kind": "exercise",
+      "section": "৩. পাস্কের চিহ্ন-",
+      "caption": null,
+      "body": "(ক) i ও ii                      (খ) ii ও iii\n(গ) i ও iii                      (ঘ) i, ii ও iii",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p009",
+      "kind": "figure",
+      "section": "৩. পাস্কের চিহ্ন-",
+      "caption": null,
+      "body": "drawing: electrochemical cell diagram showing a battery connected to a nickel and iron electrode setup in a solution with SO4 2- and Ni 2+ ions",
+      "image": "p209-page_37_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p010",
+      "kind": "exercise",
+      "section": "৪. ড্রাই সেলে নিচের কোনটি জারক হিসেবে কাজ করে?",
+      "caption": null,
+      "body": "(ক) Zn দণ্ড                      (খ) MnO<sub>2</sub>\n(গ) কার্বন দণ্ড                  (ঘ) NH<sub>4</sub><sup>+</sup>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p011",
+      "kind": "exercise",
+      "section": "৫. তড়িৎ বিশ্লেষণের মাধ্যমে কোনো ধাতুর উপর অন্য ধাতুর প্রলেপ দেওয়াকে কী বলে?",
+      "caption": null,
+      "body": "(ক) ভলকানাইজিং                      (খ) ধাতু বিশোধন\n(গ) গ্যালভানাইজিং                  (ঘ) ইলেকট্রোপ্লটিং",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p012",
+      "kind": "exercise",
+      "section": "৬. নিউক্লিয় বিক্রিয়ার সময় নিউক্লিয়াসকে আঘাত করা হয় সাধারণত কোনটি দ্বারা?",
+      "caption": null,
+      "body": "(ক) প্রোটন                      (খ) ইলেকট্রন\n(গ) পজিট্রন                      (ঘ) নিউট্রন",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p013",
+      "kind": "exercise",
+      "section": "৭. প্লাটিনাম তড়িৎদ্বার ব্যবহার করে NaCl জলীয় দ্রবণের তড়িৎ বিশ্লেষণের সময় উৎপন্ন হয়-",
+      "caption": null,
+      "body": "(i) হাইড্রোজেন গ্যাস\n(ii) ক্লোরিন গ্যাস\n(iii) সোডিয়াম হাইড্রোক্লোরাইড দ্রবণ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p014",
+      "kind": "exercise",
+      "section": "৭. প্লাটিনাম তড়িৎদ্বার ব্যবহার করে NaCl জলীয় দ্রবণের তড়িৎ বিশ্লেষণের সময় উৎপন্ন হয়-",
+      "caption": null,
+      "body": "নিচের কোনটি সঠিক?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p015",
+      "kind": "exercise",
+      "section": "৭. প্লাটিনাম তড়িৎদ্বার ব্যবহার করে NaCl জলীয় দ্রবণের তড়িৎ বিশ্লেষণের সময় উৎপন্ন হয়-",
+      "caption": null,
+      "body": "(ক) i ও ii                      (খ) ii ও iii\n(গ) i ও iii                      (ঘ) i, ii, ও iii",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p016",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "১. (i) পেট্রোলিয়াম + O<sub>2</sub> $\\longrightarrow$ CO<sub>2</sub> + H<sub>2</sub>O + শক্তি",
+      "image": null,
+      "formulas": [
+        "\\longrightarrow"
+      ],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p017",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(ii) $^{238}_{92}U + ^{1}_{0}n^{1}$ $\\longrightarrow$ $^{56}_{56}Ba + ^{36}_{36}Kr + 3^{1}_{0}n^{1} + শক্তি$",
+      "image": null,
+      "formulas": [
+        "^{238}_{92}U + ^{1}_{0}n^{1}",
+        "\\longrightarrow",
+        "^{56}_{56}Ba + ^{36}_{36}Kr + 3^{1}_{0}n^{1} + শক্তি"
+      ],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p018",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(iii) Zn + CuCl<sub>2</sub> $\\longrightarrow$ ZnCl<sub>2</sub> + Cu + শক্তি",
+      "image": null,
+      "formulas": [
+        "\\longrightarrow"
+      ],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p019",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(ক) ইলেকট্রোপ্ল্যাটিং কী?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p020",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(খ) তড়িৎ রাসায়নিক কোষে লবণ সেতু ব্যবহার করা হয় কেন?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p021",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(গ) উদ্দীপকের দ্বিতীয় বিক্রিয়াটি রাসায়নিক বিক্রিয়া নয়—ব্যাখ্যা করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p022",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(ঘ) শক্তি উৎপাদনে (i) ও (iii) এর বিক্রিয়া তুলনা করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p023",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "২. (ক) ধাতব পরিবাহী কী?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p024",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(খ) এসিড মিশ্রিত পানিকে তড়িৎ বিশ্লেষণ পরিবাহী বলা হয় কেন? ব্যাখ্যা করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p025",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(গ) পাশের কোষে অ্যানোড সংঘটিত বিক্রিয়াটি ব্যাখ্যা করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p026",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(ঘ) উদ্দীপকে সংঘটিত বিক্রিয়ায় তড়িৎ প্রবাহের প্রয়োজনীয়তার যৌক্তিক ব্যাখ্যা দাও।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p027",
+      "kind": "figure",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "drawing: Electrochemical cell diagram with a voltmeter and MgCl2 solution",
+      "image": "p210-page_38_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p028",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "৩. (i) তড়িৎ বিশ্লেষণ কোষ (ii) গ্যালভানিক কোষ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p029",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(ক) তাপোৎপাদী বিক্রিয়া কাকে বলে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p030",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(খ) পানির তড়িৎ বিশ্লেষণের সময় সামান্য পরিমাণে সালফিউরিক এসিড যোগ করা হয় কেন?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p031",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(গ) (i) নং কোষের গঠন ব্যাখ্যা করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p032",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(ঘ) (ii) নং কোষের সাহায্যে বিদ্যুৎ উৎপাদনের সন্বাবনা বিশ্লেষণ করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p033",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "১. এসিড মিশ্রিত পানিকে তড়িৎ বিশ্লেষণ পরিবাহী বলা হয় কেন? ব্যাখ্যা করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p034",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "২. কপার সালফেট তীব্র তড়িৎ বিশ্লেষ্য পদার্থ কেন? ব্যাখ্যা করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c08-t8.ex-p035",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "৩. তড়িৎ রাসায়নিক কোষে লবণ সেতু ব্যবহার করা হয় কেন? ব্যাখ্যা করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "id": "physics-9-10-bn-c11-t11.3",
+  "key": "11.3",
+  "title": "তড়িৎ ক্ষমতা (Electric Power)",
+  "chapter": 11,
+  "ordinal": 3,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c11-t11.3-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা যখন বিভব বা পটেনশিয়াল আলোচনা করছিলাম তখন দেখেছি পটেনশিয়াল প্রয়োগ করে চার্জকে সরানো হলে কাজ করা হয় বা শক্তি ক্ষয় হয়। তাই যদি একটা সার্কিটে $V$ বিভব প্রয়োগ করে $Q$ চার্জকে সরানো হয় তাহলে কাজের পরিমাণ বা শক্তি প্রয়োগের পরিমাণ",
+      "image": null,
+      "formulas": [
+        "V",
+        "Q"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.3-p002",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$W = VQ$$",
+      "image": null,
+      "formulas": [
+        "W = VQ"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.3-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক্ষমতা $P$ হচ্ছে প্রতি সেকেন্ডে কাজ করার ক্ষমতা, কাজেই যদি $t$ সময়ে $Q$ চার্জ সরানো হয়ে থাকে তাহলে",
+      "image": null,
+      "formulas": [
+        "P",
+        "t",
+        "Q"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.3-p004",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$P = \\frac{W}{t} = \\frac{VQ}{t} = VI$$",
+      "image": null,
+      "formulas": [
+        "P = \\frac{W}{t} = \\frac{VQ}{t} = VI"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.3-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যদি একটা রোধ $R$ এর ওপর এটা ব্যবহার করি তাহলে ও'মের সূত্র ব্যবহার করে লিখতে পারি",
+      "image": null,
+      "formulas": [
+        "R"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.3-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যেহেতু\n$$V = RI$$\n$$P = I^2R$$",
+      "image": null,
+      "formulas": [
+        "V = RI",
+        "P = I^2R"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.3-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কিংবা",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.3-p008",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$I = \\frac{V}{R}$$",
+      "image": null,
+      "formulas": [
+        "I = \\frac{V}{R}"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.3-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কাজেই",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.3-p010",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$P = \\left(\\frac{V}{R}\\right)^2 R = \\frac{V^2}{R}$$",
+      "image": null,
+      "formulas": [
+        "P = \\left(\\frac{V}{R}\\right)^2 R = \\frac{V^2}{R}"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.3-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "একটি রোধের ভেতর যদি $t$ সময় বিদ্যুৎ প্রবাহিত করা হয় তাহলে তার ভেতর $Pt$ শক্তি দেওয়া হয়। এই শক্তিটি কোথায় যায়? তোমরা যখন সার্কিটে একটি রোধ ব্যবহার করবে তখন দেখবে তার ভেতর দিয়ে যথেষ্ট বিদ্যুৎপ্রবাহ করলে সব সময়ই সেটা উত্তপ্ত হয়ে ওঠে অর্থাৎ শক্তিটুকু তাপশক্তি হিসেবে বের হয়ে আসে।",
+      "image": null,
+      "formulas": [
+        "t",
+        "Pt"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.3-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ফিলামেন্টযুক্ত বাল্বগুলোর প্রচলন ধীরে ধীরে কমে আসছে, কারণ এটা দিয়ে আলো তৈরি করার জন্য ফিলামেন্টকে উত্তপ্ত করতে হয়, বিদ্যুৎশক্তির বড় অংশ তাপ হিসেবে খরচ হয়ে যায় বলে এখানে শক্তির অপচয় হয়। এই ধরনের বাল্বগুলো হাত দিয়ে স্পর্শ করলেই দেখা যায় এখানে উচ্চ তাপমাত্রা তৈরি হয় এবং এই তাপশক্তি তৈরি হয় প্রতি সেকেন্ডে $I^2R$ কিংবা $\\frac{V^2}{R}$ হিসেবে।",
+      "image": null,
+      "formulas": [
+        "I^2R",
+        "\\frac{V^2}{R}"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 323,
+      "printedPageStart": 317,
+      "printedPageEnd": 318,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.3-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বৈদ্যুতিক শক্তি শুধু যে একটি রোধে তাপশক্তি হিসেবে খরচ হয় তা নয়, সেটি ফ্যান, ফ্রিজ, টেলিভিশন, কম্পিউটার, চার্জার ইত্যাদি নানা ধরনের যন্ত্রপাতিতে নানা ধরনের কাজ করার সময়, শক্তি সরবরাহ করে থাকে। কোনো একটি বৈদ্যুতিক যন্ত্রে প্রতি সেকেন্ডে কী পরিমাণ বৈদ্যুতিক শক্তি খরচ হচ্ছে সেটি খুব সহজেই $VI$ থেকে বের করতে পারব। প্রত্যেক বাসায় বিদ্যুৎ মিটার থাকে, সেটি কত বিভবে ($V$) কত বিদ্যুৎপ্রবাহ ($I$) করেছে সেটি মাপতে থাকে, সেখান থেকে একটি বাসায় প্রতি সেকেন্ডে কী পরিমাণ বৈদ্যুতিক শক্তি ($P = VI$) সরবরাহ করেছে সেটি জানতে পারে। এর সাথে মোট সময় গুণ করে ব্যবহৃত মোট বৈদ্যুতিক শক্তি বের করা হয়। বৈদ্যুতিক শক্তি ব্যয়ের প্রচলিত একক হচ্ছে কিলোওয়াট-ঘণ্টা (kWh)। এই একককে বোর্ড অব ট্রেড (BOT) ইউনিট বা সংক্ষিপে ইউনিট বলে। আমরা যে বিদ্যুৎ বিল পরিশোধ করি তা এই এককেই হিসাব করা হয়।",
+      "image": null,
+      "formulas": [
+        "VI",
+        "V",
+        "I",
+        "P = VI"
+      ],
+      "pdfPageStart": 323,
+      "pdfPageEnd": 323,
+      "printedPageStart": 318,
+      "printedPageEnd": 318,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.3-p014",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** 220 V ভোল্টেজে ব্যবহৃত একটি 100 W বাল্ব ফিলামেন্টের রোধ কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 323,
+      "pdfPageEnd": 323,
+      "printedPageStart": 318,
+      "printedPageEnd": 318,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.3-p015",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** 220 V এর বাল্ব 100 W লেখা, যেহেতু",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 323,
+      "pdfPageEnd": 323,
+      "printedPageStart": 318,
+      "printedPageEnd": 318,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.3-p016",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$P = \\frac{V^2}{R}$$",
+      "image": null,
+      "formulas": [
+        "P = \\frac{V^2}{R}"
+      ],
+      "pdfPageStart": 323,
+      "pdfPageEnd": 323,
+      "printedPageStart": 318,
+      "printedPageEnd": 318,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.3-p017",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 323,
+      "pdfPageEnd": 323,
+      "printedPageStart": 318,
+      "printedPageEnd": 318,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.3-p018",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$R = \\frac{V^2}{P} = \\frac{(220)^2}{100} \\frac{V^2}{W} = 484 \\ \\Omega$$",
+      "image": null,
+      "formulas": [
+        "R = \\frac{V^2}{P} = \\frac{(220)^2}{100} \\frac{V^2}{W} = 484 \\ \\Omega"
+      ],
+      "pdfPageStart": 323,
+      "pdfPageEnd": 323,
+      "printedPageStart": 318,
+      "printedPageEnd": 318,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.3-p019",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "এখানে কী পরিমাণ কারেন্ট প্রবাহিত হচ্ছে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 323,
+      "pdfPageEnd": 323,
+      "printedPageStart": 318,
+      "printedPageEnd": 318,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.3-p020",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$I = \\frac{V}{R} = \\frac{220 \\ V}{484 \\ \\Omega} = 0.45  A$$",
+      "image": null,
+      "formulas": [
+        "I = \\frac{V}{R} = \\frac{220 \\ V}{484 \\ \\Omega} = 0.45  A"
+      ],
+      "pdfPageStart": 323,
+      "pdfPageEnd": 323,
+      "printedPageStart": 318,
+      "printedPageEnd": 318,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.3-p021",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "অন্যভাবেও এটি বের করা সম্ভব: $P = VI$",
+      "image": null,
+      "formulas": [
+        "P = VI"
+      ],
+      "pdfPageStart": 323,
+      "pdfPageEnd": 323,
+      "printedPageStart": 318,
+      "printedPageEnd": 318,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.3-p022",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$I = \\frac{P}{V} = \\frac{100  W}{220  V} = 0.45  A$$",
+      "image": null,
+      "formulas": [
+        "I = \\frac{P}{V} = \\frac{100  W}{220  V} = 0.45  A"
+      ],
+      "pdfPageStart": 323,
+      "pdfPageEnd": 323,
+      "printedPageStart": 318,
+      "printedPageEnd": 318,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.3-p023",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** 60 ওয়াটার একটি বাল্ব প্রতিদিন 5 ঘণ্টা করে 30 দিন জ্বালালে কত তড়িৎ শক্তি ব্যয় হবে? যদি প্রতি ইউনিটের মূল্য 10 টাকা হয় তা হলে এই পরিমাণ বিদ্যুতের জন্য মোট ব্যয় কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 323,
+      "pdfPageEnd": 323,
+      "printedPageStart": 318,
+      "printedPageEnd": 318,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.3-p024",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "উত্তর: আমরা জানি, ব্যয়িত শক্তি = ( (P × t) /1000 ) কিলোওয়াট ঘণ্টা বা ইউনিট\nP = 60 W এবং t = 5 × 30 hour\nব্যয়িত শক্তি = ( 60 × (5 × 30)/1000 ) ইউনিট = 9 ইউনিট",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 324,
+      "pdfPageEnd": 324,
+      "printedPageStart": 319,
+      "printedPageEnd": 319,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c11-t11.3-p025",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "প্রতি ইউনিটের মূল্য 10 টাকা হিসাবে মোট তড়িৎ ব্যয় = 9 × 10 টাকা = 90 টাকা",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 324,
+      "pdfPageEnd": 324,
+      "printedPageStart": 319,
+      "printedPageEnd": 319,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,542 @@
+{
+  "id": "higher-math-9-10-bn-c02-t2.8",
+  "key": "2.8",
+  "title": "ভাগশেষ ও উৎপাদক উপপাদ্য",
+  "chapter": 2,
+  "ordinal": 8,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c02-t2.8-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এই অনুচ্ছেদে শুধু $x$ চলকের বহুপদী বিবেচনা করা হবে। প্রথমে দুটি উদাহরণ বিবেচনা করি।",
+      "image": null,
+      "formulas": [
+        "x"
+      ],
+      "pdfPageStart": 47,
+      "pdfPageEnd": 47,
+      "printedPageStart": 42,
+      "printedPageEnd": 42,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.8-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৪.** যদি $P(x) = x^2 - 5x + 6$ হয়, তবে $P(x)$ কে $(x - 4)$ দ্বারা ভাগ কর এবং দেখাও যে, ভাগশেষ $P(4)$ এর সমান।",
+      "image": null,
+      "formulas": [
+        "P(x) = x^2 - 5x + 6",
+        "P(x)",
+        "(x - 4)",
+        "P(4)"
+      ],
+      "pdfPageStart": 47,
+      "pdfPageEnd": 47,
+      "printedPageStart": 42,
+      "printedPageEnd": 42,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.8-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $P(x)$ কে $(x - 4)$ দ্বারা নিচের মতো ভাগ করি।",
+      "image": null,
+      "formulas": [
+        "P(x)",
+        "(x - 4)"
+      ],
+      "pdfPageStart": 47,
+      "pdfPageEnd": 47,
+      "printedPageStart": 42,
+      "printedPageEnd": 42,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.8-p004",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\begin{array}{r}\nx^2 - 5x + 6 \\\\\nx - 4 \\enclose{longdiv}{x^2 - 5x + 6} \\\\\n<u>x^2 - 4x</u> \\\\\n-x + 6 \\\\\n<u>-x + 4</u> \\\\\n2\n\\end{array}$$",
+      "image": null,
+      "formulas": [
+        "\\begin{array}{r}\nx^2 - 5x + 6 \\\\\nx - 4 \\enclose{longdiv}{x^2 - 5x + 6} \\\\\n<u>x^2 - 4x</u> \\\\\n-x + 6 \\\\\n<u>-x + 4</u> \\\\\n2\n\\end{array}"
+      ],
+      "pdfPageStart": 47,
+      "pdfPageEnd": 47,
+      "printedPageStart": 42,
+      "printedPageEnd": 42,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.8-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে ভাগশেষ ২।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 47,
+      "pdfPageEnd": 47,
+      "printedPageStart": 42,
+      "printedPageEnd": 42,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.8-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যেহেতু $P(4) = 4^2 - 5(4) + 6 = 2$, সুতরাং, ভাগশেষ $P(4)$ এর সমান।",
+      "image": null,
+      "formulas": [
+        "P(4) = 4^2 - 5(4) + 6 = 2",
+        "P(4)"
+      ],
+      "pdfPageStart": 47,
+      "pdfPageEnd": 47,
+      "printedPageStart": 42,
+      "printedPageEnd": 42,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.8-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৫.** যদি $P(x) = ax^3 + bx + c$ হয়, তবে $P(x)$ কে $x - m$ দ্বারা ভাগ করে দেখাও যে, ভাগশেষ $P(m)$ এর সমান।",
+      "image": null,
+      "formulas": [
+        "P(x) = ax^3 + bx + c",
+        "P(x)",
+        "x - m",
+        "P(m)"
+      ],
+      "pdfPageStart": 48,
+      "pdfPageEnd": 48,
+      "printedPageStart": 43,
+      "printedPageEnd": 43,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.8-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $P(x)$ কে $x - m$ দ্বারা নিচের মতো ভাগ করি।",
+      "image": null,
+      "formulas": [
+        "P(x)",
+        "x - m"
+      ],
+      "pdfPageStart": 48,
+      "pdfPageEnd": 48,
+      "printedPageStart": 43,
+      "printedPageEnd": 43,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.8-p009",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\begin{array}{r}\nax^2 + amx + am^2 + b \\\\\nx - m \\enclose{longdiv}{ax^3 + bx + c} \\\\\n<u>ax^3 - amx^2</u> \\\\\namx^2 + bx + c \\\\\n<u>amx^2 - am^2x</u> \\\\\n(am^2 + b)x + c \\\\\n<u>(am^2 + b)x - (am^2 + b)m</u> \\\\\nam^3 + bm + c\n\\end{array}$$",
+      "image": null,
+      "formulas": [
+        "\\begin{array}{r}\nax^2 + amx + am^2 + b \\\\\nx - m \\enclose{longdiv}{ax^3 + bx + c} \\\\\n<u>ax^3 - amx^2</u> \\\\\namx^2 + bx + c \\\\\n<u>amx^2 - am^2x</u> \\\\\n(am^2 + b)x + c \\\\\n<u>(am^2 + b)x - (am^2 + b)m</u> \\\\\nam^3 + bm + c\n\\end{array}"
+      ],
+      "pdfPageStart": 48,
+      "pdfPageEnd": 48,
+      "printedPageStart": 43,
+      "printedPageEnd": 43,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.8-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে ভাগশেষ $= am^3 + bm + c$।\nআবার, $P(m) = am^3 + bm + c$, সুতরাং ভাগশেষ $P(m)$ এর সমান।\nউপরের এই উদাহরণ দুটি থেকে নিম্নের প্রতিজ্ঞাটি সম্পর্কে ধারণা পাওয়া যায়।",
+      "image": null,
+      "formulas": [
+        "= am^3 + bm + c",
+        "P(m) = am^3 + bm + c",
+        "P(m)"
+      ],
+      "pdfPageStart": 48,
+      "pdfPageEnd": 48,
+      "printedPageStart": 43,
+      "printedPageEnd": 43,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.8-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রতিজ্ঞা ১ (ভাগশেষ উপপাদ্য).** যদি $P(x)$ ধনাত্মক মাত্রার বহুপদী হয় এবং $a$ কোনো নির্দিষ্ট সংখ্যা হয়, তবে $P(x)$ কে $x - a$ দ্বারা ভাগ করলে ভাগশেষ $P(a)$ হবে।",
+      "image": null,
+      "formulas": [
+        "P(x)",
+        "a",
+        "P(x)",
+        "x - a",
+        "P(a)"
+      ],
+      "pdfPageStart": 48,
+      "pdfPageEnd": 48,
+      "printedPageStart": 43,
+      "printedPageEnd": 43,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.8-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:** $P(x)$ কে $x - a$ দ্বারা ভাগ করলে ভাগশেষ হয় ০ অথবা অশূন্য ধ্রুবক হবে।\nমনে করি, ভাগশেষ $R$ এবং ভাগফল $Q(x)$; তাহলে, ভাগের নিয়মে, সকল $x$ এর জন্য",
+      "image": null,
+      "formulas": [
+        "P(x)",
+        "x - a",
+        "R",
+        "Q(x)",
+        "x"
+      ],
+      "pdfPageStart": 48,
+      "pdfPageEnd": 48,
+      "printedPageStart": 43,
+      "printedPageEnd": 43,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.8-p013",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$P(x) = (x - a)Q(x) + R$$",
+      "image": null,
+      "formulas": [
+        "P(x) = (x - a)Q(x) + R"
+      ],
+      "pdfPageStart": 48,
+      "pdfPageEnd": 48,
+      "printedPageStart": 43,
+      "printedPageEnd": 43,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.8-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যাতে $x = a$ বসিয়ে পাই, $P(a) = 0 \\cdot Q(a) + R = R$।\nসুতরাং, $P(x)$ কে $x - a$ দ্বারা ভাগ করলে ভাগশেষ $P(a)$ হবে।",
+      "image": null,
+      "formulas": [
+        "x = a",
+        "P(a) = 0 \\cdot Q(a) + R = R",
+        "P(x)",
+        "x - a",
+        "P(a)"
+      ],
+      "pdfPageStart": 48,
+      "pdfPageEnd": 48,
+      "printedPageStart": 43,
+      "printedPageEnd": 43,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.8-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৬.** $P(x) = x^3 - 8x^2 + 6x + 60$ কে $x + 2$ দ্বারা ভাগ করলে, ভাগশেষ কত হবে?",
+      "image": null,
+      "formulas": [
+        "P(x) = x^3 - 8x^2 + 6x + 60",
+        "x + 2"
+      ],
+      "pdfPageStart": 48,
+      "pdfPageEnd": 48,
+      "printedPageStart": 43,
+      "printedPageEnd": 43,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.8-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** যেহেতু $x + 2 = x - (-2) = (x - a)$ যেখানে $a = -2$,\nসুতরাং, ভাগশেষ $= P(-2) = (-2)^3 - 8(-2)^2 + 6(-2) + 60 = 8$।\nপ্রতিজ্ঞা ১ এর অনুকরণে নিচের প্রতিজ্ঞাটিও প্রমাণ করা যায়।",
+      "image": null,
+      "formulas": [
+        "x + 2 = x - (-2) = (x - a)",
+        "a = -2",
+        "= P(-2) = (-2)^3 - 8(-2)^2 + 6(-2) + 60 = 8"
+      ],
+      "pdfPageStart": 48,
+      "pdfPageEnd": 48,
+      "printedPageStart": 43,
+      "printedPageEnd": 43,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.8-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রতিজ্ঞা ২.** যদি $P(x)$ ধনাত্মক মাত্রার বহুপদী হয় এবং $a \\neq 0$ হয়, তবে $P(x)$ কে $ax + b$ দ্বারা ভাগ করলে ভাগশেষ $P\\left(-\\frac{b}{a}\\right)$ হবে।",
+      "image": null,
+      "formulas": [
+        "P(x)",
+        "a \\neq 0",
+        "P(x)",
+        "ax + b",
+        "P\\left(-\\frac{b}{a}\\right)"
+      ],
+      "pdfPageStart": 48,
+      "pdfPageEnd": 48,
+      "printedPageStart": 43,
+      "printedPageEnd": 43,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.8-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৭.** বহুপদী $P(x) = 36x^2 - 8x + 5$ কে $(2x - 1)$ দ্বারা ভাগ করলে ভাগশেষ কত হবে?",
+      "image": null,
+      "formulas": [
+        "P(x) = 36x^2 - 8x + 5",
+        "(2x - 1)"
+      ],
+      "pdfPageStart": 48,
+      "pdfPageEnd": 48,
+      "printedPageStart": 43,
+      "printedPageEnd": 43,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.8-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** নির্গেয় ভাগশেষ $P\\left(\\frac{1}{2}\\right) = 36\\left(\\frac{1}{2}\\right)^2 - 8\\left(\\frac{1}{2}\\right) + 5 = 9 - 4 + 5 = 10$।",
+      "image": null,
+      "formulas": [
+        "P\\left(\\frac{1}{2}\\right) = 36\\left(\\frac{1}{2}\\right)^2 - 8\\left(\\frac{1}{2}\\right) + 5 = 9 - 4 + 5 = 10"
+      ],
+      "pdfPageStart": 48,
+      "pdfPageEnd": 48,
+      "printedPageStart": 43,
+      "printedPageEnd": 43,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.8-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৮.** যদি $P(x) = 5x^3 + 6x^2 - ax + 6$ কে $x - 2$ দ্বারা ভাগ করলে ভাগশেষ 6 হয়, তবে $a$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "P(x) = 5x^3 + 6x^2 - ax + 6",
+        "x - 2",
+        "a"
+      ],
+      "pdfPageStart": 49,
+      "pdfPageEnd": 49,
+      "printedPageStart": 44,
+      "printedPageEnd": 44,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.8-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $P(x)$ কে $x - 2$ দ্বারা ভাগ করলে ভাগশেষ হবে,\n$$P(2) = 5(2)^3 + 6(2)^2 - a(2) + 6 = 40 + 24 - 2a + 6 = 70 - 2a$$\nশর্তানুসারে, $70 - 2a = 6$ বা, $2a = 70 - 6 = 64$ অর্থাৎ $a = 32$।",
+      "image": null,
+      "formulas": [
+        "P(x)",
+        "x - 2",
+        "P(2) = 5(2)^3 + 6(2)^2 - a(2) + 6 = 40 + 24 - 2a + 6 = 70 - 2a",
+        "70 - 2a = 6",
+        "2a = 70 - 6 = 64",
+        "a = 32"
+      ],
+      "pdfPageStart": 49,
+      "pdfPageEnd": 49,
+      "printedPageStart": 44,
+      "printedPageEnd": 44,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.8-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৯.** যদি $P(x) = x^3 + 5x^2 + 6x + 8$ হয় এবং $P(x)$ কে $x - a$ এবং $x - b$ দ্বারা ভাগ করলে একই ভাগশেষ থাকে যেখানে $a \\neq b$, তবে দেখাও যে, $a^2 + b^2 + ab + 5a + 5b + 6 = 0$।",
+      "image": null,
+      "formulas": [
+        "P(x) = x^3 + 5x^2 + 6x + 8",
+        "P(x)",
+        "x - a",
+        "x - b",
+        "a \\neq b",
+        "a^2 + b^2 + ab + 5a + 5b + 6 = 0"
+      ],
+      "pdfPageStart": 49,
+      "pdfPageEnd": 49,
+      "printedPageStart": 44,
+      "printedPageEnd": 44,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.8-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $P(x)$ কে $x - a$ দ্বারা ভাগ করলে ভাগশেষ হবে $P(a) = a^3 + 5a^2 + 6a + 8$,\nএবং $P(x)$ কে $x - b$ দ্বারা ভাগ করলে ভাগশেষ হবে $P(b) = b^3 + 5b^2 + 6b + 8$।\nশর্তানুসারে, $a^3 + 5a^2 + 6a + 8 = b^3 + 5b^2 + 6b + 8$\nবা, $a^3 - b^3 + 5(a^2 - b^2) + 6(a - b) = 0$\nবা, $(a - b)(a^2 + b^2 + ab + 5a + 5b + 6) = 0$\n$\\therefore a^2 + b^2 + ab + 5a + 5b + 6 = 0$, যেহেতু $a \\neq b$",
+      "image": null,
+      "formulas": [
+        "P(x)",
+        "x - a",
+        "P(a) = a^3 + 5a^2 + 6a + 8",
+        "P(x)",
+        "x - b",
+        "P(b) = b^3 + 5b^2 + 6b + 8",
+        "a^3 + 5a^2 + 6a + 8 = b^3 + 5b^2 + 6b + 8",
+        "a^3 - b^3 + 5(a^2 - b^2) + 6(a - b) = 0",
+        "(a - b)(a^2 + b^2 + ab + 5a + 5b + 6) = 0",
+        "\\therefore a^2 + b^2 + ab + 5a + 5b + 6 = 0",
+        "a \\neq b"
+      ],
+      "pdfPageStart": 49,
+      "pdfPageEnd": 49,
+      "printedPageStart": 44,
+      "printedPageEnd": 44,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.8-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রতিজ্ঞা ৩ (উৎপাদক উপপাদ্য).** যদি $P(x)$ ধনাত্মক মাত্রার বহুপদী হয় এবং $P(a) = 0$ হয়, তবে $P(x)$ এর একটি উৎপাদক $x - a$ হবে।",
+      "image": null,
+      "formulas": [
+        "P(x)",
+        "P(a) = 0",
+        "P(x)",
+        "x - a"
+      ],
+      "pdfPageStart": 49,
+      "pdfPageEnd": 49,
+      "printedPageStart": 44,
+      "printedPageEnd": 44,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.8-p025",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:** $P(x)$ বহুপদীকে $x - a$ দ্বারা ভাগ করলে ভাগশেষ উপপাদ্য অনুযায়ী ভাগশেষ $= P(a)$, যা প্রদত্ত শর্ত অনুযায়ী 0। অর্থাৎ $P(x)$ বহুপদী $x - a$ দ্বারা বিভাজ্য।\n$\\therefore x - a$ হচ্ছে $P(x)$ এর একটি উৎপাদক।",
+      "image": null,
+      "formulas": [
+        "P(x)",
+        "x - a",
+        "= P(a)",
+        "P(x)",
+        "x - a",
+        "\\therefore x - a",
+        "P(x)"
+      ],
+      "pdfPageStart": 49,
+      "pdfPageEnd": 49,
+      "printedPageStart": 44,
+      "printedPageEnd": 44,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

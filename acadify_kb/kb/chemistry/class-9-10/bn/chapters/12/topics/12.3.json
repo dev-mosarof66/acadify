@@ -1,0 +1,384 @@
+{
+  "id": "chemistry-9-10-bn-c12-t12.3",
+  "key": "12.3",
+  "title": "কৃষি ও শিল্পক্ষেত্রে রসায়ন",
+  "chapter": 12,
+  "ordinal": 3,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c12-t12.3-p001",
+      "kind": "text",
+      "section": "(Chemistry in Agriculture and Industries)",
+      "caption": null,
+      "body": "শিল্পকারখানায় উৎপন্ন বিভিন্ন রাসায়নিক পদার্থ মাটিতে প্রয়োগ করে মাটির উর্বরতা বৃদ্ধি করা হয়। চুনাপাথর (CaCO<sub>3</sub>) একটি মূল্যবান খনিজ সম্পদ। আমাদের দেশে সুনামগঞ্জ জেলায় এবং সেন্টমার্টিন দ্বীপে প্রচুর চুনাপাথর পাওয়া যায়। চুনাপাথর দ্বারা অনেক পদার্থ তৈরি করা যায়। যেমন- সিমেন্ট তৈরি করার প্রধান উপাদান হিসেবে চুনাপাথর ব্যবহার করা হয়। কোনো কারণে মাটি যদি অম্লীয় হয় অর্থাৎ মাটিতে যদি H<sup>+</sup> এর পরিমাণ বেড়ে যায়, তবে মাটির অম্লত্ব কমানোর জন্য সেই মাটিতে চুনাপাথর প্রয়োগ করা হয়। চুনাপাথর H<sup>+</sup> এর সাথে বিক্রিয়া করে ক্যালসিয়াম আয়ন (Ca<sup>2+</sup>), কার্বন ডাই-অক্সাইড এবং পানি তৈরি করে। ফলে মাটির অম্লত্ব কমে যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 306,
+      "pdfPageEnd": 306,
+      "printedPageStart": 301,
+      "printedPageEnd": 301,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c12-t12.3-p002",
+      "kind": "formula",
+      "section": "(Chemistry in Agriculture and Industries)",
+      "caption": null,
+      "body": "$$CaCO_3 + 2H^+ \\longrightarrow Ca^{2+} + CO_2 + H_2O$$",
+      "image": null,
+      "formulas": [
+        "CaCO_3 + 2H^+ \\longrightarrow Ca^{2+} + CO_2 + H_2O"
+      ],
+      "pdfPageStart": 306,
+      "pdfPageEnd": 306,
+      "printedPageStart": 301,
+      "printedPageEnd": 301,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c12-t12.3-p003",
+      "kind": "text",
+      "section": "ইউরিয়া (Urea)",
+      "caption": null,
+      "body": "ইউরিয়া মূল্যবান পদার্থ। কার্বন ডাইঅক্সাইড এবং অ্যামোনিয়া গ্যাসের মিশ্রণকে উচ্চ চাপে এবং 130<sup>0</sup>-150<sup>0</sup>C তাপমাত্রায় উত্তপ্ত করলে প্রথমে অ্যামোনিয়াম কার্বামেট (NH<sub>2</sub>COONH<sub>4</sub>) উৎপন্ন হয়। পরবর্তীতে অ্যামোনিয়াম কার্বামেট ভেঙে ইউরিয়া (NH<sub>2</sub>-CO-NH<sub>2</sub>) প্রস্তুত হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 306,
+      "pdfPageEnd": 306,
+      "printedPageStart": 301,
+      "printedPageEnd": 301,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c12-t12.3-p004",
+      "kind": "text",
+      "section": "ইউরিয়া (Urea)",
+      "caption": null,
+      "body": "$$CO_2 + 2NH_3 \\xrightarrow{\\Delta} NH_2COONH_4$$\n$$NH_2COONH_4 \\longrightarrow NH_2-CO-NH_2 + H_2O$$",
+      "image": null,
+      "formulas": [
+        "CO_2 + 2NH_3 \\xrightarrow{\\Delta} NH_2COONH_4",
+        "NH_2COONH_4 \\longrightarrow NH_2-CO-NH_2 + H_2O"
+      ],
+      "pdfPageStart": 306,
+      "pdfPageEnd": 306,
+      "printedPageStart": 301,
+      "printedPageEnd": 301,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c12-t12.3-p005",
+      "kind": "text",
+      "section": "ইউরিয়া (Urea)",
+      "caption": null,
+      "body": "শিল্পক্ষেত্রে এবং কৃষিক্ষেত্রে ইউরিয়ার ব্যাপক ব্যবহার রয়েছে। শিল্পক্ষেত্রে ইউরিয়া থেকে ম্যালামাইন পলিমার তৈরি করা হয়। কৃষিক্ষেত্রে ইউরিয়াকে সার হিসেবে ব্যবহার করা হয়। জমিতে ইউরিয়া সার দেওয়া হয় যাতে গাছ ইউরিয়া সার থেকে প্রয়োজনীয় পুষ্টি উপাদান নাইট্রোজেন গ্রহণ করতে পারে। উদ্ভিদ বায়ু থেকে সরাসরি N<sub>2</sub> গ্রহণ করে না। মাটিতে ইউরিয়েজ (urease) এনজাইমের উপস্থিতিতে ইউরিয়া পানির সাথে বিক্রিয়া করে NH<sub>4</sub><sup>+</sup>, OH<sup>-</sup> এবং CO<sub>2</sub> তৈরি করে। উদ্ভিদ এই NH<sub>4</sub><sup>+</sup> শোষণ করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 306,
+      "pdfPageEnd": 306,
+      "printedPageStart": 301,
+      "printedPageEnd": 301,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c12-t12.3-p006",
+      "kind": "formula",
+      "section": "ইউরিয়া (Urea)",
+      "caption": null,
+      "body": "$$NH_2-CO-NH_2 + 3H_2O \\xrightarrow{ইউরিয়েজ এনজাইম} 2NH_4^+ + 2OH^- + CO_2$$",
+      "image": null,
+      "formulas": [
+        "NH_2-CO-NH_2 + 3H_2O \\xrightarrow{ইউরিয়েজ এনজাইম} 2NH_4^+ + 2OH^- + CO_2"
+      ],
+      "pdfPageStart": 306,
+      "pdfPageEnd": 306,
+      "printedPageStart": 301,
+      "printedPageEnd": 301,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c12-t12.3-p007",
+      "kind": "text",
+      "section": "অ্যামোনিয়াম সালফেট (Ammonium Sulphate)",
+      "caption": null,
+      "body": "অ্যামোনিয়া এবং সালফিউরিক এসিড বিক্রিয়া করে অ্যামোনিয়াম সালফেট [(NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub>] এবং পানি উৎপন্ন হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 306,
+      "pdfPageEnd": 306,
+      "printedPageStart": 301,
+      "printedPageEnd": 301,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c12-t12.3-p008",
+      "kind": "formula",
+      "section": "অ্যামোনিয়াম সালফেট (Ammonium Sulphate)",
+      "caption": null,
+      "body": "$$2NH_3 + H_2SO_4 \\longrightarrow (NH_4)_2SO_4 + H_2O$$",
+      "image": null,
+      "formulas": [
+        "2NH_3 + H_2SO_4 \\longrightarrow (NH_4)_2SO_4 + H_2O"
+      ],
+      "pdfPageStart": 306,
+      "pdfPageEnd": 306,
+      "printedPageStart": 301,
+      "printedPageEnd": 301,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c12-t12.3-p009",
+      "kind": "text",
+      "section": "অ্যামোনিয়াম সালফেট (Ammonium Sulphate)",
+      "caption": null,
+      "body": "কৃষিক্ষেত্রে অ্যামোনিয়াম সালফেট এর ব্যাপক ব্যবহার রয়েছে। অ্যামোনিয়াম সালফেট ক্ষারকের সাথে বিক্রিয়া করতে পারে কাজেই মাটিতে ক্ষারকের পরিমাণ বেড়ে গেলে অ্যামোনিয়াম সালফেট প্রয়োগ করে ক্ষারকের পরিমাণ কমানো হয়। এটি উদ্ভিদের জন্য অতি প্রয়োজনীয় পুষ্টি উপাদান। এ থেকে উদ্ভিদ নাইট্রোজেন ও সালফার গ্রহণ করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 306,
+      "pdfPageEnd": 307,
+      "printedPageStart": 301,
+      "printedPageEnd": 302,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c12-t12.3-p010",
+      "kind": "text",
+      "section": "কৃষিদ্ব্য প্রক্রিয়াকরণে রাসায়নিক দ্রব্য",
+      "caption": null,
+      "body": "ফলমূল, শাকসবজি, মাছ ইত্যাদিকে কৃষিদ্ব্য বলা হয়। যে প্রক্রিয়ায় কোনো রাসায়নিক পদার্থের মাধ্যমে কোনো কৃষিজাত দ্রব্যকে দীর্ঘদিন ভালো রাখা বা পচনের হাত থেকে রক্ষা করা হয় সেই প্রক্রিয়াকে কৃষিদ্ব্য প্রক্রিয়াকরণ বলা হয়। রাসায়নিক দ্রব্য ব্যবহারের ভালো এবং খারাপ উভয় দিকই রয়েছে। ব্যবসায়ীরা পাকা আম বাস, ট্রাক বা ট্রেনে করে এক জায়গা থেকে অন্য জায়গায় নিয়ে যাবার সময় আমার গায়ে দাগ লাগে। এই দাগযুক্ত আম মানুষ কিনতে চায় না। এজন্য অসাধু ব্যবসায়ী অনেক সময় কাঁচা আম কিনে এক স্থান থেকে অন্য স্থানে নিয়ে যায়, ফলে আমার গায়ে দাগ পড়ে না। এরপর এই কাঁচা আমের উপর অসাধু ব্যবসায়ীরা ক্যালসিয়াম কার্বাইডের জলীয় দ্রবণ ব্যবহার করে, ফলে আম পেকে যায়। ক্যালসিয়াম কার্বাইড (CaC<sub>2</sub>) এর মধ্যে পানি যোগ করে অ্যাসিটিলিন গ্যাস তৈরি করা হয়। এই অ্যাসিটিলিন গ্যাস ফল পাকাতে সাহায্য করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 307,
+      "pdfPageEnd": 307,
+      "printedPageStart": 302,
+      "printedPageEnd": 302,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c12-t12.3-p011",
+      "kind": "formula",
+      "section": "কৃষিদ্ব্য প্রক্রিয়াকরণে রাসায়নিক দ্রব্য",
+      "caption": null,
+      "body": "$$CaC_2 + 2H_2O \\longrightarrow C_2H_2 + Ca(OH)_2$$",
+      "image": null,
+      "formulas": [
+        "CaC_2 + 2H_2O \\longrightarrow C_2H_2 + Ca(OH)_2"
+      ],
+      "pdfPageStart": 307,
+      "pdfPageEnd": 307,
+      "printedPageStart": 302,
+      "printedPageEnd": 302,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c12-t12.3-p012",
+      "kind": "text",
+      "section": "কৃষিদ্ব্য প্রক্রিয়াকরণে রাসায়নিক দ্রব্য",
+      "caption": null,
+      "body": "এছাড়া ইথিলিন গ্যাস দ্বারাও কাঁচা আম পাকানো হয়। ইথিলিনও আমাদের শরীরের উপর বিরূপ প্রভাব ফেলে। কার্বাইড দিয়ে আম পাকানো বলতে অ্যাসিটিলিন দ্বারা আম পাকানোর পদ্ধতিকেই বোঝানো হয়। সাধারণত পাকা ফল থেকে ইথিলিন (প্রাকৃতিক হরমোন) গ্যাস নিঃসৃত হয়ে আশপাশের কাঁচা ফলকেও পাকিয়ে ফেলে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 307,
+      "pdfPageEnd": 307,
+      "printedPageStart": 302,
+      "printedPageEnd": 302,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c12-t12.3-p013",
+      "kind": "text",
+      "section": "কৃষিদ্ব্য সংরক্ষণে রাসায়নিক দ্রব্য",
+      "caption": null,
+      "body": "কৃষিদ্ব্য যাতে দূর্গন্ধ না হয় বা যাতে এগুলোতে পচন না ধরে সেজন্য বরফ, খাদ্য লবণ, ভিনেগার ইত্যাদি দ্বারা কৃষিদ্ব্য সংরক্ষণ করা হয়। বরফ দ্বারা মাছ সংরক্ষণ করা হয়। টমেটো, কাঁচা আম ইত্যাদি কোটাতে দীর্ঘদিন সংরক্ষণ করার জন্য ভিনেগার ব্যবহৃত হয়। খাদ্যের সাথে আমাদের শরীরে ভিনেগার প্রবেশ করলেও আমাদের কোনো সমস্যা হয় না। ফরমালিন দ্বারা খাদ্য সংরক্ষণ করা হয় না। কারণ ফরমালিন মানুষ এবং প্রাণী সকলের জন্য বিষাক্ত পদার্থ। আমাদের শরীরে ফরমালিন প্রবেশ করে আমাদের মৃত্যুর কারণও হতে পারে। অতএব, ফরমালিন দ্বারা কৃষিপণ্য সংরক্ষণ করা উচিত না। গবেষণাগারে মৃত প্রাণীদেহ সংরক্ষণে ফরমালিন ব্যবহার করা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 307,
+      "pdfPageEnd": 307,
+      "printedPageStart": 302,
+      "printedPageEnd": 302,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c12-t12.3-p014",
+      "kind": "text",
+      "section": "কয়েকটি অনুমোদিত ফুড প্রিজারভেটিভ",
+      "caption": null,
+      "body": "যেসব রাসায়নিক দ্রব্য খাদ্যসামগ্রীতে দিলে খাদ্যসামগ্রীতে ব্যাকটেরিয়া জন্মাতে পারে না, দূর্গন্ধ হয় না, পচন হয় না সেসব রাসায়নিক দ্রব্যকে ফুড প্রিজারভেটিভ বলে। যেসব ফুড প্রিজারভেটিভ আমাদের শরীরে গেলে শরীরের কোনো ক্ষতি হয় না এবং যেগুলোকে বিশ্বস্বাস্থ্য সংস্থা (WHO) খাদ্য সংরক্ষক হিসেবে অনুমোদন দিয়েছে, সেসব ফুড প্রিজারভেটিভকে অনুমোদিত ফুড প্রিজারভেটিভ বলা হয়। যেসব ফুড প্রিজারভেটিভ আমাদের শরীরে গেলে আমাদের শরীরের ক্ষতি হয় সেগুলোকে অননুমোদিত ফুড প্রিজারভেটিভ বলা হয়। সোডিয়াম বেনজোয়েট, বেনজোয়িক এসিড, ভিনেগার, লবণের দ্রবণ, চিনির দ্রবণ ইত্যাদি অননুমোদিত ফুড প্রিজারভেটিভ। ইথিলিন, অ্যাসিটিলিন ইত্যাদি অননুমোদিত ফুড প্রিজারভেটিভ।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 307,
+      "pdfPageEnd": 308,
+      "printedPageStart": 302,
+      "printedPageEnd": 303,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c12-t12.3-p015",
+      "kind": "text",
+      "section": "শিল্প বর্জ্য ও পরিবেশ দূষণ",
+      "caption": null,
+      "body": "শিল্পকারখানা থেকে নির্গত বর্জ্য পদার্থ পরিবেশকে দূষিত করে। বাংলাদেশে চামড়া শিল্প, রং শিল্প, কীটনাশক শিল্প থেকে বর্জ্য হিসেবে বিভিন্ন প্রকার ভারী ধাতু; যেমন- ক্রোমিয়াম (Cr), লেড (Pb), মার্কারি (Hg) এবং ক্যাডমিয়াম (Cd) ইত্যাদি নির্গত হয়। এসব ভারী ধাতু বা বর্জ্য পদার্থ মাটি এবং পানিতে প্রবেশ করে। এসব মাটিতে যেসব উদ্ভিদ জন্মে সেসব উদ্ভিদের মধ্যে এসব ধাতু প্রবেশ করে। এসব উদ্ভিদের ফলমূল খেলে আমাদের শরীরে এসব ভারী ধাতু প্রবেশ করে আমাদের কিডনি ও লিভারের ক্ষতি করে এমনকি, মৃত্যুও ঘটাতে পারে। আবার সাবান ও ডিটারজেন্ট কারখানা থেকে প্রচুর পরিমাণে কস্টিক সোডা (NaOH) মাটি এবং পানিতে নির্গত হয়। পানিতে NaOH গেলে পানিতে ক্ষারকের মাত্রা বেড়ে যায়, ফলে পানিতে জলজ প্রাণী এবং উদ্ভিদ ভালোভাবে বাঁচতে পারে না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 308,
+      "pdfPageEnd": 308,
+      "printedPageStart": 303,
+      "printedPageEnd": 303,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c12-t12.3-p016",
+      "kind": "text",
+      "section": "শিল্প বর্জ্য ও পরিবেশ দূষণ",
+      "caption": null,
+      "body": "১. অ্যামোনিয়া গ্যাস উৎপাদনে ব্যবহৃত হাইড্রোজেন ও নাইট্রোজেনের অনুপাত কতো?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 308,
+      "pdfPageEnd": 308,
+      "printedPageStart": 303,
+      "printedPageEnd": 303,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c12-t12.3-p017",
+      "kind": "text",
+      "section": "শিল্প বর্জ্য ও পরিবেশ দূষণ",
+      "caption": null,
+      "body": "(ক) 1 : 2 (খ) 1 : 3\n(গ) 2 : 1 (ঘ) 3 : 1",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 308,
+      "pdfPageEnd": 308,
+      "printedPageStart": 303,
+      "printedPageEnd": 303,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c12-t12.3-p018",
+      "kind": "text",
+      "section": "শিল্প বর্জ্য ও পরিবেশ দূষণ",
+      "caption": null,
+      "body": "২. NH<sub>3</sub> + H<sub>2</sub>SO<sub>4</sub> বিক্রিয়াটি—\n(i) একটি প্রশমন বিক্রিয়া\n(ii) উৎপাদ উদ্ভিদের একটি গুরুত্বপূর্ণ পুষ্টি উপাদান\n(iii) উৎপাদের জলীয় দ্রবণের pH এর মান 7 এর চেয়ে বেশি\nনিচের কোনটি সঠিক?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 308,
+      "pdfPageEnd": 308,
+      "printedPageStart": 303,
+      "printedPageEnd": 303,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c12-t12.3-p019",
+      "kind": "text",
+      "section": "শিল্প বর্জ্য ও পরিবেশ দূষণ",
+      "caption": null,
+      "body": "(ক) i ও ii (খ) ii ও iii\n(গ) i ও iii (ঘ) i, ii ও iii",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 308,
+      "pdfPageEnd": 308,
+      "printedPageStart": 303,
+      "printedPageEnd": 303,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c12-t12.3-p020",
+      "kind": "text",
+      "section": "শিল্প বর্জ্য ও পরিবেশ দূষণ",
+      "caption": null,
+      "body": "৩. কোনটি রঙিন পদার্থকে বর্ণহীন করে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 308,
+      "pdfPageEnd": 308,
+      "printedPageStart": 303,
+      "printedPageEnd": 303,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c12-t12.3-p021",
+      "kind": "text",
+      "section": "শিল্প বর্জ্য ও পরিবেশ দূষণ",
+      "caption": null,
+      "body": "(ক) NaOH (খ) Ca(OCl)Cl\n(গ) HCl (ঘ) CH<sub>3</sub>COOH",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 308,
+      "pdfPageEnd": 308,
+      "printedPageStart": 303,
+      "printedPageEnd": 303,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c12-t12.3-p022",
+      "kind": "text",
+      "section": "শিল্প বর্জ্য ও পরিবেশ দূষণ",
+      "caption": null,
+      "body": "৪. জমিতে ইউরিয়া প্রয়োগ করলে কোন আয়ন উদ্ভিদ দ্বারা পরিশোধিত হয়?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 309,
+      "pdfPageEnd": 309,
+      "printedPageStart": 304,
+      "printedPageEnd": 304,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c12-t12.3-p023",
+      "kind": "text",
+      "section": "শিল্প বর্জ্য ও পরিবেশ দূষণ",
+      "caption": null,
+      "body": "(ক) OH<sup>-</sup> (খ) NH<sub>4</sub><sup>+</sup>\n(গ) H<sup>+</sup> (ঘ) Cl<sup>-</sup>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 309,
+      "pdfPageEnd": 309,
+      "printedPageStart": 304,
+      "printedPageEnd": 304,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

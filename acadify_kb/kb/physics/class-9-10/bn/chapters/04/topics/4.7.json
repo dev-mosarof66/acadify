@@ -1,0 +1,122 @@
+{
+  "id": "physics-9-10-bn-c04-t4.7",
+  "key": "4.7",
+  "title": "ক্ষমতা (Power)",
+  "chapter": 4,
+  "ordinal": 7,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c04-t4.7-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমাদের দৈনন্দিন জীবনে ক্ষমতা শব্দটা অনেক ব্যবহার হয় এবং সব সময়ই যে শব্দটা ভালো কিছু বোঝানোর জন্য ব্যবহার হয় তা কিন্তু নয়। কিন্তু পদার্থবিজ্ঞানে ক্ষমতা শব্দটার সুনির্দিষ্ট অর্থ আছে, ক্ষমতা হচ্ছে কাজ করার হার। অর্থাৎ $t$ সময়ে $W$ কাজ করা হয়ে থাকলে ক্ষমতা $P$ হচ্ছে:",
+      "image": null,
+      "formulas": [
+        "t",
+        "W",
+        "P"
+      ],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.7-p002",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$P = \\frac{W}{t}$$",
+      "image": null,
+      "formulas": [
+        "P = \\frac{W}{t}"
+      ],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.7-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা আগেই দেখেছি, কাজ করার অর্থ হচ্ছে শক্তির রূপান্তর। শক্তির যেহেতু ধ্বংস নেই তাই কাজ করার মাঝে দিয়ে শক্তির রূপান্তর করা হয় মাত্র। তাই ইচ্ছে করলে আমরা বলতে পারি, ক্ষমতা হচ্ছে শক্তির রূপান্তরের হার। কাজ বা শক্তি যেহেতু কেবার তাই ক্ষমতাও কেবার।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.7-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "পদার্থবিজ্ঞান শিখতে গিয়ে আমরা নানা ধরনের রাশি সম্পর্কে জেনেছি, তাদের এককের নাম জেনেছি এবং চেষ্টা করেছি প্রায় প্রত্যেক ক্ষেত্রে সেই রাশিটির মাত্রা সম্পর্কে জানতে। ক্ষমতার একক এবং মাত্রা হচ্ছে—",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.7-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক্ষমতার একক: $W$ (ওয়াট)\nক্ষমতার মাত্রা: $[P] = ML^2T^{-3}$",
+      "image": null,
+      "formulas": [
+        "W",
+        "[P] = ML^2T^{-3}"
+      ],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.7-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে এটি আমরা প্রথম জানলেও এর এককটি আমাদের খুব পরিচিত। যদি প্রতি সেকেন্ডে ১ জুল কাজ করা হয় তাহলে আমরা বলি ১ ওয়াট ($W$) কাজ করা হয়েছে বা শক্তির রূপান্তর হয়েছে। আমরা যদি $100\\ W$ এর একটা বাতি জ্বালাই তার অর্থ এই বাতিতে প্রতি সেকেন্ডে $100\\ J$ শক্তি ব্যয় হচ্ছে। যখন আমরা খবরের কাগজ পড়ি, দেশে $1000\\ MW$ নিউক্লিয়ার বিদ্যুৎকেন্দ্র তৈরি হবে তার অর্থ সেই নিউক্লিয়ার শক্তিকেদে প্রতি সেকেন্ডে $1000 \\times 10^6\\ J$ বিদ্যুৎশক্তি উৎপন্ন হবে।",
+      "image": null,
+      "formulas": [
+        "W",
+        "100\\ W",
+        "100\\ J",
+        "1000\\ MW",
+        "1000 \\times 10^6\\ J"
+      ],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

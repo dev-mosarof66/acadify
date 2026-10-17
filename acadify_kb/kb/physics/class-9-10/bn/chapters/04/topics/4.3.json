@@ -1,0 +1,1434 @@
+{
+  "id": "physics-9-10-bn-c04-t4.3",
+  "key": "4.3",
+  "title": "শক্তির বিভিন্ন রূপ (Different Forms of Energy)",
+  "chapter": 4,
+  "ordinal": 3,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "নানা ধরনের কাজের জন্য আমরা নানা ধরনের শক্তি ব্যবহার করি। যেমন- পানি গরম করার জন্য তাপশক্তির প্রয়োজন হয়, দেখার জন্য আমাদের আলোশক্তি লাগে, আমরা শুনি শব্দশক্তি দিয়ে। বৈদ্যুতিক শক্তি দিয়ে আমরা যন্ত্রপাতি চালাই আবার রাসায়নিক শক্তি ব্যবহার করে তড়িৎ কোষে বিদ্যুৎ তৈরি করি। ভারী নিউক্লিয়াস ভেঙে বা হালকা নিউক্লিয়াস জোড়া দিয়ে আমরা যে নিউক্লিয়াস শক্তি পাই সেটা দিয়েও বিদ্যুৎ শক্তি তৈরি করি। খাবার থেকে পুষ্টি নিয়ে আমাদের শরীরে শক্তি তৈরি হয়, আমরা কাজকর্ম করি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমাদের সভ্যতার ইতিহাসটিই হচ্ছে শক্তি তৈরি করে, সেই শক্তি ব্যবহারের ইতিহাস। আমরা আমাদের চারপাশে সেই শক্তির নানা রূপকে দেখতে পাই। যেমন: যান্ত্রিক শক্তি, তাপশক্তি, শব্দশক্তি, আলোক শক্তি, চৌম্বক শক্তি, বিদ্যুৎশক্তি, রাসায়নিক শক্তি, নিউক্লীয় শক্তি এবং সৌরশক্তি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "শক্তির সবচেয়ে সাধারণ রূপ হচ্ছে যান্ত্রিক শক্তি, বস্তুর অবস্থান, আকার এবং গতির কারণে যে শক্তি পাওয়া যায়, তাকেই যান্ত্রিক শক্তি বলে। যান্ত্রিক শক্তির দুটি রূপ হতে পারে গতিশক্তি এবং স্থিতিশক্তি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p004",
+      "kind": "text",
+      "section": "8.3.1 গতিশক্তি (Kinetic Energy)",
+      "caption": null,
+      "body": "আমরা আগে বলেছি, কাজ করার সামর্থ্য হচ্ছে শক্তি। আমরা সবাই জানি, কোনো বস্তু গতিশীল হলে সেটা অন্য বস্তুরকে ধাক্কা দিয়ে সেটাকেও গতিশীল করে খানিকটা দূরত্ব ঠেলে নিয়ে যেতে পারে। অন্য বস্তুরকে গতিশীল করে ফেলার অর্থ নিশ্চয়ই সেখানে বল প্রয়োগ হয়েছে এবং সেই বলের জন্য খানিকটা দূরত্ব যাওয়ার অর্থ নিশ্চয়ই সেখানে কাজ হয়েছে। কাজেই আমরা নিশ্চিতভাবে বলতে পারি গতির জন্য বস্তুর যে শক্তি হয় সেটা নিশ্চয়ই একধরনের শক্তি, যাকে বলা হয় গতিশক্তি । আগের অধ্যায়ে বলেছি যে, আমরা রাস্তাঘাটে যে ভয়ংকর দূর্ঘটনা ঘটে দেখি, সেখানে যে ক্ষয়ক্ষতি হয় তার প্রধান কারণ এই গতিশক্তি । একটা বাস-ট্রাক বা গাড়ি যখন প্রচণ্ড বেগে ছুটে থাকে, তখন তার অনেক বেশি গতিশক্তি থাকে । দূর্ঘটনার সময় এই পুরো শক্তির কারণে গাড়ি ভেঙেচুরে যায়, প্রচণ্ড ধাক্কায় মানুষ মারা যায় ।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 109,
+      "printedPageStart": 103,
+      "printedPageEnd": 104,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p005",
+      "kind": "text",
+      "section": "8.3.1 গতিশক্তি (Kinetic Energy)",
+      "caption": null,
+      "body": "একটা বস্তুর উপর বল প্রয়োগ করে কাজ করা হলে সেখানে কতটুকু গতিশক্তি হবে সেটা আমরা খুব সহজে বের করতে পারি ।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p006",
+      "kind": "text",
+      "section": "8.3.1 গতিশক্তি (Kinetic Energy)",
+      "caption": null,
+      "body": "ধরা যাক $F$ বল প্রয়োগ করে $m$ ভরের একটা বস্তুরকে $s$ দূরত্ব সরানো হলো । তাহলে এই $F$ বলের সম্পাদিত কাজ $W$ হচ্ছে",
+      "image": null,
+      "formulas": [
+        "F",
+        "m",
+        "s",
+        "F",
+        "W"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p007",
+      "kind": "formula",
+      "section": "8.3.1 গতিশক্তি (Kinetic Energy)",
+      "caption": null,
+      "body": "$$W = Fs$$",
+      "image": null,
+      "formulas": [
+        "W = Fs"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p008",
+      "kind": "text",
+      "section": "8.3.1 গতিশক্তি (Kinetic Energy)",
+      "caption": null,
+      "body": "নিউটনের দ্বিতীয় সূত্র থেকে আমরা জানি $F = ma$, গতির সমীকরণ থেকে আমরা জানি স্থির অবস্থা থেকে শুরু করা হলে",
+      "image": null,
+      "formulas": [
+        "F = ma"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p009",
+      "kind": "formula",
+      "section": "8.3.1 গতিশক্তি (Kinetic Energy)",
+      "caption": null,
+      "body": "$$s = \\frac{1}{2}at^2  এবং  v = at$$",
+      "image": null,
+      "formulas": [
+        "s = \\frac{1}{2}at^2  এবং  v = at"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p010",
+      "kind": "text",
+      "section": "8.3.1 গতিশক্তি (Kinetic Energy)",
+      "caption": null,
+      "body": "কাজ $W = Fs = mas = ma \\times \\frac{1}{2}at^2 = \\frac{1}{2}ma^2t^2 = \\frac{1}{2}mv^2$",
+      "image": null,
+      "formulas": [
+        "W = Fs = mas = ma \\times \\frac{1}{2}at^2 = \\frac{1}{2}ma^2t^2 = \\frac{1}{2}mv^2"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p011",
+      "kind": "text",
+      "section": "8.3.1 গতিশক্তি (Kinetic Energy)",
+      "caption": null,
+      "body": "কাজেই আমরা বলতে পারি $F$ বল কোনো বস্তুরকে $s$ দূরত্ব নিয়ে গেলে তার ভেতরে যে শক্তির সঞ্চারণ হয় সেটি হচ্ছে",
+      "image": null,
+      "formulas": [
+        "F",
+        "s"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p012",
+      "kind": "formula",
+      "section": "8.3.1 গতিশক্তি (Kinetic Energy)",
+      "caption": null,
+      "body": "$$T = \\frac{1}{2}mv^2$$",
+      "image": null,
+      "formulas": [
+        "T = \\frac{1}{2}mv^2"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p013",
+      "kind": "text",
+      "section": "8.3.1 গতিশক্তি (Kinetic Energy)",
+      "caption": null,
+      "body": "গতিশক্তিতে $v$ টি বর্গ হিসেবে আছে, কাজেই কোনো বস্তুর গতিশক্তিকে দ্বিগুণ বাড়াতে আমাদের চার গুণ বেশি শক্তি দিতে হয় ।",
+      "image": null,
+      "formulas": [
+        "v"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p014",
+      "kind": "text",
+      "section": "8.3.1 গতিশক্তি (Kinetic Energy)",
+      "caption": null,
+      "body": "গতির সমীকরণ শেখার সময় আমরা দেখেছিলাম $v^2 = u^2 + 2as$",
+      "image": null,
+      "formulas": [
+        "v^2 = u^2 + 2as"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p015",
+      "kind": "text",
+      "section": "8.3.1 গতিশক্তি (Kinetic Energy)",
+      "caption": null,
+      "body": "দুইপাশে $\\frac{1}{2}m$ দিয়ে গুণ করলে সূত্রটি দাঁড়ায়: $\\frac{1}{2}mv^2 = \\frac{1}{2}mu^2 + mas$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{2}m",
+        "\\frac{1}{2}mv^2 = \\frac{1}{2}mu^2 + mas"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p016",
+      "kind": "text",
+      "section": "8.3.1 গতিশক্তি (Kinetic Energy)",
+      "caption": null,
+      "body": "$ma$ এর পরিবর্তে যদি আমরা $F$ লিখি এবং $Fs$ এর পরিবর্তে $W$ লিখি তাহলে সূত্রটি দাঁড়ায়:",
+      "image": null,
+      "formulas": [
+        "ma",
+        "F",
+        "Fs",
+        "W"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p017",
+      "kind": "formula",
+      "section": "8.3.1 গতিশক্তি (Kinetic Energy)",
+      "caption": null,
+      "body": "$$\\frac{1}{2}mv^2 = \\frac{1}{2}mu^2 + W$$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{2}mv^2 = \\frac{1}{2}mu^2 + W"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p018",
+      "kind": "text",
+      "section": "8.3.1 গতিশক্তি (Kinetic Energy)",
+      "caption": null,
+      "body": "অর্থাৎ কোনো বস্তু যদি $u$ বেগে থাকে, তাহলে তার গতিশক্তি $\\frac{1}{2}mu^2$ এবং তার উপর $W$ কাজ করা হলে গতিশক্তি বেড়ে হয় $\\frac{1}{2}mv^2$.",
+      "image": null,
+      "formulas": [
+        "u",
+        "\\frac{1}{2}mu^2",
+        "W",
+        "\\frac{1}{2}mv^2"
+      ],
+      "pdfPageStart": 109,
+      "pdfPageEnd": 109,
+      "printedPageStart": 104,
+      "printedPageEnd": 104,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p019",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** 10 kg ভরের একটা স্থির বস্তুর ওপর 10 s ব্যাপী 10 N বল প্রয়োগ করা হয়েছে (a) বস্তুটির গতিশক্তি কত? (b) 20 s পরে গতিশক্তি কত? (c) যদি পুরো 20 s বল প্রয়োগ করা হয় তাহলে গতিশক্তি কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p020",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** 10 N বল প্রয়োগ করলে ত্বরণ:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p021",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$a = \\frac{F}{m} = \\frac{10N}{10kg} = 1  m/s^2$$",
+      "image": null,
+      "formulas": [
+        "a = \\frac{F}{m} = \\frac{10N}{10kg} = 1  m/s^2"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p022",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই 10s পরে বেগ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p023",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$v = at = \\frac{1  m}{s^2} \\times 10  s = 10  m/s$$",
+      "image": null,
+      "formulas": [
+        "v = at = \\frac{1  m}{s^2} \\times 10  s = 10  m/s"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p024",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "(a) কাজেই গতিশক্তি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p025",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$\\frac{1}{2}mv^2 = \\frac{1}{2} \\times 10 \\times 10^2  J = 500  J$$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{2}mv^2 = \\frac{1}{2} \\times 10 \\times 10^2  J = 500  J"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p026",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "(b) 10 s পর্যন্ত ত্বরণ হবে এর পরে ত্বরণ নেই বলে বেগ অপরিবর্তিত কাজেই 20 s পরে গতিশক্তি একই থাকবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p027",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "(c) পুরো 20 s বল প্রয়োগ করা হলে $v = at = 1  m/s^2 \\times 20  s = 20  m/s$",
+      "image": null,
+      "formulas": [
+        "v = at = 1  m/s^2 \\times 20  s = 20  m/s"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p028",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই গতিশক্তি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p029",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$\\frac{1}{2}mv^2 = \\frac{1}{2} \\times 10 \\times 20^2  J = 2000  J$$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{2}mv^2 = \\frac{1}{2} \\times 10 \\times 20^2  J = 2000  J"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p030",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** 10 kg ভরের একটি বস্তুর উপর বল প্রয়োগ করে গতিশীল করায় তার গতিশক্তি হয়েছে 80 J, বস্তুটির বেগ কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p031",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** গতিশক্তি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p032",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$\\frac{1}{2}mv^2 = 80  J$$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{2}mv^2 = 80  J"
+      ],
+      "pdfPageStart": 110,
+      "pdfPageEnd": 110,
+      "printedPageStart": 105,
+      "printedPageEnd": 105,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p033",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$v^2 = \\frac{2 \\times 80  J}{m} = \\frac{160  m^2}{10  s^2}$$\n$$v = 4  m/s$$",
+      "image": null,
+      "formulas": [
+        "v^2 = \\frac{2 \\times 80  J}{m} = \\frac{160  m^2}{10  s^2}",
+        "v = 4  m/s"
+      ],
+      "pdfPageStart": 111,
+      "pdfPageEnd": 111,
+      "printedPageStart": 106,
+      "printedPageEnd": 106,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p034",
+      "kind": "text",
+      "section": "৪.৩.২ বিভব শক্তি (Potential Energy)",
+      "caption": null,
+      "body": "কাজ সম্পর্কে বলতে গিয়ে আমরা বলেছিলাম, যখন কোনো বল কোনো কিছুর ওপর পজিটিভ কাজ করে তখন সেখানে শক্তির সৃষ্টি হয়। গতিশক্তি সম্পর্কে বলার সময় আমরা তার একটা উদাহরণও দিয়েছিলাম এবং দেখিয়েছিলাম একটা স্থির বস্তুর ওপর বল প্রয়োগ করে সেটাকে খানিকটা দূরচ্ছে নিয়ে গেলে গতিশক্তি $\\frac{1}{2}mv^2$ বেড়ে যায়।",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{2}mv^2"
+      ],
+      "pdfPageStart": 111,
+      "pdfPageEnd": 111,
+      "printedPageStart": 106,
+      "printedPageEnd": 106,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p035",
+      "kind": "text",
+      "section": "৪.৩.২ বিভব শক্তি (Potential Energy)",
+      "caption": null,
+      "body": "এবারে এমন একটা উদাহরণ দেওয়া হবে, যেখানে বল প্রয়োগ করে খানিকটা দূরত্ব অতিক্রম করার পরও কোনো গতিশক্তি তৈরি হবে না। মনে করো টেবিলে একটা স্প্রিং ৪.০২ চিত্রে দেখানো উপায়ে রাখা আছে, তুমি স্প্রিংয়ের খোলা মাথায় আঙুল দিয়ে $F$ বল প্রয়োগ করে স্প্রিংটাকে $x$ দূরচ্ছে সংকুচিত করে দিয়েছ। এ রকম অবস্থায় তোমার হাত বা স্প্রিং কোনোটাই গতিশীল না, তাই কোথাও কোনো গতিশক্তি নেই। যেহেতু যদিকে $F$ বল প্রয়োগ করা হয়েছে অতিক্রান্ত দূরত্বও $x$ সেই দিকে, তাই কাজটি পজিটিভ। আমাদের কাজের সংজ্ঞা অনুযায়ী এখানে শক্তি সৃষ্টি হওয়ার কথা। কিন্তু সেই শক্তিটি কোথায়? কোনো কিছু গতিশীল নয়, তাই এখানে নিশ্চিতভাবে কোনো গতিশক্তি নেই।",
+      "image": null,
+      "formulas": [
+        "F",
+        "x",
+        "F",
+        "x"
+      ],
+      "pdfPageStart": 111,
+      "pdfPageEnd": 111,
+      "printedPageStart": 106,
+      "printedPageEnd": 106,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p036",
+      "kind": "figure",
+      "section": "৪.৩.২ বিভব শক্তি (Potential Energy)",
+      "caption": null,
+      "body": "drawing: A diagram showing a spring with its original length L, and then compressed by a distance x to a new length L-x, with a hand applying a force F to the right.",
+      "image": "p111-page_9_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 111,
+      "pdfPageEnd": 111,
+      "printedPageStart": 106,
+      "printedPageEnd": 106,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p037",
+      "kind": "figure",
+      "section": "৪.৩.২ বিভব শক্তি (Potential Energy)",
+      "caption": null,
+      "body": "**চিত্র ৪.০২: স্প্রিংয়ের স্থিরাবস্থা এবং বল প্রয়োগ করে সংকুচিত অবস্থা**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 111,
+      "pdfPageEnd": 111,
+      "printedPageStart": 106,
+      "printedPageEnd": 106,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p038",
+      "kind": "text",
+      "section": "৪.৩.২ বিভব শক্তি (Potential Energy)",
+      "caption": null,
+      "body": "আমরা যারা স্প্রিং ব্যবহার করেছি, তারা অনুমান করতে পারছি যে সংকুচিত স্প্রিংয়ের ভেতর নিশ্চয়ই শক্তিটুকু লুকিয়ে রয়েছে। কারণ আমরা জানি সংকুচিত স্প্রিংটার সামনে একটা $m$ ভরের বস্তু রেখে স্প্রিংটা ছেড়ে দিলে স্প্রিংটা ভরটার ওপর বল প্রয়োগ করে একটা দূরত্ব অতিক্রম করতে পারত, যার অর্থ কাজ করাতে পারত। অর্থাৎ এটি একটি শক্তি, গতিশক্তি না হলেও এটি অন্য এক ধরনের শক্তি। এই ধরনের সঙ্কুচিত শক্তিকে বলে বিভব শক্তি (Potential Energy)। এই শক্তিটি কোনো বস্তুর অবস্থা বা অবস্থানের জন্য তৈরি হয়।",
+      "image": null,
+      "formulas": [
+        "m"
+      ],
+      "pdfPageStart": 111,
+      "pdfPageEnd": 111,
+      "printedPageStart": 106,
+      "printedPageEnd": 106,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p039",
+      "kind": "text",
+      "section": "৪.৩.২ বিভব শক্তি (Potential Energy)",
+      "caption": null,
+      "body": "একটি স্প্রিংয়ের ধ্রুবক যদি $k$ হয় এবং স্প্রিংটিকে যদি তার স্থির অবস্থার সাপেক্ষে $x$ দূরত্ব সংকুচিত করা হয় তাহলে তার ভেতরে শক্তি সঞ্চিত হয়",
+      "image": null,
+      "formulas": [
+        "k",
+        "x"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p040",
+      "kind": "formula",
+      "section": "৪.৩.২ বিভব শক্তি (Potential Energy)",
+      "caption": null,
+      "body": "$$V = \\frac{1}{2} kx^2$$",
+      "image": null,
+      "formulas": [
+        "V = \\frac{1}{2} kx^2"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p041",
+      "kind": "text",
+      "section": "৪.৩.২ বিভব শক্তি (Potential Energy)",
+      "caption": null,
+      "body": "> **নিজে করো:** স্প্রংকে $x$ দূরত্ব সংকুচিত কিংবা প্রসারিত করলে সেটি $F = -kx$ বল প্রয়োগ করে, এটি ব্যবহার করে $V = \\frac{1}{2} kx^2$ বের করা সম্ভব। তুমি কি বের করতে পারবে? (যেহেতু বলটি স্প্রিংয়ের দৈর্ঘ্যের উপর নির্ভর করে তাই গড় বল বের করে মোট দূরত্ব দিয়ে গুণ দাও।)",
+      "image": null,
+      "formulas": [
+        "x",
+        "F = -kx",
+        "V = \\frac{1}{2} kx^2"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p042",
+      "kind": "text",
+      "section": "৪.৩.২ বিভব শক্তি (Potential Energy)",
+      "caption": null,
+      "body": "**প্রশ্ন:** 10 kg ভরের একটা বস্তু 10 m/s বেগে একটা স্প্রিংয়ের ওপর পড়ে স্থির হয়ে যায়। স্প্রিং ধ্রুবক $k = 100,000  J/m^2$ সেটি কতটুকু সংকুচিত হবে?",
+      "image": null,
+      "formulas": [
+        "k = 100,000  J/m^2"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p043",
+      "kind": "text",
+      "section": "৪.৩.২ বিভব শক্তি (Potential Energy)",
+      "caption": null,
+      "body": "**উত্তর:** বস্তুটির গতিশক্তি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p044",
+      "kind": "formula",
+      "section": "৪.৩.২ বিভব শক্তি (Potential Energy)",
+      "caption": null,
+      "body": "$$\\frac{1}{2} mv^2 = \\frac{1}{2} \\times 10 \\times 10^2  J = 500  J$$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{2} mv^2 = \\frac{1}{2} \\times 10 \\times 10^2  J = 500  J"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p045",
+      "kind": "text",
+      "section": "৪.৩.২ বিভব শক্তি (Potential Energy)",
+      "caption": null,
+      "body": "এই শক্তিতুকু স্প্রিংটাকে সংকুচিত করবে অর্থাৎ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p046",
+      "kind": "formula",
+      "section": "৪.৩.২ বিভব শক্তি (Potential Energy)",
+      "caption": null,
+      "body": "$$\\frac{1}{2} kx^2 = 500  J$$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{2} kx^2 = 500  J"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p047",
+      "kind": "text",
+      "section": "৪.৩.২ বিভব শক্তি (Potential Energy)",
+      "caption": null,
+      "body": "কাজেই",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p048",
+      "kind": "formula",
+      "section": "৪.৩.২ বিভব শক্তি (Potential Energy)",
+      "caption": null,
+      "body": "$$x^2 = \\frac{2 \\times 500}{100,000}  m^2 = \\frac{1}{100}  m^2$$",
+      "image": null,
+      "formulas": [
+        "x^2 = \\frac{2 \\times 500}{100,000}  m^2 = \\frac{1}{100}  m^2"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p049",
+      "kind": "formula",
+      "section": "৪.৩.২ বিভব শক্তি (Potential Energy)",
+      "caption": null,
+      "body": "$$x = 0.1  m$$",
+      "image": null,
+      "formulas": [
+        "x = 0.1  m"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p050",
+      "kind": "text",
+      "section": "৪.৩.২ বিভব শক্তি (Potential Energy)",
+      "caption": null,
+      "body": "আমরা যখন কোনো কিছুকে উপরে তুলি তখনো সেটা বিভব শক্তি অর্জন করে। এক টুকরো পাথর ওপর থেকে ছেড়ে দিলে সেটা নিচে নামার সময় তার গতি বাড়তে থাকে তাই সেটার মাঝে গতিশক্তির উদ্ভব হয়। এটি সম্ভব হয় কারণ পাথরটা যখন উপরে ছিল তখন এই ‘উপরে’ অবস্থানের জন্য তার মাঝে এক ধরনের বিভব শক্তি জমা হয়েছিল। একটা পাথরকে উপরে তোলা হলে তার ভেতরে কী পরিমাণ বিভব শক্তি জমা হয়, এখন সেটাও আমরা বের করতে পারি। বুঝতেই পারছ একটা বস্তুরকে উপরে তুলতে হলে যে পরিমাণ কাজ করতে হয়, সেটাই বিভব শক্তি হিসেবে পাথরে সঞ্চিত হবে। কাজের পরিমাণ $W$ হলে",
+      "image": null,
+      "formulas": [
+        "W"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 113,
+      "printedPageStart": 107,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p051",
+      "kind": "formula",
+      "section": "৪.৩.২ বিভব শক্তি (Potential Energy)",
+      "caption": null,
+      "body": "$$W = Fh$$",
+      "image": null,
+      "formulas": [
+        "W = Fh"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p052",
+      "kind": "text",
+      "section": "৪.৩.২ বিভব শক্তি (Potential Energy)",
+      "caption": null,
+      "body": "এখানে $F$ হচ্ছে প্রযুক্ত বল এবং $h$ হচ্ছে উচ্চতা। $F$ বলটি আমাদের প্রয়োগ করতে হয় উপরের দিকে এবং অতিক্রান্ত দূরত্বও উপরের দিকে, কাজেই $W$ পজিটিভ। উপরে তোলার জন্য যে বল প্রয়োগ করতে হয় তার মান স্পিংয়ের বলের মতো পরিবর্তন হয় না এবং এই বলটি পাথরটির ওজনের সমান। পাথরটির ওজন $mg$ হলে",
+      "image": null,
+      "formulas": [
+        "F",
+        "h",
+        "F",
+        "W",
+        "mg"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p053",
+      "kind": "formula",
+      "section": "৪.৩.২ বিভব শক্তি (Potential Energy)",
+      "caption": null,
+      "body": "$$F = mg$$",
+      "image": null,
+      "formulas": [
+        "F = mg"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p054",
+      "kind": "text",
+      "section": "৪.৩.২ বিভব শক্তি (Potential Energy)",
+      "caption": null,
+      "body": "এবং",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p055",
+      "kind": "formula",
+      "section": "৪.৩.২ বিভব শক্তি (Potential Energy)",
+      "caption": null,
+      "body": "$$W = mgh$$",
+      "image": null,
+      "formulas": [
+        "W = mgh"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p056",
+      "kind": "text",
+      "section": "৪.৩.২ বিভব শক্তি (Potential Energy)",
+      "caption": null,
+      "body": "মনে রাখতে হবে, পাথরটির ওজন একটি বল এবং সেটি নিচের দিকে কাজ করে। পাথরটাকে উপরে তুলতে হলে এই ওজনের সমান একটা বল আমাদের উপরের দিকে প্রয়োগ করতে হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p057",
+      "kind": "text",
+      "section": "৪.৩.২ বিভব শক্তি (Potential Energy)",
+      "caption": null,
+      "body": "$m$ ভরের একটা পাথরকে $h$ উচ্চতায় তুলে তার ভেতরে বিভব শক্তি সৃষ্টি করে যদি পাথরটাকে ছেড়ে দিই, তাহলে সেটা যখন নিচের দিকে $h$ দূরত্ব নেমে আসবে, তখন তার ভেতরে কী পরিমাণ গতিশক্তি জন্ম নেবে?",
+      "image": null,
+      "formulas": [
+        "m",
+        "h",
+        "h"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p058",
+      "kind": "text",
+      "section": "৪.৩.২ বিভব শক্তি (Potential Energy)",
+      "caption": null,
+      "body": "শক্তির নিত্যতার কারণে তার বিভব শক্তির পুরোটুকুই গতিশক্তিতে পরিণত হবে। আমরা জানি গতিশক্তি হচ্ছে $\\frac{1}{2}mv^2$ তাই আমরা লিখতে পারি:",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{2}mv^2"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p059",
+      "kind": "formula",
+      "section": "৪.৩.২ বিভব শক্তি (Potential Energy)",
+      "caption": null,
+      "body": "$$\\frac{1}{2}mv^2 = mgh$$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{2}mv^2 = mgh"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p060",
+      "kind": "formula",
+      "section": "৪.৩.২ বিভব শক্তি (Potential Energy)",
+      "caption": null,
+      "body": "$$v^2 = 2gh$$",
+      "image": null,
+      "formulas": [
+        "v^2 = 2gh"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p061",
+      "kind": "text",
+      "section": "৪.৩.২ বিভব শক্তি (Potential Energy)",
+      "caption": null,
+      "body": "সত্যি কথা বলতে কি আমরা পড়ন্ত বস্তুর সমীকরণ বের করার সময় তুবহু এই সূত্রটি ইতিমধ্যে একবার বের করেছিলাম। শক্তির ধারণা দিয়ে সম্পূর্ণ অন্যভাবে আমরা আবার একই সূত্র বের করেছি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p062",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** 10 kg ভরের একটা বস্তুরকে 100 m/s বেগে উপরের দিকে ছুড়ে দিলে এটা কত উপরে উঠবে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p063",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** এটি আগে গতি সূত্র দিয়ে বের করা হয়েছে। এখন শক্তির রূপান্তর দিয়ে বের করা যেতে পারে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p064",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**গতিশক্তি:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p065",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$\\frac{1}{2}mv^2 = \\frac{1}{2} \\times 10 \\times 100^2  J = 50,000  J$$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{2}mv^2 = \\frac{1}{2} \\times 10 \\times 100^2  J = 50,000  J"
+      ],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p066",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "বস্তুটি যখন $h$ উচ্চতায় পৌঁছাবে তখন যদি পুরো গতিশক্তিটি বিভব শক্তিতে রূপান্তরিত হয় তাহলে,",
+      "image": null,
+      "formulas": [
+        "h"
+      ],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p067",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$mgh = 50,000  J$$",
+      "image": null,
+      "formulas": [
+        "mgh = 50,000  J"
+      ],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p068",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$h = \\frac{50,000  J}{mg} = \\frac{50,000}{10 \\times 9.8}  m = 510  m$$",
+      "image": null,
+      "formulas": [
+        "h = \\frac{50,000  J}{mg} = \\frac{50,000}{10 \\times 9.8}  m = 510  m"
+      ],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p069",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "তোমাদের বোঝানোর জন্য এখানে 10 kg ভর কথাটি বলা হয়েছে। এটা কিন্তু ভরের উপর নির্ভর করে না। যেকোনো ভরকে 100 m/s বেগে উপরে ছুড়ে দিলে আমরা এই উত্তরই পাব। কাজেই আমরা ইচ্ছা করলে $v^2 = 2gh$ সূত্রটি ব্যবহার করে সরাসরি উচ্চতা বের করতে পারতাম।",
+      "image": null,
+      "formulas": [
+        "v^2 = 2gh"
+      ],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p070",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** 5kg ভরের একটা বস্তুকে 50 m/s বেগে উপরের দিকে ছুড়ে দিলে কোন উচ্চতায় এর বিভব শক্তি এবং গতিশক্তি সমান হবে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p071",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** বস্তুটির প্রাথমিক গতিশক্তি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p072",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$T_0 = \\frac{1}{2}mv^2 = \\frac{1}{2} \\times 5 \\times 50^2  J = 6,250  J$$",
+      "image": null,
+      "formulas": [
+        "T_0 = \\frac{1}{2}mv^2 = \\frac{1}{2} \\times 5 \\times 50^2  J = 6,250  J"
+      ],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p073",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "যখন গতিশক্তি বিভব শক্তির সমান হবে তখন সেই $h$ উচ্চতায় আমরা বলতে পারি",
+      "image": null,
+      "formulas": [
+        "h"
+      ],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p074",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$গতিশক্তি = বিভব শক্তি$$",
+      "image": null,
+      "formulas": [
+        "গতিশক্তি = বিভব শক্তি"
+      ],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p075",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$গতিশক্তি + বিভব শক্তি = প্রাথমিক গতিশক্তি$$",
+      "image": null,
+      "formulas": [
+        "গতিশক্তি + বিভব শক্তি = প্রাথমিক গতিশক্তি"
+      ],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p076",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$বিভব শক্তি = গতিশক্তি = প্রাথমিক গতিশক্তি/2$$",
+      "image": null,
+      "formulas": [
+        "বিভব শক্তি = গতিশক্তি = প্রাথমিক গতিশক্তি/2"
+      ],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p077",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$mgh = \\frac{6250  J}{2}$$",
+      "image": null,
+      "formulas": [
+        "mgh = \\frac{6250  J}{2}"
+      ],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p078",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$h = \\frac{6250  J}{2 \\times mg} = \\frac{6250}{2 \\times 5 \\times 9.8}  m = 63.78  m$$",
+      "image": null,
+      "formulas": [
+        "h = \\frac{6250  J}{2 \\times mg} = \\frac{6250}{2 \\times 5 \\times 9.8}  m = 63.78  m"
+      ],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.3-p079",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "তোমরা নিশ্চয়ই অনুমান করছ এই সমস্য্যাটিও আসলে বস্তুর ভরের উপর নির্ভর করে না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

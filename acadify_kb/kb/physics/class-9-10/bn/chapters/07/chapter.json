@@ -1,0 +1,69 @@
+{
+  "id": "physics-9-10-bn-c07",
+  "textbookId": "physics-9-10-bn",
+  "number": 7,
+  "title": "তরঙ্গ ও শব্দ",
+  "englishTitle": "Waves and Sound",
+  "pdfPages": [
+    191,
+    214
+  ],
+  "printedPages": [
+    186,
+    209
+  ],
+  "topics": [
+    {
+      "key": "7.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/7.0.json",
+      "passages": 4
+    },
+    {
+      "key": "7.1",
+      "title": "সরল স্পন্দন গতি (Simple Harmonic Motion)",
+      "file": "topics/7.1.json",
+      "passages": 19
+    },
+    {
+      "key": "7.2",
+      "title": "তরঙ্গ (Waves)",
+      "file": "topics/7.2.json",
+      "passages": 59
+    },
+    {
+      "key": "7.3",
+      "title": "শব্দ তরঙ্গ (Sound Wave)",
+      "file": "topics/7.3.json",
+      "passages": 53
+    },
+    {
+      "key": "7.ex",
+      "title": "নমুনা প্রশ্ন",
+      "file": "topics/7.ex.json",
+      "passages": 37
+    }
+  ],
+  "stats": {
+    "topics": 5,
+    "passages": 172,
+    "images": 17,
+    "byKind": {
+      "figure": 31,
+      "text": 82,
+      "objective": 1,
+      "formula": 14,
+      "example": 5,
+      "table": 4,
+      "activity": 1,
+      "exercise": 34
+    },
+    "byReason": {
+      "verify-formula": 37,
+      "latin-junk": 5,
+      "verify-table": 4,
+      "known-confusable-corrected": 20
+    },
+    "needsReview": 62
+  }
+}

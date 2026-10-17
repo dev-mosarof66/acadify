@@ -1,0 +1,1369 @@
+{
+  "id": "chemistry-9-10-bn-c06-t6.2",
+  "key": "6.2",
+  "title": "যৌগে মোলের শতকরা সংযুতি",
+  "chapter": 6,
+  "ordinal": 2,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p001",
+      "kind": "text",
+      "section": "(The Percentage Composition of Elements in Compounds)",
+      "caption": null,
+      "body": "কোনো যৌগের 100 গ্রামের মধ্যে কোনো মৌল যত গ্রাম থাকে তাকে ঐ মৌলের শতকরা সংযুতি বলে। যৌগের আণবিক সংকেত থেকে ঐ যৌগে বিদ্যমান মৌলসমূহের শতকরা সংযুতি বের করা যায়। অর্থাৎ,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p002",
+      "kind": "text",
+      "section": "(The Percentage Composition of Elements in Compounds)",
+      "caption": null,
+      "body": "কোনো যৌগে একটি মৌলের শতকরা সংযুতি = $\\frac{মৌলের পারমাণবিক ভর \\times পরমাণুর সংখ্যা \\times 100}{যৌগের আণবিক ভর} \\%$",
+      "image": null,
+      "formulas": [
+        "\\frac{মৌলের পারমাণবিক ভর \\times পরমাণুর সংখ্যা \\times 100}{যৌগের আণবিক ভর} \\%"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 124,
+      "printedPageStart": 119,
+      "printedPageEnd": 119,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p003",
+      "kind": "text",
+      "section": "(The Percentage Composition of Elements in Compounds)",
+      "caption": null,
+      "body": "**উদাহরণ:** HCl যৌগে H ও Cl এর শতকরা সংযুতি হিসাব দেখানো হলো\nHCl এর আণবিক ভর = 1 + 35.5 = 36.5 এখানে 36.5 গ্রাম HCl এর মধ্যে H আছে = 1 গ্রাম\nঅতএব, 1 গ্রাম HCl এর মধ্যে H আছে = $\\frac{1}{36.5}$ গ্রাম\nঅতএব, 100 গ্রাম HCl এর মধ্যে H আছে = $\\frac{1 \\times 100}{36.5}$ গ্রাম = 2.74 গ্রাম\nঅতএব, H এর শতকরা সংযুতি = 2.74%",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{36.5}",
+        "\\frac{1 \\times 100}{36.5}"
+      ],
+      "pdfPageStart": 124,
+      "pdfPageEnd": 125,
+      "printedPageStart": 119,
+      "printedPageEnd": 120,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p004",
+      "kind": "text",
+      "section": "(The Percentage Composition of Elements in Compounds)",
+      "caption": null,
+      "body": "আবার, 36.5 গ্রাম HCl এর মধ্যে Cl আছে = 35.5 গ্রাম\nঅতএব, 1 গ্রাম HCl এর মধ্যে Cl আছে = $\\frac{35.5}{36.5}$ গ্রাম\nঅতএব, 100 গ্রাম HCl এর মধ্যে Cl আছে = $\\frac{35.5 \\times 100}{36.5}$ গ্রাম = 97.26 গ্রাম\nঅতএব, Cl এর শতকরা সংযুতি = 97.26%",
+      "image": null,
+      "formulas": [
+        "\\frac{35.5}{36.5}",
+        "\\frac{35.5 \\times 100}{36.5}"
+      ],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p005",
+      "kind": "text",
+      "section": "(The Percentage Composition of Elements in Compounds)",
+      "caption": null,
+      "body": "কিংবা অন্যভাবে বের করতে পারি: Cl এর শতকরা সংযুতি = (100 - 2.74)% = 97.26%",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p006",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**১. সমস্যা:** H<sub>2</sub>O-এর H ও O এর শতকরা সংযুতি হিসাব করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p007",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**সমাধান:** 1 মোল H<sub>2</sub>O এর ভর = 2 + 16 = 18 গ্রাম\n18 গ্রাম H<sub>2</sub>O এর মধ্যে H আছে = 2 গ্রাম\n1 গ্রাম H<sub>2</sub>O এর মধ্যে H আছে = $\\frac{2}{18}$ গ্রাম\n100 গ্রাম H<sub>2</sub>O এর মধ্যে H আছে = $\\frac{2 \\times 100}{18}$ গ্রাম = 11.11 গ্রাম\nকাজেই H এর শতকরা সংযুতি = 11.11%\nO এর শতকরা সংযুতি = (100 - 11.11)% = 88.89%",
+      "image": null,
+      "formulas": [
+        "\\frac{2}{18}",
+        "\\frac{2 \\times 100}{18}"
+      ],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p008",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "আমরা ইচ্ছা করলে শতকরা সংযুতির সূত্রটিতে মান বসিয়ে শতকরা সংযুতির মান বের করতে পারি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p009",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$মৌলের শতকরা সংযুতি = \\frac{মৌলের পারমাণবিক ভর \\times পরমাণুর সংখ্যা \\times 100}{যৌগের আণবিক ভর} \\%$$",
+      "image": null,
+      "formulas": [
+        "মৌলের শতকরা সংযুতি = \\frac{মৌলের পারমাণবিক ভর \\times পরমাণুর সংখ্যা \\times 100}{যৌগের আণবিক ভর} \\%"
+      ],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p010",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**যেমন:** H<sub>2</sub>SO<sub>4</sub> যৌগে H, S এবং O এর শতকরা সংযুতি হচ্ছে:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p011",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "H<sub>2</sub>SO<sub>4</sub> এর আণবিক ভর = (1×2 + 32×1 + 16×4) = 98",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p012",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "এখানে, H এর পারমাণবিক ভর 1, পরমাণুর সংখ্যা 2\nকাজেই H এর শতকরা সংযুতি = $\\frac{1 \\times 2 \\times 100}{98} \\% = 2.04\\%$",
+      "image": null,
+      "formulas": [
+        "\\frac{1 \\times 2 \\times 100}{98} \\% = 2.04\\%"
+      ],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 125,
+      "printedPageStart": 120,
+      "printedPageEnd": 120,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p013",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "S এর পারমাণবিক ভর 32, পরমাণুর সংখ্যা 1,\nকাজেই S এর শতকরা সংযুতি = $\\frac{32 \\times 1 \\times 100}{98} \\% = 32.65\\%$ O এর পারমাণবিক ভর 16, পরমাণুর সংখ্যা 4",
+      "image": null,
+      "formulas": [
+        "\\frac{32 \\times 1 \\times 100}{98} \\% = 32.65\\%"
+      ],
+      "pdfPageStart": 125,
+      "pdfPageEnd": 126,
+      "printedPageStart": 120,
+      "printedPageEnd": 121,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p014",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "কাজেই O এর শতকরা সংযুতি $= \\frac{16 \\times 4 \\times 100}{98} \\% = 65.30\\%$",
+      "image": null,
+      "formulas": [
+        "= \\frac{16 \\times 4 \\times 100}{98} \\% = 65.30\\%"
+      ],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p015",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**২. সমস্যা:** Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> যোগে অ্যালুমিনিয়াম, সালফার এবং অক্সিজেনের শতকরা সংযুতি বের করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p016",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**সমাধান:** এখানে Al<sub>2</sub>(SO<sub>4</sub>)<sub>3</sub> এর আণবিক ভর $= 27 \\times 2 + (32 \\times 1 + 16 \\times 4) \\times 3 = 342$",
+      "image": null,
+      "formulas": [
+        "= 27 \\times 2 + (32 \\times 1 + 16 \\times 4) \\times 3 = 342"
+      ],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p017",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "আলুমিনিয়ামের (Al) এর শতকরা সংযুতি $= \\frac{27 \\times 2 \\times 100}{342} \\% = 15.78\\%$",
+      "image": null,
+      "formulas": [
+        "= \\frac{27 \\times 2 \\times 100}{342} \\% = 15.78\\%"
+      ],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p018",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "সালফার (S) এর শতকরা সংযুতি $= \\frac{32 \\times 3 \\times 100}{342} \\% = 28.07\\%$",
+      "image": null,
+      "formulas": [
+        "= \\frac{32 \\times 3 \\times 100}{342} \\% = 28.07\\%"
+      ],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p019",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "অক্সিজেন (O) এর শতকরা সংযুতি $= \\frac{16 \\times 12 \\times 100}{342} \\% = 56.14\\%$",
+      "image": null,
+      "formulas": [
+        "= \\frac{16 \\times 12 \\times 100}{342} \\% = 56.14\\%"
+      ],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p020",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**কাজ:** NaCl যোগে Na এবং Cl এর শতকরা সংযুতি বের করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p021",
+      "kind": "text",
+      "section": "৬.২.১ শতকরা সংযুতি এবং স্থূল সংকেত",
+      "caption": null,
+      "body": "আমরা আণবিক সংকেতের ধারণাটির সাথে ভালোভাবে পরিচিত হয়েছি, অনেকবার ব্যবহার করেছি এবং আমরা জানি আণবিক সংকেত দেখে আমরা একটি অণুতে কোন পরমাণু কতগুলো আছে বের করতে পারি। একটি অণুতে বিভিন্ন পরমাণুর সংখ্যার অনুপাত বোঝানোর জন্য ‘স্থূল সংকেত’ এর ধারণাটি প্রবর্তন করা হয়েছে। যেমন হাইড্রোজেন পার অক্সাইডের অণুতে (H<sub>2</sub>O<sub>2</sub>) দুটি হাইড্রোজেন এবং দুটি অক্সিজেন পরমাণু রয়েছে। তোমরা দেখতে পাচ্ছ H<sub>2</sub>O<sub>2</sub> এ হাইড্রোজেন ও অক্সিজেনের পরমাণুর সংখ্যা যথাক্রমে 2 এবং 2, কাজেই তাদের অনুপাত 1:1 অর্থাৎ H<sub>2</sub>O<sub>2</sub> এর স্থূল সংকেত HO। অর্থাৎ যে সংকেত দিয়ে অণুতে বিদ্যমান পরমাণুগুলোর অনুপাত প্রকাশ করে তাকে স্থূল সংকেত বলে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p022",
+      "kind": "text",
+      "section": "৬.২.১ শতকরা সংযুতি এবং স্থূল সংকেত",
+      "caption": null,
+      "body": "কাজেই তোমরা বুঝতে পারছো আমরা যদি কোনো যৌগের ভেতরকার মৌলগুলোর শতকরা সংযুতি এবং আপেক্ষিক পারমাণবিক ভর বা পারমাণবিক ভর জানি তাহলে খুব সহজেই যৌগটির স্থূল সংকেত বের করতে পারব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p023",
+      "kind": "text",
+      "section": "শতকরা সংযুতি থেকে স্থূল সংকেত নির্ণয়",
+      "caption": null,
+      "body": "শতকরা সংযুতি থেকে স্থূল সংকেত বের করার কতকগুলো ধাপ রয়েছে যা নিমে দেওয়া হলো-",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p024",
+      "kind": "text",
+      "section": "শতকরা সংযুতি থেকে স্থূল সংকেত নির্ণয়",
+      "caption": null,
+      "body": "* **ধাপ 1:** মৌলসমূহের শতকরা সংযুতিকে এর পারমাণবিক ভর দ্বারা ভাগ করতে হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 126,
+      "pdfPageEnd": 126,
+      "printedPageStart": 121,
+      "printedPageEnd": 121,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p025",
+      "kind": "text",
+      "section": "শতকরা সংযুতি থেকে স্থূল সংকেত নির্ণয়",
+      "caption": null,
+      "body": "* **ধাপ ২:** ভাগফলগুলোর মধ্য থেকে যে সংখ্যাটি ক্ষুদ্রতম সেই সংখ্যা দিয়ে ভাগফলগুলোকে ভাগ করতে হবে এবং ভাগফলগুলোকে নিকটতম পূর্ণসংখ্যায় পরিণত করার জন্য প্রয়োজনে যেকোনো সংখ্যা দিয়ে সবগুলোকে গুণ করতে হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 127,
+      "pdfPageEnd": 127,
+      "printedPageStart": 122,
+      "printedPageEnd": 122,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p026",
+      "kind": "text",
+      "section": "শতকরা সংযুতি থেকে স্থূল সংকেত নির্ণয়",
+      "caption": null,
+      "body": "* **ধাপ ৩:** মৌলসমূহের প্রতীকের নিচে ডান পাশে ঐ পূর্ণসংখ্যাগুলো বসিয়ে দিলেই সঠিক সংকেত তৈরি হয়ে যাবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 127,
+      "pdfPageEnd": 127,
+      "printedPageStart": 122,
+      "printedPageEnd": 122,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p027",
+      "kind": "text",
+      "section": "শতকরা সংযুতি থেকে স্থূল সংকেত নির্ণয়",
+      "caption": null,
+      "body": "* **ধাপ ৪:** মৌলগুলোর প্রতীকের নিচে ডান পাশে ১ থাকলে সেটি লেখার প্রয়োজন নেই।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 127,
+      "pdfPageEnd": 127,
+      "printedPageStart": 122,
+      "printedPageEnd": 122,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p028",
+      "kind": "text",
+      "section": "শতকরা সংযুতি থেকে স্থূল সংকেত নির্ণয়",
+      "caption": null,
+      "body": "ধরা যাক কোনো যৌগ কার্বনের সংযুতি ৯২.৩১% এবং হাইড্রোজেনের সংযুতি ৭.৬৯%, যৌগটির সঠিক সংকেত বের করতে হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 127,
+      "pdfPageEnd": 127,
+      "printedPageStart": 122,
+      "printedPageEnd": 122,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p029",
+      "kind": "text",
+      "section": "শতকরা সংযুতি থেকে স্থূল সংকেত নির্ণয়",
+      "caption": null,
+      "body": "প্রথমে মৌলগুলোর শতকরা সংযুতিকে তার পারমাণবিক ভর দিয়ে ভাগ করি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 127,
+      "pdfPageEnd": 127,
+      "printedPageStart": 122,
+      "printedPageEnd": 122,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p030",
+      "kind": "formula",
+      "section": "শতকরা সংযুতি থেকে স্থূল সংকেত নির্ণয়",
+      "caption": null,
+      "body": "$$C = \\frac{92.31}{12} = 7.69$$",
+      "image": null,
+      "formulas": [
+        "C = \\frac{92.31}{12} = 7.69"
+      ],
+      "pdfPageStart": 127,
+      "pdfPageEnd": 127,
+      "printedPageStart": 122,
+      "printedPageEnd": 122,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p031",
+      "kind": "formula",
+      "section": "শতকরা সংযুতি থেকে স্থূল সংকেত নির্ণয়",
+      "caption": null,
+      "body": "$$H = \\frac{7.69}{1} = 7.69$$",
+      "image": null,
+      "formulas": [
+        "H = \\frac{7.69}{1} = 7.69"
+      ],
+      "pdfPageStart": 127,
+      "pdfPageEnd": 127,
+      "printedPageStart": 122,
+      "printedPageEnd": 122,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p032",
+      "kind": "text",
+      "section": "শতকরা সংযুতি থেকে স্থূল সংকেত নির্ণয়",
+      "caption": null,
+      "body": "ভাগফলগুলোর মধ্য থেকে যে সংখ্যাটি ক্ষুদ্রতম সেই সংখ্যা দিয়ে ভাগফলগুলোকে ভাগ করি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 127,
+      "pdfPageEnd": 127,
+      "printedPageStart": 122,
+      "printedPageEnd": 122,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p033",
+      "kind": "formula",
+      "section": "শতকরা সংযুতি থেকে স্থূল সংকেত নির্ণয়",
+      "caption": null,
+      "body": "$$C = \\frac{7.69}{7.69} = 1$$",
+      "image": null,
+      "formulas": [
+        "C = \\frac{7.69}{7.69} = 1"
+      ],
+      "pdfPageStart": 127,
+      "pdfPageEnd": 127,
+      "printedPageStart": 122,
+      "printedPageEnd": 122,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p034",
+      "kind": "formula",
+      "section": "শতকরা সংযুতি থেকে স্থূল সংকেত নির্ণয়",
+      "caption": null,
+      "body": "$$H = \\frac{7.69}{7.69} = 1$$",
+      "image": null,
+      "formulas": [
+        "H = \\frac{7.69}{7.69} = 1"
+      ],
+      "pdfPageStart": 127,
+      "pdfPageEnd": 127,
+      "printedPageStart": 122,
+      "printedPageEnd": 122,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p035",
+      "kind": "text",
+      "section": "শতকরা সংযুতি থেকে স্থূল সংকেত নির্ণয়",
+      "caption": null,
+      "body": "এই মানগুলো এবং মৌলের প্রতীক দিয়ে সংকেত আকারে লিখলেই সঠিক সংকেত পাওয়া যাবে।\nঅতএব, যৌগটির সঠিক সংকেত: $C_1H_1 = CH$",
+      "image": null,
+      "formulas": [
+        "C_1H_1 = CH"
+      ],
+      "pdfPageStart": 127,
+      "pdfPageEnd": 127,
+      "printedPageStart": 122,
+      "printedPageEnd": 122,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p036",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**১. সমস্যা:** কোনো যৌগের মৌলগুলোর শতকরা সংযুতি H = 2.04%, S = 32.65%, O = 65.30% দেওয়া আছে। এর সঠিক সংকেত বের করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 127,
+      "pdfPageEnd": 127,
+      "printedPageStart": 122,
+      "printedPageEnd": 122,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p037",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**সমাধান:** প্রথমে শতকরা সংযুতিকে নিজ নিজ পারমাণবিক ভর দ্বারা ভাগ করি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 127,
+      "pdfPageEnd": 127,
+      "printedPageStart": 122,
+      "printedPageEnd": 122,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p038",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$H = \\frac{2.04}{1} = 2.04$$",
+      "image": null,
+      "formulas": [
+        "H = \\frac{2.04}{1} = 2.04"
+      ],
+      "pdfPageStart": 127,
+      "pdfPageEnd": 127,
+      "printedPageStart": 122,
+      "printedPageEnd": 122,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p039",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$S = \\frac{32.65}{32} = 1.02$$",
+      "image": null,
+      "formulas": [
+        "S = \\frac{32.65}{32} = 1.02"
+      ],
+      "pdfPageStart": 127,
+      "pdfPageEnd": 127,
+      "printedPageStart": 122,
+      "printedPageEnd": 122,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p040",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$O = \\frac{65.30}{16} = 4.08$$",
+      "image": null,
+      "formulas": [
+        "O = \\frac{65.30}{16} = 4.08"
+      ],
+      "pdfPageStart": 127,
+      "pdfPageEnd": 127,
+      "printedPageStart": 122,
+      "printedPageEnd": 122,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p041",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "ভাগফলগুলোর মধ্য থেকে যে সংখ্যাটি ক্ষুদ্রতম সেই সংখ্যা দিয়ে ভাগফলগুলোকে ভাগ করি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 128,
+      "pdfPageEnd": 128,
+      "printedPageStart": 123,
+      "printedPageEnd": 123,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p042",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$H = \\frac{2.04}{1.02} = 2$$",
+      "image": null,
+      "formulas": [
+        "H = \\frac{2.04}{1.02} = 2"
+      ],
+      "pdfPageStart": 128,
+      "pdfPageEnd": 128,
+      "printedPageStart": 123,
+      "printedPageEnd": 123,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p043",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$S = \\frac{1.02}{1.02} = 1$$",
+      "image": null,
+      "formulas": [
+        "S = \\frac{1.02}{1.02} = 1"
+      ],
+      "pdfPageStart": 128,
+      "pdfPageEnd": 128,
+      "printedPageStart": 123,
+      "printedPageEnd": 123,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p044",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$O = \\frac{4.08}{1.02} = 4$$",
+      "image": null,
+      "formulas": [
+        "O = \\frac{4.08}{1.02} = 4"
+      ],
+      "pdfPageStart": 128,
+      "pdfPageEnd": 128,
+      "printedPageStart": 123,
+      "printedPageEnd": 123,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p045",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "এই মানগুলো এবং মৌলের প্রতীক দিয়ে সংকেত আকারে লিখলেই স্কুল সংকেত পাওয়া যাবে।\nসুতরাং স্কুল সংকেত: H<sub>2</sub>S<sub>1</sub>O<sub>4</sub> = H<sub>2</sub>SO<sub>4</sub>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 128,
+      "pdfPageEnd": 128,
+      "printedPageStart": 123,
+      "printedPageEnd": 123,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p046",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**২. সমস্যা:** একটি যৌগে হাইড্রোজেন ও অক্সিজেন আছে। হাইড্রোজেন ও অক্সিজেনের শতকরা সংযুতি যথাক্রমে ১১.১১% ও ৮৮.৮৯%। এর স্কুল সংকেত কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 128,
+      "pdfPageEnd": 128,
+      "printedPageStart": 123,
+      "printedPageEnd": 123,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p047",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**সমাধান:** প্রথমে শতকরা সংযুতিকে নিজ নিজ পারমাণবিক ভর দিয়ে ভাগ করি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 128,
+      "pdfPageEnd": 128,
+      "printedPageStart": 123,
+      "printedPageEnd": 123,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p048",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$H = \\frac{11.11}{1} = 11.11$$",
+      "image": null,
+      "formulas": [
+        "H = \\frac{11.11}{1} = 11.11"
+      ],
+      "pdfPageStart": 128,
+      "pdfPageEnd": 128,
+      "printedPageStart": 123,
+      "printedPageEnd": 123,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p049",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$O = \\frac{88.89}{16} = 5.55$$",
+      "image": null,
+      "formulas": [
+        "O = \\frac{88.89}{16} = 5.55"
+      ],
+      "pdfPageStart": 128,
+      "pdfPageEnd": 128,
+      "printedPageStart": 123,
+      "printedPageEnd": 123,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p050",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "ভাগফলগুলোর মধ্য থেকে যে সংখ্যাটি ক্ষুদ্রতম সেই সংখ্যা দ্বারা ভাগফলগুলোকে ভাগ করি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 128,
+      "pdfPageEnd": 128,
+      "printedPageStart": 123,
+      "printedPageEnd": 123,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p051",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$H = \\frac{11.11}{5.55} = 2$$",
+      "image": null,
+      "formulas": [
+        "H = \\frac{11.11}{5.55} = 2"
+      ],
+      "pdfPageStart": 128,
+      "pdfPageEnd": 128,
+      "printedPageStart": 123,
+      "printedPageEnd": 123,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p052",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$O = \\frac{5.55}{5.55} = 1$$",
+      "image": null,
+      "formulas": [
+        "O = \\frac{5.55}{5.55} = 1"
+      ],
+      "pdfPageStart": 128,
+      "pdfPageEnd": 128,
+      "printedPageStart": 123,
+      "printedPageEnd": 123,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p053",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "এই মানগুলো এবং মৌলের প্রতীক দিয়ে সংকেত আকারে লিখলেই স্কুল সংকেত পাওয়া যাবে।\nসুতরাং যৌগটির স্কুল সংকেত H<sub>2</sub>O<sub>1</sub> = H<sub>2</sub>O",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 128,
+      "pdfPageEnd": 128,
+      "printedPageStart": 123,
+      "printedPageEnd": 123,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p054",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**কাজ:** একটি পরীক্ষার মাধ্যমে দেখা গেল ৩ গ্রাম কার্বন পরমাণু এবং ৪ গ্রাম অক্সিজেন পরমাণুর সাথে যুক্ত হয়ে যৌগ গঠন করেছে। সেই যৌগের স্কুল সংকেত বের করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 128,
+      "pdfPageEnd": 128,
+      "printedPageStart": 123,
+      "printedPageEnd": 123,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p055",
+      "kind": "text",
+      "section": "৬.২.২ শতকরা সংযুতি থেকে যৌগের আণবিক সংকেত নির্ণয়",
+      "caption": null,
+      "body": "কোনো যৌগের আণবিক সংকেত বের করার জন্য যৌগের শতকরা সংযুতি থেকে প্রথমে স্থূল সংকেত বের করতে হবে। কোনো যৌগের স্থূল সংকেতের ভর যদি ঐ যৌগের আণবিক ভরের সমান হয় তাহলে যৌগের স্থূল সংকেতই যৌগের আণবিক সংকেত হবে। কিন্তু যদি কোনো যৌগের স্থূল সংকেতের ভর ঐ যৌগের আণবিক ভরের সমান না হয় তাহলে স্থূল সংকেতের ভর থেকে আণবিক ভর কত গুণ বেশি সেটি বের করতে হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p056",
+      "kind": "text",
+      "section": "৬.২.২ শতকরা সংযুতি থেকে যৌগের আণবিক সংকেত নির্ণয়",
+      "caption": null,
+      "body": "যদি স্থূল সংকেতের ভর থেকে আণবিক ভর $n$ গুণ বেশি হয় তাহলে",
+      "image": null,
+      "formulas": [
+        "n"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p057",
+      "kind": "formula",
+      "section": "৬.২.২ শতকরা সংযুতি থেকে যৌগের আণবিক সংকেত নির্ণয়",
+      "caption": null,
+      "body": "$$আণবিক সংকেত = (স্থূল সংকেত)_n$$",
+      "image": null,
+      "formulas": [
+        "আণবিক সংকেত = (স্থূল সংকেত)_n"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p058",
+      "kind": "text",
+      "section": "৬.২.২ শতকরা সংযুতি থেকে যৌগের আণবিক সংকেত নির্ণয়",
+      "caption": null,
+      "body": "এখানে, $n = \\frac{যৌগের আণবিক ভর}{স্থূল সংকেতের ভর}$",
+      "image": null,
+      "formulas": [
+        "n = \\frac{যৌগের আণবিক ভর}{স্থূল সংকেতের ভর}"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p059",
+      "kind": "text",
+      "section": "৬.২.২ শতকরা সংযুতি থেকে যৌগের আণবিক সংকেত নির্ণয়",
+      "caption": null,
+      "body": "ধরা যাক, কোনো যৌগের C = 92.31%, H = 7.69% দেওয়া আছে। ঐ যৌগের আণবিক ভর = 78 যৌগটির আণবিক সংকেত বের করতে হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p060",
+      "kind": "text",
+      "section": "৬.২.২ শতকরা সংযুতি থেকে যৌগের আণবিক সংকেত নির্ণয়",
+      "caption": null,
+      "body": "মৌলগুলোর শতকরা সংযুতিকে তাদের পারমাণবিক ভর দিয়ে ভাগ করি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p061",
+      "kind": "formula",
+      "section": "৬.২.২ শতকরা সংযুতি থেকে যৌগের আণবিক সংকেত নির্ণয়",
+      "caption": null,
+      "body": "$$C = \\frac{92.31}{12} = 7.69$$",
+      "image": null,
+      "formulas": [
+        "C = \\frac{92.31}{12} = 7.69"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p062",
+      "kind": "formula",
+      "section": "৬.২.২ শতকরা সংযুতি থেকে যৌগের আণবিক সংকেত নির্ণয়",
+      "caption": null,
+      "body": "$$H = \\frac{7.69}{1} = 7.69$$",
+      "image": null,
+      "formulas": [
+        "H = \\frac{7.69}{1} = 7.69"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p063",
+      "kind": "text",
+      "section": "৬.২.২ শতকরা সংযুতি থেকে যৌগের আণবিক সংকেত নির্ণয়",
+      "caption": null,
+      "body": "ভাগফলগুলোর মধ্য থেকে যে সংখ্যাটি স্কুড্রতম সেই সংখ্যা দিয়ে ভাগফলগুলোকে ভাগ করি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p064",
+      "kind": "formula",
+      "section": "৬.২.২ শতকরা সংযুতি থেকে যৌগের আণবিক সংকেত নির্ণয়",
+      "caption": null,
+      "body": "$$C = \\frac{7.69}{7.69} = 1$$",
+      "image": null,
+      "formulas": [
+        "C = \\frac{7.69}{7.69} = 1"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p065",
+      "kind": "formula",
+      "section": "৬.২.২ শতকরা সংযুতি থেকে যৌগের আণবিক সংকেত নির্ণয়",
+      "caption": null,
+      "body": "$$H = \\frac{7.69}{7.69} = 1$$",
+      "image": null,
+      "formulas": [
+        "H = \\frac{7.69}{7.69} = 1"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p066",
+      "kind": "text",
+      "section": "৬.২.২ শতকরা সংযুতি থেকে যৌগের আণবিক সংকেত নির্ণয়",
+      "caption": null,
+      "body": "এই মানগুলো এবং মৌলের প্রতীক দিয়ে সংকেত আকারে লিখলেই স্থূল সংকেত পাওয়া যাবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p067",
+      "kind": "text",
+      "section": "৬.২.২ শতকরা সংযুতি থেকে যৌগের আণবিক সংকেত নির্ণয়",
+      "caption": null,
+      "body": "অতএব, যৌগটির স্থূল সংকেত = $C_1H_1 = CH$",
+      "image": null,
+      "formulas": [
+        "C_1H_1 = CH"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p068",
+      "kind": "text",
+      "section": "৬.২.২ শতকরা সংযুতি থেকে যৌগের আণবিক সংকেত নির্ণয়",
+      "caption": null,
+      "body": "যৌগের স্থূল সংকেত CH হলে এর আণবিক সংকেত হবে: $(CH)_n = C_nH_n$",
+      "image": null,
+      "formulas": [
+        "(CH)_n = C_nH_n"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p069",
+      "kind": "text",
+      "section": "৬.২.২ শতকরা সংযুতি থেকে যৌগের আণবিক সংকেত নির্ণয়",
+      "caption": null,
+      "body": "স্থূল সংকেত CH এর ভর = $12 \\times 1 + 1 \\times 1 = 13$ এবং আণবিক ভর = 78",
+      "image": null,
+      "formulas": [
+        "12 \\times 1 + 1 \\times 1 = 13"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p070",
+      "kind": "formula",
+      "section": "৬.২.২ শতকরা সংযুতি থেকে যৌগের আণবিক সংকেত নির্ণয়",
+      "caption": null,
+      "body": "$$অতএব,  n = \\frac{যৌগের আণবিক ভর}{স্থূল সংকেতের ভর} = \\frac{78}{(12+1)} = 6$$",
+      "image": null,
+      "formulas": [
+        "অতএব,  n = \\frac{যৌগের আণবিক ভর}{স্থূল সংকেতের ভর} = \\frac{78}{(12+1)} = 6"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p071",
+      "kind": "text",
+      "section": "৬.২.২ শতকরা সংযুতি থেকে যৌগের আণবিক সংকেত নির্ণয়",
+      "caption": null,
+      "body": "কাজেই যৌগটির আণবিক সংকেত = $C_6H_6$",
+      "image": null,
+      "formulas": [
+        "C_6H_6"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p072",
+      "kind": "text",
+      "section": "আণবিক সংকেত থেকে স্থূল সংকেত নির্ণয়",
+      "caption": null,
+      "body": "কোনো যৌগের আণবিক সংকেত থেকে স্থূল সংকেত নির্ণয় করা যায়। ধরা যাক গ্লুকোজ (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) এর স্থূল সংকেত বের করতে হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p073",
+      "kind": "text",
+      "section": "আণবিক সংকেত থেকে স্থূল সংকেত নির্ণয়",
+      "caption": null,
+      "body": "গ্লুকোজ (C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>) এর একটি অণুতে 6টি C পরমাণু, 12টি H পরমাণু এবং 6টি O পরমাণু আছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p074",
+      "kind": "text",
+      "section": "আণবিক সংকেত থেকে স্থূল সংকেত নির্ণয়",
+      "caption": null,
+      "body": "অতএব, পরমাণুসমূহের অনুপাত C:H:O = 6:12:6 = 1:2:1",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p075",
+      "kind": "text",
+      "section": "আণবিক সংকেত থেকে স্থূল সংকেত নির্ণয়",
+      "caption": null,
+      "body": "সুতরাং স্থূল সংকেত C<sub>1</sub>H<sub>2</sub>O<sub>1</sub> = CH<sub>2</sub>O",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p076",
+      "kind": "text",
+      "section": "আণবিক সংকেত থেকে স্থূল সংকেত নির্ণয়",
+      "caption": null,
+      "body": "কখনো কখনো স্থূল সংকেত এবং আণবিক সংকেত একই হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p077",
+      "kind": "text",
+      "section": "আণবিক সংকেত থেকে স্থূল সংকেত নির্ণয়",
+      "caption": null,
+      "body": "যেমন পানির আণবিক সংকেত H<sub>2</sub>O এর স্থূল সংকেত H<sub>2</sub>O। সালফিউরিক এসিড এর আণবিক সংকেত H<sub>2</sub>SO<sub>4</sub> এবং এর স্থূল সংকেত H<sub>2</sub>SO<sub>4</sub>।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p078",
+      "kind": "text",
+      "section": "আণবিক সংকেত থেকে স্থূল সংকেত নির্ণয়",
+      "caption": null,
+      "body": "কিন্তু যে সকল যৌগের সকল পরমাণুর সংখ্যাকে কোনো নির্দিষ্ট সংখ্যা দিয়ে ভাগ করা যায় তাদের স্থূল সংকেত এবং আণবিক সংকেত ভিন্ন হবে। বেনজিনের আণবিক সংকেত C<sub>6</sub>H<sub>6</sub>। বেনজিনের কার্বন এবং হাইড্রোজেনের পরমাণু সংখ্যাকে 6 দ্বারা ভাগ করা যায় অতএব, এর স্থূল সংকেত C<sub>1</sub>H<sub>1</sub> বা CH।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c06-t6.2-p079",
+      "kind": "text",
+      "section": "আণবিক সংকেত থেকে স্থূল সংকেত নির্ণয়",
+      "caption": null,
+      "body": "একইভাবে ইথিনের আণবিক সংকেত C<sub>2</sub>H<sub>4</sub>। অতএব, এর স্থূল সংকেত C<sub>1</sub>H<sub>2</sub> বা CH<sub>2</sub>।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

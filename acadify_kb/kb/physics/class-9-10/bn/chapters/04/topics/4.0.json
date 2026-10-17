@@ -1,0 +1,69 @@
+{
+  "id": "physics-9-10-bn-c04-t4.0",
+  "key": "4.0",
+  "title": "ভূমিকা ও শিখনফল",
+  "chapter": 4,
+  "ordinal": 0,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c04-t4.0-p001",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "photo: Rupsar Nuclear Power Plant",
+      "image": "p103-page_1_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 103,
+      "pdfPageEnd": 103,
+      "printedPageStart": 98,
+      "printedPageEnd": 98,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.0-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "প্রস্তাবিত রূপপুর নিউক্লিয়ার শক্তি কেন্দ্র।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 103,
+      "pdfPageEnd": 103,
+      "printedPageStart": 98,
+      "printedPageEnd": 98,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.0-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এই অধ্যায়ে আমরা দেখব একটি বল কীভাবে ‘কাজ’ করে। পদার্থবিজ্ঞানের ভাষায় এই ‘কাজ’ শব্দটির একটি সুনির্দিষ্ট অর্থ আছে। আমরা দেখব, কোনো কিছুর উপর একটি বল কাজ করে সেটাকে গতিশীল করে গতিশক্তির জন্ম দিতে পারে। এই গতিশক্তি স্থিতিশক্তিতে রূপান্তরিত হতে পারে, শক্তির এই রূপান্তর খুবই স্বাভাবিক একটি প্রক্রিয়া এবং নানা ধরনের শক্তি একে অন্যটিতে রূপান্তরিত হতে পারে। বিজ্ঞানের অন্যতম গুরুত্বপূর্ণ বিষয় হচ্ছে শক্তি এবং এই শক্তি মানবসভ্যতার বিকাশে সবচেয়ে গুরুত্বপূর্ণ ভূমিকা পালন করে। তাই কীভাবে প্রকৃতি থেকে এই শক্তি আহরণ করা যায় সেটি নিয়েও আলোচনা করা হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 103,
+      "pdfPageEnd": 103,
+      "printedPageStart": 98,
+      "printedPageEnd": 98,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.0-p004",
+      "kind": "objective",
+      "section": "এ অধ্যায় শেষে আমরা –",
+      "caption": null,
+      "body": "* কাজ ও শক্তির সম্পর্ক ব্যাখ্যা করতে পারব।\n* কাজ, বল ও সরণের মধ্যে সম্পর্ক স্থাপন করতে পারব।\n* গতিশক্তি ও বিভব শক্তি ব্যাখ্যা করতে পারব।\n* উৎসে শক্তির রূপান্তর ব্যাখ্যা করতে পারব।\n* অর্থনৈতিক, সামাজিক ও পরিবেশগত প্রভাব বিবেচনায় শক্তির প্রধান উৎসসমূহের অবদান বিশ্লেষণ করতে পারব।\n* শক্তির রূপান্তর এবং শক্তির নিত্যতার মধ্যে সম্পর্ক ব্যাখ্যা করতে পারব।\n* শক্তির রূপান্তর ও এর ব্যবহার কীভাবে পরিবেশের ভারসাম্য ব্যাহত করে তা ব্যাখ্যা করতে পারব।\n* শক্তির কার্যকারি ও নিরাপদ ব্যবহারে সচেতন হব।\n* ভর-শক্তির সম্পর্ক ব্যাখ্যা করতে পারব।\n* ক্ষমতা ব্যাখ্যা করতে পারব।\n* কর্মদক্ষতা পরিমাণ করতে পারব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 104,
+      "pdfPageEnd": 104,
+      "printedPageStart": 99,
+      "printedPageEnd": 99,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

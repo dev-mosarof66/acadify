@@ -88,7 +88,7 @@ export async function exportChapter(job: KbJob, chapter: ChapterDraft, placed: P
         const body = applyCorrections(p.body);
         const section = p.section ? applyCorrections(p.section) : null;
         const caption = p.caption ? applyCorrections(p.caption) : null;
-        const reasons = reviewReasons(p, body.changed || !!section?.changed || !!caption?.changed);
+        const reasons = reviewReasons({ ...p, body: body.text }, body.changed || !!section?.changed || !!caption?.changed);
         return {
           id: `${bookId}-c${pad(chapter.number)}-t${t.key}-p${String(i + 1).padStart(3, "0")}`,
           kind: p.kind,
@@ -220,6 +220,17 @@ export function bookDirInKb(dir: string): string | null {
   // `dir` is checked against KB_OUT_DIR on the next line, so tell Turbopack not to trace the whole project for this path
   const resolved = path.resolve(/* turbopackIgnore: true */ process.cwd(), dir);
   return resolved.startsWith(KB_OUT_DIR + path.sep) ? resolved : null;
+}
+
+/** Deletes a book's folder under kb/ (chapters, pictures, AI files), then any parent folders left empty. */
+export async function removeKbBook(dir: string): Promise<void> {
+  const resolved = bookDirInKb(dir);
+  if (!resolved) return;
+  await rm(resolved, { recursive: true, force: true });
+  for (let parent = path.dirname(resolved); parent.startsWith(KB_OUT_DIR + path.sep); parent = path.dirname(parent)) {
+    if ((await readdir(parent).catch(() => ["x"])).length) break;
+    await rm(parent, { recursive: true, force: true });
+  }
 }
 
 type RawPassage = AiPassage & { image?: string | null };

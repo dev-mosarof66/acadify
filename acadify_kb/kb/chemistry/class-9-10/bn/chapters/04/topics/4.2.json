@@ -1,0 +1,169 @@
+{
+  "id": "chemistry-9-10-bn-c04-t4.2",
+  "key": "4.2",
+  "title": "পর্যায় সারণির বৈশিষ্ট্য (Characteristics of the Periodic Table)",
+  "chapter": 4,
+  "ordinal": 2,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c04-t4.2-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "পর্যায় সারণি মূলত একটি ছক বা টেবিল। টেবিলে যেমন সারি (Row) এবং কলাম (Column) থাকে পর্যায় সারণিতেও তেমনি সারি ও কলাম আছে। পর্যায় সারণির বাম থেকে ডান পর্যন্ত বিস্তৃত সারিগুলোকে পর্দায় এবং খাড়া কলামগুলোকে গ্রুপ বা শ্রেণি বলে। আধুনিক পর্যায় সারণির বর্গাকার ঘরগুলোতে মোট 118টি মৌল আছে। পর্যায় সারণিটি এই অধ্যায়ের শুরুতে দেখানো হয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 69,
+      "pdfPageEnd": 70,
+      "printedPageStart": 64,
+      "printedPageEnd": 65,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.2-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আধুনিক পর্যায় সারণির অনেক বৈশিষ্ট্য রয়েছে। পর্যায় সারণির দিকে লক্ষ্য রাখলে এই বৈশিষ্ট্যগুলো খুঁজে পাওয়া যাবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 70,
+      "pdfPageEnd": 70,
+      "printedPageStart": 65,
+      "printedPageEnd": 65,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.2-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(a) পর্যায় সারণিতে 7টি পর্দায় (Period) বা অনুভূমিক সারি এবং 18টি গ্রুপ বা খাড়া স্তম্ভ রয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 70,
+      "pdfPageEnd": 70,
+      "printedPageStart": 65,
+      "printedPageEnd": 65,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.2-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(b) প্রতিটি পর্দায় বামদিকে গ্রুপ 1 থেকে শুরু করে ডানদিকে গ্রুপ 18 পর্যন্ত বিস্তৃত।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 70,
+      "pdfPageEnd": 70,
+      "printedPageStart": 65,
+      "printedPageEnd": 65,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.2-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(c) মূল পর্যায় সারণির নিচে আলাদাভাবে ল্যান্থানাইড ও অ্যাকটিনাইড সারির মৌল হিসেবে দেখানো হলেও এগুলো যথাক্রমে 6 এবং 7 পর্দায়ের অংশ।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 70,
+      "pdfPageEnd": 70,
+      "printedPageStart": 65,
+      "printedPageEnd": 65,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.2-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(d) (i) পর্দায় 1 এ শুধু 2টি মৌল রয়েছে।\n    (ii) পর্দায় 2 এবং পর্দায় 3 এ 8টি করে মৌল রয়েছে।\n    (iii) পর্দায় 4 এবং পর্দায় 5 এ 18টি করে মৌল রয়েছে।\n    (iv) পর্দায় 6 এবং পর্দায় 7 এ 32টি করে মৌল রয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 70,
+      "pdfPageEnd": 70,
+      "printedPageStart": 65,
+      "printedPageEnd": 65,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.2-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(e) (i) গ্রুপ 1 এ 7টি মৌল রয়েছে।\n    (ii) গ্রুপ 2 এ 6টি মৌল রয়েছে।\n    (iii) গ্রুপ 3 এ 32টি মৌল রয়েছে।\n    (iv) গ্রুপ 4 থেকে গ্রুপ 12 পর্যন্ত প্রত্যেকটি গ্রুপে 4টি করে মৌল রয়েছে।\n    (v) গ্রুপ 13 থেকে গ্রুপ 17 পর্যন্ত প্রত্যেকটিতে 6টি করে মৌল রয়েছে।\n    (vi) গ্রুপ 18 এ 7টি মৌল রয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 70,
+      "pdfPageEnd": 70,
+      "printedPageStart": 65,
+      "printedPageEnd": 65,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.2-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যে সকল মৌলের পারমাণবিক সংখ্যা 57 থেকে 71 পর্যন্ত এরকম 15টি মৌলকে ল্যান্থানাইড সারির মৌল বলা হয়। যে সকল মৌলের পারমাণবিক সংখ্যা 89 থেকে 103 পর্যন্ত এরকম 15টি মৌলকে অ্যাকটিনাইড সারির মৌল বলা হয়। ল্যান্থানাইড সারির মৌলগুলোর ধর্ম এত কাছাকাছি এবং অ্যাকটিনাইড সারির মৌলসমূহের ধর্ম এত কাছাকাছি যে তাদেরকে পর্যায় সারণির নিচে ল্যান্থানাইড সারির মৌল এবং অ্যাকটিনাইড সারির মৌল হিসেবে আলাদাভাবে রাখা হয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 70,
+      "pdfPageEnd": 70,
+      "printedPageStart": 65,
+      "printedPageEnd": 65,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.2-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যদি মৌলগুলোর ধর্মের ভিত্তিতে বিবেচনা করা হয় তাহলে নিচের বৈশিষ্ট্যগুলো লক্ষ্য করা যায়:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 70,
+      "pdfPageEnd": 70,
+      "printedPageStart": 65,
+      "printedPageEnd": 65,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.2-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "১. একই পর্দায়ের বাম থেকে ডানের দিকে গেলে মৌলসমূহের ধর্ম ক্রমাক্ষয়ে পরিবর্তিত হয়।\n২. একই গ্রুপের মৌলগুলোর ভৌত এবং রাসায়নিক ধর্ম প্রায় একই রকমের হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 70,
+      "pdfPageEnd": 70,
+      "printedPageStart": 65,
+      "printedPageEnd": 65,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

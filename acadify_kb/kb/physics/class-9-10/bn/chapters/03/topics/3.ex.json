@@ -1,0 +1,695 @@
+{
+  "id": "physics-9-10-bn-c03-t3.ex",
+  "key": "3.ex",
+  "title": "নমুনা প্রশ্ন",
+  "chapter": 3,
+  "ordinal": 10,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p001",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "**সঠিক উত্তরটির পাশে টিক ( √ ) চিহ্ন দাও**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 99,
+      "pdfPageEnd": 99,
+      "printedPageStart": 94,
+      "printedPageEnd": 94,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p002",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "১. বস্তু যে অবস্থায় আছে চিরকাল সে অবস্থায় থাকতে চাওয়ার যে প্রবণতা বা ধর্ম তাকে কী বলে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 99,
+      "pdfPageEnd": 99,
+      "printedPageStart": 94,
+      "printedPageEnd": 94,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p003",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) বল\n(খ) ত্বরণ\n(গ) জড়তা\n(ঘ) বেগ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 99,
+      "pdfPageEnd": 99,
+      "printedPageStart": 94,
+      "printedPageEnd": 94,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p004",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "২. বলের মাত্রা কোনটি?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p005",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) $MLT^{-2}$",
+      "image": null,
+      "formulas": [
+        "MLT^{-2}"
+      ],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p006",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(খ) $MLT^{-1}$",
+      "image": null,
+      "formulas": [
+        "MLT^{-1}"
+      ],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p007",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(গ) $ML^{-2}T^2$",
+      "image": null,
+      "formulas": [
+        "ML^{-2}T^2"
+      ],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p008",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ঘ) $M^{-1}LT^{-2}$",
+      "image": null,
+      "formulas": [
+        "M^{-1}LT^{-2}"
+      ],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p009",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৩. ভরবেগের একক কোনটি?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p010",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) kg m",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p011",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(খ) kg m s$^{-1}$",
+      "image": null,
+      "formulas": [
+        "^{-1}"
+      ],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p012",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(গ) kg m$^2$s$^{-1}$",
+      "image": null,
+      "formulas": [
+        "^2",
+        "^{-1}"
+      ],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p013",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ঘ) kg m s$^{-2}$",
+      "image": null,
+      "formulas": [
+        "^{-2}"
+      ],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p014",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৪. ৫ kg ভরের একটি বস্তুর ওপর ৫০ N বল প্রয়োগ করা হলে, এর ত্বরণ হবে—",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p015",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) ১২ ms$^{-2}$",
+      "image": null,
+      "formulas": [
+        "^{-2}"
+      ],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p016",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(খ) ৮ ms$^{-2}$",
+      "image": null,
+      "formulas": [
+        "^{-2}"
+      ],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p017",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(গ) ১৩ ms$^{-2}$",
+      "image": null,
+      "formulas": [
+        "^{-2}"
+      ],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p018",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ঘ) ১০ ms$^{-2}$",
+      "image": null,
+      "formulas": [
+        "^{-2}"
+      ],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p019",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৫. ১০ kg ভরের কোনো বস্তু ১০ ms$^{-1}$ বেগে গতিশীল হলে এর ভরবেগ হবে—",
+      "image": null,
+      "formulas": [
+        "^{-1}"
+      ],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p020",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) ১০ kg ms$^{-1}$",
+      "image": null,
+      "formulas": [
+        "^{-1}"
+      ],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p021",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(খ) ১২০ kg ms$^{-1}$",
+      "image": null,
+      "formulas": [
+        "^{-1}"
+      ],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p022",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(গ) ১০০ kg ms$^{-1}$",
+      "image": null,
+      "formulas": [
+        "^{-1}"
+      ],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p023",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ঘ) ১ kg ms$^{-1}$",
+      "image": null,
+      "formulas": [
+        "^{-1}"
+      ],
+      "pdfPageStart": 100,
+      "pdfPageEnd": 100,
+      "printedPageStart": 95,
+      "printedPageEnd": 95,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p024",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "নিচের চিত্র অবলম্বনে ৬ ও ৭ নং প্রশ্নের উত্তর দাও:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 101,
+      "pdfPageEnd": 101,
+      "printedPageStart": 96,
+      "printedPageEnd": 96,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p025",
+      "kind": "figure",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "drawing: A red car with force vectors: 50 N to the left, 800 N to the right, and 1960 N downwards.",
+      "image": "p101-page_35_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 101,
+      "pdfPageEnd": 101,
+      "printedPageStart": 96,
+      "printedPageEnd": 96,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p026",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "**1960 N গাড়িটির ওজন বল**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 101,
+      "pdfPageEnd": 101,
+      "printedPageStart": 96,
+      "printedPageEnd": 96,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p027",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৬. গাড়িটির উপর ক্রিয়াশীল লক্ষ্যবল কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 101,
+      "pdfPageEnd": 101,
+      "printedPageStart": 96,
+      "printedPageEnd": 96,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p028",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) 750 N\n(খ) 800 N\n(গ) 850 N\n(ঘ) 1960 N",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 101,
+      "pdfPageEnd": 101,
+      "printedPageStart": 96,
+      "printedPageEnd": 96,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p029",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৭. গাড়িটির ক্ষেত্রে -",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 101,
+      "pdfPageEnd": 101,
+      "printedPageStart": 96,
+      "printedPageEnd": 96,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p030",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "i. ভর 200 kg\nii. ত্বরণ 2.25 ms<sup>-2</sup>\niii. ঘর্ষণ বল শূন্য",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 101,
+      "pdfPageEnd": 101,
+      "printedPageStart": 96,
+      "printedPageEnd": 96,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p031",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "নিচের কোনটি সঠিক?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 101,
+      "pdfPageEnd": 101,
+      "printedPageStart": 96,
+      "printedPageEnd": 96,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p032",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) i\n(খ) i ও ii\n(গ) i ও iii\n(ঘ) ii ও iii",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 101,
+      "pdfPageEnd": 101,
+      "printedPageStart": 96,
+      "printedPageEnd": 96,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p033",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "১. ফারুক 10 kg ভরের একটি বাক্স একটি মেঝের উপর দিয়ে সমবলে টেনে নিল। বাক্স ও মেঝের মধ্যকার ঘর্ষণ বলের মান হলো 1.5 N। বাক্সটিকে টেনে নেওয়ায় এর ত্বরণ হলো 0.8 ms<sup>-2</sup>। এরপর বাক্সটিকে ঘর্ষণবিহীন মেঝেতে একই বল প্রয়োগ করে টানা হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 102,
+      "pdfPageEnd": 102,
+      "printedPageStart": 97,
+      "printedPageEnd": 97,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p034",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(ক) সাম্য বল কাকে বলে?\n(খ) ঘর্ষণ বল কোন উৎপন্ন হয়?\n(গ) প্রথম ক্ষেত্রে বাক্সটির উপর প্রযুক্ত বলের মান নির্ণয় করো।\n(ঘ) ঘর্ষণযুক্ত ও ঘর্ষণবিহীন মেঝেতে ত্বরণের কীরূপ পরিবর্তন হবে? গাণিতিকভাবে ব্যাখ্যা করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 102,
+      "pdfPageEnd": 102,
+      "printedPageStart": 97,
+      "printedPageEnd": 97,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p035",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "২. রাস্তায় থেমে থাকা 1000 kg ভরের একটি প্রাইভেট কারের উপর 3 s ধরে 1000 N বল প্রয়োগ করায় গাড়িটি গতিশীল হয়। রাস্তার ঘর্ষণবল ছিল 200 N। 5 s পরে বিপরীত দিক থেকে 6 m/s সমবেগে আসা 6000 kg ভরের একটি ট্রাকের সাথে সংঘর্ষ ঘটে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 102,
+      "pdfPageEnd": 102,
+      "printedPageStart": 97,
+      "printedPageEnd": 97,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p036",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(ক) আবার্ত ঘর্ষণ কাকে বলে?\n(খ) প্রাইভেট কার ও ট্রাকের মধ্যে কোনটির জড়তা বেশি এবং কেন?\n(গ) বল প্রয়োগের ফলে প্রাইভেট কারের ত্বরণ নির্ণয় কর।\n(ঘ) উক্ত সংঘর্ষে কোন গাড়িটি অধিক ক্ষতিগ্রস্ত হবে? গাণিতিক বিশ্লেষণের মাধ্যমে মতামত দাও।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 102,
+      "pdfPageEnd": 102,
+      "printedPageStart": 97,
+      "printedPageEnd": 97,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p037",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "১. ভরবেগের সংরক্ষণ নীতি বলতে কী বোঝায়?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 102,
+      "pdfPageEnd": 102,
+      "printedPageStart": 97,
+      "printedPageEnd": 97,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p038",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "২. সবল নিউক্লীয় বল ও দুর্বল নিউক্লীয় বলের তুলনা কর।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 102,
+      "pdfPageEnd": 102,
+      "printedPageStart": 97,
+      "printedPageEnd": 97,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p039",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "৩. গাড়ির টায়ারে খাজ কাটা থাকে কেন?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 102,
+      "pdfPageEnd": 102,
+      "printedPageStart": 97,
+      "printedPageEnd": 97,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.ex-p040",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "৪. রাস্তায় গাড়ির দুধটানা এড়ানোর প্রথম ধাপ গাড়ির গতি নিয়ন্ত্রণ — ব্যাখ্যা কর।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 102,
+      "pdfPageEnd": 102,
+      "printedPageStart": 97,
+      "printedPageEnd": 97,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

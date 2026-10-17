@@ -1,0 +1,171 @@
+{
+  "id": "physics-9-10-bn-c02-t2.4",
+  "key": "2.4",
+  "title": "দূরত্ব ও সরণ (Distance and Displacement)",
+  "chapter": 2,
+  "ordinal": 4,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c02-t2.4-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা দূরত্ব শব্দটির সাথে খুব ভালোভাবে পরিচিত, তবে সরণ (Displacement) শব্দটি দৈনন্দিন কথাবার্তায় খুব বেশি ব্যবহার করি না। আমরা একটি উদাহরণ দিয়ে দূরত্ব এবং সরণ শব্দ দুটির মাঝে সম্পর্কটি বোঝার চেষ্টা করি। ২.০৪ চিত্রে একটি আঁকাবাঁকা রাস্তা দেখানো হয়েছে। এই রাস্তাটিতে A বিন্দুর সাবেক্সে রাস্তার অতিক্রান্ত দূরত্বগুলো কিলোমিটারে 1, 2, 3 সংখ্যা দিয়ে দেখানো হয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 44,
+      "pdfPageEnd": 44,
+      "printedPageStart": 39,
+      "printedPageEnd": 39,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.4-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধরা যাক তুমি A বিন্দুতে আছ, (অর্থাৎ তোমার অবস্থান A বিন্দু) এখন তুমি সাইকেল চালিয়ে আঁকাবাঁকা পথটি ধরে 4 km রাস্তা অতিক্রম করে B বিন্দুতে পৌঁছছে। আমরা বলতে পারব A এবং B বিন্দুর ভেতরকার দূরত্ব 4 km। দূরত্ব একটি স্কেলার রাশি, কাজেই A এবং B বিন্দুর ভেতরকার দূরত্ব বোঝানোর জন্য কোনো দিকের কথা বলে দিতে হবে না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 44,
+      "pdfPageEnd": 44,
+      "printedPageStart": 39,
+      "printedPageEnd": 39,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.4-p003",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A diagram showing a winding path with numbered segments 0-7, points A, B, and C, and a straight line connecting A and B.",
+      "image": "p44-page_8_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 44,
+      "pdfPageEnd": 44,
+      "printedPageStart": 39,
+      "printedPageEnd": 39,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.4-p004",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "**চিত্র ২.০৪ : A বিন্দু থেকে শুরু করে আঁকাবাঁকা পথে সাইকেল চালিয়ে যাওয়া।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 44,
+      "pdfPageEnd": 44,
+      "printedPageStart": 39,
+      "printedPageEnd": 39,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.4-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা A বিন্দুর সাবেক্সে এই পথটি ধরে B বিন্দুর ‘দূরত্ব’ বের করেছি। এখন ইচ্ছে করলে A বিন্দুর সাবেক্সে B বিন্দুর ‘সরণ’ বের করতে পারি। সরণ বলতে বোঝানো হয় A বিন্দুর অবস্থানের সাবেক্সে B বিন্দুর অবস্থান। ছবিতে A বিন্দু থেকে B বিন্দু পর্যন্ত একটা তির চিহ্নিত সরলরেখা দিয়ে সরণটি দেখানো হয়েছে। এই ছবিতে সরণের মান 3 km এবং তিরের দিকটি হচ্ছে সরণের দিক। অর্থাৎ সরণ হচ্ছে ভেক্টর রাশি, এর মান এবং দিক দুটিই আছে। একে $\\vec{AB}$ হিসেবেও লেখা যেতে পারে।",
+      "image": null,
+      "formulas": [
+        "\\vec{AB}"
+      ],
+      "pdfPageStart": 44,
+      "pdfPageEnd": 44,
+      "printedPageStart": 39,
+      "printedPageEnd": 39,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.4-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যদি তুমি সাইকেল দিয়ে আরও দুই কিলোমিটার অতিক্রম করে মোট ছয় কিলোমিটার পথ অতিক্রম করে C বিন্দুতে পৌঁছাও তোমার সরণ হবে তির চিহ্নিত সরলরেখা $\\vec{AC}$, যার মান 1.5 কিলোমিটার এবং এখানেও তিরের দিকটি তোমার সরণের দিক। যদিও তুমি আঁকাবাঁকা পথ ধরে বেশি দূরত্ব অতিক্রম করেছ; কিন্তু সরণ হয়েছে কম! অর্থাৎ বেশি দূরত্ব অতিক্রম করলেই বেশি সরণ হবে সেটি সত্যি নয়। শুরু থেকে শেষ অবস্থানের পার্থক্য হচ্ছে সরণ।",
+      "image": null,
+      "formulas": [
+        "\\vec{AC}"
+      ],
+      "pdfPageStart": 44,
+      "pdfPageEnd": 44,
+      "printedPageStart": 39,
+      "printedPageEnd": 39,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.4-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "A থেকে শুরু করে আঁকাবাঁকা পথে B পর্যন্ত দূরত্ব 4 km ঠিক একইভাবে B থেকে A পর্যন্ত হচ্ছে 4 km, দুটোই সমান। কিন্তু লক্ষ্য করে দেখো A থেকে B পর্যন্ত সরণ আর B থেকে A পর্যন্ত সরণ কিন্তু সমান নয়। একটি আরেকটির নেগেটিভ বা ঋণাত্মক। ভেক্টর হিসেবে লিখতে পারি:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 44,
+      "pdfPageEnd": 44,
+      "printedPageStart": 39,
+      "printedPageEnd": 39,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.4-p008",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\overrightarrow{AB} = -\\overrightarrow{BA}$$",
+      "image": null,
+      "formulas": [
+        "\\overrightarrow{AB} = -\\overrightarrow{BA}"
+      ],
+      "pdfPageStart": 45,
+      "pdfPageEnd": 45,
+      "printedPageStart": 40,
+      "printedPageEnd": 40,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.4-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "দূরত্ব এবং সরণ, দুটোর মাত্রাই হলো দৈর্ঘ্যের মাত্রা।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 45,
+      "pdfPageEnd": 45,
+      "printedPageStart": 40,
+      "printedPageEnd": 40,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.4-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "[সরণ] = L (ভেক্টর)\n[দূরত্ব] = L (স্কেলার)",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 45,
+      "pdfPageEnd": 45,
+      "printedPageStart": 40,
+      "printedPageEnd": 40,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

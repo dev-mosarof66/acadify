@@ -1,0 +1,323 @@
+{
+  "id": "chemistry-9-10-bn-c04-t4.1",
+  "key": "4.1",
+  "title": "পর্যায় সারণির পটভূমি (Background of Periodic Table)",
+  "chapter": 4,
+  "ordinal": 1,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c04-t4.1-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "মানুষ প্রাচীনকাল থেকে বিক্ষিপ্তভাবে পদার্থ এবং তাদের ধর্ম সম্পর্কে যে সকল ধারণা অর্জন করেছিল পর্যায় সারণি হচ্ছে তার একটি সম্মিলিত রূপ। পর্যায় সারণি একজন বিজ্ঞানীর একদিনের পরিশ্রমের ফলে তৈরি হয়নি। অনেক বিজ্ঞানীর অনেক দিনের অক্লান্ত পরিশ্রমের ফলে আজকের এই আধুনিক পর্যায় সারণি তৈরি হয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.1-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "1789 সালে ল্যাভয়সিয়ে অক্সিজেন, নাইট্রোজেন, হাইড্রোজেন, ফসফরাস, মার্কারি, জিংক এবং সালফার ইত্যাদি মৌলিক পদার্থসমূহকে ধাতু ও অধাতু এই দুই ভাগে ভাগ করেন। ল্যাভয়সিয়ের সময় থেকেই মৌলগুলোকে বিভিন্ন ভাগে ভাগ করার চিন্তাভাবনা শুরু হয় যেন একই ধরনের মৌলিক পদার্থগুলো একটি নির্দিষ্ট ভাগে থাকে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.1-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "1829 সালে বিজ্ঞানী ডোবেরাইনার লক্ষ্য করেন তিনটি করে মৌলিক পদার্থ একই রকমের ধর্ম প্রদর্শন করে। তিনি প্রথমে পারমাণবিক ভর অনুসারে তিনটি করে মৌল সাজান। এরপর তিনি লক্ষ্য করেন দ্বিতীয় মৌলের পারমাণবিক ভর প্রথম ও তৃতীয় মৌলের পারমাণবিক ভরের যোগফলের অর্ধেক বা তার কাছাকাছি, একে ডোবেরাইনারের ত্রয়ীসূত্র বলে। বিজ্ঞানী ডোবেরাইনার ক্লোরিন, ব্রোমিন ও আয়োডিনকে প্রথম ত্রয়ী মৌল হিসেবে চিহ্নিত করেন।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.1-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "1864 সাল পর্যন্ত আবিস্কৃত মৌলসমূহের জন্য নিউল্যান্ড অষ্টক সূত্র নামে একটি সূত্র প্রদান করেন। এই সূত্র অনুযায়ী মৌলসমূহকে যদি পারমাণবিক ভরের ছোট থেকে বড় অনুযায়ী সাজানো যায় তবে যেকোনো একটি মৌলের ধর্ম তার অষ্টম মৌলের ধর্মের সাথে মিলে যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.1-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "1869 সালে রাশিয়ান বিজ্ঞানী মেন্ডেলিফ সকল মৌলের ধর্ম পর্দালোচনা করে একটি পর্দায় সূত্র প্রদান করেন। সূত্রটি হলো: “মৌলসমূহের ভৌত ও রাসায়নিক ধর্মাবলি তাদের পারমাণবিক ভর বৃদ্ধির সাথে পর্দায়ক্রমে আবর্তিত হয়।”",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.1-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এ সূত্র অনুসারে তিনি তখন পর্যন্ত আবিস্কৃত ৬৩টি মৌলকে 12টি আনুভূমিক সারি আর ৪টি খাড়া কলামের একটি ছকে পারমাণবিক ভর বৃদ্ধি অনুসারে সাজিয়ে দেখান যে, একই কলাম বরাবর সকল মৌলের ধর্ম একই রকমের এবং একটি সারির প্রথম মৌল থেকে শেষ মৌল পর্যন্ত মৌলগুলোর ধর্মের ক্রমায়নে পরিবর্তন ঘটে। এই ছকের নাম দেওয়া হয় পর্যায় সারণি (Periodic Table)।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.1-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "মেন্ডেলিফের পর্যায় সারণির আরেকটি সাফল্য হচ্ছে কিছু মৌলিক পদার্থের অস্তিত্ব সম্পর্কে সঠিক ভবিষ্যদ্বাণী। সে সময় মাত্র ৬৩টি মৌল আবিস্কৃত হওয়ার কারণে পর্যায় সারণির কিছু ঘর ফাঁকা থেকে যায়। মেন্ডেলিফ এই ফাঁকা ঘরগুলোর জন্য যে মৌলের ভবিষ্যদ্বাণী করেছিলেন পরবর্তীকালে সেগুলো সত্য প্রমাণিত হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 66,
+      "pdfPageEnd": 66,
+      "printedPageStart": 61,
+      "printedPageEnd": 61,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.1-p008",
+      "kind": "table",
+      "section": null,
+      "caption": null,
+      "body": "<table><tr><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th></tr>\n<tr><td>1<br />1<br /><strong>H</strong><br />Hydrogen<br />হাইড্রোজেন</td><td>3<br />7<br /><strong>Li</strong><br />Lithium<br />লিথিয়াম</td><td>4<br />9<br /><strong>Be</strong><br />Beryllium<br />বেরিলিয়াম</td><td>11<br />23<br /><strong>Na</strong><br />Sodium<br />সোডিয়াম</td><td>12<br />24<br /><strong>Mg</strong><br />Magnesium<br />ম্যাগনেসিয়াম</td><td></td><td></td><td></td><td></td></tr>\n<tr><td>19<br />39<br /><strong>K</strong><br />Potassium<br />পটাশিয়াম</td><td>20<br />40<br /><strong>Ca</strong><br />Calcium<br />ক্যালসিয়াম</td><td>21<br />45<br /><strong>Sc</strong><br />Scandium<br />স্ক্যান্ডিয়াম</td><td>22<br />48<br /><strong>Ti</strong><br />Titanium<br />টাইটানিয়াম</td><td>23<br />51<br /><strong>V</strong><br />Vanadium<br />ভ্যানাডিয়াম</td><td>24<br />52<br /><strong>Cr</strong><br />Chromium<br />ক্রোমিয়াম</td><td>25<br />55<br /><strong>Mn</strong><br />Manganese<br />ম্যাঙ্গানিজ</td><td>26<br />56<br /><strong>Fe</strong><br />Iron<br />আয়রন</td><td>27<br />58<br /><strong>Co</strong><br />Cobalt<br />কোবাল্ট</td></tr>\n<tr><td>37<br />85.5<br /><strong>Rb</strong><br />Rubidium<br />রুবিডিয়াম</td><td>38<br />88<br /><strong>Sr</strong><br />Strontium<br />স্ট্রোন্সিয়াম</td><td>39<br />89<br /><strong>Y</strong><br />Yttrium<br />ইট্রিয়াম</td><td>40<br />91<br /><strong>Zr</strong><br />Zirconium<br />জিরকোনিয়াম</td><td>41<br />93<br /><strong>Nb</strong><br />Niobium<br />নিওবিয়াম</td><td>42<br />96<br /><strong>Mo</strong><br />Molybdenum<br />মলিবডেনাম</td><td>43<br />98<br /><strong>Tc</strong><br />Technetium<br />টেকনেসিয়াম</td><td>44<br />101<br /><strong>Ru</strong><br />Ruthenium<br />রুথেনিয়াম</td><td>45<br />103<br /><strong>Rh</strong><br />Rhodium<br />রোডিয়াম</td></tr>\n<tr><td>55<br />133<br /><strong>Cs</strong><br />Caesium<br />সিজিয়াম</td><td>56<br />137<br /><strong>Ba</strong><br />Barium<br />বেরিয়াম</td><td>পারমাণবিক<br />সংখ্যা<br />57 থেকে<br />71</td><td>72<br />178.5<br /><strong>Hf</strong><br />Hafnium<br />হাফনিয়াম</td><td>73<br />181<br /><strong>Ta</strong><br />Tantalum<br />ট্যান্টালাম</td><td>74<br />184<br /><strong>W</strong><br />Tungsten<br />ট্যাংস্টেন</td><td>75<br />186<br /><strong>Re</strong><br />Rhenium<br />রেনিয়াম</td><td>76<br />190<br /><strong>Os</strong><br />Osmium<br />অসমিয়াম</td><td>77<br />192<br /><strong>Ir</strong><br />Iridium<br />ইরিডিয়াম</td></tr>\n<tr><td>87<br />223<br /><strong>Fr</strong><br />Francium<br />ফ্রানসিয়াম</td><td>88<br />226<br /><strong>Ra</strong><br />Radium<br />রেডিয়াম</td><td>পারমাণবিক<br />সংখ্যা<br />89 থেকে<br />103</td><td>104<br />261<br /><strong>Rf</strong><br />Rutherfordium<br />রাদারফোর্ডিয়াম</td><td>105<br />262<br /><strong>Db</strong><br />Dubnium<br />ডুবনিয়াম</td><td>106<br />263<br /><strong>Sg</strong><br />Seaborgium<br />সিয়াবর্গিয়াম</td><td>107<br />262<br /><strong>Bh</strong><br />Bohrium<br />বোরিয়াম</td><td>108<br />265<br /><strong>Hs</strong><br />Hassium<br />হাসিয়াম</td><td>109<br />266<br /><strong>Mt</strong><br />Metrenium<br />মিট্রেনিয়াম</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 67,
+      "pdfPageEnd": 67,
+      "printedPageStart": 62,
+      "printedPageEnd": 62,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.1-p009",
+      "kind": "table",
+      "section": null,
+      "caption": null,
+      "body": "<table><tr><td>57<br />139<br /><strong>La</strong><br />Lanthanum<br />ল্যান্থানাম</td><td>58<br />140<br /><strong>Ce</strong><br />Cerium<br />সিরিয়াম</td><td>59<br />141<br /><strong>Pr</strong><br />Praseodymium<br />প্রাসিওডিমিয়াম</td><td>60<br />144<br /><strong>Nd</strong><br />Neodymium<br />নিওডিমিয়াম</td><td>61<br />145<br /><strong>Pm</strong><br />Promethium<br />প্রোমেথিয়াম</td><td>62<br />150<br /><strong>Sm</strong><br />Samarium<br />সামারিয়াম</td><td>63<br />152<br /><strong>Eu</strong><br />Europium<br />ইউরোপিয়াম</td></tr>\n<tr><td>89<br />227<br /><strong>Ac</strong><br />Actinium<br />অ্যাকটিনিয়াম</td><td>90<br />232<br /><strong>Th</strong><br />Thorium<br />থোরিয়াম</td><td>91<br />231<br /><strong>Pa</strong><br />Protactinium<br />প্রোটেকটিনিয়াম</td><td>92<br />238<br /><strong>U</strong><br />Uranium<br />ইউরেনিয়াম</td><td>93<br />237<br /><strong>Np</strong><br />Neptunium<br />নেপচুনিয়াম</td><td>94<br />244<br /><strong>Pu</strong><br />Plutonium<br />প্লুটোনিয়াম</td><td>95<br />243<br /><strong>Am</strong><br />Americium<br />আমেরিসিয়াম</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 67,
+      "pdfPageEnd": 67,
+      "printedPageStart": 62,
+      "printedPageEnd": 62,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.1-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**ল্যানথানাইড সারির মৌল**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 67,
+      "pdfPageEnd": 67,
+      "printedPageStart": 62,
+      "printedPageEnd": 62,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.1-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**অ্যাকটিনাইড সারির মৌল**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 67,
+      "pdfPageEnd": 67,
+      "printedPageStart": 62,
+      "printedPageEnd": 62,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.1-p012",
+      "kind": "figure",
+      "section": "আধুনিক পর্যায় সারণি",
+      "caption": null,
+      "body": "image: Periodic table of elements",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 68,
+      "pdfPageEnd": 68,
+      "printedPageStart": 63,
+      "printedPageEnd": 63,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.1-p013",
+      "kind": "table",
+      "section": "আধুনিক পর্যায় সারণি",
+      "caption": null,
+      "body": "<table><tr><td>2 4<br /><strong>He</strong><br />Helium<br />হিলিয়াম</td></tr>\n<tr><td>5 11<br /><strong>B</strong><br />Boron<br />বোরন</td><td>6 12<br /><strong>C</strong><br />Carbon<br />কার্বন</td><td>7 14<br /><strong>N</strong><br />Nitrogen<br />নাইট্রোজেন</td><td>8 16<br /><strong>O</strong><br />Oxygen<br />অক্সিজেন</td><td>9 19<br /><strong>F</strong><br />Fluorine<br />ফ্লুরিন</td><td>10 20<br /><strong>Ne</strong><br />Neon<br />নিয়ন</td></tr>\n<tr><td>13 27<br /><strong>Al</strong><br />Aluminium<br />আলুমিনিয়াম</td><td>14 28<br /><strong>Si</strong><br />Silicon<br />সিলিকন</td><td>15 31<br /><strong>P</strong><br />Phosphorus<br />ফসফরাস</td><td>16 32<br /><strong>S</strong><br />Sulfur<br />সালফার</td><td>17 35.5<br /><strong>Cl</strong><br />Chlorine<br />ক্লোরিন</td><td>18 40<br /><strong>Ar</strong><br />Argon<br />আর্গন</td></tr>\n<tr><td>28 59<br /><strong>Ni</strong><br />Nickel<br />নিকেল</td><td>29 63.5<br /><strong>Cu</strong><br />Copper<br />কপার</td><td>30 65<br /><strong>Zn</strong><br />Zinc<br />জিংক</td><td>31 70<br /><strong>Ga</strong><br />Gallium<br />গ্যালিয়াম</td><td>32 73<br /><strong>Ge</strong><br />Germanium<br />জার্মেনিয়াম</td><td>33 75<br /><strong>As</strong><br />Arsenic<br />আস্বেনিক</td><td>34 79<br /><strong>Se</strong><br />Selenium<br />সেলেনিয়াম</td><td>35 80<br /><strong>Br</strong><br />Bromine<br />ব্রোমিন</td><td>36 84<br /><strong>Kr</strong><br />Krypton<br />ক্রিপটন</td></tr>\n<tr><td>46 106<br /><strong>Pd</strong><br />Palladium<br />প্যালাডিয়াম</td><td>47 108<br /><strong>Ag</strong><br />Silver<br />সিলভার</td><td>48 112<br /><strong>Cd</strong><br />Cadmium<br />ক্যাডমিয়াম</td><td>49 115<br /><strong>In</strong><br />Indium<br />ইন্ডিয়াম</td><td>50 119<br /><strong>Sn</strong><br />Tin<br />টিন</td><td>51 122<br /><strong>Sb</strong><br />Antimony<br />এন্টিমনি</td><td>52 128<br /><strong>Te</strong><br />Tellurium<br />টেলুরিয়াম</td><td>53 127<br /><strong>I</strong><br />Iodine<br />আয়োডিন</td><td>54 131<br /><strong>Xe</strong><br />Xenon<br />জেনন</td></tr>\n<tr><td>78 195<br /><strong>Pt</strong><br />Platinum<br />প্লাটিনাম</td><td>79 197<br /><strong>Au</strong><br />Gold<br />গোল্ড</td><td>80 201<br /><strong>Hg</strong><br />Mercury<br />মার্করি</td><td>81 204<br /><strong>Tl</strong><br />Thallium<br />থালিয়াম</td><td>82 207<br /><strong>Pb</strong><br />Lead<br />লেড</td><td>83 209<br /><strong>Bi</strong><br />Bismuth<br />বিসমথ</td><td>84 209<br /><strong>Po</strong><br />Polonium<br />পোলোনিয়াম</td><td>85 210<br /><strong>At</strong><br />Astatine<br />অ্যাস্ট্যাটিন</td><td>86 222<br /><strong>Rn</strong><br />Radon<br />রেডন</td></tr>\n<tr><td>110 269<br /><strong>Ds</strong><br />Darmstadtium<br />ডার্মস্টেডসিয়াম</td><td>111 272<br /><strong>Rg</strong><br />Roentgenium<br />রনটজেনিয়াম</td><td>112 285<br /><strong>Cn</strong><br />Copernicium<br />কোপার্নিসিয়াম</td><td>113 284<br /><strong>Nh</strong><br />Nihonium<br />নিহোনিয়াম</td><td>114 285<br /><strong>Fl</strong><br />Flerovium<br />ফ্লেরোভিয়াম</td><td>115 288<br /><strong>Mc</strong><br />Moscovium<br />মসকোভিয়াম</td><td>116 293<br /><strong>Lv</strong><br />Livermorium<br />লিভারমোরিয়াম</td><td>117 294<br /><strong>Ts</strong><br />Tennesine<br />টেনেসিন</td><td>118 294<br /><strong>Og</strong><br />Oganesson<br />ওগানেসন</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 68,
+      "pdfPageEnd": 68,
+      "printedPageStart": 63,
+      "printedPageEnd": 63,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.1-p014",
+      "kind": "table",
+      "section": "আধুনিক পর্যায় সারণি",
+      "caption": null,
+      "body": "<table><tr><td>64 157<br /><strong>Gd</strong><br />Gadolinium<br />গ্যাডোলিনিয়াম</td><td>65 159<br /><strong>Tb</strong><br />Terbium<br />টার্বিয়াম</td><td>66 163<br /><strong>Dy</strong><br />Dysprosium<br />ডিসপ্রোসিয়াম</td><td>67 165<br /><strong>Ho</strong><br />Holmium<br />হলমিয়াম</td><td>68 167<br /><strong>Er</strong><br />Erbium<br />আর্বিয়াম</td><td>69 169<br /><strong>Tm</strong><br />Thulium<br />থুলিয়াম</td><td>70 173<br /><strong>Yb</strong><br />Ytterbium<br />ইটারবিয়াম</td><td>71 175<br /><strong>Lu</strong><br />Lutetium<br />লুটেসিয়াম</td></tr>\n<tr><td>96 247<br /><strong>Cm</strong><br />Curium<br />কুরিয়াম</td><td>97 247<br /><strong>Bk</strong><br />Berkelium<br />বাকেলিয়াম</td><td>98 251<br /><strong>Cf</strong><br />Californium<br />ক্যালিফোর্নিয়াম</td><td>99 252<br /><strong>Es</strong><br />Einsteinium<br />আইনস্টেিনিয়াম</td><td>100 257<br /><strong>Fm</strong><br />Fermium<br />ফার্মিয়াম</td><td>101 258<br /><strong>Md</strong><br />Mendelevium<br />মেন্ডেলভিয়াম</td><td>102 259<br /><strong>No</strong><br />Nobelium<br />নোবেলিয়াম</td><td>103 262<br /><strong>Lr</strong><br />Lawrencium<br />লরেনসিয়াম</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 68,
+      "pdfPageEnd": 68,
+      "printedPageStart": 63,
+      "printedPageEnd": 63,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.1-p015",
+      "kind": "text",
+      "section": "আধুনিক পর্যায় সারণি",
+      "caption": null,
+      "body": "মেডেলিফের পর্যায় সারণির কিছু ত্রুটি পরিলক্ষিত হয়। মেডেলিফ তার পর্যায় সারণিতে যে নিয়মানুযায়ী মৌলগুলো বসিয়েছিলেন সেই নিয়মানুযায়ী যে পরমাণুর পারমাণবিক ভর কম থাকবে সেই পরমাণু পর্যায় সারণিতে আগে বসবে এবং যে পরমাণুর পারমাণবিক ভর বেশি থাকবে সেই পরমাণু পর্যায় সারণিতে পরে বসবে। কিন্তু দেখা যায় মেডেলিফের পর্যায় সারণিতে আর্গনের পারমাণবিক ভর 40 এবং পটাশিয়াম এর পারমাণবিক ভর 39 হওয়া সত্ত্বেও একই গ্রুপের মৌলসমূহের ধর্মের মিল করানোর জন্য আর্গনকে পটাশিয়ামের আগে বসানো হয়েছিল। এরকম আরও অনেক মৌলের ক্ষেত্রে দেখা যায় পারমাণবিক ভর বেশি হওয়া সত্ত্বেও তাদেরকে কোনো কোনো মৌলের আগে পর্যায় সারণিতে বসানো হয়েছিল। এটি ছিল পর্যায় সারণির ত্রুটি। এরকম আরও অনেক ত্রুটি মেডেলিফের পর্যায় সারণিতে লক্ষ্য করা যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 69,
+      "pdfPageEnd": 69,
+      "printedPageStart": 64,
+      "printedPageEnd": 64,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.1-p016",
+      "kind": "text",
+      "section": "আধুনিক পর্যায় সারণি",
+      "caption": null,
+      "body": "1913 সালে মোসলে পারমাণবিক ভরের পরিবর্তে **পারমাণবিক সংখ্যা** অনুযায়ী মৌলগুলোকে পর্যায় সারণিতে সাজানোর প্রস্তাব দেন। মৌলসমূহের ভৌত ও রাসায়নিক ধর্মাবলি তাদের পারমাণবিক সংখ্যা বৃদ্ধির সাথে পর্যায়ক্রমে আবর্তিত হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 69,
+      "pdfPageEnd": 69,
+      "printedPageStart": 64,
+      "printedPageEnd": 64,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.1-p017",
+      "kind": "text",
+      "section": "আধুনিক পর্যায় সারণি",
+      "caption": null,
+      "body": "পারমাণবিক সংখ্যা অনুসারে পর্যায় সারণিতে মৌলের স্থান দেওয়া হলে মেডেলিফের পর্যায় সারণিতে আর্গনের পারমাণবিক সংখ্যা 18 এবং পটাশিয়াম এর পারমাণবিক সংখ্যা 19। কাজেই আর্গন পটাশিয়ামের আগে বসবে। কাজেই পারমাণবিক সংখ্যা অনুসারে পর্যায় সারণিতে মৌলের স্থান দেওয়া হলে এ রকম ত্রুটিগুলো সংশোধিত হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 69,
+      "pdfPageEnd": 69,
+      "printedPageStart": 64,
+      "printedPageEnd": 64,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.1-p018",
+      "kind": "text",
+      "section": "আধুনিক পর্যায় সারণি",
+      "caption": null,
+      "body": "আন্তর্জাতিক রসায়ন ও ফলিত রসায়ন সংস্থা (International Union of Pure and Applied Chemistry বা সংক্ষেপে IUPAC) এখন পর্যন্ত 118টি মৌলিক পদার্থকে শনাক্ত করেছে। IUPAC সংস্থাটি আন্তর্জাতিকভাবে রসায়ন ও ফলিত রসায়নের বিভিন্ন নিয়মকানুন, ক্রমবর্ধমান পরিবর্তনের কোনটি গ্রহণ করা যায় এবং কোনটি বর্জন করা উচিত এই বিষয়গুলো দেখাশোনা এবং নিয়ন্ত্রণ করে। 118টি মৌলের মধ্যে বেশির ভাগ মৌলই প্রকৃতিতে পাওয়া যায় এবং বাকি কিছু মৌল ল্যাবরেটরিতে তৈরি করা হয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 69,
+      "pdfPageEnd": 69,
+      "printedPageStart": 64,
+      "printedPageEnd": 64,
+      "reviewReasons": [
+        "latin-junk",
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c04-t4.1-p019",
+      "kind": "text",
+      "section": "আধুনিক পর্যায় সারণি",
+      "caption": null,
+      "body": "ল্যাবরেসিয়ে মাত্র 33টি মৌল নিয়ে ছক তৈরির কাজ শুরু করেছিলেন। মেডেলিফ 63টি আবিষ্কৃত মৌল এবং 4টি আনাবিষ্কৃত মৌল নিয়ে পর্যায় সারণি নামে যে ছকটি তৈরি করেছিলেন, বর্তমানে সেটি 118টি মৌলের আধুনিক পর্যায় সারণি হিসেবে প্রতিষ্ঠিত হয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 69,
+      "pdfPageEnd": 69,
+      "printedPageStart": 64,
+      "printedPageEnd": 64,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    }
+  ]
+}

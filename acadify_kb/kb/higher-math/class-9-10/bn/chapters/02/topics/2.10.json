@@ -1,0 +1,262 @@
+{
+  "id": "higher-math-9-10-bn-c02-t2.10",
+  "key": "2.10",
+  "title": "সমমাত্রিক বহুপদী, প্রতিসম ও চক্রক্রমিক রাশি",
+  "chapter": 2,
+  "ordinal": 10,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c02-t2.10-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমমাত্রিক বহুপদী:** কোনো বহুপদীর প্রত্যেক পদের মাত্রা একই হলে, একে সমমাত্রিক বহুপদী (homogeneous polynomial) বলা হয়। $x^2 + 2xy + 5y^2$ রাশিটি $x, y$ চলকের দুই মাত্রার একটি সমমাত্রিক বহুপদী (এখানে প্রত্যেক পদের মাত্রা ২)।",
+      "image": null,
+      "formulas": [
+        "x^2 + 2xy + 5y^2",
+        "x, y"
+      ],
+      "pdfPageStart": 53,
+      "pdfPageEnd": 53,
+      "printedPageStart": 48,
+      "printedPageEnd": 48,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.10-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$ax^2 + 2hxy + by^2$ রাশিটি $x, y$ চলকের একটি দুই মাত্রার সমমাত্রিক রাশি, যেখানে, $a, h, b$ নির্দিষ্ট সংখ্যা। $x, y, a, h, b$ প্রত্যেককে চলক বিবেচনা করা হলে এটি এই চলকসমূহের তিন মাত্রার সমমাত্রিক বহুপদী হয়। $2x^2y + y^2z + 9z^2x - 5xyz$ বহুপদীটি $x, y, z$ চলকের তিন মাত্রার সমমাত্রিক বহুপদী। (এখানে প্রত্যেক পদের মাত্রা ৩)।",
+      "image": null,
+      "formulas": [
+        "ax^2 + 2hxy + by^2",
+        "x, y",
+        "a, h, b",
+        "x, y, a, h, b",
+        "2x^2y + y^2z + 9z^2x - 5xyz",
+        "x, y, z"
+      ],
+      "pdfPageStart": 53,
+      "pdfPageEnd": 53,
+      "printedPageStart": 48,
+      "printedPageEnd": 48,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.10-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রতিসম রাশি (Symmetric Expression):** একাধিক চলক সংবলিত কোনো বীজগাণিতিক রাশির যেকোনো দুটি চলক স্থান বিনিময়ে যদি রাশিটি অপরিবর্তিত থাকে, তবে রাশিটিকে ঐ চলকসমূহের প্রতিসম (symmetric) রাশি বলা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 53,
+      "pdfPageEnd": 53,
+      "printedPageStart": 48,
+      "printedPageEnd": 48,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.10-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$a + b + c$ রাশিটি $a, b, c$ চলকের প্রতিসম রাশি। কারণ, $a, b, c$ চলক তিনটির যেকোনো দুটির স্থান বিনিময়ে রাশিটি অপরিবর্তিত থাকে। একইভাবে, $ab + bc + ca$ রাশিটি $a, b, c$ চলকের এবং $x^2 + y^2 + z^2 + xy + yz + zx$ রাশিটি $x, y, z$ চলকের প্রতিসম রাশি।",
+      "image": null,
+      "formulas": [
+        "a + b + c",
+        "a, b, c",
+        "a, b, c",
+        "ab + bc + ca",
+        "a, b, c",
+        "x^2 + y^2 + z^2 + xy + yz + zx",
+        "x, y, z"
+      ],
+      "pdfPageStart": 53,
+      "pdfPageEnd": 53,
+      "printedPageStart": 48,
+      "printedPageEnd": 48,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.10-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কিন্তু $2x^2 + 5xy + 6y^2$ রাশিটি $x$ ও $y$ চলকের প্রতিসম নয়, কারণ রাশিটিতে $x$ ও $y$ এর পরস্পর স্থান বিনিময়ে $2y^2 + 5xy + 6x^2$ রাশিতে পরিবর্তিত হয় যা পূর্বের রাশি থেকে ভিন্ন।",
+      "image": null,
+      "formulas": [
+        "2x^2 + 5xy + 6y^2",
+        "x",
+        "y",
+        "x",
+        "y",
+        "2y^2 + 5xy + 6x^2"
+      ],
+      "pdfPageStart": 53,
+      "pdfPageEnd": 53,
+      "printedPageStart": 48,
+      "printedPageEnd": 48,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.10-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**চক্রক্রমিক রাশি (Cyclic Expression):** তিনটি চলক সংবলিত কোনো রাশিতে প্রথম চলক দ্বিতীয় চলকের, দ্বিতীয় চলক তৃতীয় চলকের এবং তৃতীয় চলক প্রথম চলকের স্থলে বসালে রাশিটি যদি পরিবর্তিত না হয়, তবে রাশিটিকে ঐ তিন চলকের উল্লিখিত ক্রমে একটি চক্রক্রমিক রাশি বা চক্র প্রতিসম রাশি (cyclically symmetric expression) বলা হয়। চলকগুলোর স্থান পরিবর্তন নিচের চিত্রের মতো চক্রাকারে করা হয় বলেই এরূপ রাশিকে চক্র-ক্রমিক রাশি বলা হয়ে থাকে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 53,
+      "pdfPageEnd": 53,
+      "printedPageStart": 48,
+      "printedPageEnd": 48,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.10-p007",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: circular diagram with arrows and Bengali labels",
+      "image": "p54-page_12_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 54,
+      "pdfPageEnd": 54,
+      "printedPageStart": 49,
+      "printedPageEnd": 49,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.10-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$x^2 + y^2 + z^2 + xy + yz + zx$ রাশিটি $x, y, z$ চলকের একটি চক্রক্রমিক রাশি, কারণ এতে চক্রাকারে $x$ এর পরিবর্তে $y, y$ এর পরিবর্তে $z$ এবং $z$ এর পরিবর্তে $x$ বসালে রাশিটি একই থাকে। একইভাবে $x^2y + y^2z + z^2x$ রাশিটি $x, y, z$ চলকের একটি চক্রক্রমিক রাশি।",
+      "image": null,
+      "formulas": [
+        "x^2 + y^2 + z^2 + xy + yz + zx",
+        "x, y, z",
+        "x",
+        "y, y",
+        "z",
+        "z",
+        "x",
+        "x^2y + y^2z + z^2x",
+        "x, y, z"
+      ],
+      "pdfPageStart": 54,
+      "pdfPageEnd": 54,
+      "printedPageStart": 49,
+      "printedPageEnd": 49,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.10-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$x^2 - y^2 + z^2$ রাশিটি চক্রক্রমিক রাশি নয়, কারণ এতে $x$ এর স্থলে $y, y$ এর স্থলে $z$ এবং $z$ এর স্থলে $x$ বসালে রাশিটি $y^2 - z^2 + x^2$ রাশিতে পরিবর্তিত হয় যা পূর্বের রাশি থেকে ভিন্ন।",
+      "image": null,
+      "formulas": [
+        "x^2 - y^2 + z^2",
+        "x",
+        "y, y",
+        "z",
+        "z",
+        "x",
+        "y^2 - z^2 + x^2"
+      ],
+      "pdfPageStart": 54,
+      "pdfPageEnd": 54,
+      "printedPageStart": 49,
+      "printedPageEnd": 49,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.10-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তিনটি চলকের প্রত্যেক প্রতিসম রাশি চক্রক্রমিক। কিন্তু প্রত্যেক চক্র-ক্রমিক রাশি প্রতিসম নয়। যেমন, $x^2(y - z) + y^2(z - x) + z^2(x - y)$ রাশিটি চক্র-ক্রমিক, কিন্তু প্রতিসম নয়। কারণ, রাশিটিতে $x$ এবং $y$ স্থান বিনিময় করলে $y^2(x - z) + x^2(z - y) + z^2(y - x)$ রাশি পাওয়া যায় যা পূর্বের রাশিটি থেকে ভিন্ন।",
+      "image": null,
+      "formulas": [
+        "x^2(y - z) + y^2(z - x) + z^2(x - y)",
+        "x",
+        "y",
+        "y^2(x - z) + x^2(z - y) + z^2(y - x)"
+      ],
+      "pdfPageStart": 54,
+      "pdfPageEnd": 54,
+      "printedPageStart": 49,
+      "printedPageEnd": 49,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.10-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**দ্রষ্টব্য:** বর্ণনার সুবিধার্থে $x, y$ চলকের রাশিকে $F(x, y)$ আকারের এবং $x, y, z$ চলকের রাশিকে $F(x, y, z)$ আকারের প্রতীক দ্বারা সূচিত করা হয়।",
+      "image": null,
+      "formulas": [
+        "x, y",
+        "F(x, y)",
+        "x, y, z",
+        "F(x, y, z)"
+      ],
+      "pdfPageStart": 54,
+      "pdfPageEnd": 54,
+      "printedPageStart": 49,
+      "printedPageEnd": 49,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.10-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "> **কাজ:** দেখাও যে, $\\frac{x}{y} + \\frac{y}{z} + \\frac{z}{x}$ রাশিটি প্রতিসম নয় কিন্তু চক্রক্রমিক।",
+      "image": null,
+      "formulas": [
+        "\\frac{x}{y} + \\frac{y}{z} + \\frac{z}{x}"
+      ],
+      "pdfPageStart": 54,
+      "pdfPageEnd": 54,
+      "printedPageStart": 49,
+      "printedPageEnd": 49,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

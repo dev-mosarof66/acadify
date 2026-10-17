@@ -1,0 +1,123 @@
+{
+  "id": "higher-math-9-10-bn-c02-t2.6",
+  "key": "2.6",
+  "title": "সমতা সূত্র",
+  "chapter": 2,
+  "ordinal": 6,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c02-t2.6-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) যদি সকল $x$ এর জন্য $ax + b = px + q$ হয়, তবে $x = 0$ ও $x = 1$ বসিয়ে পাই, $b = q$ এবং $a + b = p + q$ যা থেকে দেখা যায় যে, $a = p, b = q$",
+      "image": null,
+      "formulas": [
+        "x",
+        "ax + b = px + q",
+        "x = 0",
+        "x = 1",
+        "b = q",
+        "a + b = p + q",
+        "a = p, b = q"
+      ],
+      "pdfPageStart": 47,
+      "pdfPageEnd": 47,
+      "printedPageStart": 42,
+      "printedPageEnd": 42,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.6-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) যদি সকল $x$ এর জন্য $ax^2 + bx + c = px^2 + qx + r$ হয়, তবে $x = 0, x = 1$ ও $x = -1$ বসিয়ে পাই, $c = r, a + b + c = p + q + r$ এবং $a - b + c = p - q + r$ যা থেকে দেখা যায় যে, $a = p, b = q, c = r$।",
+      "image": null,
+      "formulas": [
+        "x",
+        "ax^2 + bx + c = px^2 + qx + r",
+        "x = 0, x = 1",
+        "x = -1",
+        "c = r, a + b + c = p + q + r",
+        "a - b + c = p - q + r",
+        "a = p, b = q, c = r"
+      ],
+      "pdfPageStart": 47,
+      "pdfPageEnd": 47,
+      "printedPageStart": 42,
+      "printedPageEnd": 42,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.6-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) সাধারণভাবে দেখা যায় যে, যদি সকল $x$ এর জন্য $a_0x^n + a_1x^{n-1} + a_2x^{n-2} + \\dots + a_{n-1}x + a_n = p_0x^n + p_1x^{n-1} + p_2x^{n-2} + \\dots + p_{n-1}x + p_n$ হয়, তবে, $a_0 = p_0, a_1 = p_1, \\dots, a_{n-1} = p_{n-1}, a_n = p_n$",
+      "image": null,
+      "formulas": [
+        "x",
+        "a_0x^n + a_1x^{n-1} + a_2x^{n-2} + \\dots + a_{n-1}x + a_n = p_0x^n + p_1x^{n-1} + p_2x^{n-2} + \\dots + p_{n-1}x + p_n",
+        "a_0 = p_0, a_1 = p_1, \\dots, a_{n-1} = p_{n-1}, a_n = p_n"
+      ],
+      "pdfPageStart": 47,
+      "pdfPageEnd": 47,
+      "printedPageStart": 42,
+      "printedPageEnd": 42,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.6-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ, সমতা চিহ্নের উভয় পক্ষে $x$ এর একই যাতযুক্ত সহগদ্বয় পরস্পর সমান।",
+      "image": null,
+      "formulas": [
+        "x"
+      ],
+      "pdfPageStart": 47,
+      "pdfPageEnd": 47,
+      "printedPageStart": 42,
+      "printedPageEnd": 42,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c02-t2.6-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:** $x$ চলকের $n$ মাত্রার বহুপদীর বর্ণনায় সহগগুলোকে $a_0$ ($a$ সাব-জিরো), $a_1$ ($a$ সাব-ওয়ান) ইত্যাদি নেওয়া সুবিধাজনক।",
+      "image": null,
+      "formulas": [
+        "x",
+        "n",
+        "a_0",
+        "a",
+        "a_1",
+        "a"
+      ],
+      "pdfPageStart": 47,
+      "pdfPageEnd": 47,
+      "printedPageStart": 42,
+      "printedPageEnd": 42,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

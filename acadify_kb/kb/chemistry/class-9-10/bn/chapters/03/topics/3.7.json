@@ -1,0 +1,708 @@
+{
+  "id": "chemistry-9-10-bn-c03-t3.7",
+  "key": "3.7",
+  "title": "পরমাণুর শক্তিস্তরে ইলেকট্রন বিন্যাস",
+  "chapter": 3,
+  "ordinal": 7,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p001",
+      "kind": "text",
+      "section": "(Orbital Electronic Configuration of Atoms)",
+      "caption": null,
+      "body": "বোরের মডেলে যে শক্তিস্তরের কথা বলা হয়েছে তাকে প্রধান শক্তিস্তর বলা হয়। প্রতিটি প্রধান শক্তিস্তরের সর্বোচ্চ ইলেকট্রন ধারণ ক্ষমতা $2n^2$ যেখানে $n = 1, 2, 3, 4$ ইত্যাদি। অতএব এ সূত্রানুসারে:",
+      "image": null,
+      "formulas": [
+        "2n^2",
+        "n = 1, 2, 3, 4"
+      ],
+      "pdfPageStart": 50,
+      "pdfPageEnd": 50,
+      "printedPageStart": 45,
+      "printedPageEnd": 45,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p002",
+      "kind": "text",
+      "section": "(Orbital Electronic Configuration of Atoms)",
+      "caption": null,
+      "body": "K শক্তিস্তরের জন্য $n = 1$ অতএব\nK শক্তিস্তরে সর্বোচ্চ ইলেকট্রন থাকতে পারে $2n^2 = (2 \\times 1^2)$ টি $= 2$টি",
+      "image": null,
+      "formulas": [
+        "n = 1",
+        "2n^2 = (2 \\times 1^2)",
+        "= 2"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p003",
+      "kind": "text",
+      "section": "(Orbital Electronic Configuration of Atoms)",
+      "caption": null,
+      "body": "L শক্তিস্তরের জন্য $n = 2$ অতএব\nL শক্তিস্তরে সর্বোচ্চ ইলেকট্রন থাকতে পারে $2n^2 = (2 \\times 2^2)$ টি $= 8$টি",
+      "image": null,
+      "formulas": [
+        "n = 2",
+        "2n^2 = (2 \\times 2^2)",
+        "= 8"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p004",
+      "kind": "text",
+      "section": "(Orbital Electronic Configuration of Atoms)",
+      "caption": null,
+      "body": "M শক্তিস্তরের জন্য $n = 3$ অতএব\nM শক্তিস্তরে সর্বোচ্চ ইলেকট্রন থাকতে পারে $2n^2 = (2 \\times 3^2)$ টি $= 18$টি",
+      "image": null,
+      "formulas": [
+        "n = 3",
+        "2n^2 = (2 \\times 3^2)",
+        "= 18"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p005",
+      "kind": "text",
+      "section": "(Orbital Electronic Configuration of Atoms)",
+      "caption": null,
+      "body": "N শক্তিস্তরের জন্য $n = 4$ অতএব\nN শক্তিস্তরে সর্বোচ্চ ইলেকট্রন থাকতে পারে $2n^2 = (2 \\times 4^2)$ টি $= 32$টি",
+      "image": null,
+      "formulas": [
+        "n = 4",
+        "2n^2 = (2 \\times 4^2)",
+        "= 32"
+      ],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p006",
+      "kind": "table",
+      "section": "(Orbital Electronic Configuration of Atoms)",
+      "caption": "টেবিল ৩.০৭: মৌলের ইলেকট্রন বিন্যাস [H(1) থেকে Zn(30) পর্যন্ত]",
+      "body": "<table><tr><th>পারমাণবিক সংখ্যা</th><th>মৌল</th><th>K</th><th>L</th><th>M</th><th>N</th></tr>\n<tr><td>1</td><td>H</td><td>1</td><td></td><td></td><td></td></tr>\n<tr><td>2</td><td>He</td><td>2</td><td></td><td></td><td></td></tr>\n<tr><td>3</td><td>Li</td><td>2</td><td>1</td><td></td><td></td></tr>\n<tr><td>4</td><td>Be</td><td>2</td><td>2</td><td></td><td></td></tr>\n<tr><td>5</td><td>B</td><td>2</td><td>3</td><td></td><td></td></tr>\n<tr><td>6</td><td>C</td><td>2</td><td>4</td><td></td><td></td></tr>\n<tr><td>7</td><td>N</td><td>2</td><td>5</td><td></td><td></td></tr>\n<tr><td>8</td><td>O</td><td>2</td><td>6</td><td></td><td></td></tr>\n<tr><td>9</td><td>F</td><td>2</td><td>7</td><td></td><td></td></tr>\n<tr><td>10</td><td>Ne</td><td>2</td><td>8</td><td></td><td></td></tr>\n<tr><td>11</td><td>Na</td><td>2</td><td>8</td><td>1</td><td></td></tr>\n<tr><td>12</td><td>Mg</td><td>2</td><td>8</td><td>2</td><td></td></tr>\n<tr><td>13</td><td>Al</td><td>2</td><td>8</td><td>3</td><td></td></tr>\n<tr><td>14</td><td>Si</td><td>2</td><td>8</td><td>4</td><td></td></tr>\n<tr><td>15</td><td>P</td><td>2</td><td>8</td><td>5</td><td></td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p007",
+      "kind": "table",
+      "section": "(Orbital Electronic Configuration of Atoms)",
+      "caption": null,
+      "body": "<table><tr><th>পারমাণবিক সংখ্যা</th><th>মৌল</th><th>K</th><th>L</th><th>M</th><th>N</th></tr>\n<tr><td>16</td><td>S</td><td>2</td><td>8</td><td>6</td><td></td></tr>\n<tr><td>17</td><td>Cl</td><td>2</td><td>8</td><td>7</td><td></td></tr>\n<tr><td>18</td><td>Ar</td><td>2</td><td>8</td><td>8</td><td></td></tr>\n<tr><td>19</td><td>K</td><td>2</td><td>8</td><td>8</td><td>1</td></tr>\n<tr><td>20</td><td>Ca</td><td>2</td><td>8</td><td>8</td><td>2</td></tr>\n<tr><td>21</td><td>Sc</td><td>2</td><td>8</td><td>9</td><td>2</td></tr>\n<tr><td>22</td><td>Ti</td><td>2</td><td>8</td><td>10</td><td>2</td></tr>\n<tr><td>23</td><td>V</td><td>2</td><td>8</td><td>11</td><td>2</td></tr>\n<tr><td>24</td><td>Cr</td><td>2</td><td>8</td><td>13</td><td>1</td></tr>\n<tr><td>25</td><td>Mn</td><td>2</td><td>8</td><td>13</td><td>2</td></tr>\n<tr><td>26</td><td>Fe</td><td>2</td><td>8</td><td>14</td><td>2</td></tr>\n<tr><td>27</td><td>Co</td><td>2</td><td>8</td><td>15</td><td>2</td></tr>\n<tr><td>28</td><td>Ni</td><td>2</td><td>8</td><td>16</td><td>2</td></tr>\n<tr><td>29</td><td>Cu</td><td>2</td><td>8</td><td>18</td><td>1</td></tr>\n<tr><td>30</td><td>Zn</td><td>2</td><td>8</td><td>18</td><td>2</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p008",
+      "kind": "text",
+      "section": "(Orbital Electronic Configuration of Atoms)",
+      "caption": null,
+      "body": "হাইড্রোজেনের (H) পারমাণবিক সংখ্যা ১। ফলে এর ইলেকট্রন সংখ্যাও ১। তাই একটি ইলেকট্রন প্রথম শক্তিস্তর K-তে প্রবেশ করবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 51,
+      "pdfPageEnd": 51,
+      "printedPageStart": 46,
+      "printedPageEnd": 46,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p009",
+      "kind": "text",
+      "section": "(Orbital Electronic Configuration of Atoms)",
+      "caption": null,
+      "body": "হিলিয়ামের (He) পারমাণবিক সংখ্যা ২। অতএব এর ইলেকট্রন সংখ্যাও ২ এবং এই ইলেকট্রন দুটি প্রথম শক্তিস্তর K-তে প্রবেশ করবে। লিথিয়ামের (Li) পারমাণবিক সংখ্যা ৩। অতএব এর ইলেকট্রন সংখ্যাও ৩ এবং ইলেকট্রন তিনটির প্রথম ২টি শক্তিস্তর K-তে প্রবেশ করবে। যেহেতু K প্রধান শক্তিস্তরে দুটির বেশি ইলেকট্রন থাকতে পারে না তাই এর তৃতীয় ইলেকট্রনটি দ্বিতীয় শক্তিস্তর L এতে প্রবেশ করবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p010",
+      "kind": "text",
+      "section": "(Orbital Electronic Configuration of Atoms)",
+      "caption": null,
+      "body": "অনুরূপভাবে, সোডিয়ামের (Na) পারমাণবিক সংখ্যা ১১। তাই এর ইলেকট্রন সংখ্যাও ১১, এই ইলেকট্রনগুলো ২টি K শক্তিস্তরে, ৪টি L প্রধান শক্তিস্তরে এবং বাকি ১টি ইলেকট্রন M শক্তিস্তরে প্রবেশ করবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p011",
+      "kind": "text",
+      "section": "(Orbital Electronic Configuration of Atoms)",
+      "caption": null,
+      "body": "৩.০৭ নং তালিকায় উপস্থাপিত ইলেকট্রন বিন্যাস ভালাভাবে খেয়াল করলে দেখতে পাবে হাইড্রোজেন (H) থেকে আর্গন (Ar) পর্যন্ত ইলেকট্রন বিন্যাস উপরে যে নিয়ম বর্ণনা করা হয়েছে সেই নিয়ম অনুসারে হয়েছে। কিন্তু নিয়মটির ব্যতিক্রম লক্ষ্য করা যায় পট্যাশিয়াম (K) থেকে পরবর্তী মৌলগুলোতে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p012",
+      "kind": "text",
+      "section": "(Orbital Electronic Configuration of Atoms)",
+      "caption": null,
+      "body": "আমরা জানি তৃতীয় শক্তিস্তর (M) এর সর্বোচ্চ ইলেকট্রন ধারণা ক্ষমতা ১৮টি। কিন্তু পট্যাশিয়ামের ১৯তম ইলেকট্রন এবং ক্যালসিয়ামের (Ca) ১৯তম ও ২০তম ইলেকট্রন তৃতীয় শক্তিস্তর (M) কে অপূর্ণ রেখে চতুর্থ (N) শক্তিস্তরে প্রবেশ করেছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p013",
+      "kind": "text",
+      "section": "(Orbital Electronic Configuration of Atoms)",
+      "caption": null,
+      "body": "স্ক্যান্ডিয়ামের (Sc) ক্ষেত্রে ১৯তম ও ২০তম ইলেকট্রন দুটি চতুর্থ শক্তিস্তরে যাবার পর ২১তম ইলেকট্রনটি আবার তৃতীয় শক্তিস্তরে প্রবেশ করেছে। পারমাণবিক সংখ্যা ১৯ থেকে পরবর্তী মৌলগুলোতে আগে চতুর্থ প্রধান শক্তিস্তর N এ দুটি ইলেকট্রন প্রবেশ করার পর ইলেকট্রন তৃতীয় প্রধান শক্তিস্তর M এ প্রবেশ করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p014",
+      "kind": "text",
+      "section": "(Orbital Electronic Configuration of Atoms)",
+      "caption": null,
+      "body": "এরপরও Cr এর ইলেকট্রন বিন্যাসে বিশেষ ব্যতিক্রম লক্ষ্য করা যাচ্ছে। এই বিষয়টি বোঝার জন্য আমাদের উপশক্তিস্তরের ধারণা থাকতে হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p015",
+      "kind": "text",
+      "section": "৩.৭.১ উপশক্তিস্তরের ধারণা",
+      "caption": null,
+      "body": "আমরা দেখেছি প্রতিটি প্রধান শক্তিস্তরকে n দিয়ে চিহ্নিত করা হয়। এই শক্তিস্তরগুলো আবার কতগুলো উপশক্তিস্তরে বিভক্ত থাকে এবং এই উপশক্তিস্তরকে l দ্বারা চিহ্নিত করা হয়। l এর মান হয় ০ থেকে n -1 পর্যন্ত হয়। উপশক্তিস্তরগুলোকে অরবিটাল বলা হয়। এই উপশক্তিস্তর বা অরবিটালগুলোকে s, p, d, f ইত্যাদি নামে আখ্যায়িত করা হয়। বিভিন্ন উপশক্তিস্তরের জন্য সম্ভাব্য l এর মান নিচে দেখানো হলো-",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 52,
+      "printedPageStart": 47,
+      "printedPageEnd": 47,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p016",
+      "kind": "text",
+      "section": "৩.৭.১ উপশক্তিস্তরের ধারণা",
+      "caption": null,
+      "body": "n = 1 হলে l = 0 এবং অরবিটালের সংখ্যা একটি: 1s\nn = 2 হলে l = 0, 1 এ ক্ষেত্রে অরবিটালের সংখ্যা দুটি: 2s, 2p\nn = 3 হলে l = 0, 1, 2 অতএব এ ক্ষেত্রে অরবিটালের সংখ্যা তিনটি: 3s, 3p, 3d\nn = 4 হলে l = 0, 1, 2, 3 অর্থাৎ এ ক্ষেত্রে অরবিটালের সংখ্যা চারটি: 4s, 4p, 4d, 4f\nn = 5 হলে l = 0, 1, 2, 3, 4 অর্থাৎ এখানে অরবিটাল থাকার কথা পাঁচটি কিন্তু 4s, 4p, 4d, 4f এই প্রথম চারটি অরবিটালেই সবগুলো ইলেকট্রনের বিন্যাস করা সম্ভব বলে পরবর্তী অরবিটালের আর প্রয়োজন হয় না। $n = 6, 7$ এবং $8$ এর ক্ষেত্রেও এ নিয়মে ইলেকট্রন বিন্যাস ঘটে। প্রতিটি অরবিটালে ইলেকট্রন সংখ্যা হচ্ছে: $2(2l + 1)$।",
+      "image": null,
+      "formulas": [
+        "n = 6, 7",
+        "8",
+        "2(2l + 1)"
+      ],
+      "pdfPageStart": 52,
+      "pdfPageEnd": 53,
+      "printedPageStart": 47,
+      "printedPageEnd": 48,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p017",
+      "kind": "text",
+      "section": "৩.৭.১ উপশক্তিস্তরের ধারণা",
+      "caption": null,
+      "body": "আমরা এর মাঝে জেনে গেছি প্রতিটি পূর্ণ শক্তিস্তরে ইলেকট্রনের সংখ্যা হচ্ছে $2n^2$। এবার তোমরা দেখবে সবগুলো অরবিটালের ইলেকট্রনের সংখ্যা যোগ করে আমরা $2n^2$ সংখ্যক ইলেকট্রন পাই কি না নিচের তালিকায় সেটি দেখানো হলো।",
+      "image": null,
+      "formulas": [
+        "2n^2",
+        "2n^2"
+      ],
+      "pdfPageStart": 53,
+      "pdfPageEnd": 53,
+      "printedPageStart": 48,
+      "printedPageEnd": 48,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p018",
+      "kind": "table",
+      "section": "৩.৭.১ উপশক্তিস্তরের ধারণা",
+      "caption": "টেবিল ৩.০৮: শক্তিস্তরে ইলেকট্রন বিন্যাস (n = 1 থেকে 4 পর্যন্ত)",
+      "body": "<table><tr><th>শক্তিস্তর<br />n</th><th>শক্তিস্তর অনুযায়ী<br />উপশক্তিস্তর <em>l</em>-এর<br />মান</th><th><em>l</em> অনুযায়ী<br />অরবিটালের<br />নাম</th><th>অরবিটালের<br />প্রতীক</th><th>অরবিটালে মোট<br />ইলেকট্রন সংখ্যা<br />2(2<em>l</em> + 1)</th><th>শক্তিস্তরে মোট<br />ইলেকট্রন সংখ্যা<br />2n<sup>2</sup></th></tr>\n<tr><td>1</td><td>0</td><td>s</td><td>1s</td><td>2</td><td>2</td></tr>\n<tr><td rowspan=\"2\">2</td><td>0</td><td>s</td><td>2s</td><td>2</td><td rowspan=\"2\">2 + 6 = 8</td></tr>\n<tr><td>1</td><td>p</td><td>2p</td><td>6</td></tr>\n<tr><td rowspan=\"3\">3</td><td>0</td><td>s</td><td>3s</td><td>2</td><td rowspan=\"3\">2 + 6 + 10<br />= 18</td></tr>\n<tr><td>1</td><td>p</td><td>3p</td><td>6</td></tr>\n<tr><td>2</td><td>d</td><td>3d</td><td>10</td></tr>\n<tr><td rowspan=\"4\">4</td><td>0</td><td>s</td><td>4s</td><td>2</td><td rowspan=\"4\">2 + 6 + 10 +<br />14 = 32</td></tr>\n<tr><td>1</td><td>p</td><td>4p</td><td>6</td></tr>\n<tr><td>2</td><td>d</td><td>4d</td><td>10</td></tr>\n<tr><td>3</td><td>f</td><td>4f</td><td>14</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 53,
+      "pdfPageEnd": 53,
+      "printedPageStart": 48,
+      "printedPageEnd": 48,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p019",
+      "kind": "text",
+      "section": "৩.৭.২ পরমাণুতে ইলেকট্রন বিন্যাসের নীতি",
+      "caption": null,
+      "body": "পরমাণুতে ইলেকট্রন বিন্যাসের তিনটি নীতি আছে। এগুলো হলো : ১) পাওলির বর্জন নীতি, ২) আউফ-বাউ নীতি এবং ৩) হুন্ডস এর সূত্র। এই নীতিগুলোর আলোচনা তোমরা উচ্চ মাধ্যমিক শ্রেণির রসায়ন বই এ পাবে। এখানে এই নীতিগুলোর মূল ধারণা নিয়ে পরমাণুর ইলেকট্রন বিন্যাস সংক্ষেপে আলোচনা করা হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 53,
+      "pdfPageEnd": 53,
+      "printedPageStart": 48,
+      "printedPageEnd": 48,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p020",
+      "kind": "text",
+      "section": "৩.৭.২ পরমাণুতে ইলেকট্রন বিন্যাসের নীতি",
+      "caption": null,
+      "body": "পরমাণুতে ইলেকট্রন প্রথমে সর্বনিম্ন শক্তির অরবিটালে প্রবেশ করে এবং পরে ক্রমশয়ে উচ্চশক্তির অরবিটালে প্রবেশ করে। অর্থাৎ যে অরবিটালের শক্তি কম সেই অরবিটালে ইলেকট্রন আগে প্রবেশ করবে এবং যে অরবিটালের শক্তি বেশি সেই অরবিটালে ইলেকট্রন পরে প্রবেশ করবে। অরবিটালের মধ্যে কোনোটির শক্তি কম আর কোনোটির শক্তি বেশি তা অরবিটাল দুটির প্রধান শক্তিস্তরের মান ($n$) এবং উপশক্তিস্তরের মান ($l$) এর যোগফলের উপর নির্ভর করে। যে অরবিটালের ($n + l$) এর মান কম সেই অরবিটালের শক্তি কম এবং সেই অরবিটালেই ইলেকট্রন আগে প্রবেশ করবে। অপরদিকে ($n + l$) এর মান যে অরবিটালের বেশি তার শক্তিও বেশি এবং সেই অরবিটালেই ইলেকট্রন পরে প্রবেশ করবে।",
+      "image": null,
+      "formulas": [
+        "n",
+        "l",
+        "n + l",
+        "n + l"
+      ],
+      "pdfPageStart": 53,
+      "pdfPageEnd": 53,
+      "printedPageStart": 48,
+      "printedPageEnd": 48,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p021",
+      "kind": "text",
+      "section": "৩.৭.২ পরমাণুতে ইলেকট্রন বিন্যাসের নীতি",
+      "caption": null,
+      "body": "3d অরবিটালের জন্য $n = 3$ এবং $l = 2$ অতএব $n + l$ এর মান $3 + 2 = 5$ আবার 4s অরবিটালের জন্য $n = 4, l = 0$ অতএব $n + l$ এর মান $4 + 0 = 4$",
+      "image": null,
+      "formulas": [
+        "n = 3",
+        "l = 2",
+        "n + l",
+        "3 + 2 = 5",
+        "n = 4, l = 0",
+        "n + l",
+        "4 + 0 = 4"
+      ],
+      "pdfPageStart": 54,
+      "pdfPageEnd": 54,
+      "printedPageStart": 49,
+      "printedPageEnd": 49,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p022",
+      "kind": "text",
+      "section": "৩.৭.২ পরমাণুতে ইলেকট্রন বিন্যাসের নীতি",
+      "caption": null,
+      "body": "কাজেই 3d অরবিটালের চেয়ে 4s অরবিটাল কম শক্তিসম্পন্ন। তাই ইলেকট্রন প্রথমে 4s অরবিটালে এবং পরে 3d অরবিটালে প্রবেশ করবে। আবার, দুটি অরবিটালের $(n + l)$ এর মান যদি সমান হয় তাহলে যে অরবিটালটিতে $n$ এর মান কম সেই অরবিটালের শক্তি কম হবে এবং সেই অরবিটালে ইলেকট্রন আগে প্রবেশ করবে।",
+      "image": null,
+      "formulas": [
+        "(n + l)",
+        "n"
+      ],
+      "pdfPageStart": 54,
+      "pdfPageEnd": 54,
+      "printedPageStart": 49,
+      "printedPageEnd": 49,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p023",
+      "kind": "text",
+      "section": "৩.৭.২ পরমাণুতে ইলেকট্রন বিন্যাসের নীতি",
+      "caption": null,
+      "body": "যেমন- 3d ও 4p এর $n + l$ এর মান যথাক্রমে $3 + 2 = 5$ এবং $4 + 1 = 5$ কিন্তু যেহেতু 3d অরবিটালে $n$ এর মান কম, তাই এ অরবিটালের শক্তি কম এবং এ অরবিটালে ইলেকট্রন আগে প্রবেশ করবে। অপরদিকে 4p অরবিটালে $n$ এর মান বেশি হওয়ায় এর শক্তি 3d এর চেয়ে বেশি। তাই এ অরবিটালে ইলেকট্রন পরে প্রবেশ করবে।",
+      "image": null,
+      "formulas": [
+        "n + l",
+        "3 + 2 = 5",
+        "4 + 1 = 5",
+        "n",
+        "n"
+      ],
+      "pdfPageStart": 54,
+      "pdfPageEnd": 54,
+      "printedPageStart": 49,
+      "printedPageEnd": 49,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p024",
+      "kind": "text",
+      "section": "৩.৭.২ পরমাণুতে ইলেকট্রন বিন্যাসের নীতি",
+      "caption": null,
+      "body": "এ হিসাব অনুযায়ী পরমাণুর অরবিটালের ক্রমবর্ধমান শক্তি হবে এরকম :",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 54,
+      "pdfPageEnd": 54,
+      "printedPageStart": 49,
+      "printedPageEnd": 49,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p025",
+      "kind": "formula",
+      "section": "৩.৭.২ পরমাণুতে ইলেকট্রন বিন্যাসের নীতি",
+      "caption": null,
+      "body": "$$1s < 2s < 2p < 3s < 3p < 4s < 3d < 4p < 5s < 4d < 5p < 6s < 4f < 5d < 6p < 7s < 5f < 6d < 7p < 8s$$",
+      "image": null,
+      "formulas": [
+        "1s < 2s < 2p < 3s < 3p < 4s < 3d < 4p < 5s < 4d < 5p < 6s < 4f < 5d < 6p < 7s < 5f < 6d < 7p < 8s"
+      ],
+      "pdfPageStart": 54,
+      "pdfPageEnd": 54,
+      "printedPageStart": 49,
+      "printedPageEnd": 49,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p026",
+      "kind": "text",
+      "section": "৩.৭.২ পরমাণুতে ইলেকট্রন বিন্যাসের নীতি",
+      "caption": null,
+      "body": "উপসতরগুলোর শক্তির ক্রমগুলো মনে রাখার জন্য ৩.০৪ নং চিত্রে উপশাপিত ছকটির সাহায্য নেওয়া যায়:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 54,
+      "pdfPageEnd": 54,
+      "printedPageStart": 49,
+      "printedPageEnd": 49,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p027",
+      "kind": "figure",
+      "section": "৩.৭.২ পরমাণুতে ইলেকট্রন বিন্যাসের নীতি",
+      "caption": null,
+      "body": "drawing: orbital energy level diagram",
+      "image": "p54-page_15_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 54,
+      "pdfPageEnd": 54,
+      "printedPageStart": 49,
+      "printedPageEnd": 49,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p028",
+      "kind": "figure",
+      "section": "৩.৭.২ পরমাণুতে ইলেকট্রন বিন্যাসের নীতি",
+      "caption": null,
+      "body": "চিত্র ৩.০৪: অরবিটালের শক্তিক্রম",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 54,
+      "pdfPageEnd": 54,
+      "printedPageStart": 49,
+      "printedPageEnd": 49,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p029",
+      "kind": "text",
+      "section": "৩.৭.২ পরমাণুতে ইলেকট্রন বিন্যাসের নীতি",
+      "caption": null,
+      "body": "আমরা দেখেছি $s$ উপশক্তিস্তরে সর্বোচ্চ ২টি ইলেকট্রন, $p$ উপশক্তিস্তরে সর্বোচ্চ ৬টি ইলেকট্রন, $d$ উপশক্তিস্তরে সর্বোচ্চ ১০টি ইলেকট্রন এবং $f$ উপশক্তিস্তরে সর্বোচ্চ ১৪টি ইলেকট্রন থাকতে পারে।",
+      "image": null,
+      "formulas": [
+        "s",
+        "p",
+        "d",
+        "f"
+      ],
+      "pdfPageStart": 54,
+      "pdfPageEnd": 54,
+      "printedPageStart": 49,
+      "printedPageEnd": 49,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p030",
+      "kind": "text",
+      "section": "৩.৭.২ পরমাণুতে ইলেকট্রন বিন্যাসের নীতি",
+      "caption": null,
+      "body": "এই নীতি অনুসারে আমরা নিম্নের মৌলগুলোর ইলেকট্রন বিন্যাস বিশ্লেষণ করতে পারব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 54,
+      "pdfPageEnd": 54,
+      "printedPageStart": 49,
+      "printedPageEnd": 49,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p031",
+      "kind": "text",
+      "section": "৩.৭.২ পরমাণুতে ইলেকট্রন বিন্যাসের নীতি",
+      "caption": null,
+      "body": "$$K(19) \\rightarrow 1s^2 2s^2 2p^6 3s^2 3p^6 4s^1$$\n$$Ca(20) \\rightarrow 1s^2 2s^2 2p^6 3s^2 3p^6 4s^2$$\n$$Sc(21) \\rightarrow 1s^2 2s^2 2p^6 3s^2 3p^6 3d^1 4s^2$$\n$$Ti(22) \\rightarrow 1s^2 2s^2 2p^6 3s^2 3p^6 3d^2 4s^2$$",
+      "image": null,
+      "formulas": [
+        "K(19) \\rightarrow 1s^2 2s^2 2p^6 3s^2 3p^6 4s^1",
+        "Ca(20) \\rightarrow 1s^2 2s^2 2p^6 3s^2 3p^6 4s^2",
+        "Sc(21) \\rightarrow 1s^2 2s^2 2p^6 3s^2 3p^6 3d^1 4s^2",
+        "Ti(22) \\rightarrow 1s^2 2s^2 2p^6 3s^2 3p^6 3d^2 4s^2"
+      ],
+      "pdfPageStart": 54,
+      "pdfPageEnd": 54,
+      "printedPageStart": 49,
+      "printedPageEnd": 49,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p032",
+      "kind": "text",
+      "section": "৩.৭.২ পরমাণুতে ইলেকট্রন বিন্যাসের নীতি",
+      "caption": null,
+      "body": "যেহেতু 4s অরবিটালের শক্তি 3d অরবিটালের শক্তির চেয়ে কম, তাই পটাসিয়ামের সর্বশেষ 19তম ইলেকট্রনটি 3d অরবিটালে প্রবেশ না করে 4s অরবিটালে প্রবেশ করে। আবার, স্ক্যান্ডিয়ামের ক্ষেত্রে ১৯তম ও ২০তম ইলেকট্রন দুটি 4s অরবিটাল পূর্ণ করে ২১তম ইলেকট্রনটি পরবর্তী উচ্চ শক্তি সম্ভাবন (3d) অরবিটালে প্রবেশ করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 54,
+      "pdfPageEnd": 55,
+      "printedPageStart": 49,
+      "printedPageEnd": 50,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p033",
+      "kind": "text",
+      "section": "৩.৭.২ পরমাণুতে ইলেকট্রন বিন্যাসের নীতি",
+      "caption": null,
+      "body": "বিশেষ করে মনে রাখতে হবে যে যখন ইলেকট্রন বিন্যাস লিখবে তখন একই প্রধান শক্তিস্তরের সকল উপশক্তিস্তর পাশাপাশি লিখবে। তা না হলে ইলেকট্রনের বিন্যাস লেখার সময় ভুল হয়ে যেতে পারে। যেমন Fe(26) এর জন্য:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 55,
+      "pdfPageEnd": 55,
+      "printedPageStart": 50,
+      "printedPageEnd": 50,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p034",
+      "kind": "formula",
+      "section": "৩.৭.২ পরমাণুতে ইলেকট্রন বিন্যাসের নীতি",
+      "caption": null,
+      "body": "$$n = 1 \\qquad n = 2 \\qquad n = 3 \\qquad n = 4$$",
+      "image": null,
+      "formulas": [
+        "n = 1 \\qquad n = 2 \\qquad n = 3 \\qquad n = 4"
+      ],
+      "pdfPageStart": 55,
+      "pdfPageEnd": 55,
+      "printedPageStart": 50,
+      "printedPageEnd": 50,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p035",
+      "kind": "table",
+      "section": "৩.৭.২ পরমাণুতে ইলেকট্রন বিন্যাসের নীতি",
+      "caption": null,
+      "body": "<table><tr><td>Fe(26)→</td><td>1s<sup>2</sup></td><td>2s<sup>2</sup> 2p<sup>6</sup></td><td>3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>6</sup></td><td>4s<sup>2</sup></td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 55,
+      "pdfPageEnd": 55,
+      "printedPageStart": 50,
+      "printedPageEnd": 50,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p036",
+      "kind": "formula",
+      "section": "৩.৭.২ পরমাণুতে ইলেকট্রন বিন্যাসের নীতি",
+      "caption": null,
+      "body": "$$Fe(26) \\rightarrow 1s^2 2s^2 2p^6 3s^2 3p^6 3d^6 4s^2$$",
+      "image": null,
+      "formulas": [
+        "Fe(26) \\rightarrow 1s^2 2s^2 2p^6 3s^2 3p^6 3d^6 4s^2"
+      ],
+      "pdfPageStart": 55,
+      "pdfPageEnd": 55,
+      "printedPageStart": 50,
+      "printedPageEnd": 50,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p037",
+      "kind": "text",
+      "section": "৩.৭.২ পরমাণুতে ইলেকট্রন বিন্যাসের নীতি",
+      "caption": null,
+      "body": "যদিও এক্ষেত্রে 4s অরবিটালে ইলেকট্রন 3d অরবিটালের আগে প্রবেশ করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 55,
+      "pdfPageEnd": 55,
+      "printedPageStart": 50,
+      "printedPageEnd": 50,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p038",
+      "kind": "text",
+      "section": "৩.৭.৩ ইলেকট্রন বিন্যাসের সাধারণ নিয়মের কিছু ব্যতিক্রম",
+      "caption": null,
+      "body": "সাধারণভাবে দেখা যায় যে, একই উপশক্তিস্তর p ও d এর অরবিটালগুলো অর্ধেক পূর্ণ (p<sup>3</sup>, d<sup>5</sup>) বা সম্পূর্ণরূপে পূর্ণ (p<sup>6</sup>, d<sup>10</sup>) হলে সে ইলেকট্রন বিন্যাস সুষ্ঠিত হয়। তাই Cr(24) এর ইলেকট্রন বিন্যাস স্বাভাবিকভাবে হওয়ার কথা: $Cr(24) \\rightarrow 1s^2 2s^2 2p^6 3s^2 3p^6 3d^4 4s^2$ কিন্তু 3d<sup>5</sup> অরবিটাল সুষ্ঠিত অর্ধপূর্ণ হওয়ার আকাঙ্ক্ষায় 4s অরবিটাল হতে একটি ইলেকট্রন 3d অরবিটালে আসে। ফলে ক্রোমিয়ামের ইলেকট্রন বিন্যাস হয় এরকম: $Cr(24) \\rightarrow 1s^2 2s^2 2p^6 3s^2 3p^6 3d^5 4s^1$",
+      "image": null,
+      "formulas": [
+        "Cr(24) \\rightarrow 1s^2 2s^2 2p^6 3s^2 3p^6 3d^4 4s^2",
+        "Cr(24) \\rightarrow 1s^2 2s^2 2p^6 3s^2 3p^6 3d^5 4s^1"
+      ],
+      "pdfPageStart": 55,
+      "pdfPageEnd": 55,
+      "printedPageStart": 50,
+      "printedPageEnd": 50,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.7-p039",
+      "kind": "activity",
+      "section": "একক কাজ",
+      "caption": null,
+      "body": "নিজে করো: Cu(29) এর ইলেকট্রন বিন্যাস স্বাভাবিকভাবে হওয়ার কথা: $Cu(29) \\rightarrow 1s^2 2s^2 2p^6 3s^2 3p^6 3d^9 4s^2$ কিন্তু কপারের ইলেকট্রন বিন্যাস হয় এরকম: $Cu(29) \\rightarrow 1s^2 2s^2 2p^6 3s^2 3p^6 3d^{10} 4s^1$, কারণটি ব্যাখ্যা করো।",
+      "image": null,
+      "formulas": [
+        "Cu(29) \\rightarrow 1s^2 2s^2 2p^6 3s^2 3p^6 3d^9 4s^2",
+        "Cu(29) \\rightarrow 1s^2 2s^2 2p^6 3s^2 3p^6 3d^{10} 4s^1"
+      ],
+      "pdfPageStart": 55,
+      "pdfPageEnd": 55,
+      "printedPageStart": 50,
+      "printedPageEnd": 50,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

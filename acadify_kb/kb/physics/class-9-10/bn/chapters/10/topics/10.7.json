@@ -1,0 +1,216 @@
+{
+  "id": "physics-9-10-bn-c10-t10.7",
+  "key": "10.7",
+  "title": "ধারক (Capacitor)",
+  "chapter": 10,
+  "ordinal": 7,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c10-t10.7-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা জানি ধাতু বা পরিবাহীতে চার্জ বা আধান দেওয়া হলে তা চার্জিত বা আহিত হয় এবং এটি সমবিভব ( Equipotential ) প্রাপ্ত হয়। আবার একটি ধাতুর আশপাশে অন্য চার্জিত বস্তু অনলে ধাতু বা পরিবাহী বস্তুটিতে আবিস্টি চার্জ তৈরি হয়। পরিবাহী দিয়ে তৈরি একটি বস্তুর বিভব, তাই এর আশপাশে অবস্থিত অন্য বস্তুর উপরও নির্ভর করে। কোনো পদার্থে তাপ দেওয়া হলে তার তাপমাত্রা কত বাড়বে সেটা পদার্থের তাপ ধারণ ক্ষমতার ওপর নির্ভর করে। তাপ ধারণ ক্ষমতা বেশি হলে অনেক তাপ দেওয়া হলেও তাপমাত্রা অল্প একটু বাড়ে, কম হলে অল্প তাপ দেওয়া হলেই অনেকখানি তাপমাত্রা বেড়ে যায়। ঠিক সে রকম পরিবাহী দিয়ে তৈরী কোনো বস্তু ব্যবস্থায় (System Of Conductors) চার্জ দেওয়া হলে তার বিভব কতটুকু বাড়বে সেটা এই ব্যবস্থার একটি বৈশিষ্ট্যের ওপর নির্ভর করে। এই বৈশিষ্ট্যকে আমরা ঐ পরিবাহী ব্যবস্থার ধারকত্ব বলা। ঐ পরিবাহী ব্যবস্থাকে ধারক বা Capacitor বলে। ধারকত্বের একক ফ্যারাড (F)। কোন ধারকের ধারকত্ব বেশি হলে অনেক চার্জ দেওয়া হলেও তার বিভব বাড়বে অল্প একটু, আবার ধারকত্ব কম হলে অল্প চার্জ দিলেই বিভব অনেক বেড়ে যায়। উদাহরণস্বরূপ একটি গোলাকার ধারকের ধারকত্ব $C$ হলে সেখানে যদি $Q$ চার্জ দেওয়া হয় তাহলে বিভব $V$ হবে",
+      "image": null,
+      "formulas": [
+        "C",
+        "Q",
+        "V"
+      ],
+      "pdfPageStart": 294,
+      "pdfPageEnd": 294,
+      "printedPageStart": 289,
+      "printedPageEnd": 289,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.7-p002",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$V = \\frac{Q}{C}$$",
+      "image": null,
+      "formulas": [
+        "V = \\frac{Q}{C}"
+      ],
+      "pdfPageStart": 294,
+      "pdfPageEnd": 294,
+      "printedPageStart": 289,
+      "printedPageEnd": 289,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.7-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যেখানে $r$ ব্যাসার্ধের ধাতব গোলকের জন্য $C$ হচ্ছে $C = \\frac{r}{k}$",
+      "image": null,
+      "formulas": [
+        "r",
+        "C",
+        "C = \\frac{r}{k}"
+      ],
+      "pdfPageStart": 294,
+      "pdfPageEnd": 294,
+      "printedPageStart": 289,
+      "printedPageEnd": 289,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.7-p004",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: parallel plate capacitor connected to a battery",
+      "image": "p295-page_21_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 295,
+      "pdfPageEnd": 295,
+      "printedPageStart": 290,
+      "printedPageEnd": 290,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.7-p005",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "**চিত্র ১০.১৫: সমান্তরাল ধাতব প্লেট দিয়ে তৈরি ক্যাপাসিটর।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 295,
+      "pdfPageEnd": 295,
+      "printedPageStart": 290,
+      "printedPageEnd": 290,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.7-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তবে সবচেয়ে পরিচিত সহজ এবং কার্যকর ধারক তৈরি করা হয় দুটো ধাতব পাত পাশাপাশি রেখে (চিত্র ১০.১৫)। ধাতব পাতের একটিতে যদি ধনাত্মক, অন্যটিতে ঋণাত্মক চার্জ রাখা হয়, তাহলে দুটি পাতের মাঝখানে তড়িৎ ক্ষেত্র তৈরি হয় এবং সেই তড়িৎ ক্ষেত্রে শক্তি সঞ্চিত থাকে। একটা ধারকের ধারকত্ব যদি $C$ এবং ভোল্টেজ $V$ হয় তাহলে তার ভেতরে যে শক্তি (Energy) জমা থাকে সেটি হচ্ছে",
+      "image": null,
+      "formulas": [
+        "C",
+        "V"
+      ],
+      "pdfPageStart": 295,
+      "pdfPageEnd": 295,
+      "printedPageStart": 290,
+      "printedPageEnd": 290,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.7-p007",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$শক্তি = \\frac{1}{2} CV^2$$",
+      "image": null,
+      "formulas": [
+        "শক্তি = \\frac{1}{2} CV^2"
+      ],
+      "pdfPageStart": 295,
+      "pdfPageEnd": 295,
+      "printedPageStart": 290,
+      "printedPageEnd": 290,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.7-p008",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** একটা 20 $\\mu$F ধারকে 10 V বৈদ্যুতিক বিভব দেওয়া হয়, তাহলে সেখানে কী পরিমাণ শক্তি সঞ্চিত থাকবে?",
+      "image": null,
+      "formulas": [
+        "\\mu"
+      ],
+      "pdfPageStart": 295,
+      "pdfPageEnd": 295,
+      "printedPageStart": 290,
+      "printedPageEnd": 290,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.7-p009",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** শক্তি $= \\frac{1}{2} CV^2$",
+      "image": null,
+      "formulas": [
+        "= \\frac{1}{2} CV^2"
+      ],
+      "pdfPageStart": 295,
+      "pdfPageEnd": 295,
+      "printedPageStart": 290,
+      "printedPageEnd": 290,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.7-p010",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$= \\frac{1}{2} \\times 20 \\times 10^{-6} \\times 10^2  J$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{1}{2} \\times 20 \\times 10^{-6} \\times 10^2  J"
+      ],
+      "pdfPageStart": 295,
+      "pdfPageEnd": 295,
+      "printedPageStart": 290,
+      "printedPageEnd": 290,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c10-t10.7-p011",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$= 10^{-3}  J = 1  mJ$$",
+      "image": null,
+      "formulas": [
+        "= 10^{-3}  J = 1  mJ"
+      ],
+      "pdfPageStart": 295,
+      "pdfPageEnd": 295,
+      "printedPageStart": 290,
+      "printedPageEnd": 290,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

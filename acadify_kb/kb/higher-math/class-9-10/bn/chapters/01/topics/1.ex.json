@@ -1,0 +1,1606 @@
+{
+  "id": "higher-math-9-10-bn-c01-t1.ex",
+  "key": "1.ex",
+  "title": "অনুশীলনী ১.১",
+  "chapter": 1,
+  "ordinal": 26,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p001",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১. *(i)* কোন সেটের সদস্য সংখ্যা $2n$ হলে, এর উপসেটের সংখ্যা হবে $4^n$।\n    *(ii)* সকল মূলদ সংখ্যার সেট $Q = \\left\\{ \\frac{p}{q} : p, q \\in Z \\right\\}$।\n    *(iii)* $a, b \\in R; (a, b) = \\{x : x \\in R  এবং  a < x < b\\}$।",
+      "image": null,
+      "formulas": [
+        "2n",
+        "4^n",
+        "Q = \\left\\{ \\frac{p}{q} : p, q \\in Z \\right\\}",
+        "a, b \\in R; (a, b) = \\{x : x \\in R  এবং  a < x < b\\}"
+      ],
+      "pdfPageStart": 24,
+      "pdfPageEnd": 24,
+      "printedPageStart": 19,
+      "printedPageEnd": 19,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p002",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "উপরের উক্তিগুলোর আলোকে নিচের কোনটি সঠিক?\n    ক) $i$ ও $ii$                      খ) $ii$ ও $iii$                      গ) $i$ ও $iii$                      ঘ) $i, ii$ ও $iii$",
+      "image": null,
+      "formulas": [
+        "i",
+        "ii",
+        "ii",
+        "iii",
+        "i",
+        "iii",
+        "i, ii",
+        "iii"
+      ],
+      "pdfPageStart": 24,
+      "pdfPageEnd": 24,
+      "printedPageStart": 19,
+      "printedPageEnd": 19,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p003",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "প্রত্যেক $n \\in N$ এর জন্য $A_n = \\{n, 2n, 3n, \\dots \\}$ হলে (২ - ৪) নং প্রশ্নের উত্তর দাও:",
+      "image": null,
+      "formulas": [
+        "n \\in N",
+        "A_n = \\{n, 2n, 3n, \\dots \\}"
+      ],
+      "pdfPageStart": 24,
+      "pdfPageEnd": 24,
+      "printedPageStart": 19,
+      "printedPageEnd": 19,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p004",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "২. $A_1 \\cap A_2$ এর সমান নিচের কোনটি?\n    ক) $A_1$                      খ) $A_2$                      গ) $A_3$                      ঘ) $A_4$",
+      "image": null,
+      "formulas": [
+        "A_1 \\cap A_2",
+        "A_1",
+        "A_2",
+        "A_3",
+        "A_4"
+      ],
+      "pdfPageStart": 24,
+      "pdfPageEnd": 24,
+      "printedPageStart": 19,
+      "printedPageEnd": 19,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p005",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৩. নিচের কোনটি $A_3 \\cap A_6$ এর সমান?\n    ক) $A_2$                      খ) $A_3$                      গ) $A_4$                      ঘ) $A_6$",
+      "image": null,
+      "formulas": [
+        "A_3 \\cap A_6",
+        "A_2",
+        "A_3",
+        "A_4",
+        "A_6"
+      ],
+      "pdfPageStart": 24,
+      "pdfPageEnd": 24,
+      "printedPageStart": 19,
+      "printedPageEnd": 19,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p006",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৪. $A_2 \\cap A_3$ এর পরিবর্তে নিচের কোনটি লেখা যায়?\n    ক) $A_3$                      খ) $A_4$                      গ) $A_5$                      ঘ) $A_6$",
+      "image": null,
+      "formulas": [
+        "A_2 \\cap A_3",
+        "A_3",
+        "A_4",
+        "A_5",
+        "A_6"
+      ],
+      "pdfPageStart": 24,
+      "pdfPageEnd": 24,
+      "printedPageStart": 19,
+      "printedPageEnd": 19,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p007",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৫. দেওয়া আছে $U = \\{x : 1 \\le x \\le 20, x \\in Z\\}$, $A = \\{x : x  বিজোড় সংখ্যা\\}$ এবং $B = \\{x : x  মৌলিক সংখ্যা\\}$। নিম্নের সেটগুলো তালিকা পদ্ধতিতে লিপিবদ্ধ করো:\n    ক) $A$                      খ) $B$\n    গ) $C = \\{x : x \\in A  এবং  x \\in B\\}$                      ঘ) $D = \\{x : x \\in A  অথবা  x \\in B\\}$",
+      "image": null,
+      "formulas": [
+        "U = \\{x : 1 \\le x \\le 20, x \\in Z\\}",
+        "A = \\{x : x  বিজোড় সংখ্যা\\}",
+        "B = \\{x : x  মৌলিক সংখ্যা\\}",
+        "A",
+        "B",
+        "C = \\{x : x \\in A  এবং  x \\in B\\}",
+        "D = \\{x : x \\in A  অথবা  x \\in B\\}"
+      ],
+      "pdfPageStart": 24,
+      "pdfPageEnd": 24,
+      "printedPageStart": 19,
+      "printedPageEnd": 19,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p008",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৬. ভেনচিয়ে $A$ ও $B$ সেটের উপাদানগুলোর সংখ্যা দেখানো হয়েছে। যদি $n(A) = n(B)$ হয়, তবে নির্ণয় করো ক) $x$ এর মান খ) $n(A \\cup B)$ গ) $n(B \\setminus A)$।",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "n(A) = n(B)",
+        "x",
+        "n(A \\cup B)",
+        "n(B \\setminus A)"
+      ],
+      "pdfPageStart": 24,
+      "pdfPageEnd": 24,
+      "printedPageStart": 19,
+      "printedPageEnd": 19,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p009",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: Venn diagram showing sets A and B within universe U",
+      "image": "p24-page_19_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 24,
+      "pdfPageEnd": 24,
+      "printedPageStart": 19,
+      "printedPageEnd": 19,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p010",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৭. যদি $U = \\{x : x  ধনাত্মক পূর্ণসংখ্যা\\}$, $A = \\{x : x \\ge 5\\} \\subset U$ এবং $B = \\{x : 5x < 12\\} \\subset U$ তবে $n(A \\cap B)$ এবং $n(A' \\cup B)$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "U = \\{x : x  ধনাত্মক পূর্ণসংখ্যা\\}",
+        "A = \\{x : x \\ge 5\\} \\subset U",
+        "B = \\{x : 5x < 12\\} \\subset U",
+        "n(A \\cap B)",
+        "n(A' \\cup B)"
+      ],
+      "pdfPageStart": 24,
+      "pdfPageEnd": 24,
+      "printedPageStart": 19,
+      "printedPageEnd": 19,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p011",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৮. যদি $U = \\{x : x  জোড় পূর্ণসংখ্যা\\}$, $A = \\{x : 3x \\ge 25\\} \\subset U$ এবং $B = \\{x : 5x < 12\\} \\subset U$ হয়, তাহলে $n(A \\cap B)$ এবং $n(A' \\cap B')$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "U = \\{x : x  জোড় পূর্ণসংখ্যা\\}",
+        "A = \\{x : 3x \\ge 25\\} \\subset U",
+        "B = \\{x : 5x < 12\\} \\subset U",
+        "n(A \\cap B)",
+        "n(A' \\cap B')"
+      ],
+      "pdfPageStart": 24,
+      "pdfPageEnd": 24,
+      "printedPageStart": 19,
+      "printedPageEnd": 19,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p012",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৯. দেখাও যে, ক) $A \\setminus A = \\varnothing$ খ) $A \\setminus (A \\setminus A) = A$।",
+      "image": null,
+      "formulas": [
+        "A \\setminus A = \\varnothing",
+        "A \\setminus (A \\setminus A) = A"
+      ],
+      "pdfPageStart": 25,
+      "pdfPageEnd": 25,
+      "printedPageStart": 20,
+      "printedPageEnd": 20,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p013",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১০. দেখাও যে, $A \\times (B \\cup C) = (A \\times B) \\cup (A \\times C)$।",
+      "image": null,
+      "formulas": [
+        "A \\times (B \\cup C) = (A \\times B) \\cup (A \\times C)"
+      ],
+      "pdfPageStart": 25,
+      "pdfPageEnd": 25,
+      "printedPageStart": 20,
+      "printedPageEnd": 20,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p014",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১১. যদি $A \\subset B$ এবং $C \\subset D$ হয়, তবে দেখাও যে, $(A \\times C) \\subset (B \\times D)$।",
+      "image": null,
+      "formulas": [
+        "A \\subset B",
+        "C \\subset D",
+        "(A \\times C) \\subset (B \\times D)"
+      ],
+      "pdfPageStart": 25,
+      "pdfPageEnd": 25,
+      "printedPageStart": 20,
+      "printedPageEnd": 20,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p015",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১২. দেখাও যে, $A = \\{1, 2, 3, \\dots, n\\}$ এবং $B = \\{1, 2, 2^2, \\dots, 2^{n-1}\\}$ সেট দুটি সমতুল।",
+      "image": null,
+      "formulas": [
+        "A = \\{1, 2, 3, \\dots, n\\}",
+        "B = \\{1, 2, 2^2, \\dots, 2^{n-1}\\}"
+      ],
+      "pdfPageStart": 25,
+      "pdfPageEnd": 25,
+      "printedPageStart": 20,
+      "printedPageEnd": 20,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p016",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১৩. দেখাও যে, স্বাভাবিক সংখ্যাসমূহের বর্গের সেট $\\{1, 4, 9, 16, 25, 36, \\dots\\}$ একটি অনন্ত সেট।",
+      "image": null,
+      "formulas": [
+        "\\{1, 4, 9, 16, 25, 36, \\dots\\}"
+      ],
+      "pdfPageStart": 25,
+      "pdfPageEnd": 25,
+      "printedPageStart": 20,
+      "printedPageEnd": 20,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p017",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১৪. প্রমাণ করো যে, $n(A) = p, n(B) = q$ এবং $A \\cap B = \\varnothing$ হলে, $n(A \\cup B) = p + q$।",
+      "image": null,
+      "formulas": [
+        "n(A) = p, n(B) = q",
+        "A \\cap B = \\varnothing",
+        "n(A \\cup B) = p + q"
+      ],
+      "pdfPageStart": 25,
+      "pdfPageEnd": 25,
+      "printedPageStart": 20,
+      "printedPageEnd": 20,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p018",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১৫. প্রমাণ করো যে, $A, B, C$ সান্ত সেট হলে, $n(A \\cup B \\cup C) = n(A) + n(B) + n(C) - n(A \\cap B) - n(B \\cap C) - n(C \\cap A) + n(A \\cap B \\cap C)$।",
+      "image": null,
+      "formulas": [
+        "A, B, C",
+        "n(A \\cup B \\cup C) = n(A) + n(B) + n(C) - n(A \\cap B) - n(B \\cap C) - n(C \\cap A) + n(A \\cap B \\cap C)"
+      ],
+      "pdfPageStart": 25,
+      "pdfPageEnd": 25,
+      "printedPageStart": 20,
+      "printedPageEnd": 20,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p019",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১৬. $A = \\{a, b, x\\}$ এবং $B = \\{c, y\\}$ সার্বিক সেট $U = \\{a, b, c, x, y, z\\}$ এর উপসেট হলে,",
+      "image": null,
+      "formulas": [
+        "A = \\{a, b, x\\}",
+        "B = \\{c, y\\}",
+        "U = \\{a, b, c, x, y, z\\}"
+      ],
+      "pdfPageStart": 25,
+      "pdfPageEnd": 25,
+      "printedPageStart": 20,
+      "printedPageEnd": 20,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p020",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "ক) যাচাই করো যে, $(i) A \\subset B'$ $(ii) A \\cup B' = B'$ $(iii) A' \\cap B = B$।",
+      "image": null,
+      "formulas": [
+        "(i) A \\subset B'",
+        "(ii) A \\cup B' = B'",
+        "(iii) A' \\cap B = B"
+      ],
+      "pdfPageStart": 25,
+      "pdfPageEnd": 25,
+      "printedPageStart": 20,
+      "printedPageEnd": 20,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p021",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "খ) নির্ণয় করো $(A \\cap B) \\cup (A \\cap B')$।",
+      "image": null,
+      "formulas": [
+        "(A \\cap B) \\cup (A \\cap B')"
+      ],
+      "pdfPageStart": 25,
+      "pdfPageEnd": 25,
+      "printedPageStart": 20,
+      "printedPageEnd": 20,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p022",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১৭. কোনো শ্রেণির ৩০জন শিক্ষার্থীর মধ্যে ১৯জন অর্থনীতি, ১৭জন ভূগোল, ১১জন পৌরনীতি, ১২জন অর্থনীতি ও ভূগোল, ৪জন পৌরনীতি ও ভূগোল, ৭জন অর্থনীতি ও পৌরনীতি এবং ৩জন তিনটি বিষয়ই নিয়েছে। কতজন শিক্ষার্থী তিনটি বিষয়ের কোনটিই নেয়নি?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 25,
+      "pdfPageEnd": 25,
+      "printedPageStart": 20,
+      "printedPageEnd": 20,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p023",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১৮. নিচের ভেনচিট্রে সংশ্লিষ্ট সেটের উপাদান সংখ্যা দেখানো হয়েছে, যেখানে সার্বিক সেট $U = A \\cup B \\cup C$।",
+      "image": null,
+      "formulas": [
+        "U = A \\cup B \\cup C"
+      ],
+      "pdfPageStart": 25,
+      "pdfPageEnd": 25,
+      "printedPageStart": 20,
+      "printedPageEnd": 20,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p024",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: Venn diagram showing sets A, B, and C within a universal set U, with regions labeled 8, x, 6, 4, y",
+      "image": "p25-page_20_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 25,
+      "pdfPageEnd": 25,
+      "printedPageStart": 20,
+      "printedPageEnd": 20,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p025",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "ক) যদি $n(A \\cap B) = n(B \\cap C)$ হয়, তবে $x$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "n(A \\cap B) = n(B \\cap C)",
+        "x"
+      ],
+      "pdfPageStart": 25,
+      "pdfPageEnd": 25,
+      "printedPageStart": 20,
+      "printedPageEnd": 20,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p026",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "খ) যদি $n(B \\cap C') = n(A' \\cap C)$ হয়, তবে $y$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "n(B \\cap C') = n(A' \\cap C)",
+        "y"
+      ],
+      "pdfPageStart": 25,
+      "pdfPageEnd": 25,
+      "printedPageStart": 20,
+      "printedPageEnd": 20,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p027",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "গ) $n(U)$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "n(U)"
+      ],
+      "pdfPageStart": 25,
+      "pdfPageEnd": 25,
+      "printedPageStart": 20,
+      "printedPageEnd": 20,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p028",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১৯. নিচের ভেনচিট্রে $U = A \\cup B \\cup C$ এবং $n(U) = 50$।",
+      "image": null,
+      "formulas": [
+        "U = A \\cup B \\cup C",
+        "n(U) = 50"
+      ],
+      "pdfPageStart": 25,
+      "pdfPageEnd": 25,
+      "printedPageStart": 20,
+      "printedPageEnd": 20,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p029",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: Venn diagram with three circles labeled A, B, and C containing algebraic expressions",
+      "image": "p26-page_21_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 26,
+      "pdfPageEnd": 26,
+      "printedPageStart": 21,
+      "printedPageEnd": 21,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p030",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "ক) $x$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "x"
+      ],
+      "pdfPageStart": 26,
+      "pdfPageEnd": 26,
+      "printedPageStart": 21,
+      "printedPageEnd": 21,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p031",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "খ) $n(B \\cap C')$ এবং $n(A' \\cap B)$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "n(B \\cap C')",
+        "n(A' \\cap B)"
+      ],
+      "pdfPageStart": 26,
+      "pdfPageEnd": 26,
+      "printedPageStart": 21,
+      "printedPageEnd": 21,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p032",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "গ) $n(A \\cap B \\cap C')$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "n(A \\cap B \\cap C')"
+      ],
+      "pdfPageStart": 26,
+      "pdfPageEnd": 26,
+      "printedPageStart": 21,
+      "printedPageEnd": 21,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p033",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "২০. তিনটি সেট $A$, $B$ এবং $C$ এমনভাবে দেওয়া আছে যেন, $A \\cap B = \\emptyset$, $A \\cap C = \\emptyset$ এবং $C \\subset B$। ভেনচিত্র অঙ্কন করে সেটগুলোর ব্যাখ্যা দাও।",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "C",
+        "A \\cap B = \\emptyset",
+        "A \\cap C = \\emptyset",
+        "C \\subset B"
+      ],
+      "pdfPageStart": 26,
+      "pdfPageEnd": 26,
+      "printedPageStart": 21,
+      "printedPageEnd": 21,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p034",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "২১. দেওয়া আছে, $A = \\{x : 2 < x \\le 5, x \\in R\\}$ এবং $B = \\{x : 1 \\le x < 3, x \\in R\\}$। নিম্নের সেটগুলো সেট গঠন পদ্ধতিতে প্রকাশ করো:",
+      "image": null,
+      "formulas": [
+        "A = \\{x : 2 < x \\le 5, x \\in R\\}",
+        "B = \\{x : 1 \\le x < 3, x \\in R\\}"
+      ],
+      "pdfPageStart": 26,
+      "pdfPageEnd": 26,
+      "printedPageStart": 21,
+      "printedPageEnd": 21,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p035",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "ক) $A \\cap B$                      খ) $A' \\cap B'$                      গ) $A' \\cup B$",
+      "image": null,
+      "formulas": [
+        "A \\cap B",
+        "A' \\cap B'",
+        "A' \\cup B"
+      ],
+      "pdfPageStart": 26,
+      "pdfPageEnd": 26,
+      "printedPageStart": 21,
+      "printedPageEnd": 21,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p036",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "২২. দেওয়া আছে $U = \\{x : x < 10, x \\in R\\}$, $A = \\{x : 1 < x \\le 4\\}$ এবং $B = \\{x : 3 \\le x < 6\\}$। নিচের সেটগুলো সেট গঠন পদ্ধতিতে প্রকাশ করো:",
+      "image": null,
+      "formulas": [
+        "U = \\{x : x < 10, x \\in R\\}",
+        "A = \\{x : 1 < x \\le 4\\}",
+        "B = \\{x : 3 \\le x < 6\\}"
+      ],
+      "pdfPageStart": 26,
+      "pdfPageEnd": 26,
+      "printedPageStart": 21,
+      "printedPageEnd": 21,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p037",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "ক) $A \\cap B$                      খ) $A' \\cap B$                      গ) $A \\cap B'$                      ঘ) $A' \\cap B'$",
+      "image": null,
+      "formulas": [
+        "A \\cap B",
+        "A' \\cap B",
+        "A \\cap B'",
+        "A' \\cap B'"
+      ],
+      "pdfPageStart": 26,
+      "pdfPageEnd": 26,
+      "printedPageStart": 21,
+      "printedPageEnd": 21,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p038",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "২৩. নিম্নে প্রতিশ্বেত্রে $A$ ও $B$ সেট দেওয়া আছে, $A \\cup B$ নির্ণয় করো এবং যাচাই কর যে $A \\subset (A \\cup B)$ এবং $B \\subset (A \\cup B)$।",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "A \\cup B",
+        "A \\subset (A \\cup B)",
+        "B \\subset (A \\cup B)"
+      ],
+      "pdfPageStart": 26,
+      "pdfPageEnd": 26,
+      "printedPageStart": 21,
+      "printedPageEnd": 21,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p039",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "ক) $A = \\{-2, -1, 0, 1, 2\\}$ এবং $B = \\{-3, 0, 3\\}$",
+      "image": null,
+      "formulas": [
+        "A = \\{-2, -1, 0, 1, 2\\}",
+        "B = \\{-3, 0, 3\\}"
+      ],
+      "pdfPageStart": 26,
+      "pdfPageEnd": 26,
+      "printedPageStart": 21,
+      "printedPageEnd": 21,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p040",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "খ) $A = \\{x : x \\in N, x < 10  এবং  x, 2  এর গুণিতক\\}$ এবং $B = \\{x : x \\in N, x < 10  এবং  x, 3  এর গুণিতক\\}$",
+      "image": null,
+      "formulas": [
+        "A = \\{x : x \\in N, x < 10  এবং  x, 2  এর গুণিতক\\}",
+        "B = \\{x : x \\in N, x < 10  এবং  x, 3  এর গুণিতক\\}"
+      ],
+      "pdfPageStart": 26,
+      "pdfPageEnd": 26,
+      "printedPageStart": 21,
+      "printedPageEnd": 21,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p041",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "২৪. নিম্নের প্রতিশ্বেত্রে $A \\cap B$ নির্ণয় করো এবং যাচাই করো যে, $(A \\cap B) \\subset A$ এবং $(A \\cap B) \\subset B$।",
+      "image": null,
+      "formulas": [
+        "A \\cap B",
+        "(A \\cap B) \\subset A",
+        "(A \\cap B) \\subset B"
+      ],
+      "pdfPageStart": 26,
+      "pdfPageEnd": 26,
+      "printedPageStart": 21,
+      "printedPageEnd": 21,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p042",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "ক) $A = \\{0, 1, 2, 3\\}$, $B = \\{-1, 0, 2\\}$      খ) $A = \\{a, b, c, d\\}$, $B = \\{b, x, c, y\\}$",
+      "image": null,
+      "formulas": [
+        "A = \\{0, 1, 2, 3\\}",
+        "B = \\{-1, 0, 2\\}",
+        "A = \\{a, b, c, d\\}",
+        "B = \\{b, x, c, y\\}"
+      ],
+      "pdfPageStart": 26,
+      "pdfPageEnd": 26,
+      "printedPageStart": 21,
+      "printedPageEnd": 21,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p043",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "২৫. বেগম রোকেয়া কলেজের ছাত্রীদের মধ্যে বিচিত্রা, সন্ধ্যানী ও পূর্বানী পত্রিকার পাঠ্যভাষ সমপর্কে পরিচালিত এক সমীক্ষায় দেখা গেল ৬০% ছাত্রী বিচিত্রা, ৫০% ছাত্রী সন্ধ্যানী, ৫০% ছাত্রী পূর্বানী, ৩০% ছাত্রী বিচিত্রা ও সন্ধ্যানী, ৩০% ছাত্রী বিচিত্রা ও পূর্বানী, ২০% ছাত্রী সন্ধ্যানী ও পূর্বানী এবং ১০% ছাত্রী তিনটি পত্রিকাই পড়ে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 26,
+      "pdfPageEnd": 26,
+      "printedPageStart": 21,
+      "printedPageEnd": 21,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p044",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "ক) শতকরা কতজন ছাত্রী উক্ত পত্রিকা তিনটির কোনটিই পড়ে না?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 26,
+      "pdfPageEnd": 26,
+      "printedPageStart": 21,
+      "printedPageEnd": 21,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p045",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "খ) শতকরা কতজন ছাত্রী উক্ত পত্রিকাগুলোর মধ্যে কেবল দুটি পড়ে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 26,
+      "pdfPageEnd": 26,
+      "printedPageStart": 21,
+      "printedPageEnd": 21,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p046",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "২৬. $A = \\{x : x \\in R  এবং  x^2 - (a + b)x + ab = 0\\}$, $B = \\{1, 2\\}$ এবং $C = \\{2, 4, 5\\}$",
+      "image": null,
+      "formulas": [
+        "A = \\{x : x \\in R  এবং  x^2 - (a + b)x + ab = 0\\}",
+        "B = \\{1, 2\\}",
+        "C = \\{2, 4, 5\\}"
+      ],
+      "pdfPageStart": 27,
+      "pdfPageEnd": 27,
+      "printedPageStart": 22,
+      "printedPageEnd": 22,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p047",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "ক) $A$ সেটের উপাদানসমূহ নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "A"
+      ],
+      "pdfPageStart": 27,
+      "pdfPageEnd": 27,
+      "printedPageStart": 22,
+      "printedPageEnd": 22,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p048",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "খ) দেখাও যে, $P(B \\cap C) = P(B) \\cap P(C)$।",
+      "image": null,
+      "formulas": [
+        "P(B \\cap C) = P(B) \\cap P(C)"
+      ],
+      "pdfPageStart": 27,
+      "pdfPageEnd": 27,
+      "printedPageStart": 22,
+      "printedPageEnd": 22,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p049",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "গ) প্রমাণ করো যে, $A \\times (B \\cup C) = (A \\times B) \\cup (A \\times C)$।",
+      "image": null,
+      "formulas": [
+        "A \\times (B \\cup C) = (A \\times B) \\cup (A \\times C)"
+      ],
+      "pdfPageStart": 27,
+      "pdfPageEnd": 27,
+      "printedPageStart": 22,
+      "printedPageEnd": 22,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p050",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "২৭. একটি শ্রেণির 100 জন ছাত্রের মধ্যে 42 জন ফুটবল, 46 জন ক্রিকেট এবং 39 জন দাবা খেলে। এদের মধ্যে 13 জন ফুটবল ও ক্রিকেট, 14 জন ক্রিকেট ও দাবা এবং 12 জন ফুটবল ও দাবা খেলতে পারে। এছাড়া 7 জন কোনো খেলায় পারদর্শী নয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 27,
+      "pdfPageEnd": 27,
+      "printedPageStart": 22,
+      "printedPageEnd": 22,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p051",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "ক) উল্লিখিত তিনটি খেলায় পারদর্শী এমন ছাত্রদের সেট এবং কোনো খেলায় পারদর্শী নয় এমন ছাত্রদের সেট ভেনচিয়ে দেখাও।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 27,
+      "pdfPageEnd": 27,
+      "printedPageStart": 22,
+      "printedPageEnd": 22,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p052",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "খ) কতজন ছাত্র উল্লিখিত তিনটি খেলায়ই পারদর্শী তা নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 27,
+      "pdfPageEnd": 27,
+      "printedPageStart": 22,
+      "printedPageEnd": 22,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p053",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "গ) কতজন ছাত্র কেবলমাত্র একটি খেলায় পারদর্শী? কতজন অন্তত দুটি খেলায় পারদর্শী?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 27,
+      "pdfPageEnd": 27,
+      "printedPageStart": 22,
+      "printedPageEnd": 22,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p054",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "২৮. $P(\\emptyset)$, $P(\\{\\emptyset\\})$ সেট নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "P(\\emptyset)",
+        "P(\\{\\emptyset\\})"
+      ],
+      "pdfPageStart": 27,
+      "pdfPageEnd": 27,
+      "printedPageStart": 22,
+      "printedPageEnd": 22,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p055",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "২৯. এক গ্রামে এক মিস্ত্রী ছিল। সে তাদের ঘর তৈরি করতে যারা নিজেরা নিজেদের ঘর তৈরি করতে না। মিস্ত্রীর ঘর কে তৈরি করতে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 27,
+      "pdfPageEnd": 27,
+      "printedPageStart": 22,
+      "printedPageEnd": 22,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p056",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৩০. $A = \\{x : x \\notin A\\}$। সেট $A$ নিয়ে বিস্তৃত আলোচনা করো।",
+      "image": null,
+      "formulas": [
+        "A = \\{x : x \\notin A\\}",
+        "A"
+      ],
+      "pdfPageStart": 27,
+      "pdfPageEnd": 27,
+      "printedPageStart": 22,
+      "printedPageEnd": 22,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p057",
+      "kind": "exercise",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "১. যদি $F(x) = \\sqrt{x - 1}$ হয় তবে $F(10) =$ কত?\nক) 9 খ) 3 গ) $-3$ ঘ) $\\sqrt{10}$",
+      "image": null,
+      "formulas": [
+        "F(x) = \\sqrt{x - 1}",
+        "F(10) =",
+        "-3",
+        "\\sqrt{10}"
+      ],
+      "pdfPageStart": 40,
+      "pdfPageEnd": 40,
+      "printedPageStart": 35,
+      "printedPageEnd": 35,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p058",
+      "kind": "exercise",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "২. $S = \\{(x, y) : x^2 + y^2 - 25 = 0  এবং  x \\ge 0\\}$ হলে,\n(i) অস্বয়টি ফাংশন নয়।\n(ii) অস্বয়টির লেখচিত্র একটি অর্ধবৃত্ত।\n(iii) অস্বয়টির লেখচিত্র $x$ অক্ষের উপর অর্ধতলে থাকবে।\nনিচের কোনটি সঠিক?\nক) $i, ii$ খ) $i, iii$ গ) $ii, iii$ ঘ) $i, ii$ ও $iii$",
+      "image": null,
+      "formulas": [
+        "S = \\{(x, y) : x^2 + y^2 - 25 = 0  এবং  x \\ge 0\\}",
+        "x",
+        "i, ii",
+        "i, iii",
+        "ii, iii",
+        "i, ii",
+        "iii"
+      ],
+      "pdfPageStart": 40,
+      "pdfPageEnd": 40,
+      "printedPageStart": 35,
+      "printedPageEnd": 35,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p059",
+      "kind": "exercise",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "৩. $F(x) = \\sqrt{x - 1} = 2$ হলে $x$ এর মান কত?\nক) 5 খ) 24 গ) 25 ঘ) 26",
+      "image": null,
+      "formulas": [
+        "F(x) = \\sqrt{x - 1} = 2",
+        "x"
+      ],
+      "pdfPageStart": 40,
+      "pdfPageEnd": 40,
+      "printedPageStart": 35,
+      "printedPageEnd": 35,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p060",
+      "kind": "exercise",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "৪. (i) নিচে প্রদত্ত $S$ অস্বয়গুলোর ডোমেন, রেঞ্জ ও বিপরীত অস্বয় নির্ণয় করো।\n(ii) $S$ অথবা $S^{-1}$ অস্বয়গুলো ফাংশন কিনা তা নির্ধারণ করো।\n(iii) ফাংশনগুলো এক-এক কিনা নির্ধারণ করো।\nক) $S = \\{(1, 5), (2, 10), (3, 15), (4, 20)\\}$\nখ) $S = \\{(-3, 8), (-2, 3), (-1, 0), (0, -1), (1, 0), (2, 3), (3, 8)\\}$\nগ) $S = \\left\\{ \\left( \\frac{1}{2}, 0 \\right), (1, 1), (1, -1), \\left( \\frac{5}{2}, 2 \\right), \\left( \\frac{5}{2}, -2 \\right) \\right\\}$\nঘ) $S = \\{(-3, -3), (-1, -1), (0, 0), (1, 1), (3, 3)\\}$\nঙ) $S = \\{(2, 1), (2, 2), (2, 3)\\}$",
+      "image": null,
+      "formulas": [
+        "S",
+        "S",
+        "S^{-1}",
+        "S = \\{(1, 5), (2, 10), (3, 15), (4, 20)\\}",
+        "S = \\{(-3, 8), (-2, 3), (-1, 0), (0, -1), (1, 0), (2, 3), (3, 8)\\}",
+        "S = \\left\\{ \\left( \\frac{1}{2}, 0 \\right), (1, 1), (1, -1), \\left( \\frac{5}{2}, 2 \\right), \\left( \\frac{5}{2}, -2 \\right) \\right\\}",
+        "S = \\{(-3, -3), (-1, -1), (0, 0), (1, 1), (3, 3)\\}",
+        "S = \\{(2, 1), (2, 2), (2, 3)\\}"
+      ],
+      "pdfPageStart": 40,
+      "pdfPageEnd": 40,
+      "printedPageStart": 35,
+      "printedPageEnd": 35,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p061",
+      "kind": "exercise",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "৫. $F(x) = \\sqrt{x - 1}$ দ্বারা বর্ণিত ফাংশনের জন্য\nক) $F(1), F(5)$ এবং $F(10)$ নির্ণয় করো।\nখ) $F(a^2 + 1)$ নির্ণয় করো যেখানে $a \\in R$।",
+      "image": null,
+      "formulas": [
+        "F(x) = \\sqrt{x - 1}",
+        "F(1), F(5)",
+        "F(10)",
+        "F(a^2 + 1)",
+        "a \\in R"
+      ],
+      "pdfPageStart": 40,
+      "pdfPageEnd": 40,
+      "printedPageStart": 35,
+      "printedPageEnd": 35,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p062",
+      "kind": "exercise",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "গ) $F(x) = 5$ হলে, $x$ নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "F(x) = 5",
+        "x"
+      ],
+      "pdfPageStart": 41,
+      "pdfPageEnd": 41,
+      "printedPageStart": 36,
+      "printedPageEnd": 36,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p063",
+      "kind": "exercise",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "ঘ) $F(x) = y$ হলে, $x$ নির্ণয় করো যেখানে $y \\ge 0$।",
+      "image": null,
+      "formulas": [
+        "F(x) = y",
+        "x",
+        "y \\ge 0"
+      ],
+      "pdfPageStart": 41,
+      "pdfPageEnd": 41,
+      "printedPageStart": 36,
+      "printedPageEnd": 36,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p064",
+      "kind": "exercise",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "৬. $F : R \\to R, F(x) = x^3$ ফাংশনের জন্য\nক) ডোম $F$ এবং রেঞ্জ $F$ নির্ণয় করো। খ) দেখাও যে, $F$ এক-এক ফাংশন।\nগ) $F^{-1}$ নির্ণয় করো। ঘ) দেখাও যে, $F^{-1}$ একটি ফাংশন।",
+      "image": null,
+      "formulas": [
+        "F : R \\to R, F(x) = x^3",
+        "F",
+        "F",
+        "F",
+        "F^{-1}",
+        "F^{-1}"
+      ],
+      "pdfPageStart": 41,
+      "pdfPageEnd": 41,
+      "printedPageStart": 36,
+      "printedPageEnd": 36,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p065",
+      "kind": "exercise",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "৭. ক) $f : R \\to R$ একটি ফাংশন যা $f(x) = ax + b; a, b \\in R, a \\neq 0$ দ্বারা সংজ্ঞায়িত হলে, দেখাও যে, $f$ এক-এক এবং সার্বিক।\nখ) $f : [0, 1] \\to [0, 1]$ ফাংশনটি $f(x) = \\sqrt{1 - x^2}$ দ্বারা সংজ্ঞায়িত হলে, দেখাও যে, $f$ এক-এক এবং সার্বিক।",
+      "image": null,
+      "formulas": [
+        "f : R \\to R",
+        "f(x) = ax + b; a, b \\in R, a \\neq 0",
+        "f",
+        "f : [0, 1] \\to [0, 1]",
+        "f(x) = \\sqrt{1 - x^2}",
+        "f"
+      ],
+      "pdfPageStart": 41,
+      "pdfPageEnd": 41,
+      "printedPageStart": 36,
+      "printedPageEnd": 36,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p066",
+      "kind": "exercise",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "৮. ক) যদি $f : R \\to R$ এবং $g : R \\to R$ ফাংশনদ্বয় $f(x) = x^3 + 5$ এবং $g(x) = (x - 5)^{\\frac{1}{3}}$ দ্বারা সংজ্ঞায়িত হয়, তবে দেখাও যে, $g = f^{-1}$।\nখ) যদি $f : R \\to R$ ফাংশনটি $f(x) = 5x - 4$ দ্বারা সংজ্ঞায়িত হয়, তবে, $y = f^{-1}(x)$ নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "f : R \\to R",
+        "g : R \\to R",
+        "f(x) = x^3 + 5",
+        "g(x) = (x - 5)^{\\frac{1}{3}}",
+        "g = f^{-1}",
+        "f : R \\to R",
+        "f(x) = 5x - 4",
+        "y = f^{-1}(x)"
+      ],
+      "pdfPageStart": 41,
+      "pdfPageEnd": 41,
+      "printedPageStart": 36,
+      "printedPageEnd": 36,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p067",
+      "kind": "exercise",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "৯. $S$ অস্বয়ের লেখচিত্র অঙ্কন করো এবং অস্বয়টি ফাংশন কিনা তা লেখচিত্র থেকে নির্ণয় করো।\nক) $S = \\{(x, y) : 2x - y + 5 = 0\\}$ খ) $S = \\{(x, y) : x + y = 1\\}$\nগ) $S = \\{(x, y) : 3x + y = 4\\}$ ঘ) $S = \\{(x, y) : x = -2\\}$",
+      "image": null,
+      "formulas": [
+        "S",
+        "S = \\{(x, y) : 2x - y + 5 = 0\\}",
+        "S = \\{(x, y) : x + y = 1\\}",
+        "S = \\{(x, y) : 3x + y = 4\\}",
+        "S = \\{(x, y) : x = -2\\}"
+      ],
+      "pdfPageStart": 41,
+      "pdfPageEnd": 41,
+      "printedPageStart": 36,
+      "printedPageEnd": 36,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p068",
+      "kind": "exercise",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "১০. $S$ অস্বয়ের লেখচিত্র অঙ্কন করো এবং অস্বয়টি ফাংশন কিনা তা লেখচিত্র থেকে নির্ণয় করো।\nক) $S = \\{(x, y) : x^2 + y^2 = 25\\}$ খ) $S = \\{(x, y) : x^2 + y = 9\\}$",
+      "image": null,
+      "formulas": [
+        "S",
+        "S = \\{(x, y) : x^2 + y^2 = 25\\}",
+        "S = \\{(x, y) : x^2 + y = 9\\}"
+      ],
+      "pdfPageStart": 41,
+      "pdfPageEnd": 41,
+      "printedPageStart": 36,
+      "printedPageEnd": 36,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p069",
+      "kind": "exercise",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "১১. দেওয়া আছে, $F(x) = 2x - 1$।\nক) $F(x + 1)$ এবং $F\\left(\\frac{1}{2}\\right)$ এর মান নির্ণয় করো।\nখ) $F(x)$ ফাংশনটি এক-এক কিনা তা যাচাই করো, যখন $x, y \\in R$।\nগ) $F(x) = y$ হলে $x$ এর তিনটি পূর্ণ সাংখ্যিক মানের জন্য $y$ এর মান নির্ণয় করো এবং $y = 2x - 1$ সমীকরণটির লেখচিত্র অঙ্কন করো।",
+      "image": null,
+      "formulas": [
+        "F(x) = 2x - 1",
+        "F(x + 1)",
+        "F\\left(\\frac{1}{2}\\right)",
+        "F(x)",
+        "x, y \\in R",
+        "F(x) = y",
+        "x",
+        "y",
+        "y = 2x - 1"
+      ],
+      "pdfPageStart": 41,
+      "pdfPageEnd": 41,
+      "printedPageStart": 36,
+      "printedPageEnd": 36,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p070",
+      "kind": "exercise",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "১২. $f : R \\to R$ এবং $g : R \\to R$ ফাংশন দুটি যথাক্রমে $f(x) = 3x + 3$ এবং $g(x) = \\frac{x - 3}{3}$ দ্বারা সংজ্ঞায়িত।\nক) $g^{-1}(-3)$ এর মান নির্ণয় করো।\nখ) $f(x)$ সার্বিক ফাংশন কিনা তা নির্ধারণ করো।\nগ) দেখাও যে, $g = f^{-1}$।",
+      "image": null,
+      "formulas": [
+        "f : R \\to R",
+        "g : R \\to R",
+        "f(x) = 3x + 3",
+        "g(x) = \\frac{x - 3}{3}",
+        "g^{-1}(-3)",
+        "f(x)",
+        "g = f^{-1}"
+      ],
+      "pdfPageStart": 41,
+      "pdfPageEnd": 41,
+      "printedPageStart": 36,
+      "printedPageEnd": 36,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p071",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "১. $F(x) = \\sqrt{x - 1}$ ফাংশনটির ডোমেন নিচের কোনটি?\nক) ডোম $F = \\{x \\in R : x \\neq 1\\}$\nখ) ডোম $F = \\{x \\in R : x \\geq 1\\}$\nগ) ডোম $F = \\{x \\in R : x \\leq 1\\}$\nঘ) ডোম $F = \\{x \\in R : x > 1\\}$",
+      "image": null,
+      "formulas": [
+        "F(x) = \\sqrt{x - 1}",
+        "F = \\{x \\in R : x \\neq 1\\}",
+        "F = \\{x \\in R : x \\geq 1\\}",
+        "F = \\{x \\in R : x \\leq 1\\}",
+        "F = \\{x \\in R : x > 1\\}"
+      ],
+      "pdfPageStart": 42,
+      "pdfPageEnd": 42,
+      "printedPageStart": 37,
+      "printedPageEnd": 37,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p072",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "২. যদি $S = \\{(1, 4), (2, 1), (3, 0), (4, 1), (5, 4)\\}$ হয় তবে,\n(i) $S$ অস্বয়ের রেঞ্জ $\\{4, 1, 0\\}$\n(ii) $S$ অস্বয়ের বিপরীত অস্বয়, $S^{-1} = \\{(4, 1), (1, 2), (0, 3), (1, 4), (4, 5)\\}$\n(iii) $S$ অস্বয়টি একটি ফাংশন\nউপরের তথ্যের আলোকে নিচের কোনটি সঠিক?\nক) $i$ ও $ii$\nখ) $ii$ ও $iii$\nগ) $i$ ও $iii$\nঘ) $i, ii$ ও $iii$",
+      "image": null,
+      "formulas": [
+        "S = \\{(1, 4), (2, 1), (3, 0), (4, 1), (5, 4)\\}",
+        "S",
+        "\\{4, 1, 0\\}",
+        "S",
+        "S^{-1} = \\{(4, 1), (1, 2), (0, 3), (1, 4), (4, 5)\\}",
+        "S",
+        "i",
+        "ii",
+        "ii",
+        "iii",
+        "i",
+        "iii",
+        "i, ii",
+        "iii"
+      ],
+      "pdfPageStart": 42,
+      "pdfPageEnd": 42,
+      "printedPageStart": 37,
+      "printedPageEnd": 37,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p073",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "$F(x) = -\\sqrt{x - 4}$\nউপরের তথ্যের আলোকে ৩ নং ও ৪ নং প্রশ্নের উত্তর দাও—",
+      "image": null,
+      "formulas": [
+        "F(x) = -\\sqrt{x - 4}"
+      ],
+      "pdfPageStart": 42,
+      "pdfPageEnd": 42,
+      "printedPageStart": 37,
+      "printedPageEnd": 37,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p074",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৩. $F(x) = -2$ হলে $x$ এর মান কত?\n(ক) $-2$\n(খ) $0$\n(গ) $6$\n(ঘ) $8$",
+      "image": null,
+      "formulas": [
+        "F(x) = -2",
+        "x",
+        "-2",
+        "0",
+        "6",
+        "8"
+      ],
+      "pdfPageStart": 42,
+      "pdfPageEnd": 42,
+      "printedPageStart": 37,
+      "printedPageEnd": 37,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p075",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৪. $F(a^2 + 4) =$ কত?\n(ক) $a$\n(খ) $-a$\n(গ) $-|a|$\n(ঘ) $a^2$",
+      "image": null,
+      "formulas": [
+        "F(a^2 + 4) =",
+        "a",
+        "-a",
+        "-|a|",
+        "a^2"
+      ],
+      "pdfPageStart": 42,
+      "pdfPageEnd": 42,
+      "printedPageStart": 37,
+      "printedPageEnd": 37,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p076",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "৫. দেওয়া আছে, $f(x) = \\sqrt{x - 4}$।\nক) $f(x)$ এর ডোমেন নির্ণয় করো।\nখ) $f(x)$ এক-এক ফাংশন কিনা নির্ধারণ করো।\nগ) $f^{-1}(x)$ ফাংশন কিনা তা লেখচিত্রের সাহায্যে নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "f(x) = \\sqrt{x - 4}",
+        "f(x)",
+        "f(x)",
+        "f^{-1}(x)"
+      ],
+      "pdfPageStart": 42,
+      "pdfPageEnd": 42,
+      "printedPageStart": 37,
+      "printedPageEnd": 37,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c01-t1.ex-p077",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "৬. (ক) $S = \\{(-2, 7), (-1, 2), (0, 1), (1, 2), (2, 7)\\}$ হলে, $s^{-1}$ ফাংশন কিনা ব্যাখ্যা করো।\n(খ) $F: R \\to R, F(x) = x^2$ হলে, $F^{-1}(x)$ নির্ণয় করো।\n(গ) $S = \\{(x, y) : 2x - y + 6 = 0\\}$ অস্বয়ের লেখচিত্র অঙ্কন করে এটি ফাংশন কিনা ব্যাখ্যা করো।\n(ঘ) $f: R \\to R, f(x) = 2x - 3$ হলে দেখাও যে, $f$ এক-এক ফাংশন।",
+      "image": null,
+      "formulas": [
+        "S = \\{(-2, 7), (-1, 2), (0, 1), (1, 2), (2, 7)\\}",
+        "s^{-1}",
+        "F: R \\to R, F(x) = x^2",
+        "F^{-1}(x)",
+        "S = \\{(x, y) : 2x - y + 6 = 0\\}",
+        "f: R \\to R, f(x) = 2x - 3",
+        "f"
+      ],
+      "pdfPageStart": 42,
+      "pdfPageEnd": 42,
+      "printedPageStart": 37,
+      "printedPageEnd": 37,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

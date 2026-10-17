@@ -1,0 +1,535 @@
+{
+  "id": "chemistry-9-10-bn-c03-t3.9",
+  "key": "3.9",
+  "title": "পারমাণবিক ভর বা আপেক্ষিক পারমাণবিক ভর",
+  "chapter": 3,
+  "ordinal": 9,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c03-t3.9-p001",
+      "kind": "text",
+      "section": "(Atomic Mass or Relative Atomic Mass)",
+      "caption": null,
+      "body": "আমরা আগেই জেনেছি যে, কোনো মৌলের পরমাণুর ভরসংখ্যা হলো পরমাণুর নিউক্লিয়াসে উপস্থিত প্রোটন ও নিউট্রন সংখ্যার যোগফল। তাহলে ভরসংখ্যা নিশ্চয়ই হবে একটি পূর্ণসংখ্যা। কিন্তু তুমি যদি কপারের পারমাণবিক ভর দেখো তাহলে দেখবে সেটি হচ্ছে 63.5 আর ক্লোরিনের পারমাণবিক ভর হলো 35.5। এটা কীভাবে সম্ভব? আসলে এটি হলো আপেক্ষিক পারমাণবিক ভর। সেটি কী বা তার দরকারই বা কী? নিচে এই প্রশ্নগুলোর উত্তর আলোচনা করা হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 56,
+      "pdfPageEnd": 56,
+      "printedPageStart": 51,
+      "printedPageEnd": 51,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.9-p002",
+      "kind": "text",
+      "section": "(Atomic Mass or Relative Atomic Mass)",
+      "caption": null,
+      "body": "ক্লোরিনের একটি পরমাণুর ভর হলো $3.16 \\times 10^{-23}$ গ্রাম।\nঅ্যালুমিনিয়ামের একটি পরমাণুর ভর $4.482 \\times 10^{-23}$ গ্রাম।",
+      "image": null,
+      "formulas": [
+        "3.16 \\times 10^{-23}",
+        "4.482 \\times 10^{-23}"
+      ],
+      "pdfPageStart": 56,
+      "pdfPageEnd": 56,
+      "printedPageStart": 51,
+      "printedPageEnd": 51,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.9-p003",
+      "kind": "text",
+      "section": "(Atomic Mass or Relative Atomic Mass)",
+      "caption": null,
+      "body": "কারণে এত কম ভর ব্যবহার করা অনেক সমস্যা। সেজন্য একটি কার্বন 12 আইসোটোপের ভরের $\\frac{1}{12}$ অংশকে একক হিসেবে ধরে তার সাপেক্ষে পরমাণুর ভর মাপা হয়।",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{12}"
+      ],
+      "pdfPageStart": 56,
+      "pdfPageEnd": 56,
+      "printedPageStart": 51,
+      "printedPageEnd": 51,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.9-p004",
+      "kind": "text",
+      "section": "(Atomic Mass or Relative Atomic Mass)",
+      "caption": null,
+      "body": "কার্বন 12 আইসোটোপের পারমাণবিক ভরের $\\frac{1}{12}$ অংশ হচ্ছে $1.66 \\times 10^{-24}$ গ্রাম",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{12}",
+        "1.66 \\times 10^{-24}"
+      ],
+      "pdfPageStart": 56,
+      "pdfPageEnd": 56,
+      "printedPageStart": 51,
+      "printedPageEnd": 51,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.9-p005",
+      "kind": "text",
+      "section": "(Atomic Mass or Relative Atomic Mass)",
+      "caption": null,
+      "body": "কাজেই কোনো মৌলের আপেক্ষিক পারমাণবিক ভর হচ্ছে:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 56,
+      "pdfPageEnd": 56,
+      "printedPageStart": 51,
+      "printedPageEnd": 51,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.9-p006",
+      "kind": "text",
+      "section": "(Atomic Mass or Relative Atomic Mass)",
+      "caption": null,
+      "body": "> **মৌলের একটি পরমাণুর ভর**\n>\n> **একটি কার্বন 12 আইসোটোপের পারমাণবিক ভরের $\\frac{1}{12}$ অংশ** কোনো মৌলের একটি পরমাণুর প্রকৃত ভর জানা থাকলে আমরা আপেক্ষিক পারমাণবিক ভর বের করতে পারব। এস্কেলে ঐ মৌলের একটি পরমাণুর প্রকৃত ভরকে $1.66 \\times 10^{-24}$ গ্রাম দ্বারা ভাগ করে আপেক্ষিক পারমাণবিক ভর বের করা যায়।",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{12}",
+        "1.66 \\times 10^{-24}"
+      ],
+      "pdfPageStart": 56,
+      "pdfPageEnd": 57,
+      "printedPageStart": 51,
+      "printedPageEnd": 52,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.9-p007",
+      "kind": "text",
+      "section": "(Atomic Mass or Relative Atomic Mass)",
+      "caption": null,
+      "body": "**একক কাজ:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 57,
+      "pdfPageEnd": 57,
+      "printedPageStart": 52,
+      "printedPageEnd": 52,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.9-p008",
+      "kind": "text",
+      "section": "(Atomic Mass or Relative Atomic Mass)",
+      "caption": null,
+      "body": "নিজে করো: Al এর 1টি পরমাণুর ভর $4.482 \\times 10^{-23}$ গ্রাম। Al পরমাণুর আপেক্ষিক পারমাণবিক ভর গণনা করে দেখাও।",
+      "image": null,
+      "formulas": [
+        "4.482 \\times 10^{-23}"
+      ],
+      "pdfPageStart": 57,
+      "pdfPageEnd": 57,
+      "printedPageStart": 52,
+      "printedPageEnd": 52,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.9-p009",
+      "kind": "text",
+      "section": "(Atomic Mass or Relative Atomic Mass)",
+      "caption": null,
+      "body": "প্রশ্ন অনুসারে Al এর একটি পরমাণুর ভর $= 4.482 \\times 10^{-23}$ গ্রাম। আমরা জানি, কার্বন-12 আইসোটোপে পারমাণবিক ভরের $\\frac{1}{12}$ অংশ হলো, $1.66 \\times 10^{-24}$ g",
+      "image": null,
+      "formulas": [
+        "= 4.482 \\times 10^{-23}",
+        "\\frac{1}{12}",
+        "1.66 \\times 10^{-24}"
+      ],
+      "pdfPageStart": 57,
+      "pdfPageEnd": 57,
+      "printedPageStart": 52,
+      "printedPageEnd": 52,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.9-p010",
+      "kind": "text",
+      "section": "(Atomic Mass or Relative Atomic Mass)",
+      "caption": null,
+      "body": "কাজেই Al মৌলের আপেক্ষিক পারমাণবিক ভর $= \\frac{4.482 \\times 10^{-23} গ্রাম}{1.66 \\times 10^{-24} গ্রাম} = 27$",
+      "image": null,
+      "formulas": [
+        "= \\frac{4.482 \\times 10^{-23} গ্রাম}{1.66 \\times 10^{-24} গ্রাম} = 27"
+      ],
+      "pdfPageStart": 57,
+      "pdfPageEnd": 57,
+      "printedPageStart": 52,
+      "printedPageEnd": 52,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.9-p011",
+      "kind": "text",
+      "section": "(Atomic Mass or Relative Atomic Mass)",
+      "caption": null,
+      "body": "কোনো মৌলের আপেক্ষিক পারমাণবিক ভর হলো দুটি ভরের অনুপাত, সেজন্য আপেক্ষিক পারমাণবিক ভরের কোনো একক থাকে না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 57,
+      "pdfPageEnd": 57,
+      "printedPageStart": 52,
+      "printedPageEnd": 52,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.9-p012",
+      "kind": "text",
+      "section": "৩.৯.১ আইসোটোপের শতকরা হার থেকে মৌলের গড় আপেক্ষিক পারমাণবিক ভর",
+      "caption": null,
+      "body": "প্রকৃতিতে বেশির ভাগ মৌলেরই একাধিক আইসোটোপ রয়েছে। তাই যে মৌলের একাধিক আইসোটোপ আছে সেই মৌলের সকল আইসোটোপের প্রকৃতিতে প্রাপ্ত শতকরা হার থেকে মৌলের গড় আপেক্ষিক ভর এর মান গণনা করতে নিচের ধাপগুলো অনুসরণ করা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 57,
+      "pdfPageEnd": 57,
+      "printedPageStart": 52,
+      "printedPageEnd": 52,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.9-p013",
+      "kind": "text",
+      "section": "৩.৯.১ আইসোটোপের শতকরা হার থেকে মৌলের গড় আপেক্ষিক পারমাণবিক ভর",
+      "caption": null,
+      "body": "**ধাপ 1:** প্রথমে কোনো মৌলের প্রত্যেকটি আইসোটোপের ভরসংখ্যা এবং প্রকৃতিতে প্রাপ্ত ঐ আইসোটোপের শতকরা পরিমাণ গুণ দিতে হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 57,
+      "pdfPageEnd": 57,
+      "printedPageStart": 52,
+      "printedPageEnd": 52,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.9-p014",
+      "kind": "text",
+      "section": "৩.৯.১ আইসোটোপের শতকরা হার থেকে মৌলের গড় আপেক্ষিক পারমাণবিক ভর",
+      "caption": null,
+      "body": "**ধাপ 2:** প্রাপ্ত গুণফলগুলোকে যোগ করতে হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 57,
+      "pdfPageEnd": 57,
+      "printedPageStart": 52,
+      "printedPageEnd": 52,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.9-p015",
+      "kind": "text",
+      "section": "৩.৯.১ আইসোটোপের শতকরা হার থেকে মৌলের গড় আপেক্ষিক পারমাণবিক ভর",
+      "caption": null,
+      "body": "**ধাপ 3:** প্রাপ্ত যোগফলকে 100 দ্বারা ভাগ করলেই ঐ মৌলের গড় আপেক্ষিক ভর পাওয়া যাবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 57,
+      "pdfPageEnd": 57,
+      "printedPageStart": 52,
+      "printedPageEnd": 52,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.9-p016",
+      "kind": "text",
+      "section": "৩.৯.১ আইসোটোপের শতকরা হার থেকে মৌলের গড় আপেক্ষিক পারমাণবিক ভর",
+      "caption": null,
+      "body": "যেমন- ধরা যাক একটি মৌল A এর দুটি আইসোটোপ আছে। একটি আইসোটোপের ভরসংখ্যা p, প্রকৃতিতে প্রাপ্ত ঐ আইসোটোপের শতকরা পরিমাণ m, অপর আইসোটোপের ভরসংখ্যা q এবং প্রকৃতিতে প্রাপ্ত ঐ আইসোটোপের শতকরা পরিমাণ n তাহলে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 57,
+      "pdfPageEnd": 57,
+      "printedPageStart": 52,
+      "printedPageEnd": 52,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.9-p017",
+      "kind": "text",
+      "section": "৩.৯.১ আইসোটোপের শতকরা হার থেকে মৌলের গড় আপেক্ষিক পারমাণবিক ভর",
+      "caption": null,
+      "body": "মৌল A এর গড় আপেক্ষিক পারমাণবিক ভর $= \\frac{p \\times m + q \\times n}{100}$",
+      "image": null,
+      "formulas": [
+        "= \\frac{p \\times m + q \\times n}{100}"
+      ],
+      "pdfPageStart": 57,
+      "pdfPageEnd": 57,
+      "printedPageStart": 52,
+      "printedPageEnd": 52,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.9-p018",
+      "kind": "text",
+      "section": "৩.৯.১ আইসোটোপের শতকরা হার থেকে মৌলের গড় আপেক্ষিক পারমাণবিক ভর",
+      "caption": null,
+      "body": "**উদাহরণ:** প্রকৃতিতে ক্লোরিনের 2টি আইসোটোপ আছে $^{35}Cl$ এবং $^{37}Cl$।",
+      "image": null,
+      "formulas": [
+        "^{35}Cl",
+        "^{37}Cl"
+      ],
+      "pdfPageStart": 57,
+      "pdfPageEnd": 57,
+      "printedPageStart": 52,
+      "printedPageEnd": 52,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.9-p019",
+      "kind": "text",
+      "section": "৩.৯.১ আইসোটোপের শতকরা হার থেকে মৌলের গড় আপেক্ষিক পারমাণবিক ভর",
+      "caption": null,
+      "body": "প্রকৃতিতে প্রাপ্ত $^{35}Cl$ এর শতকরা পরিমাণ 75% এবং\nপ্রকৃতিতে প্রাপ্ত $^{37}Cl$ এর শতকরা পরিমাণ 25%",
+      "image": null,
+      "formulas": [
+        "^{35}Cl",
+        "^{37}Cl"
+      ],
+      "pdfPageStart": 57,
+      "pdfPageEnd": 57,
+      "printedPageStart": 52,
+      "printedPageEnd": 52,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.9-p020",
+      "kind": "text",
+      "section": "৩.৯.১ আইসোটোপের শতকরা হার থেকে মৌলের গড় আপেক্ষিক পারমাণবিক ভর",
+      "caption": null,
+      "body": "অতএব, ক্লোরিনের গড় আপেক্ষিক পারমাণবিক ভর $= \\frac{35 \\times 75 + 37 \\times 25}{100} = 35.5$ এখানে উল্লেখ্য, পর্যায় সারণিতেও ক্লোরিনের গড় আপেক্ষিক পারমাণবিক ভর 35.5 লেখা আছে। পর্যায় সারণিতে যে পারমাণবিক ভর লেখা আছে তা মূলত গড় আপেক্ষিক পারমাণবিক ভর।",
+      "image": null,
+      "formulas": [
+        "= \\frac{35 \\times 75 + 37 \\times 25}{100} = 35.5"
+      ],
+      "pdfPageStart": 57,
+      "pdfPageEnd": 58,
+      "printedPageStart": 52,
+      "printedPageEnd": 53,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.9-p021",
+      "kind": "text",
+      "section": "মৌলের গড় আপেক্ষিক পারমাণবিক ভর নির্ণয়ের প্রয়োগ",
+      "caption": null,
+      "body": "মৌলের গড় আপেক্ষিক পারমাণবিক ভর থেকে আইসোটোপের শতকরা পরিমাণ নির্ণয়: প্রকৃতিতে যদি কোনো মৌলের দুটি আইসোটোপ থাকে তাহলে সেই মৌলের গড় আপেক্ষিক পারমাণবিক ভর থেকে ঐ মৌলের বিভিন্ন আইসোটোপের প্রকৃতিতে প্রাপ্ত শতকরা পরিমাণ নির্ণয় করা যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 58,
+      "pdfPageEnd": 58,
+      "printedPageStart": 53,
+      "printedPageEnd": 53,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.9-p022",
+      "kind": "example",
+      "section": "উদাহরণ:",
+      "caption": null,
+      "body": "প্রকৃতিতে কপারের দুটি আইসোটোপ আছে $^{63}Cu$ এবং $^{65}Cu$। কপারের গড় পারমাণবিক আপেক্ষিক ভর 63.5।",
+      "image": null,
+      "formulas": [
+        "^{63}Cu",
+        "^{65}Cu"
+      ],
+      "pdfPageStart": 58,
+      "pdfPageEnd": 58,
+      "printedPageStart": 53,
+      "printedPageEnd": 53,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.9-p023",
+      "kind": "text",
+      "section": "উদাহরণ:",
+      "caption": null,
+      "body": "ধরা যাক, প্রকৃতিতে প্রাপ্ত $^{63}Cu$ এর শতকরা পরিমাণ $x\\%$ এবং প্রকৃতিতে প্রাপ্ত $^{65}Cu$ এর শতকরা পরিমাণ $(100 - x)\\%$",
+      "image": null,
+      "formulas": [
+        "^{63}Cu",
+        "x\\%",
+        "^{65}Cu",
+        "(100 - x)\\%"
+      ],
+      "pdfPageStart": 58,
+      "pdfPageEnd": 58,
+      "printedPageStart": 53,
+      "printedPageEnd": 53,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.9-p024",
+      "kind": "text",
+      "section": "উদাহরণ:",
+      "caption": null,
+      "body": "এখানে, কপারের গড় আপেক্ষিক পরমাণবিক ভর $= \\frac{x \\times 63 + (100 - x) \\times 65}{100} = 63.5$",
+      "image": null,
+      "formulas": [
+        "= \\frac{x \\times 63 + (100 - x) \\times 65}{100} = 63.5"
+      ],
+      "pdfPageStart": 58,
+      "pdfPageEnd": 58,
+      "printedPageStart": 53,
+      "printedPageEnd": 53,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.9-p025",
+      "kind": "text",
+      "section": "উদাহরণ:",
+      "caption": null,
+      "body": "বা, $x = 75\\%$",
+      "image": null,
+      "formulas": [
+        "x = 75\\%"
+      ],
+      "pdfPageStart": 58,
+      "pdfPageEnd": 58,
+      "printedPageStart": 53,
+      "printedPageEnd": 53,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.9-p026",
+      "kind": "text",
+      "section": "উদাহরণ:",
+      "caption": null,
+      "body": "প্রকৃতিতে প্রাপ্ত $^{63}Cu$ এর শতকরা পরিমাণ $= 75\\%$ এবং\nপ্রকৃতিতে প্রাপ্ত $^{65}Cu$ এর শতকরা পরিমাণ $(100-75)\\% = 25\\%$",
+      "image": null,
+      "formulas": [
+        "^{63}Cu",
+        "= 75\\%",
+        "^{65}Cu",
+        "(100-75)\\% = 25\\%"
+      ],
+      "pdfPageStart": 58,
+      "pdfPageEnd": 58,
+      "printedPageStart": 53,
+      "printedPageEnd": 53,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.9-p027",
+      "kind": "text",
+      "section": "৩.৯.২ আপেক্ষিক পারমাণবিক ভর থেকে আপেক্ষিক আণবিক ভর নির্ণয়",
+      "caption": null,
+      "body": "কোনো মৌলিক বা যৌগিক পদার্থের অণুতে যে পরমাণুগুলো থাকে তাদের আপেক্ষিক পারমাণবিক ভর নিজে নিজে পরমাণু সংখ্যা দিয়ে গুণ করে যোগ করলে প্রাপ্ত যোগফলই হলো ঐ অণুর আপেক্ষিক আণবিক ভর। আপেক্ষিক পারমাণবিক ভরকে পারমাণবিক ভর এবং আপেক্ষিক আণবিক ভরকে সাধারণভাবে আণবিক ভর হিসেবে বিবেচনা করা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 58,
+      "pdfPageEnd": 58,
+      "printedPageStart": 53,
+      "printedPageEnd": 53,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.9-p028",
+      "kind": "example",
+      "section": "উদাহরণ - ১",
+      "caption": null,
+      "body": "$H_2$ অণুতে হাইড্রোজেন (H) পরমাণুর আপেক্ষিক পারমাণবিক ভর হলো 1 এবং পরমাণুর সংখ্যা- 2 তাই $H_2$ অণুর আপেক্ষিক আণবিক ভর হবে: $1 \\times 2 = 2$",
+      "image": null,
+      "formulas": [
+        "H_2",
+        "H_2",
+        "1 \\times 2 = 2"
+      ],
+      "pdfPageStart": 58,
+      "pdfPageEnd": 58,
+      "printedPageStart": 53,
+      "printedPageEnd": 53,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.9-p029",
+      "kind": "example",
+      "section": "উদাহরণ - ২",
+      "caption": null,
+      "body": "$H_2SO_4$ অণুতে উপস্থিত হাইড্রোজেন (H) এর আপেক্ষিক পারমাণবিক ভর 1 এবং পরমাণু সংখ্যা 2, সালফার (S) পরমাণুর আপেক্ষিক পারমাণবিক ভর 32 এবং পরমাণুর সংখ্যা 1 এবং অক্সিজেন পরমাণুর আপেক্ষিক পারমাণবিক ভর 16 এবং পরমাণুর সংখ্যা 4। অতএব, $H_2SO_4$ এর আপেক্ষিক আণবিক ভর হবে $1 \\times 2 + 32 \\times 1 + 16 \\times 4 = 98$",
+      "image": null,
+      "formulas": [
+        "H_2SO_4",
+        "H_2SO_4",
+        "1 \\times 2 + 32 \\times 1 + 16 \\times 4 = 98"
+      ],
+      "pdfPageStart": 58,
+      "pdfPageEnd": 58,
+      "printedPageStart": 53,
+      "printedPageEnd": 53,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

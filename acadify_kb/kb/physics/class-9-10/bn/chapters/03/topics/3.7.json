@@ -1,0 +1,1174 @@
+{
+  "id": "physics-9-10-bn-c03-t3.7",
+  "key": "3.7",
+  "title": "মহাকর্ষ বল (Gravitational Force)",
+  "chapter": 3,
+  "ordinal": 7,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা বল কী সেটা বলেছি (যেটা ত্বরণের জন্য দেয়) সেটা কেমন করে পরিমাণ করতে হয় সেটাও বলেছি (ভর আর ত্বরণের গুণফল) কিন্তু এখনো তোমাদের সত্যিকার কোনো বলের সাথে পরিচয় করিয়ে দিিনি। পদার্থবিজ্ঞানের একটি চমকপ্রদ বল হচ্ছে মহাকর্ষ বল, ভর আছে সে রকম যেকোনো বস্তু অন্য বস্তুকে মহাকর্ষ বল দিয়ে আকর্ষণ করে। ধরা যাক, দুটি ভর $m_1$ এবং $m_2$ তাদের মাঝে দূরত্ব $r$ তাহলে তাদের মাঝে যে বল ক্রিয়া করবে (চিত্র ৩.০৭) সেটাকে যদি আমরা $F$ বলি তাহলে",
+      "image": null,
+      "formulas": [
+        "m_1",
+        "m_2",
+        "r",
+        "F"
+      ],
+      "pdfPageStart": 83,
+      "pdfPageEnd": 84,
+      "printedPageStart": 78,
+      "printedPageEnd": 79,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p002",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\vec{F} = G \\frac{m_1 m_2}{r^2} \\hat{r}$$",
+      "image": null,
+      "formulas": [
+        "\\vec{F} = G \\frac{m_1 m_2}{r^2} \\hat{r}"
+      ],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে $G$ হচ্ছে মহাকর্ষীয় ধ্রুবক এবং তার মান হচ্ছে:",
+      "image": null,
+      "formulas": [
+        "G"
+      ],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p004",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$6.67 \\times 10^{-11}  Nm^2kg^{-2}$$",
+      "image": null,
+      "formulas": [
+        "6.67 \\times 10^{-11}  Nm^2kg^{-2}"
+      ],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এবং $\\hat{r}$ একটি বিশেষ ধরনের ভেক্টর যা বলের দিক নির্দেশ করে। এ সম্পর্কে তোমরা উচ্চতর শ্রেণিতে জানবে।",
+      "image": null,
+      "formulas": [
+        "\\hat{r}"
+      ],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে মনে রাখতে হবে $m_1$ ভরটি $m_2$ কে নিজের দিকে $F$ বলে আকর্ষণ করে আবার $m_2$ ভরটি একই বলে $m_1$ কে নিজের দিকে আকর্ষণ করে।",
+      "image": null,
+      "formulas": [
+        "m_1",
+        "m_2",
+        "F",
+        "m_2",
+        "m_1"
+      ],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এই দুটো ভরের একটা যদি আমাদের পৃথিবী হয় এবং আমরা যদি ধরে নিই তার ভর $M$ এবং পৃথিবীর উপরে $m$ ভরের অন্য একটা জিনিস রাখা হয় তাহলে পৃথিবী $m$ ভরকে তার কেন্দ্রের দিকে $F$ বলে আকর্ষণ করবে।",
+      "image": null,
+      "formulas": [
+        "M",
+        "m",
+        "m",
+        "F"
+      ],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p008",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: diagram showing two masses m1 and m2 separated by distance r",
+      "image": "p84-img_p18_1.jpg",
+      "formulas": [],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p009",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "**চিত্র ৩.০৭ : দুটি ভরের ভেতর মহাকর্ষীয় বল**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p010",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$F = G \\frac{mM}{R^2}$$",
+      "image": null,
+      "formulas": [
+        "F = G \\frac{mM}{R^2}"
+      ],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এই বলটিই আসলে বস্তুটির ওজন। মনে রাখতে হবে এখানে $R$ পৃথিবীর কেন্দ্র থেকে $m$ ভরটি পর্যন্ত দূরত্ব। পৃথিবীপৃষ্ঠ থেকে $m$ ভরের দূরত্ব নয়। যেহেতু পৃথিবীর ব্যাসার্ধ অনেক (প্রায় 6370 km) কাজেই পৃথিবীর পৃষ্ঠে ছোটখাটো উচ্চতাকে ধর্তবের মাঝে আনার প্রয়োজন নেই। পৃথিবীর কেন্দ্র থেকে দূরত্ব মাপা হয় কারণ যদি সুক্ষম গোলাকার কোনো বস্তু হয় তাহলে তার সমস্ত ভর কেন্দ্রবিন্দুতে জমা হয়ে আছে ধরে নিলে কোনো ভুল হয় না। (তার কারণ পৃথিবীর প্রত্যেকটা বিন্দুই $m$ ভরকে নিজের দিকে আকর্ষণ করে এবং সবগুলো আকর্ষণ একত্র করা হলে মনে হয় যেন পৃথিবীর সমস্ত ভরটুকুই কেন্দ্রবিন্দুতে জমা হয়ে আছে। এটি প্রমাণ করে দেখানো যায়)।",
+      "image": null,
+      "formulas": [
+        "R",
+        "m",
+        "m",
+        "m"
+      ],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "পৃথিবীর মাধ্যাকর্ষণ বলের জন্য $m$ ভরটি একটি ত্বরণ অনুভব করবে। মাধ্যাকর্ষণের জন্য যে ত্বরণ হয় সেটাকে $a$ না লিখে $g$ লেখা হয় সেটা আমরা আগেই বলেছি। কাজেই $F = ma$ এর পরিবর্তে লিখতে পারি:",
+      "image": null,
+      "formulas": [
+        "m",
+        "a",
+        "g",
+        "F = ma"
+      ],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p013",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$G \\frac{mM}{R^2} = mg$$",
+      "image": null,
+      "formulas": [
+        "G \\frac{mM}{R^2} = mg"
+      ],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কিংবা,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p015",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$g = G \\frac{M}{R^2}$$",
+      "image": null,
+      "formulas": [
+        "g = G \\frac{M}{R^2}"
+      ],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 84,
+      "printedPageStart": 79,
+      "printedPageEnd": 79,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "পৃথিবীর ভর $M = 5.98 \\times 10^{24}  kg$, পৃথিবীর ব্যাসার্ধ $R = 6.37 \\times 10^6  m$ অতএব,",
+      "image": null,
+      "formulas": [
+        "M = 5.98 \\times 10^{24}  kg",
+        "R = 6.37 \\times 10^6  m"
+      ],
+      "pdfPageStart": 84,
+      "pdfPageEnd": 85,
+      "printedPageStart": 79,
+      "printedPageEnd": 80,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p017",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$g = \\frac{GM}{R^2} = \\frac{6.67 \\times 10^{-11} \\times 5.98 \\times 10^{24}}{(6.37 \\times 10^6)^2}  m/s^2 = 9.8  m/s^2$$",
+      "image": null,
+      "formulas": [
+        "g = \\frac{GM}{R^2} = \\frac{6.67 \\times 10^{-11} \\times 5.98 \\times 10^{24}}{(6.37 \\times 10^6)^2}  m/s^2 = 9.8  m/s^2"
+      ],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা এর আগে অধ্যায়েই গতির সমীকরণে $g$ এর এই মান ব্যবহার করেছি, এখন তোমরা জানতে পারলে কেন $g$ এর এই মান ব্যবহার করা হয়েছিল।",
+      "image": null,
+      "formulas": [
+        "g",
+        "g"
+      ],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রশ্ন:** স্পেস স্টেশনের উচ্চতা পৃথিবীপৃষ্ঠ থেকে আনুমানিক 100 km, সেখানে $g$ এর মান কত?",
+      "image": null,
+      "formulas": [
+        "g"
+      ],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উত্তর:** স্পেস স্টেশনে মাধ্যাকর্ষণজনিত ত্বরণ $g'$ হলে",
+      "image": null,
+      "formulas": [
+        "g'"
+      ],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p021",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "photo: astronauts floating in space",
+      "image": "p85-page_19_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p022",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "**চিত্র ৩.০৮: মহাকাশযানে ভাসমান মহাকাশচারী**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে $R$ পৃথিবীর ব্যাসার্ধ 6370 km এবং স্পেস স্টেশনের উচ্চতা $r = 100$ km",
+      "image": null,
+      "formulas": [
+        "R",
+        "r = 100"
+      ],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p024",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$g' = \\frac{GM}{(R + r)^2}$$",
+      "image": null,
+      "formulas": [
+        "g' = \\frac{GM}{(R + r)^2}"
+      ],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p025",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$g' = \\frac{GM}{R^2(1 + r/R)^2} = \\frac{g}{(1 + r/R)^2}$$",
+      "image": null,
+      "formulas": [
+        "g' = \\frac{GM}{R^2(1 + r/R)^2} = \\frac{g}{(1 + r/R)^2}"
+      ],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p026",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$g' = \\frac{g}{1.016^2} = 9.49  m/s^2$$",
+      "image": null,
+      "formulas": [
+        "g' = \\frac{g}{1.016^2} = 9.49  m/s^2"
+      ],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p027",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$g'$ এর মান মোটেই শূন্য নয়। তাহলে সেখানে মহাকাশচারীরা ওজনহীন (চিত্র ৩.০৮) অনুভব করেন কেন?",
+      "image": null,
+      "formulas": [
+        "g'"
+      ],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p028",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "মাধ্যাকর্ষণজনিত ত্বরণ $g$ জানা থাকলে আমরা খুব সহজেই যেকোনো ভর $m$ এর জন্য মাধ্যাকর্ষণ বল বের করতে পারব। সেটি হবে",
+      "image": null,
+      "formulas": [
+        "g",
+        "m"
+      ],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p029",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$F = G \\frac{mM}{R^2} = m \\frac{GM}{R^2} = mg$$",
+      "image": null,
+      "formulas": [
+        "F = G \\frac{mM}{R^2} = m \\frac{GM}{R^2} = mg"
+      ],
+      "pdfPageStart": 85,
+      "pdfPageEnd": 85,
+      "printedPageStart": 80,
+      "printedPageEnd": 80,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p030",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "একটি ভার ব্যবহার করে আমরা অন্য একটি বস্তুর উপর বল প্রয়োগ করতে পারি। ছবিতে $M$ ভার ঝুলিয়ে রাখার জন্য তার উপর মাধ্যাকর্ষণ বল $Mg$ নিচের দিকে কাজ করছে। সেটি একটি কপিকল এবং সুতা দিয়ে টেবিলের উপর রাখা $m$ ভারটির উপর প্রয়োগ করা হচ্ছে।",
+      "image": null,
+      "formulas": [
+        "M",
+        "Mg",
+        "m"
+      ],
+      "pdfPageStart": 86,
+      "pdfPageEnd": 86,
+      "printedPageStart": 81,
+      "printedPageEnd": 81,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p031",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A diagram showing a block of mass m on a horizontal surface connected by a string over a pulley to a hanging mass M. The tension T is indicated on the string, and the gravitational force Mg is indicated on the hanging mass.",
+      "image": "p86-page_20_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 86,
+      "pdfPageEnd": 86,
+      "printedPageStart": 81,
+      "printedPageEnd": 81,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p032",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "নিউটনের দ্বিতীয় গতিসূত্র ব্যবহার করা খুব সহজ। প্রতিটি ভারের জন্যে প্রতিটি দিক বরাবর নিউটনের দ্বিতীয় সূত্র ব্যবহার করতে হবে। সমীকরণের বাম দিকে থাকবে বল সমূহের ভেক্টর যোগফল, আর ডান দিকে থাকবে ভার গুণ ত্বরণ। বল এবং ত্বরণ ভেক্টর রাশি বলে এদের মান এবং দিক দুটোই খেয়াল রাখতে হবে। প্রচলিত রীতি অনুযায়ী ডান দিকের রাশি ধনাত্মক। আর বাম দিকের রাশি ঋণাত্মক এবং উপরের দিকের রাশি ধনাত্মক আর নিচের দিকের রাশি ঋণাত্মক।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 86,
+      "pdfPageEnd": 86,
+      "printedPageStart": 81,
+      "printedPageEnd": 81,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p033",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে ভারের উপর ডানদিকে কাজ করছে সূতার টান বল $T$, মনে রাখতে হবে যে একটি সূতায় একটি মাত্র টান বল কাজ করে, এবং টান বল সব সময় সূতা বরাবর এবং বস্তু থেকে দূরের দিকে কাজ করে। এখানে $T$ এর দিক হচ্ছে ডান দিক, এবং $m$ বস্তুর ত্বরণও ডান দিকে, সুতরাং",
+      "image": null,
+      "formulas": [
+        "T",
+        "T",
+        "m"
+      ],
+      "pdfPageStart": 86,
+      "pdfPageEnd": 86,
+      "printedPageStart": 81,
+      "printedPageEnd": 81,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p034",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$T=ma$$",
+      "image": null,
+      "formulas": [
+        "T=ma"
+      ],
+      "pdfPageStart": 86,
+      "pdfPageEnd": 86,
+      "printedPageStart": 81,
+      "printedPageEnd": 81,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p035",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "উল্লম্ব বরাবর $m$ বস্তুর উপর নিচের দিকে মাধ্যাকর্ষণ বল $mg$ এবং উপরের দিকে তলের প্রতিক্রিয়া বল $N$ কাজ করছে। (যা সম্পর্কে তোমরা এই অধ্যায়ের পরবর্তি অংশে জানবে) এই দুটো বলের লব্ধি শূন্য বলে উল্লম্ব বরাবর $m$ বস্তুর কোনো ত্বরণ নেই।",
+      "image": null,
+      "formulas": [
+        "m",
+        "mg",
+        "N",
+        "m"
+      ],
+      "pdfPageStart": 86,
+      "pdfPageEnd": 86,
+      "printedPageStart": 81,
+      "printedPageEnd": 81,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p036",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "দ্বিতীয় বস্তুর উপর, দুটো বল কাজ করছে, মাধ্যাকর্ষণ বল $Mg$ নিচের দিকে, এবং টান বল $T$ (একই সূতা বলে একই টান বল $T$) উপরের দিকে কারণ টান বল সূতা বরাবর এবং বস্তু থেকে দূরের দিকে কাজ করে। তাহলে নিউটনের দ্বিতীয় সূত্র ব্যবহার করে আমরা পাই,",
+      "image": null,
+      "formulas": [
+        "Mg",
+        "T",
+        "T"
+      ],
+      "pdfPageStart": 86,
+      "pdfPageEnd": 86,
+      "printedPageStart": 81,
+      "printedPageEnd": 81,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p037",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$T-Mg = M (-a)$$",
+      "image": null,
+      "formulas": [
+        "T-Mg = M (-a)"
+      ],
+      "pdfPageStart": 86,
+      "pdfPageEnd": 86,
+      "printedPageStart": 81,
+      "printedPageEnd": 81,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p038",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে ত্বরণের আগে ঋণাত্মক চিহ্ন দেওয়া হয়েছে কারণ $M$ ভারের ত্বরণ নিচের দিকে এবং বস্তু দুটো সূতা দিয়ে আটকানো বলে $M$ বস্তুর ত্বরণের মানও $a$। উপরের সমীকরণ দুটো সমাধান করে আমরা পাই, $a=Mg/(M+m)$.",
+      "image": null,
+      "formulas": [
+        "M",
+        "M",
+        "a",
+        "a=Mg/(M+m)"
+      ],
+      "pdfPageStart": 86,
+      "pdfPageEnd": 86,
+      "printedPageStart": 81,
+      "printedPageEnd": 81,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p039",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "**চিত্র ৩.০৯: একটি বস্তুর ওজন অন্য বস্তুর উপরে বল প্রয়োগ করছে।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 86,
+      "pdfPageEnd": 86,
+      "printedPageStart": 81,
+      "printedPageEnd": 81,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p040",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "drawing: physics diagram of a block m on a horizontal surface connected to two masses m1 and m2 via pulleys",
+      "image": "p87-page_21_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 87,
+      "pdfPageEnd": 87,
+      "printedPageStart": 82,
+      "printedPageEnd": 82,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p041",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**চিত্র৩.১০: কপিকল দিয়ে একটি ভরকে দুই পাশে থেকে দুটি ওজনের মাধ্যমে বল প্রয়োগ করা হচ্ছে**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 87,
+      "pdfPageEnd": 87,
+      "printedPageStart": 82,
+      "printedPageEnd": 82,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p042",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "এখানে তিনটি বস্তু দুটো সূতা দিয়ে আটকানো আছে, যার ফলে সবার ত্বরণের মান একই হবে। $m_2$ ভর নিচের দিকে নামবে, $m$ ভরের বস্তু বাম দিকে যাবে, এবং $m_1$ ভর উপরের দিকে উঠবে। ধরে নেই ত্বরণের মান $a$ এবং দুটো সূতার কারণে দুটো টান বল কাজ করবে, $T_1$ ($m_1$ ভর ও $m$ ভরের সংযোগে যুক্ত) এবং $T_2$ ($m_2$ ভর ও $m$ ভরের সংযোগে যুক্ত)।",
+      "image": null,
+      "formulas": [
+        "m_2",
+        "m",
+        "m_1",
+        "a",
+        "T_1",
+        "m_1",
+        "m",
+        "T_2",
+        "m_2",
+        "m"
+      ],
+      "pdfPageStart": 87,
+      "pdfPageEnd": 87,
+      "printedPageStart": 82,
+      "printedPageEnd": 82,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p043",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$m_1$ ভরের জন্যে উল্লেখ বরাবর নিউটনের গতিসূত্র ব্যবহার করে পাই",
+      "image": null,
+      "formulas": [
+        "m_1"
+      ],
+      "pdfPageStart": 87,
+      "pdfPageEnd": 87,
+      "printedPageStart": 82,
+      "printedPageEnd": 82,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p044",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$T_1 - m_1g = m_1a$$",
+      "image": null,
+      "formulas": [
+        "T_1 - m_1g = m_1a"
+      ],
+      "pdfPageStart": 87,
+      "pdfPageEnd": 87,
+      "printedPageStart": 82,
+      "printedPageEnd": 82,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p045",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "বা $T_1 - 5g = 5a$",
+      "image": null,
+      "formulas": [
+        "T_1 - 5g = 5a"
+      ],
+      "pdfPageStart": 87,
+      "pdfPageEnd": 87,
+      "printedPageStart": 82,
+      "printedPageEnd": 82,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p046",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$m_1$ ভরের জন্যে $T_1$ উপরের দিকে কাজ করছে।",
+      "image": null,
+      "formulas": [
+        "m_1",
+        "T_1"
+      ],
+      "pdfPageStart": 87,
+      "pdfPageEnd": 87,
+      "printedPageStart": 82,
+      "printedPageEnd": 82,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p047",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$m$ ভরের জন্যে অনুভূমিক বরাবর নিউটনের দ্বিতীয় গতিসূত্র ব্যবহার করে পাই",
+      "image": null,
+      "formulas": [
+        "m"
+      ],
+      "pdfPageStart": 87,
+      "pdfPageEnd": 87,
+      "printedPageStart": 82,
+      "printedPageEnd": 82,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p048",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$T_1 - T_2 = m(-a)$$",
+      "image": null,
+      "formulas": [
+        "T_1 - T_2 = m(-a)"
+      ],
+      "pdfPageStart": 87,
+      "pdfPageEnd": 87,
+      "printedPageStart": 82,
+      "printedPageEnd": 82,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p049",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "এখানে $T_2$ বল বাম দিকে কাজ করছে, $T_1$ বল ডান দিকে কাজ করছে, এবং $m$ বস্তুর ত্বরণ বাম দিকে।",
+      "image": null,
+      "formulas": [
+        "T_2",
+        "T_1",
+        "m"
+      ],
+      "pdfPageStart": 87,
+      "pdfPageEnd": 87,
+      "printedPageStart": 82,
+      "printedPageEnd": 82,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p050",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "উল্লেখ বরাবর $m$ বস্তুর উপর, নিচের দিকে মাধ্যাকর্ষণ বল $mg$ এবং উপরের দিকে তলের প্রতিক্রিয়া বল $N$ কাজ করছে। এই দুটো বলের লব্ধি শূন্য বলে উল্লেখ বরাবর $m$ বস্তুর কোন ত্বরণ নেই। এবার $m_2$ ভরের জন্যে উল্লেখ বরাবর নিউটনের গতিসূত্র ব্যবহার করে পাই",
+      "image": null,
+      "formulas": [
+        "m",
+        "mg",
+        "N",
+        "m",
+        "m_2"
+      ],
+      "pdfPageStart": 87,
+      "pdfPageEnd": 87,
+      "printedPageStart": 82,
+      "printedPageEnd": 82,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p051",
+      "kind": "formula",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$$T_2 - m_2g = m_2(-a)$$",
+      "image": null,
+      "formulas": [
+        "T_2 - m_2g = m_2(-a)"
+      ],
+      "pdfPageStart": 87,
+      "pdfPageEnd": 87,
+      "printedPageStart": 82,
+      "printedPageEnd": 82,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p052",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "বা $T_2 - 10g = 10(-a)$",
+      "image": null,
+      "formulas": [
+        "T_2 - 10g = 10(-a)"
+      ],
+      "pdfPageStart": 87,
+      "pdfPageEnd": 87,
+      "printedPageStart": 82,
+      "printedPageEnd": 82,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p053",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "$m_2$ ভরের জন্যে $T_2$ উপরের দিকে কাজ করছে।",
+      "image": null,
+      "formulas": [
+        "m_2",
+        "T_2"
+      ],
+      "pdfPageStart": 87,
+      "pdfPageEnd": 87,
+      "printedPageStart": 82,
+      "printedPageEnd": 82,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p054",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "উপরের সমীকরণ তিনটি সমাধান করে, $m$ ভরের বস্তুর উপর মোট বলের পরিমান পাওয়া যায়, $T_1 - T_2 = 15a - 5g$। বস্তু তিনটির সম্মিলিত ভরনের মান, $a = 5g / (m + 15)$ এখানে $m$ বস্তুর ভর ব্যতীত ভরনের মান বের করা সম্ভব নয়।",
+      "image": null,
+      "formulas": [
+        "m",
+        "T_1 - T_2 = 15a - 5g",
+        "a = 5g / (m + 15)",
+        "m"
+      ],
+      "pdfPageStart": 88,
+      "pdfPageEnd": 88,
+      "printedPageStart": 83,
+      "printedPageEnd": 83,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p055",
+      "kind": "text",
+      "section": "রাবার ব্যান্ডের ব্যালেস (Rubber Band Spring Balance)",
+      "caption": null,
+      "body": "ছোটখাটো জিনিসের ওজন মাপার জন্য স্প্রিং ব্যালেস ব্যবহার করা হয়। তোমাদের সবার কাছে স্প্রিং ব্যালেস থাকার সম্ভাবনা কম। কাজেই কাজ চালানোর জন্য তোমরা একটি রাবার ব্যান্ড দিয়ে স্প্রিং ব্যালেস তৈরি করে নিতে পারবে। একটা কোটার প্লাস্টিকের ঢাকনাকে ওজন রাখার প্যান হিসেবে ব্যবহার করতে পারো, চারপাশে চারটি ফুটো করে সুতা দিয়ে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 88,
+      "pdfPageEnd": 88,
+      "printedPageStart": 83,
+      "printedPageEnd": 83,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p056",
+      "kind": "figure",
+      "section": "রাবার ব্যান্ডের ব্যালেস (Rubber Band Spring Balance)",
+      "caption": null,
+      "body": "photo: A sequence of four images showing a rubber band spring balance with a pan, a small object, an egg, and an orange.",
+      "image": "p88-page_22_image_5_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 88,
+      "pdfPageEnd": 88,
+      "printedPageStart": 83,
+      "printedPageEnd": 83,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p057",
+      "kind": "figure",
+      "section": "রাবার ব্যান্ডের ব্যালেস (Rubber Band Spring Balance)",
+      "caption": null,
+      "body": "**চিত্র ৩.১১: রাবার ব্যান্ড দিয়ে তৈরি স্প্রিং ব্যালেস।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 88,
+      "pdfPageEnd": 88,
+      "printedPageStart": 83,
+      "printedPageEnd": 83,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p058",
+      "kind": "text",
+      "section": "রাবার ব্যান্ডের ব্যালেস (Rubber Band Spring Balance)",
+      "caption": null,
+      "body": "বঁধে নাও। সেটি রাবার ব্যান্ডের এক পাশ থেকে ঝুলিয়ে নাও। রাবার ব্যান্ডের অন্য পাশটি একটি পেপার ক্লিপ দিয়ে একটা বোর্ডের সাথে লাগিয়ে নাও। বোর্ডটি কোনো জায়গায় ঝুলিয়ে দাও।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 88,
+      "pdfPageEnd": 88,
+      "printedPageStart": 83,
+      "printedPageEnd": 83,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p059",
+      "kind": "text",
+      "section": "রাবার ব্যান্ডের ব্যালেস (Rubber Band Spring Balance)",
+      "caption": null,
+      "body": "তুমি যে সুতা দিয়ে প্যানটি রাবার ব্যান্ডের সাথে ঝুলিয়ে দিয়েছ, সেখানে একটা কালো বিন্দু দিয়ে নাও। প্যানে কোনো ওজন না থাকা অবস্থায় সুতার কালো বিন্দুটি যেখানে থাকবে সেখানে বোর্ডে একটি দাগ দাও, এটি শূন্য ভর। এবারে প্যানে পাঁচটি পাঁচ টাকার কয়েন রাখো, একেকটি কয়েনের ভর ৪ gm, কাজেই মোট ভর হবে ৪০ gm। তখন সুতার কালো বিন্দুটি যেখানে থাকবে সেখানে আরেকটি দাগ দাও, এটি হচ্ছে ৪০ gm।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 88,
+      "pdfPageEnd": 88,
+      "printedPageStart": 83,
+      "printedPageEnd": 83,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p060",
+      "kind": "text",
+      "section": "রাবার ব্যান্ডের ব্যালেস (Rubber Band Spring Balance)",
+      "caption": null,
+      "body": "এবারে ০ থেকে 40 gm অংশটিতে একটি রেখা টেনে রেখাটি 4 ভাগ করো, প্রতিটি ভাগ হচ্ছে 10 gm করে। এখন রেখাটিকে আরো লম্বা করে আরও বেশি ভর মাপার জন্য কেলিব্রেট করে নাও। তুমি যতো নিখুঁতভাবে মাপতে চাও রেখাটিকে সেভাবে ভাগ করে নাও।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 89,
+      "pdfPageEnd": 89,
+      "printedPageStart": 84,
+      "printedPageEnd": 84,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p061",
+      "kind": "text",
+      "section": "রাবার ব্যান্ডের ব্যালেস (Rubber Band Spring Balance)",
+      "caption": null,
+      "body": "তোমার রাবার ব্যান্ড ব্যালেস তৈরি হয়ে গেছে, এখন এটি দিয়ে তুমি তোমার আশে পাশের ছোটখাটো জিনিসপত্রের ভর মেপে দেখতে পারবে। তোমার কাছে সত্যিকারের স্প্রিং ব্যালেস থাকলে আরো সূক্ষ্মভাবে ভর এবং সেখান থেকে ওজন বের করতে পারবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 89,
+      "pdfPageEnd": 89,
+      "printedPageStart": 84,
+      "printedPageEnd": 84,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.7-p062",
+      "kind": "table",
+      "section": "রাবার ব্যান্ডের ব্যালেস (Rubber Band Spring Balance)",
+      "caption": null,
+      "body": "<table><tr><th>ক্রমিক সংখ্যা</th><th>বস্তুর নাম</th><th>ব্যালেস থেকে গ্রামে পাওয়া বস্তুর ভর m</th><th>কেজিতে বস্তুর ভর<br />M = m/1000 kg</th><th>বস্তুর ওজন<br />w = Mg নিউটন</th></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 89,
+      "pdfPageEnd": 89,
+      "printedPageStart": 84,
+      "printedPageEnd": 84,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    }
+  ]
+}

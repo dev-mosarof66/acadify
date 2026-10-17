@@ -1,0 +1,223 @@
+{
+  "id": "physics-9-10-bn-c04-t4.2",
+  "key": "4.2",
+  "title": "শক্তি (Energy)",
+  "chapter": 4,
+  "ordinal": 2,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c04-t4.2-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমাদের দৈনন্দিন জীবনেও আমরা শক্তি শব্দটা অনেকভাবে ব্যবহার করি; কিন্তু পদার্থবিজ্ঞানের ভাষায় শক্তি শব্দটার একটা নির্দিষ্ট অর্থ আছে। সাধারণ মুখের ভাষায় বল প্রয়োগ করা আর শক্তি প্রয়োগ করার মাঝে কোনো পার্থক্য নেই, কিন্তু পদার্থবিজ্ঞানের ভাষায় এই দুটি বাক্যাংশ সম্পূর্ণ ভিন্ন বিষয় বোঝায়। বল বলতে কী বোঝায় সেটা আমরা আগের অধ্যায়ে পড়ে এসেছি, এই অধ্যায়ে শক্তি বলতে কী বোঝায় সেটা নিয়ে আলোচনা করা হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 106,
+      "pdfPageEnd": 106,
+      "printedPageStart": 101,
+      "printedPageEnd": 101,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.2-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "শক্তি বলতে কী বোঝায় আমাদের সবার মাঝে তার একটা ভাসা ভাসা ধারণা আছে; কারণ আমরা কথাবার্তায় বিদ্যুৎশক্তি, তাপশক্তির কথা বলে থাকি। মাঝে মাঝে আমরা রাসায়নিক শক্তি বা নিউক্লিয়ার শক্তির কথাও শুনে থাকি। আলোকে শক্তি হিসেবে সেভাবে বলা না হলেও আমরা অনুমান করতে পারি আলোও হচ্ছে এক ধরনের শক্তি। দৈনন্দিন কথাবার্তায় যে শক্তিতার কথা খুব বেশি বলা হয় না; কিন্তু পদার্থবিজ্ঞানে অসংখ্যবার যে শক্তির কথা বলা হয়, সেটা হচ্ছে গতিশক্তি। কাজেই আমাদের ধারণা হতে পারে প্রকৃতিতে বৃষ্টি অনেক ধরনের শক্তি আছে; কিন্তু মজার ব্যাপার হচ্ছে সব শক্তিতে কিন্তু এক এবং আমরা শুধু এক ধরনের শক্তিকে অন্য ধরনের শক্তিতে রূপান্তর করি। তাহলে শক্তিতা কী?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 107,
+      "pdfPageEnd": 107,
+      "printedPageStart": 102,
+      "printedPageEnd": 102,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.2-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "শক্তি হচ্ছে কাজ করার সামর্থ্য। শুধু তা-ই না, যখন কোনো বস্তুর ওপর কোনো বল প্রয়োগ করে ধনাত্মক কাজ করা হয় তখন সেই বলটি আসলে বস্তুটির মাঝে একটা শক্তি সৃষ্টি করে। বস্তুটির মাঝে যতটুকু কাজ করা হয়েছে বস্তুটির মাঝে ততটুকু শক্তি সৃষ্টি হয় এবং যে বল প্রয়োগ করেছে তাকে ঠিক সেই পরিমাণ শক্তি দিতে হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 107,
+      "pdfPageEnd": 107,
+      "printedPageStart": 102,
+      "printedPageEnd": 102,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.2-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কাজেই এবারে তুমি নিশ্চয়ই ঋণাত্মক বা নেগেটিভ কাজের অর্থ বুঝতে পেরেছ। কোনো বল যদি কোনো বস্তুর উপর নেগেটিভ কাজ করে, তাহলে বুঝতে হবে বস্তুর যেটুকু শক্তি ছিল সেখান থেকে খানিকটা শক্তি সরিয়ে নেওয়া হয়েছে। যেটুকু ঋণাত্মক বা নেগেটিভ কাজ করা হয়েছে ঠিক ততটুকু শক্তি সরিয়ে নেওয়া হয় এবং যে বল প্রয়োগ করেছে সে এই শক্তিতুকু কোনো না কোনোভাবে পেয়ে যায়। অর্থাৎ কোনো বস্তুর উপর—",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 107,
+      "pdfPageEnd": 107,
+      "printedPageStart": 102,
+      "printedPageEnd": 102,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.2-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধনাত্মক কাজ করা $\\rightarrow$ বস্তুরটিকে শক্তি দেওয়া\nঋণাত্মক কাজ করা $\\rightarrow$ বস্তুরটি থেকে শক্তি সরিয়ে নেওয়া",
+      "image": null,
+      "formulas": [
+        "\\rightarrow",
+        "\\rightarrow"
+      ],
+      "pdfPageStart": 107,
+      "pdfPageEnd": 107,
+      "printedPageStart": 102,
+      "printedPageEnd": 102,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.2-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তোমরা নিশ্চয়ই বুঝতে পারছ শক্তির কোনো দিক নেই এবং এটি একটি স্কেলার। যেহেতু কাজ করে আমরা শক্তি তৈরি করি কিংবা শক্তি খরচ করে কাজ করি তাই দুটোরই একই একক এবং একই মাত্রা।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 107,
+      "pdfPageEnd": 107,
+      "printedPageStart": 102,
+      "printedPageEnd": 102,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.2-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "শক্তির একক J (জুল)\nশক্তির মাত্রা $[W] = ML^2T^{-2}$",
+      "image": null,
+      "formulas": [
+        "[W] = ML^2T^{-2}"
+      ],
+      "pdfPageStart": 107,
+      "pdfPageEnd": 107,
+      "printedPageStart": 102,
+      "printedPageEnd": 102,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.2-p008",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**প্রশ্ন:** একটা বস্তুর ওপর 100 N বল প্রয়োগ করে 10m নিয়ে গেছ। যস্ণ বল যদি বিপরীত দিকে 10 N হয়, তাহলে তুমি কতটুকু কাজ করছ? যস্ণ বল কতটুকু কাজ করেছে? (চিত্র 4.01)",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 107,
+      "pdfPageEnd": 107,
+      "printedPageStart": 102,
+      "printedPageEnd": 102,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.2-p009",
+      "kind": "example",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**উত্তর:** তুমি $W = F \\times s = 100 N \\times 10 m = 1000 J = 1 kJ$ কাজ করেছে।",
+      "image": null,
+      "formulas": [
+        "W = F \\times s = 100 N \\times 10 m = 1000 J = 1 kJ"
+      ],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.2-p010",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "drawing: A diagram showing a green rectangular block on a surface with a force F applied to the right and a frictional force f opposing it, with a distance d marked below.",
+      "image": "p108-page_6_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.2-p011",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "ঘর্ষণ বল $W = f \\times s = -10 N \\times 10 m = -100 J$ কাজ করেছে।",
+      "image": null,
+      "formulas": [
+        "W = f \\times s = -10 N \\times 10 m = -100 J"
+      ],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.2-p012",
+      "kind": "text",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "তোমার কাজের কারণে বস্তুটা শক্তি অর্জন করেছে। ঘর্ষণ বলের কারণে শক্তি ক্ষয় হয়েছে, হয়তো তাপ সৃষ্টি হয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c04-t4.2-p013",
+      "kind": "figure",
+      "section": "উদাহরণ",
+      "caption": null,
+      "body": "**চিত্র 4.01: একটি বস্তুর ওপর বল প্রয়োগ করা হলে ঘর্ষণ বল উল্টো দিকে কাজ করে।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 108,
+      "pdfPageEnd": 108,
+      "printedPageStart": 103,
+      "printedPageEnd": 103,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

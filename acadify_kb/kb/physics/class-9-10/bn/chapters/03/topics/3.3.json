@@ -1,0 +1,181 @@
+{
+  "id": "physics-9-10-bn-c03-t3.3",
+  "key": "3.3",
+  "title": "বলের সাম্যাবস্থা ও অসাম্যাবস্থা",
+  "chapter": 3,
+  "ordinal": 3,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c03-t3.3-p001",
+      "kind": "text",
+      "section": "(Balanced and Unbalanced Forces)",
+      "caption": null,
+      "body": "বল একটি ভেক্টর। কাজেই কোনো বস্তুর ওপর যদি বল প্রয়োগ করা হয়, তাহলে বিপরীত দিক থেকে অন্য একটি বল প্রয়োগ করে সেই বলটিকে কাটাকাটি করে দেওয়া সম্ভব। আমরা তখন বলি। বল দু’টি সাম্যাবস্থায় আছে। দুই বা ততোধিক বল একটি বস্তুর উপর প্রয়োগ করার পর বলগুলোর সম্মিলিত লব্ধি যদি শূন্য হয়, তাহলে বস্তুটির ত্বরণ থাকে না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 74,
+      "pdfPageEnd": 74,
+      "printedPageStart": 69,
+      "printedPageEnd": 69,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.3-p002",
+      "kind": "text",
+      "section": "(Balanced and Unbalanced Forces)",
+      "caption": null,
+      "body": "৩.০২ চিত্রে দেখানো হচ্ছে একটা বস্তুরকে সুতা দিয়ে ঝুলিয়ে দেওয়া আছে। বস্তুটির ওপর পৃথিবীর আকর্ষণ বল (অর্থাৎ বস্তুর ওজন $W$) সোজা নিচের দিকে কাজ করছে। আবার আরেকটি বল যা সুতার টান খাড়া উপরের দিকে কাজ করছে। এখানে দুটি বল একটি আরেকটির বিপরীত দিকে কাজ করে পরস্পরকে নিষ্ক্রিয় করে সাম্যাবস্থার সৃষ্টি করেছে।",
+      "image": null,
+      "formulas": [
+        "W"
+      ],
+      "pdfPageStart": 74,
+      "pdfPageEnd": 74,
+      "printedPageStart": 69,
+      "printedPageEnd": 69,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.3-p003",
+      "kind": "text",
+      "section": "(Balanced and Unbalanced Forces)",
+      "caption": null,
+      "body": "যদি এখন সুতাটিকে কেটে দেওয়া যায় তাহলে সুতার টান $T$ আর বস্তুটির ওপর কাজ করবে না। শুধু পৃথিবীর আকর্ষণ বল বা ওজন নিচের দিকে কাজ করবে। এখানে আকর্ষণ বল বা বস্তুর ওজন হচ্ছে অসাম্য বল। এই অসাম্য বলের কারণে বস্তুরটি মাধ্যাকর্ষণজনিত ত্বরণে নিচের দিকে পড়তে শুরু করবে।",
+      "image": null,
+      "formulas": [
+        "T"
+      ],
+      "pdfPageStart": 74,
+      "pdfPageEnd": 74,
+      "printedPageStart": 69,
+      "printedPageEnd": 69,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.3-p004",
+      "kind": "text",
+      "section": "(Balanced and Unbalanced Forces)",
+      "caption": null,
+      "body": "সুতরাং না কেটেও আমরা বস্তুরির ওপর অসাম্য বল প্রয়োগ করতে পারি। আমরা যদি বস্তুরিকে টেনে এক পাশে একটুখানি সরিয়ে নিই তাহলে ওজন আর সূতার টান বিপরীত দিকে থাকবে না। তখন সূতার টান আর বস্তুরির ওজন এই দুটি বল মিলে একটি লক্ষি বল কাজ করবে। বস্তুরি ছেড়ে দেওয়া মাত্র এই লক্ষি বলটি বস্তুরির উপর কাজ করতে শুরু করবে এবং বস্তুরি দুলতে থাকবে। এটি অসাম্য বলের আরেকটি উদাহরণ।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 75,
+      "pdfPageEnd": 75,
+      "printedPageStart": 70,
+      "printedPageEnd": 70,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.3-p005",
+      "kind": "figure",
+      "section": "(Balanced and Unbalanced Forces)",
+      "caption": null,
+      "body": "drawing: A diagram showing a pendulum bob suspended by a string, with a tension force T pointing upwards and a weight force W pointing downwards. A second diagram shows a hand holding the bob, with the same forces T and W indicated.",
+      "image": "p75-page_9_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 75,
+      "pdfPageEnd": 75,
+      "printedPageStart": 70,
+      "printedPageEnd": 70,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.3-p006",
+      "kind": "figure",
+      "section": "(Balanced and Unbalanced Forces)",
+      "caption": null,
+      "body": "**চিত্র ৩.০২:** প্রথম ছবিতে বলের একটি সাম্যাবস্থা আছে। দ্বিতীয় ছবিতে পেন্ডুলামটি ছেড়ে দেওয়া মাত্র একটি লক্ষি বল কাজ করবে, যে কারণে পেন্ডুলামটি দুলতে শুরু করবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 75,
+      "pdfPageEnd": 75,
+      "printedPageStart": 70,
+      "printedPageEnd": 70,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.3-p007",
+      "kind": "text",
+      "section": "(Balanced and Unbalanced Forces)",
+      "caption": null,
+      "body": "তিনটি বল মিলেও সাম্যাবস্থা তৈরি করা যেতে পারে। একটি ভারী বই একটি দড়ি দিয়ে বেঁধে দুই পাশ থেকে দড়ির দুই প্রান্ত টেনে ধরে বইটিকে স্থির অবস্থায় ঝুলিয়ে রাখা সম্ভব (চিত্র ৩.০৩)। বইটি যেহেতু স্থির অবস্থায় আছে তাই এখানে বইটির ওজন $W$ এবং দড়ির দুই প্রান্তের দুটি টান $T_1$ এবং $T_2$ মিলে বলের লক্ষি শূন্য হয়েছে।",
+      "image": null,
+      "formulas": [
+        "W",
+        "T_1",
+        "T_2"
+      ],
+      "pdfPageStart": 75,
+      "pdfPageEnd": 75,
+      "printedPageStart": 70,
+      "printedPageEnd": 70,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.3-p008",
+      "kind": "figure",
+      "section": "(Balanced and Unbalanced Forces)",
+      "caption": null,
+      "body": "drawing: A diagram showing a book suspended by a rope, with tension forces T1 and T2 pulling upwards on either side, and a downward weight force W.",
+      "image": "p75-page_9_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 75,
+      "pdfPageEnd": 75,
+      "printedPageStart": 70,
+      "printedPageEnd": 70,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.3-p009",
+      "kind": "figure",
+      "section": "(Balanced and Unbalanced Forces)",
+      "caption": null,
+      "body": "**চিত্র ৩.০৩:** দুই পাশ থেকে তুমি যত জোরেরই টানার চেষ্টা করো না কেন, তুমি কখনোই দড়িটা পুরোপুরি সোজা করতে পারবে না, কারণ তাহলে বইয়ের ওজনের বলটিকে নিষ্ক্রিয় করা যাবে না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 75,
+      "pdfPageEnd": 75,
+      "printedPageStart": 70,
+      "printedPageEnd": 70,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c03-t3.3-p010",
+      "kind": "activity",
+      "section": "নিজে করো",
+      "caption": null,
+      "body": "একটি ভারী বই দড়ি দিয়ে বঁধে দড়ির দুই প্রান্ত টেনে একেবারে সোজা করার চেষ্টা করো। তুমি দড়ির দুই প্রান্তে যত বলই প্রয়োগ করো না কেন দড়িটি টেনে কখনোই পুরোপুরি সোজা করতে পারবে না। তার কারণ দড়িটা পুরোপুরি সোজা হলে বইয়ের ওজন $W$ কে নিষ্ক্রিয় করে বলের মোট লব্ধি কোনোভাবে শূন্য করা সম্ভব নয়",
+      "image": null,
+      "formulas": [
+        "W"
+      ],
+      "pdfPageStart": 76,
+      "pdfPageEnd": 76,
+      "printedPageStart": 71,
+      "printedPageEnd": 71,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

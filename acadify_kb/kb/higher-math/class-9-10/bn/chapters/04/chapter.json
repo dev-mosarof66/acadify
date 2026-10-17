@@ -1,0 +1,52 @@
+{
+  "id": "higher-math-9-10-bn-c04",
+  "textbookId": "higher-math-9-10-bn",
+  "number": 4,
+  "title": "জ্যামিতিক অঙ্কন",
+  "englishTitle": "Geometric Drawing",
+  "pdfPages": [
+    87,
+    100
+  ],
+  "printedPages": [
+    82,
+    95
+  ],
+  "topics": [
+    {
+      "key": "4.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/4.0.json",
+      "passages": 103
+    },
+    {
+      "key": "4.1",
+      "title": "বৃত্তসংকান্ত কতিপয় সম্পাদ্য",
+      "file": "topics/4.1.json",
+      "passages": 56
+    },
+    {
+      "key": "4.ex",
+      "title": "অনুশীলনী ৪",
+      "file": "topics/4.ex.json",
+      "passages": 24
+    }
+  ],
+  "stats": {
+    "topics": 3,
+    "passages": 183,
+    "images": 21,
+    "byKind": {
+      "text": 129,
+      "figure": 26,
+      "formula": 5,
+      "exercise": 23
+    },
+    "byReason": {
+      "verify-formula": 117,
+      "latin-junk": 1,
+      "known-confusable-corrected": 1
+    },
+    "needsReview": 119
+  }
+}

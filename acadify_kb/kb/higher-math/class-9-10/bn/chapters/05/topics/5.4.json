@@ -1,0 +1,1177 @@
+{
+  "id": "higher-math-9-10-bn-c05-t5.4",
+  "key": "5.4",
+  "title": "দুই চলকবিশিষ্ট দ্বিঘাত সমীকরণ জোটি",
+  "chapter": 5,
+  "ordinal": 5,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "দুই চলকবিশিষ্ট দুটি একঘাত সমীকরণ অথবা একটি একঘাত ও একটি দ্বিঘাত সমীকরণ সমস্যায় গঠিত জোটির সমাধান নির্ণয় পদ্ধতি নবম-দশম শ্রেণির গণিত বইয়ে আলোচনা করা হয়েছে। এখানে এরূপ দুটি দ্বিঘাত সমীকরণ সমস্যায় গঠিত কতিপয় জোটির সমাধান নির্ণয় আলোচনা করা হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 111,
+      "pdfPageEnd": 111,
+      "printedPageStart": 106,
+      "printedPageEnd": 106,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "উল্লেখ্য যে, চলক দুইটি $x$ ও $y$ হলে $(x, y) = (a, b)$ এরূপ আকারে জোটির একটি সমাধান যদি সমীকরণ দুটিতে $x$ এর স্থানে $a$ এবং $y$ এর স্থানে $b$ বসালে তাদের উভয় পক্ষ সমান হয়।",
+      "image": null,
+      "formulas": [
+        "x",
+        "y",
+        "(x, y) = (a, b)",
+        "x",
+        "a",
+        "y",
+        "b"
+      ],
+      "pdfPageStart": 111,
+      "pdfPageEnd": 111,
+      "printedPageStart": 106,
+      "printedPageEnd": 106,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৯.** সমাধান করো: $x + \\frac{1}{y} = \\frac{3}{2}, y + \\frac{1}{x} = 3$",
+      "image": null,
+      "formulas": [
+        "x + \\frac{1}{y} = \\frac{3}{2}, y + \\frac{1}{x} = 3"
+      ],
+      "pdfPageStart": 111,
+      "pdfPageEnd": 111,
+      "printedPageStart": 106,
+      "printedPageEnd": 106,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $x + \\frac{1}{y} = \\frac{3}{2} \\dots (1)$",
+      "image": null,
+      "formulas": [
+        "x + \\frac{1}{y} = \\frac{3}{2} \\dots (1)"
+      ],
+      "pdfPageStart": 111,
+      "pdfPageEnd": 111,
+      "printedPageStart": 106,
+      "printedPageEnd": 106,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p005",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$y + \\frac{1}{x} = 3 \\dots (2)$",
+      "image": null,
+      "formulas": [
+        "y + \\frac{1}{x} = 3 \\dots (2)"
+      ],
+      "pdfPageStart": 111,
+      "pdfPageEnd": 111,
+      "printedPageStart": 106,
+      "printedPageEnd": 106,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(1) থেকে $xy + 1 = \\frac{3}{2}y \\dots (3)$",
+      "image": null,
+      "formulas": [
+        "xy + 1 = \\frac{3}{2}y \\dots (3)"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(2) থেকে, $xy + 1 = 3x \\dots (4)$",
+      "image": null,
+      "formulas": [
+        "xy + 1 = 3x \\dots (4)"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(3) ও (4) থেকে $\\frac{3}{2}y = 3x$ বা, $y = 2x \\dots (5)$",
+      "image": null,
+      "formulas": [
+        "\\frac{3}{2}y = 3x",
+        "y = 2x \\dots (5)"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(5) থেকে $y$ এর মান (4) এ বসিয়ে পাই,",
+      "image": null,
+      "formulas": [
+        "y"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$2x^2 + 1 = 3x$ বা, $2x^2 - 3x + 1 = 0$",
+      "image": null,
+      "formulas": [
+        "2x^2 + 1 = 3x",
+        "2x^2 - 3x + 1 = 0"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $(x - 1)(2x - 1) = 0 \\therefore x = 1$ অথবা $\\frac{1}{2}$",
+      "image": null,
+      "formulas": [
+        "(x - 1)(2x - 1) = 0 \\therefore x = 1",
+        "\\frac{1}{2}"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(5) থেকে যখন $x = 1$, তখন $y = 2$ এবং যখন $x = \\frac{1}{2}$ তখন $y = 1$",
+      "image": null,
+      "formulas": [
+        "x = 1",
+        "y = 2",
+        "x = \\frac{1}{2}",
+        "y = 1"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণয়ে সমাধান $(x, y) = (1, 2), \\left(\\frac{1}{2}, 1\\right)$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "(x, y) = (1, 2), \\left(\\frac{1}{2}, 1\\right)"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২০.** সমাধান করো: $x^2 = 3x + 6y, \\quad xy = 5x + 4y$",
+      "image": null,
+      "formulas": [
+        "x^2 = 3x + 6y, \\quad xy = 5x + 4y"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $x^2 = 3x + 6y \\dots (1)$\n$$xy = 5x + 4y \\dots (2)$$",
+      "image": null,
+      "formulas": [
+        "x^2 = 3x + 6y \\dots (1)",
+        "xy = 5x + 4y \\dots (2)"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(1) থেকে (2) বিয়োগ করে, $x(x - y) = -2(x - y)$",
+      "image": null,
+      "formulas": [
+        "x(x - y) = -2(x - y)"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x(x - y) + 2(x - y) = 0$",
+      "image": null,
+      "formulas": [
+        "x(x - y) + 2(x - y) = 0"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $(x - y)(x + 2) = 0$",
+      "image": null,
+      "formulas": [
+        "(x - y)(x + 2) = 0"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p019",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore x = y \\dots (3)$",
+      "image": null,
+      "formulas": [
+        "\\therefore x = y \\dots (3)"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x = -2 \\dots (4)$",
+      "image": null,
+      "formulas": [
+        "x = -2 \\dots (4)"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(3) ও (1) থেকে আমরা পাই, $y^2 = 9y$ বা, $y(y - 9) = 0 \\therefore y = 0$ অথবা $9$",
+      "image": null,
+      "formulas": [
+        "y^2 = 9y",
+        "y(y - 9) = 0 \\therefore y = 0",
+        "9"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(3) থেকে, যখন $y = 0$ তখন $x = 0$ এবং যখন $y = 9$, তখন $x = 9$",
+      "image": null,
+      "formulas": [
+        "y = 0",
+        "x = 0",
+        "y = 9",
+        "x = 9"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার (4) ও (1) থেকে আমরা পাই, $x = -2$ এবং $4 = -6 + 6y$ বা, $6y = 10$ বা, $y = \\frac{5}{3}$",
+      "image": null,
+      "formulas": [
+        "x = -2",
+        "4 = -6 + 6y",
+        "6y = 10",
+        "y = \\frac{5}{3}"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণয়ে সমাধান $(x, y) = (0, 0), (9, 9), (-2, \\frac{5}{3})$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "(x, y) = (0, 0), (9, 9), (-2, \\frac{5}{3})"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p025",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২১.** সমাধান করো: $x^2 + y^2 = 61, \\quad xy = -30$",
+      "image": null,
+      "formulas": [
+        "x^2 + y^2 = 61, \\quad xy = -30"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p026",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $x^2 + y^2 = 61 \\dots (1)$\n$$xy = -30 \\dots (2)$$",
+      "image": null,
+      "formulas": [
+        "x^2 + y^2 = 61 \\dots (1)",
+        "xy = -30 \\dots (2)"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 112,
+      "printedPageStart": 107,
+      "printedPageEnd": 107,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p027",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(2) কে 2 দ্বারা গুণ করে (1) থেকে বিয়োগ করলে আমরা পাই, $(x - y)^2 = 121$ বা, $(x - y) = \\pm 11 \\dots (3)$",
+      "image": null,
+      "formulas": [
+        "(x - y)^2 = 121",
+        "(x - y) = \\pm 11 \\dots (3)"
+      ],
+      "pdfPageStart": 112,
+      "pdfPageEnd": 113,
+      "printedPageStart": 107,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p028",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(2) কে 2 দ্বারা গুণ করে (1) এর সাথে যোগ করলে পাই, $(x + y)^2 = 1$",
+      "image": null,
+      "formulas": [
+        "(x + y)^2 = 1"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p029",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x + y = \\pm 1 \\dots (4)$",
+      "image": null,
+      "formulas": [
+        "x + y = \\pm 1 \\dots (4)"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p030",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(3) ও (4) থেকে,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p031",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\left. \\begin{aligned} x + y &= 1 \\\\ x - y &= 11 \\end{aligned} \\right\\} \\dots (5)$$",
+      "image": null,
+      "formulas": [
+        "\\left. \\begin{aligned} x + y &= 1 \\\\ x - y &= 11 \\end{aligned} \\right\\} \\dots (5)"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p032",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\left. \\begin{aligned} x + y &= 1 \\\\ x - y &= -11 \\end{aligned} \\right\\} \\dots (6)$$",
+      "image": null,
+      "formulas": [
+        "\\left. \\begin{aligned} x + y &= 1 \\\\ x - y &= -11 \\end{aligned} \\right\\} \\dots (6)"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p033",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\left. \\begin{aligned} x + y &= -1 \\\\ x - y &= 11 \\end{aligned} \\right\\} \\dots (7)$$",
+      "image": null,
+      "formulas": [
+        "\\left. \\begin{aligned} x + y &= -1 \\\\ x - y &= 11 \\end{aligned} \\right\\} \\dots (7)"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p034",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\left. \\begin{aligned} x + y &= -1 \\\\ x - y &= -11 \\end{aligned} \\right\\} \\dots (8)$$",
+      "image": null,
+      "formulas": [
+        "\\left. \\begin{aligned} x + y &= -1 \\\\ x - y &= -11 \\end{aligned} \\right\\} \\dots (8)"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p035",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সমাধান করে পাই,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p036",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(5) থেকে, $x = 6, y = -5$ (6) থেকে, $x = -5, y = 6$",
+      "image": null,
+      "formulas": [
+        "x = 6, y = -5",
+        "x = -5, y = 6"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p037",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(7) থেকে, $x = 5, y = -6$ (8) থেকে $x = -6, y = 5$",
+      "image": null,
+      "formulas": [
+        "x = 5, y = -6",
+        "x = -6, y = 5"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p038",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণয়ে সমাধান $(x, y) = (6, -5), (-5, 6), (5, -6), (-6, 5)$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "(x, y) = (6, -5), (-5, 6), (5, -6), (-6, 5)"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p039",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২২. সমাধান করো:** $x^2 - 2xy + 8y^2 = 8, 3xy - 2y^2 = 4$",
+      "image": null,
+      "formulas": [
+        "x^2 - 2xy + 8y^2 = 8, 3xy - 2y^2 = 4"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p040",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $x^2 - 2xy + 8y^2 = 8 \\dots (1)$",
+      "image": null,
+      "formulas": [
+        "x^2 - 2xy + 8y^2 = 8 \\dots (1)"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p041",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$3xy - 2y^2 = 4 \\dots (2)$$",
+      "image": null,
+      "formulas": [
+        "3xy - 2y^2 = 4 \\dots (2)"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p042",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(1) এবং (2) থেকে আমরা পাই,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p043",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{x^2 - 2xy + 8y^2}{3xy - 2y^2} = \\frac{2}{1}$$",
+      "image": null,
+      "formulas": [
+        "\\frac{x^2 - 2xy + 8y^2}{3xy - 2y^2} = \\frac{2}{1}"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p044",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x^2 - 2xy + 8y^2 = 6xy - 4y^2$",
+      "image": null,
+      "formulas": [
+        "x^2 - 2xy + 8y^2 = 6xy - 4y^2"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p045",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x^2 - 8xy + 12y^2 = 0$",
+      "image": null,
+      "formulas": [
+        "x^2 - 8xy + 12y^2 = 0"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p046",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x^2 - 6xy - 2xy + 12y^2 = 0$",
+      "image": null,
+      "formulas": [
+        "x^2 - 6xy - 2xy + 12y^2 = 0"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p047",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $(x - 6y)(x - 2y) = 0$",
+      "image": null,
+      "formulas": [
+        "(x - 6y)(x - 2y) = 0"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p048",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore x = 6y \\dots (3)$ অথবা, $x = 2y \\dots (4)$",
+      "image": null,
+      "formulas": [
+        "\\therefore x = 6y \\dots (3)",
+        "x = 2y \\dots (4)"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p049",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(3) থেকে $x$ এর মান (2) এ বসিয়ে আমরা পাই,",
+      "image": null,
+      "formulas": [
+        "x"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p050",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$3 \\cdot 6y \\cdot y - 2y^2 = 4$ বা, $16y^2 = 4$ বা, $y^2 = \\frac{1}{4}$ বা, $y = \\pm \\frac{1}{2}$",
+      "image": null,
+      "formulas": [
+        "3 \\cdot 6y \\cdot y - 2y^2 = 4",
+        "16y^2 = 4",
+        "y^2 = \\frac{1}{4}",
+        "y = \\pm \\frac{1}{2}"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p051",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(3) থেকে, $x = 6 \\times \\left( \\pm \\frac{1}{2} \\right) = \\pm 3$",
+      "image": null,
+      "formulas": [
+        "x = 6 \\times \\left( \\pm \\frac{1}{2} \\right) = \\pm 3"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 113,
+      "printedPageStart": 108,
+      "printedPageEnd": 108,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p052",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার (4) থেকে $x$ এর মান (2) এ বসিয়ে আমরা পাই, $3 \\cdot 2y \\cdot y - 2y^2 = 4$ বা, $4y^2 = 4$ বা, $y^2 = 1$ বা, $y = \\pm 1$",
+      "image": null,
+      "formulas": [
+        "x",
+        "3 \\cdot 2y \\cdot y - 2y^2 = 4",
+        "4y^2 = 4",
+        "y^2 = 1",
+        "y = \\pm 1"
+      ],
+      "pdfPageStart": 113,
+      "pdfPageEnd": 114,
+      "printedPageStart": 108,
+      "printedPageEnd": 109,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p053",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(4) থেকে $x = 2 \\times (\\pm 1) = \\pm 2$",
+      "image": null,
+      "formulas": [
+        "x = 2 \\times (\\pm 1) = \\pm 2"
+      ],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p054",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণয়ে সমাধান $(x, y) = \\left(3, \\frac{1}{2}\\right), \\left(-3, -\\frac{1}{2}\\right), (2, 1), (-2, -1)$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "(x, y) = \\left(3, \\frac{1}{2}\\right), \\left(-3, -\\frac{1}{2}\\right), (2, 1), (-2, -1)"
+      ],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p055",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৩.** সমাধান করো: $\\frac{x + y}{x - y} + \\frac{x - y}{x + y} = \\frac{5}{2}, x^2 + y^2 = 90$",
+      "image": null,
+      "formulas": [
+        "\\frac{x + y}{x - y} + \\frac{x - y}{x + y} = \\frac{5}{2}, x^2 + y^2 = 90"
+      ],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p056",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $\\frac{x + y}{x - y} + \\frac{x - y}{x + y} = \\frac{5}{2} \\dots (1)$\n$x^2 + y^2 = 90 \\dots (2)$",
+      "image": null,
+      "formulas": [
+        "\\frac{x + y}{x - y} + \\frac{x - y}{x + y} = \\frac{5}{2} \\dots (1)",
+        "x^2 + y^2 = 90 \\dots (2)"
+      ],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p057",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(1) থেকে আমরা পাই,\n$$\\frac{(x + y)^2 + (x - y)^2}{(x + y)(x - y)} = \\frac{5}{2}$$\nবা, $\\frac{2(x^2 + y^2)}{x^2 - y^2} = \\frac{5}{2}$\nবা, $\\frac{2 \\times 90}{x^2 - y^2} = \\frac{5}{2}$ [(2) থেকে $x^2 + y^2 = 90$ বসিয়ে]\nবা, $x^2 - y^2 = 72 \\dots (3)$",
+      "image": null,
+      "formulas": [
+        "\\frac{(x + y)^2 + (x - y)^2}{(x + y)(x - y)} = \\frac{5}{2}",
+        "\\frac{2(x^2 + y^2)}{x^2 - y^2} = \\frac{5}{2}",
+        "\\frac{2 \\times 90}{x^2 - y^2} = \\frac{5}{2}",
+        "x^2 + y^2 = 90",
+        "x^2 - y^2 = 72 \\dots (3)"
+      ],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p058",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(2) + (3) নিলে, $2x^2 = 162$ বা, $x^2 = 81$ বা, $x = \\pm 9$\nএবং (2) - (3) নিলে, $2y^2 = 18$ বা, $y^2 = 9$ বা, $y = \\pm 3$",
+      "image": null,
+      "formulas": [
+        "2x^2 = 162",
+        "x^2 = 81",
+        "x = \\pm 9",
+        "2y^2 = 18",
+        "y^2 = 9",
+        "y = \\pm 3"
+      ],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p059",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণয়ে সমাধান $(x, y) = (9, 3), (9, -3), (-9, 3), (-9, -3)$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "(x, y) = (9, 3), (9, -3), (-9, 3), (-9, -3)"
+      ],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c05-t5.4-p060",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:** উদাহরণ ২০ এবং ২১ এর সমাধান বিকল্প পদ্ধতিতে নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 114,
+      "pdfPageEnd": 114,
+      "printedPageStart": 109,
+      "printedPageEnd": 109,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "physics-9-10-bn-c12",
+  "textbookId": "physics-9-10-bn",
+  "number": 12,
+  "title": "বিদ্যুতের চৌম্বক ক্রিয়া",
+  "englishTitle": "Magnetic Effects of Current",
+  "pdfPages": [
+    334,
+    350
+  ],
+  "printedPages": [
+    329,
+    345
+  ],
+  "topics": [
+    {
+      "key": "12.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/12.0.json",
+      "passages": 5
+    },
+    {
+      "key": "12.1",
+      "title": "চুম্বক (Magnet)",
+      "file": "topics/12.1.json",
+      "passages": 4
+    },
+    {
+      "key": "12.2",
+      "title": "বিদ্যুতের চৌম্বক ক্রিয়া (Magnetic Effects of Current)",
+      "file": "topics/12.2.json",
+      "passages": 42
+    },
+    {
+      "key": "12.3",
+      "title": "তড়িৎ চুম্বকীয় আবেশ (Electromagnetic Induction)",
+      "file": "topics/12.3.json",
+      "passages": 28
+    },
+    {
+      "key": "12.ex",
+      "title": "নমুনা প্রশ্ন",
+      "file": "topics/12.ex.json",
+      "passages": 31
+    }
+  ],
+  "stats": {
+    "topics": 5,
+    "passages": 110,
+    "images": 15,
+    "byKind": {
+      "figure": 27,
+      "text": 51,
+      "objective": 1,
+      "formula": 2,
+      "example": 2,
+      "exercise": 27
+    },
+    "byReason": {
+      "verify-formula": 12,
+      "known-confusable-corrected": 29,
+      "latin-junk": 5
+    },
+    "needsReview": 41
+  }
+}

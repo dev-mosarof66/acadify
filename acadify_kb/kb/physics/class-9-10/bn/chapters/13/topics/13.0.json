@@ -1,0 +1,69 @@
+{
+  "id": "physics-9-10-bn-c13-t13.0",
+  "key": "13.0",
+  "title": "ভূমিকা ও শিখনফল",
+  "chapter": 13,
+  "ordinal": 0,
+  "passages": [
+    {
+      "id": "physics-9-10-bn-c13-t13.0-p001",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "photo: green and blue circuit board pattern",
+      "image": "p351-page_1_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 351,
+      "pdfPageEnd": 351,
+      "printedPageStart": 346,
+      "printedPageEnd": 346,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c13-t13.0-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বিংশ শতাব্দীর শুরুতে আধুনিক পদার্থবিজ্ঞানের সূচনা হলে যে যে নতুন বিষয়গুলোর জন্ম হয়, তার একটি হচ্ছে তেজস্ক্রিয়তা। এই অধ্যায়ে তেজস্ক্রিয়তার বিষয়টি তোমাদের জন্য ব্যাখ্যা করা হয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 351,
+      "pdfPageEnd": 351,
+      "printedPageStart": 346,
+      "printedPageEnd": 346,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c13-t13.0-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমাদের বর্তমান সভ্যতার মূল চালিকাশক্তি হচ্ছে ইলেকট্রনিকস—এই উক্তিটি মোটেই অতিরঞ্জিত নয়। বর্তমান ইলেকট্রনিকসের পেছনে পদার্থবিজ্ঞানের অবদানটুকু এই অধ্যায়ে আলোচনা করা হয়েছে। যেসব যন্ত্রপাতি আমাদের জীবনকে পুরোপুরি পাল্টে দিয়েছে এই অধ্যায়ে সেই সব যন্ত্রের সাথেও তোমাদের পরিচয় করিয়ে দেওয়া হয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 351,
+      "pdfPageEnd": 351,
+      "printedPageStart": 346,
+      "printedPageEnd": 346,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "physics-9-10-bn-c13-t13.0-p004",
+      "kind": "objective",
+      "section": "এ অধ্যায় শেষে আমরা –",
+      "caption": null,
+      "body": "* তেজস্ক্রিয়তা ব্যাখ্যা করতে পারব।\n* আলফা, বিটা ও গামা রশ্মির বৈশিষ্ট্য ব্যাখ্যা করতে পারব।\n* ইলেকট্রনিকসের ক্রমবিকাশ বর্ণনা করতে পারব।\n* অ্যানালগ ও ডিজিটাল ইলেকট্রনিকসের পার্থক্য করতে পারব।\n* অর্ধপরিবাহী ও সম্মিত বর্তনী ব্যাখ্যা করতে পারব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 352,
+      "pdfPageEnd": 352,
+      "printedPageStart": 347,
+      "printedPageEnd": 347,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

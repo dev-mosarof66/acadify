@@ -1,0 +1,99 @@
+{
+  "id": "physics-9-10-bn-c08",
+  "textbookId": "physics-9-10-bn",
+  "number": 8,
+  "title": "আলোর প্রতিফলন",
+  "englishTitle": "Reflection of Light",
+  "pdfPages": [
+    215,
+    245
+  ],
+  "printedPages": [
+    210,
+    240
+  ],
+  "topics": [
+    {
+      "key": "8.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/8.0.json",
+      "passages": 4
+    },
+    {
+      "key": "8.1",
+      "title": "আলোর প্রকৃতি (Nature of Light)",
+      "file": "topics/8.1.json",
+      "passages": 10
+    },
+    {
+      "key": "8.2",
+      "title": "প্রতিফলন (Reflection)",
+      "file": "topics/8.2.json",
+      "passages": 26
+    },
+    {
+      "key": "8.3",
+      "title": "আয়না বা দর্পণ (Mirror)",
+      "file": "topics/8.3.json",
+      "passages": 33
+    },
+    {
+      "key": "8.4",
+      "title": "গোলীয় আয়না (Spherical Mirror)",
+      "file": "topics/8.4.json",
+      "passages": 2
+    },
+    {
+      "key": "8.5",
+      "title": "উত্তল আয়না (Convex Mirror)",
+      "file": "topics/8.5.json",
+      "passages": 29
+    },
+    {
+      "key": "8.6",
+      "title": "অবতল গোলীয় আয়না (Concave Mirror)",
+      "file": "topics/8.6.json",
+      "passages": 49
+    },
+    {
+      "key": "8.7",
+      "title": "বিবর্ধন (Magnification)",
+      "file": "topics/8.7.json",
+      "passages": 3
+    },
+    {
+      "key": "8.8",
+      "title": "আয়নার ব্যবহার (Use of Mirrors)",
+      "file": "topics/8.8.json",
+      "passages": 16
+    },
+    {
+      "key": "8.ex",
+      "title": "নমুনা প্রশ্ন",
+      "file": "topics/8.ex.json",
+      "passages": 41
+    }
+  ],
+  "stats": {
+    "topics": 10,
+    "passages": 213,
+    "images": 27,
+    "byKind": {
+      "figure": 59,
+      "text": 99,
+      "objective": 1,
+      "activity": 3,
+      "example": 11,
+      "table": 1,
+      "formula": 2,
+      "exercise": 37
+    },
+    "byReason": {
+      "verify-formula": 28,
+      "latin-junk": 26,
+      "known-confusable-corrected": 20,
+      "verify-table": 1
+    },
+    "needsReview": 65
+  }
+}

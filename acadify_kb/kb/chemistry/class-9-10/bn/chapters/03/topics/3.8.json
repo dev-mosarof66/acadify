@@ -1,0 +1,66 @@
+{
+  "id": "chemistry-9-10-bn-c03-t3.8",
+  "key": "3.8",
+  "title": "আইসোটোপ (Isotopes)",
+  "chapter": 3,
+  "ordinal": 8,
+  "passages": [
+    {
+      "id": "chemistry-9-10-bn-c03-t3.8-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যে সকল পরমাণুর প্রোটন সংখ্যা সমান কিন্তু ভরসংখ্যা ও নিউট্রন সংখ্যা ভিন্ন তাদেরকে একে অপরের আইসোটোপ বলে। ৩.০৯ নং টেবিলে দেখানো তিনটি H পরমাণুরই প্রোটন সংখ্যা সমান। কাজেই তারা একে অপরের আইসোটোপ। হাইড্রোজেনের সাতটি আইসোটোপ ($^1H$, $^2H$, $^3H$, $^4H$, $^5H$, $^6H$ এবং $^7H$) আছে। এর মধ্যে শুধু তিনটি প্রকৃতিতে পাওয়া যায়, অন্যগুলোকে ল্যাবরেটরিতে প্রস্তুত করা হয়।",
+      "image": null,
+      "formulas": [
+        "^1H",
+        "^2H",
+        "^3H",
+        "^4H",
+        "^5H",
+        "^6H",
+        "^7H"
+      ],
+      "pdfPageStart": 55,
+      "pdfPageEnd": 55,
+      "printedPageStart": 50,
+      "printedPageEnd": 50,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.8-p002",
+      "kind": "table",
+      "section": null,
+      "caption": "টেবিল ৩.০৯: হাইড্রোজেনের তিনটি প্রাকৃতিক আইসোটোপ",
+      "body": "<table><tr><th>নাম</th><th>প্রতীক</th><th>প্রোটন সংখ্যা<br />Z</th><th>ভর সংখ্যা<br />A</th><th>নিউট্রন সংখ্যা<br />A - Z</th></tr>\n<tr><td>হাইড্রোজেন বা<br />প্রোটিয়াম</td><td><sup>1</sup><sub>1</sub>H</td><td>1</td><td>1</td><td>0</td></tr>\n<tr><td>ডিউটেরিয়াম</td><td><sup>2</sup><sub>1</sub>D</td><td>1</td><td>2</td><td>1</td></tr>\n<tr><td>ট্রিটিয়াম</td><td><sup>3</sup><sub>1</sub>T</td><td>1</td><td>3</td><td>2</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 56,
+      "pdfPageEnd": 56,
+      "printedPageStart": 51,
+      "printedPageEnd": 51,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "chemistry-9-10-bn-c03-t3.8-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে ডিউটেরিয়াম ও ট্রিটিয়াম হাইড্রোজেন পরমাণুর আইসোটোপ।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 56,
+      "pdfPageEnd": 56,
+      "printedPageStart": 51,
+      "printedPageEnd": 51,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}
