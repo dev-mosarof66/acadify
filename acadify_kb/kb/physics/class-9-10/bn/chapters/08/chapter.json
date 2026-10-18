@@ -91,9 +91,9 @@
     "byReason": {
       "verify-formula": 28,
       "latin-junk": 26,
-      "known-confusable-corrected": 20,
+      "known-confusable-corrected": 24,
       "verify-table": 1
     },
-    "needsReview": 65
+    "needsReview": 69
   }
 }

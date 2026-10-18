@@ -80,15 +80,17 @@
       "kind": "example",
       "section": "উদাহরণ",
       "caption": null,
-      "body": "**প্রশ্ন:** 1000 W এর একটি মোটর ব্যবহার করে 15 s এ একটি 100 kg ভরের বস্তুরকে 10 m উপরে তোলা হলে শক্তির অপচয় কত? কর্মদক্ষতা কত?",
+      "body": "**প্রশ্ন:** 1000 W এর একটি মোটর ব্যবহার করে 15 s এ একটি 100 kg ভরের বস্তুকে 10 m উপরে তোলা হলে শক্তির অপচয় কত? কর্মদক্ষতা কত?",
       "image": null,
       "formulas": [],
       "pdfPageStart": 126,
       "pdfPageEnd": 126,
       "printedPageStart": 121,
       "printedPageEnd": 121,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "physics-9-10-bn-c04-t4.8-p006",

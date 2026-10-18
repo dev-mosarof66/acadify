@@ -83,11 +83,11 @@
       "exercise": 38
     },
     "byReason": {
-      "known-confusable-corrected": 28,
+      "known-confusable-corrected": 29,
       "verify-formula": 45,
       "latin-junk": 7,
       "verify-table": 6
     },
-    "needsReview": 77
+    "needsReview": 78
   }
 }

@@ -560,15 +560,17 @@
       "kind": "exercise",
       "section": "সংক্ষিপ্ত উত্তর প্রশ্ন",
       "caption": null,
-      "body": "১. অনুদৈর্ঘ্য ও অনুপ্রস্তু তরঞ্জোর মধ্যে দুইটি পার্থক্য লিখ।",
+      "body": "১. অনুদৈর্ঘ্য ও অনুপ্রস্তু তরঙ্গের মধ্যে দুইটি পার্থক্য লিখ।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 214,
       "pdfPageEnd": 214,
       "printedPageStart": 209,
       "printedPageEnd": 209,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "physics-9-10-bn-c07-t7.ex-p035",
@@ -605,15 +607,17 @@
       "kind": "exercise",
       "section": "সংক্ষিপ্ত উত্তর প্রশ্ন",
       "caption": null,
-      "body": "৪. ধানের ক্ষেতে বাতাসের দোলন কোন ধরনের তরঞ্জা- ব্যাখ্যা করো।",
+      "body": "৪. ধানের ক্ষেতে বাতাসের দোলন কোন ধরনের তরঙ্গ- ব্যাখ্যা করো।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 214,
       "pdfPageEnd": 214,
       "printedPageStart": 209,
       "printedPageEnd": 209,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     }
   ]
 }

@@ -89,11 +89,11 @@
       "exercise": 40
     },
     "byReason": {
+      "known-confusable-corrected": 46,
       "latin-junk": 12,
       "verify-formula": 75,
-      "verify-table": 6,
-      "known-confusable-corrected": 16
+      "verify-table": 6
     },
-    "needsReview": 107
+    "needsReview": 130
   }
 }

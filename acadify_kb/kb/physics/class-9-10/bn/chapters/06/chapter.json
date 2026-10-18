@@ -83,7 +83,7 @@
       "exercise": 37
     },
     "byReason": {
-      "known-confusable-corrected": 12,
+      "known-confusable-corrected": 13,
       "latin-junk": 14,
       "verify-formula": 100,
       "verify-table": 2

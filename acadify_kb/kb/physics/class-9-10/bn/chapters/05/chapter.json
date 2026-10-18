@@ -80,8 +80,8 @@
       "verify-formula": 91,
       "latin-junk": 22,
       "verify-table": 9,
-      "known-confusable-corrected": 20
+      "known-confusable-corrected": 21
     },
-    "needsReview": 135
+    "needsReview": 136
   }
 }

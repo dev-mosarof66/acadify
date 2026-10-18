@@ -67,9 +67,9 @@
     "byReason": {
       "verify-formula": 62,
       "verify-table": 1,
-      "known-confusable-corrected": 29,
+      "known-confusable-corrected": 33,
       "latin-junk": 7
     },
-    "needsReview": 96
+    "needsReview": 100
   }
 }

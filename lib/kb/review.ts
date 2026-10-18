@@ -20,6 +20,14 @@ export const CORRECTIONS: { name: string; pattern: RegExp; to: string }[] = [
   { name: "ভোতিক", pattern: notBn("ভোতিক"), to: "ভৌতিক" },
   { name: "সৃক্ষ", pattern: /সৃক্ষ/g, to: "সূক্ষ্ম" },
   { name: "বস্তুরটির", pattern: /বস্তুরটির/g, to: "বস্তুটির" },
+  // Confirmed against the printed pages of the Physics book, each non-words that recur dozens of times:
+  { name: "বস্তুরকে", pattern: /বস্তুরকে/g, to: "বস্তুকে" },
+  { name: "বস্তুরটি", pattern: /বস্তুরটি/g, to: "বস্তুটি" },
+  { name: "বস্তুরটা", pattern: /বস্তুরটা/g, to: "বস্তুটা" },
+  { name: "দ্বিতি", pattern: /দ্বিতি/g, to: "দ্রুতি" }, // দ্রুতি (speed) read as দ্বিতি on pages 42-63; দ্বিতীয় is a different word
+  // The book's font draws ঙ্গ so that it looks like ঞ্জ (the page header reads "তরঙ্গ ও শব্দ"); the word is তরঙ্গ
+  { name: "তরঞ্জোর", pattern: /তরঞ্জোর/g, to: "তরঙ্গের" },
+  { name: "তরঞ্জা", pattern: /তরঞ্জা/g, to: "তরঙ্গ" },
   // Chemistry chapter 4: the chapter's own title page reads "পর্যায় সারণি"; the contents page and some headings misread it
   { name: "পর্দায় সারণি", pattern: /পর্দায় সারণি/g, to: "পর্যায় সারণি" },
   { name: "পার্যায় সারণি", pattern: /পার্যায় সারণি/g, to: "পর্যায় সারণি" },

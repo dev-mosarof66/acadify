@@ -72,7 +72,7 @@
       "kind": "text",
       "section": null,
       "caption": null,
-      "body": "ধনাত্মক কাজ করা $\\rightarrow$ বস্তুরটিকে শক্তি দেওয়া\nঋণাত্মক কাজ করা $\\rightarrow$ বস্তুরটি থেকে শক্তি সরিয়ে নেওয়া",
+      "body": "ধনাত্মক কাজ করা $\\rightarrow$ বস্তুটিকে শক্তি দেওয়া\nঋণাত্মক কাজ করা $\\rightarrow$ বস্তুটি থেকে শক্তি সরিয়ে নেওয়া",
       "image": null,
       "formulas": [
         "\\rightarrow",
@@ -83,6 +83,7 @@
       "printedPageStart": 102,
       "printedPageEnd": 102,
       "reviewReasons": [
+        "known-confusable-corrected",
         "verify-formula"
       ],
       "needsReview": true

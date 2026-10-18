@@ -55,15 +55,17 @@
       "kind": "exercise",
       "section": "বহুনির্বাচনি প্রশ্ন",
       "caption": null,
-      "body": "২. ৫ kg ভরের একটি বস্তুরকে ২০ cm, ৩০ cm, ৪০ cm ও ৫০ cm উপরে রাখা হলো। কোন অবস্থানে তার বিভব শক্তি সবচেয়ে বেশি?",
+      "body": "২. ৫ kg ভরের একটি বস্তুকে ২০ cm, ৩০ cm, ৪০ cm ও ৫০ cm উপরে রাখা হলো। কোন অবস্থানে তার বিভব শক্তি সবচেয়ে বেশি?",
       "image": null,
       "formulas": [],
       "pdfPageStart": 128,
       "pdfPageEnd": 128,
       "printedPageStart": 123,
       "printedPageEnd": 123,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "physics-9-10-bn-c04-t4.ex-p005",

@@ -461,7 +461,7 @@
       "kind": "text",
       "section": "Graphs of distance, speed, and acceleration vs. time — সময় (s)",
       "caption": null,
-      "body": "আমাদের কাছে যদি সময় এবং দূরত্বের একটি লেখচিত্র থাকে, তাহলে সেখান থেকে আমরা খুব সহজেই বস্তুটির বেগ বের করতে পারব। বেগ হচ্ছে অবস্থানের পরিবর্তনের হার। কাজেই আমরা লেখচিত্রে দেখতে পাই বস্তুরটি ০ থেকে 1 সেকেন্ডে ০ m থেকে 1 m দূরত্ব অতিক্রম করেছে।",
+      "body": "আমাদের কাছে যদি সময় এবং দূরত্বের একটি লেখচিত্র থাকে, তাহলে সেখান থেকে আমরা খুব সহজেই বস্তুটির বেগ বের করতে পারব। বেগ হচ্ছে অবস্থানের পরিবর্তনের হার। কাজেই আমরা লেখচিত্রে দেখতে পাই বস্তুটি ০ থেকে 1 সেকেন্ডে ০ m থেকে 1 m দূরত্ব অতিক্রম করেছে।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 58,
@@ -854,22 +854,7 @@
       "kind": "text",
       "section": "কাজের ধারা:",
       "caption": null,
-      "body": "৪. আবার মারবেল, পেনসিল বা কলমটি ঢালু পৃষ্ঠে গড়িয়ে দাও, সংখ্যা গুণে সময় পরিমাণ করে আবার গড় দ্বিতি বের করো। এভাবে ঢালটা ধীরে ধীরে বাড়িয়ে প্রত্যেকবার গড় দ্বিতি বের করো।",
-      "image": null,
-      "formulas": [],
-      "pdfPageStart": 61,
-      "pdfPageEnd": 61,
-      "printedPageStart": 56,
-      "printedPageEnd": 56,
-      "reviewReasons": [],
-      "needsReview": false
-    },
-    {
-      "id": "physics-9-10-bn-c02-t2.8-p052",
-      "kind": "text",
-      "section": "কাজের ধারা:",
-      "caption": null,
-      "body": "৭. একটি গ্রাফ পেপারে X অক্ষে sinθ এবং Y অক্ষে গড় দ্বিতি স্থাপন করে একটি লেখচিত্র আঁকো। লেখচিত্র থেকে যেকোনো ঢালের জন্য দ্বিতি বের করো।",
+      "body": "৪. আবার মারবেল, পেনসিল বা কলমটি ঢালু পৃষ্ঠে গড়িয়ে দাও, সংখ্যা গুণে সময় পরিমাণ করে আবার গড় দ্রুতি বের করো। এভাবে ঢালটা ধীরে ধীরে বাড়িয়ে প্রত্যেকবার গড় দ্রুতি বের করো।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 61,
@@ -877,7 +862,25 @@
       "printedPageStart": 56,
       "printedPageEnd": 56,
       "reviewReasons": [
-        "latin-junk"
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.8-p052",
+      "kind": "text",
+      "section": "কাজের ধারা:",
+      "caption": null,
+      "body": "৭. একটি গ্রাফ পেপারে X অক্ষে sinθ এবং Y অক্ষে গড় দ্রুতি স্থাপন করে একটি লেখচিত্র আঁকো। লেখচিত্র থেকে যেকোনো ঢালের জন্য দ্রুতি বের করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 61,
+      "pdfPageEnd": 61,
+      "printedPageStart": 56,
+      "printedPageEnd": 56,
+      "reviewReasons": [
+        "latin-junk",
+        "known-confusable-corrected"
       ],
       "needsReview": true
     },
@@ -886,7 +889,7 @@
       "kind": "table",
       "section": "কাজের ধারা:",
       "caption": null,
-      "body": "<table><tr><th>পাঠ</th><th>দূরত্ব L<br />(cm)</th><th>উচ্চতা h<br />(cm)</th><th>sinθ =<br />h/L</th><th>সময় t<br />(s)</th><th>দ্বিতি = দূরত্ব/ সময়<br />( m/s )</th><th>গড় দ্বিতি<br />( m/s )</th></tr>\n<tr><td>1<br />2<br />3</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n<tr><td>1<br />2<br />3</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n<tr><td>1<br />2<br />3</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
+      "body": "<table><tr><th>পাঠ</th><th>দূরত্ব L<br />(cm)</th><th>উচ্চতা h<br />(cm)</th><th>sinθ =<br />h/L</th><th>সময় t<br />(s)</th><th>দ্রুতি = দূরত্ব/ সময়<br />( m/s )</th><th>গড় দ্রুতি<br />( m/s )</th></tr>\n<tr><td>1<br />2<br />3</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n<tr><td>1<br />2<br />3</td><td></td><td></td><td></td><td></td><td></td><td></td></tr>\n<tr><td>1<br />2<br />3</td><td></td><td></td><td></td><td></td><td></td><td></td></tr></table>",
       "image": null,
       "formulas": [],
       "pdfPageStart": 61,
@@ -894,6 +897,7 @@
       "printedPageStart": 56,
       "printedPageEnd": 56,
       "reviewReasons": [
+        "known-confusable-corrected",
         "verify-table"
       ],
       "needsReview": true
@@ -903,15 +907,17 @@
       "kind": "text",
       "section": "কাজের ধারা:",
       "caption": null,
-      "body": "**আলোচনা:** ঢালের সাথে দ্বিতির কী সম্পর্ক সেটি আলোচনা করো। পরীক্ষাটি আরো নির্ভুলভাবে করার জন্য আর কী কী করা সম্ভব আলোচনা করো।",
+      "body": "**আলোচনা:** ঢালের সাথে দ্রুতির কী সম্পর্ক সেটি আলোচনা করো। পরীক্ষাটি আরো নির্ভুলভাবে করার জন্য আর কী কী করা সম্ভব আলোচনা করো।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 61,
       "pdfPageEnd": 61,
       "printedPageStart": 56,
       "printedPageEnd": 56,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "physics-9-10-bn-c02-t2.8-p055",
@@ -1156,22 +1162,24 @@
     {
       "id": "physics-9-10-bn-c02-t2.8-p071",
       "kind": "text",
-      "section": "চলন্ত যানবাহনের দ্বিতি বের করা",
+      "section": "চলন্ত যানবাহনের দ্রুতি বের করা",
       "caption": null,
-      "body": "**উদ্দেশ্য:** ভিন্ন ভিন্ন সময়ে অতিক্রান্ত দূরত্ব থেকে নানা ধরনের যানবাহনের দ্বিতি বের করা।",
+      "body": "**উদ্দেশ্য:** ভিন্ন ভিন্ন সময়ে অতিক্রান্ত দূরত্ব থেকে নানা ধরনের যানবাহনের দ্রুতি বের করা।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 62,
       "pdfPageEnd": 62,
       "printedPageStart": 57,
       "printedPageEnd": 57,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "physics-9-10-bn-c02-t2.8-p072",
       "kind": "text",
-      "section": "চলন্ত যানবাহনের দ্বিতি বের করা",
+      "section": "চলন্ত যানবাহনের দ্রুতি বের করা",
       "caption": null,
       "body": "**যন্ত্রপাতি:** রুলার",
       "image": null,
@@ -1180,13 +1188,15 @@
       "pdfPageEnd": 62,
       "printedPageStart": 57,
       "printedPageEnd": 57,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "physics-9-10-bn-c02-t2.8-p073",
       "kind": "text",
-      "section": "চলন্ত যানবাহনের দ্বিতি বের করা",
+      "section": "চলন্ত যানবাহনের দ্রুতি বের করা",
       "caption": null,
       "body": "**কাজের ধারা:**",
       "image": null,
@@ -1195,13 +1205,15 @@
       "pdfPageEnd": 62,
       "printedPageStart": 57,
       "printedPageEnd": 57,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "physics-9-10-bn-c02-t2.8-p074",
       "kind": "text",
-      "section": "চলন্ত যানবাহনের দ্বিতি বের করা",
+      "section": "চলন্ত যানবাহনের দ্রুতি বের করা",
       "caption": null,
       "body": "1. এটি করার জন্য প্রথমে একটি রাস্তার পাশে দুটি স্থির বস্তুর (লাইট পোস্ট, গাছ, দোকান ইত্যাদি) মাঝখানের দূরত্ব বের করতে হবে। সেটি নির্ধারিতভাবে বের করার বিষয়টি জটিল হতে পারে বলে আমরা একটি সহজ উপায় ব্যবহার করব। প্রথমে তোমার পদক্ষেপের দৈর্ঘ্যটি রুলার দিয়ে মেপে নেবে। (সঠিকভাবে মাপার জন্য দশ পদক্ষেপে অতিক্রান্ত দূরত্ব মেপে দশ দিয়ে ভাগ করে নেওয়া যেতে পারে।)",
       "image": null,
@@ -1210,13 +1222,15 @@
       "pdfPageEnd": 62,
       "printedPageStart": 57,
       "printedPageEnd": 57,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "physics-9-10-bn-c02-t2.8-p075",
       "kind": "text",
-      "section": "চলন্ত যানবাহনের দ্বিতি বের করা",
+      "section": "চলন্ত যানবাহনের দ্রুতি বের করা",
       "caption": null,
       "body": "2. এখন রাস্তার পাশে স্থির বস্তু দুটির একটি থেকে অন্যটিতে হেঁটে যাও, কত পদক্ষেপে দূরত্বটি অতিক্রম করেছ সেটি গুনে তাকে তোমার পদক্ষেপের দূরত্ব দিয়ে গুণ করে মোট দূরত্ব বের করে নাও। আনুমানিক দূরত্ব একশ মিটারের কাছাকাছি হলে ভালো।",
       "image": null,
@@ -1225,28 +1239,32 @@
       "pdfPageEnd": 63,
       "printedPageStart": 58,
       "printedPageEnd": 58,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "physics-9-10-bn-c02-t2.8-p076",
       "kind": "text",
-      "section": "চলন্ত যানবাহনের দ্বিতি বের করা",
+      "section": "চলন্ত যানবাহনের দ্রুতি বের করা",
       "caption": null,
-      "body": "3. এবারে রাস্তার পাশে একটা নিরাপদ দূরত্ব থেকে সাইকেল রিকশা, টেক্সো কিংবা কোনো পথচারীর দ্বিতি মাপার চেষ্টা করো। যেহেতু দূরত্বটি জানা আছে তাই এ দূরত্ব অতিক্রম করার সময়টুকু মাপতে পারলেই দ্বিতীয়টুকু বের করা যাবে।",
+      "body": "3. এবারে রাস্তার পাশে একটা নিরাপদ দূরত্ব থেকে সাইকেল রিকশা, টেক্সো কিংবা কোনো পথচারীর দ্রুতি মাপার চেষ্টা করো। যেহেতু দূরত্বটি জানা আছে তাই এ দূরত্ব অতিক্রম করার সময়টুকু মাপতে পারলেই দ্বিতীয়টুকু বের করা যাবে।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 63,
       "pdfPageEnd": 63,
       "printedPageStart": 58,
       "printedPageEnd": 58,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "physics-9-10-bn-c02-t2.8-p077",
       "kind": "text",
-      "section": "চলন্ত যানবাহনের দ্বিতি বের করা",
+      "section": "চলন্ত যানবাহনের দ্রুতি বের করা",
       "caption": null,
       "body": "4. সঠিকভাবে সময় মাপার জন্য স্টপ ওয়াচ বা থামা ঘড়ির প্রয়োজন কিংবা সাধারণ ঘড়ি হলেই কাজ চলে যাবে। কিছুই যদি না থাকে তাহলে সময় মাপার জন্য আমরা একটি সহজ পদ্ধতি ব্যবহার করতে পারি। ‘এক হাজার এক’, ‘এক হাজার দুই’ ‘এক হাজার তিন’ এই কথাগুলো স্বাভাবিক দ্রুততার উচ্চারণ করতে মোটামুটি এক সেকেন্ড সময় লাগে। কাজেই এভাবে গুনে আমরা সময় পরিমাণ করতে পারি।",
       "image": null,
@@ -1255,13 +1273,15 @@
       "pdfPageEnd": 63,
       "printedPageStart": 58,
       "printedPageEnd": 58,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "physics-9-10-bn-c02-t2.8-p078",
       "kind": "text",
-      "section": "চলন্ত যানবাহনের দ্বিতি বের করা",
+      "section": "চলন্ত যানবাহনের দ্রুতি বের করা",
       "caption": null,
       "body": "5. রাস্তার পাশে দাঁড়িয়ে যখনই দেখবে একটি সাইকেল, রিকশা, টেক্সো বা পথচারী প্রথম স্থির বস্তুটি অতিক্রম করেছে সাথে সাথে ঘড়ি দেখা শুরু করো কিংবা ‘এক হাজার এক’ ‘এক হাজার দুই’ এভাবে গুনতে শুরু করো। যখন দেখবে এই যানটি দ্বিতীয় স্থির বস্তু অতিক্রম করেছে, সাথে সাথে ঘড়িতে সময় দেখো কিংবা গোনা বন্ধ করো। ঘড়ি দেখে সময় বের করো কিংবা তুমি যত পর্যন্ত গুনেছ তত সেকেন্ড সময় লেগেছে। দূরত্বটি অতিক্রম করতে এই সময়টি লেগেছে।",
       "image": null,
@@ -1270,45 +1290,17 @@
       "pdfPageEnd": 63,
       "printedPageStart": 58,
       "printedPageEnd": 58,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "physics-9-10-bn-c02-t2.8-p079",
       "kind": "text",
-      "section": "চলন্ত যানবাহনের দ্বিতি বের করা",
+      "section": "চলন্ত যানবাহনের দ্রুতি বের করা",
       "caption": null,
-      "body": "দূরত্বকে সময় দিয়ে ভাগ করে দ্বিতি বের করে নাও।",
-      "image": null,
-      "formulas": [],
-      "pdfPageStart": 63,
-      "pdfPageEnd": 63,
-      "printedPageStart": 58,
-      "printedPageEnd": 58,
-      "reviewReasons": [],
-      "needsReview": false
-    },
-    {
-      "id": "physics-9-10-bn-c02-t2.8-p080",
-      "kind": "text",
-      "section": "চলন্ত যানবাহনের দ্বিতি বের করা",
-      "caption": null,
-      "body": "**আলোচনা:** একটি ঘড়ির সময়ের সাথে তোমার সময় মাপার পদ্ধতিটি মিলিয়ে দেখো সেটি কতটুকু নির্ভুল। তোমার পদক্ষেপ মাপার প্রক্রিয়াটি কতটুকু নির্ভুল সেটি বিবেচনায় এনে তোমার বের করা দ্বিতিটি কত শতাংশ ভুল থাকতে পারে অনুমান করো।",
-      "image": null,
-      "formulas": [],
-      "pdfPageStart": 63,
-      "pdfPageEnd": 63,
-      "printedPageStart": 58,
-      "printedPageEnd": 58,
-      "reviewReasons": [],
-      "needsReview": false
-    },
-    {
-      "id": "physics-9-10-bn-c02-t2.8-p081",
-      "kind": "table",
-      "section": "চলন্ত যানবাহনের দ্বিতি বের করা",
-      "caption": null,
-      "body": "<table><tr><th>যানবাহন</th><th>পদক্ষেপের<br />সংখ্যা</th><th>অতিক্রান্ত দূরত্ব<br />L (m)</th><th>সময়<br />t (s)</th><th>গড় দ্বিতি =<br />L/t (m/s)</th></tr></table>",
+      "body": "দূরত্বকে সময় দিয়ে ভাগ করে দ্রুতি বের করে নাও।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 63,
@@ -1316,6 +1308,41 @@
       "printedPageStart": 58,
       "printedPageEnd": 58,
       "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.8-p080",
+      "kind": "text",
+      "section": "চলন্ত যানবাহনের দ্রুতি বের করা",
+      "caption": null,
+      "body": "**আলোচনা:** একটি ঘড়ির সময়ের সাথে তোমার সময় মাপার পদ্ধতিটি মিলিয়ে দেখো সেটি কতটুকু নির্ভুল। তোমার পদক্ষেপ মাপার প্রক্রিয়াটি কতটুকু নির্ভুল সেটি বিবেচনায় এনে তোমার বের করা দ্রুতিটি কত শতাংশ ভুল থাকতে পারে অনুমান করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 63,
+      "pdfPageEnd": 63,
+      "printedPageStart": 58,
+      "printedPageEnd": 58,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "physics-9-10-bn-c02-t2.8-p081",
+      "kind": "table",
+      "section": "চলন্ত যানবাহনের দ্রুতি বের করা",
+      "caption": null,
+      "body": "<table><tr><th>যানবাহন</th><th>পদক্ষেপের<br />সংখ্যা</th><th>অতিক্রান্ত দূরত্ব<br />L (m)</th><th>সময়<br />t (s)</th><th>গড় দ্রুতি =<br />L/t (m/s)</th></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 63,
+      "pdfPageEnd": 63,
+      "printedPageStart": 58,
+      "printedPageEnd": 58,
+      "reviewReasons": [
+        "known-confusable-corrected",
         "verify-table"
       ],
       "needsReview": true

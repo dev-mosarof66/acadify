@@ -99,7 +99,7 @@
       "kind": "example",
       "section": "উদাহরণ",
       "caption": null,
-      "body": "**প্রশ্ন:** তুমি একটি টেনিস বল 10 m/s বেগে একটা দেয়ালে ছুড়ে দেওয়ার পর এটা একই দ্বিতিতে ঠিক তোমার দিকে ফিরে এসেছে। বলটার ভর 100 gm হলে ভরবেগের পরিবর্তন কত?",
+      "body": "**প্রশ্ন:** তুমি একটি টেনিস বল 10 m/s বেগে একটা দেয়ালে ছুড়ে দেওয়ার পর এটা একই দ্রুতিতে ঠিক তোমার দিকে ফিরে এসেছে। বলটার ভর 100 gm হলে ভরবেগের পরিবর্তন কত?",
       "image": null,
       "formulas": [],
       "pdfPageStart": 77,
@@ -107,7 +107,8 @@
       "printedPageStart": 72,
       "printedPageEnd": 72,
       "reviewReasons": [
-        "latin-junk"
+        "latin-junk",
+        "known-confusable-corrected"
       ],
       "needsReview": true
     },

@@ -1,11 +1,11 @@
 {
-  "included": 144,
-  "held": 7,
+  "included": 148,
+  "held": 3,
   "excluded": 10,
   "exercises": 38,
   "reasons": {
     "picture description written by the parser": 9,
     "learning outcomes, not content": 1,
-    "needs a check: latin-junk": 7
+    "needs a check: latin-junk": 3
   }
 }

@@ -52,3 +52,9 @@ test("converts the Tamil words the parser used, and holds anything else foreign"
   assert.equal(hasForeignScript("শেষ হলো। λ ও θ বিজ্ঞানে"), false);
   assert.ok(reviewReasons({ kind: "text", body: "এখানে ஐ আছে", formulas: [] }, false).includes("foreign-script"));
 });
+
+test("fixes the Physics words confirmed against the printed pages", () => {
+  assert.equal(applyCorrections("গড় দ্বিতি ও সমদ্বিতি, দ্বিতীয় সূত্র").text, "গড় দ্রুতি ও সমদ্রুতি, দ্বিতীয় সূত্র");
+  assert.equal(applyCorrections("তরঞ্জা, তরঞ্জোর ও তরঞ্জাদৈর্ঘ্য").text, "তরঙ্গ, তরঙ্গের ও তরঙ্গদৈর্ঘ্য");
+  assert.equal(applyCorrections("বস্তুরকে, বস্তুরটি ও বস্তুরটা").text, "বস্তুকে, বস্তুটি ও বস্তুটা");
+});

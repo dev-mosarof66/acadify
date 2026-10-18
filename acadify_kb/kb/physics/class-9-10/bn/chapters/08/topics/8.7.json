@@ -50,15 +50,17 @@
       "kind": "text",
       "section": null,
       "caption": null,
-      "body": "আমরা যখন টেলিস্কোপে কোনো বস্তুরকে দেখি, খালি চোখে দেখলে সেটাকে যত বড় দেখানোর কথা টেলিস্কোপে দেখলে সেটাকে সে তুলনায় যত বড় দেখাবে, সেটাই হচ্ছে টেলিস্কোপের বিবর্ধন।",
+      "body": "আমরা যখন টেলিস্কোপে কোনো বস্তুকে দেখি, খালি চোখে দেখলে সেটাকে যত বড় দেখানোর কথা টেলিস্কোপে দেখলে সেটাকে সে তুলনায় যত বড় দেখাবে, সেটাই হচ্ছে টেলিস্কোপের বিবর্ধন।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 239,
       "pdfPageEnd": 239,
       "printedPageStart": 234,
       "printedPageEnd": 234,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     }
   ]
 }
