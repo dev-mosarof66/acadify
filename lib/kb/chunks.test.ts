@@ -95,3 +95,26 @@ test("a page-checked book releases passages held only for Latin unit words; fore
   assert.equal(classify(p, undefined, { pageChecked: true }).state, "included");
   assert.equal(classify({ ...p, reviewReasons: ["latin-junk", "foreign-script"] }, undefined, { pageChecked: true }).state, "held");
 });
+
+test("a shared passage goes with the questions it covers, not the one before it", () => {
+  const items = buildExerciseItems(
+    [
+      rec("exercise", "২. নিচের কোনটি ক্যালসিয়াম ফসফেটের সংকেত?"),
+      rec("exercise", "(ক) CaPO_4 (খ) Ca(PO_4)_2"),
+      rec("exercise", "(গ) Ca_2(PO_4)_3 (ঘ) Ca_3(PO_4)_2"),
+      rec("exercise", "নিচের উদ্দীপকের আলোকে ৩ ও ৪ নং প্রশ্নের উত্তর দাও:"),
+      rec("exercise", "5 গ্রাম হাইড্রোজেন গ্যাসকে 75 গ্রাম ক্লোরিন গ্যাসের মধ্যে চালনা করা হলো।"),
+      rec("exercise", "৩. কত গ্রাম HCl উৎপন্ন হবে?"),
+      rec("exercise", "(ক) 10 (খ) 20 (গ) 30 (ঘ) 40"),
+      rec("exercise", "৪. কোন গ্যাস অবশিষ্ট থাকবে?"),
+      rec("exercise", "(ক) H (খ) Cl (গ) N (ঘ) O"),
+      rec("exercise", "৫. স্বাধীন প্রশ্ন?"),
+    ],
+    book,
+  );
+  assert.equal(items.length, 4);
+  assert.ok(!items[0].text.includes("হাইড্রোজেন গ্যাসকে"));
+  assert.ok(items[1].text.startsWith("নিচের উদ্দীপকের আলোকে") && items[1].text.includes("৩. কত গ্রাম"));
+  assert.ok(items[2].text.includes("হাইড্রোজেন গ্যাসকে") && items[2].text.includes("৪. কোন গ্যাস"));
+  assert.ok(!items[3].text.includes("হাইড্রোজেন গ্যাসকে"));
+});

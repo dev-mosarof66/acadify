@@ -47,3 +47,30 @@ Review reasons: `latin-junk`, `known-confusable-corrected`, `verify-formula`, `v
 ## Status
 
 Exported: Physics (Bangla) Chapter 1. Not built yet: indexing/retrieval over `kb/`, the question generator wired to an LLM, English editions, other books.
+
+## Search and grounding (for question writing and lecture sheets)
+
+Only books whose `verification.json` says `"page-checked"` are released. The release set per chapter is `ai/chunks.jsonl` (whole explanations: a worked example, a formula with its lead-in, a table, each in one piece) and `ai/exercise-items.jsonl` (existing questions as whole items, with any shared passage attached). Lessons and exercises are separate pools, so a new question is never grounded in an old one.
+
+`npm run kb:embed` turns them into `index/<embedder>/` (chunks, vectors; committed, ~7 MB). Re-run it after the knowledge base changes; only changed chunks are re-embedded.
+
+Embedder: `KB_EMBED_PROVIDER` = `local` (default; a multilingual model on this machine, no key; the first run downloads ~120 MB into `.cache/`) or `voyage` / `openai` / `cohere` with `VOYAGE_API_KEY` / `OPENAI_API_KEY` / `COHERE_API_KEY`. `KB_EMBED_MODEL` overrides the model. An index remembers which embedder built it and queries use the same one. Use a hosted provider on a serverless host, where the local model is too heavy to run.
+
+From code (server side):
+
+```ts
+import { groundingFor, exemplarsFor } from "@/lib/kb/ground";
+
+// the passages to write from, with numbered source labels and page numbers
+const g = await groundingFor({ subject: "physics", chapters: [2, 3], query: "বেগ কাকে বলে", limit: 8 });
+//   g.context  → "[S1] Chapter 2: গতি > দ্রুতি এবং বেগ (pp. 41-42)\n…"
+//   g.sources  → [{ label: "S1", chapter, topic, pages, … }]  (cite these)
+// no query = the whole chapters or topics in book order, thinned evenly to maxChars
+const whole = await groundingFor({ subject: "chemistry", chapters: [6], maxChars: 12000 });
+// existing questions, to show the style (never as facts)
+const styles = await exemplarsFor({ subject: "chemistry", chapters: [6], type: "mcq", limit: 4 });
+```
+
+`searchKb(query, { filters, limit, mode })` in `lib/kb/search.ts` is the lower level: meaning (vectors) and exact words (BM25) fused, with filters for subject, class, chapter, topic and pool. If the embedder cannot run it falls back to words only and says so. Chunks whose text points to a figure with no picture in the knowledge base are left out unless `allowMissingFigures` is set.
+
+Try it: `npm run kb:search -- "বেগ কাকে বলে" --subject physics`, or `GET /api/admin/kb/search?q=…` (super admin). Quality check: `npm run kb:eval` (40 queries in `eval/queries.json`; the right chapter is the top hit 98% of the time and in the top 3 100% of the time with the subject filter).

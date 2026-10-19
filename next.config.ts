@@ -17,7 +17,12 @@ const nextConfig: NextConfig = {
   outputFileTracingIncludes: {
     "/admin/knowledge-base/**": ["./acadify_kb/kb/**/*"],
     "/api/admin/kb/asset": ["./acadify_kb/kb/**/*"],
+    // the search index is read from disk by the routes and pages that look things up in the knowledge base
+    "/api/admin/kb/search": ["./acadify_kb/index/**/*"],
+    "/dashboard/**": ["./acadify_kb/index/**/*"],
   },
+  // the local embedding model is a native module; keep it out of the bundle
+  serverExternalPackages: ["@huggingface/transformers", "onnxruntime-node", "sharp"],
   cacheComponents: true,
   partialPrefetching: true,
   turbopack: {

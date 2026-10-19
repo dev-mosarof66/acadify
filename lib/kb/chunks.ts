@@ -177,17 +177,40 @@ export function buildChunks(records: AiRecord[], book: ChunkBook, available: Set
 
 /** "১." / "1." / "২।" at the start of an exercise line: a new numbered question. */
 const NUMBERED = /^\s*[০-৯0-9]+\s*[.।)]\s*/;
+/** A passage, table or figure several questions are about. */
+const STIMULUS = /^\s*নিচের\s+(উদ্দীপক|তথ্য|চিত্র|সারণি|ছক|বর্ণনা|অনুচ্ছেদ)/;
+/** "৩ ও ৪ নং" / "5 - 7 নং": the questions a shared stimulus covers. */
+const RANGE = /([০-৯0-9]+)\s*(?:ও|-|–|থেকে|এবং)\s*([০-৯0-9]+)\s*নং/;
 
 /** Existing exercise questions as whole items (a stem with its options or its four parts), not line fragments. */
 export function buildExerciseItems(exercises: AiRecord[], book: ChunkBook): ExerciseItem[] {
   const items: AiRecord[][] = [];
   for (const rec of exercises) {
-    if (!items.length || NUMBERED.test(rec.text)) items.push([rec]);
+    if (!items.length || NUMBERED.test(rec.text) || STIMULUS.test(rec.text)) items.push([rec]);
     else items[items.length - 1].push(rec);
   }
   const out: ExerciseItem[] = [];
+  // "নিচের উদ্দীপকের আলোকে ৩ ও ৪ নং প্রশ্নের উত্তর দাও:" and its passage belong to questions 3 and 4, not to the one before
+  let shared: { text: string; from: number; to: number } | null = null;
   for (const group of items) {
-    const text = group.map((r) => r.text).join("\n");
+    const head = group[0].text;
+    if (STIMULUS.test(head) && !NUMBERED.test(head)) {
+      const range = head.match(RANGE);
+      const from = range ? Number(normalizeDigits(range[1])) : 0;
+      shared = { text: group.map((r) => r.text).join("\n"), from, to: range ? Number(normalizeDigits(range[2])) : 0 };
+      continue;
+    }
+    const number = Number(normalizeDigits(head.match(/^\s*([০-৯0-9]+)/)?.[1] ?? "0"));
+    let prefix = "";
+    if (shared && number) {
+      if (shared.from === 0) {
+        // no question numbers given: it covers the next numbered question only
+        shared.from = shared.to = number;
+      }
+      if (number >= shared.from && number <= shared.to) prefix = `${shared.text}\n\n`;
+      else if (number > shared.to) shared = null;
+    }
+    const text = prefix + group.map((r) => r.text).join("\n");
     const optionLine = /^\s*\(?[কখগঘ]\)/;
     const lines = text.split("\n");
     const partLines = lines.filter((l) => optionLine.test(l));

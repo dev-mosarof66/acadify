@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "embedder": "local:Xenova/multilingual-e5-small",
+  "dims": 384,
+  "builtAt": "2026-10-19T05:15:18.146Z",
+  "counts": {
+    "lesson": 1181,
+    "exercise": 636
+  },
+  "books": [
+    {
+      "id": "chemistry-9-10-bn",
+      "subject": "chemistry",
+      "classLevel": "9-10",
+      "lesson": 390,
+      "exercise": 89
+    },
+    {
+      "id": "higher-math-9-10-bn",
+      "subject": "higher-math",
+      "classLevel": "9-10",
+      "lesson": 388,
+      "exercise": 399
+    },
+    {
+      "id": "physics-9-10-bn",
+      "subject": "physics",
+      "classLevel": "9-10",
+      "lesson": 403,
+      "exercise": 148
+    }
+  ]
+}
