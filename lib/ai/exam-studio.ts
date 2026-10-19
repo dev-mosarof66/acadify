@@ -8,8 +8,10 @@ import { aiJobs, db, lectureSheets, questionBankItems } from "@/lib/db";
 import { signedUrl } from "@/lib/files/storage";
 import { claude, costBdt } from "./claude";
 import { checkPaper, LANGUAGES, PaperSchema, totalMarks, type PaperParams } from "./paper";
+import { TEXTBOOK_RULES, textbookFor } from "./textbook";
 
-export const PAPER_PROMPT_VERSION = "paper-v1";
+// v2: Class 9-10 Physics, Chemistry and Higher Math papers are grounded in the NCTB textbook passages
+export const PAPER_PROMPT_VERSION = "paper-v2";
 
 const SYSTEM = `You write exam question papers for schools and madrasas in Bangladesh, the way an experienced subject teacher would.
 
@@ -93,11 +95,12 @@ export async function runPaperJob(jobId: string) {
   const params = job.params as PaperParams;
 
   try {
-    const [{ blocks, skipped }, bank] = await Promise.all([sheetBlocks(job.instituteId, job.sourceSheetIds), bankQuestions(job.instituteId, params.subjectId)]);
+    const [{ blocks, skipped }, bank, textbook] = await Promise.all([sheetBlocks(job.instituteId, job.sourceSheetIds), bankQuestions(job.instituteId, params.subjectId), textbookFor(params)]);
     const content: Anthropic.Beta.BetaContentBlockParam[] = [
       ...blocks,
+      ...(textbook.block ? [{ type: "text" as const, text: textbook.block.text }] : []),
       ...(bank.length ? [{ type: "text" as const, text: `Questions already in the institute's bank (don't repeat):\n${bank.join("\n")}` }] : []),
-      { type: "text", text: request(params) },
+      { type: "text", text: textbook.block ? `${request(params)}\n\n${TEXTBOOK_RULES}` : request(params) },
     ];
 
     // Streamed, so a full 100-mark Bangla paper has room to finish without an HTTP timeout
@@ -130,7 +133,7 @@ export async function runPaperJob(jobId: string) {
     if (!parsed.success) throw new Error("The AI's answer couldn't be read as a question paper. Please try again.");
     const paper = parsed.data;
 
-    const warnings = [...checkPaper(paper, params), ...skipped.map((s) => `Not used as source: ${s}`)];
+    const warnings = [...checkPaper(paper, params), ...skipped.map((s) => `Not used as source: ${s}`), ...(textbook.block ? [textbook.block.summary] : []), ...(textbook.note ? [textbook.note] : [])];
     await db.update(aiJobs).set({ status: "awaiting_approval", output: paper, warnings, error: null }).where(eq(aiJobs.id, jobId));
   } catch (err) {
     console.error("[exam-studio] job failed", jobId, err);

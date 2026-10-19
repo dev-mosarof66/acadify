@@ -92,6 +92,8 @@ export async function searchKb(query: string, opts: SearchOptions = {}): Promise
   let usedVector = false;
   if (mode !== "lexical") {
     try {
+      // A serverless host has no disk to cache the local model on and would try to download it on every request
+      if (!opts.embedder && process.env.VERCEL && index.meta.embedder.startsWith("local:")) throw new Error("the local embedding model can't run on this host; build the index with a hosted embedder (KB_EMBED_PROVIDER)");
       const q = await (opts.embedder ?? embedderFor(index.meta.embedder)).embedQuery(query);
       if (q.length !== index.meta.dims) throw new Error(`the query vector has ${q.length} dimensions, the index ${index.meta.dims}`);
       const scored: { index: number; score: number }[] = [];

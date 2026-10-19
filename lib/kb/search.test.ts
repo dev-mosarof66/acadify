@@ -145,3 +145,11 @@ test("hosted providers send the documented request and return unit vectors", asy
   assert.equal(calls[3].body.input_type, "search_query");
   assert.deepEqual(calls[3].body.embedding_types, ["float"]);
 });
+
+test("a chapter listing skips the opening blurb but keeps it when it is all there is", async () => {
+  const items = [item("intro", "এই অধ্যায়ে আমরা দেখব", { topic: "2.0", topicTitle: "ভূমিকা" }), item("body", "বেগের সংজ্ঞা", { topic: "2.1" })];
+  const index = fakeIndex(items, () => "velocity");
+  assert.deepEqual((await groundingFor({ subject: "physics", chapters: [2], index })).sources.map((s) => s.id), ["body"]);
+  const only = fakeIndex([items[0]], () => "velocity");
+  assert.deepEqual((await groundingFor({ subject: "physics", chapters: [2], index: only })).sources.map((s) => s.id), ["intro"]);
+});

@@ -86,7 +86,9 @@ export async function groundingFor(o: GroundingOptions): Promise<Grounding> {
   const all: IndexedItem[] = [];
   const seen = new Set<string>();
   for (const filters of sets) for (const it of await listItems(filters, o.index)) if (!seen.has(it.id)) { seen.add(it.id); all.push(it); }
-  let items = all;
+  // a chapter's opening blurb ("in this chapter we will see…") has nothing to ask questions about: drop it when there is real content
+  const content = all.filter((it) => !/\.0$/.test(it.topic));
+  let items = content.length ? content : all;
   let thinned = false;
   const size = (xs: IndexedItem[]) => xs.reduce((s, x) => s + x.text.length + 80, 0);
   if (size(items) > maxChars) {
