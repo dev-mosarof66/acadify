@@ -3,7 +3,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Award, BookOpenText, BookMarked, FileText, GraduationCap, House, LayoutDashboard, ListChecks, School, Sparkles, UserRound, UserRoundCog, Users, Wallet } from "lucide-react";
+import { Award, BookOpenText, BookMarked, FileText, GraduationCap, House, LayoutDashboard, ListChecks, School, Sparkles, UserRound, UserRoundCog, Users, Utensils, Wallet } from "lucide-react";
 
 import logoImg from "@/assets/logo.png";
 import {
@@ -31,6 +31,7 @@ const NAV_GROUPS: { label?: string; items: NavItem[] }[] = [
       { title: "Students", href: "/dashboard/students", icon: Users, permission: "students:read" },
       { title: "Attendance", href: "/dashboard/attendance", icon: ListChecks, permission: "attendance:read" },
       { title: "Hifz tracker", href: "/dashboard/hifz", icon: BookOpenText, permission: "hifz:read" },
+      { title: "Boarding", href: "/dashboard/boarding", icon: Utensils, permission: "boarding:read" },
     ],
   },
   {

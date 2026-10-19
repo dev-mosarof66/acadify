@@ -45,6 +45,8 @@ export const PERMISSIONS = [
   "exams:write",
   "hifz:read",
   "hifz:write",
+  "boarding:read",
+  "boarding:write",
   "sheets:read",
   "sheets:write",
   "reports:read",
@@ -52,7 +54,7 @@ export const PERMISSIONS = [
 ] as const;
 export type Permission = (typeof PERMISSIONS)[number];
 
-const STAFF_READ: Permission[] = ["students:read", "attendance:read", "exams:read", "hifz:read", "sheets:read"];
+const STAFF_READ: Permission[] = ["students:read", "attendance:read", "exams:read", "hifz:read", "sheets:read", "boarding:read"];
 
 export const ROLE_PERMISSIONS: Record<InstituteRole, Permission[]> = {
   principal: PERMISSIONS.filter((p) => p !== "platform:manage"),
@@ -61,6 +63,7 @@ export const ROLE_PERMISSIONS: Record<InstituteRole, Permission[]> = {
     "members:manage",
     ...STAFF_READ,
     "students:write",
+    "boarding:write",
     "attendance:write",
     "sms:send",
     "fees:read",
@@ -70,7 +73,7 @@ export const ROLE_PERMISSIONS: Record<InstituteRole, Permission[]> = {
     "reports:read",
   ],
   accountant: ["students:read", "fees:read", "fees:collect", "fees:manage", "reports:read", "sms:send"],
-  teacher: [...STAFF_READ, "attendance:write", "exams:write", "hifz:write", "sheets:write"],
+  teacher: [...STAFF_READ, "attendance:write", "exams:write", "hifz:write", "boarding:write", "sheets:write"],
   student: ["self:read"],
   guardian: ["self:read"],
 };

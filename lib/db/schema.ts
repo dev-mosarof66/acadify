@@ -404,6 +404,8 @@ export const students = pgTable(
     address: text("address").notNull().default(""),
     /** Object key of the photo in the private files bucket. */
     photoKey: text("photo_key"),
+    /** Lives at the institute's boarding (madrasah); their meals are counted daily. */
+    isBoarder: boolean("is_boarder").notNull().default(false),
     status: studentStatus("status").notNull().default("active"),
     admittedOn: date("admitted_on").notNull().defaultNow(),
     ...timestamps,
@@ -867,4 +869,27 @@ export const questionBankItems = pgTable(
     ...timestamps,
   },
   (t) => [index("question_bank_institute_subject_idx").on(t.instituteId, t.subjectId)]
+);
+
+/* ---------------------------------------------------------------- boarding */
+
+/** One boarder's meals for a day (madrasah matbakh). A missing row means no meals were recorded. */
+export const mealLogs = pgTable(
+  "meal_logs",
+  {
+    id: uuid("id").primaryKey().defaultRandom(),
+    instituteId: uuid("institute_id")
+      .notNull()
+      .references(() => institutes.id, { onDelete: "cascade" }),
+    studentId: uuid("student_id")
+      .notNull()
+      .references(() => students.id, { onDelete: "cascade" }),
+    date: date("date").notNull(),
+    breakfast: boolean("breakfast").notNull().default(false),
+    lunch: boolean("lunch").notNull().default(false),
+    dinner: boolean("dinner").notNull().default(false),
+    markedBy: text("marked_by").notNull(),
+    ...timestamps,
+  },
+  (t) => [uniqueIndex("meal_logs_student_date_idx").on(t.studentId, t.date), index("meal_logs_institute_date_idx").on(t.instituteId, t.date)]
 );
