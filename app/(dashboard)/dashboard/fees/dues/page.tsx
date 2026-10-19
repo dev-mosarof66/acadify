@@ -1,4 +1,5 @@
 import { Suspense } from "react";
+import { Download } from "lucide-react";
 
 import { Skeleton } from "@/components/ui/skeleton";
 import { DuesTable } from "@/components/dashboard/fees";
@@ -18,7 +19,22 @@ async function Dues() {
   const total = dues.reduce((n, d) => n + d.owed, 0);
   return (
     <>
-      <PageHeader title="Dues" description={dues.length ? `${dues.length} students owe ${taka(total)}` : "Students with unpaid bills"} />
+      <PageHeader
+        title="Dues"
+        description={dues.length ? `${dues.length} students owe ${taka(total)}` : "Students with unpaid bills"}
+        actions={
+          <div className="flex flex-wrap gap-2">
+            <a href="/api/export/dues" className="inline-flex h-10 items-center gap-2 rounded-xl border border-border bg-card px-4 text-sm font-semibold">
+              <Download className="size-4" />
+              Export dues
+            </a>
+            <a href={`/api/export/payments?month=${new Date(now + 6 * 3600_000).toISOString().slice(0, 7)}`} className="inline-flex h-10 items-center gap-2 rounded-xl border border-border bg-card px-4 text-sm font-semibold">
+              <Download className="size-4" />
+              This month&apos;s payments
+            </a>
+          </div>
+        }
+      />
       <DuesTable dues={dues} today={today} canRemind={can(viewer.active.role, "fees:collect")} />
     </>
   );
