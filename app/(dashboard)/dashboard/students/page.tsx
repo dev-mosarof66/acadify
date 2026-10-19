@@ -1,4 +1,6 @@
 import { Suspense } from "react";
+import Link from "next/link";
+import { Download, IdCard } from "lucide-react";
 
 import { Skeleton } from "@/components/ui/skeleton";
 import { AddStudentButton, StudentsTable } from "@/components/dashboard/students";
@@ -21,12 +23,22 @@ async function Students() {
         title="Students"
         description={students.length ? `${active.toLocaleString("en-IN")} active students in ${classes.length} classes` : "Everyone enrolled at your institute"}
         actions={
-          can(viewer.active.role, "students:write") ? (
-            <div className="flex flex-wrap gap-2">
-              <ImportStudentsButton />
-              <AddStudentButton classes={classes} />
-            </div>
-          ) : undefined
+          <div className="flex flex-wrap gap-2">
+            <a href="/api/export/students" className="inline-flex h-10 items-center gap-2 rounded-xl border border-border bg-card px-4 text-sm font-semibold">
+              <Download className="size-4" />
+              Export
+            </a>
+            <Link href="/dashboard/students/id-cards" className="inline-flex h-10 items-center gap-2 rounded-xl border border-border bg-card px-4 text-sm font-semibold">
+              <IdCard className="size-4" />
+              ID cards
+            </Link>
+            {can(viewer.active.role, "students:write") && (
+              <>
+                <ImportStudentsButton />
+                <AddStudentButton classes={classes} />
+              </>
+            )}
+          </div>
         }
       />
       <StudentsTable students={students} classes={classes} />
