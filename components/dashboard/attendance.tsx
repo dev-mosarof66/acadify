@@ -11,7 +11,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Panel } from "@/components/super-admin/ui";
 import { SHIFT_LABELS } from "@/lib/ui/labels";
-import { saveAttendance, sendAbsenceSms } from "@/lib/institute/attendance-actions";
+import { saveAttendance, sendAbsenceSms, sendAbsenceSmsAll } from "@/lib/institute/attendance-actions";
 import type { AttendanceStatus, SectionDay, SheetRow } from "@/lib/institute/attendance-queries";
 import type { Shift } from "@/lib/institute/queries";
 import { cn } from "@/lib/utils";
@@ -41,6 +41,33 @@ export function DatePicker({ date, today, earliest, basePath }: { date: string; 
         className="h-10 w-[170px] rounded-xl bg-card dark:bg-card"
       />
     </label>
+  );
+}
+
+/** One click: text the guardians of every absent student in the institute for the day. */
+export function SendAllAbsenceSms({ date }: { date: string }) {
+  const router = useRouter();
+  const [pending, start] = React.useTransition();
+  const [message, setMessage] = React.useState<{ ok: boolean; text: string } | null>(null);
+  return (
+    <div className="flex items-center gap-2">
+      {message && <span className={cn("text-xs font-semibold", message.ok ? "text-primary" : "text-destructive")}>{message.text}</span>}
+      <Button
+        variant="outline"
+        className="h-10 rounded-xl"
+        disabled={pending}
+        onClick={() =>
+          start(async () => {
+            const r = await sendAbsenceSmsAll(date);
+            setMessage(r.ok ? { ok: true, text: r.message ?? "Sent." } : { ok: false, text: r.error });
+            if (r.ok) router.refresh();
+          })
+        }
+      >
+        {pending ? <Loader2 className="size-4 animate-spin" /> : <MessageSquareText className="size-4" />}
+        Text all absentees
+      </Button>
+    </div>
   );
 }
 

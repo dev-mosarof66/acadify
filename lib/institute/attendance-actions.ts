@@ -6,7 +6,7 @@ import { revalidatePath } from "next/cache";
 import { assertInstituteMember } from "@/lib/auth/session";
 import { attendance, db, instituteMembers, sectionTeachers, sections, students } from "@/lib/db";
 import { sendInstituteSms } from "@/lib/sms/send";
-import { canMarkSection, dhakaDate, type AttendanceStatus } from "./attendance-queries";
+import { canMarkSection, dhakaDate, marksAllSections, type AttendanceStatus } from "./attendance-queries";
 
 export type AttendanceResult = { ok: true; message?: string } | { ok: false; error: string };
 
@@ -100,6 +100,37 @@ export async function sendAbsenceSms(sectionId: string, date: string): Promise<A
           absent.map((a) => a.id)
         )
       );
+  }
+  revalidatePath("/dashboard", "layout");
+  return { ok: true, message: result.failed ? `${result.sent} SMS sent, ${result.failed} failed.` : `${result.sent} guardians texted.` };
+}
+
+/** 1-click: texts the guardians of every absent student in the whole institute for a day (principal / admin only). */
+export async function sendAbsenceSmsAll(date: string): Promise<AttendanceResult> {
+  const me = await assertInstituteMember("attendance:write");
+  if (!me) return { ok: false, error: "Your role can't send attendance SMS." };
+  if (!marksAllSections(me.active.role)) return { ok: false, error: "Only the principal or an admin can text every section at once." };
+  if (!dateAllowed(date)) return { ok: false, error: `Only today and the last ${EDIT_DAYS} days can be texted.` };
+
+  const absent = await db
+    .select({ id: attendance.id, name: students.name, nameBn: students.nameBn, phone: students.guardianPhone })
+    .from(attendance)
+    .innerJoin(students, eq(attendance.studentId, students.id))
+    .where(and(eq(attendance.instituteId, me.active.instituteId), eq(attendance.date, date), eq(attendance.status, "absent"), isNull(attendance.smsSentAt)));
+  if (!absent.length) return { ok: false, error: "Every absent student's guardian has already been texted." };
+
+  const [d, m] = [date.slice(8, 10), date.slice(5, 7)];
+  const result = await sendInstituteSms(
+    me.active.instituteId,
+    absent.map((a) => ({ to: a.phone, body: `প্রিয় অভিভাবক, ${a.nameBn || a.name} আজ (${d}/${m}) অনুপস্থিত ছিল। - ${me.active.instituteName}` }))
+  );
+  if (!result.ok) {
+    if (result.reason === "not-connected") return { ok: false, error: "SMS isn't set up yet. Acadify will turn it on soon; the absences are saved." };
+    if (result.reason === "no-credit") return { ok: false, error: `Not enough SMS credit: this needs ${result.needed} and ${result.balance} are left.` };
+    return { ok: false, error: "There was nothing to send." };
+  }
+  if (result.sent) {
+    await db.update(attendance).set({ smsSentAt: new Date() }).where(inArray(attendance.id, absent.map((a) => a.id)));
   }
   revalidatePath("/dashboard", "layout");
   return { ok: true, message: result.failed ? `${result.sent} SMS sent, ${result.failed} failed.` : `${result.sent} guardians texted.` };

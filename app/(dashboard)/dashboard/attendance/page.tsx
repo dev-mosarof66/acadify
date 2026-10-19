@@ -1,7 +1,7 @@
 import { Suspense } from "react";
 
 import { Skeleton } from "@/components/ui/skeleton";
-import { DatePicker, SectionDayList } from "@/components/dashboard/attendance";
+import { DatePicker, SectionDayList, SendAllAbsenceSms } from "@/components/dashboard/attendance";
 import { PageHeader } from "@/components/super-admin/ui";
 import { requireInstituteMember } from "@/lib/auth/session";
 import { dhakaDate, getSectionsForDay, marksAllSections } from "@/lib/institute/attendance-queries";
@@ -26,7 +26,12 @@ async function Attendance({ searchParams }: { searchParams: PageProps<"/dashboar
       <PageHeader
         title="Attendance"
         description={`${date === today ? "Today" : dayLabel(date)} · ${done} of ${sections.length} ${all ? "sections" : "of your sections"} done`}
-        actions={<DatePicker date={date} today={today} earliest={earliest} basePath="/dashboard/attendance" />}
+        actions={
+          <div className="flex flex-wrap items-center gap-3">
+            {all && done > 0 && <SendAllAbsenceSms date={date} />}
+            <DatePicker date={date} today={today} earliest={earliest} basePath="/dashboard/attendance" />
+          </div>
+        }
       />
       <SectionDayList
         sections={sections}
