@@ -1,0 +1,1047 @@
+{
+  "id": "higher-math-9-10-bn-c06-t6.0",
+  "key": "6.0",
+  "title": "ভূমিকা ও শিখনফল",
+  "chapter": 6,
+  "ordinal": 0,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সমীকরণ বা সমতা সম্পর্কে আমাদের ধারণা হয়েছে। কিন্তু বাস্তব জীবনে অসমতারও একটা বিস্তৃত ও গুরুত্বপূর্ণ ভূমিকা রয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 128,
+      "pdfPageEnd": 128,
+      "printedPageStart": 123,
+      "printedPageEnd": 123,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এ অধ্যায় শেষে শিক্ষার্থীরা -",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 128,
+      "pdfPageEnd": 128,
+      "printedPageStart": 123,
+      "printedPageEnd": 123,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "* এক ও দুই চলকের এক ঘাতবিশিষ্ট অসমতা ব্যাখ্যা করতে পারবে ;\n* দুই চলকবিশিষ্ট সরল অসমতা গঠন ও সমাধান করতে পারবে ;\n* বাস্তবভিত্তিক গাণিতিক সমস্যায় অসমতা ব্যবহার করে সমাধান করতে পারবে ;\n* এক ও দুই চলকবিশিষ্ট অসমতাকে লেখাচিত্রের সাহায্যে সমাধান করতে পারবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 128,
+      "pdfPageEnd": 128,
+      "printedPageStart": 123,
+      "printedPageEnd": 123,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p004",
+      "kind": "text",
+      "section": "অসমতার ধারণা",
+      "caption": null,
+      "body": "মনে করি একটি ক্লাসের ছাত্রসংখ্যা 200 জন। স্বাভাবিকভাবে দেখা যায় যে, ঐ ক্লাসে সবদিন সকলে উপস্থিত থাকে না, সকলে অনুপস্থিতও থাকে না। একটি নির্দিষ্ট দিনে উপস্থিত ছাত্র সংখ্যা $x$ হলে আমরা লিখতে পারি $0 < x < 200$। একইভাবে আমরা দেখি যে, কোনো নির্মিত অনুষ্ঠানেই সবাই উপস্থিত হয় না। পোশাক-পরিচ্ছদ ও অন্যান্য অনেক ভোগ্যপণ্য তৈরিতে পরিকারভাবে অসমতার ধারণা প্রয়োজন হয়। দালান তৈরির ক্ষেত্রে, পুস্তক মুদ্রণের ক্ষেত্রে এবং এরকম আরও অনেক ক্ষেত্রে উপাদানগুলো সঠিক পরিমাণে নির্ণয় করা যায় না বিধায় প্রথম পর্যায়ে অনুমানের ভিত্তিতে উপাদানগুলো কয় বা সংগ্রহ করতে হয়। অতএব দেখা যাচ্ছে যে, আমাদের দৈনন্দিন জীবনে অসমতার ধারণাটা খুবই গুরুত্বপূর্ণ।",
+      "image": null,
+      "formulas": [
+        "x",
+        "0 < x < 200"
+      ],
+      "pdfPageStart": 128,
+      "pdfPageEnd": 128,
+      "printedPageStart": 123,
+      "printedPageEnd": 123,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p005",
+      "kind": "text",
+      "section": "বাস্তব সংখ্যার ক্ষেত্রে",
+      "caption": null,
+      "body": "$a > b$ যদি ও কেবল যদি $(a - b)$ ধনাত্মক অর্থাৎ $(a - b) > 0$",
+      "image": null,
+      "formulas": [
+        "a > b",
+        "(a - b)",
+        "(a - b) > 0"
+      ],
+      "pdfPageStart": 128,
+      "pdfPageEnd": 128,
+      "printedPageStart": 123,
+      "printedPageEnd": 123,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p006",
+      "kind": "text",
+      "section": "বাস্তব সংখ্যার ক্ষেত্রে",
+      "caption": null,
+      "body": "$a < b$ যদি ও কেবল যদি $(a - b)$ ঋণাত্মক অর্থাৎ $(a - b) < 0$",
+      "image": null,
+      "formulas": [
+        "a < b",
+        "(a - b)",
+        "(a - b) < 0"
+      ],
+      "pdfPageStart": 128,
+      "pdfPageEnd": 128,
+      "printedPageStart": 123,
+      "printedPageEnd": 123,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p007",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "ক) $a < b \\iff b > a$",
+      "image": null,
+      "formulas": [
+        "a < b \\iff b > a"
+      ],
+      "pdfPageStart": 128,
+      "pdfPageEnd": 128,
+      "printedPageStart": 123,
+      "printedPageEnd": 123,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p008",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "খ) $a > b$ হলে যেকোনো $c$ এর জন্য",
+      "image": null,
+      "formulas": [
+        "a > b",
+        "c"
+      ],
+      "pdfPageStart": 128,
+      "pdfPageEnd": 128,
+      "printedPageStart": 123,
+      "printedPageEnd": 123,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p009",
+      "kind": "formula",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "$$a + c > b + c  এবং  a - c > b - c$$",
+      "image": null,
+      "formulas": [
+        "a + c > b + c  এবং  a - c > b - c"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p010",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "গ) $a > b$ হলে যেকোনো $c$ এর জন্য",
+      "image": null,
+      "formulas": [
+        "a > b",
+        "c"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p011",
+      "kind": "formula",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "$$ac > bc  এবং  \\frac{a}{c} > \\frac{b}{c}  যখন  c > 0$$",
+      "image": null,
+      "formulas": [
+        "ac > bc  এবং  \\frac{a}{c} > \\frac{b}{c}  যখন  c > 0"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p012",
+      "kind": "formula",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "$$ac < bc  এবং  \\frac{a}{c} < \\frac{b}{c}  যখন  c < 0$$",
+      "image": null,
+      "formulas": [
+        "ac < bc  এবং  \\frac{a}{c} < \\frac{b}{c}  যখন  c < 0"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p013",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "**উদাহরণ ১.** $x < 2$ হলে",
+      "image": null,
+      "formulas": [
+        "x < 2"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p014",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "ক) $x + 2 < 4$ [উভয়পক্ষে ২ যোগ করে]",
+      "image": null,
+      "formulas": [
+        "x + 2 < 4"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p015",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "খ) $x - 2 < 0$ [উভয়পক্ষে ২ বিয়োগ করে]",
+      "image": null,
+      "formulas": [
+        "x - 2 < 0"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p016",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "গ) $2x < 4$ [উভয়পক্ষকে ২ দ্বারা গুণ করে]",
+      "image": null,
+      "formulas": [
+        "2x < 4"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p017",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "ঘ) $-3x > -6$ [উভয়পক্ষকে $-3$ দ্বারা গুণ করে]",
+      "image": null,
+      "formulas": [
+        "-3x > -6",
+        "-3"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p018",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "এখানে উল্লেখ্য যে,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p019",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "$a \\ge b$ এর অর্থ $a > b$ অথবা $a = b$",
+      "image": null,
+      "formulas": [
+        "a \\ge b",
+        "a > b",
+        "a = b"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p020",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "$a \\le b$ এর অর্থ $a < b$ অথবা $a = b$",
+      "image": null,
+      "formulas": [
+        "a \\le b",
+        "a < b",
+        "a = b"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p021",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "$a < b < c$ এর অর্থ $a < b$ এবং $b < c$ যার অর্থ $a < c$",
+      "image": null,
+      "formulas": [
+        "a < b < c",
+        "a < b",
+        "b < c",
+        "a < c"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p022",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "**উদাহরণ ২.** $3 \\ge 1$ সত্য যেহেতু $3 > 1$",
+      "image": null,
+      "formulas": [
+        "3 \\ge 1",
+        "3 > 1"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p023",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "$2 \\le 4$ সত্য যেহেতু $2 < 4$",
+      "image": null,
+      "formulas": [
+        "2 \\le 4",
+        "2 < 4"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p024",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "$2 < 3 < 4$ সত্য যেহেতু $2 < 3$ এবং $3 < 4$",
+      "image": null,
+      "formulas": [
+        "2 < 3 < 4",
+        "2 < 3",
+        "3 < 4"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p025",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "**কাজ:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p026",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "ক) তোমাদের শ্রেণির যে সকল ছাত্র-ছাত্রীর উচ্চতা ৫ ফুটের চেয়ে বেশি এবং ৫ ফুটের চেয়ে কম তাদের উচ্চতা অসমতার মাধ্যমে প্রকাশ করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p027",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "খ) কোনো পরীক্ষার মোট নম্বর 1000 হলে, একজন পরীক্ষার্থীর প্রাপ্ত নম্বর অসমতার মাধ্যমে প্রকাশ করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p028",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "**উদাহরণ ৩.** সমাধান করো ও সমাধান সেটটি সংখ্যারেখায় দেখাও: $4x + 4 > 16$",
+      "image": null,
+      "formulas": [
+        "4x + 4 > 16"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p029",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "**সমাধান:** দেওয়া আছে, $4x + 4 > 16$",
+      "image": null,
+      "formulas": [
+        "4x + 4 > 16"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p030",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "বা, $4x + 4 - 4 > 16 - 4$ [উভয়পক্ষ থেকে ৪ বিয়োগ করে]",
+      "image": null,
+      "formulas": [
+        "4x + 4 - 4 > 16 - 4"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p031",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "বা, $4x > 12$",
+      "image": null,
+      "formulas": [
+        "4x > 12"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 129,
+      "printedPageStart": 124,
+      "printedPageEnd": 124,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p032",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "বা, $\\frac{4x}{4} > \\frac{12}{4}$ [উভয়পক্ষকে ৪ দ্বারা ভাগ করে] বা, $x > 3$",
+      "image": null,
+      "formulas": [
+        "\\frac{4x}{4} > \\frac{12}{4}",
+        "x > 3"
+      ],
+      "pdfPageStart": 129,
+      "pdfPageEnd": 130,
+      "printedPageStart": 124,
+      "printedPageEnd": 125,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p033",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "$\\therefore$ নির্ণেয় সমাধান $x > 3$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "x > 3"
+      ],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p034",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "এখানে সমাধান সেট, $S = \\{x \\in R : x > 3\\}$",
+      "image": null,
+      "formulas": [
+        "S = \\{x \\in R : x > 3\\}"
+      ],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p035",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "সমাধান সেটটি নিচে অঙ্কিত সংখ্যারেখায় দেখানো হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p036",
+      "kind": "figure",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "drawing: number line showing the solution set x > 3",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p037",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "**উদাহরণ ৪.** সমাধান করো এবং সমাধান সেট সংখ্যারেখায় দেখাও: $x - 9 > 3x + 1$",
+      "image": null,
+      "formulas": [
+        "x - 9 > 3x + 1"
+      ],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p038",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "**সমাধান:** দেওয়া আছে, $x - 9 > 3x + 1$",
+      "image": null,
+      "formulas": [
+        "x - 9 > 3x + 1"
+      ],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p039",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "বা, $x - 9 + 9 > 3x + 1 + 9$",
+      "image": null,
+      "formulas": [
+        "x - 9 + 9 > 3x + 1 + 9"
+      ],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p040",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "বা, $x > 3x + 10$",
+      "image": null,
+      "formulas": [
+        "x > 3x + 10"
+      ],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p041",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "বা, $x - 3x > 3x + 10 - 3x$",
+      "image": null,
+      "formulas": [
+        "x - 3x > 3x + 10 - 3x"
+      ],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p042",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "বা, $-2x > 10$",
+      "image": null,
+      "formulas": [
+        "-2x > 10"
+      ],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p043",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "বা, $\\frac{-2x}{-2} < \\frac{10}{-2}$ [উভয়পক্ষকে $-2$ দ্বারা ভাগ করায় অসমতার দিক পাল্টে গেছে]",
+      "image": null,
+      "formulas": [
+        "\\frac{-2x}{-2} < \\frac{10}{-2}",
+        "-2"
+      ],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p044",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "বা, $x < -5$",
+      "image": null,
+      "formulas": [
+        "x < -5"
+      ],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p045",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "$\\therefore$ নির্ণেয় সমাধান $x < -5$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "x < -5"
+      ],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p046",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "সমাধান সেটটি নিচে অঙ্কিত সংখ্যা রেখায় দেখানো হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p047",
+      "kind": "figure",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "drawing: number line showing the solution set x < -5",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p048",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "**বিশেষ দ্রষ্টব্য:** সমীকরণের সমাধান যেমন একটি সমীকরণ (সমতা) দ্বারা প্রকাশ পায়, তেমনি অসমতার সমাধান একটি অসমতা দ্বারা প্রকাশ পায়। অসমতার সমাধান সেট (সাধারণত) বাস্তব সংখ্যার অসীম উপসেট।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p049",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "**উদাহরণ ৫.** সমাধান করো: $a(x + b) < c, [a \\neq 0]$",
+      "image": null,
+      "formulas": [
+        "a(x + b) < c, [a \\neq 0]"
+      ],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p050",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "**সমাধান:** $a$ ধনাত্মক হলে, $\\frac{a(x + b)}{a} < \\frac{c}{a}$ [উভয়পক্ষকে $a$ দ্বারা ভাগ করে]",
+      "image": null,
+      "formulas": [
+        "a",
+        "\\frac{a(x + b)}{a} < \\frac{c}{a}",
+        "a"
+      ],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p051",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "বা, $x + b < \\frac{c}{a}$ বা, $x < \\frac{c}{a} - b$",
+      "image": null,
+      "formulas": [
+        "x + b < \\frac{c}{a}",
+        "x < \\frac{c}{a} - b"
+      ],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p052",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "$a$ ঋণাত্মক হলে একই প্রক্রিয়ায় পাই, $\\frac{a(x + b)}{a} > \\frac{c}{a}$",
+      "image": null,
+      "formulas": [
+        "a",
+        "\\frac{a(x + b)}{a} > \\frac{c}{a}"
+      ],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p053",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "বা, $x + b > \\frac{c}{a}$ বা, $x > \\frac{c}{a} - b$",
+      "image": null,
+      "formulas": [
+        "x + b > \\frac{c}{a}",
+        "x > \\frac{c}{a} - b"
+      ],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p054",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "$\\therefore$ নির্ণেয় সমাধান: $(i) x < \\frac{c}{a} - b$ যদি $a > 0$ হয়, $(ii) x > \\frac{c}{a} - b$ যদি $a < 0$ হয়।",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "(i) x < \\frac{c}{a} - b",
+        "a > 0",
+        "(ii) x > \\frac{c}{a} - b",
+        "a < 0"
+      ],
+      "pdfPageStart": 130,
+      "pdfPageEnd": 130,
+      "printedPageStart": 125,
+      "printedPageEnd": 125,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.0-p055",
+      "kind": "text",
+      "section": "অসমতার কয়েকটি বিধি:",
+      "caption": null,
+      "body": "বিশেষ দ্রষ্টব্য: $a$ যদি শূন্য এবং $c$ যদি ধনাত্মক হয়, তবে $x$ এর যেকোনো মানের জন্য অসমতাটি সত্য হবে। কিন্তু $a$ যদি শূন্য এবং $c$ ঋণাত্মক হয়, তবে অসমতাটির কোনো সমাধান থাকবে না।",
+      "image": null,
+      "formulas": [
+        "a",
+        "c",
+        "x",
+        "a",
+        "c"
+      ],
+      "pdfPageStart": 131,
+      "pdfPageEnd": 131,
+      "printedPageStart": 126,
+      "printedPageEnd": 126,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

@@ -1,0 +1,449 @@
+{
+  "id": "higher-math-9-10-bn-c09-t9.5",
+  "key": "9.5",
+  "title": "লগারিদম (Logarithm)",
+  "chapter": 9,
+  "ordinal": 6,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c09-t9.5-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "Logos এবং arithmos নামক দুটি গ্রিক শব্দ হতে Logarithm শব্দটির উৎপত্তি। Logos অর্থ আলোচনা এবং arithmos অর্থ সংখ্যা। সুতরাং Logarithm শব্দটির অর্থ সংখ্যা নিয়ে আলোচনা।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 212,
+      "pdfPageEnd": 212,
+      "printedPageStart": 207,
+      "printedPageEnd": 207,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.5-p002",
+      "kind": "definition",
+      "section": null,
+      "caption": null,
+      "body": "**সংজ্ঞা:** যদি $a^x = b$ হয়, যেখানে $a > 0$, $a \\neq 1$ এবং $b > 0$ তবে $x$ কে $b$ এর $a$ ভিত্তিক লগারিদম বলা হয় যেখানে $x = \\log_a b$",
+      "image": null,
+      "formulas": [
+        "a^x = b",
+        "a > 0",
+        "a \\neq 1",
+        "b > 0",
+        "x",
+        "b",
+        "a",
+        "x = \\log_a b"
+      ],
+      "pdfPageStart": 212,
+      "pdfPageEnd": 212,
+      "printedPageStart": 207,
+      "printedPageEnd": 207,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.5-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অতএব, যদি $a^x = b$ হয়, তবে $x = \\log_a b$",
+      "image": null,
+      "formulas": [
+        "a^x = b",
+        "x = \\log_a b"
+      ],
+      "pdfPageStart": 212,
+      "pdfPageEnd": 212,
+      "printedPageStart": 207,
+      "printedPageEnd": 207,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.5-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বিপরীতক্রমে, যদি $x = \\log_a b$ হয়, তবে $a^x = b$",
+      "image": null,
+      "formulas": [
+        "x = \\log_a b",
+        "a^x = b"
+      ],
+      "pdfPageStart": 212,
+      "pdfPageEnd": 212,
+      "printedPageStart": 207,
+      "printedPageEnd": 207,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.5-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এক্ষেত্রে $b$ সংখ্যাটিকে $a$ এর সাপেক্ষে $x$ এর প্রতিলগ (antilogarithm) বলে এবং আমরা লিখি, $b = antilog_a x$",
+      "image": null,
+      "formulas": [
+        "b",
+        "a",
+        "x",
+        "b = antilog_a x"
+      ],
+      "pdfPageStart": 212,
+      "pdfPageEnd": 212,
+      "printedPageStart": 207,
+      "printedPageEnd": 207,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.5-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অনেক সময় $\\log$ ও প্রতি $\\log$ এর ভিত্তি উহু রাখা হয়।",
+      "image": null,
+      "formulas": [
+        "\\log",
+        "\\log"
+      ],
+      "pdfPageStart": 212,
+      "pdfPageEnd": 212,
+      "printedPageStart": 207,
+      "printedPageEnd": 207,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.5-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৮.** $antilog 2.82679 = 671.1042668$",
+      "image": null,
+      "formulas": [
+        "antilog 2.82679 = 671.1042668"
+      ],
+      "pdfPageStart": 212,
+      "pdfPageEnd": 212,
+      "printedPageStart": 207,
+      "printedPageEnd": 207,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.5-p008",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$antilog(9.82672 - 10) = 0.671$",
+      "image": null,
+      "formulas": [
+        "antilog(9.82672 - 10) = 0.671"
+      ],
+      "pdfPageStart": 212,
+      "pdfPageEnd": 212,
+      "printedPageStart": 207,
+      "printedPageEnd": 207,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.5-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এবং $antilog(6.74429 - 10) = 0.000555$",
+      "image": null,
+      "formulas": [
+        "antilog(6.74429 - 10) = 0.000555"
+      ],
+      "pdfPageStart": 212,
+      "pdfPageEnd": 212,
+      "printedPageStart": 207,
+      "printedPageEnd": 207,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.5-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**দ্রষ্টব্য:** বৈজ্ঞানিক ক্যালকুলেটর ব্যবহার করে কোনো ধনাত্মক সংখ্যার লগারিদমের আসন্ন মান নির্ণয় করা যায় (এ সম্পর্কে নবম-দশম শ্রেণির গণিত বইতে বিস্তারিত বর্ণনা দেওয়া আছে)",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 212,
+      "pdfPageEnd": 212,
+      "printedPageStart": 207,
+      "printedPageEnd": 207,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.5-p011",
+      "kind": "definition",
+      "section": null,
+      "caption": null,
+      "body": "সংজ্ঞানুসারে, আমরা পাই,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 212,
+      "pdfPageEnd": 212,
+      "printedPageStart": 207,
+      "printedPageEnd": 207,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.5-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\log_2 64 = 6$ যেহেতু $2^6 = 64$ এবং $\\log_8 64 = 2$ যেহেতু $8^2 = 64$",
+      "image": null,
+      "formulas": [
+        "\\log_2 64 = 6",
+        "2^6 = 64",
+        "\\log_8 64 = 2",
+        "8^2 = 64"
+      ],
+      "pdfPageStart": 212,
+      "pdfPageEnd": 212,
+      "printedPageStart": 207,
+      "printedPageEnd": 207,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.5-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং, একই সংখ্যার লগারিদম ভিন্ন ভিন্ন ভিত্তির পরিপ্রেক্ষিতে ভিন্ন হয়। ধনাত্মক কিন্তু 1 নয় এমন যেকোনো সংখ্যাকে ভিত্তি ধরে একই সংখ্যার ভিন্ন ভিন্ন লগারিদম নির্ণয় করা যায়। যেকোনো ধনাত্মক সংখ্যাকে লগারিদমের ভিত্তি হিসাবে গণ্য করা যায়। শূন্য বা কোনো ঋণাত্মক সংখ্যার লগারিদম নির্ণয় করা যায় না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 212,
+      "pdfPageEnd": 213,
+      "printedPageStart": 207,
+      "printedPageEnd": 208,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.5-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**দৃষ্টব্য:** $a > 0, a \\neq 1$ এবং $b > 0$ হলে $b$ এর অনন্য $a$ ভিত্তিক লগারিদমকে $\\log_a b$ দ্বারা সূচিত করা হয়।",
+      "image": null,
+      "formulas": [
+        "a > 0, a \\neq 1",
+        "b > 0",
+        "b",
+        "a",
+        "\\log_a b"
+      ],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.5-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.5-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $\\log_a b = x$ যদি এবং কেবল যদি $a^x = b$ হয়। (ক) থেকে দেখা যায় যে,",
+      "image": null,
+      "formulas": [
+        "\\log_a b = x",
+        "a^x = b"
+      ],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.5-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $\\log_a (a^x) = x$",
+      "image": null,
+      "formulas": [
+        "\\log_a (a^x) = x"
+      ],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.5-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $a^{\\log_a b} = b$",
+      "image": null,
+      "formulas": [
+        "a^{\\log_a b} = b"
+      ],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.5-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৯.** ক) $4^2 = 16 \\implies \\log_4(16) = 2$",
+      "image": null,
+      "formulas": [
+        "4^2 = 16 \\implies \\log_4(16) = 2"
+      ],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.5-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $5^{-2} = \\frac{1}{5^2} = \\frac{1}{25} \\implies \\log_5(\\frac{1}{25}) = -2$",
+      "image": null,
+      "formulas": [
+        "5^{-2} = \\frac{1}{5^2} = \\frac{1}{25} \\implies \\log_5(\\frac{1}{25}) = -2"
+      ],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.5-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $10^3 = 1000 \\implies \\log_{10}(1000) = 3$",
+      "image": null,
+      "formulas": [
+        "10^3 = 1000 \\implies \\log_{10}(1000) = 3"
+      ],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.5-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঘ) $7^{\\log_7 9} = 9 \\quad [\\because a^{\\log_a b} = b]$",
+      "image": null,
+      "formulas": [
+        "7^{\\log_7 9} = 9 \\quad [\\because a^{\\log_a b} = b]"
+      ],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.5-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঙ) $18 = \\log_2(2^{18}) \\quad [\\because \\log_a (a^x) = x]$",
+      "image": null,
+      "formulas": [
+        "18 = \\log_2(2^{18}) \\quad [\\because \\log_a (a^x) = x]"
+      ],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

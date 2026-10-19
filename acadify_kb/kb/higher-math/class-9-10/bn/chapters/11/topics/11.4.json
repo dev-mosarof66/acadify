@@ -1,0 +1,2468 @@
+{
+  "id": "higher-math-9-10-bn-c11-t11.4",
+  "key": "11.4",
+  "title": "ত্রিভুজ ক্ষেত্রের ক্ষেত্রফল নির্ণয়ের সূত্র",
+  "chapter": 11,
+  "ordinal": 5,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ত্রিভুজ $ABC$ এর $AB$ বাহুর দৈর্ঘ্য $c$, $BC$ বাহুর দৈর্ঘ্য $a$ এবং $CA$ বাহুর দৈর্ঘ্য $b$ এবং পরিসীমা $2s$ হলে $\\triangle ABC$ এর ক্ষেত্রফল $\\sqrt{s(s - a)(s - b)(s - c)}$ বর্গ একক [নবম-দশম শ্রেণির গণিত বই এর পরিমিত অংশে প্রমাণ দেওয়া আছে। শিক্ষার্থীরা প্রমাণটি দেখে নিবে।]",
+      "image": null,
+      "formulas": [
+        "ABC",
+        "AB",
+        "c",
+        "BC",
+        "a",
+        "CA",
+        "b",
+        "2s",
+        "\\triangle ABC",
+        "\\sqrt{s(s - a)(s - b)(s - c)}"
+      ],
+      "pdfPageStart": 251,
+      "pdfPageEnd": 251,
+      "printedPageStart": 246,
+      "printedPageEnd": 246,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "নিম্নে উদাহরণসমূহের মাধ্যমে সূত্রটির ব্যবহার সহজেই বুঝা যাবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 251,
+      "pdfPageEnd": 251,
+      "printedPageStart": 246,
+      "printedPageEnd": 246,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**লক্ষণীয়:** বিভিন্ন ত্রিভুজের ক্ষেত্রফল নির্ণয়ের বিভিন্ন সূত্র রয়েছে, কিন্তু একটি মাত্র সূত্রের সাহায্যে আমরা এখানে যেকোনো ত্রিভুজের ক্ষেত্রফল নির্ণয়ে সক্ষম হব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 251,
+      "pdfPageEnd": 251,
+      "printedPageStart": 246,
+      "printedPageEnd": 246,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৬.** একটি ত্রিভুজের তিনটি শীর্ষবিন্দু $A(2, 5)$, $B(-1, 1)$ ও $C(2, 1)$। ত্রিভুজটির একটি মোটামুটি চিত্র আঁক এবং পরিসীমা ও বাহুর দৈর্ঘ্যের মাধ্যমে ক্ষেত্রফল নির্ণয় করো। ত্রিভুজটি কোন ধরনের ত্রিভুজ চিত্র দেখে আনদাজ করো এবং তার সপক্ষে যুক্তি দাও।",
+      "image": null,
+      "formulas": [
+        "A(2, 5)",
+        "B(-1, 1)",
+        "C(2, 1)"
+      ],
+      "pdfPageStart": 251,
+      "pdfPageEnd": 251,
+      "printedPageStart": 246,
+      "printedPageEnd": 246,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** চিত্রে ত্রিভুজটি দেখানো হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 251,
+      "pdfPageEnd": 251,
+      "printedPageStart": 246,
+      "printedPageEnd": 246,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$AB$ বাহুর দৈর্ঘ্য, $c = \\sqrt{(-1 - 2)^2 + (1 - 5)^2}$\n$= \\sqrt{9 + 16} = 5$ একক",
+      "image": null,
+      "formulas": [
+        "AB",
+        "c = \\sqrt{(-1 - 2)^2 + (1 - 5)^2}",
+        "= \\sqrt{9 + 16} = 5"
+      ],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$BC$ বাহুর দৈর্ঘ্য, $a = \\sqrt{(2 + 1)^2 + (1 - 1)^2}$\n$= \\sqrt{9 + 0} = 3$ একক",
+      "image": null,
+      "formulas": [
+        "BC",
+        "a = \\sqrt{(2 + 1)^2 + (1 - 1)^2}",
+        "= \\sqrt{9 + 0} = 3"
+      ],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$AC$ বাহুর দৈর্ঘ্য, $b = \\sqrt{(2 - 2)^2 + (1 - 5)^2}$\n$= \\sqrt{0 + 16} = 4$ একক",
+      "image": null,
+      "formulas": [
+        "AC",
+        "b = \\sqrt{(2 - 2)^2 + (1 - 5)^2}",
+        "= \\sqrt{0 + 16} = 4"
+      ],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$s = \\frac{1}{2}(a + b + c) = \\frac{1}{2}(3 + 4 + 5)$\n$= \\frac{12}{2} = 6$ একক",
+      "image": null,
+      "formulas": [
+        "s = \\frac{1}{2}(a + b + c) = \\frac{1}{2}(3 + 4 + 5)",
+        "= \\frac{12}{2} = 6"
+      ],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ ক্ষেত্রফল $= \\sqrt{s(s - a)(s - b)(s - c)}$ বর্গ একক\n$= \\sqrt{6(6 - 3)(6 - 4)(6 - 5)}$ বর্গ একক\n$= \\sqrt{6 \\times 3 \\times 2 \\times 1}$ বর্গ একক\n$= \\sqrt{6 \\times 6} = 6$ বর্গ একক",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "= \\sqrt{s(s - a)(s - b)(s - c)}",
+        "= \\sqrt{6(6 - 3)(6 - 4)(6 - 5)}",
+        "= \\sqrt{6 \\times 3 \\times 2 \\times 1}",
+        "= \\sqrt{6 \\times 6} = 6"
+      ],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p011",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A coordinate plane showing a triangle with vertices A(2, 5), B(-1, 1), and C(2, 1). The sides are labeled a, b, and c.",
+      "image": "p252-page_9_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "চিত্র দেখে আমরা বুঝতে পারি এটি একটি সমকোণী ত্রিভুজ। পিথাগোরাসের উপপাদ্যের বিপরীত উপপাদ্যের সাহায্যে এটি সহজেই প্রমাণ করা যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p013",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$AB^2 = c^2 = 5^2 = 25, BC^2 = a^2 = 3^2 = 9, CA^2 = b^2 = 4^2 = 16$",
+      "image": null,
+      "formulas": [
+        "AB^2 = c^2 = 5^2 = 25, BC^2 = a^2 = 3^2 = 9, CA^2 = b^2 = 4^2 = 16"
+      ],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p014",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore BC^2 + CA^2 = 9 + 16 = 25 = AB^2$",
+      "image": null,
+      "formulas": [
+        "\\therefore BC^2 + CA^2 = 9 + 16 = 25 = AB^2"
+      ],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore ABC$ একটি সমকোণী ত্রিভুজ। $AB$ অতিভুজ ও $\\angle ACB$ সমকোণ।",
+      "image": null,
+      "formulas": [
+        "\\therefore ABC",
+        "AB",
+        "\\angle ACB"
+      ],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৭.** $A(2, -4), B(-4, 4)$ এবং $C(3, 3)$ একটি ত্রিভুজের তিনটি শীর্ষ। ত্রিভুজটি আঁকো এবং বাহুর দৈর্ঘ্য নির্ণয়ের মাধ্যমে এর ক্ষেত্রফল নির্ণয় করো। চিত্র দেখে ত্রিভুজটির একটি নাম দাও এবং এর সপক্ষে যুক্তি দেখাও।",
+      "image": null,
+      "formulas": [
+        "A(2, -4), B(-4, 4)",
+        "C(3, 3)"
+      ],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** ত্রিভুজটির চিত্র আঁকো হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p018",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A coordinate plane showing a triangle with vertices A(2, -4), B(-4, 4), and C(3, 3). The sides are labeled a, b, and c.",
+      "image": "p252-page_9_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$AB = c = \\sqrt{(-4 - 2)^2 + (4 - (-4))^2}$\n$= \\sqrt{36 + 64} = \\sqrt{100} = 10$ একক",
+      "image": null,
+      "formulas": [
+        "AB = c = \\sqrt{(-4 - 2)^2 + (4 - (-4))^2}",
+        "= \\sqrt{36 + 64} = \\sqrt{100} = 10"
+      ],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$BC = a = \\sqrt{(3 - (-4))^2 + (3 - 4)^2}$\n$= \\sqrt{49 + 1} = \\sqrt{50} = 5\\sqrt{2}$ একক",
+      "image": null,
+      "formulas": [
+        "BC = a = \\sqrt{(3 - (-4))^2 + (3 - 4)^2}",
+        "= \\sqrt{49 + 1} = \\sqrt{50} = 5\\sqrt{2}"
+      ],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$CA = b = \\sqrt{(2 - 3)^2 + (-4 - 3)^2}$\n$= \\sqrt{1 + 49} = \\sqrt{50} = 5\\sqrt{2}$ একক",
+      "image": null,
+      "formulas": [
+        "CA = b = \\sqrt{(2 - 3)^2 + (-4 - 3)^2}",
+        "= \\sqrt{1 + 49} = \\sqrt{50} = 5\\sqrt{2}"
+      ],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন, $s = \\frac{1}{2}(a + b + c) = \\frac{1}{2}(10 + 5\\sqrt{2} + 5\\sqrt{2})$\n$= 5 + 5\\sqrt{2}$ একক",
+      "image": null,
+      "formulas": [
+        "s = \\frac{1}{2}(a + b + c) = \\frac{1}{2}(10 + 5\\sqrt{2} + 5\\sqrt{2})",
+        "= 5 + 5\\sqrt{2}"
+      ],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ ক্ষেত্রফল $= \\sqrt{s(s - a)(s - b)(s - c)}$ বর্গ একক",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "= \\sqrt{s(s - a)(s - b)(s - c)}"
+      ],
+      "pdfPageStart": 252,
+      "pdfPageEnd": 252,
+      "printedPageStart": 247,
+      "printedPageEnd": 247,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p024",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\sqrt{(5 + 5\\sqrt{2})(5 + 5\\sqrt{2} - 10)(5 + 5\\sqrt{2} - 5\\sqrt{2})(5 + 5\\sqrt{2} - 5\\sqrt{2})}  বর্গ একক$$",
+      "image": null,
+      "formulas": [
+        "= \\sqrt{(5 + 5\\sqrt{2})(5 + 5\\sqrt{2} - 10)(5 + 5\\sqrt{2} - 5\\sqrt{2})(5 + 5\\sqrt{2} - 5\\sqrt{2})}  বর্গ একক"
+      ],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p025",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\sqrt{(5 + 5\\sqrt{2})(5\\sqrt{2} - 5) \\cdot 5 \\cdot 5}  বর্গ একক$$",
+      "image": null,
+      "formulas": [
+        "= \\sqrt{(5 + 5\\sqrt{2})(5\\sqrt{2} - 5) \\cdot 5 \\cdot 5}  বর্গ একক"
+      ],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p026",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= 5\\sqrt{(5 + 5\\sqrt{2})(5\\sqrt{2} - 5)}  বর্গ একক$$",
+      "image": null,
+      "formulas": [
+        "= 5\\sqrt{(5 + 5\\sqrt{2})(5\\sqrt{2} - 5)}  বর্গ একক"
+      ],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p027",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= 5\\sqrt{(5\\sqrt{2})^2 - 5^2} = 5\\sqrt{50 - 25} = 5\\sqrt{25}  বর্গ একক = 25  বর্গ একক$$",
+      "image": null,
+      "formulas": [
+        "= 5\\sqrt{(5\\sqrt{2})^2 - 5^2} = 5\\sqrt{50 - 25} = 5\\sqrt{25}  বর্গ একক = 25  বর্গ একক"
+      ],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p028",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "প্রদত্ত ত্রিভুজটি একটি সমদ্বিবাহু ত্রিভুজ। কেননা $BC = CA = 5\\sqrt{2}$ একক। অর্থাৎ, ত্রিভুজটির দুটি বাহু সমান।",
+      "image": null,
+      "formulas": [
+        "BC = CA = 5\\sqrt{2}"
+      ],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p029",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার, $AB^2 = 10^2 = 100$",
+      "image": null,
+      "formulas": [
+        "AB^2 = 10^2 = 100"
+      ],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p030",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$BC^2 + CA^2 = (5\\sqrt{2})^2 + (5\\sqrt{2})^2 = 50 + 50 = 100$",
+      "image": null,
+      "formulas": [
+        "BC^2 + CA^2 = (5\\sqrt{2})^2 + (5\\sqrt{2})^2 = 50 + 50 = 100"
+      ],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p031",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore AB^2 = BC^2 + CA^2$",
+      "image": null,
+      "formulas": [
+        "\\therefore AB^2 = BC^2 + CA^2"
+      ],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p032",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\triangle ABC$ একটি সমকোণী ত্রিভুজ।",
+      "image": null,
+      "formulas": [
+        "\\therefore \\triangle ABC"
+      ],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p033",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ $\\triangle ABC$ একটি সমকোণী ও সমদ্বিবাহু ত্রিভুজ।",
+      "image": null,
+      "formulas": [
+        "\\triangle ABC"
+      ],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p034",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৮.** একটি ত্রিভুজের শীর্ষত্রয় যথাক্রমে $A(-2, 0)$, $B(5, 0)$ এবং $C(1, 4)$। প্রত্যেকটি বাহুর দৈর্ঘ্য নির্ণয় কর এবং ত্রিভুজটির ক্ষেত্রফল নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "A(-2, 0)",
+        "B(5, 0)",
+        "C(1, 4)"
+      ],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p035",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** ত্রিভুজটির চিত্র দেখানো হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p036",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A coordinate plane showing a triangle with vertices A(-2, 0), B(5, 0), and C(1, 4).",
+      "image": "p253-page_10_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p037",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$$AB = c = \\sqrt{(5 - (-2))^2 + (0 - 0)^2}$$\n$$= \\sqrt{49} = 7  একক$$",
+      "image": null,
+      "formulas": [
+        "AB = c = \\sqrt{(5 - (-2))^2 + (0 - 0)^2}",
+        "= \\sqrt{49} = 7  একক"
+      ],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p038",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$$BC = a = \\sqrt{(1 - 5)^2 + (4 - 0)^2}$$\n$$= \\sqrt{16 + 16} = 4\\sqrt{2}  একক$$",
+      "image": null,
+      "formulas": [
+        "BC = a = \\sqrt{(1 - 5)^2 + (4 - 0)^2}",
+        "= \\sqrt{16 + 16} = 4\\sqrt{2}  একক"
+      ],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p039",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$$CA = b = \\sqrt{(-2 - 1)^2 + (0 - 4)^2}$$\n$$= \\sqrt{9 + 16} = 5  একক$$",
+      "image": null,
+      "formulas": [
+        "CA = b = \\sqrt{(-2 - 1)^2 + (0 - 4)^2}",
+        "= \\sqrt{9 + 16} = 5  একক"
+      ],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p040",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$$s = \\frac{1}{2}(a + b + c) = \\frac{1}{2}(7 + 4\\sqrt{2} + 5)$$\n$$= \\frac{1}{2}(12 + 4\\sqrt{2}) = 6 + 2\\sqrt{2}  একক$$",
+      "image": null,
+      "formulas": [
+        "s = \\frac{1}{2}(a + b + c) = \\frac{1}{2}(7 + 4\\sqrt{2} + 5)",
+        "= \\frac{1}{2}(12 + 4\\sqrt{2}) = 6 + 2\\sqrt{2}  একক"
+      ],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p041",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore ক্ষেত্রফল = \\sqrt{s(s - a)(s - b)(s - c)}  বর্গ একক$",
+      "image": null,
+      "formulas": [
+        "\\therefore ক্ষেত্রফল = \\sqrt{s(s - a)(s - b)(s - c)}  বর্গ একক"
+      ],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p042",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\sqrt{(6 + 2\\sqrt{2})(6 + 2\\sqrt{2} - 7)(6 + 2\\sqrt{2} - 4\\sqrt{2})(6 + 2\\sqrt{2} - 5)}  বর্গ একক$$",
+      "image": null,
+      "formulas": [
+        "= \\sqrt{(6 + 2\\sqrt{2})(6 + 2\\sqrt{2} - 7)(6 + 2\\sqrt{2} - 4\\sqrt{2})(6 + 2\\sqrt{2} - 5)}  বর্গ একক"
+      ],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p043",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\sqrt{(6 + 2\\sqrt{2})(2\\sqrt{2} - 1)(6 - 2\\sqrt{2})(2\\sqrt{2} + 1)}  বর্গ একক$$",
+      "image": null,
+      "formulas": [
+        "= \\sqrt{(6 + 2\\sqrt{2})(2\\sqrt{2} - 1)(6 - 2\\sqrt{2})(2\\sqrt{2} + 1)}  বর্গ একক"
+      ],
+      "pdfPageStart": 253,
+      "pdfPageEnd": 253,
+      "printedPageStart": 248,
+      "printedPageEnd": 248,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p044",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\sqrt{(6 + 2\\sqrt{2})(6 - 2\\sqrt{2})(2\\sqrt{2} + 1)(2\\sqrt{2} - 1)}  বর্গ একক$$",
+      "image": null,
+      "formulas": [
+        "= \\sqrt{(6 + 2\\sqrt{2})(6 - 2\\sqrt{2})(2\\sqrt{2} + 1)(2\\sqrt{2} - 1)}  বর্গ একক"
+      ],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p045",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\sqrt{(6^2 - (2\\sqrt{2})^2)((2\\sqrt{2})^2 - 1^2)} = \\sqrt{28 \\cdot 7} = 14  বর্গ একক$$",
+      "image": null,
+      "formulas": [
+        "= \\sqrt{(6^2 - (2\\sqrt{2})^2)((2\\sqrt{2})^2 - 1^2)} = \\sqrt{28 \\cdot 7} = 14  বর্গ একক"
+      ],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p046",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "প্রদত্ত ত্রিভুজটি একটি বিষমবাহু ত্রিভুজ। কারণ এর কোনো বাহুই অপর কোনো বাহুর সমান নয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p047",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**লক্ষণীয়:** যে তিনটি ত্রিভুজক্ষেত্রের ক্ষেত্রফল নির্ণয় করা হলো তার ১মটি সমকোণী, ২য়টি সমদ্বিবাহু ও সমকোণী এবং তৃতীয়টি বিষমবাহু ত্রিভুজ। একটি মাত্র সূত্রের সাহায্যে প্রত্যেকটি ত্রিভুজের ক্ষেত্রফল নির্ণয় সম্ভব হয়েছে। অন্য যেকোনো ত্রিভুজের ক্ষেত্রেও ঠিক একইভাবে ক্ষেত্রফল নির্ণয় করা সম্ভব হবে। অনুশীলনীতে এ রকম আরও কয়েকটি ত্রিভুজের ক্ষেত্রফল সংক্রান্ত সমস্যা থাকবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p048",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৯.** একটি চতুর্ভুজের চারটি শীর্ষ যথাক্রমে $A(1, 0)$, $B(0, 1)$, $C(-1, 0)$ এবং $D(0, -1)$। চতুর্ভুজটির চিত্র আঁক এবং যেকোনো দুই বাহু ও কর্ণের দৈর্ঘ্য নির্ণয়ের মাধ্যমে এর ক্ষেত্রফল নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "A(1, 0)",
+        "B(0, 1)",
+        "C(-1, 0)",
+        "D(0, -1)"
+      ],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p049",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** পাস্কের চিত্রে বিন্দু পাতনের মাধ্যমে $ABCD$ চতুর্ভুজটি দেখানো হলো। $AB, BC, CD$ এবং $DA$ চতুর্ভুজটির চারটি বাহু এবং $AC$ ও $BD$ চতুর্ভুজটির দুটি কর্ণ।",
+      "image": null,
+      "formulas": [
+        "ABCD",
+        "AB, BC, CD",
+        "DA",
+        "AC",
+        "BD"
+      ],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p050",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বাহু $AB = c = \\sqrt{(1 - 0)^2 + (0 - 1)^2}$\n$= \\sqrt{1 + 1} = \\sqrt{2}$ একক",
+      "image": null,
+      "formulas": [
+        "AB = c = \\sqrt{(1 - 0)^2 + (0 - 1)^2}",
+        "= \\sqrt{1 + 1} = \\sqrt{2}"
+      ],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p051",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বাহু $BC = a = \\sqrt{(0 + 1)^2 + (1 - 0)^2}$\n$= \\sqrt{1 + 1} = \\sqrt{2}$ একক",
+      "image": null,
+      "formulas": [
+        "BC = a = \\sqrt{(0 + 1)^2 + (1 - 0)^2}",
+        "= \\sqrt{1 + 1} = \\sqrt{2}"
+      ],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p052",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কর্ণ $AC = b = \\sqrt{(1 + 1)^2 + (0 - 0)^2}$\n$= \\sqrt{2^2} = 2$ একক",
+      "image": null,
+      "formulas": [
+        "AC = b = \\sqrt{(1 + 1)^2 + (0 - 0)^2}",
+        "= \\sqrt{2^2} = 2"
+      ],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p053",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A coordinate geometry diagram showing a rhombus ABCD with vertices at A(1, 0), B(0, 1), C(-1, 0), and D(0, -1) on a grid with X and Y axes.",
+      "image": "p254-page_11_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p054",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বাহু $CD = \\sqrt{(-1 - 0)^2 + (0 + 1)^2} = \\sqrt{2}$ একক\nবাহু $DA = \\sqrt{(0 - 1)^2 + (-1 - 0)^2} = \\sqrt{2}$ একক\nদেখা যাচ্ছে, $AB = BC = CD = DA = \\sqrt{2}$ একক\n$\\therefore$ চতুর্ভুজটি একটি বর্গ বা রম্বস।",
+      "image": null,
+      "formulas": [
+        "CD = \\sqrt{(-1 - 0)^2 + (0 + 1)^2} = \\sqrt{2}",
+        "DA = \\sqrt{(0 - 1)^2 + (-1 - 0)^2} = \\sqrt{2}",
+        "AB = BC = CD = DA = \\sqrt{2}",
+        "\\therefore"
+      ],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p055",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন, $AB^2 + BC^2 = (\\sqrt{2})^2 + (\\sqrt{2})^2 = 2 + 2 = 4 = AC^2$\n$\\therefore$ চতুর্ভুজটি একটি বর্গক্ষেত্র।",
+      "image": null,
+      "formulas": [
+        "AB^2 + BC^2 = (\\sqrt{2})^2 + (\\sqrt{2})^2 = 2 + 2 = 4 = AC^2",
+        "\\therefore"
+      ],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p056",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "চতুর্ভুজ $ABCD$ এর ক্ষেত্রফল $= 2 \\times$ ত্রিভুজ $ABC$ এর ক্ষেত্রফল।",
+      "image": null,
+      "formulas": [
+        "ABCD",
+        "= 2 \\times",
+        "ABC"
+      ],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p057",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন ত্রিভুজ $ABC$ এর পরিসীমা, $2s = AB + BC + CA = \\sqrt{2} + \\sqrt{2} + 2 = 2 + 2\\sqrt{2}$ একক\n$s = \\frac{1}{2}(2 + 2\\sqrt{2}) = 1 + \\sqrt{2}$ একক",
+      "image": null,
+      "formulas": [
+        "ABC",
+        "2s = AB + BC + CA = \\sqrt{2} + \\sqrt{2} + 2 = 2 + 2\\sqrt{2}",
+        "s = \\frac{1}{2}(2 + 2\\sqrt{2}) = 1 + \\sqrt{2}"
+      ],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p058",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ ত্রিভুজ $ABC$ এর ক্ষেত্রফল $= \\sqrt{(s(s - a)(s - b)(s - c)}$ বর্গ একক",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "ABC",
+        "= \\sqrt{(s(s - a)(s - b)(s - c)}"
+      ],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p059",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\sqrt{(1 + \\sqrt{2})(1 + \\sqrt{2} - \\sqrt{2})(1 + \\sqrt{2} - 2)(1 + \\sqrt{2} - \\sqrt{2})}  বর্গ একক$$",
+      "image": null,
+      "formulas": [
+        "= \\sqrt{(1 + \\sqrt{2})(1 + \\sqrt{2} - \\sqrt{2})(1 + \\sqrt{2} - 2)(1 + \\sqrt{2} - \\sqrt{2})}  বর্গ একক"
+      ],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p060",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\sqrt{(\\sqrt{2} + 1) \\cdot 1 \\cdot (\\sqrt{2} - 1) \\cdot 1}  বর্গ একক$$",
+      "image": null,
+      "formulas": [
+        "= \\sqrt{(\\sqrt{2} + 1) \\cdot 1 \\cdot (\\sqrt{2} - 1) \\cdot 1}  বর্গ একক"
+      ],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p061",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ফর্মা-৩২, উচ্চতর গণিত, ৯ম-১০ম শ্রেণি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 254,
+      "pdfPageEnd": 254,
+      "printedPageStart": 249,
+      "printedPageEnd": 249,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p062",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\sqrt{(\\sqrt{2})^2 - 1}  বর্গ একক = \\sqrt{2 - 1}  বর্গ একক = 1  বর্গ একক$$",
+      "image": null,
+      "formulas": [
+        "= \\sqrt{(\\sqrt{2})^2 - 1}  বর্গ একক = \\sqrt{2 - 1}  বর্গ একক = 1  বর্গ একক"
+      ],
+      "pdfPageStart": 255,
+      "pdfPageEnd": 255,
+      "printedPageStart": 250,
+      "printedPageEnd": 250,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p063",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore ABCD$ চতুর্ভুজক্ষেত্র এর ক্ষেত্রফল $= 2 \\times 1  বর্গ একক = 2  বর্গ একক$।",
+      "image": null,
+      "formulas": [
+        "\\therefore ABCD",
+        "= 2 \\times 1  বর্গ একক = 2  বর্গ একক"
+      ],
+      "pdfPageStart": 255,
+      "pdfPageEnd": 255,
+      "printedPageStart": 250,
+      "printedPageEnd": 250,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p064",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:** বর্গের বাহুর দৈর্ঘ্যকে বর্গ করেও ক্ষেত্রফল পাওয়া যায়। আয়ত এর দৈর্ঘ্য ও প্রস্থ গুণ করেও ক্ষেত্রফল পাওয়া যায়। কিন্তু যেকোনো চতুর্ভুজের ক্ষেত্রফল নির্ণয় করা যায় না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 255,
+      "pdfPageEnd": 255,
+      "printedPageStart": 250,
+      "printedPageEnd": 250,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p065",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১০.** $A(-1, 1)$, $B(2, -1)$, $C(3, 3)$ এবং $D(1, 6)$ দ্বারা গঠিত চতুর্ভুজটি অঙ্কন করে এর প্রতিটি বাহু ও একটি কর্ণের দৈর্ঘ্য নির্ণয় করো এবং চতুর্ভুজটির ক্ষেত্রফল নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "A(-1, 1)",
+        "B(2, -1)",
+        "C(3, 3)",
+        "D(1, 6)"
+      ],
+      "pdfPageStart": 255,
+      "pdfPageEnd": 255,
+      "printedPageStart": 250,
+      "printedPageEnd": 250,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p066",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** বিন্দু পাতনের মাধ্যমে $xy$ সমতলে $ABCD$ চতুর্ভুজটি দেখানো হলো। $ABCD$ চতুর্ভুজটির",
+      "image": null,
+      "formulas": [
+        "xy",
+        "ABCD",
+        "ABCD"
+      ],
+      "pdfPageStart": 255,
+      "pdfPageEnd": 255,
+      "printedPageStart": 250,
+      "printedPageEnd": 250,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p067",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A geometric diagram showing a quadrilateral ABCD on a Cartesian coordinate plane with labeled vertices A(-1, 1), B(2, -1), C(3, 3), and D(1, 6), and labeled sides a, b, c, d, and e. -1, 1",
+      "image": "p255-page_12_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 255,
+      "pdfPageEnd": 255,
+      "printedPageStart": 250,
+      "printedPageEnd": 250,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p068",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বাহু $AB = a = \\sqrt{3^2 + 2^2} = \\sqrt{13}$ একক\nবাহু $BC = b = \\sqrt{1^2 + 4^2} = \\sqrt{17}$ একক\nবাহু $CD = d = \\sqrt{2^2 + 3^2} = \\sqrt{13}$ একক\nবাহু $DA = e = \\sqrt{2^2 + 5^2} = \\sqrt{29}$ একক\nকর্ণ $AC = c = \\sqrt{4^2 + 2^2} = \\sqrt{20}$ একক",
+      "image": null,
+      "formulas": [
+        "AB = a = \\sqrt{3^2 + 2^2} = \\sqrt{13}",
+        "BC = b = \\sqrt{1^2 + 4^2} = \\sqrt{17}",
+        "CD = d = \\sqrt{2^2 + 3^2} = \\sqrt{13}",
+        "DA = e = \\sqrt{2^2 + 5^2} = \\sqrt{29}",
+        "AC = c = \\sqrt{4^2 + 2^2} = \\sqrt{20}"
+      ],
+      "pdfPageStart": 255,
+      "pdfPageEnd": 255,
+      "printedPageStart": 250,
+      "printedPageEnd": 250,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p069",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\triangle ABC$ এ $2s = a + b + c = (\\sqrt{13} + \\sqrt{17} + \\sqrt{20})$ একক\n$= (3.6056 + 4.1231 + 4.4721)$ একক $= 12.2008$ একক\n$\\therefore s = 6.1004$ একক",
+      "image": null,
+      "formulas": [
+        "\\triangle ABC",
+        "2s = a + b + c = (\\sqrt{13} + \\sqrt{17} + \\sqrt{20})",
+        "= (3.6056 + 4.1231 + 4.4721)",
+        "= 12.2008",
+        "\\therefore s = 6.1004"
+      ],
+      "pdfPageStart": 255,
+      "pdfPageEnd": 255,
+      "printedPageStart": 250,
+      "printedPageEnd": 250,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p070",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\triangle ABC$ এর ক্ষেত্রফল $= \\sqrt{s(s - a)(s - b)(s - c)}$ বর্গ একক\n$= \\sqrt{6.1004 \\times 2.4948 \\times 1.9773 \\times 1.6283}$ বর্গ একক\n$= \\sqrt{49.000}$ বর্গ একক $= 7$ বর্গ একক",
+      "image": null,
+      "formulas": [
+        "\\triangle ABC",
+        "= \\sqrt{s(s - a)(s - b)(s - c)}",
+        "= \\sqrt{6.1004 \\times 2.4948 \\times 1.9773 \\times 1.6283}",
+        "= \\sqrt{49.000}",
+        "= 7"
+      ],
+      "pdfPageStart": 255,
+      "pdfPageEnd": 255,
+      "printedPageStart": 250,
+      "printedPageEnd": 250,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p071",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\triangle ACD$ এ $2s = c + d + e = (\\sqrt{20} + \\sqrt{13} + \\sqrt{29})$ একক\n$= (4.4721 + 3.6056 + 5.3852)$ একক $= 13.4629$ একক\n$\\therefore s = 6.7315$ একক।",
+      "image": null,
+      "formulas": [
+        "\\triangle ACD",
+        "2s = c + d + e = (\\sqrt{20} + \\sqrt{13} + \\sqrt{29})",
+        "= (4.4721 + 3.6056 + 5.3852)",
+        "= 13.4629",
+        "\\therefore s = 6.7315"
+      ],
+      "pdfPageStart": 255,
+      "pdfPageEnd": 255,
+      "printedPageStart": 250,
+      "printedPageEnd": 250,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p072",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\triangle ACD$ এর ক্ষেত্রফল $= \\sqrt{s(s - c)(s - d)(s - e)}$ বর্গ একক\n$= \\sqrt{6.7315 \\times 2.2591 \\times 3.1256 \\times 1.3460}$ বর্গ একক\n$= \\sqrt{63.9744}$ বর্গ একক $= 7.9983$ বর্গ একক",
+      "image": null,
+      "formulas": [
+        "\\triangle ACD",
+        "= \\sqrt{s(s - c)(s - d)(s - e)}",
+        "= \\sqrt{6.7315 \\times 2.2591 \\times 3.1256 \\times 1.3460}",
+        "= \\sqrt{63.9744}",
+        "= 7.9983"
+      ],
+      "pdfPageStart": 255,
+      "pdfPageEnd": 255,
+      "printedPageStart": 250,
+      "printedPageEnd": 250,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p073",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore ABCD$ চতুর্ভুজ ক্ষেত্রের ক্ষেত্রফল $= (7.000 + 7.998)$ বর্গ একক\n$= 14.998$ বর্গ একক $= 15$ বর্গ একক (প্রায়)।",
+      "image": null,
+      "formulas": [
+        "\\therefore ABCD",
+        "= (7.000 + 7.998)",
+        "= 14.998",
+        "= 15"
+      ],
+      "pdfPageStart": 255,
+      "pdfPageEnd": 255,
+      "printedPageStart": 250,
+      "printedPageEnd": 250,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p074",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:** চতুর্ভুজটি বর্গ বা আয়ত বা সামান্তরিক বা রম্বস কোনোটিই নয়। এ ধরনের বিষম আকারের জমির ক্ষেত্রফল নির্ণয়ে এ পদ্ধতি অত্যন্ত কার্যকর।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 255,
+      "pdfPageEnd": 255,
+      "printedPageStart": 250,
+      "printedPageEnd": 250,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p075",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১১.** চারটি বিন্দুর স্থানাঙ্ক যথাক্রমে $A(2, -3)$, $B(3, 0)$, $C(0, 1)$ এবং $D(-1, -2)$।",
+      "image": null,
+      "formulas": [
+        "A(2, -3)",
+        "B(3, 0)",
+        "C(0, 1)",
+        "D(-1, -2)"
+      ],
+      "pdfPageStart": 256,
+      "pdfPageEnd": 256,
+      "printedPageStart": 251,
+      "printedPageEnd": 251,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p076",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) দেখাও যে, $ABCD$ একটি রম্বস।",
+      "image": null,
+      "formulas": [
+        "ABCD"
+      ],
+      "pdfPageStart": 256,
+      "pdfPageEnd": 256,
+      "printedPageStart": 251,
+      "printedPageEnd": 251,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p077",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $AC$ ও $BD$ এর দৈর্ঘ্য নির্ণয় করো এবং $ABCD$ একটি বর্গ কিনা যাচাই করো।",
+      "image": null,
+      "formulas": [
+        "AC",
+        "BD",
+        "ABCD"
+      ],
+      "pdfPageStart": 256,
+      "pdfPageEnd": 256,
+      "printedPageStart": 251,
+      "printedPageEnd": 251,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p078",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) ত্রিভুজস্কেত্রের মাধ্যমে চতুর্ভুজটির ক্ষেত্রফল নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 256,
+      "pdfPageEnd": 256,
+      "printedPageStart": 251,
+      "printedPageEnd": 251,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p079",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $ABCD$ চতুর্ভুজটি বিন্দু পাতনের মাধ্যমে দেখানো হলো।",
+      "image": null,
+      "formulas": [
+        "ABCD"
+      ],
+      "pdfPageStart": 256,
+      "pdfPageEnd": 256,
+      "printedPageStart": 251,
+      "printedPageEnd": 251,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p080",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) ধরি $a, b, c, d$ যথাক্রমে $AB, BC, CD$ এবং $DA$ বাহুর দৈর্ঘ্য এবং কর্ণ $AC = e$ ও কর্ণ $BD = f$।",
+      "image": null,
+      "formulas": [
+        "a, b, c, d",
+        "AB, BC, CD",
+        "DA",
+        "AC = e",
+        "BD = f"
+      ],
+      "pdfPageStart": 256,
+      "pdfPageEnd": 256,
+      "printedPageStart": 251,
+      "printedPageEnd": 251,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p081",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane with points A, B, C, D",
+      "image": "p256-page_13_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 256,
+      "pdfPageEnd": 256,
+      "printedPageStart": 251,
+      "printedPageEnd": 251,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p082",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$a = \\sqrt{(3 - 2)^2 + (0 + 3)^2} = \\sqrt{1^2 + 3^2} = \\sqrt{10}  একক$$",
+      "image": null,
+      "formulas": [
+        "a = \\sqrt{(3 - 2)^2 + (0 + 3)^2} = \\sqrt{1^2 + 3^2} = \\sqrt{10}  একক"
+      ],
+      "pdfPageStart": 256,
+      "pdfPageEnd": 256,
+      "printedPageStart": 251,
+      "printedPageEnd": 251,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p083",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$b = \\sqrt{(0 - 3)^2 + (1 - 0)^2} = \\sqrt{3^2 + 1^2} = \\sqrt{10}  একক$$",
+      "image": null,
+      "formulas": [
+        "b = \\sqrt{(0 - 3)^2 + (1 - 0)^2} = \\sqrt{3^2 + 1^2} = \\sqrt{10}  একক"
+      ],
+      "pdfPageStart": 256,
+      "pdfPageEnd": 256,
+      "printedPageStart": 251,
+      "printedPageEnd": 251,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p084",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$c = \\sqrt{(-1 - 0)^2 + (-2 - 1)^2} = \\sqrt{1^2 + 3^2} = \\sqrt{10}  একক$$",
+      "image": null,
+      "formulas": [
+        "c = \\sqrt{(-1 - 0)^2 + (-2 - 1)^2} = \\sqrt{1^2 + 3^2} = \\sqrt{10}  একক"
+      ],
+      "pdfPageStart": 256,
+      "pdfPageEnd": 256,
+      "printedPageStart": 251,
+      "printedPageEnd": 251,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p085",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$d = \\sqrt{(2 + 1)^2 + (-3 + 2)^2} = \\sqrt{3^2 + 1^2} = \\sqrt{10}  একক$$",
+      "image": null,
+      "formulas": [
+        "d = \\sqrt{(2 + 1)^2 + (-3 + 2)^2} = \\sqrt{3^2 + 1^2} = \\sqrt{10}  একক"
+      ],
+      "pdfPageStart": 256,
+      "pdfPageEnd": 256,
+      "printedPageStart": 251,
+      "printedPageEnd": 251,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p086",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যেহেতু $a = b = c = d = \\sqrt{10}$ একক\n$\\therefore$ $ABCD$ একটি রম্বস।",
+      "image": null,
+      "formulas": [
+        "a = b = c = d = \\sqrt{10}",
+        "\\therefore",
+        "ABCD"
+      ],
+      "pdfPageStart": 256,
+      "pdfPageEnd": 256,
+      "printedPageStart": 251,
+      "printedPageEnd": 251,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p087",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) কর্ণ $AC = e = \\sqrt{(0 - 2)^2 + (1 + 3)^2} = \\sqrt{4 + 16} = \\sqrt{20}$ একক\nএবং কর্ণ $BD = f = \\sqrt{(-1 - 3)^2 + (-2 - 0)^2} = \\sqrt{4^2 + 2^2} = \\sqrt{20}$ একক\n$\\therefore$ দেখা যাচ্ছে $AC = BD$ অর্থাৎ, কর্ণদ্বয় সমান\n$$AC^2 = (\\sqrt{20})^2 = 20$$\n$$AB^2 + BC^2 = (\\sqrt{10})^2 + (\\sqrt{10})^2 = 10 + 10 = 20 = AC^2$$\n$\\therefore$ পিথাগোরাসের উপপাদ্যের বিপরীত উপপাদ্য অনুযায়ী $\\angle ABC$ সমকোণ।\n$\\therefore$ $ABCD$ চতুর্ভুজটি একটি বর্গ।",
+      "image": null,
+      "formulas": [
+        "AC = e = \\sqrt{(0 - 2)^2 + (1 + 3)^2} = \\sqrt{4 + 16} = \\sqrt{20}",
+        "BD = f = \\sqrt{(-1 - 3)^2 + (-2 - 0)^2} = \\sqrt{4^2 + 2^2} = \\sqrt{20}",
+        "\\therefore",
+        "AC = BD",
+        "AC^2 = (\\sqrt{20})^2 = 20",
+        "AB^2 + BC^2 = (\\sqrt{10})^2 + (\\sqrt{10})^2 = 10 + 10 = 20 = AC^2",
+        "\\therefore",
+        "\\angle ABC",
+        "\\therefore",
+        "ABCD"
+      ],
+      "pdfPageStart": 256,
+      "pdfPageEnd": 256,
+      "printedPageStart": 251,
+      "printedPageEnd": 251,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p088",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) চতুর্ভুজ $ABCD$ এর ক্ষেত্রফল $= 2 \\times$ ত্রিভুজ $ABC$ এর ক্ষেত্রফল\nএখানে $\\triangle ABC$ এর ক্ষেত্রে",
+      "image": null,
+      "formulas": [
+        "ABCD",
+        "= 2 \\times",
+        "ABC",
+        "\\triangle ABC"
+      ],
+      "pdfPageStart": 256,
+      "pdfPageEnd": 256,
+      "printedPageStart": 251,
+      "printedPageEnd": 251,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p089",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$s = \\frac{1}{2}(a + b + e) = \\frac{\\sqrt{10} + \\sqrt{10} + \\sqrt{20}}{2} = \\frac{2\\sqrt{10} + 2\\sqrt{5}}{2} = \\sqrt{10} + \\sqrt{5}$$",
+      "image": null,
+      "formulas": [
+        "s = \\frac{1}{2}(a + b + e) = \\frac{\\sqrt{10} + \\sqrt{10} + \\sqrt{20}}{2} = \\frac{2\\sqrt{10} + 2\\sqrt{5}}{2} = \\sqrt{10} + \\sqrt{5}"
+      ],
+      "pdfPageStart": 256,
+      "pdfPageEnd": 256,
+      "printedPageStart": 251,
+      "printedPageEnd": 251,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p090",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ $\\triangle ABC$ এর ক্ষেত্রফল\n$$= \\sqrt{s(s - a)(s - b)(s - e)}  বর্গ একক$$ $$= \\sqrt{(\\sqrt{10} + \\sqrt{5})(\\sqrt{10} + \\sqrt{5} - \\sqrt{10})(\\sqrt{10} + \\sqrt{5} - \\sqrt{10})(\\sqrt{10} + \\sqrt{5} - \\sqrt{20})}$$\nবর্গ একক",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "\\triangle ABC",
+        "= \\sqrt{s(s - a)(s - b)(s - e)}  বর্গ একক",
+        "= \\sqrt{(\\sqrt{10} + \\sqrt{5})(\\sqrt{10} + \\sqrt{5} - \\sqrt{10})(\\sqrt{10} + \\sqrt{5} - \\sqrt{10})(\\sqrt{10} + \\sqrt{5} - \\sqrt{20})}"
+      ],
+      "pdfPageStart": 256,
+      "pdfPageEnd": 257,
+      "printedPageStart": 251,
+      "printedPageEnd": 252,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p091",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\sqrt{(\\sqrt{10} + \\sqrt{5}) \\cdot \\sqrt{5} \\cdot \\sqrt{5} \\cdot (\\sqrt{10} - \\sqrt{5})}  বর্গ একক$$",
+      "image": null,
+      "formulas": [
+        "= \\sqrt{(\\sqrt{10} + \\sqrt{5}) \\cdot \\sqrt{5} \\cdot \\sqrt{5} \\cdot (\\sqrt{10} - \\sqrt{5})}  বর্গ একক"
+      ],
+      "pdfPageStart": 257,
+      "pdfPageEnd": 257,
+      "printedPageStart": 252,
+      "printedPageEnd": 252,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p092",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\sqrt{5 \\cdot ((\\sqrt{10})^2 - (\\sqrt{5})^2)} = \\sqrt{5 \\cdot 5} = 5  বর্গ একক$$",
+      "image": null,
+      "formulas": [
+        "= \\sqrt{5 \\cdot ((\\sqrt{10})^2 - (\\sqrt{5})^2)} = \\sqrt{5 \\cdot 5} = 5  বর্গ একক"
+      ],
+      "pdfPageStart": 257,
+      "pdfPageEnd": 257,
+      "printedPageStart": 252,
+      "printedPageEnd": 252,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p093",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore ABCD$ বর্গের ক্ষেত্রফল $= 2 \\times 5$ বর্গ একক $= 10$ বর্গ একক।",
+      "image": null,
+      "formulas": [
+        "\\therefore ABCD",
+        "= 2 \\times 5",
+        "= 10"
+      ],
+      "pdfPageStart": 257,
+      "pdfPageEnd": 257,
+      "printedPageStart": 252,
+      "printedPageEnd": 252,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p094",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:** সহজ পদ্ধতি $ABCD$ বর্গটির ক্ষেত্রফল $= (\\sqrt{10})^2 = 10$ বর্গ একক।",
+      "image": null,
+      "formulas": [
+        "ABCD",
+        "= (\\sqrt{10})^2 = 10"
+      ],
+      "pdfPageStart": 257,
+      "pdfPageEnd": 257,
+      "printedPageStart": 252,
+      "printedPageEnd": 252,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p095",
+      "kind": "text",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "এই পদ্ধতিতে একটি ত্রিভুজের তিনটি শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে খুব সহজেই ত্রিভুজক্ষেত্রের ক্ষেত্রফল নির্ণয় করা যায়। একইভাবে যেকোনো বহুভুজের শীর্ষবিন্দুর স্থানাঙ্ক জানা থাকলেও বহুভুজের ক্ষেত্রফল নির্ণয় সম্ভব। বাস্তব ক্ষেত্রে এই পদ্ধতি ব্যবহার করা সম্ভব হয় না। এর কারণ হলো আমরা যদি একটি জমির ক্ষেত্রফল নির্ণয় করতে চাই এবং জমিটি যদি ত্রিকোণাকার বা চৌকোণাকার হয় তাহলে এই পদ্ধতিতে ক্ষেত্রফল নির্ণয় করা যাবে না। যেহেতু কোণিক বিন্দুসমূহের স্থানাঙ্ক আমাদের জানা নাই বা জানা সম্ভব নয়। কিন্তু জমিটির বাহুর দৈর্ঘ্য আমরা সহজেই মেপে নিতে পারি এবং ১ নং পদ্ধতিতে ক্ষেত্রফল নির্ণয় করতে পারি। তাই উভয় পদ্ধতি সম্পর্কে শিক্ষার্থীদের ধারণা থাকা প্রয়োজন। ২ নং পদ্ধতির সাহায্যে ত্রিভুজ ও বহুভুজের ক্ষেত্রফল নির্ণয়ের কৌশল উদাহরণের সাহায্যে ব্যাখ্যা করা হলো:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 257,
+      "pdfPageEnd": 257,
+      "printedPageStart": 252,
+      "printedPageEnd": 252,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p096",
+      "kind": "text",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "ত্রিভুজক্ষেত্রের ক্ষেত্রফল নির্ণয়ের সাধারণ সূত্র: ধরি, $A(x_1, y_1)$, $B(x_2, y_2)$ এবং $C(x_3, y_3)$ ত্রিভুজ $ABC$ এর তিনটি শীর্ষবিন্দু। নিচের চিত্রের অনুসূচ $A, B$ ও $C$ বিন্দু ঘড়ির কাঁটার বিপরীত দিকে সাজানো।",
+      "image": null,
+      "formulas": [
+        "A(x_1, y_1)",
+        "B(x_2, y_2)",
+        "C(x_3, y_3)",
+        "ABC",
+        "A, B",
+        "C"
+      ],
+      "pdfPageStart": 257,
+      "pdfPageEnd": 257,
+      "printedPageStart": 252,
+      "printedPageEnd": 252,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p097",
+      "kind": "figure",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "drawing: A geometric diagram showing a triangle ABC with vertices A(x<sub>1</sub>, y<sub>1</sub>), B(x<sub>2</sub>, y<sub>2</sub>), and C(x<sub>3</sub>, y<sub>3</sub>) plotted on a Cartesian coordinate system with axes X, Y, X', and Y'. The projections of the vertices onto the X-axis are labeled D(x<sub>3</sub>, 0), E(x<sub>2</sub>, 0), and F(x<sub>1</sub>, 0).",
+      "image": "p257-page_14_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 257,
+      "pdfPageEnd": 257,
+      "printedPageStart": 252,
+      "printedPageEnd": 252,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p098",
+      "kind": "text",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "চিত্র থেকে আমরা পাই,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 257,
+      "pdfPageEnd": 257,
+      "printedPageStart": 252,
+      "printedPageEnd": 252,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p099",
+      "kind": "text",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "বহুভুজ $ABCDF$ এর ক্ষেত্রফল $=$ ত্রিভুজক্ষেত্র $ABC$ এর ক্ষেত্রফল $+$ ট্রাপিজিয়ামক্ষেত্র $ACDF$ এর ক্ষেত্রফল।",
+      "image": null,
+      "formulas": [
+        "ABCDF",
+        "=",
+        "ABC",
+        "+",
+        "ACDF"
+      ],
+      "pdfPageStart": 257,
+      "pdfPageEnd": 257,
+      "printedPageStart": 252,
+      "printedPageEnd": 252,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p100",
+      "kind": "formula",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "$$= ট্রাপিজিয়ামক্ষেত্র  ABEF  এর ক্ষেত্রফল + ট্রাপিজিয়ামক্ষেত্র  BCDE  এর ক্ষেত্রফল।$$",
+      "image": null,
+      "formulas": [
+        "= ট্রাপিজিয়ামক্ষেত্র  ABEF  এর ক্ষেত্রফল + ট্রাপিজিয়ামক্ষেত্র  BCDE  এর ক্ষেত্রফল।"
+      ],
+      "pdfPageStart": 257,
+      "pdfPageEnd": 257,
+      "printedPageStart": 252,
+      "printedPageEnd": 252,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p101",
+      "kind": "text",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "সুতরাং আমরা পাই,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 258,
+      "pdfPageEnd": 258,
+      "printedPageStart": 253,
+      "printedPageEnd": 253,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p102",
+      "kind": "text",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "ত্রিভুজক্ষেত্র $ABC$ এর ক্ষেত্রফল = ট্রাপিজিয়ামক্ষেত্র $ABEF$ এর ক্ষেত্রফল + ট্রাপিজিয়ামক্ষেত্র $BCDE$ এর ক্ষেত্রফল - ট্রাপিজিয়ামক্ষেত্র $ACDF$ এর ক্ষেত্রফল।",
+      "image": null,
+      "formulas": [
+        "ABC",
+        "ABEF",
+        "BCDE",
+        "ACDF"
+      ],
+      "pdfPageStart": 258,
+      "pdfPageEnd": 258,
+      "printedPageStart": 253,
+      "printedPageEnd": 253,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p103",
+      "kind": "text",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "$\\therefore$ ত্রিভুজক্ষেত্র $ABC$ এর ক্ষেত্রফল",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "ABC"
+      ],
+      "pdfPageStart": 258,
+      "pdfPageEnd": 258,
+      "printedPageStart": 253,
+      "printedPageEnd": 253,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p104",
+      "kind": "formula",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "$$= \\frac{1}{2} \\times (BE + AF) \\times EF + \\frac{1}{2} \\times (CD + BE) \\times DE - \\frac{1}{2} \\times (CD + AF) \\times DF$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{1}{2} \\times (BE + AF) \\times EF + \\frac{1}{2} \\times (CD + BE) \\times DE - \\frac{1}{2} \\times (CD + AF) \\times DF"
+      ],
+      "pdfPageStart": 258,
+      "pdfPageEnd": 258,
+      "printedPageStart": 253,
+      "printedPageEnd": 253,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p105",
+      "kind": "formula",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "$$= \\frac{1}{2} \\times (y_2 + y_1) \\times (x_1 - x_2) + \\frac{1}{2} \\times (y_3 + y_2) \\times (x_2 - x_3) - \\frac{1}{2} \\times (y_3 + y_1) \\times (x_1 - x_3)$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{1}{2} \\times (y_2 + y_1) \\times (x_1 - x_2) + \\frac{1}{2} \\times (y_3 + y_2) \\times (x_2 - x_3) - \\frac{1}{2} \\times (y_3 + y_1) \\times (x_1 - x_3)"
+      ],
+      "pdfPageStart": 258,
+      "pdfPageEnd": 258,
+      "printedPageStart": 253,
+      "printedPageEnd": 253,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p106",
+      "kind": "formula",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "$$= \\frac{1}{2} (x_1y_2 + x_2y_3 + x_3y_1 - x_2y_1 - x_3y_2 - x_1y_3)$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{1}{2} (x_1y_2 + x_2y_3 + x_3y_1 - x_2y_1 - x_3y_2 - x_1y_3)"
+      ],
+      "pdfPageStart": 258,
+      "pdfPageEnd": 258,
+      "printedPageStart": 253,
+      "printedPageEnd": 253,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p107",
+      "kind": "formula",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "$$= \\frac{1}{2} \\begin{vmatrix} x_1 & x_2 & x_3 & x_1 \\\\ y_1 & y_2 & y_3 & y_1 \\end{vmatrix}  বর্গ একক$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{1}{2} \\begin{vmatrix} x_1 & x_2 & x_3 & x_1 \\\\ y_1 & y_2 & y_3 & y_1 \\end{vmatrix}  বর্গ একক"
+      ],
+      "pdfPageStart": 258,
+      "pdfPageEnd": 258,
+      "printedPageStart": 253,
+      "printedPageEnd": 253,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p108",
+      "kind": "text",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "যেখানে গুণফলের দিক $\\searrow$ ধনাত্মক চিহ্ন হিসেবে নিয়ে পাওয়া গেছে $x_1y_2 + x_2y_3 + x_3y_1$ এবং গুণফলের দিক $\\nearrow$ ঋণাত্মক চিহ্ন হিসেবে নিয়ে পাওয়া গেছে $-x_2y_1 - x_3y_2 - x_1y_3$",
+      "image": null,
+      "formulas": [
+        "\\searrow",
+        "x_1y_2 + x_2y_3 + x_3y_1",
+        "\\nearrow",
+        "-x_2y_1 - x_3y_2 - x_1y_3"
+      ],
+      "pdfPageStart": 258,
+      "pdfPageEnd": 258,
+      "printedPageStart": 253,
+      "printedPageEnd": 253,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p109",
+      "kind": "text",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "সুতরাং, $\\triangle ABC$ এর ক্ষেত্রফল $= \\frac{1}{2} \\begin{vmatrix} x_1 & x_2 & x_3 & x_1 \\\\ y_1 & y_2 & y_3 & y_1 \\end{vmatrix}$ বর্গ একক",
+      "image": null,
+      "formulas": [
+        "\\triangle ABC",
+        "= \\frac{1}{2} \\begin{vmatrix} x_1 & x_2 & x_3 & x_1 \\\\ y_1 & y_2 & y_3 & y_1 \\end{vmatrix}"
+      ],
+      "pdfPageStart": 258,
+      "pdfPageEnd": 258,
+      "printedPageStart": 253,
+      "printedPageEnd": 253,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p110",
+      "kind": "text",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "**মন্তব্য:** মনে রাখা অত্যন্ত গুরুত্বপূর্ণ যে এ পদ্ধতিতে ক্ষেত্রফল নির্ণয়ের ক্ষেত্রে বিন্দুসমূহের স্থানাঙ্ক $\\begin{vmatrix} x_1 & x_2 & x_3 & x_1 \\\\ y_1 & y_2 & y_3 & y_1 \\end{vmatrix}$ অবশ্যই ঘড়ির কাঁটার বিপরীত দিকে নিতে হবে।",
+      "image": null,
+      "formulas": [
+        "\\begin{vmatrix} x_1 & x_2 & x_3 & x_1 \\\\ y_1 & y_2 & y_3 & y_1 \\end{vmatrix}"
+      ],
+      "pdfPageStart": 258,
+      "pdfPageEnd": 258,
+      "printedPageStart": 253,
+      "printedPageEnd": 253,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p111",
+      "kind": "text",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "**উদাহরণ ১২.** $A(2, 3)$, $B(5, 6)$ এবং $C(-1, 4)$ শীর্ষবিশিষ্ট $ABC$ ত্রিভুজের ক্ষেত্রফল নির্ণয় কর।",
+      "image": null,
+      "formulas": [
+        "A(2, 3)",
+        "B(5, 6)",
+        "C(-1, 4)",
+        "ABC"
+      ],
+      "pdfPageStart": 258,
+      "pdfPageEnd": 258,
+      "printedPageStart": 253,
+      "printedPageEnd": 253,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p112",
+      "kind": "text",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "**সমাধান:** $A(2, 3)$, $B(5, 6)$ এবং $C(-1, 4)$ শীর্ষ তিনটিকে ঘড়ির কাঁটার বিপরীত দিকে নেওয়া হলো।",
+      "image": null,
+      "formulas": [
+        "A(2, 3)",
+        "B(5, 6)",
+        "C(-1, 4)"
+      ],
+      "pdfPageStart": 258,
+      "pdfPageEnd": 258,
+      "printedPageStart": 253,
+      "printedPageEnd": 253,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p113",
+      "kind": "text",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "$\\triangle ABC$ এর ক্ষেত্রফল $= \\frac{1}{2} \\begin{vmatrix} 2 & 5 & -1 & 2 \\\\ 3 & 6 & 4 & 3 \\end{vmatrix}$ বর্গ একক",
+      "image": null,
+      "formulas": [
+        "\\triangle ABC",
+        "= \\frac{1}{2} \\begin{vmatrix} 2 & 5 & -1 & 2 \\\\ 3 & 6 & 4 & 3 \\end{vmatrix}"
+      ],
+      "pdfPageStart": 258,
+      "pdfPageEnd": 258,
+      "printedPageStart": 253,
+      "printedPageEnd": 253,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p114",
+      "kind": "text",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "$$= \\frac{1}{2} (12 + 20 - 3 - 15 + 6 - 8)  বর্গ একক$$\n$$= \\frac{1}{2} (12)  বর্গ একক = 6  বর্গ একক$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{1}{2} (12 + 20 - 3 - 15 + 6 - 8)  বর্গ একক",
+        "= \\frac{1}{2} (12)  বর্গ একক = 6  বর্গ একক"
+      ],
+      "pdfPageStart": 258,
+      "pdfPageEnd": 258,
+      "printedPageStart": 253,
+      "printedPageEnd": 253,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p115",
+      "kind": "figure",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "drawing: A coordinate plane diagram showing a triangle with vertices A(2, 3), B(5, 6), and C(-1, 4). The axes are labeled X, X', Y, and Y', with the origin O.",
+      "image": "p258-page_15_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 258,
+      "pdfPageEnd": 258,
+      "printedPageStart": 253,
+      "printedPageEnd": 253,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p116",
+      "kind": "text",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "**উদাহরণ ১৩.** একটি ত্রিভুজের তিনটি শীর্ষ $A(1, 3)$, $B(5, 1)$ এবং $C(3, r)$ এর ক্ষেত্রফল ৪ বর্গ একক হলে $r$ এর সম্ভাব্য মানসমূহ নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "A(1, 3)",
+        "B(5, 1)",
+        "C(3, r)",
+        "r"
+      ],
+      "pdfPageStart": 259,
+      "pdfPageEnd": 259,
+      "printedPageStart": 254,
+      "printedPageEnd": 254,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p117",
+      "kind": "text",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "**সমাধান:** $A(1, 3)$, $B(5, 1)$ এবং $C(3, r)$ শীর্ষ তিনটি ঘড়ির কাঁটার বিপরীত দিকে বিবেচনা করে $\\triangle ABC$ এর ক্ষেত্রফল",
+      "image": null,
+      "formulas": [
+        "A(1, 3)",
+        "B(5, 1)",
+        "C(3, r)",
+        "\\triangle ABC"
+      ],
+      "pdfPageStart": 259,
+      "pdfPageEnd": 259,
+      "printedPageStart": 254,
+      "printedPageEnd": 254,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p118",
+      "kind": "formula",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "$$= \\frac{1}{2} \\begin{vmatrix} 1 & 5 & 3 & 1 \\\\ 3 & 1 & r & 3 \\end{vmatrix}  বর্গ একক$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{1}{2} \\begin{vmatrix} 1 & 5 & 3 & 1 \\\\ 3 & 1 & r & 3 \\end{vmatrix}  বর্গ একক"
+      ],
+      "pdfPageStart": 259,
+      "pdfPageEnd": 259,
+      "printedPageStart": 254,
+      "printedPageEnd": 254,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p119",
+      "kind": "formula",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "$$= \\frac{1}{2} (1 + 5r + 9 - 15 - 3 - r)  বর্গ একক$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{1}{2} (1 + 5r + 9 - 15 - 3 - r)  বর্গ একক"
+      ],
+      "pdfPageStart": 259,
+      "pdfPageEnd": 259,
+      "printedPageStart": 254,
+      "printedPageEnd": 254,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p120",
+      "kind": "formula",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "$$= \\frac{1}{2} (4r - 8) = (2r - 4)  বর্গ একক$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{1}{2} (4r - 8) = (2r - 4)  বর্গ একক"
+      ],
+      "pdfPageStart": 259,
+      "pdfPageEnd": 259,
+      "printedPageStart": 254,
+      "printedPageEnd": 254,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p121",
+      "kind": "text",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "প্রশ্নমতে, $|(2r - 4)| = 4$",
+      "image": null,
+      "formulas": [
+        "|(2r - 4)| = 4"
+      ],
+      "pdfPageStart": 259,
+      "pdfPageEnd": 259,
+      "printedPageStart": 254,
+      "printedPageEnd": 254,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p122",
+      "kind": "text",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "বা, $\\pm(2r - 4) = 4$",
+      "image": null,
+      "formulas": [
+        "\\pm(2r - 4) = 4"
+      ],
+      "pdfPageStart": 259,
+      "pdfPageEnd": 259,
+      "printedPageStart": 254,
+      "printedPageEnd": 254,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p123",
+      "kind": "text",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "বা, $2r - 4 = \\pm 4$",
+      "image": null,
+      "formulas": [
+        "2r - 4 = \\pm 4"
+      ],
+      "pdfPageStart": 259,
+      "pdfPageEnd": 259,
+      "printedPageStart": 254,
+      "printedPageEnd": 254,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p124",
+      "kind": "text",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "অর্থাৎ, $2r = 0$ বা, $8$",
+      "image": null,
+      "formulas": [
+        "2r = 0",
+        "8"
+      ],
+      "pdfPageStart": 259,
+      "pdfPageEnd": 259,
+      "printedPageStart": 254,
+      "printedPageEnd": 254,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.4-p125",
+      "kind": "formula",
+      "section": "পদ্ধতি ২: শীর্ষবিন্দুর স্থানাঙ্কের সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "$\\therefore r = 0, 4$",
+      "image": null,
+      "formulas": [
+        "\\therefore r = 0, 4"
+      ],
+      "pdfPageStart": 259,
+      "pdfPageEnd": 259,
+      "printedPageStart": 254,
+      "printedPageEnd": 254,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

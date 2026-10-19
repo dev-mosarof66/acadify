@@ -1,0 +1,195 @@
+{
+  "id": "higher-math-9-10-bn-c08-t8.6",
+  "key": "8.6",
+  "title": "বিভিন্ন চতুর্ভাগে ত্রিকোণমিতিক অনুপাতসমূহের চিহ্ন",
+  "chapter": 8,
+  "ordinal": 7,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c08-t8.6-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "পাশের চিত্রে কার্তেসীয় তলকে $X'OX$ এবং $Y'OY$ অক্ষদ্বয় দ্বারা চারটি চতুর্ভাগ (Quadrant) যথাক্রমে $XOY$ (১ম চতুর্ভাগ), $YOX'$ (২য় চতুর্ভাগ), $X'OY'$ (৩য় চতুর্ভাগ) এবং $Y'OX$ (৪র্থ চতুর্ভাগ) এ বিভক্ত করা হয়েছে।",
+      "image": null,
+      "formulas": [
+        "X'OX",
+        "Y'OY",
+        "XOY",
+        "YOX'",
+        "X'OY'",
+        "Y'OX"
+      ],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.6-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আদি অবস্থান $OX$ থেকে একটি রশ্মি $OA$, যড়ির কঁটার বিপরীত দিকে ঘূর্ণনের ফলে $OA$ এর প্রান্তিক অবস্থানের উপর নির্ভর করে বিভিন্ন কোণ উৎপন্ন হবে। ঘূর্ণায়মান রশ্মি $OA$ এর উপর যেকোনো বিন্দু $P(x, y)$ নিই। তাহলে $|OP| = r$. প্রান্তিক রশ্মি $OA$ এবং $P$ বিন্দুর বিভিন্ন চতুর্ভাগে অবস্থানের সজ্জা সজ্জো $x$ ও $y$ এর চিহ্ন পরিবর্তন হবে কিন্তু $r$ সবসময় ধনাত্মক থাকবে।",
+      "image": null,
+      "formulas": [
+        "OX",
+        "OA",
+        "OA",
+        "OA",
+        "P(x, y)",
+        "|OP| = r",
+        "OA",
+        "P",
+        "x",
+        "y",
+        "r"
+      ],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.6-p003",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A Cartesian coordinate system showing four quadrants labeled 1ম চতুর্ভাগ, 2য় চতুর্ভাগ, 3য় চতুর্ভাগ, and 4র্থ চতুর্ভাগ, with axes X, X', Y, and Y'.",
+      "image": "p170-page_20_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.6-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$OA$ রশ্মি যখন প্রথম চতুর্ভাগে থাকে, তখন $x$ ও $y$ এর মান ধনাত্মক। তাই প্রথম চতুর্ভাগে সকল ত্রিকোণমিতিক অনুপাত ধনাত্মক। $OA$ রশ্মি যখন দ্বিতীয় চতুর্ভাগে থাকে তখন $P$ বিন্দুর ভুজ $x$ ঋণাত্মক এবং কোটি $y$ ধনাত্মক। এজন্য দ্বিতীয় চতুর্ভাগে $\\sin \\left( \\sin \\theta = \\frac{y}{r} \\right)$ এবং $\\csc \\left( \\csc \\theta = \\frac{r}{y} \\right)$ অনুপাত দুটি ধনাত্মক। অন্যসব অনুপাত ঋণাত্মক। একইভাবে তৃতীয় চতুর্ভাগে $P$ বিন্দুর ভুজ $x$ ও কোটি $y$ উভয়ই ঋণাত্মক এবং $\\tan \\left( \\tan \\theta = \\frac{-y}{-x} = \\frac{y}{x} \\right)$ ও $\\cot \\left( \\cot \\theta = \\frac{-x}{-y} = \\frac{x}{y} \\right)$ ধনাত্মক। অন্য অনুপাতসমূহ ঋণাত্মক। চতুর্থ চতুর্ভাগে $OA$ রশ্মির উপর $P$ বিন্দুর ভুজ $x$ ধনাত্মক এবং কোটি $y$ ঋণাত্মক বলে $\\cos \\left( \\cos \\theta = \\frac{x}{r} \\right)$ এবং $\\sec \\left( \\sec \\theta = \\frac{r}{x} \\right)$ ধনাত্মক এবং অন্যসব ত্রিকোণমিতিক অনুপাত ঋণাত্মক।",
+      "image": null,
+      "formulas": [
+        "OA",
+        "x",
+        "y",
+        "OA",
+        "P",
+        "x",
+        "y",
+        "\\sin \\left( \\sin \\theta = \\frac{y}{r} \\right)",
+        "\\csc \\left( \\csc \\theta = \\frac{r}{y} \\right)",
+        "P",
+        "x",
+        "y",
+        "\\tan \\left( \\tan \\theta = \\frac{-y}{-x} = \\frac{y}{x} \\right)",
+        "\\cot \\left( \\cot \\theta = \\frac{-x}{-y} = \\frac{x}{y} \\right)",
+        "OA",
+        "P",
+        "x",
+        "y",
+        "\\cos \\left( \\cos \\theta = \\frac{x}{r} \\right)",
+        "\\sec \\left( \\sec \\theta = \\frac{r}{x} \\right)"
+      ],
+      "pdfPageStart": 171,
+      "pdfPageEnd": 171,
+      "printedPageStart": 166,
+      "printedPageEnd": 166,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.6-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার, $x$-অক্ষের যেকোনো অবস্থানে $y$ এর মান শূন্য বলে $\\csc \\left( \\csc \\theta = \\frac{r}{y} \\right)$ এবং $\\cot \\left( \\cot \\theta = \\frac{x}{y} \\right)$ অনুপাত দুটি সংজ্ঞায়িত নয়।",
+      "image": null,
+      "formulas": [
+        "x",
+        "y",
+        "\\csc \\left( \\csc \\theta = \\frac{r}{y} \\right)",
+        "\\cot \\left( \\cot \\theta = \\frac{x}{y} \\right)"
+      ],
+      "pdfPageStart": 171,
+      "pdfPageEnd": 171,
+      "printedPageStart": 166,
+      "printedPageEnd": 166,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.6-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অনুরূপভাবে, $y$-অক্ষের যেকোনো অবস্থানে $x$ এর মান শূন্য। তাই $y$-অক্ষের উপর $\\sec \\left( \\sec \\theta = \\frac{r}{x} \\right)$ এবং $\\tan \\left( \\tan \\theta = \\frac{y}{x} \\right)$ সংজ্ঞায়িত নয়। $\\sin \\left( \\sin \\theta = \\frac{y}{r} \\right)$ এবং $\\cos \\left( \\cos \\theta = \\frac{x}{r} \\right)$ অনুপাত দুটি $P$ বিন্দুর যেকোনো অবস্থানেই সংজ্ঞায়িত এবং বাস্তব মান আছে।",
+      "image": null,
+      "formulas": [
+        "y",
+        "x",
+        "y",
+        "\\sec \\left( \\sec \\theta = \\frac{r}{x} \\right)",
+        "\\tan \\left( \\tan \\theta = \\frac{y}{x} \\right)",
+        "\\sin \\left( \\sin \\theta = \\frac{y}{r} \\right)",
+        "\\cos \\left( \\cos \\theta = \\frac{x}{r} \\right)",
+        "P"
+      ],
+      "pdfPageStart": 171,
+      "pdfPageEnd": 171,
+      "printedPageStart": 166,
+      "printedPageEnd": 166,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.6-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "উপরিউক্ত আলোচনার সারাংশ নিম্নের চিত্রে দেখানো হলো। উক্ত চিত্রের সাহায্যে যেকোনো কোণের প্রান্তিক রশ্মির অবস্থানের উপর নির্ভর করে উক্ত কোণের সকল ত্রিকোণমিতিক অনুপাতের চিহ্ন নির্ণয় সহজ হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 171,
+      "pdfPageEnd": 171,
+      "printedPageStart": 166,
+      "printedPageEnd": 166,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.6-p008",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane diagram showing quadrants and trigonometric function signs",
+      "image": "p171-page_21_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 171,
+      "pdfPageEnd": 171,
+      "printedPageStart": 166,
+      "printedPageEnd": 166,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

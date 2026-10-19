@@ -1,0 +1,44 @@
+{
+  "id": "higher-math-9-10-bn-c07-t7.2",
+  "key": "7.2",
+  "title": "ধারা",
+  "chapter": 7,
+  "ordinal": 2,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c07-t7.2-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কোনো অনুক্রমের পদগুলো পরপর যোগ চিহ্ন দ্বারা যুক্ত করলে একটি ধারা (series) পাওয়া যায়। যেমন, $1 + 4 + 9 + 16 + \\dots$ একটি ধারা। আবার $\\frac{1}{2} + \\frac{1}{4} + \\frac{1}{8} + \\frac{1}{16} + \\dots$ আরেকটি ধারা। এই পরের ধারাটির পরপর দুটি পদের অনুপাত সমান। এ রকম ধারাকে বলা হয় গুণোত্তর ধারা। যেকোনো ধারার পরপর দুটি পদের মধ্যে সম্পর্কের উপর নির্ভর করে ওই ধারাটির বৈশিষ্ট্য। যেমন সমানতর ধারার ক্ষেত্রে পরপর দুটি পদের অন্তর বা বিয়োগফল সমান হয়।",
+      "image": null,
+      "formulas": [
+        "1 + 4 + 9 + 16 + \\dots",
+        "\\frac{1}{2} + \\frac{1}{4} + \\frac{1}{8} + \\frac{1}{16} + \\dots"
+      ],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.2-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কোনো ধারার পদের সংখ্যার উপর নির্ভর করে ধারাকে নিম্নোক্ত দুইভাবে ভাগ করা যায়। ক) সসীম বা সান্ত ধারা (Finite series) খ) অসীম বা অনন্ত ধারা (Infinite series)। সসীম ধারা সম্পর্কে নবম-দশম শ্রেণির গণিতে আলোচনা করা হয়েছে। এখানে অসীম ধারা সম্পর্কে আলোচনা করা হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

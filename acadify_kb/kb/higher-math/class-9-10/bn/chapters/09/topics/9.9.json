@@ -1,0 +1,105 @@
+{
+  "id": "higher-math-9-10-bn-c09-t9.9",
+  "key": "9.9",
+  "title": "লগারিদমীয় ফাংশন",
+  "chapter": 9,
+  "ordinal": 10,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c09-t9.9-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যেহেতু সূচক ফাংশন একটি এক-এক ও সার্বিক ফাংশন। সুতরাং এর বিপরীত ফাংশন আছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 218,
+      "pdfPageEnd": 218,
+      "printedPageStart": 213,
+      "printedPageEnd": 213,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.9-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$f(x) = y = a^x$ এর বিপরীত ফাংশন $f^{-1}(y) = x = \\log_a y$",
+      "image": null,
+      "formulas": [
+        "f(x) = y = a^x",
+        "f^{-1}(y) = x = \\log_a y"
+      ],
+      "pdfPageStart": 218,
+      "pdfPageEnd": 218,
+      "printedPageStart": 213,
+      "printedPageEnd": 213,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.9-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ $x$ হলো $y$ এর $a$ ভিত্তিক লগারিদম।",
+      "image": null,
+      "formulas": [
+        "x",
+        "y",
+        "a"
+      ],
+      "pdfPageStart": 218,
+      "pdfPageEnd": 218,
+      "printedPageStart": 213,
+      "printedPageEnd": 213,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.9-p004",
+      "kind": "definition",
+      "section": null,
+      "caption": null,
+      "body": "**সংজ্ঞা:** লগারিদমিক ফাংশন $f(x) = \\log_a x$ দ্বারা সংজ্ঞায়িত, যেখানে $a > 0, a \\neq 1$ এবং $x > 0$",
+      "image": null,
+      "formulas": [
+        "f(x) = \\log_a x",
+        "a > 0, a \\neq 1",
+        "x > 0"
+      ],
+      "pdfPageStart": 218,
+      "pdfPageEnd": 218,
+      "printedPageStart": 213,
+      "printedPageEnd": 213,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.9-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যেমন, $f(x) = \\log_3 x, \\log_e x, \\log_{10} x$ ইত্যাদি লগারিদমীয় ফাংশন।",
+      "image": null,
+      "formulas": [
+        "f(x) = \\log_3 x, \\log_e x, \\log_{10} x"
+      ],
+      "pdfPageStart": 218,
+      "pdfPageEnd": 218,
+      "printedPageStart": 213,
+      "printedPageEnd": 213,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

@@ -1,0 +1,1609 @@
+{
+  "id": "higher-math-9-10-bn-c08-t8.ex",
+  "key": "8.ex",
+  "title": "অনুশীলনী ৮.১",
+  "chapter": 8,
+  "ordinal": 5,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p001",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "ক্যালকুলেটর ব্যবহার করে নিম্নের সমস্যাগুলোর সমাধান নির্ণয় করো। সমস্ত ক্ষেত্রে $\\pi$ এর আসন্ন মান চার দশমিক স্থান পর্যন্ত ব্যবহার করো ($\\pi = 3.1416$).",
+      "image": null,
+      "formulas": [
+        "\\pi",
+        "\\pi = 3.1416"
+      ],
+      "pdfPageStart": 164,
+      "pdfPageEnd": 164,
+      "printedPageStart": 159,
+      "printedPageEnd": 159,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p002",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১. ক) রেডিয়ানে প্রকাশ করো:\n    (i) $75^\\circ 30'$\n    (ii) $55^\\circ 54' 53''$\n    (iii) $33^\\circ 22' 11''$",
+      "image": null,
+      "formulas": [
+        "75^\\circ 30'",
+        "55^\\circ 54' 53''",
+        "33^\\circ 22' 11''"
+      ],
+      "pdfPageStart": 164,
+      "pdfPageEnd": 164,
+      "printedPageStart": 159,
+      "printedPageEnd": 159,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p003",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "খ) ডিগ্রিতে প্রকাশ করো:\n    (i) $\\frac{8\\pi}{13}$ রেডিয়ান\n    (ii) 1.3177 রেডিয়ান\n    (iii) 0.9759 রেডিয়ান",
+      "image": null,
+      "formulas": [
+        "\\frac{8\\pi}{13}"
+      ],
+      "pdfPageStart": 164,
+      "pdfPageEnd": 164,
+      "printedPageStart": 159,
+      "printedPageEnd": 159,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p004",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "২. একটি কোণকে যাটমূলক ও বৃত্তীয় পদ্ধতিতে যথাক্রমে $D^\\circ$ ও $R^c$ দ্বারা প্রকাশ করা হলে, প্রমাণ করো যে, $\\frac{D}{180} = \\frac{R}{\\pi}$।",
+      "image": null,
+      "formulas": [
+        "D^\\circ",
+        "R^c",
+        "\\frac{D}{180} = \\frac{R}{\\pi}"
+      ],
+      "pdfPageStart": 164,
+      "pdfPageEnd": 164,
+      "printedPageStart": 159,
+      "printedPageEnd": 159,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p005",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৩. একটি চাকার ব্যাসার্ধ 2 মিটার 3 সে.মি. হলে, চাকার পরিধির আসন্ন মান চার দশমিক স্থান পর্যন্ত নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 164,
+      "pdfPageEnd": 164,
+      "printedPageStart": 159,
+      "printedPageEnd": 159,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p006",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৪. একটি গাড়ির চাকার ব্যাস 0.84 মিটার এবং চাকাটি প্রতি সেকেন্ডে ৬ বার ঘুরে। গাড়িটির গতিবেগ নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 165,
+      "pdfPageEnd": 165,
+      "printedPageStart": 160,
+      "printedPageEnd": 160,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p007",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৫. কোনো ত্রিভুজের কোণ তিনটির অনুপাত ২ : ৫ : ৩ হলে সূত্রতম ও বৃহত্তম কোণের বৃত্তীয় মান কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 165,
+      "pdfPageEnd": 165,
+      "printedPageStart": 160,
+      "printedPageEnd": 160,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p008",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৬. একটি ত্রিভুজের কোণগুলো সমানতর শ্রেণিভুক্ত এবং বৃহত্তম কোণটি সূত্রতম কোণের দ্বিগুণ। কোণগুলোর রেডিয়ান পরিমাণ কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 165,
+      "pdfPageEnd": 165,
+      "printedPageStart": 160,
+      "printedPageEnd": 160,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p009",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৭. পৃথিবীর ব্যাসার্ধ 6440 কি.মি.। ঢাকা ও চট্টগ্রাম পৃথিবীর কেন্দ্রে ৫° কোণ উৎপন্ন করে। ঢাকা ও চট্টগ্রামের দূরত্ব কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 165,
+      "pdfPageEnd": 165,
+      "printedPageStart": 160,
+      "printedPageEnd": 160,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p010",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৮. পৃথিবীর ব্যাসার্ধ 6440 কি.মি.। টেকনাফ ও তেতুলিয়া পৃথিবীর কেন্দ্রে 10°6'3\" কোণ উৎপন্ন করে। টেকনাফ ও তেতুলিয়ার মধ্যবর্তী দূরত্ব কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 165,
+      "pdfPageEnd": 165,
+      "printedPageStart": 160,
+      "printedPageEnd": 160,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p011",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৯. শাহেদ একটি সাইকেলে চড়ে বৃত্তাকার পথে 11 সেকেন্ডে একটি বৃত্তচাপ অতিক্রম করে। যদি চাপটি কেন্দ্রে 30° কোণ উৎপন্ন করে এবং বৃত্তের ব্যাস 201 মিটার হয়, তবে শাহেদের গতিবেগ কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 165,
+      "pdfPageEnd": 165,
+      "printedPageStart": 160,
+      "printedPageEnd": 160,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p012",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১০. পৃথিবীর ব্যাসার্ধ 6440 কি.মি.। পৃথিবীর উপরের যে দুটি স্থান কেন্দ্রে 32\" কোণ উৎপন্ন করে তাদের দূরত্ব কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 165,
+      "pdfPageEnd": 165,
+      "printedPageStart": 160,
+      "printedPageEnd": 160,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p013",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১১. সকাল 9 : 30 টায় ঘড়ির ঘণ্টার কঁাটা ও মিনিটের কঁাটার অন্তর্গত কোণকে রেডিয়ানে প্রকাশ কর। [সংকেত: এক ঘর কেন্দ্রে $\\frac{360^\\circ}{60} = 6^\\circ$ কোণ উৎপন্ন করে। 9 : 30 টায় ঘড়ির ঘণ্টার কঁাটা ও মিনিটের কঁাটার মধ্যে ব্যবধান $\\left(15 + 2\\frac{1}{2}\\right)$ বা $17\\frac{1}{2}$ ঘর]",
+      "image": null,
+      "formulas": [
+        "\\frac{360^\\circ}{60} = 6^\\circ",
+        "\\left(15 + 2\\frac{1}{2}\\right)",
+        "17\\frac{1}{2}"
+      ],
+      "pdfPageStart": 165,
+      "pdfPageEnd": 165,
+      "printedPageStart": 160,
+      "printedPageEnd": 160,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p014",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১২. এক ব্যক্তি বৃত্তাকার পথে ঘণ্টায় ৬ কি.মি. বেগে দৌড়ে 36 সেকেন্ডে যে বৃত্তচাপ অতিক্রম করে তা কেন্দ্রে 60° কোণ উৎপন্ন করে। বৃত্তের ব্যাস নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 165,
+      "pdfPageEnd": 165,
+      "printedPageStart": 160,
+      "printedPageEnd": 160,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p015",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১৩. 750 কিলোমিটার দূরে একটি বিন্দুতে কোনো পাহাড় 8' কোণ উৎপন্ন করে। পাহাড়টির উচ্চতা নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 165,
+      "pdfPageEnd": 165,
+      "printedPageStart": 160,
+      "printedPageEnd": 160,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p016",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৮.২",
+      "caption": null,
+      "body": "১. ক্যালকুলেটর ব্যবহার না করে মান নির্ণয় করো:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 180,
+      "pdfPageEnd": 180,
+      "printedPageStart": 175,
+      "printedPageEnd": 175,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p017",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৮.২",
+      "caption": null,
+      "body": "ক) $\\frac{\\cos \\frac{\\pi}{4}}{\\cos \\frac{\\pi}{6} + \\sin \\frac{\\pi}{3}}$",
+      "image": null,
+      "formulas": [
+        "\\frac{\\cos \\frac{\\pi}{4}}{\\cos \\frac{\\pi}{6} + \\sin \\frac{\\pi}{3}}"
+      ],
+      "pdfPageStart": 180,
+      "pdfPageEnd": 180,
+      "printedPageStart": 175,
+      "printedPageEnd": 175,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p018",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৮.২",
+      "caption": null,
+      "body": "খ) $\\tan \\frac{\\pi}{4} + \\tan \\frac{\\pi}{6} \\cdot \\tan \\frac{\\pi}{3}$",
+      "image": null,
+      "formulas": [
+        "\\tan \\frac{\\pi}{4} + \\tan \\frac{\\pi}{6} \\cdot \\tan \\frac{\\pi}{3}"
+      ],
+      "pdfPageStart": 180,
+      "pdfPageEnd": 180,
+      "printedPageStart": 175,
+      "printedPageEnd": 175,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p019",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৮.২",
+      "caption": null,
+      "body": "২. $\\cos \\theta = -\\frac{4}{5}$ এবং $\\pi < \\theta < \\frac{3\\pi}{2}$ হলে $\\tan \\theta$ এবং $\\sin \\theta$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "\\cos \\theta = -\\frac{4}{5}",
+        "\\pi < \\theta < \\frac{3\\pi}{2}",
+        "\\tan \\theta",
+        "\\sin \\theta"
+      ],
+      "pdfPageStart": 180,
+      "pdfPageEnd": 180,
+      "printedPageStart": 175,
+      "printedPageEnd": 175,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p020",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৮.২",
+      "caption": null,
+      "body": "৩. $\\sin A = \\frac{2}{\\sqrt{5}}$ এবং $\\frac{\\pi}{2} < A < \\pi$ এর ক্ষেত্রে $\\cos A$ এবং $\\tan A$ এর মান কত?",
+      "image": null,
+      "formulas": [
+        "\\sin A = \\frac{2}{\\sqrt{5}}",
+        "\\frac{\\pi}{2} < A < \\pi",
+        "\\cos A",
+        "\\tan A"
+      ],
+      "pdfPageStart": 180,
+      "pdfPageEnd": 180,
+      "printedPageStart": 175,
+      "printedPageEnd": 175,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p021",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৮.২",
+      "caption": null,
+      "body": "৪. দেওয়া আছে, $\\cos A = \\frac{1}{2}$ এবং $\\cos A$ ও $\\sin A$ একই চিহ্নবিশিষ্ট। $\\sin A$ ও $\\tan A$ এর মান কত?",
+      "image": null,
+      "formulas": [
+        "\\cos A = \\frac{1}{2}",
+        "\\cos A",
+        "\\sin A",
+        "\\sin A",
+        "\\tan A"
+      ],
+      "pdfPageStart": 180,
+      "pdfPageEnd": 180,
+      "printedPageStart": 175,
+      "printedPageEnd": 175,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p022",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৮.২",
+      "caption": null,
+      "body": "৫. দেওয়া আছে, $\\tan A = -\\frac{5}{12}$ এবং $\\tan A$ ও $\\cos A$ বিপরীত চিহ্নবিশিষ্ট। $\\sin A$ ও $\\cos A$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "\\tan A = -\\frac{5}{12}",
+        "\\tan A",
+        "\\cos A",
+        "\\sin A",
+        "\\cos A"
+      ],
+      "pdfPageStart": 180,
+      "pdfPageEnd": 180,
+      "printedPageStart": 175,
+      "printedPageEnd": 175,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p023",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৮.২",
+      "caption": null,
+      "body": "৬. নিম্নলিখিত অভেদসমূহ প্রমাণ করো:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 180,
+      "pdfPageEnd": 180,
+      "printedPageStart": 175,
+      "printedPageEnd": 175,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p024",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৮.২",
+      "caption": null,
+      "body": "ক) $\\tan A + \\cot A = \\sec A cosec A$",
+      "image": null,
+      "formulas": [
+        "\\tan A + \\cot A = \\sec A cosec A"
+      ],
+      "pdfPageStart": 180,
+      "pdfPageEnd": 180,
+      "printedPageStart": 175,
+      "printedPageEnd": 175,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p025",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৮.২",
+      "caption": null,
+      "body": "খ) $\\sqrt{\\frac{1 + \\cos \\theta}{1 - \\cos \\theta}} = cosec \\theta + \\cot \\theta = \\sqrt{\\frac{\\sec \\theta + 1}{\\sec \\theta - 1}}$",
+      "image": null,
+      "formulas": [
+        "\\sqrt{\\frac{1 + \\cos \\theta}{1 - \\cos \\theta}} = cosec \\theta + \\cot \\theta = \\sqrt{\\frac{\\sec \\theta + 1}{\\sec \\theta - 1}}"
+      ],
+      "pdfPageStart": 180,
+      "pdfPageEnd": 180,
+      "printedPageStart": 175,
+      "printedPageEnd": 175,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p026",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৮.২",
+      "caption": null,
+      "body": "গ) $\\sqrt{\\frac{1 - \\sin A}{1 + \\sin A}} = \\sec A - \\tan A$",
+      "image": null,
+      "formulas": [
+        "\\sqrt{\\frac{1 - \\sin A}{1 + \\sin A}} = \\sec A - \\tan A"
+      ],
+      "pdfPageStart": 180,
+      "pdfPageEnd": 180,
+      "printedPageStart": 175,
+      "printedPageEnd": 175,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p027",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৮.২",
+      "caption": null,
+      "body": "ঘ) $\\sec^4 \\theta - \\sec^2 \\theta = \\tan^4 \\theta + \\tan^2 \\theta$",
+      "image": null,
+      "formulas": [
+        "\\sec^4 \\theta - \\sec^2 \\theta = \\tan^4 \\theta + \\tan^2 \\theta"
+      ],
+      "pdfPageStart": 180,
+      "pdfPageEnd": 180,
+      "printedPageStart": 175,
+      "printedPageEnd": 175,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p028",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৮.২",
+      "caption": null,
+      "body": "ঙ) $(\\sec \\theta - \\cos \\theta)(cosec \\theta - \\sin \\theta)(\\tan \\theta + \\cot \\theta) = 1$",
+      "image": null,
+      "formulas": [
+        "(\\sec \\theta - \\cos \\theta)(cosec \\theta - \\sin \\theta)(\\tan \\theta + \\cot \\theta) = 1"
+      ],
+      "pdfPageStart": 180,
+      "pdfPageEnd": 180,
+      "printedPageStart": 175,
+      "printedPageEnd": 175,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p029",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৮.২",
+      "caption": null,
+      "body": "চ) $\\frac{\\tan \\theta + \\sec \\theta - 1}{\\tan \\theta - \\sec \\theta + 1} = \\tan \\theta + \\sec \\theta$",
+      "image": null,
+      "formulas": [
+        "\\frac{\\tan \\theta + \\sec \\theta - 1}{\\tan \\theta - \\sec \\theta + 1} = \\tan \\theta + \\sec \\theta"
+      ],
+      "pdfPageStart": 180,
+      "pdfPageEnd": 180,
+      "printedPageStart": 175,
+      "printedPageEnd": 175,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p030",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৮.২",
+      "caption": null,
+      "body": "৭. যদি $cosec A = \\frac{a}{b}$ হয়, যেখানে $a > b > 0$, তবে প্রমাণ করো যে, $\\tan A = \\frac{\\pm b}{\\sqrt{a^2 - b^2}}$",
+      "image": null,
+      "formulas": [
+        "cosec A = \\frac{a}{b}",
+        "a > b > 0",
+        "\\tan A = \\frac{\\pm b}{\\sqrt{a^2 - b^2}}"
+      ],
+      "pdfPageStart": 180,
+      "pdfPageEnd": 180,
+      "printedPageStart": 175,
+      "printedPageEnd": 175,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p031",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৮.২",
+      "caption": null,
+      "body": "৮. যদি $\\cos \\theta - \\sin \\theta = \\sqrt{2} \\sin \\theta$ হয়, তবে দেখাও যে, $\\cos \\theta + \\sin \\theta = \\sqrt{2} \\cos \\theta$",
+      "image": null,
+      "formulas": [
+        "\\cos \\theta - \\sin \\theta = \\sqrt{2} \\sin \\theta",
+        "\\cos \\theta + \\sin \\theta = \\sqrt{2} \\cos \\theta"
+      ],
+      "pdfPageStart": 180,
+      "pdfPageEnd": 180,
+      "printedPageStart": 175,
+      "printedPageEnd": 175,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p032",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৮.২",
+      "caption": null,
+      "body": "৯. $\\tan \\theta = \\frac{x}{y}, x \\neq y$ হলে, $\\frac{x \\sin \\theta + y \\cos \\theta}{x \\sin \\theta - y \\cos \\theta}$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "\\tan \\theta = \\frac{x}{y}, x \\neq y",
+        "\\frac{x \\sin \\theta + y \\cos \\theta}{x \\sin \\theta - y \\cos \\theta}"
+      ],
+      "pdfPageStart": 180,
+      "pdfPageEnd": 180,
+      "printedPageStart": 175,
+      "printedPageEnd": 175,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p033",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৮.২",
+      "caption": null,
+      "body": "১০. $\\tan \\theta + \\sec \\theta = x$ হলে, দেখাও যে, $\\sin \\theta = \\frac{x^2 - 1}{x^2 + 1}$",
+      "image": null,
+      "formulas": [
+        "\\tan \\theta + \\sec \\theta = x",
+        "\\sin \\theta = \\frac{x^2 - 1}{x^2 + 1}"
+      ],
+      "pdfPageStart": 180,
+      "pdfPageEnd": 180,
+      "printedPageStart": 175,
+      "printedPageEnd": 175,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p034",
+      "kind": "exercise",
+      "section": "১১. মান নির্ণয় করো:",
+      "caption": null,
+      "body": "ক) $\\sin^2 \\frac{\\pi}{6} + \\cos^2 \\frac{\\pi}{4} + \\tan^2 \\frac{\\pi}{3} + \\cot^2 \\frac{\\pi}{6}$",
+      "image": null,
+      "formulas": [
+        "\\sin^2 \\frac{\\pi}{6} + \\cos^2 \\frac{\\pi}{4} + \\tan^2 \\frac{\\pi}{3} + \\cot^2 \\frac{\\pi}{6}"
+      ],
+      "pdfPageStart": 181,
+      "pdfPageEnd": 181,
+      "printedPageStart": 176,
+      "printedPageEnd": 176,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p035",
+      "kind": "exercise",
+      "section": "১১. মান নির্ণয় করো:",
+      "caption": null,
+      "body": "খ) $3\\tan^2 \\frac{\\pi}{4} - \\sin^2 \\frac{\\pi}{3} - \\frac{1}{2}\\cot^2 \\frac{\\pi}{6} + \\frac{1}{3}\\sec^2 \\frac{\\pi}{4}$",
+      "image": null,
+      "formulas": [
+        "3\\tan^2 \\frac{\\pi}{4} - \\sin^2 \\frac{\\pi}{3} - \\frac{1}{2}\\cot^2 \\frac{\\pi}{6} + \\frac{1}{3}\\sec^2 \\frac{\\pi}{4}"
+      ],
+      "pdfPageStart": 181,
+      "pdfPageEnd": 181,
+      "printedPageStart": 176,
+      "printedPageEnd": 176,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p036",
+      "kind": "exercise",
+      "section": "১১. মান নির্ণয় করো:",
+      "caption": null,
+      "body": "গ) $\\tan^2 \\frac{\\pi}{4} - \\sin^2 \\frac{\\pi}{3} \\tan^2 \\frac{\\pi}{6} \\tan^2 \\frac{\\pi}{3} \\cos^2 \\frac{\\pi}{4}$",
+      "image": null,
+      "formulas": [
+        "\\tan^2 \\frac{\\pi}{4} - \\sin^2 \\frac{\\pi}{3} \\tan^2 \\frac{\\pi}{6} \\tan^2 \\frac{\\pi}{3} \\cos^2 \\frac{\\pi}{4}"
+      ],
+      "pdfPageStart": 181,
+      "pdfPageEnd": 181,
+      "printedPageStart": 176,
+      "printedPageEnd": 176,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p037",
+      "kind": "exercise",
+      "section": "১১. মান নির্ণয় করো:",
+      "caption": null,
+      "body": "ঘ) $\\frac{\\tan \\frac{\\pi}{3} - \\tan \\frac{\\pi}{6}}{1 + \\tan \\frac{\\pi}{3} \\tan \\frac{\\pi}{6}} + \\cos \\frac{\\pi}{3} \\cos \\frac{\\pi}{6} + \\sin \\frac{\\pi}{3} \\sin \\frac{\\pi}{6}$",
+      "image": null,
+      "formulas": [
+        "\\frac{\\tan \\frac{\\pi}{3} - \\tan \\frac{\\pi}{6}}{1 + \\tan \\frac{\\pi}{3} \\tan \\frac{\\pi}{6}} + \\cos \\frac{\\pi}{3} \\cos \\frac{\\pi}{6} + \\sin \\frac{\\pi}{3} \\sin \\frac{\\pi}{6}"
+      ],
+      "pdfPageStart": 181,
+      "pdfPageEnd": 181,
+      "printedPageStart": 176,
+      "printedPageEnd": 176,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p038",
+      "kind": "formula",
+      "section": "১২. সরল করো:",
+      "caption": null,
+      "body": "$$\\frac{1 - \\sin^2 \\frac{\\pi}{6}}{1 + \\sin^2 \\frac{\\pi}{4}} \\times \\frac{\\cos^2 \\frac{\\pi}{3} + \\cos^2 \\frac{\\pi}{6}}{\\csc^2 \\frac{\\pi}{2} - \\cot^2 \\frac{\\pi}{2}} \\div \\left( \\sin \\frac{\\pi}{3} \\tan \\frac{\\pi}{6} \\right) + \\left( \\sec^2 \\frac{\\pi}{6} - \\tan^2 \\frac{\\pi}{6} \\right)$$",
+      "image": null,
+      "formulas": [
+        "\\frac{1 - \\sin^2 \\frac{\\pi}{6}}{1 + \\sin^2 \\frac{\\pi}{4}} \\times \\frac{\\cos^2 \\frac{\\pi}{3} + \\cos^2 \\frac{\\pi}{6}}{\\csc^2 \\frac{\\pi}{2} - \\cot^2 \\frac{\\pi}{2}} \\div \\left( \\sin \\frac{\\pi}{3} \\tan \\frac{\\pi}{6} \\right) + \\left( \\sec^2 \\frac{\\pi}{6} - \\tan^2 \\frac{\\pi}{6} \\right)"
+      ],
+      "pdfPageStart": 181,
+      "pdfPageEnd": 181,
+      "printedPageStart": 176,
+      "printedPageEnd": 176,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p039",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৮.৩",
+      "caption": null,
+      "body": "১. $\\sin A = \\frac{1}{\\sqrt{2}}$ হলে $\\sin 2A$ এর মান কত?\nক) $\\frac{1}{\\sqrt{2}}$ খ) $\\frac{1}{2}$ গ) $1$ ঘ) $\\sqrt{2}$",
+      "image": null,
+      "formulas": [
+        "\\sin A = \\frac{1}{\\sqrt{2}}",
+        "\\sin 2A",
+        "\\frac{1}{\\sqrt{2}}",
+        "\\frac{1}{2}",
+        "1",
+        "\\sqrt{2}"
+      ],
+      "pdfPageStart": 194,
+      "pdfPageEnd": 194,
+      "printedPageStart": 189,
+      "printedPageEnd": 189,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p040",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৮.৩",
+      "caption": null,
+      "body": "২. $\\sin\\theta + \\cos\\theta = 1$ হলে $\\theta$ এর মান হবে-\n(i) $0^\\circ$ (ii) $30^\\circ$ (iii) $90^\\circ$\nনিচের কোনটি সঠিক?\nক) $i$ খ) $ii$ গ) $i$ ও $ii$ ঘ) $i$ ও $iii$",
+      "image": null,
+      "formulas": [
+        "\\sin\\theta + \\cos\\theta = 1",
+        "\\theta",
+        "0^\\circ",
+        "30^\\circ",
+        "90^\\circ",
+        "i",
+        "ii",
+        "i",
+        "ii",
+        "i",
+        "iii"
+      ],
+      "pdfPageStart": 194,
+      "pdfPageEnd": 194,
+      "printedPageStart": 189,
+      "printedPageEnd": 189,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p041",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৮.৩",
+      "caption": null,
+      "body": "৩. মান নির্ণয় করো:\nক) $\\sin 7\\pi$ খ) $\\cos \\frac{11\\pi}{2}$ গ) $\\cot 11\\pi$\nঘ) $\\tan\\left(-\\frac{23\\pi}{6}\\right)$ ঙ) $\\csc \\frac{19\\pi}{3}$ চ) $\\sec\\left(-\\frac{25\\pi}{2}\\right)$\nছ) $\\sin \\frac{31\\pi}{6}$ জ) $\\cos\\left(-\\frac{25\\pi}{6}\\right)$",
+      "image": null,
+      "formulas": [
+        "\\sin 7\\pi",
+        "\\cos \\frac{11\\pi}{2}",
+        "\\cot 11\\pi",
+        "\\tan\\left(-\\frac{23\\pi}{6}\\right)",
+        "\\csc \\frac{19\\pi}{3}",
+        "\\sec\\left(-\\frac{25\\pi}{2}\\right)",
+        "\\sin \\frac{31\\pi}{6}",
+        "\\cos\\left(-\\frac{25\\pi}{6}\\right)"
+      ],
+      "pdfPageStart": 194,
+      "pdfPageEnd": 194,
+      "printedPageStart": 189,
+      "printedPageEnd": 189,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p042",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৮.৩",
+      "caption": null,
+      "body": "৪. প্রমাণ করো: যে,\nক) $\\cos \\frac{17\\pi}{10} + \\cos \\frac{13\\pi}{10} + \\cos \\frac{9\\pi}{10} + \\cos \\frac{\\pi}{10} = 0$\nখ) $\\sin^2 \\frac{\\pi}{7} + \\sin^2 \\frac{5\\pi}{14} + \\sin^2 \\frac{8\\pi}{7} + \\sin^2 \\frac{9\\pi}{14} = 2$",
+      "image": null,
+      "formulas": [
+        "\\cos \\frac{17\\pi}{10} + \\cos \\frac{13\\pi}{10} + \\cos \\frac{9\\pi}{10} + \\cos \\frac{\\pi}{10} = 0",
+        "\\sin^2 \\frac{\\pi}{7} + \\sin^2 \\frac{5\\pi}{14} + \\sin^2 \\frac{8\\pi}{7} + \\sin^2 \\frac{9\\pi}{14} = 2"
+      ],
+      "pdfPageStart": 194,
+      "pdfPageEnd": 194,
+      "printedPageStart": 189,
+      "printedPageEnd": 189,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p043",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৮.৩",
+      "caption": null,
+      "body": "গ) $\\sin \\frac{7\\pi}{3} \\cos \\frac{13\\pi}{6} - \\cos \\frac{5\\pi}{3} \\sin \\frac{11\\pi}{6} = 1$",
+      "image": null,
+      "formulas": [
+        "\\sin \\frac{7\\pi}{3} \\cos \\frac{13\\pi}{6} - \\cos \\frac{5\\pi}{3} \\sin \\frac{11\\pi}{6} = 1"
+      ],
+      "pdfPageStart": 195,
+      "pdfPageEnd": 195,
+      "printedPageStart": 190,
+      "printedPageEnd": 190,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p044",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৮.৩",
+      "caption": null,
+      "body": "ঘ) $\\sin \\frac{13\\pi}{3} \\cos \\frac{13\\pi}{6} - \\sin \\frac{11\\pi}{6} \\cos \\left( -\\frac{5\\pi}{3} \\right) = 1$",
+      "image": null,
+      "formulas": [
+        "\\sin \\frac{13\\pi}{3} \\cos \\frac{13\\pi}{6} - \\sin \\frac{11\\pi}{6} \\cos \\left( -\\frac{5\\pi}{3} \\right) = 1"
+      ],
+      "pdfPageStart": 195,
+      "pdfPageEnd": 195,
+      "printedPageStart": 190,
+      "printedPageEnd": 190,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p045",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৮.৩",
+      "caption": null,
+      "body": "ঙ) $\\tan \\theta = \\frac{3}{4}$ এবং $\\sin \\theta$ ঋণাত্মক হলে দেখাও যে, $\\frac{\\sin \\theta + \\cos \\theta}{\\sec \\theta + \\tan \\theta} = \\frac{14}{5}$",
+      "image": null,
+      "formulas": [
+        "\\tan \\theta = \\frac{3}{4}",
+        "\\sin \\theta",
+        "\\frac{\\sin \\theta + \\cos \\theta}{\\sec \\theta + \\tan \\theta} = \\frac{14}{5}"
+      ],
+      "pdfPageStart": 195,
+      "pdfPageEnd": 195,
+      "printedPageStart": 190,
+      "printedPageEnd": 190,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p046",
+      "kind": "exercise",
+      "section": "৫. মান নির্ণয় করো:",
+      "caption": null,
+      "body": "ক) $\\cos \\frac{9\\pi}{4} + \\cos \\frac{5\\pi}{4} + \\sin \\frac{31\\pi}{36} - \\sin \\frac{5\\pi}{36}$",
+      "image": null,
+      "formulas": [
+        "\\cos \\frac{9\\pi}{4} + \\cos \\frac{5\\pi}{4} + \\sin \\frac{31\\pi}{36} - \\sin \\frac{5\\pi}{36}"
+      ],
+      "pdfPageStart": 195,
+      "pdfPageEnd": 195,
+      "printedPageStart": 190,
+      "printedPageEnd": 190,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p047",
+      "kind": "exercise",
+      "section": "৫. মান নির্ণয় করো:",
+      "caption": null,
+      "body": "খ) $\\cot \\frac{\\pi}{20} \\cot \\frac{3\\pi}{20} \\cot \\frac{5\\pi}{20} \\cot \\frac{7\\pi}{20} \\cot \\frac{9\\pi}{20}$",
+      "image": null,
+      "formulas": [
+        "\\cot \\frac{\\pi}{20} \\cot \\frac{3\\pi}{20} \\cot \\frac{5\\pi}{20} \\cot \\frac{7\\pi}{20} \\cot \\frac{9\\pi}{20}"
+      ],
+      "pdfPageStart": 195,
+      "pdfPageEnd": 195,
+      "printedPageStart": 190,
+      "printedPageEnd": 190,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p048",
+      "kind": "exercise",
+      "section": "৫. মান নির্ণয় করো:",
+      "caption": null,
+      "body": "গ) $\\sin^2 \\frac{\\pi}{4} + \\sin^2 \\frac{3\\pi}{4} + \\sin^2 \\frac{5\\pi}{4} + \\sin^2 \\frac{7\\pi}{4}$",
+      "image": null,
+      "formulas": [
+        "\\sin^2 \\frac{\\pi}{4} + \\sin^2 \\frac{3\\pi}{4} + \\sin^2 \\frac{5\\pi}{4} + \\sin^2 \\frac{7\\pi}{4}"
+      ],
+      "pdfPageStart": 195,
+      "pdfPageEnd": 195,
+      "printedPageStart": 190,
+      "printedPageEnd": 190,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p049",
+      "kind": "exercise",
+      "section": "৫. মান নির্ণয় করো:",
+      "caption": null,
+      "body": "ঘ) $\\cos^2 \\frac{\\pi}{8} + \\cos^2 \\frac{3\\pi}{8} + \\cos^2 \\frac{5\\pi}{8} + \\cos^2 \\frac{7\\pi}{8}$",
+      "image": null,
+      "formulas": [
+        "\\cos^2 \\frac{\\pi}{8} + \\cos^2 \\frac{3\\pi}{8} + \\cos^2 \\frac{5\\pi}{8} + \\cos^2 \\frac{7\\pi}{8}"
+      ],
+      "pdfPageStart": 195,
+      "pdfPageEnd": 195,
+      "printedPageStart": 190,
+      "printedPageEnd": 190,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p050",
+      "kind": "exercise",
+      "section": "৫. মান নির্ণয় করো:",
+      "caption": null,
+      "body": "ঙ) $\\sin^2 \\frac{17\\pi}{18} + \\sin^2 \\frac{5\\pi}{8} + \\cos^2 \\frac{37\\pi}{18} + \\cos^2 \\frac{3\\pi}{8}$",
+      "image": null,
+      "formulas": [
+        "\\sin^2 \\frac{17\\pi}{18} + \\sin^2 \\frac{5\\pi}{8} + \\cos^2 \\frac{37\\pi}{18} + \\cos^2 \\frac{3\\pi}{8}"
+      ],
+      "pdfPageStart": 195,
+      "pdfPageEnd": 195,
+      "printedPageStart": 190,
+      "printedPageEnd": 190,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p051",
+      "kind": "exercise",
+      "section": "৬. $\\theta = \\frac{\\pi}{3}$ হলে নিম্নকু অভেদসমূহ যাচাই করো:",
+      "caption": null,
+      "body": "ক) $\\sin 2\\theta = 2 \\sin \\theta \\cos \\theta = \\frac{2 \\tan \\theta}{1 + \\tan^2 \\theta}$",
+      "image": null,
+      "formulas": [
+        "\\sin 2\\theta = 2 \\sin \\theta \\cos \\theta = \\frac{2 \\tan \\theta}{1 + \\tan^2 \\theta}"
+      ],
+      "pdfPageStart": 195,
+      "pdfPageEnd": 195,
+      "printedPageStart": 190,
+      "printedPageEnd": 190,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p052",
+      "kind": "exercise",
+      "section": "৬. $\\theta = \\frac{\\pi}{3}$ হলে নিম্নকু অভেদসমূহ যাচাই করো:",
+      "caption": null,
+      "body": "গ) $\\cos 3\\theta = 4 \\cos^3 \\theta - 3 \\cos \\theta$",
+      "image": null,
+      "formulas": [
+        "\\cos 3\\theta = 4 \\cos^3 \\theta - 3 \\cos \\theta"
+      ],
+      "pdfPageStart": 195,
+      "pdfPageEnd": 195,
+      "printedPageStart": 190,
+      "printedPageEnd": 190,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p053",
+      "kind": "exercise",
+      "section": "৬. $\\theta = \\frac{\\pi}{3}$ হলে নিম্নকু অভেদসমূহ যাচাই করো:",
+      "caption": null,
+      "body": "খ) $\\sin 3\\theta = 3 \\sin \\theta - 4 \\sin^3 \\theta$",
+      "image": null,
+      "formulas": [
+        "\\sin 3\\theta = 3 \\sin \\theta - 4 \\sin^3 \\theta"
+      ],
+      "pdfPageStart": 195,
+      "pdfPageEnd": 195,
+      "printedPageStart": 190,
+      "printedPageEnd": 190,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p054",
+      "kind": "exercise",
+      "section": "৬. $\\theta = \\frac{\\pi}{3}$ হলে নিম্নকু অভেদসমূহ যাচাই করো:",
+      "caption": null,
+      "body": "ঘ) $\\tan 2\\theta = \\frac{2 \\tan \\theta}{1 - \\tan^2 \\theta}$",
+      "image": null,
+      "formulas": [
+        "\\tan 2\\theta = \\frac{2 \\tan \\theta}{1 - \\tan^2 \\theta}"
+      ],
+      "pdfPageStart": 195,
+      "pdfPageEnd": 195,
+      "printedPageStart": 190,
+      "printedPageEnd": 190,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p055",
+      "kind": "exercise",
+      "section": "৭. প্রদত্ত শর্ত পূরণ করে $\\alpha$ (আলফা) এর মান নির্ণয় করো:",
+      "caption": null,
+      "body": "ক) $\\cot \\alpha = -\\sqrt{3}, \\frac{3\\pi}{2} < \\alpha < 2\\pi$",
+      "image": null,
+      "formulas": [
+        "\\cot \\alpha = -\\sqrt{3}, \\frac{3\\pi}{2} < \\alpha < 2\\pi"
+      ],
+      "pdfPageStart": 195,
+      "pdfPageEnd": 195,
+      "printedPageStart": 190,
+      "printedPageEnd": 190,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p056",
+      "kind": "exercise",
+      "section": "৭. প্রদত্ত শর্ত পূরণ করে $\\alpha$ (আলফা) এর মান নির্ণয় করো:",
+      "caption": null,
+      "body": "গ) $\\sin \\alpha = -\\frac{\\sqrt{3}}{2}, \\frac{\\pi}{2} < \\alpha < \\frac{3\\pi}{2}$",
+      "image": null,
+      "formulas": [
+        "\\sin \\alpha = -\\frac{\\sqrt{3}}{2}, \\frac{\\pi}{2} < \\alpha < \\frac{3\\pi}{2}"
+      ],
+      "pdfPageStart": 195,
+      "pdfPageEnd": 195,
+      "printedPageStart": 190,
+      "printedPageEnd": 190,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p057",
+      "kind": "exercise",
+      "section": "৭. প্রদত্ত শর্ত পূরণ করে $\\alpha$ (আলফা) এর মান নির্ণয় করো:",
+      "caption": null,
+      "body": "খ) $\\cos \\alpha = -\\frac{1}{2}, \\frac{\\pi}{2} < \\alpha < \\frac{3\\pi}{2}$",
+      "image": null,
+      "formulas": [
+        "\\cos \\alpha = -\\frac{1}{2}, \\frac{\\pi}{2} < \\alpha < \\frac{3\\pi}{2}"
+      ],
+      "pdfPageStart": 195,
+      "pdfPageEnd": 195,
+      "printedPageStart": 190,
+      "printedPageEnd": 190,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p058",
+      "kind": "exercise",
+      "section": "৭. প্রদত্ত শর্ত পূরণ করে $\\alpha$ (আলফা) এর মান নির্ণয় করো:",
+      "caption": null,
+      "body": "ঘ) $\\cot \\alpha = -1, \\pi < \\alpha < 2\\pi$",
+      "image": null,
+      "formulas": [
+        "\\cot \\alpha = -1, \\pi < \\alpha < 2\\pi"
+      ],
+      "pdfPageStart": 195,
+      "pdfPageEnd": 195,
+      "printedPageStart": 190,
+      "printedPageEnd": 190,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p059",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "১. $-300^\\circ$ কোণটি কোন চতুর্ভাগে থাকবে?\nক) প্রথম          খ) দ্বিতীয়          গ) তৃতীয়          ঘ) চতুর্থ",
+      "image": null,
+      "formulas": [
+        "-300^\\circ"
+      ],
+      "pdfPageStart": 196,
+      "pdfPageEnd": 196,
+      "printedPageStart": 191,
+      "printedPageEnd": 191,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p060",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "২. পাশের চিত্র অনুসারে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 196,
+      "pdfPageEnd": 196,
+      "printedPageStart": 191,
+      "printedPageEnd": 191,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p061",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(i) $\\tan\\theta = \\frac{4}{3}$",
+      "image": null,
+      "formulas": [
+        "\\tan\\theta = \\frac{4}{3}"
+      ],
+      "pdfPageStart": 196,
+      "pdfPageEnd": 196,
+      "printedPageStart": 191,
+      "printedPageEnd": 191,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p062",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ii) $\\sin\\theta = \\frac{5}{3}$",
+      "image": null,
+      "formulas": [
+        "\\sin\\theta = \\frac{5}{3}"
+      ],
+      "pdfPageStart": 196,
+      "pdfPageEnd": 196,
+      "printedPageStart": 191,
+      "printedPageEnd": 191,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p063",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(iii) $\\cos^2\\theta = \\frac{9}{25}$",
+      "image": null,
+      "formulas": [
+        "\\cos^2\\theta = \\frac{9}{25}"
+      ],
+      "pdfPageStart": 196,
+      "pdfPageEnd": 196,
+      "printedPageStart": 191,
+      "printedPageEnd": 191,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p064",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "নিচের কোনটি সঠিক?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 196,
+      "pdfPageEnd": 196,
+      "printedPageStart": 191,
+      "printedPageEnd": 191,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p065",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "ক) $i$ ও $ii$          খ) $i$ ও $iii$          গ) $ii$ ও $iii$          ঘ) $i, ii$ ও $iii$",
+      "image": null,
+      "formulas": [
+        "i",
+        "ii",
+        "i",
+        "iii",
+        "ii",
+        "iii",
+        "i, ii",
+        "iii"
+      ],
+      "pdfPageStart": 196,
+      "pdfPageEnd": 196,
+      "printedPageStart": 191,
+      "printedPageEnd": 191,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p066",
+      "kind": "figure",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "drawing: A right-angled triangle with vertices A, B, and C. Side AB has length 4, side BC has length 3, and angle C is labeled θ.",
+      "image": "p196-page_46_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 196,
+      "pdfPageEnd": 196,
+      "printedPageStart": 191,
+      "printedPageEnd": 191,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p067",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "নিচের চিহ্নের আলোকে ৩ ও ৪ নং প্রশ্নের উত্তর দাও:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 197,
+      "pdfPageEnd": 197,
+      "printedPageStart": 192,
+      "printedPageEnd": 192,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p068",
+      "kind": "figure",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "drawing: A right-angled triangle with vertices A, B, and C. Side AC is labeled 'b', hypotenuse BC is labeled 'a', and angle A is marked as a right angle.",
+      "image": "p197-page_47_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 197,
+      "pdfPageEnd": 197,
+      "printedPageStart": 192,
+      "printedPageEnd": 192,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p069",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৩. $\\sin B + \\cos C =$ কত?",
+      "image": null,
+      "formulas": [
+        "\\sin B + \\cos C ="
+      ],
+      "pdfPageStart": 197,
+      "pdfPageEnd": 197,
+      "printedPageStart": 192,
+      "printedPageEnd": 192,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p070",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "ক) $\\frac{2b}{a}$\nখ) $\\frac{2a}{b}$\nগ) $\\frac{a^2 + b^2}{ab}$\nঘ) $\\frac{ab}{a^2 + b^2}$",
+      "image": null,
+      "formulas": [
+        "\\frac{2b}{a}",
+        "\\frac{2a}{b}",
+        "\\frac{a^2 + b^2}{ab}",
+        "\\frac{ab}{a^2 + b^2}"
+      ],
+      "pdfPageStart": 197,
+      "pdfPageEnd": 197,
+      "printedPageStart": 192,
+      "printedPageEnd": 192,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p071",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৪. $\\tan B$ এর মান কোনটি?",
+      "image": null,
+      "formulas": [
+        "\\tan B"
+      ],
+      "pdfPageStart": 197,
+      "pdfPageEnd": 197,
+      "printedPageStart": 192,
+      "printedPageEnd": 192,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p072",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "ক) $\\frac{a}{a^2 - b^2}$\nখ) $\\frac{b}{a^2 - b^2}$\nগ) $\\frac{a}{\\sqrt{a^2 - b^2}}$\nঘ) $\\frac{b}{\\sqrt{a^2 - b^2}}$",
+      "image": null,
+      "formulas": [
+        "\\frac{a}{a^2 - b^2}",
+        "\\frac{b}{a^2 - b^2}",
+        "\\frac{a}{\\sqrt{a^2 - b^2}}",
+        "\\frac{b}{\\sqrt{a^2 - b^2}}"
+      ],
+      "pdfPageStart": 197,
+      "pdfPageEnd": 197,
+      "printedPageStart": 192,
+      "printedPageEnd": 192,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p073",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "৫. $a \\cos \\theta - b \\sin \\theta = p$",
+      "image": null,
+      "formulas": [
+        "a \\cos \\theta - b \\sin \\theta = p"
+      ],
+      "pdfPageStart": 197,
+      "pdfPageEnd": 197,
+      "printedPageStart": 192,
+      "printedPageEnd": 192,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p074",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(ক) $A = \\frac{\\pi}{3}$ হলে দেখাও যে, $\\tan 2A = \\frac{2 \\tan A}{1 - \\tan^2 A}$",
+      "image": null,
+      "formulas": [
+        "A = \\frac{\\pi}{3}",
+        "\\tan 2A = \\frac{2 \\tan A}{1 - \\tan^2 A}"
+      ],
+      "pdfPageStart": 197,
+      "pdfPageEnd": 197,
+      "printedPageStart": 192,
+      "printedPageEnd": 192,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p075",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(খ) প্রমাণ কর যে, $a \\sin \\theta + b \\cos \\theta = \\pm \\sqrt{a^2 + b^2 - p^2}$",
+      "image": null,
+      "formulas": [
+        "a \\sin \\theta + b \\cos \\theta = \\pm \\sqrt{a^2 + b^2 - p^2}"
+      ],
+      "pdfPageStart": 197,
+      "pdfPageEnd": 197,
+      "printedPageStart": 192,
+      "printedPageEnd": 192,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p076",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(গ) $a = \\sqrt{3}, b = 1$ এবং $p = 2$ হলে, উদ্দীপকের সমীকরণটি সমাধান করো। যেখানে, $0 < \\theta < 2\\pi$",
+      "image": null,
+      "formulas": [
+        "a = \\sqrt{3}, b = 1",
+        "p = 2",
+        "0 < \\theta < 2\\pi"
+      ],
+      "pdfPageStart": 197,
+      "pdfPageEnd": 197,
+      "printedPageStart": 192,
+      "printedPageEnd": 192,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p077",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "৬. $p = \\tan \\theta, q = \\cot \\theta$",
+      "image": null,
+      "formulas": [
+        "p = \\tan \\theta, q = \\cot \\theta"
+      ],
+      "pdfPageStart": 197,
+      "pdfPageEnd": 197,
+      "printedPageStart": 192,
+      "printedPageEnd": 192,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p078",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "ক) ৯ টা ১৫ মিনিটের সময় ঘণ্টা ও মিনিটের কাঁটার মধ্যবর্তী কোণের পরিমাণ নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 197,
+      "pdfPageEnd": 197,
+      "printedPageStart": 192,
+      "printedPageEnd": 192,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p079",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "খ) $p + q = 2$ হলে দেখাও যে, $p^n + q^n = 2$",
+      "image": null,
+      "formulas": [
+        "p + q = 2",
+        "p^n + q^n = 2"
+      ],
+      "pdfPageStart": 197,
+      "pdfPageEnd": 197,
+      "printedPageStart": 192,
+      "printedPageEnd": 192,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p080",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "গ) $q = \\frac{3}{4}$ এবং $\\pi < \\theta < \\frac{3\\pi}{2}$ হলে, $\\frac{\\cot(-\\theta) + \\csc \\theta}{\\cos \\theta + \\sin(-\\theta)}$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "q = \\frac{3}{4}",
+        "\\pi < \\theta < \\frac{3\\pi}{2}",
+        "\\frac{\\cot(-\\theta) + \\csc \\theta}{\\cos \\theta + \\sin(-\\theta)}"
+      ],
+      "pdfPageStart": 197,
+      "pdfPageEnd": 197,
+      "printedPageStart": 192,
+      "printedPageEnd": 192,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p081",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "৭. ক) ০.৯৭৯৫ রেডিয়ানকে স্কেচমূলক পদ্ধতিতে প্রকাশ করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 197,
+      "pdfPageEnd": 197,
+      "printedPageStart": 192,
+      "printedPageEnd": 192,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p082",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "খ) $\\sec \\left( -\\frac{21\\pi}{2} \\right)$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "\\sec \\left( -\\frac{21\\pi}{2} \\right)"
+      ],
+      "pdfPageStart": 197,
+      "pdfPageEnd": 197,
+      "printedPageStart": 192,
+      "printedPageEnd": 192,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p083",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "গ) $\\tan \\frac{\\pi}{12} \\tan \\frac{5\\pi}{12} \\tan \\frac{7\\pi}{12} \\tan \\frac{11\\pi}{12}$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "\\tan \\frac{\\pi}{12} \\tan \\frac{5\\pi}{12} \\tan \\frac{7\\pi}{12} \\tan \\frac{11\\pi}{12}"
+      ],
+      "pdfPageStart": 197,
+      "pdfPageEnd": 197,
+      "printedPageStart": 192,
+      "printedPageEnd": 192,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.ex-p084",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "ঘ) $\\sin \\alpha = -\\frac{1}{2}, \\frac{\\pi}{2} < \\alpha < \\frac{3\\pi}{2}$ হলে, $\\alpha$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "\\sin \\alpha = -\\frac{1}{2}, \\frac{\\pi}{2} < \\alpha < \\frac{3\\pi}{2}",
+        "\\alpha"
+      ],
+      "pdfPageStart": 197,
+      "pdfPageEnd": 197,
+      "printedPageStart": 192,
+      "printedPageEnd": 192,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

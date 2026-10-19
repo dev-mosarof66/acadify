@@ -1,0 +1,218 @@
+{
+  "id": "higher-math-9-10-bn-c10-t10.0",
+  "key": "10.0",
+  "title": "ভূমিকা ও শিখনফল",
+  "chapter": 10,
+  "ordinal": 0,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c10-t10.0-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বীজগণিতীয় রাশির (একপদী, দ্বিপদী, বহুপদী) যোগ, বিয়োগ, গুণ, ভাগ, বর্গ এবং ঘনসংকুচিত আলোচনা পূর্ববর্তী শ্রেণিতে করা হয়েছে। দ্বিপদী রাশি বা বহুপদী রাশির ঘাত বা শক্তি তিন এর বেশি হলে সেই সমস্ত ক্ষেত্রে মান নির্ণয় যথেষ্ট শ্রমসাধ্য ও সময়সাপেক্ষ হয়ে পড়ে। এই অধ্যায়ে দ্বিপদী রাশির ঘাত বা শক্তি তিন এর বেশি হলে কি প্রক্রিয়ায় কাজটি সম্পন্ন করা যায়, তা উপস্থাপন করা হবে। সাধারণভাবে ঘাত বা শক্তি এর জন্য সূত্র প্রতিপাদন করা হবে, যার মাধ্যমে যেকোনো অঙ্কগাত্মক পূর্ণসংখ্যিক ঘাতের দ্বিপদী রাশির মান নির্ণয় করা সম্ভব হবে। তবে এই পর্যায়ে এর মান একটি নির্দিষ্ট সীমা ($n \\le 8$) অতিক্রম করবে না। বিষয়টি যাতে শিক্ষার্থীরা সহজে বুঝতে ও ব্যবহার করতে পারে সে জন্য একটি ত্রিভুজ ব্যবহার করা হবে যেটি প্যাসকেলের ত্রিভুজ (Pascal’s triangle) বলে পরিচিত। দ্বিপদী রাশির ঘাত ধনাত্মক বা ঋণাত্মক পূর্ণসংখ্যা",
+      "image": null,
+      "formulas": [
+        "n \\le 8"
+      ],
+      "pdfPageStart": 228,
+      "pdfPageEnd": 228,
+      "printedPageStart": 223,
+      "printedPageEnd": 223,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.0-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এ অধ্যায় শেষে শিক্ষার্থীরা -",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 228,
+      "pdfPageEnd": 228,
+      "printedPageStart": 223,
+      "printedPageEnd": 223,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.0-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "* দ্বিপদী বিস্তৃতি বর্ণনা করতে পারবে;\n* প্যাসকেল ত্রিভুজ বর্ণনা করতে পারবে;\n* স্বাভাবিক সংখ্যার ঘাতের জন্য দ্বিপদী বিস্তৃতি বর্ণনা করতে পারবে;\n* $n!$ ও $^nC_r$ এর মান নির্ণয় করতে পারবে;\n* দ্বিপদী বিস্তৃতি ব্যবহার করে গাণিতিক সমস্যা সমাধান করতে পারবে।",
+      "image": null,
+      "formulas": [
+        "n!",
+        "^nC_r"
+      ],
+      "pdfPageStart": 228,
+      "pdfPageEnd": 228,
+      "printedPageStart": 223,
+      "printedPageEnd": 223,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.0-p004",
+      "kind": "text",
+      "section": "দ্বিপদী $(1 + y)^n$ এর বিস্তৃতি",
+      "caption": null,
+      "body": "দুটি পদের সমষ্ণয়ে গঠিত বীজগণিতীয় রাশিকে দ্বিপদী রাশি (Binomials) বলা হয়। $a + b$, $x - y$, $1 + x$, $1 - x^2$, $a^2 - b^2$ ইত্যাদি দ্বিপদী রাশি। আমরা প্রথমেই একটি দ্বিপদী রাশি $(1 + y)$ চিন্তিত করি। এখন $(1 + y)$ কে যদি ক্রমাগত $(1 + y)$ দ্বারা গুণ করতে থাকি তাহলে আমরা পাব $(1 + y)^2$, $(1 + y)^3$, $(1 + y)^4$, $(1 + y)^5$, $\\dots$ ইত্যাদি। আমরা জানি,",
+      "image": null,
+      "formulas": [
+        "a + b",
+        "x - y",
+        "1 + x",
+        "1 - x^2",
+        "a^2 - b^2",
+        "(1 + y)",
+        "(1 + y)",
+        "(1 + y)",
+        "(1 + y)^2",
+        "(1 + y)^3",
+        "(1 + y)^4",
+        "(1 + y)^5",
+        "\\dots"
+      ],
+      "pdfPageStart": 228,
+      "pdfPageEnd": 228,
+      "printedPageStart": 223,
+      "printedPageEnd": 223,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.0-p005",
+      "kind": "formula",
+      "section": "দ্বিপদী $(1 + y)^n$ এর বিস্তৃতি",
+      "caption": null,
+      "body": "$$\\begin{aligned}\n(1 + y)^2 &= (1 + y)(1 + y) = 1 + 2y + y^2 \\\\\n(1 + y)^3 &= (1 + y)(1 + y)^2 = (1 + y)(1 + 2y + y^2) = 1 + 3y + 3y^2 + y^3\n\\end{aligned}$$",
+      "image": null,
+      "formulas": [
+        "\\begin{aligned}\n(1 + y)^2 &= (1 + y)(1 + y) = 1 + 2y + y^2 \\\\\n(1 + y)^3 &= (1 + y)(1 + y)^2 = (1 + y)(1 + 2y + y^2) = 1 + 3y + 3y^2 + y^3\n\\end{aligned}"
+      ],
+      "pdfPageStart": 228,
+      "pdfPageEnd": 228,
+      "printedPageStart": 223,
+      "printedPageEnd": 223,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.0-p006",
+      "kind": "text",
+      "section": "দ্বিপদী $(1 + y)^n$ এর বিস্তৃতি",
+      "caption": null,
+      "body": "অনুরূপভাবে দীর্ঘ গুণন প্রক্রিয়ার মাধ্যমে $(1 + y)^4$, $(1 + y)^5$, $\\dots$ ইত্যাদি গুণফল নির্ণয় সম্ভব। কিন্তু $(1 + y)$ এর ঘাত বা শক্তি যত বাড়তে থাকবে গুণফল তত দীর্ঘ ও সময়সাপেক্ষ হবে। তাই এমন একটি সহজ পদ্ধতি বের করতে হবে যাতে $(1 + y)$ এর যেকোনো ঘাত (ধরি $n$) বা শক্তির জন্য $(1 + y)^n$ এর বিস্তৃতি সহজেই নির্ণয় করা সম্ভব হবে। $n$ এর মান 0, 1, 2, 3, 4, $\\dots$ অর্থাৎ অঙ্কগাত্ৰিক মানের জন্য এই অংশে আলোচনা সীমাবদ্ধ থাকবে। এখন প্রক্রিয়াটি আমরা ভালভাবে লক্ষ্য করি।",
+      "image": null,
+      "formulas": [
+        "(1 + y)^4",
+        "(1 + y)^5",
+        "\\dots",
+        "(1 + y)",
+        "(1 + y)",
+        "n",
+        "(1 + y)^n",
+        "n",
+        "\\dots"
+      ],
+      "pdfPageStart": 229,
+      "pdfPageEnd": 229,
+      "printedPageStart": 224,
+      "printedPageEnd": 224,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.0-p007",
+      "kind": "table",
+      "section": "দ্বিপদী $(1 + y)^n$ এর বিস্তৃতি",
+      "caption": null,
+      "body": "<table><tr><th><em>n</em> এর মান</th><th></th><th>প্যাসকেল ত্রিভুজ</th><th>পদসংখ্যা</th></tr>\n<tr><td><em>n</em> = 0</td><td>(1 + <em>y</em>)<sup>0</sup> =</td><td>1</td><td>1</td></tr>\n<tr><td><em>n</em> = 1</td><td>(1 + <em>y</em>)<sup>1</sup> =</td><td>1 + <em>y</em></td><td>2</td></tr>\n<tr><td><em>n</em> = 2</td><td>(1 + <em>y</em>)<sup>2</sup> =</td><td>1 + 2<em>y</em> + <em>y</em><sup>2</sup></td><td>3</td></tr>\n<tr><td><em>n</em> = 3</td><td>(1 + <em>y</em>)<sup>3</sup> =</td><td>1 + 3<em>y</em> + 3<em>y</em><sup>2</sup> + <em>y</em><sup>3</sup></td><td>4</td></tr>\n<tr><td><em>n</em> = 4</td><td>(1 + <em>y</em>)<sup>4</sup> =</td><td>1 + 4<em>y</em> + 6<em>y</em><sup>2</sup> + 4<em>y</em><sup>3</sup> + <em>y</em><sup>4</sup></td><td>5</td></tr>\n<tr><td><em>n</em> = 5</td><td>(1 + <em>y</em>)<sup>5</sup> =</td><td>1 + 5<em>y</em> + 10<em>y</em><sup>2</sup> + 10<em>y</em><sup>3</sup> + 5<em>y</em><sup>4</sup> + <em>y</em><sup>5</sup></td><td>6</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 229,
+      "pdfPageEnd": 229,
+      "printedPageStart": 224,
+      "printedPageEnd": 224,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.0-p008",
+      "kind": "text",
+      "section": "দ্বিপদী $(1 + y)^n$ এর বিস্তৃতি",
+      "caption": null,
+      "body": "উপরের বিস্তৃতিসমূহকে ভিত্তি করে আমরা $(1 + y)^n$ এর বিস্তৃতি সম্পর্কে নিম্নোক্ত সিদ্ধান্তে আসতে পারি।",
+      "image": null,
+      "formulas": [
+        "(1 + y)^n"
+      ],
+      "pdfPageStart": 229,
+      "pdfPageEnd": 229,
+      "printedPageStart": 224,
+      "printedPageEnd": 224,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.0-p009",
+      "kind": "text",
+      "section": "দ্বিপদী $(1 + y)^n$ এর বিস্তৃতি",
+      "caption": null,
+      "body": "ক) $(1 + y)^n$ এর বিস্তৃতিতে $(n + 1)$ সংখ্যক পদ আছে। অর্থাৎ ঘাত বা শক্তির চেয়ে পদসংখ্যা একটি বেশি।",
+      "image": null,
+      "formulas": [
+        "(1 + y)^n",
+        "(n + 1)"
+      ],
+      "pdfPageStart": 229,
+      "pdfPageEnd": 229,
+      "printedPageStart": 224,
+      "printedPageEnd": 224,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.0-p010",
+      "kind": "text",
+      "section": "দ্বিপদী $(1 + y)^n$ এর বিস্তৃতি",
+      "caption": null,
+      "body": "খ) $y$ এর ঘাত শূন্য থেকে শুরু হয়ে 1, 2, 3, $\\dots, n$ পর্যন্ত বৃদ্ধি পাবে। অর্থাৎ $y$ এর ঘাত ক্রমশয়ে বৃদ্ধি পেয়ে $n$ পর্যন্ত পৌঁছাবে।",
+      "image": null,
+      "formulas": [
+        "y",
+        "\\dots, n",
+        "y",
+        "n"
+      ],
+      "pdfPageStart": 229,
+      "pdfPageEnd": 229,
+      "printedPageStart": 224,
+      "printedPageEnd": 224,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

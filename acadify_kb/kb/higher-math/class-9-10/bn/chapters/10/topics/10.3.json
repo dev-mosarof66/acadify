@@ -1,0 +1,1948 @@
+{
+  "id": "higher-math-9-10-bn-c10-t10.3",
+  "key": "10.3",
+  "title": "$(x + y)^n$ দ্বিপদী এর বিস্তৃতি",
+  "chapter": 10,
+  "ordinal": 4,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা এ পর্যন্ত $(1 + y)^n$ এর বিস্তৃতি নিয়ে আলোচনা করেছি। এই পর্যায়ে আমরা দ্বিপদী বিস্তৃতির সাধারণ আকার $(x + y)^n$ নিয়ে আলোচনা করব যেখানে $n$ ধনাত্মক পূর্ণসংখ্যা। $(x + y)^n$ এর বিস্তৃতি সাধারণভাবে দ্বিপদী উপপাদ্য নামে পরিচিত।",
+      "image": null,
+      "formulas": [
+        "(1 + y)^n",
+        "(x + y)^n",
+        "n",
+        "(x + y)^n"
+      ],
+      "pdfPageStart": 235,
+      "pdfPageEnd": 235,
+      "printedPageStart": 230,
+      "printedPageEnd": 230,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা জানি,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 235,
+      "pdfPageEnd": 235,
+      "printedPageStart": 230,
+      "printedPageEnd": 230,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p003",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$(1 + y)^n = 1 + \\binom{n}{1}y + \\binom{n}{2}y^2 + \\binom{n}{3}y^3 + \\dots + \\binom{n}{r}y^r + \\dots + \\binom{n}{n}y^n$$",
+      "image": null,
+      "formulas": [
+        "(1 + y)^n = 1 + \\binom{n}{1}y + \\binom{n}{2}y^2 + \\binom{n}{3}y^3 + \\dots + \\binom{n}{r}y^r + \\dots + \\binom{n}{n}y^n"
+      ],
+      "pdfPageStart": 235,
+      "pdfPageEnd": 235,
+      "printedPageStart": 230,
+      "printedPageEnd": 230,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন, $(x + y)^n = \\left[x\\left(1 + \\frac{y}{x}\\right)\\right]^n = x^n\\left(1 + \\frac{y}{x}\\right)^n$",
+      "image": null,
+      "formulas": [
+        "(x + y)^n = \\left[x\\left(1 + \\frac{y}{x}\\right)\\right]^n = x^n\\left(1 + \\frac{y}{x}\\right)^n"
+      ],
+      "pdfPageStart": 235,
+      "pdfPageEnd": 235,
+      "printedPageStart": 230,
+      "printedPageEnd": 230,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p005",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\therefore (x + y)^n = x^n \\left[ 1 + \\binom{n}{1} \\left( \\frac{y}{x} \\right) + \\binom{n}{2} \\left( \\frac{y}{x} \\right)^2 + \\binom{n}{3} \\left( \\frac{y}{x} \\right)^3 + \\dots + \\binom{n}{n} \\left( \\frac{y}{x} \\right)^n \\right]$$",
+      "image": null,
+      "formulas": [
+        "\\therefore (x + y)^n = x^n \\left[ 1 + \\binom{n}{1} \\left( \\frac{y}{x} \\right) + \\binom{n}{2} \\left( \\frac{y}{x} \\right)^2 + \\binom{n}{3} \\left( \\frac{y}{x} \\right)^3 + \\dots + \\binom{n}{n} \\left( \\frac{y}{x} \\right)^n \\right]"
+      ],
+      "pdfPageStart": 235,
+      "pdfPageEnd": 235,
+      "printedPageStart": 230,
+      "printedPageEnd": 230,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p006",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\therefore (x + y)^n = x^n \\left[ 1 + \\binom{n}{1} \\frac{y}{x} + \\binom{n}{2} \\frac{y^2}{x^2} + \\binom{n}{3} \\frac{y^3}{x^3} + \\dots + \\frac{y^n}{x^n} \\right] \\quad [\\because \\binom{n}{n} = 1]$$",
+      "image": null,
+      "formulas": [
+        "\\therefore (x + y)^n = x^n \\left[ 1 + \\binom{n}{1} \\frac{y}{x} + \\binom{n}{2} \\frac{y^2}{x^2} + \\binom{n}{3} \\frac{y^3}{x^3} + \\dots + \\frac{y^n}{x^n} \\right] \\quad [\\because \\binom{n}{n} = 1]"
+      ],
+      "pdfPageStart": 235,
+      "pdfPageEnd": 235,
+      "printedPageStart": 230,
+      "printedPageEnd": 230,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p007",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= x^n + \\binom{n}{1} \\left( x^n \\cdot \\frac{y}{x} \\right) + \\binom{n}{2} \\left( x^n \\cdot \\frac{y^2}{x^2} \\right) + \\binom{n}{3} \\left( x^n \\cdot \\frac{y^3}{x^3} \\right) + \\dots + x^n \\cdot \\frac{y^n}{x^n}$$",
+      "image": null,
+      "formulas": [
+        "= x^n + \\binom{n}{1} \\left( x^n \\cdot \\frac{y}{x} \\right) + \\binom{n}{2} \\left( x^n \\cdot \\frac{y^2}{x^2} \\right) + \\binom{n}{3} \\left( x^n \\cdot \\frac{y^3}{x^3} \\right) + \\dots + x^n \\cdot \\frac{y^n}{x^n}"
+      ],
+      "pdfPageStart": 235,
+      "pdfPageEnd": 235,
+      "printedPageStart": 230,
+      "printedPageEnd": 230,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p008",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$(x + y)^n = x^n + \\binom{n}{1}x^{n-1}y + \\binom{n}{2}x^{n-2}y^2 + \\binom{n}{3}x^{n-3}y^3 + \\dots + y^n$$",
+      "image": null,
+      "formulas": [
+        "(x + y)^n = x^n + \\binom{n}{1}x^{n-1}y + \\binom{n}{2}x^{n-2}y^2 + \\binom{n}{3}x^{n-3}y^3 + \\dots + y^n"
+      ],
+      "pdfPageStart": 236,
+      "pdfPageEnd": 236,
+      "printedPageStart": 231,
+      "printedPageEnd": 231,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এটিই হচ্ছে দ্বিপদী উপপাদ্যের সাধারণ আকার। লক্ষণীয় এই বিস্তৃতি $(1 + y)^n$ এর অনুরূপ। এখানে $x$ এর ঘাত $n$ থেকে ০ পর্যন্ত যোগ করা হয়েছে। আরো লক্ষণীয়, প্রতি পদে $x$ ও $y$ এর ঘাতের যোগফল দ্বিপদীর ঘাতের সমান। প্রথম পদে $x$ এর ঘাত $n$ থেকে শুরু হয়ে সর্বশেষ পদে শূন্য। ঠিক বিপরীতভাবে $y$ এর ঘাত প্রথম পদে শূন্য থেকে শুরু হয়ে শেষ পদে $n$ হয়েছে।",
+      "image": null,
+      "formulas": [
+        "(1 + y)^n",
+        "x",
+        "n",
+        "x",
+        "y",
+        "x",
+        "n",
+        "y",
+        "n"
+      ],
+      "pdfPageStart": 236,
+      "pdfPageEnd": 236,
+      "printedPageStart": 231,
+      "printedPageEnd": 231,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৫.** $(x + y)^5$ কে বিস্তৃত কর এবং উহা হইতে $(3 + 2x)^5$ এর বিস্তৃতি নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "(x + y)^5",
+        "(3 + 2x)^5"
+      ],
+      "pdfPageStart": 236,
+      "pdfPageEnd": 236,
+      "printedPageStart": 231,
+      "printedPageEnd": 231,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $(x + y)^5 = x^5 + \\binom{5}{1}x^4y + \\binom{5}{2}x^3y^2 + \\binom{5}{3}x^2y^3 + \\binom{5}{4}xy^4 + y^5$",
+      "image": null,
+      "formulas": [
+        "(x + y)^5 = x^5 + \\binom{5}{1}x^4y + \\binom{5}{2}x^3y^2 + \\binom{5}{3}x^2y^3 + \\binom{5}{4}xy^4 + y^5"
+      ],
+      "pdfPageStart": 236,
+      "pdfPageEnd": 236,
+      "printedPageStart": 231,
+      "printedPageEnd": 231,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p012",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= x^5 + 5x^4y + \\frac{5 \\cdot 4}{1 \\cdot 2}x^3y^2 + \\frac{5 \\cdot 4 \\cdot 3}{1 \\cdot 2 \\cdot 3}x^2y^3 + \\frac{5 \\cdot 4 \\cdot 3 \\cdot 2}{1 \\cdot 2 \\cdot 3 \\cdot 4}xy^4 + y^5$$",
+      "image": null,
+      "formulas": [
+        "= x^5 + 5x^4y + \\frac{5 \\cdot 4}{1 \\cdot 2}x^3y^2 + \\frac{5 \\cdot 4 \\cdot 3}{1 \\cdot 2 \\cdot 3}x^2y^3 + \\frac{5 \\cdot 4 \\cdot 3 \\cdot 2}{1 \\cdot 2 \\cdot 3 \\cdot 4}xy^4 + y^5"
+      ],
+      "pdfPageStart": 236,
+      "pdfPageEnd": 236,
+      "printedPageStart": 231,
+      "printedPageEnd": 231,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p013",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= x^5 + 5x^4y + 10x^3y^2 + 10x^2y^3 + 5xy^4 + y^5$$",
+      "image": null,
+      "formulas": [
+        "= x^5 + 5x^4y + 10x^3y^2 + 10x^2y^3 + 5xy^4 + y^5"
+      ],
+      "pdfPageStart": 236,
+      "pdfPageEnd": 236,
+      "printedPageStart": 231,
+      "printedPageEnd": 231,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণেয় বিস্তৃতি $(x + y)^5 = x^5 + 5x^4y + 10x^3y^2 + 10x^2y^3 + 5xy^4 + y^5$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "(x + y)^5 = x^5 + 5x^4y + 10x^3y^2 + 10x^2y^3 + 5xy^4 + y^5"
+      ],
+      "pdfPageStart": 236,
+      "pdfPageEnd": 236,
+      "printedPageStart": 231,
+      "printedPageEnd": 231,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন $x = 3$ এবং $y = 2x$ বসাই",
+      "image": null,
+      "formulas": [
+        "x = 3",
+        "y = 2x"
+      ],
+      "pdfPageStart": 236,
+      "pdfPageEnd": 236,
+      "printedPageStart": 231,
+      "printedPageEnd": 231,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p016",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$(3 + 2x)^5 = 3^5 + 5 \\cdot 3^4(2x) + 10 \\cdot 3^3(2x)^2 + 10 \\cdot 3^2(2x)^3 + 5 \\cdot 3(2x)^4 + (2x)^5$$",
+      "image": null,
+      "formulas": [
+        "(3 + 2x)^5 = 3^5 + 5 \\cdot 3^4(2x) + 10 \\cdot 3^3(2x)^2 + 10 \\cdot 3^2(2x)^3 + 5 \\cdot 3(2x)^4 + (2x)^5"
+      ],
+      "pdfPageStart": 236,
+      "pdfPageEnd": 236,
+      "printedPageStart": 231,
+      "printedPageEnd": 231,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p017",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= 243 + 810x + 1080x^2 + 720x^3 + 240x^4 + 32x^5$$",
+      "image": null,
+      "formulas": [
+        "= 243 + 810x + 1080x^2 + 720x^3 + 240x^4 + 32x^5"
+      ],
+      "pdfPageStart": 236,
+      "pdfPageEnd": 236,
+      "printedPageStart": 231,
+      "printedPageEnd": 231,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p018",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore (3 + 2x)^5 = 243 + 810x + 1080x^2 + 720x^3 + 240x^4 + 32x^5$",
+      "image": null,
+      "formulas": [
+        "\\therefore (3 + 2x)^5 = 243 + 810x + 1080x^2 + 720x^3 + 240x^4 + 32x^5"
+      ],
+      "pdfPageStart": 236,
+      "pdfPageEnd": 236,
+      "printedPageStart": 231,
+      "printedPageEnd": 231,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৬.** $\\left(x + \\frac{1}{x^2}\\right)^6$ কে $x$ এর ঘাতের অধঃক্রম অনুসারে চতুর্থ পদ পর্যন্ত বিস্তৃত করো এবং $x$ মুক্ত পদটি শনাক্ত করো।",
+      "image": null,
+      "formulas": [
+        "\\left(x + \\frac{1}{x^2}\\right)^6",
+        "x",
+        "x"
+      ],
+      "pdfPageStart": 236,
+      "pdfPageEnd": 236,
+      "printedPageStart": 231,
+      "printedPageEnd": 231,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** দ্বিপদী উপপাদ্য অনুসারে পাই,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 236,
+      "pdfPageEnd": 236,
+      "printedPageStart": 231,
+      "printedPageEnd": 231,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p021",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\left(x + \\frac{1}{x^2}\\right)^6 = x^6 + \\binom{6}{1}x^5 \\left(\\frac{1}{x^2}\\right) + \\binom{6}{2}x^4 \\left(\\frac{1}{x^2}\\right)^2 + \\binom{6}{3}x^3 \\left(\\frac{1}{x^2}\\right)^3 + \\dots$$",
+      "image": null,
+      "formulas": [
+        "\\left(x + \\frac{1}{x^2}\\right)^6 = x^6 + \\binom{6}{1}x^5 \\left(\\frac{1}{x^2}\\right) + \\binom{6}{2}x^4 \\left(\\frac{1}{x^2}\\right)^2 + \\binom{6}{3}x^3 \\left(\\frac{1}{x^2}\\right)^3 + \\dots"
+      ],
+      "pdfPageStart": 236,
+      "pdfPageEnd": 236,
+      "printedPageStart": 231,
+      "printedPageEnd": 231,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p022",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= x^6 + 6x^3 + \\frac{6 \\cdot 5}{1 \\cdot 2}x^4 \\frac{1}{x^4} + \\frac{6 \\cdot 5 \\cdot 4}{1 \\cdot 2 \\cdot 3}x^3 \\frac{1}{x^6} + \\dots$$",
+      "image": null,
+      "formulas": [
+        "= x^6 + 6x^3 + \\frac{6 \\cdot 5}{1 \\cdot 2}x^4 \\frac{1}{x^4} + \\frac{6 \\cdot 5 \\cdot 4}{1 \\cdot 2 \\cdot 3}x^3 \\frac{1}{x^6} + \\dots"
+      ],
+      "pdfPageStart": 236,
+      "pdfPageEnd": 236,
+      "printedPageStart": 231,
+      "printedPageEnd": 231,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p023",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= x^6 + 6x^3 + 15 + 20 \\frac{1}{x^3} + \\dots$$",
+      "image": null,
+      "formulas": [
+        "= x^6 + 6x^3 + 15 + 20 \\frac{1}{x^3} + \\dots"
+      ],
+      "pdfPageStart": 236,
+      "pdfPageEnd": 236,
+      "printedPageStart": 231,
+      "printedPageEnd": 231,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণেয় বিস্তৃতি $x^6 + 6x^3 + 15 + 20 \\frac{1}{x^3} + \\dots$ এবং $x$ মুক্ত পদ 15",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "x^6 + 6x^3 + 15 + 20 \\frac{1}{x^3} + \\dots",
+        "x"
+      ],
+      "pdfPageStart": 236,
+      "pdfPageEnd": 236,
+      "printedPageStart": 231,
+      "printedPageEnd": 231,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p025",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৭.** $x$ এর ঘাতের উর্ধ্বক্রম অনুসারে $\\left(2 - \\frac{x}{2}\\right)^7$ এর বিস্তৃতির প্রথম চারটি পদ নির্ণয় করো। উক্ত বিস্তৃতির সাহায্যে $(1.995)^7$ এর মান চার দশমিক স্থান পর্যন্ত নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "x",
+        "\\left(2 - \\frac{x}{2}\\right)^7",
+        "(1.995)^7"
+      ],
+      "pdfPageStart": 236,
+      "pdfPageEnd": 236,
+      "printedPageStart": 231,
+      "printedPageEnd": 231,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p026",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $\\left(2 - \\frac{x}{2}\\right)^7 = 2^7 + \\binom{7}{1} 2^6 \\left(-\\frac{x}{2}\\right) + \\binom{7}{2} 2^5 \\left(-\\frac{x}{2}\\right)^2 + \\binom{7}{3} 2^4 \\left(-\\frac{x}{2}\\right)^3 + \\dots$",
+      "image": null,
+      "formulas": [
+        "\\left(2 - \\frac{x}{2}\\right)^7 = 2^7 + \\binom{7}{1} 2^6 \\left(-\\frac{x}{2}\\right) + \\binom{7}{2} 2^5 \\left(-\\frac{x}{2}\\right)^2 + \\binom{7}{3} 2^4 \\left(-\\frac{x}{2}\\right)^3 + \\dots"
+      ],
+      "pdfPageStart": 237,
+      "pdfPageEnd": 237,
+      "printedPageStart": 232,
+      "printedPageEnd": 232,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p027",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= 128 + 7 \\cdot 64 \\left(-\\frac{x}{2}\\right) + \\frac{7 \\cdot 6}{1 \\cdot 2} \\cdot 32 \\left(\\frac{x^2}{4}\\right) + \\frac{7 \\cdot 6 \\cdot 5}{1 \\cdot 2 \\cdot 3} \\cdot 16 \\left(-\\frac{x^3}{8}\\right) + \\dots$$",
+      "image": null,
+      "formulas": [
+        "= 128 + 7 \\cdot 64 \\left(-\\frac{x}{2}\\right) + \\frac{7 \\cdot 6}{1 \\cdot 2} \\cdot 32 \\left(\\frac{x^2}{4}\\right) + \\frac{7 \\cdot 6 \\cdot 5}{1 \\cdot 2 \\cdot 3} \\cdot 16 \\left(-\\frac{x^3}{8}\\right) + \\dots"
+      ],
+      "pdfPageStart": 237,
+      "pdfPageEnd": 237,
+      "printedPageStart": 232,
+      "printedPageEnd": 232,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p028",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\therefore \\left(2 - \\frac{x}{2}\\right)^7 = 128 - 224x + 168x^2 - 70x^3 + \\dots$$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\left(2 - \\frac{x}{2}\\right)^7 = 128 - 224x + 168x^2 - 70x^3 + \\dots"
+      ],
+      "pdfPageStart": 237,
+      "pdfPageEnd": 237,
+      "printedPageStart": 232,
+      "printedPageEnd": 232,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p029",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণেয় বিস্তৃতি $\\left(2 - \\frac{x}{2}\\right)^7 = 128 - 224x + 168x^2 - 70x^3 + \\dots$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "\\left(2 - \\frac{x}{2}\\right)^7 = 128 - 224x + 168x^2 - 70x^3 + \\dots"
+      ],
+      "pdfPageStart": 237,
+      "pdfPageEnd": 237,
+      "printedPageStart": 232,
+      "printedPageEnd": 232,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p030",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন, $2 - \\frac{x}{2} = 1.995$ বা, $\\frac{x}{2} = 2 - 1.995$ সুতরাং $x = 0.01$",
+      "image": null,
+      "formulas": [
+        "2 - \\frac{x}{2} = 1.995",
+        "\\frac{x}{2} = 2 - 1.995",
+        "x = 0.01"
+      ],
+      "pdfPageStart": 237,
+      "pdfPageEnd": 237,
+      "printedPageStart": 232,
+      "printedPageEnd": 232,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p031",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন $x = 0.01$ বসিয়ে পাই",
+      "image": null,
+      "formulas": [
+        "x = 0.01"
+      ],
+      "pdfPageStart": 237,
+      "pdfPageEnd": 237,
+      "printedPageStart": 232,
+      "printedPageEnd": 232,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p032",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\left(2 - \\frac{0.01}{2}\\right)^7 = 128 - 224 \\times (0.01) + 168 \\times (0.01)^2 - 70 \\times (0.01)^3 + \\dots$$",
+      "image": null,
+      "formulas": [
+        "\\left(2 - \\frac{0.01}{2}\\right)^7 = 128 - 224 \\times (0.01) + 168 \\times (0.01)^2 - 70 \\times (0.01)^3 + \\dots"
+      ],
+      "pdfPageStart": 237,
+      "pdfPageEnd": 237,
+      "printedPageStart": 232,
+      "printedPageEnd": 232,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p033",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $(1.995)^7 = 125.7767$ (চার দশমিক স্থান পর্যন্ত)",
+      "image": null,
+      "formulas": [
+        "(1.995)^7 = 125.7767"
+      ],
+      "pdfPageStart": 237,
+      "pdfPageEnd": 237,
+      "printedPageStart": 232,
+      "printedPageEnd": 232,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p034",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "নির্ণেয় মান $(1.995)^7 = 125.7767$",
+      "image": null,
+      "formulas": [
+        "(1.995)^7 = 125.7767"
+      ],
+      "pdfPageStart": 237,
+      "pdfPageEnd": 237,
+      "printedPageStart": 232,
+      "printedPageEnd": 232,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p035",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$n!$ এবং $^nC_r$ এর মান নির্ণয়",
+      "image": null,
+      "formulas": [
+        "n!",
+        "^nC_r"
+      ],
+      "pdfPageStart": 237,
+      "pdfPageEnd": 237,
+      "printedPageStart": 232,
+      "printedPageEnd": 232,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p036",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "নিচের উদাহরণগুলো লক্ষ্য করি:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 237,
+      "pdfPageEnd": 237,
+      "printedPageStart": 232,
+      "printedPageEnd": 232,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p037",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$2 = 2 \\cdot 1$, $6 = 3 \\cdot 2 \\cdot 1$, $24 = 4 \\cdot 3 \\cdot 2 \\cdot 1$, $120 = 5 \\cdot 4 \\cdot 3 \\cdot 2 \\cdot 1$, $\\dots$",
+      "image": null,
+      "formulas": [
+        "2 = 2 \\cdot 1",
+        "6 = 3 \\cdot 2 \\cdot 1",
+        "24 = 4 \\cdot 3 \\cdot 2 \\cdot 1",
+        "120 = 5 \\cdot 4 \\cdot 3 \\cdot 2 \\cdot 1",
+        "\\dots"
+      ],
+      "pdfPageStart": 237,
+      "pdfPageEnd": 237,
+      "printedPageStart": 232,
+      "printedPageEnd": 232,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p038",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ডানদিকের গুণফলসমূহকে আমরা এখন সংক্ষেপে একটি সাংকৈতিক চিহ্নের মাধ্যমে প্রকাশ করতে পারি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 237,
+      "pdfPageEnd": 237,
+      "printedPageStart": 232,
+      "printedPageEnd": 232,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p039",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$2 = 2 \\cdot 1 = 2!$, $6 = 3 \\cdot 2 \\cdot 1 = 3!$, $24 = 4 \\cdot 3 \\cdot 2 \\cdot 1 = 4!$, $120 = 5 \\cdot 4 \\cdot 3 \\cdot 2 \\cdot 1 = 5!$, $\\dots$",
+      "image": null,
+      "formulas": [
+        "2 = 2 \\cdot 1 = 2!",
+        "6 = 3 \\cdot 2 \\cdot 1 = 3!",
+        "24 = 4 \\cdot 3 \\cdot 2 \\cdot 1 = 4!",
+        "120 = 5 \\cdot 4 \\cdot 3 \\cdot 2 \\cdot 1 = 5!",
+        "\\dots"
+      ],
+      "pdfPageStart": 237,
+      "pdfPageEnd": 237,
+      "printedPageStart": 232,
+      "printedPageEnd": 232,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p040",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন লক্ষ্য করি:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 237,
+      "pdfPageEnd": 237,
+      "printedPageStart": 232,
+      "printedPageEnd": 232,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p041",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$4! = 4 \\cdot 3 \\cdot 2 \\cdot 1 = 4 \\cdot (4 - 1) \\cdot (4 - 2) \\cdot (4 - 3)$",
+      "image": null,
+      "formulas": [
+        "4! = 4 \\cdot 3 \\cdot 2 \\cdot 1 = 4 \\cdot (4 - 1) \\cdot (4 - 2) \\cdot (4 - 3)"
+      ],
+      "pdfPageStart": 237,
+      "pdfPageEnd": 237,
+      "printedPageStart": 232,
+      "printedPageEnd": 232,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p042",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$5! = 5 \\cdot 4 \\cdot 3 \\cdot 2 \\cdot 1 = 5 \\cdot (5 - 1) \\cdot (5 - 2) \\cdot (5 - 3) \\cdot (5 - 4)$",
+      "image": null,
+      "formulas": [
+        "5! = 5 \\cdot 4 \\cdot 3 \\cdot 2 \\cdot 1 = 5 \\cdot (5 - 1) \\cdot (5 - 2) \\cdot (5 - 3) \\cdot (5 - 4)"
+      ],
+      "pdfPageStart": 237,
+      "pdfPageEnd": 237,
+      "printedPageStart": 232,
+      "printedPageEnd": 232,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p043",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ সাধারণভাবে লিখতে পারি, $n! = n(n - 1)(n - 2)(n - 3) \\dots 3 \\cdot 2 \\cdot 1$ এবং $n!$ কে ফ্যাক্টোরিয়াল (Factorial) $n$ বলা হয়। তদ্রুপ $3!$ কে ফ্যাক্টোরিয়াল তিন, $4!$ কে ফ্যাক্টোরিয়াল চার ইত্যাদি পড়া হয়।",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "n! = n(n - 1)(n - 2)(n - 3) \\dots 3 \\cdot 2 \\cdot 1",
+        "n!",
+        "n",
+        "3!",
+        "4!"
+      ],
+      "pdfPageStart": 237,
+      "pdfPageEnd": 237,
+      "printedPageStart": 232,
+      "printedPageEnd": 232,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p044",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার লক্ষ্য করি:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 237,
+      "pdfPageEnd": 237,
+      "printedPageStart": 232,
+      "printedPageEnd": 232,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p045",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\binom{5}{3} = \\frac{5 \\cdot 4 \\cdot 3}{1 \\cdot 2 \\cdot 3} = \\frac{5 \\cdot 4 \\cdot 3 \\cdot 2 \\cdot 1}{(1 \\cdot 2 \\cdot 3) \\cdot (2 \\cdot 1)} = \\frac{5!}{3! \\times 2!} = \\frac{5!}{3! \\times (5 - 3)!}$$",
+      "image": null,
+      "formulas": [
+        "\\binom{5}{3} = \\frac{5 \\cdot 4 \\cdot 3}{1 \\cdot 2 \\cdot 3} = \\frac{5 \\cdot 4 \\cdot 3 \\cdot 2 \\cdot 1}{(1 \\cdot 2 \\cdot 3) \\cdot (2 \\cdot 1)} = \\frac{5!}{3! \\times 2!} = \\frac{5!}{3! \\times (5 - 3)!}"
+      ],
+      "pdfPageStart": 237,
+      "pdfPageEnd": 237,
+      "printedPageStart": 232,
+      "printedPageEnd": 232,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p046",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\binom{7}{4} = \\frac{7 \\cdot 6 \\cdot 5 \\cdot 4}{1 \\cdot 2 \\cdot 3 \\cdot 4} = \\frac{7 \\cdot 6 \\cdot 5 \\cdot 4 \\cdot 3 \\cdot 2 \\cdot 1}{(1 \\cdot 2 \\cdot 3 \\cdot 4) \\cdot (3 \\cdot 2 \\cdot 1)} = \\frac{7!}{4! \\times 3!} = \\frac{7!}{4! \\times (7 - 4)!}$$",
+      "image": null,
+      "formulas": [
+        "\\binom{7}{4} = \\frac{7 \\cdot 6 \\cdot 5 \\cdot 4}{1 \\cdot 2 \\cdot 3 \\cdot 4} = \\frac{7 \\cdot 6 \\cdot 5 \\cdot 4 \\cdot 3 \\cdot 2 \\cdot 1}{(1 \\cdot 2 \\cdot 3 \\cdot 4) \\cdot (3 \\cdot 2 \\cdot 1)} = \\frac{7!}{4! \\times 3!} = \\frac{7!}{4! \\times (7 - 4)!}"
+      ],
+      "pdfPageStart": 238,
+      "pdfPageEnd": 238,
+      "printedPageStart": 233,
+      "printedPageEnd": 233,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p047",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ সাধারণভাবে আমরা বলতে পারি $\\binom{n}{r} = \\frac{n!}{r!(n - r)!}$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "\\binom{n}{r} = \\frac{n!}{r!(n - r)!}"
+      ],
+      "pdfPageStart": 238,
+      "pdfPageEnd": 238,
+      "printedPageStart": 233,
+      "printedPageEnd": 233,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p048",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ডান পাশের ফ্যাক্টোরিয়ালসমূহকে যে প্রতীক দ্বারা প্রকাশ করা হয় তা হলো,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 238,
+      "pdfPageEnd": 238,
+      "printedPageStart": 233,
+      "printedPageEnd": 233,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p049",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\binom{n}{r} = \\frac{n!}{r!(n - r)!} = {}^nC_r$$",
+      "image": null,
+      "formulas": [
+        "\\binom{n}{r} = \\frac{n!}{r!(n - r)!} = {}^nC_r"
+      ],
+      "pdfPageStart": 238,
+      "pdfPageEnd": 238,
+      "printedPageStart": 233,
+      "printedPageEnd": 233,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p050",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\binom{7}{4} = \\frac{7!}{4!(7 - 4)!} = {}^7C_4$ এবং $\\binom{5}{3} = \\frac{5!}{3!(5 - 3)!} = {}^5C_3$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\binom{7}{4} = \\frac{7!}{4!(7 - 4)!} = {}^7C_4",
+        "\\binom{5}{3} = \\frac{5!}{3!(5 - 3)!} = {}^5C_3"
+      ],
+      "pdfPageStart": 238,
+      "pdfPageEnd": 238,
+      "printedPageStart": 233,
+      "printedPageEnd": 233,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p051",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং, $\\binom{n}{r} = {}^nC_r$, অর্থাৎ, $\\binom{n}{r}$ ও ${}^nC_r$ এর মান এক।",
+      "image": null,
+      "formulas": [
+        "\\binom{n}{r} = {}^nC_r",
+        "\\binom{n}{r}",
+        "{}^nC_r"
+      ],
+      "pdfPageStart": 238,
+      "pdfPageEnd": 238,
+      "printedPageStart": 233,
+      "printedPageEnd": 233,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p052",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\binom{n}{1} = {}^nC_1, \\binom{n}{2} = {}^nC_2, \\binom{n}{3} = {}^nC_3, \\dots, \\binom{n}{n} = {}^nC_n$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\binom{n}{1} = {}^nC_1, \\binom{n}{2} = {}^nC_2, \\binom{n}{3} = {}^nC_3, \\dots, \\binom{n}{n} = {}^nC_n"
+      ],
+      "pdfPageStart": 238,
+      "pdfPageEnd": 238,
+      "printedPageStart": 233,
+      "printedPageEnd": 233,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p053",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা জানি $\\binom{n}{n} = {}^nC_n = \\frac{n!}{n!(n - n)!} = \\frac{n!}{n!(0)!} = \\frac{1}{0!}$",
+      "image": null,
+      "formulas": [
+        "\\binom{n}{n} = {}^nC_n = \\frac{n!}{n!(n - n)!} = \\frac{n!}{n!(0)!} = \\frac{1}{0!}"
+      ],
+      "pdfPageStart": 238,
+      "pdfPageEnd": 238,
+      "printedPageStart": 233,
+      "printedPageEnd": 233,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p054",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore 1 = \\frac{1}{0!}$, অর্থাৎ $0! = 1$",
+      "image": null,
+      "formulas": [
+        "\\therefore 1 = \\frac{1}{0!}",
+        "0! = 1"
+      ],
+      "pdfPageStart": 238,
+      "pdfPageEnd": 238,
+      "printedPageStart": 233,
+      "printedPageEnd": 233,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p055",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "মনে রাখতে হবে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 238,
+      "pdfPageEnd": 238,
+      "printedPageStart": 233,
+      "printedPageEnd": 233,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p056",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$n! = n(n - 1)(n - 2) \\cdots 3 \\cdot 2 \\cdot 1$$",
+      "image": null,
+      "formulas": [
+        "n! = n(n - 1)(n - 2) \\cdots 3 \\cdot 2 \\cdot 1"
+      ],
+      "pdfPageStart": 238,
+      "pdfPageEnd": 238,
+      "printedPageStart": 233,
+      "printedPageEnd": 233,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p057",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\binom{n}{r} = {}^nC_r, \\quad {}^nC_n = 1$$",
+      "image": null,
+      "formulas": [
+        "\\binom{n}{r} = {}^nC_r, \\quad {}^nC_n = 1"
+      ],
+      "pdfPageStart": 238,
+      "pdfPageEnd": 238,
+      "printedPageStart": 233,
+      "printedPageEnd": 233,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p058",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\binom{n}{r} = {}^nC_r = \\frac{n!}{r!(n - r)!}, \\quad \\binom{n}{0} = {}^nC_0 = 1$$",
+      "image": null,
+      "formulas": [
+        "\\binom{n}{r} = {}^nC_r = \\frac{n!}{r!(n - r)!}, \\quad \\binom{n}{0} = {}^nC_0 = 1"
+      ],
+      "pdfPageStart": 238,
+      "pdfPageEnd": 238,
+      "printedPageStart": 233,
+      "printedPageEnd": 233,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p059",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\binom{n}{n} = {}^nC_n = 1, \\quad 0! = 1$$",
+      "image": null,
+      "formulas": [
+        "\\binom{n}{n} = {}^nC_n = 1, \\quad 0! = 1"
+      ],
+      "pdfPageStart": 238,
+      "pdfPageEnd": 238,
+      "printedPageStart": 233,
+      "printedPageEnd": 233,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p060",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন দ্বিপদী উপপাদ্যে আমরা $\\binom{n}{r}$ কে ${}^nC_r$ দ্বারা প্রকাশ করব।",
+      "image": null,
+      "formulas": [
+        "\\binom{n}{r}",
+        "{}^nC_r"
+      ],
+      "pdfPageStart": 238,
+      "pdfPageEnd": 238,
+      "printedPageStart": 233,
+      "printedPageEnd": 233,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p061",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$(1 + y)^n = 1 + {}^nC_1y + {}^nC_2y^2 + {}^nC_3y^3 + \\dots + {}^nC_r y^r + \\dots + {}^nC_n y^n$$",
+      "image": null,
+      "formulas": [
+        "(1 + y)^n = 1 + {}^nC_1y + {}^nC_2y^2 + {}^nC_3y^3 + \\dots + {}^nC_r y^r + \\dots + {}^nC_n y^n"
+      ],
+      "pdfPageStart": 238,
+      "pdfPageEnd": 238,
+      "printedPageStart": 233,
+      "printedPageEnd": 233,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p062",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $(1 + y)^n = 1 + ny + \\frac{n(n - 1)}{2!}y^2 + \\frac{n(n - 1)(n - 2)}{3!}y^3 + \\dots + y^n$",
+      "image": null,
+      "formulas": [
+        "(1 + y)^n = 1 + ny + \\frac{n(n - 1)}{2!}y^2 + \\frac{n(n - 1)(n - 2)}{3!}y^3 + \\dots + y^n"
+      ],
+      "pdfPageStart": 238,
+      "pdfPageEnd": 238,
+      "printedPageStart": 233,
+      "printedPageEnd": 233,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p063",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$(1 + y)^n = 1 + ny + \\frac{n(n - 1)}{1 \\cdot 2}y^2 + \\frac{n(n - 1)(n - 2)}{1 \\cdot 2 \\cdot 3}y^3 + \\dots + y^n$$",
+      "image": null,
+      "formulas": [
+        "(1 + y)^n = 1 + ny + \\frac{n(n - 1)}{1 \\cdot 2}y^2 + \\frac{n(n - 1)(n - 2)}{1 \\cdot 2 \\cdot 3}y^3 + \\dots + y^n"
+      ],
+      "pdfPageStart": 239,
+      "pdfPageEnd": 239,
+      "printedPageStart": 234,
+      "printedPageEnd": 234,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p064",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এবং অনুরূপভাবে,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 239,
+      "pdfPageEnd": 239,
+      "printedPageStart": 234,
+      "printedPageEnd": 234,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p065",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$$(x + y)^n = x^n + \\binom{n}{1}x^{n-1}y + \\binom{n}{2}x^{n-2}y^2 + \\binom{n}{3}x^{n-3}y^3 + \\dots + \\binom{n}{r}x^{n-r}y^r$$\n$$+ \\dots + \\binom{n}{n}y^n$$",
+      "image": null,
+      "formulas": [
+        "(x + y)^n = x^n + \\binom{n}{1}x^{n-1}y + \\binom{n}{2}x^{n-2}y^2 + \\binom{n}{3}x^{n-3}y^3 + \\dots + \\binom{n}{r}x^{n-r}y^r",
+        "+ \\dots + \\binom{n}{n}y^n"
+      ],
+      "pdfPageStart": 239,
+      "pdfPageEnd": 239,
+      "printedPageStart": 234,
+      "printedPageEnd": 234,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p066",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা $(x + y)^n = x^n + nx^{n-1}y + \\frac{n(n - 1)}{2!}x^{n-2}y^2 + \\frac{n(n - 1)(n - 2)}{3!}x^{n-3}y^3 + \\dots + y^n$",
+      "image": null,
+      "formulas": [
+        "(x + y)^n = x^n + nx^{n-1}y + \\frac{n(n - 1)}{2!}x^{n-2}y^2 + \\frac{n(n - 1)(n - 2)}{3!}x^{n-3}y^3 + \\dots + y^n"
+      ],
+      "pdfPageStart": 239,
+      "pdfPageEnd": 239,
+      "printedPageStart": 234,
+      "printedPageEnd": 234,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p067",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$(x + y)^n = x^n + nx^{n-1}y + \\frac{n(n - 1)}{1 \\cdot 2}x^{n-2}y^2 + \\frac{n(n - 1)(n - 2)}{1 \\cdot 2 \\cdot 3}x^{n-3}y^3 + \\dots + y^n$$",
+      "image": null,
+      "formulas": [
+        "(x + y)^n = x^n + nx^{n-1}y + \\frac{n(n - 1)}{1 \\cdot 2}x^{n-2}y^2 + \\frac{n(n - 1)(n - 2)}{1 \\cdot 2 \\cdot 3}x^{n-3}y^3 + \\dots + y^n"
+      ],
+      "pdfPageStart": 239,
+      "pdfPageEnd": 239,
+      "printedPageStart": 234,
+      "printedPageEnd": 234,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p068",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**লক্ষণীয়:** ধনাত্মক পূর্ণসংখ্যা $n$ এর জন্য",
+      "image": null,
+      "formulas": [
+        "n"
+      ],
+      "pdfPageStart": 239,
+      "pdfPageEnd": 239,
+      "printedPageStart": 234,
+      "printedPageEnd": 234,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p069",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "দ্বিপদী বিস্তৃতি $(1 + y)^n$ এর সাধারণ পদ বা $(r + 1)$ তম পদ $T_{r+1} = \\binom{n}{r}y^r$ বা, $\\binom{n}{r}y^r$",
+      "image": null,
+      "formulas": [
+        "(1 + y)^n",
+        "(r + 1)",
+        "T_{r+1} = \\binom{n}{r}y^r",
+        "\\binom{n}{r}y^r"
+      ],
+      "pdfPageStart": 239,
+      "pdfPageEnd": 239,
+      "printedPageStart": 234,
+      "printedPageEnd": 234,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p070",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে, $\\binom{n}{r}$ বা $\\binom{n}{r}$ দ্বিপদী সহগ।",
+      "image": null,
+      "formulas": [
+        "\\binom{n}{r}",
+        "\\binom{n}{r}"
+      ],
+      "pdfPageStart": 239,
+      "pdfPageEnd": 239,
+      "printedPageStart": 234,
+      "printedPageEnd": 234,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p071",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$(x + y)^n = x^n + \\binom{n}{1}x^{n-1}y + \\binom{n}{2}x^{n-2}y^2 + \\binom{n}{3}x^{n-3}y^3 + \\dots + \\binom{n}{n}y^n$$",
+      "image": null,
+      "formulas": [
+        "(x + y)^n = x^n + \\binom{n}{1}x^{n-1}y + \\binom{n}{2}x^{n-2}y^2 + \\binom{n}{3}x^{n-3}y^3 + \\dots + \\binom{n}{n}y^n"
+      ],
+      "pdfPageStart": 239,
+      "pdfPageEnd": 239,
+      "printedPageStart": 234,
+      "printedPageEnd": 234,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p072",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা $(x + y)^n = x^n + nx^{n-1}y + \\frac{n(n - 1)}{2!}x^{n-2}y^2 + \\frac{n(n - 1)(n - 2)}{3!}x^{n-3}y^3 + \\dots + y^n$",
+      "image": null,
+      "formulas": [
+        "(x + y)^n = x^n + nx^{n-1}y + \\frac{n(n - 1)}{2!}x^{n-2}y^2 + \\frac{n(n - 1)(n - 2)}{3!}x^{n-3}y^3 + \\dots + y^n"
+      ],
+      "pdfPageStart": 239,
+      "pdfPageEnd": 239,
+      "printedPageStart": 234,
+      "printedPageEnd": 234,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p073",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সাধারণ পদ বা $(r + 1)$ তম পদ $T_{r+1} = \\binom{n}{r}x^{n-r}y^r$ বা $\\binom{n}{r}x^{n-r}y^r$ যেখানে $\\binom{n}{r}$ বা $\\binom{n}{r}$ দ্বিপদী সহগ।",
+      "image": null,
+      "formulas": [
+        "(r + 1)",
+        "T_{r+1} = \\binom{n}{r}x^{n-r}y^r",
+        "\\binom{n}{r}x^{n-r}y^r",
+        "\\binom{n}{r}",
+        "\\binom{n}{r}"
+      ],
+      "pdfPageStart": 239,
+      "pdfPageEnd": 239,
+      "printedPageStart": 234,
+      "printedPageEnd": 234,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p074",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৮.** $\\left(x - \\frac{1}{x^2}\\right)^5$ কে বিস্তৃত করো।",
+      "image": null,
+      "formulas": [
+        "\\left(x - \\frac{1}{x^2}\\right)^5"
+      ],
+      "pdfPageStart": 239,
+      "pdfPageEnd": 239,
+      "printedPageStart": 234,
+      "printedPageEnd": 234,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p075",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** দ্বিপদী উপপাদ্য ব্যবহার করে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 239,
+      "pdfPageEnd": 239,
+      "printedPageStart": 234,
+      "printedPageEnd": 234,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p076",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$$\\left(x - \\frac{1}{x^2}\\right)^5 = x^5 + \\binom{5}{1}x^{5-1}\\left(-\\frac{1}{x^2}\\right) + \\binom{5}{2}x^{5-2}\\left(-\\frac{1}{x^2}\\right)^2 + \\binom{5}{3}x^{5-3}\\left(-\\frac{1}{x^2}\\right)^3$$\n$$+ \\binom{5}{4}x^{5-4}\\left(-\\frac{1}{x^2}\\right)^4 + \\left(-\\frac{1}{x^2}\\right)^5$$",
+      "image": null,
+      "formulas": [
+        "\\left(x - \\frac{1}{x^2}\\right)^5 = x^5 + \\binom{5}{1}x^{5-1}\\left(-\\frac{1}{x^2}\\right) + \\binom{5}{2}x^{5-2}\\left(-\\frac{1}{x^2}\\right)^2 + \\binom{5}{3}x^{5-3}\\left(-\\frac{1}{x^2}\\right)^3",
+        "+ \\binom{5}{4}x^{5-4}\\left(-\\frac{1}{x^2}\\right)^4 + \\left(-\\frac{1}{x^2}\\right)^5"
+      ],
+      "pdfPageStart": 239,
+      "pdfPageEnd": 239,
+      "printedPageStart": 234,
+      "printedPageEnd": 234,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p077",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= x^5 - 5x^4 \\cdot \\frac{1}{x^2} + \\frac{5 \\cdot 4}{1 \\cdot 2}x^3 \\frac{1}{x^4} - \\frac{5 \\cdot 4 \\cdot 3}{1 \\cdot 2 \\cdot 3}x^2 \\frac{1}{x^6} + \\frac{5 \\cdot 4 \\cdot 3 \\cdot 2}{1 \\cdot 2 \\cdot 3 \\cdot 4}x \\frac{1}{x^8} - \\frac{1}{x^{10}}$$",
+      "image": null,
+      "formulas": [
+        "= x^5 - 5x^4 \\cdot \\frac{1}{x^2} + \\frac{5 \\cdot 4}{1 \\cdot 2}x^3 \\frac{1}{x^4} - \\frac{5 \\cdot 4 \\cdot 3}{1 \\cdot 2 \\cdot 3}x^2 \\frac{1}{x^6} + \\frac{5 \\cdot 4 \\cdot 3 \\cdot 2}{1 \\cdot 2 \\cdot 3 \\cdot 4}x \\frac{1}{x^8} - \\frac{1}{x^{10}}"
+      ],
+      "pdfPageStart": 239,
+      "pdfPageEnd": 239,
+      "printedPageStart": 234,
+      "printedPageEnd": 234,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p078",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= x^5 - 5x^2 + \\frac{10}{x} - \\frac{10}{x^4} + \\frac{5}{x^7} - \\frac{1}{x^{10}}$$",
+      "image": null,
+      "formulas": [
+        "= x^5 - 5x^2 + \\frac{10}{x} - \\frac{10}{x^4} + \\frac{5}{x^7} - \\frac{1}{x^{10}}"
+      ],
+      "pdfPageStart": 239,
+      "pdfPageEnd": 239,
+      "printedPageStart": 234,
+      "printedPageEnd": 234,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p079",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৯.** $\\left(2x^2 - \\frac{1}{x^2}\\right)^8$ এর বিস্তৃতির প্রথম চারটি পদ নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "\\left(2x^2 - \\frac{1}{x^2}\\right)^8"
+      ],
+      "pdfPageStart": 240,
+      "pdfPageEnd": 240,
+      "printedPageStart": 235,
+      "printedPageEnd": 235,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p080",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** দ্বিপদী উপপাদ্য ব্যবহার করে, $\\left(2x^2 - \\frac{1}{x^2}\\right)^8$",
+      "image": null,
+      "formulas": [
+        "\\left(2x^2 - \\frac{1}{x^2}\\right)^8"
+      ],
+      "pdfPageStart": 240,
+      "pdfPageEnd": 240,
+      "printedPageStart": 235,
+      "printedPageEnd": 235,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p081",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$$= (2x^2)^8 + {}^8C_1(2x^2)^7 \\left(-\\frac{1}{x^2}\\right) + {}^8C_2(2x^2)^6 \\left(-\\frac{1}{x^2}\\right)^2 + {}^8C_3(2x^2)^5 \\left(-\\frac{1}{x^2}\\right)^3 +$$\n$$\\dots$$\n$$= 2^8 \\cdot x^{16} - 8 \\cdot 2^7 \\cdot x^{14} \\cdot \\frac{1}{x^2} + \\frac{8 \\cdot 7}{1 \\cdot 2} \\cdot 2^6 \\cdot x^{12} \\cdot \\frac{1}{x^4} - \\frac{8 \\cdot 7 \\cdot 6}{1 \\cdot 2 \\cdot 3} \\cdot 2^5 \\cdot x^{10} \\cdot \\frac{1}{x^6} + \\dots$$\n$$= 256x^{16} - 1024x^{12} + 1792x^8 - 1792x^4 + \\dots$$",
+      "image": null,
+      "formulas": [
+        "= (2x^2)^8 + {}^8C_1(2x^2)^7 \\left(-\\frac{1}{x^2}\\right) + {}^8C_2(2x^2)^6 \\left(-\\frac{1}{x^2}\\right)^2 + {}^8C_3(2x^2)^5 \\left(-\\frac{1}{x^2}\\right)^3 +",
+        "\\dots",
+        "= 2^8 \\cdot x^{16} - 8 \\cdot 2^7 \\cdot x^{14} \\cdot \\frac{1}{x^2} + \\frac{8 \\cdot 7}{1 \\cdot 2} \\cdot 2^6 \\cdot x^{12} \\cdot \\frac{1}{x^4} - \\frac{8 \\cdot 7 \\cdot 6}{1 \\cdot 2 \\cdot 3} \\cdot 2^5 \\cdot x^{10} \\cdot \\frac{1}{x^6} + \\dots",
+        "= 256x^{16} - 1024x^{12} + 1792x^8 - 1792x^4 + \\dots"
+      ],
+      "pdfPageStart": 240,
+      "pdfPageEnd": 240,
+      "printedPageStart": 235,
+      "printedPageEnd": 235,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p082",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১০.** $\\left(k - \\frac{x}{3}\\right)^7$ বিস্তৃতির $k^3$ এর সহগ 560",
+      "image": null,
+      "formulas": [
+        "\\left(k - \\frac{x}{3}\\right)^7",
+        "k^3"
+      ],
+      "pdfPageStart": 240,
+      "pdfPageEnd": 240,
+      "printedPageStart": 235,
+      "printedPageEnd": 235,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p083",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $k = 1$ হলে, চতুর্থ পদ পর্যন্ত বিস্তৃত করো।\nখ) $x$ এর মান নির্ণয় করো।\nগ) রাশিটির বিস্তৃতিতে $x^3$ এর সহগ $x^5$ এর সহগের 15 গুণ হলে $k$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "k = 1",
+        "x",
+        "x^3",
+        "x^5",
+        "k"
+      ],
+      "pdfPageStart": 240,
+      "pdfPageEnd": 240,
+      "printedPageStart": 235,
+      "printedPageEnd": 235,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p084",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 240,
+      "pdfPageEnd": 240,
+      "printedPageStart": 235,
+      "printedPageEnd": 235,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p085",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $k = 1$ হলে, বীজগাণিতিক রাশিটি $\\left(1 - \\frac{x}{3}\\right)^7$",
+      "image": null,
+      "formulas": [
+        "k = 1",
+        "\\left(1 - \\frac{x}{3}\\right)^7"
+      ],
+      "pdfPageStart": 240,
+      "pdfPageEnd": 240,
+      "printedPageStart": 235,
+      "printedPageEnd": 235,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p086",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "দ্বিপদী উপপাদ্য অনুসারে পাই,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 240,
+      "pdfPageEnd": 240,
+      "printedPageStart": 235,
+      "printedPageEnd": 235,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p087",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\left(1 - \\frac{x}{3}\\right)^7 = {}^7C_0 \\left(-\\frac{x}{3}\\right)^0 + {}^7C_1 \\left(-\\frac{x}{3}\\right)^1 + {}^7C_2 \\left(-\\frac{x}{3}\\right)^2 + {}^7C_3 \\left(-\\frac{x}{3}\\right)^3 + \\dots$$",
+      "image": null,
+      "formulas": [
+        "\\left(1 - \\frac{x}{3}\\right)^7 = {}^7C_0 \\left(-\\frac{x}{3}\\right)^0 + {}^7C_1 \\left(-\\frac{x}{3}\\right)^1 + {}^7C_2 \\left(-\\frac{x}{3}\\right)^2 + {}^7C_3 \\left(-\\frac{x}{3}\\right)^3 + \\dots"
+      ],
+      "pdfPageStart": 240,
+      "pdfPageEnd": 240,
+      "printedPageStart": 235,
+      "printedPageEnd": 235,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p088",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= 1 - 7 \\cdot \\frac{x}{3} + \\frac{7 \\cdot 6}{1 \\cdot 2} \\cdot \\frac{x^2}{9} - \\frac{7 \\cdot 6 \\cdot 5}{1 \\cdot 2 \\cdot 3} \\cdot \\frac{x^3}{27} + \\dots$$",
+      "image": null,
+      "formulas": [
+        "= 1 - 7 \\cdot \\frac{x}{3} + \\frac{7 \\cdot 6}{1 \\cdot 2} \\cdot \\frac{x^2}{9} - \\frac{7 \\cdot 6 \\cdot 5}{1 \\cdot 2 \\cdot 3} \\cdot \\frac{x^3}{27} + \\dots"
+      ],
+      "pdfPageStart": 240,
+      "pdfPageEnd": 240,
+      "printedPageStart": 235,
+      "printedPageEnd": 235,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p089",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= 1 - \\frac{7x}{3} + \\frac{7x^2}{3} - \\frac{35x^3}{27} + \\dots$$",
+      "image": null,
+      "formulas": [
+        "= 1 - \\frac{7x}{3} + \\frac{7x^2}{3} - \\frac{35x^3}{27} + \\dots"
+      ],
+      "pdfPageStart": 240,
+      "pdfPageEnd": 240,
+      "printedPageStart": 235,
+      "printedPageEnd": 235,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p090",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) দ্বিপদী উপপাদ্য অনুসারে পাই,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 240,
+      "pdfPageEnd": 240,
+      "printedPageStart": 235,
+      "printedPageEnd": 235,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p091",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$$\\left(k - \\frac{x}{3}\\right)^7 = k^7 + {}^7C_1 k^6 \\left(-\\frac{x}{3}\\right) + {}^7C_2 k^5 \\left(-\\frac{x}{3}\\right)^2 + {}^7C_3 k^4 \\left(-\\frac{x}{3}\\right)^3$$\n$$+ {}^7C_4 k^3 \\left(-\\frac{x}{3}\\right)^4 + {}^7C_5 k^2 \\left(-\\frac{x}{3}\\right)^5 + \\dots$$",
+      "image": null,
+      "formulas": [
+        "\\left(k - \\frac{x}{3}\\right)^7 = k^7 + {}^7C_1 k^6 \\left(-\\frac{x}{3}\\right) + {}^7C_2 k^5 \\left(-\\frac{x}{3}\\right)^2 + {}^7C_3 k^4 \\left(-\\frac{x}{3}\\right)^3",
+        "+ {}^7C_4 k^3 \\left(-\\frac{x}{3}\\right)^4 + {}^7C_5 k^2 \\left(-\\frac{x}{3}\\right)^5 + \\dots"
+      ],
+      "pdfPageStart": 240,
+      "pdfPageEnd": 240,
+      "printedPageStart": 235,
+      "printedPageEnd": 235,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p092",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$$= k^7 - 7k^6 \\cdot \\frac{x}{3} + \\frac{7 \\cdot 6}{1 \\cdot 2} k^5 \\cdot \\frac{x^2}{9} - \\frac{7 \\cdot 6 \\cdot 5}{1 \\cdot 2 \\cdot 3} k^4 \\cdot \\frac{x^3}{27}$$\n$$+ \\frac{7 \\cdot 6 \\cdot 5 \\cdot 4}{1 \\cdot 2 \\cdot 3 \\cdot 4} k^3 \\cdot \\frac{x^4}{81} - \\frac{7 \\cdot 6 \\cdot 5 \\cdot 4 \\cdot 3}{1 \\cdot 2 \\cdot 3 \\cdot 4 \\cdot 5} k^2 \\cdot \\frac{x^5}{243} + \\dots$$",
+      "image": null,
+      "formulas": [
+        "= k^7 - 7k^6 \\cdot \\frac{x}{3} + \\frac{7 \\cdot 6}{1 \\cdot 2} k^5 \\cdot \\frac{x^2}{9} - \\frac{7 \\cdot 6 \\cdot 5}{1 \\cdot 2 \\cdot 3} k^4 \\cdot \\frac{x^3}{27}",
+        "+ \\frac{7 \\cdot 6 \\cdot 5 \\cdot 4}{1 \\cdot 2 \\cdot 3 \\cdot 4} k^3 \\cdot \\frac{x^4}{81} - \\frac{7 \\cdot 6 \\cdot 5 \\cdot 4 \\cdot 3}{1 \\cdot 2 \\cdot 3 \\cdot 4 \\cdot 5} k^2 \\cdot \\frac{x^5}{243} + \\dots"
+      ],
+      "pdfPageStart": 240,
+      "pdfPageEnd": 240,
+      "printedPageStart": 235,
+      "printedPageEnd": 235,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p093",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= k^7 - \\frac{7x}{3} \\cdot k^6 + \\frac{7x^2}{3} \\cdot k^5 - \\frac{35x^3}{27} \\cdot k^4 + \\frac{35x^4}{81} \\cdot k^3 - \\frac{7x^5}{81} \\cdot k^2 + \\dots$$",
+      "image": null,
+      "formulas": [
+        "= k^7 - \\frac{7x}{3} \\cdot k^6 + \\frac{7x^2}{3} \\cdot k^5 - \\frac{35x^3}{27} \\cdot k^4 + \\frac{35x^4}{81} \\cdot k^3 - \\frac{7x^5}{81} \\cdot k^2 + \\dots"
+      ],
+      "pdfPageStart": 240,
+      "pdfPageEnd": 240,
+      "printedPageStart": 235,
+      "printedPageEnd": 235,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p094",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে $k^3$ এর সহগ $\\frac{35x^4}{81}$",
+      "image": null,
+      "formulas": [
+        "k^3",
+        "\\frac{35x^4}{81}"
+      ],
+      "pdfPageStart": 241,
+      "pdfPageEnd": 241,
+      "printedPageStart": 236,
+      "printedPageEnd": 236,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p095",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "শর্তমতে, $\\frac{35x^4}{81} = 560$ বা, $x^4 = \\frac{560 \\times 81}{35}$ বা, $x^4 = 1296$",
+      "image": null,
+      "formulas": [
+        "\\frac{35x^4}{81} = 560",
+        "x^4 = \\frac{560 \\times 81}{35}",
+        "x^4 = 1296"
+      ],
+      "pdfPageStart": 241,
+      "pdfPageEnd": 241,
+      "printedPageStart": 236,
+      "printedPageEnd": 236,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p096",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore x = 6$",
+      "image": null,
+      "formulas": [
+        "\\therefore x = 6"
+      ],
+      "pdfPageStart": 241,
+      "pdfPageEnd": 241,
+      "printedPageStart": 236,
+      "printedPageEnd": 236,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p097",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) ঠিক উপরের $\\left(k - \\frac{x}{3}\\right)^7$ এর বিস্তৃতির ফলাফল থেকে পাই,",
+      "image": null,
+      "formulas": [
+        "\\left(k - \\frac{x}{3}\\right)^7"
+      ],
+      "pdfPageStart": 241,
+      "pdfPageEnd": 241,
+      "printedPageStart": 236,
+      "printedPageEnd": 236,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p098",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\left(k - \\frac{x}{3}\\right)^7 = k^7 - \\frac{7x}{3} \\cdot k^6 + \\frac{7x^2}{3} \\cdot k^5 - \\frac{35x^3}{27} \\cdot k^4 + \\frac{35x^4}{81} \\cdot k^3 - \\frac{7x^5}{81} \\cdot k^2 + \\dots$$",
+      "image": null,
+      "formulas": [
+        "\\left(k - \\frac{x}{3}\\right)^7 = k^7 - \\frac{7x}{3} \\cdot k^6 + \\frac{7x^2}{3} \\cdot k^5 - \\frac{35x^3}{27} \\cdot k^4 + \\frac{35x^4}{81} \\cdot k^3 - \\frac{7x^5}{81} \\cdot k^2 + \\dots"
+      ],
+      "pdfPageStart": 241,
+      "pdfPageEnd": 241,
+      "printedPageStart": 236,
+      "printedPageEnd": 236,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p099",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে, $x^3$ এর সহগ $\\frac{-35k^4}{27}$ এবং $x^5$ এর সহগ $\\frac{-7k^2}{81}$",
+      "image": null,
+      "formulas": [
+        "x^3",
+        "\\frac{-35k^4}{27}",
+        "x^5",
+        "\\frac{-7k^2}{81}"
+      ],
+      "pdfPageStart": 241,
+      "pdfPageEnd": 241,
+      "printedPageStart": 236,
+      "printedPageEnd": 236,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p100",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "শর্তমতে, $\\frac{-35k^4}{27} = -\\frac{7k^2}{81} \\times 15$ বা, $\\frac{k^4}{k^2} = \\frac{27 \\times 7 \\times 15}{35 \\times 81}$ বা, $k^2 = 1$",
+      "image": null,
+      "formulas": [
+        "\\frac{-35k^4}{27} = -\\frac{7k^2}{81} \\times 15",
+        "\\frac{k^4}{k^2} = \\frac{27 \\times 7 \\times 15}{35 \\times 81}",
+        "k^2 = 1"
+      ],
+      "pdfPageStart": 241,
+      "pdfPageEnd": 241,
+      "printedPageStart": 236,
+      "printedPageEnd": 236,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.3-p101",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore k = 1$",
+      "image": null,
+      "formulas": [
+        "\\therefore k = 1"
+      ],
+      "pdfPageStart": 241,
+      "pdfPageEnd": 241,
+      "printedPageStart": 236,
+      "printedPageEnd": 236,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

@@ -1,0 +1,783 @@
+{
+  "id": "higher-math-9-10-bn-c14-t14.ex",
+  "key": "14.ex",
+  "title": "অনুশীলনী ১৪",
+  "chapter": 14,
+  "ordinal": 5,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p001",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১. 30 টি টিকিটে 1 থেকে 30 পর্যন্ত ক্রমিক নম্বর দেয়া আছে। টিকিটগুলো ভালভাবে মিশিয়ে একটি টিকিটে দৈবভাবে নেওয়া হলো। টিকিটটির ক্রমিক নম্বর ক) জোড় সংখ্যা খ) 4 দ্বারা বিভাজ্য গ) 4 এর চেয়ে ছোটো ঘ) 22 এর চেয়ে বড়ো হওয়ার সন্ন্যবনাগুলো নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p002",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "২. কোনো একটি লটারিতে 570টি টিকেট বিক্রি হয়েছে। রহিম 15টি টিকেট কিনেছে। টিকিটগুলো ভালভাবে মিশিয়ে একটি টিকিট দৈবভাবে প্রথম পুরস্কারের জন্য তোলা হলো। রহিমের প্রথম পুরস্কার পাওয়ার সন্ন্যবনা কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p003",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৩. কোনো একটি স্বাস্থ্য কেন্দ্রের রিপোর্ট অনুযায়ী কম ওজনের 155টি শিশু, স্বাভাবিক ওজনের 386টি শিশু এবং বেশি ওজনের 98টি শিশু জন্ম নেয়। এখান হতে একটি শিশু দৈবভাবে নির্বাচন করলে নির্বাচিত শিশুটি বেশি ওজনের হবে এর সন্ন্যবনা কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p004",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৪. কোনো একটি ফ্যাঙ্ক্রিতে নিয়োগকৃত লোকদের কাজের ধরন অনুযায়ী নিম্নভাবে শ্রেণিকৃত করা যায়:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p005",
+      "kind": "table",
+      "section": null,
+      "caption": null,
+      "body": "<table><tr><th>শ্রেণিকরণ</th><th>সংখ্যা</th></tr>\n<tr><td>ব্যবস্থাপনায়</td><td>157</td></tr>\n<tr><td>পরিদর্শক হিসেবে</td><td>52</td></tr>\n<tr><td>উৎপাদন কাজে</td><td>1473</td></tr>\n<tr><td>অফিসিয়াল কাজে</td><td>215</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p006",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "একজনকে দৈবভাবে নির্বাচন করলে লোকটি --",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p007",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "ক) ব্যবস্থাপনায় নিয়োজিত এর সন্ন্যবনা কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p008",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "খ) ব্যবস্থাপনায় অথবা উৎপাদন কাজে নিয়োজিত এর সন্ন্যবনা কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p009",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "গ) উৎপাদন কাজে নিয়োজিত নয় এর সন্ন্যবনা কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p010",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৫. দুই হাজার লাইসেন্সপ্রাপ্ত ড্রাইভার এক বছরে নিম্নলিখিত সংখ্যক বার ট্রাফিক আইন ভঙ্গা করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p011",
+      "kind": "table",
+      "section": null,
+      "caption": null,
+      "body": "<table><tr><th>ট্রাফিক আইন ভঙ্গোর সংখ্যা</th><th>ড্রাইভারের সংখ্যা</th></tr>\n<tr><td>0</td><td>1910</td></tr>\n<tr><td>1</td><td>46</td></tr>\n<tr><td>2</td><td>18</td></tr>\n<tr><td>3</td><td>12</td></tr>\n<tr><td>4</td><td>9</td></tr>\n<tr><td>4 এর অধিক</td><td>5</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p012",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "ক) একজন ড্রাইভারকে দৈবভাবে নির্বাচন করলে ড্রাইভারটির 1 বার আইন ভঙ্গা করার সন্ন্যবনা কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p013",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "খ) ড্রাইভারটির 4 এর অধিক বার আইন ভঙ্গা করার সন্ন্যবনা কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p014",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৬. 1টি মুদ্রা ও 1টি ছক্কা নিক্ষেপ ঘটনার probability tree তৈরি করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 318,
+      "pdfPageEnd": 318,
+      "printedPageStart": 313,
+      "printedPageEnd": 313,
+      "reviewReasons": [
+        "latin-junk",
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p015",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৭. Probability tree এর সাহায্যে নিচের ছকটি পূরণ করো:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 319,
+      "pdfPageEnd": 319,
+      "printedPageStart": 314,
+      "printedPageEnd": 314,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p016",
+      "kind": "table",
+      "section": null,
+      "caption": null,
+      "body": "<table><tr><th>মুদ্রা নিক্ষেপ</th><th>সকল সম্ভাব্য ফলাফল</th><th>সম্ভাবনা</th></tr>\n<tr><td>একবার মুদ্রা নিক্ষেপ</td><td></td><td><em>P</em>(<em>T</em>) =</td></tr>\n<tr><td>দুইবার মুদ্রা নিক্ষেপ</td><td></td><td><em>P</em>(<em>1H</em>) =<br /><em>P</em>(<em>HT</em>) =</td></tr>\n<tr><td>তিনবার মুদ্রা নিক্ষেপ</td><td></td><td><em>P</em>(<em>HHT</em>) =<br /><em>P</em>(<em>2H</em>) =</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 319,
+      "pdfPageEnd": 319,
+      "printedPageStart": 314,
+      "printedPageEnd": 314,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p017",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৮. কোনো একজন লোকের ঢাকা হতে রাজশাহী ট্রেনে যাওয়ার সম্ভাবনা $\\frac{5}{9}$ এবং রাজশাহী হতে দিনাজপুর বাসে যাওয়ার সম্ভাবনা $\\frac{2}{7}$। Probability tree ব্যবহার করে --",
+      "image": null,
+      "formulas": [
+        "\\frac{5}{9}",
+        "\\frac{2}{7}"
+      ],
+      "pdfPageStart": 319,
+      "pdfPageEnd": 319,
+      "printedPageStart": 314,
+      "printedPageEnd": 314,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p018",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "ক) লোকটি ঢাকা হতে রাজশাহী ট্রেনে নয় এবং রাজশাহী হতে দিনাজপুর বাসে যাওয়ার সম্ভাবনা কত বের করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 319,
+      "pdfPageEnd": 319,
+      "printedPageStart": 314,
+      "printedPageEnd": 314,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p019",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "খ) লোকটি রাজশাহী ট্রেনে কিন্তু দিনাজপুর বাসে না যাওয়ার সম্ভাবনা বের করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 319,
+      "pdfPageEnd": 319,
+      "printedPageStart": 314,
+      "printedPageEnd": 314,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p020",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৯. একজন লোকের ঢাকা হতে চটগ্রাম ট্রেনে যাওয়ার সম্ভাবনা $\\frac{2}{9}$, বাসে যাওয়ার সম্ভাবনা $\\frac{3}{7}$, ক্ষেনে যাওয়ার সম্ভাবনা $\\frac{1}{9}$। লোকটির চটগ্রাম হতে কক্সবাজার বাসে যাওয়ার সম্ভাবনা $\\frac{2}{5}$ এবং গাড়িতে যাওয়ার সম্ভাবনা $\\frac{3}{7}$। Probability tree ব্যবহার করে লোকটির চটগ্রাম ট্রেনে এবং কক্সবাজার বাসে যাওয়ার সম্ভাবনা বের করো।",
+      "image": null,
+      "formulas": [
+        "\\frac{2}{9}",
+        "\\frac{3}{7}",
+        "\\frac{1}{9}",
+        "\\frac{2}{5}",
+        "\\frac{3}{7}"
+      ],
+      "pdfPageStart": 319,
+      "pdfPageEnd": 319,
+      "printedPageStart": 314,
+      "printedPageEnd": 314,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p021",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১০. একটি দুই টাকার মুদ্রা চার বার নিক্ষেপ করা হলো। (এর শাপলার পিঠকে $L$ এবং প্রাথমিক শিক্ষার শিশুর পিঠকে $C$ বিবেচনা করো)",
+      "image": null,
+      "formulas": [
+        "L",
+        "C"
+      ],
+      "pdfPageStart": 319,
+      "pdfPageEnd": 319,
+      "printedPageStart": 314,
+      "printedPageEnd": 314,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p022",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "ক) যদি মুদ্রাটিকে চারবারের পরিবর্তে দুইবার নিক্ষেপ করা হয় তবে একটি $L$ আসার সম্ভাবনা এবং একটি $C$ না আসার সম্ভাবনা কত?",
+      "image": null,
+      "formulas": [
+        "L",
+        "C"
+      ],
+      "pdfPageStart": 319,
+      "pdfPageEnd": 319,
+      "printedPageStart": 314,
+      "printedPageEnd": 314,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p023",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "খ) সম্ভাব্য ঘটনার Probability tree অঙ্কন করো এবং নমুনাক্ষেত্রটি লেখো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 319,
+      "pdfPageEnd": 319,
+      "printedPageStart": 314,
+      "printedPageEnd": 314,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p024",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "গ) দেখাও যে, মুদ্রাটি $n$ সংখ্যক বার নিক্ষেপ করলে সংঘটিত ঘটনা সংখ্যা $2^n$ হয়।",
+      "image": null,
+      "formulas": [
+        "n",
+        "2^n"
+      ],
+      "pdfPageStart": 319,
+      "pdfPageEnd": 319,
+      "printedPageStart": 314,
+      "printedPageEnd": 314,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p025",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "১. একটি ছক্কা নিক্ষেপ করলে ৩ উঠার সম্ভাবনা কোনটি?\nক) $\\frac{1}{6}$ খ) $\\frac{1}{3}$ গ) $\\frac{2}{3}$ ঘ) $\\frac{1}{2}$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{6}",
+        "\\frac{1}{3}",
+        "\\frac{2}{3}",
+        "\\frac{1}{2}"
+      ],
+      "pdfPageStart": 319,
+      "pdfPageEnd": 319,
+      "printedPageStart": 314,
+      "printedPageEnd": 314,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p026",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "২. দুটি মুদ্রা নিক্ষেপের ক্ষেত্রে --\n$(i)$ বড়োজোর একটি $H$ পাওয়ার সম্ভাবনা = 0.75",
+      "image": null,
+      "formulas": [
+        "(i)",
+        "H"
+      ],
+      "pdfPageStart": 319,
+      "pdfPageEnd": 319,
+      "printedPageStart": 314,
+      "printedPageEnd": 314,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p027",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "$(ii)$ কমপক্ষে একটি $H$ পাওয়ার সম্ভাবনা $= 0.75$",
+      "image": null,
+      "formulas": [
+        "(ii)",
+        "H",
+        "= 0.75"
+      ],
+      "pdfPageStart": 320,
+      "pdfPageEnd": 320,
+      "printedPageStart": 315,
+      "printedPageEnd": 315,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p028",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "$(iii)$ HH একটি নমুনা বিন্দু।",
+      "image": null,
+      "formulas": [
+        "(iii)"
+      ],
+      "pdfPageStart": 320,
+      "pdfPageEnd": 320,
+      "printedPageStart": 315,
+      "printedPageEnd": 315,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p029",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "নিচের কোনটি সঠিক?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 320,
+      "pdfPageEnd": 320,
+      "printedPageStart": 315,
+      "printedPageEnd": 315,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p030",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "ক) $i, ii$                      খ) $i, iii$                      গ) $ii, iii$                      ঘ) $i, ii, iii$",
+      "image": null,
+      "formulas": [
+        "i, ii",
+        "i, iii",
+        "ii, iii",
+        "i, ii, iii"
+      ],
+      "pdfPageStart": 320,
+      "pdfPageEnd": 320,
+      "printedPageStart": 315,
+      "printedPageEnd": 315,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p031",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "নিচের তথ্য থেকে ৩ ও ৪ নম্বর প্রশ্নের উত্তর দাও:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 320,
+      "pdfPageEnd": 320,
+      "printedPageStart": 315,
+      "printedPageEnd": 315,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p032",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "একটি থলিতে নীল বল 12টি, সাদা বল 16টি এবং কালো বল 20টি আছে। দৈবভাবে একটা বল নেওয়া হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 320,
+      "pdfPageEnd": 320,
+      "printedPageStart": 315,
+      "printedPageEnd": 315,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p033",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৩. বলটি নীল হওয়ার সম্ভাবনা কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 320,
+      "pdfPageEnd": 320,
+      "printedPageStart": 315,
+      "printedPageEnd": 315,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p034",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "ক) $\\frac{1}{16}$                      খ) $\\frac{1}{12}$                      গ) $\\frac{1}{8}$                      ঘ) $\\frac{1}{4}$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{16}",
+        "\\frac{1}{12}",
+        "\\frac{1}{8}",
+        "\\frac{1}{4}"
+      ],
+      "pdfPageStart": 320,
+      "pdfPageEnd": 320,
+      "printedPageStart": 315,
+      "printedPageEnd": 315,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p035",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৪. বলটি সাদা না হওয়ার সম্ভাবনা কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 320,
+      "pdfPageEnd": 320,
+      "printedPageStart": 315,
+      "printedPageEnd": 315,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p036",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "ক) $\\frac{1}{3}$                      খ) $\\frac{2}{3}$                      গ) $\\frac{1}{16}$                      ঘ) $\\frac{1}{48}$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{3}",
+        "\\frac{2}{3}",
+        "\\frac{1}{16}",
+        "\\frac{1}{48}"
+      ],
+      "pdfPageStart": 320,
+      "pdfPageEnd": 320,
+      "printedPageStart": 315,
+      "printedPageEnd": 315,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p037",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "৫. একটি বুলিটে ৪টি লাল, 10টি সাদা ও 7টি কালো মার্বেল আছে। দৈবভাবে একটি মার্বেল নেওয়া হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 320,
+      "pdfPageEnd": 320,
+      "printedPageStart": 315,
+      "printedPageEnd": 315,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p038",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "(ক) কোনো ঘটনা $A$ হলে, প্রমাণ করো যে, $0 \\le P(A) \\le 1$",
+      "image": null,
+      "formulas": [
+        "A",
+        "0 \\le P(A) \\le 1"
+      ],
+      "pdfPageStart": 320,
+      "pdfPageEnd": 320,
+      "printedPageStart": 315,
+      "printedPageEnd": 315,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p039",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "খ) মার্বেলটি (১) লাল হওয়ার সম্ভাবনা এবং (২) সাদা না হওয়ার সম্ভাবনা নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 320,
+      "pdfPageEnd": 320,
+      "printedPageStart": 315,
+      "printedPageEnd": 315,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p040",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "গ) যদি প্রতিস্থাপন না করে একটি করে পরপর চারটি মার্বেল তুলে নেওয়া হয় তবে সবগুলো মার্বেল সাদা হওয়ার সম্ভাবনা নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 320,
+      "pdfPageEnd": 320,
+      "printedPageStart": 315,
+      "printedPageEnd": 315,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p041",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "৬. (ক) একটা ছক্কা একবার নিক্ষেপ করা হলে জোড় সংখ্যা অথবা তিন দ্বারা বিভাজ্য সংখ্যা উঠার সম্ভাবনা কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 320,
+      "pdfPageEnd": 320,
+      "printedPageStart": 315,
+      "printedPageEnd": 315,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p042",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "খ) একটি নিরপেক্ষ মুদ্রা তিনবার নিক্ষেপ করা হলো। মুদ্রা তিনটিতে বড়জোড় 2T আসার সম্ভাবনা নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 320,
+      "pdfPageEnd": 320,
+      "printedPageStart": 315,
+      "printedPageEnd": 315,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p043",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "গ) একটি নিরপেক্ষ ছক্কা ও একটি মুদ্রা একবার নিক্ষেপ করা হলো। ছক্কার 5 এবং মুদ্রায় $H$ আসার সম্ভাবনা নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "H"
+      ],
+      "pdfPageStart": 320,
+      "pdfPageEnd": 320,
+      "printedPageStart": 315,
+      "printedPageEnd": 315,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ex-p044",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "ঘ) 20টি টিকিটে 1 থেকে 20 পর্যন্ত ক্রমিক নম্বর দেওয়া আছে। টিকিটগুলো ভালোভাবে মিশিয়ে একটি টিকিট দৈবভাবে নেওয়া হলো। টিকিটটির ক্রমিক নম্বর 20 এর গুণনীয়ক হওয়ার সম্ভাবনা নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 320,
+      "pdfPageEnd": 320,
+      "printedPageStart": 315,
+      "printedPageEnd": 315,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

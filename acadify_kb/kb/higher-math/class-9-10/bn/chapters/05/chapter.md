@@ -10,62 +10,62 @@ Source: Higher Math Bangla Version, printed pp. 96-122
 <!-- higher-math-9-10-bn-c05-t5.0-p002 · text · p.96 -->
 এ অধ্যায় শেষে শিক্ষার্থীরা -
 
-<!-- higher-math-9-10-bn-c05-t5.0-p003 · text · p.96 · review: verify-formula -->
-* দিঘাত সমীকরণ ($ax^2 + bx + c = 0$) সমাধান করতে পারবে;
+<!-- higher-math-9-10-bn-c05-t5.0-p003 · text · p.96 · review: known-confusable-corrected,verify-formula -->
+* দ্বিঘাত সমীকরণ ($ax^2 + bx + c = 0$) সমাধান করতে পারবে;
 * বর্গমূলবিশিষ্ট সমীকরণ চিহ্নিত করতে পারবে;
 * বর্গমূলবিশিষ্ট সমীকরণ সমাধান করতে পারবে;
 * সূচকীয় সমীকরণ ব্যাখ্যা করতে পারবে;
 * সূচকীয় সমীকরণ সমাধান করতে পারবে;
-* দুই চলকের একঘাত ও দিঘাত সমীকরণের জোটি সমাধান করতে পারবে;
-* বাস্তবভিত্তিক সমস্যাকে দুই চলকের একঘাত ও দিঘাত সমীকরণে প্রকাশ করে সমাধান করতে পারবে;
-* দুই চলক বিশিষ্ট সূচকীয় সমীকরণ জোটি সমাধান করতে পারবে;
-* লেখাচিত্রের সাহায্যে দিঘাত সমীকরণ ($ax^2 + bx + c = 0$) সমাধান করতে পারবে।
+* দুই চলকের একঘাত ও দ্বিঘাত সমীকরণের জোট সমাধান করতে পারবে;
+* বাস্তবভিত্তিক সমস্যাকে দুই চলকের একঘাত ও দ্বিঘাত সমীকরণে প্রকাশ করে সমাধান করতে পারবে;
+* দুই চলক বিশিষ্ট সূচকীয় সমীকরণ জোট সমাধান করতে পারবে;
+* লেখাচিত্রের সাহায্যে দ্বিঘাত সমীকরণ ($ax^2 + bx + c = 0$) সমাধান করতে পারবে।
 
-### এক চলক সম্পর্কিত দিঘাত সমীকরণ ও তার সমাধান
+### এক চলক সম্পর্কিত দ্বিঘাত সমীকরণ ও তার সমাধান
 
-<!-- higher-math-9-10-bn-c05-t5.0-p004 · text · p.96 -->
+<!-- higher-math-9-10-bn-c05-t5.0-p004 · text · p.96 · review: known-confusable-corrected -->
 আমরা জানি, চলকের যে মান বা মানগুলোর জন্য সমীকরণের উভয় পক্ষ সমান হয়, ঐ মান বা মানগুলোই সমীকরণের মূল (Root) এবং ঐ মান বা মানগুলোর দ্বারা সমীকরণটি সিদ্ধ হয়।
 
-<!-- higher-math-9-10-bn-c05-t5.0-p005 · text · p.96 · review: verify-formula -->
-নবম-দশম শ্রেণির গণিত বইয়ে এক চলকের একঘাত ও দিঘাত সমীকরণ এবং দুই চলকের একঘাত ও দিঘাত সমীকরণ সম্পর্কে বিস্তৃত আলোচনা করা হয়েছে। সমীকরণের মূলগুলো মূলদ সংখ্যা হলে, $ax^2 + bx + c = 0$ সমীকরণের বামপক্ষকে উৎপাদকে বিশ্লেষণ করে সহজেই তার সমাধান করা যায়।
+<!-- higher-math-9-10-bn-c05-t5.0-p005 · text · p.96 · review: known-confusable-corrected,verify-formula -->
+নবম-দশম শ্রেণির গণিত বইয়ে এক চলকের একঘাত ও দ্বিঘাত সমীকরণ এবং দুই চলকের একঘাত ও দ্বিঘাত সমীকরণ সম্পর্কে বিস্তৃত আলোচনা করা হয়েছে। সমীকরণের মূলগুলো মূলদ সংখ্যা হলে, $ax^2 + bx + c = 0$ সমীকরণের বামপক্ষকে উৎপাদকে বিশ্লেষণ করে সহজেই তার সমাধান করা যায়।
 
-<!-- higher-math-9-10-bn-c05-t5.0-p006 · text · p.97 -->
+<!-- higher-math-9-10-bn-c05-t5.0-p006 · text · p.97 · review: known-confusable-corrected -->
 কিন্তু যেকোনো রাশিমালাকে সহজে উৎপাদকে বিশ্লেষণ করা যায় না। সে জন্য যেকোনো প্রকার দ্বিঘাত সমীকরণের সমাধানের জন্য নিম্নলিখিত পদ্ধতিটি ব্যবহার করা হয়।
 
-<!-- higher-math-9-10-bn-c05-t5.0-p007 · text · p.97 · review: verify-formula -->
+<!-- higher-math-9-10-bn-c05-t5.0-p007 · text · p.97 · review: known-confusable-corrected,verify-formula -->
 এক চলক সংবলিত দ্বিঘাত সমীকরণের আদর্শরূপ $ax^2 + bx + c = 0$। এখানে $a, b, c$ বাস্তব সংখ্যা এবং $a \neq 0$। আমরা দ্বিঘাত সমীকরণটির সমাধান করি,
 
-<!-- higher-math-9-10-bn-c05-t5.0-p008 · formula · p.97 · review: verify-formula -->
+<!-- higher-math-9-10-bn-c05-t5.0-p008 · formula · p.97 · review: known-confusable-corrected,verify-formula -->
 $$ax^2 + bx + c = 0$$
 
-<!-- higher-math-9-10-bn-c05-t5.0-p009 · text · p.97 · review: verify-formula -->
+<!-- higher-math-9-10-bn-c05-t5.0-p009 · text · p.97 · review: known-confusable-corrected,verify-formula -->
 বা, $a^2x^2 + abx + ac = 0$ [উভয়পক্ষকে $a$ দ্বারা গুণ করে]
 
-<!-- higher-math-9-10-bn-c05-t5.0-p010 · text · p.97 · review: verify-formula -->
+<!-- higher-math-9-10-bn-c05-t5.0-p010 · text · p.97 · review: known-confusable-corrected,verify-formula -->
 বা, $(ax)^2 + 2(ax)\frac{b}{2} + \left(\frac{b}{2}\right)^2 - \left(\frac{b}{2}\right)^2 + ac = 0$
 
-<!-- higher-math-9-10-bn-c05-t5.0-p011 · text · p.97 · review: verify-formula -->
+<!-- higher-math-9-10-bn-c05-t5.0-p011 · text · p.97 · review: known-confusable-corrected,verify-formula -->
 বা, $\left(ax + \frac{b}{2}\right)^2 = \frac{b^2}{4} - ac$
 
-<!-- higher-math-9-10-bn-c05-t5.0-p012 · text · p.97 · review: verify-formula -->
+<!-- higher-math-9-10-bn-c05-t5.0-p012 · text · p.97 · review: known-confusable-corrected,verify-formula -->
 বা, $\left(ax + \frac{b}{2}\right)^2 = \frac{b^2 - 4ac}{4}$
 
-<!-- higher-math-9-10-bn-c05-t5.0-p013 · text · p.97 · review: verify-formula -->
+<!-- higher-math-9-10-bn-c05-t5.0-p013 · text · p.97 · review: known-confusable-corrected,verify-formula -->
 বা, $ax + \frac{b}{2} = \pm \frac{\sqrt{b^2 - 4ac}}{2}$ [উভয় পক্ষের বর্গমূল করে]
 
-<!-- higher-math-9-10-bn-c05-t5.0-p014 · text · p.97 · review: verify-formula -->
+<!-- higher-math-9-10-bn-c05-t5.0-p014 · text · p.97 · review: known-confusable-corrected,verify-formula -->
 বা, $ax = -\frac{b}{2} \pm \frac{\sqrt{b^2 - 4ac}}{2}$
 
-<!-- higher-math-9-10-bn-c05-t5.0-p015 · text · p.97 · review: verify-formula -->
+<!-- higher-math-9-10-bn-c05-t5.0-p015 · text · p.97 · review: known-confusable-corrected,verify-formula -->
 বা, $x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}$ (1)
 
-<!-- higher-math-9-10-bn-c05-t5.0-p016 · text · p.97 · review: verify-formula -->
+<!-- higher-math-9-10-bn-c05-t5.0-p016 · text · p.97 · review: known-confusable-corrected,verify-formula -->
 অতএব, $x$ এর দুইটি মান পাওয়া গেল এবং মান দুটি হচ্ছে
 
-<!-- higher-math-9-10-bn-c05-t5.0-p017 · text · p.97 · review: latin-junk,verify-formula -->
+<!-- higher-math-9-10-bn-c05-t5.0-p017 · text · p.97 · review: latin-junk,known-confusable-corrected,verify-formula -->
 $$x_1 = \frac{-b + \sqrt{b^2 - 4ac}}{2a}$$ (2) এবং $x_2 = \frac{-b - \sqrt{b^2 - 4ac}}{2a}$ (3)
 
-<!-- higher-math-9-10-bn-c05-t5.0-p018 · text · p.97 · review: verify-formula -->
+<!-- higher-math-9-10-bn-c05-t5.0-p018 · text · p.97 · review: known-confusable-corrected,verify-formula -->
 উপরের (1) নং সমীকরণে $b^2 - 4ac$ কে দ্বিঘাত সমীকরণটির নিশ্চায়ক (Discriminant) বলে কারণ ইহা সমীকরণটির মূলদ্বয়ের ধরন ও প্রকৃতি নির্ণয় করে।
 
 ## 5.1 নিশ্চায়কের অবস্থাভেদে দ্বিঘাত সমীকরণের মূলদ্বয়ের ধরন ও প্রকৃতি
@@ -351,8 +351,8 @@ $x^{2x} = y^4$ ($y \neq 1$)
 ক) $-\frac{-1 + \sqrt{51}}{2}$                      খ) $-\frac{-1 - \sqrt{51}}{2}$
 গ) $-\frac{1 + \sqrt{-51}}{2}$                      ঘ) $\frac{1 + \sqrt{53}}{2}$
 
-<!-- higher-math-9-10-bn-c05-t5.ex-p054 · exercise · p.120 · review: verify-formula -->
-৩. $y^x = 9, y^2 = 3^x$ সমীকরণ জোটির একটি সমাধান কোনটি?
+<!-- higher-math-9-10-bn-c05-t5.ex-p054 · exercise · p.120 · review: known-confusable-corrected,verify-formula -->
+৩. $y^x = 9, y^2 = 3^x$ সমীকরণ জোটের একটি সমাধান কোনটি?
 ক) $(-3, -3)$                      খ) $(2, \frac{1}{3})$
 গ) $(-2, \frac{1}{3})$                      ঘ) $(-2, 3)$
 
@@ -480,8 +480,8 @@ $x^{2x} = y^4$ ($y \neq 1$)
 <!-- higher-math-9-10-bn-c05-t5.2-p010 · formula · p.99 · review: verify-formula -->
 $\therefore x = 5$
 
-<!-- higher-math-9-10-bn-c05-t5.2-p011 · text · p.99 · review: verify-formula -->
-**শুদ্ধি পরীক্ষা:** $x = 5$ হলে, বামপক্ষ $= \sqrt{49} - \sqrt{25} = 7 - 5 = 2$ এবং ডানপক্ষ $= \sqrt{4} = 2$ $\therefore$ নির্ণয়ে সমাধান $x = 5$
+<!-- higher-math-9-10-bn-c05-t5.2-p011 · text · p.99 · review: known-confusable-corrected,verify-formula -->
+**শুদ্ধি পরীক্ষা:** $x = 5$ হলে, বামপক্ষ $= \sqrt{49} - \sqrt{25} = 7 - 5 = 2$ এবং ডানপক্ষ $= \sqrt{4} = 2$ $\therefore$ নির্ণেয় সমাধান $x = 5$
 
 <!-- higher-math-9-10-bn-c05-t5.2-p012 · text · p.100 · review: verify-formula -->
 **কাজ:** $p = \sqrt{\frac{x}{x + 16}}$ ধরে $\sqrt{\frac{x}{x + 16}} + \sqrt{\frac{x + 16}{x}} = \frac{25}{12}$ সমীকরণটির সমাধান করে শুদ্ধি পরীক্ষা করো।
@@ -522,8 +522,8 @@ $\therefore x = \pm\sqrt{16} = \pm 4$
 <!-- higher-math-9-10-bn-c05-t5.2-p024 · text · p.100 · review: verify-formula -->
 $x = -4$ হলে, বামপক্ষ $= \sqrt{-8 + 8} - 2\sqrt{-4 + 5} + 2 = 0 - 2 \times 1 + 2 = 0 =$ ডানপক্ষ
 
-<!-- higher-math-9-10-bn-c05-t5.2-p025 · text · p.100 · review: verify-formula -->
-$\therefore$ নির্ণয়ে সমাধান $x = 4, -4$
+<!-- higher-math-9-10-bn-c05-t5.2-p025 · text · p.100 · review: known-confusable-corrected,verify-formula -->
+$\therefore$ নির্ণেয় সমাধান $x = 4, -4$
 
 <!-- higher-math-9-10-bn-c05-t5.2-p026 · text · p.100 · review: verify-formula -->
 **উদাহরণ ৭.** সমাধান করো: $\sqrt{2x + 9} - \sqrt{x - 4} = \sqrt{x + 1}$
@@ -561,8 +561,8 @@ $\therefore x = 8$ অথবা $x = -5$ শুদ্ধি পরীক্ষ�
 <!-- higher-math-9-10-bn-c05-t5.2-p037 · text · p.101 · review: verify-formula -->
 $x = -5$ গ্রহণযোগ্য নয়, কেননা সমীকরণে $x = -5$ বসালে ঋণাত্মক সংখ্যার বর্গমূল আসে যা সংজ্ঞায়িত নয়।
 
-<!-- higher-math-9-10-bn-c05-t5.2-p038 · text · p.101 · review: verify-formula -->
-$\therefore$ নির্ণয়ে সমাধান $x = 8$
+<!-- higher-math-9-10-bn-c05-t5.2-p038 · text · p.101 · review: known-confusable-corrected,verify-formula -->
+$\therefore$ নির্ণেয় সমাধান $x = 8$
 
 <!-- higher-math-9-10-bn-c05-t5.2-p039 · text · p.101 · review: verify-formula -->
 **মন্তব্য:** এমনকি জটিল সংখ্যায় সমাধান বের করলেও $x = -5$ গ্রহণযোগ্য হয় না।
@@ -600,8 +600,8 @@ $\therefore x = 2$ অথবা $x = 3$।
 <!-- higher-math-9-10-bn-c05-t5.2-p050 · text · p.101 · review: verify-formula -->
 $x = 3$ হলে, বামপক্ষ $= \sqrt{2} =$ ডানপক্ষ
 
-<!-- higher-math-9-10-bn-c05-t5.2-p051 · text · p.101 · review: verify-formula -->
-$\therefore$ নির্ণয়ে সমাধান $x = 2, 3$।
+<!-- higher-math-9-10-bn-c05-t5.2-p051 · text · p.101 · review: known-confusable-corrected,verify-formula -->
+$\therefore$ নির্ণেয় সমাধান $x = 2, 3$।
 
 <!-- higher-math-9-10-bn-c05-t5.2-p052 · text · p.101 · review: verify-formula -->
 **উদাহরণ ৯.** সমাধান করো: $\sqrt{x^2 - 6x + 15} - \sqrt{x^2 - 6x + 13} = \sqrt{10} - \sqrt{8}$
@@ -642,8 +642,8 @@ $\therefore x = 1$ অথবা $5$।
 <!-- higher-math-9-10-bn-c05-t5.2-p064 · text · p.102 · review: verify-formula -->
 $x = 5$ হলে, বামপক্ষ $= \sqrt{10} - \sqrt{8} =$ ডানপক্ষ
 
-<!-- higher-math-9-10-bn-c05-t5.2-p065 · text · p.102 · review: verify-formula -->
-$\therefore$ নির্ণয়ে সমাধান $x = 1, 5$
+<!-- higher-math-9-10-bn-c05-t5.2-p065 · text · p.102 · review: known-confusable-corrected,verify-formula -->
+$\therefore$ নির্ণেয় সমাধান $x = 1, 5$
 
 <!-- higher-math-9-10-bn-c05-t5.2-p066 · text · p.102 · review: verify-formula -->
 **উদাহরণ ১০.** সমাধান করো: $(1 + x)^{\frac{1}{3}} + (1 - x)^{\frac{1}{3}} = 2^{\frac{1}{3}}$
@@ -669,8 +669,8 @@ $\therefore$ নির্ণয়ে সমাধান $x = 1, 5$
 <!-- higher-math-9-10-bn-c05-t5.2-p073 · text · p.102 · review: verify-formula -->
 $x = 1$ এবং $x = -1$ উভয়ই সমীকরণটিকে সিদ্ধ করে।
 
-<!-- higher-math-9-10-bn-c05-t5.2-p074 · text · p.102 · review: verify-formula -->
-$\therefore$ নির্ণয়ে সমাধান $x = \pm 1$
+<!-- higher-math-9-10-bn-c05-t5.2-p074 · text · p.102 · review: known-confusable-corrected,verify-formula -->
+$\therefore$ নির্ণেয় সমাধান $x = \pm 1$
 
 ## 5.3 সূচক সমীকরণ (Indicial Equation)
 
@@ -758,8 +758,8 @@ $\therefore$ নির্ণেয় সমাধান $x = 7$
 <!-- higher-math-9-10-bn-c05-t5.3-p028 · text · p.104 · review: verify-formula -->
 বা, $x = \frac{2}{m}$
 
-<!-- higher-math-9-10-bn-c05-t5.3-p029 · text · p.104 · review: verify-formula -->
-$\therefore$ নির্ণয়ে সমাধান $x = \frac{2}{m}$
+<!-- higher-math-9-10-bn-c05-t5.3-p029 · text · p.104 · review: known-confusable-corrected,verify-formula -->
+$\therefore$ নির্ণেয় সমাধান $x = \frac{2}{m}$
 
 <!-- higher-math-9-10-bn-c05-t5.3-p030 · text · p.104 · review: verify-formula -->
 **উদাহরণ ১৪. সমাধান করো:** $2^{3x-5} \cdot a^{x-2} = 2^{x-3} \cdot 2a^{1-x}$ ($a > 0$ এবং $a \neq \frac{1}{2}$)
@@ -782,8 +782,8 @@ $\therefore$ নির্ণয়ে সমাধান $x = \frac{2}{m}$
 <!-- higher-math-9-10-bn-c05-t5.3-p036 · text · p.104 · review: verify-formula -->
 বা, $2x - 3 = 0$ বা, $2x = 3$ বা, $x = \frac{3}{2}$
 
-<!-- higher-math-9-10-bn-c05-t5.3-p037 · text · p.104 · review: verify-formula -->
-$\therefore$ নির্ণয়ে সমাধান $x = \frac{3}{2}$
+<!-- higher-math-9-10-bn-c05-t5.3-p037 · text · p.104 · review: known-confusable-corrected,verify-formula -->
+$\therefore$ নির্ণেয় সমাধান $x = \frac{3}{2}$
 
 <!-- higher-math-9-10-bn-c05-t5.3-p038 · text · p.104 · review: verify-formula -->
 **উদাহরণ ১৫. সমাধান করো:** $a^{-x}(a^x + b^{-x}) = \frac{a^2b^2 + 1}{a^2b^2}$ ($a > 0, b > 0, ab \neq 1$)
@@ -806,8 +806,8 @@ $\therefore$ নির্ণয়ে সমাধান $x = \frac{3}{2}$
 <!-- higher-math-9-10-bn-c05-t5.3-p044 · text · p.104 · review: verify-formula -->
 বা, $x = 2$
 
-<!-- higher-math-9-10-bn-c05-t5.3-p045 · text · p.104 · review: verify-formula -->
-$\therefore$ নির্ণয়ে সমাধান $x = 2$
+<!-- higher-math-9-10-bn-c05-t5.3-p045 · text · p.104 · review: known-confusable-corrected,verify-formula -->
+$\therefore$ নির্ণেয় সমাধান $x = 2$
 
 <!-- higher-math-9-10-bn-c05-t5.3-p046 · text · p.104 · review: verify-formula -->
 **উদাহরণ ১৬. সমাধান করো:** $3^{x+5} = 3^{x+3} + \frac{8}{3}$
@@ -899,16 +899,16 @@ $\therefore$ নির্ণেয় সমাধান $x = -4$
 <!-- higher-math-9-10-bn-c05-t5.3-p075 · text · p.106 · review: verify-formula -->
 বা, $x = 0$ অথবা $x = 2$
 
-<!-- higher-math-9-10-bn-c05-t5.3-p076 · text · p.106 · review: verify-formula -->
-$\therefore$ নির্ণয়ে সমাধান $x = 0, 2$
+<!-- higher-math-9-10-bn-c05-t5.3-p076 · text · p.106 · review: known-confusable-corrected,verify-formula -->
+$\therefore$ নির্ণেয় সমাধান $x = 0, 2$
 
-## 5.4 দুই চলকবিশিষ্ট দ্বিঘাত সমীকরণ জোটি
+## 5.4 দুই চলকবিশিষ্ট দ্বিঘাত সমীকরণ জোট
 
-<!-- higher-math-9-10-bn-c05-t5.4-p001 · text · p.106 -->
-দুই চলকবিশিষ্ট দুটি একঘাত সমীকরণ অথবা একটি একঘাত ও একটি দ্বিঘাত সমীকরণ সমস্যায় গঠিত জোটির সমাধান নির্ণয় পদ্ধতি নবম-দশম শ্রেণির গণিত বইয়ে আলোচনা করা হয়েছে। এখানে এরূপ দুটি দ্বিঘাত সমীকরণ সমস্যায় গঠিত কতিপয় জোটির সমাধান নির্ণয় আলোচনা করা হলো।
+<!-- higher-math-9-10-bn-c05-t5.4-p001 · text · p.106 · review: known-confusable-corrected -->
+দুই চলকবিশিষ্ট দুটি একঘাত সমীকরণ অথবা একটি একঘাত ও একটি দ্বিঘাত সমীকরণ সমস্যায় গঠিত জোটের সমাধান নির্ণয় পদ্ধতি নবম-দশম শ্রেণির গণিত বইয়ে আলোচনা করা হয়েছে। এখানে এরূপ দুটি দ্বিঘাত সমীকরণ সমস্যায় গঠিত কতিপয় জোটের সমাধান নির্ণয় আলোচনা করা হলো।
 
-<!-- higher-math-9-10-bn-c05-t5.4-p002 · text · p.106 · review: verify-formula -->
-উল্লেখ্য যে, চলক দুইটি $x$ ও $y$ হলে $(x, y) = (a, b)$ এরূপ আকারে জোটির একটি সমাধান যদি সমীকরণ দুটিতে $x$ এর স্থানে $a$ এবং $y$ এর স্থানে $b$ বসালে তাদের উভয় পক্ষ সমান হয়।
+<!-- higher-math-9-10-bn-c05-t5.4-p002 · text · p.106 · review: known-confusable-corrected,verify-formula -->
+উল্লেখ্য যে, চলক দুইটি $x$ ও $y$ হলে $(x, y) = (a, b)$ এরূপ আকারে জোটের একটি সমাধান যদি সমীকরণ দুটিতে $x$ এর স্থানে $a$ এবং $y$ এর স্থানে $b$ বসালে তাদের উভয় পক্ষ সমান হয়।
 
 <!-- higher-math-9-10-bn-c05-t5.4-p003 · text · p.106 · review: verify-formula -->
 **উদাহরণ ১৯.** সমাধান করো: $x + \frac{1}{y} = \frac{3}{2}, y + \frac{1}{x} = 3$
@@ -940,8 +940,8 @@ $2x^2 + 1 = 3x$ বা, $2x^2 - 3x + 1 = 0$
 <!-- higher-math-9-10-bn-c05-t5.4-p012 · text · p.107 · review: verify-formula -->
 (5) থেকে যখন $x = 1$, তখন $y = 2$ এবং যখন $x = \frac{1}{2}$ তখন $y = 1$
 
-<!-- higher-math-9-10-bn-c05-t5.4-p013 · text · p.107 · review: verify-formula -->
-$\therefore$ নির্ণয়ে সমাধান $(x, y) = (1, 2), \left(\frac{1}{2}, 1\right)$
+<!-- higher-math-9-10-bn-c05-t5.4-p013 · text · p.107 · review: known-confusable-corrected,verify-formula -->
+$\therefore$ নির্ণেয় সমাধান $(x, y) = (1, 2), \left(\frac{1}{2}, 1\right)$
 
 <!-- higher-math-9-10-bn-c05-t5.4-p014 · text · p.107 · review: verify-formula -->
 **উদাহরণ ২০.** সমাধান করো: $x^2 = 3x + 6y, \quad xy = 5x + 4y$
@@ -974,8 +974,8 @@ $\therefore x = y \dots (3)$
 <!-- higher-math-9-10-bn-c05-t5.4-p023 · text · p.107 · review: verify-formula -->
 আবার (4) ও (1) থেকে আমরা পাই, $x = -2$ এবং $4 = -6 + 6y$ বা, $6y = 10$ বা, $y = \frac{5}{3}$
 
-<!-- higher-math-9-10-bn-c05-t5.4-p024 · text · p.107 · review: verify-formula -->
-$\therefore$ নির্ণয়ে সমাধান $(x, y) = (0, 0), (9, 9), (-2, \frac{5}{3})$
+<!-- higher-math-9-10-bn-c05-t5.4-p024 · text · p.107 · review: known-confusable-corrected,verify-formula -->
+$\therefore$ নির্ণেয় সমাধান $(x, y) = (0, 0), (9, 9), (-2, \frac{5}{3})$
 
 <!-- higher-math-9-10-bn-c05-t5.4-p025 · text · p.107 · review: verify-formula -->
 **উদাহরণ ২১.** সমাধান করো: $x^2 + y^2 = 61, \quad xy = -30$
@@ -1017,8 +1017,8 @@ $$\left. \begin{aligned} x + y &= -1 \\ x - y &= -11 \end{aligned} \right\} \dot
 <!-- higher-math-9-10-bn-c05-t5.4-p037 · text · p.108 · review: verify-formula -->
 (7) থেকে, $x = 5, y = -6$ (8) থেকে $x = -6, y = 5$
 
-<!-- higher-math-9-10-bn-c05-t5.4-p038 · text · p.108 · review: verify-formula -->
-$\therefore$ নির্ণয়ে সমাধান $(x, y) = (6, -5), (-5, 6), (5, -6), (-6, 5)$
+<!-- higher-math-9-10-bn-c05-t5.4-p038 · text · p.108 · review: known-confusable-corrected,verify-formula -->
+$\therefore$ নির্ণেয় সমাধান $(x, y) = (6, -5), (-5, 6), (5, -6), (-6, 5)$
 
 <!-- higher-math-9-10-bn-c05-t5.4-p039 · text · p.108 · review: verify-formula -->
 **উদাহরণ ২২. সমাধান করো:** $x^2 - 2xy + 8y^2 = 8, 3xy - 2y^2 = 4$
@@ -1065,8 +1065,8 @@ $3 \cdot 6y \cdot y - 2y^2 = 4$ বা, $16y^2 = 4$ বা, $y^2 = \frac{1}{4}$ 
 <!-- higher-math-9-10-bn-c05-t5.4-p053 · text · p.109 · review: verify-formula -->
 (4) থেকে $x = 2 \times (\pm 1) = \pm 2$
 
-<!-- higher-math-9-10-bn-c05-t5.4-p054 · text · p.109 · review: verify-formula -->
-$\therefore$ নির্ণয়ে সমাধান $(x, y) = \left(3, \frac{1}{2}\right), \left(-3, -\frac{1}{2}\right), (2, 1), (-2, -1)$
+<!-- higher-math-9-10-bn-c05-t5.4-p054 · text · p.109 · review: known-confusable-corrected,verify-formula -->
+$\therefore$ নির্ণেয় সমাধান $(x, y) = \left(3, \frac{1}{2}\right), \left(-3, -\frac{1}{2}\right), (2, 1), (-2, -1)$
 
 <!-- higher-math-9-10-bn-c05-t5.4-p055 · text · p.109 · review: verify-formula -->
 **উদাহরণ ২৩.** সমাধান করো: $\frac{x + y}{x - y} + \frac{x - y}{x + y} = \frac{5}{2}, x^2 + y^2 = 90$
@@ -1086,16 +1086,16 @@ $$\frac{(x + y)^2 + (x - y)^2}{(x + y)(x - y)} = \frac{5}{2}$$
 (2) + (3) নিলে, $2x^2 = 162$ বা, $x^2 = 81$ বা, $x = \pm 9$
 এবং (2) - (3) নিলে, $2y^2 = 18$ বা, $y^2 = 9$ বা, $y = \pm 3$
 
-<!-- higher-math-9-10-bn-c05-t5.4-p059 · text · p.109 · review: verify-formula -->
-$\therefore$ নির্ণয়ে সমাধান $(x, y) = (9, 3), (9, -3), (-9, 3), (-9, -3)$
+<!-- higher-math-9-10-bn-c05-t5.4-p059 · text · p.109 · review: known-confusable-corrected,verify-formula -->
+$\therefore$ নির্ণেয় সমাধান $(x, y) = (9, 3), (9, -3), (-9, 3), (-9, -3)$
 
 <!-- higher-math-9-10-bn-c05-t5.4-p060 · text · p.109 -->
 **কাজ:** উদাহরণ ২০ এবং ২১ এর সমাধান বিকল্প পদ্ধতিতে নির্ণয় করো।
 
 ## 5.5 দ্বিঘাত সহসমীকরণের ব্যবহার
 
-<!-- higher-math-9-10-bn-c05-t5.5-p001 · text · p.110 · review: verify-formula -->
-সহসমীকরণের ধারণা ব্যবহার করে দৈনন্দিন জীবনের বহু সমস্যার সমাধান করা যায়। অনেক সময় সমস্যায় দুটি অজ্ঞাত রাশির মান নির্ণয় করতে হয়। সেক্ষেত্রে অজ্ঞাত রাশি দুটি $x$ এবং $y$ বা অন্য যেকোনো দুটি স্বতন্ত্র প্রতীক ধরতে হয়। তারপর সমস্যার শর্ত বা শর্তগুলো থেকে পরস্পর অনির্ভর, সঞ্জাতিপূর্ণ সমীকরণ গঠন করে সমীকরণ জোটির সমাধান করলেই অজ্ঞাত রাশি $x$ এবং $y$ এর মান পাওয়া যায়।
+<!-- higher-math-9-10-bn-c05-t5.5-p001 · text · p.110 · review: known-confusable-corrected,verify-formula -->
+সহসমীকরণের ধারণা ব্যবহার করে দৈনন্দিন জীবনের বহু সমস্যার সমাধান করা যায়। অনেক সময় সমস্যায় দুটি অজ্ঞাত রাশির মান নির্ণয় করতে হয়। সেক্ষেত্রে অজ্ঞাত রাশি দুটি $x$ এবং $y$ বা অন্য যেকোনো দুটি স্বতন্ত্র প্রতীক ধরতে হয়। তারপর সমস্যার শর্ত বা শর্তগুলো থেকে পরস্পর অনির্ভর, সঞ্জাতিপূর্ণ সমীকরণ গঠন করে সমীকরণ জোটের সমাধান করলেই অজ্ঞাত রাশি $x$ এবং $y$ এর মান পাওয়া যায়।
 
 <!-- higher-math-9-10-bn-c05-t5.5-p002 · text · p.110 -->
 **উদাহরণ ২৪.** দুটি বর্গক্ষেত্রের ক্ষেত্রফলের সমষ্টি 650 বর্গমিটার। ঐ দুটি বর্গক্ষেত্রের দুই বাহু দ্বারা গঠিত আয়তক্ষেত্রের ক্ষেত্রফল 323 বর্গমিটার হলে, বর্গক্ষেত্র দুটির প্রত্যেক বাহুর দৈর্ঘ্য কত?
@@ -1220,10 +1220,10 @@ $\therefore$ সংখ্যাটি $= 10x + y$
 <!-- higher-math-9-10-bn-c05-t5.5-p042 · text · p.112 · review: verify-formula -->
 $\therefore$ সংখ্যাটি 24
 
-## 5.6 দুই চলকবিশিষ্ট সূচক সমীকরণ জোটি
+## 5.6 দুই চলকবিশিষ্ট সূচক সমীকরণ জোট
 
-<!-- higher-math-9-10-bn-c05-t5.6-p001 · text · p.113 -->
-পূর্ববর্তী অংশে এক চলকবিশিষ্ট সূচক সমীকরণের সমাধান নির্ণয় সম্পর্কে আলোচনা করা হয়েছে। দুই চলকবিশিষ্ট সূচক সমীকরণ জোটির সমাধান পদ্ধতি বেশ কয়েকটি উদাহরণের মাধ্যমে তুলে ধরা হলো।
+<!-- higher-math-9-10-bn-c05-t5.6-p001 · text · p.113 · review: known-confusable-corrected -->
+পূর্ববর্তী অংশে এক চলকবিশিষ্ট সূচক সমীকরণের সমাধান নির্ণয় সম্পর্কে আলোচনা করা হয়েছে। দুই চলকবিশিষ্ট সূচক সমীকরণ জোটের সমাধান পদ্ধতি বেশ কয়েকটি উদাহরণের মাধ্যমে তুলে ধরা হলো।
 
 <!-- higher-math-9-10-bn-c05-t5.6-p002 · text · p.113 · review: verify-formula -->
 **উদাহরণ ২৭.** সমাধান করো: $a^{x+2} \cdot a^{2y+1} = a^{10}$, $a^{2x} \cdot a^{y+1} = a^9$ ($a \neq 1$)
@@ -1288,8 +1288,8 @@ $\therefore$ নির্ণেয় সমাধান $(x, y) = (3, 2)$
 <!-- higher-math-9-10-bn-c05-t5.6-p022 · text · p.114 · review: verify-formula -->
 বা, $x = 1, y = 3$
 
-<!-- higher-math-9-10-bn-c05-t5.6-p023 · text · p.114 · review: verify-formula -->
-$\therefore$ নির্ণয়ে সমাধান $(x, y) = (1, 3)$
+<!-- higher-math-9-10-bn-c05-t5.6-p023 · text · p.114 · review: known-confusable-corrected,verify-formula -->
+$\therefore$ নির্ণেয় সমাধান $(x, y) = (1, 3)$
 
 <!-- higher-math-9-10-bn-c05-t5.6-p024 · text · p.114 · review: verify-formula -->
 **উদাহরণ ২৯.** সমাধান করো: $x^y = y^x, x = 2y$
@@ -1306,8 +1306,8 @@ $\therefore$ নির্ণয়ে সমাধান $(x, y) = (1, 3)$
 <!-- higher-math-9-10-bn-c05-t5.6-p028 · text · p.114 · review: verify-formula -->
 (2) থেকে, $x = 4$
 
-<!-- higher-math-9-10-bn-c05-t5.6-p029 · text · p.114 · review: verify-formula -->
-$\therefore$ নির্ণয়ে সমাধান $(x, y) = (4, 2)$
+<!-- higher-math-9-10-bn-c05-t5.6-p029 · text · p.114 · review: known-confusable-corrected,verify-formula -->
+$\therefore$ নির্ণেয় সমাধান $(x, y) = (4, 2)$
 
 <!-- higher-math-9-10-bn-c05-t5.6-p030 · text · p.114 · review: verify-formula -->
 **উদাহরণ ৩০.** সমাধান করো: $x^y = y^2, y^{2y} = x^4$, যেখানে $x \neq 1$
@@ -1330,8 +1330,8 @@ $\therefore y^2 = 4$ বা, $y = \pm 2$
 <!-- higher-math-9-10-bn-c05-t5.6-p036 · text · p.114 · review: verify-formula -->
 আবার, $y = -2$ হলে (1) থেকে পাই, $x^{-2} = (-2)^2 = 4$ বা, $x^2 = \frac{1}{4}$ বা, $x = \pm \frac{1}{2}$
 
-<!-- higher-math-9-10-bn-c05-t5.6-p037 · text · p.114 · review: verify-formula -->
-$\therefore$ নির্ণয়ে সমাধান $(x, y) = (2, 2), (-2, 2), \left(\frac{1}{2}, -2\right), \left(-\frac{1}{2}, -2\right)$
+<!-- higher-math-9-10-bn-c05-t5.6-p037 · text · p.114 · review: known-confusable-corrected,verify-formula -->
+$\therefore$ নির্ণেয় সমাধান $(x, y) = (2, 2), (-2, 2), \left(\frac{1}{2}, -2\right), \left(-\frac{1}{2}, -2\right)$
 
 <!-- higher-math-9-10-bn-c05-t5.6-p038 · text · p.114 · review: verify-formula -->
 **উদাহরণ ৩১.** সমাধান করো: $8 \cdot 2^{xy} = 4^y, 9^x \cdot 3^{xy} = \frac{1}{27}$
@@ -1363,8 +1363,8 @@ $x = -1$ হলে (5) থেকে পাই, $y = 1$
 <!-- higher-math-9-10-bn-c05-t5.6-p047 · text · p.115 · review: verify-formula -->
 $x = 3$ হলে (5) থেকে পাই, $y = -3$
 
-<!-- higher-math-9-10-bn-c05-t5.6-p048 · text · p.115 · review: verify-formula -->
-$\therefore$ নির্ণয়ে সমাধান $(x, y) = (-1, 1), (3, -3)$
+<!-- higher-math-9-10-bn-c05-t5.6-p048 · text · p.115 · review: known-confusable-corrected,verify-formula -->
+$\therefore$ নির্ণেয় সমাধান $(x, y) = (-1, 1), (3, -3)$
 
 <!-- higher-math-9-10-bn-c05-t5.6-p049 · text · p.115 · review: verify-formula -->
 **উদাহরণ ৩২.** সমাধান করো: $18y^x - y^{2x} = 81, 3^x = y^2$
@@ -1396,8 +1396,8 @@ $x = 2$ হলে (2) থেকে পাই, $y^2 = 9$ বা, $y = \pm 3$
 <!-- higher-math-9-10-bn-c05-t5.6-p058 · text · p.115 · review: verify-formula -->
 $x = -2$ হলে (3) থেকে পাই, $y^{-2} = 9$ বা, $y^2 = \frac{1}{9}$ বা, $y = \pm \frac{1}{3}$
 
-<!-- higher-math-9-10-bn-c05-t5.6-p059 · text · p.115 · review: verify-formula -->
-$\therefore$ নির্ণয়ে সমাধান $(x, y) = (2, 3), (2, -3), \left(-2, \frac{1}{3}\right), \left(-2, -\frac{1}{3}\right)$
+<!-- higher-math-9-10-bn-c05-t5.6-p059 · text · p.115 · review: known-confusable-corrected,verify-formula -->
+$\therefore$ নির্ণেয় সমাধান $(x, y) = (2, 3), (2, -3), \left(-2, \frac{1}{3}\right), \left(-2, -\frac{1}{3}\right)$
 
 ## 5.7 লেখচিত্রের সাহায্যে দ্বিঘাত সমীকরণের সমাধান
 

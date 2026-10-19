@@ -1,0 +1,931 @@
+{
+  "id": "higher-math-9-10-bn-c11-t11.2",
+  "key": "11.2",
+  "title": "দুটি বিন্দুর মধ্যবর্তী দূরত্ব (Distance between two points)",
+  "chapter": 11,
+  "ordinal": 2,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "মনে করি, $P(x_1, y_1)$ এবং $Q(x_2, y_2)$ একটি সমতলে অবস্থিত দুইটি ভিন্ন বিন্দু। $P$ ও $Q$ বিন্দু থেকে $x$ অক্ষের উপর লম্ব $PM$ ও $QN$ আঁকি। আবার $P$ বিন্দু থেকে $QN$ এর উপর লম্ব $PR$ আঁকি।",
+      "image": null,
+      "formulas": [
+        "P(x_1, y_1)",
+        "Q(x_2, y_2)",
+        "P",
+        "Q",
+        "x",
+        "PM",
+        "QN",
+        "P",
+        "QN",
+        "PR"
+      ],
+      "pdfPageStart": 246,
+      "pdfPageEnd": 246,
+      "printedPageStart": 241,
+      "printedPageEnd": 241,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন $P$ বিন্দুর ভুজ $= OM = x_1$ এবং $P$ বিন্দুর কোটি $= MP = y_1$।\n$Q$ বিন্দুর ভুজ $= ON = x_2$ ও কোটি $NQ = y_2$।",
+      "image": null,
+      "formulas": [
+        "P",
+        "= OM = x_1",
+        "P",
+        "= MP = y_1",
+        "Q",
+        "= ON = x_2",
+        "NQ = y_2"
+      ],
+      "pdfPageStart": 246,
+      "pdfPageEnd": 246,
+      "printedPageStart": 241,
+      "printedPageEnd": 241,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p003",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: geometric diagram showing points P(x1, y1) and Q(x2, y2) with perpendiculars PM, QN, and PR on a coordinate plane",
+      "image": "p246-page_3_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 246,
+      "pdfPageEnd": 246,
+      "printedPageStart": 241,
+      "printedPageEnd": 241,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "চিত্র হতে আমরা পাই,\n$PR = MN = ON - OM = x_2 - x_1$\n$QR = NQ - NR = NQ - MP = y_2 - y_1$\nঅঙ্কন অনুসারে, $PQR$ একটি সমকোণী ত্রিভুজ এবং $PQ$ ত্রিভুজের অতিভুজ। তাই পীথাগোরাসের উপপাদ্য অনুযায়ী\n$PQ^2 = PR^2 + QR^2$\nবা, $PQ = \\pm \\sqrt{PR^2 + QR^2}$\nবা, $PQ = \\pm \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$\n$\\therefore P$ বিন্দু হতে $Q$ বিন্দুর দূরত্ব, $PQ = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$",
+      "image": null,
+      "formulas": [
+        "PR = MN = ON - OM = x_2 - x_1",
+        "QR = NQ - NR = NQ - MP = y_2 - y_1",
+        "PQR",
+        "PQ",
+        "PQ^2 = PR^2 + QR^2",
+        "PQ = \\pm \\sqrt{PR^2 + QR^2}",
+        "PQ = \\pm \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}",
+        "\\therefore P",
+        "Q",
+        "PQ = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}"
+      ],
+      "pdfPageStart": 246,
+      "pdfPageEnd": 246,
+      "printedPageStart": 241,
+      "printedPageEnd": 241,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যেহেতু দূরত্ব সবসময় অঋণাত্মক হয় সেহেতু ঋণাত্মক মান পরিহার করা হয়েছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 246,
+      "pdfPageEnd": 246,
+      "printedPageStart": 241,
+      "printedPageEnd": 241,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার একই নিয়মে $Q$ বিন্দু হতে $P$ বিন্দুর দূরত্ব,",
+      "image": null,
+      "formulas": [
+        "Q",
+        "P"
+      ],
+      "pdfPageStart": 246,
+      "pdfPageEnd": 246,
+      "printedPageStart": 241,
+      "printedPageEnd": 241,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ফর্মা-৩১, উচ্চতর গণিত, ৯ম-১০ম শ্রেণি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 246,
+      "pdfPageEnd": 246,
+      "printedPageStart": 241,
+      "printedPageEnd": 241,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p008",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$QP = \\sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2} = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$",
+      "image": null,
+      "formulas": [
+        "QP = \\sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2} = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}"
+      ],
+      "pdfPageStart": 247,
+      "pdfPageEnd": 247,
+      "printedPageStart": 242,
+      "printedPageEnd": 242,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore PQ = QP$।",
+      "image": null,
+      "formulas": [
+        "\\therefore PQ = QP"
+      ],
+      "pdfPageStart": 247,
+      "pdfPageEnd": 247,
+      "printedPageStart": 242,
+      "printedPageEnd": 242,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$P$ বিন্দু হতে $Q$ বিন্দু বা $Q$ বিন্দু হতে $P$ বিন্দুর দূরত্ব সমান।",
+      "image": null,
+      "formulas": [
+        "P",
+        "Q",
+        "Q",
+        "P"
+      ],
+      "pdfPageStart": 247,
+      "pdfPageEnd": 247,
+      "printedPageStart": 242,
+      "printedPageEnd": 242,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ $PQ = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} = QP$",
+      "image": null,
+      "formulas": [
+        "PQ = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2} = QP"
+      ],
+      "pdfPageStart": 247,
+      "pdfPageEnd": 247,
+      "printedPageStart": 242,
+      "printedPageEnd": 242,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**অনুসিদ্ধান্ত ১.** মূলবিন্দু $(0, 0)$ হতে সমতলে অবস্থিত যেকোনো বিন্দু $P(x, y)$ এর দূরত্ব",
+      "image": null,
+      "formulas": [
+        "(0, 0)",
+        "P(x, y)"
+      ],
+      "pdfPageStart": 247,
+      "pdfPageEnd": 247,
+      "printedPageStart": 242,
+      "printedPageEnd": 242,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p013",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$PQ = \\sqrt{(x - 0)^2 + (y - 0)^2} = \\sqrt{x^2 + y^2}$$",
+      "image": null,
+      "formulas": [
+        "PQ = \\sqrt{(x - 0)^2 + (y - 0)^2} = \\sqrt{x^2 + y^2}"
+      ],
+      "pdfPageStart": 247,
+      "pdfPageEnd": 247,
+      "printedPageStart": 242,
+      "printedPageEnd": 242,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১.** $(1, 1)$ এবং $(2, 2)$ বিন্দু দুটি একটি সমতলে চিহ্নিত কর। এদের মধ্যবর্তী দূরত্ব নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "(1, 1)",
+        "(2, 2)"
+      ],
+      "pdfPageStart": 247,
+      "pdfPageEnd": 247,
+      "printedPageStart": 242,
+      "printedPageEnd": 242,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** ধরি, $P(1, 1)$ এবং $Q(2, 2)$ প্রদত্ত বিন্দুদ্বয়। চিহ্রে, $xy$ সমতলে বিন্দুদ্বয়কে চিহ্নিত করা হলো। বিন্দুদ্বয়ের মধ্যবর্তী দূরত্ব,",
+      "image": null,
+      "formulas": [
+        "P(1, 1)",
+        "Q(2, 2)",
+        "xy"
+      ],
+      "pdfPageStart": 247,
+      "pdfPageEnd": 247,
+      "printedPageStart": 242,
+      "printedPageEnd": 242,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$$PQ = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$$\n$$= \\sqrt{(2 - 1)^2 + (2 - 1)^2}$$\n$$= \\sqrt{1^2 + 1^2}$$\n$$= \\sqrt{1 + 1} = \\sqrt{2}$$",
+      "image": null,
+      "formulas": [
+        "PQ = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}",
+        "= \\sqrt{(2 - 1)^2 + (2 - 1)^2}",
+        "= \\sqrt{1^2 + 1^2}",
+        "= \\sqrt{1 + 1} = \\sqrt{2}"
+      ],
+      "pdfPageStart": 247,
+      "pdfPageEnd": 247,
+      "printedPageStart": 242,
+      "printedPageEnd": 242,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p017",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane showing points P(1,1) and Q(2,2)",
+      "image": "p247-page_4_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 247,
+      "pdfPageEnd": 247,
+      "printedPageStart": 242,
+      "printedPageEnd": 242,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২.** মূলবিন্দু $O(0, 0)$ এবং অপর দুটি বিন্দু $P(3, 0)$ ও $Q(0, 3)$ সমতলে চিহ্নিত কর। প্রত্যেকের মধ্যবর্তী দূরত্ব নির্ণয় করো। তিনটি বিন্দু যোগ করলে যে জ্যামিতিক চিত্র অঙ্কিত হয় তার নাম কি এবং কেন?",
+      "image": null,
+      "formulas": [
+        "O(0, 0)",
+        "P(3, 0)",
+        "Q(0, 3)"
+      ],
+      "pdfPageStart": 247,
+      "pdfPageEnd": 247,
+      "printedPageStart": 242,
+      "printedPageEnd": 242,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** বিন্দু তিনটির অবস্থান সমতলে দেখানো হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 247,
+      "pdfPageEnd": 247,
+      "printedPageStart": 242,
+      "printedPageEnd": 242,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "দূরত্ব $OP = \\sqrt{(3 - 0)^2 + (0 - 0)^2}$\n$= \\sqrt{3^2 + 0^2} = \\sqrt{3^2} = 3$ একক",
+      "image": null,
+      "formulas": [
+        "OP = \\sqrt{(3 - 0)^2 + (0 - 0)^2}",
+        "= \\sqrt{3^2 + 0^2} = \\sqrt{3^2} = 3"
+      ],
+      "pdfPageStart": 247,
+      "pdfPageEnd": 247,
+      "printedPageStart": 242,
+      "printedPageEnd": 242,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "দূরত্ব $OQ = \\sqrt{(0 - 0)^2 + (3 - 0)^2}$\n$= \\sqrt{0^2 + 3^2} = \\sqrt{3^2} = 3$ একক",
+      "image": null,
+      "formulas": [
+        "OQ = \\sqrt{(0 - 0)^2 + (3 - 0)^2}",
+        "= \\sqrt{0^2 + 3^2} = \\sqrt{3^2} = 3"
+      ],
+      "pdfPageStart": 247,
+      "pdfPageEnd": 247,
+      "printedPageStart": 242,
+      "printedPageEnd": 242,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "দূরত্ব $PQ = \\sqrt{(3 - 0)^2 + (0 - 3)^2}$\n$= \\sqrt{9 + 9} = \\sqrt{18} = 3\\sqrt{2}$ একক",
+      "image": null,
+      "formulas": [
+        "PQ = \\sqrt{(3 - 0)^2 + (0 - 3)^2}",
+        "= \\sqrt{9 + 9} = \\sqrt{18} = 3\\sqrt{2}"
+      ],
+      "pdfPageStart": 247,
+      "pdfPageEnd": 247,
+      "printedPageStart": 242,
+      "printedPageEnd": 242,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "জ্যামিতিক চিত্রটির নাম সমদ্বিবাহু ত্রিভুজ কারণ এর দুই বাহু $OP$ এবং $OQ$ এর দৈর্ঘ্য সমান।",
+      "image": null,
+      "formulas": [
+        "OP",
+        "OQ"
+      ],
+      "pdfPageStart": 247,
+      "pdfPageEnd": 247,
+      "printedPageStart": 242,
+      "printedPageEnd": 242,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p024",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane showing points P(3,0), Q(0,3), and O(0,0)",
+      "image": "p247-page_4_chart_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 247,
+      "pdfPageEnd": 247,
+      "printedPageStart": 242,
+      "printedPageEnd": 242,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p025",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৩.** একটি ত্রিভুজের তিনটি শীর্ষবিন্দু যথাক্রমে $A(2, 0)$, $B(7, 0)$ ও $C(3, 4)$। সমতলে এদের অবস্থান দেখাও এবং ত্রিভুজটি অঙ্কন কর। ত্রিভুজটির পরিসীমা পাঁচ দশমিক স্থান পর্যন্ত নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "A(2, 0)",
+        "B(7, 0)",
+        "C(3, 4)"
+      ],
+      "pdfPageStart": 247,
+      "pdfPageEnd": 247,
+      "printedPageStart": 242,
+      "printedPageEnd": 242,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p026",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $xy$ সমতলে $A(2, 0)$, $B(7, 0)$ ও $C(3, 4)$ এর অবস্থান দেখানো হলো। $ABC$ ত্রিভুজের,",
+      "image": null,
+      "formulas": [
+        "xy",
+        "A(2, 0)",
+        "B(7, 0)",
+        "C(3, 4)",
+        "ABC"
+      ],
+      "pdfPageStart": 248,
+      "pdfPageEnd": 248,
+      "printedPageStart": 243,
+      "printedPageEnd": 243,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p027",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A coordinate plane showing a triangle with vertices A(2, 0), B(7, 0), and C(3, 4). The sides are labeled a, b, and c.",
+      "image": "p248-page_5_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 248,
+      "pdfPageEnd": 248,
+      "printedPageStart": 243,
+      "printedPageEnd": 243,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p028",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$AB$ বাহুর দৈর্ঘ্য $= \\sqrt{(7 - 2)^2 + (0 - 0)^2}$\n$= \\sqrt{5^2} = 5$ একক\n$BC$ বাহুর দৈর্ঘ্য $= \\sqrt{(3 - 7)^2 + (4 - 0)^2}$\n$= \\sqrt{(-4)^2 + 4^2} = \\sqrt{16 + 16} = 4\\sqrt{2}$ একক\n$AC$ বাহুর দৈর্ঘ্য $= \\sqrt{(3 - 2)^2 + (4 - 0)^2}$\n$= \\sqrt{1^2 + 4^2} = \\sqrt{17}$ একক\n$\\therefore$ ত্রিভুজটির পরিসীমা $= (AB + BC + AC)$\n$[বাহুগুলোর দৈর্ঘ্যের সমষ্টি]$\n$= (5 + 4\\sqrt{2} + \\sqrt{17})$ একক $= 14.77996$ একক\n(প্রায়)",
+      "image": null,
+      "formulas": [
+        "AB",
+        "= \\sqrt{(7 - 2)^2 + (0 - 0)^2}",
+        "= \\sqrt{5^2} = 5",
+        "BC",
+        "= \\sqrt{(3 - 7)^2 + (4 - 0)^2}",
+        "= \\sqrt{(-4)^2 + 4^2} = \\sqrt{16 + 16} = 4\\sqrt{2}",
+        "AC",
+        "= \\sqrt{(3 - 2)^2 + (4 - 0)^2}",
+        "= \\sqrt{1^2 + 4^2} = \\sqrt{17}",
+        "\\therefore",
+        "= (AB + BC + AC)",
+        "[বাহুগুলোর দৈর্ঘ্যের সমষ্টি]",
+        "= (5 + 4\\sqrt{2} + \\sqrt{17})",
+        "= 14.77996"
+      ],
+      "pdfPageStart": 248,
+      "pdfPageEnd": 248,
+      "printedPageStart": 243,
+      "printedPageEnd": 243,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p029",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৪.** দেখাও যে, $(0, -1)$, $(-2, 3)$, $(6, 7)$ এবং $(8, 3)$ বিন্দুগুলো একটি আয়তক্ষেত্রের চারটি শীর্ষবিন্দু।",
+      "image": null,
+      "formulas": [
+        "(0, -1)",
+        "(-2, 3)",
+        "(6, 7)",
+        "(8, 3)"
+      ],
+      "pdfPageStart": 248,
+      "pdfPageEnd": 248,
+      "printedPageStart": 243,
+      "printedPageEnd": 243,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p030",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** মনে করি, $A(0, -1)$, $B(-2, 3)$, $C(6, 7)$ এবং $D(8, 3)$ প্রদত্ত বিন্দুসমূহ। $xy$ সমতলে এদের অবস্থান দেখানো হলো।",
+      "image": null,
+      "formulas": [
+        "A(0, -1)",
+        "B(-2, 3)",
+        "C(6, 7)",
+        "D(8, 3)",
+        "xy"
+      ],
+      "pdfPageStart": 248,
+      "pdfPageEnd": 248,
+      "printedPageStart": 243,
+      "printedPageEnd": 243,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p031",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A coordinate plane showing a quadrilateral with vertices A(0, -1), B(-2, 3), C(6, 7), and D(8, 3).",
+      "image": "p248-page_5_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 248,
+      "pdfPageEnd": 248,
+      "printedPageStart": 243,
+      "printedPageEnd": 243,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p032",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$AB$ বাহুর দৈর্ঘ্য $= \\sqrt{(-2 - 0)^2 + (3 - (-1))^2}$\n$= \\sqrt{(-2)^2 + (4)^2} = \\sqrt{4 + 16} = 2\\sqrt{5}$ একক\n$CD$ বাহুর দৈর্ঘ্য $= \\sqrt{(8 - 6)^2 + (3 - 7)^2}$\n$= \\sqrt{4 + 16} = 2\\sqrt{5}$ একক\n$\\therefore AB$ বাহুর দৈর্ঘ্য $= CD$ বাহুর দৈর্ঘ্য\nআবার,\n$AD$ বাহুর দৈর্ঘ্য $= \\sqrt{(8 - 0)^2 + (3 - (-1))^2}$\n$= \\sqrt{8^2 + 4^2} = \\sqrt{80} = 4\\sqrt{5}$ একক\n$BC$ বাহুর দৈর্ঘ্য $= \\sqrt{(6 - (-2))^2 + (7 - 3)^2}$\n$= \\sqrt{8^2 + 4^2} = \\sqrt{80} = 4\\sqrt{5}$ একক\n$\\therefore AD$ বাহুর দৈর্ঘ্য $= BC$ বাহুর দৈর্ঘ্য\n$\\therefore$ বিপরীত বাহুগুলোর দৈর্ঘ্য সমান।\nসুতরাং বলা যায়, $ABCD$ একটি সামানত্রিক।",
+      "image": null,
+      "formulas": [
+        "AB",
+        "= \\sqrt{(-2 - 0)^2 + (3 - (-1))^2}",
+        "= \\sqrt{(-2)^2 + (4)^2} = \\sqrt{4 + 16} = 2\\sqrt{5}",
+        "CD",
+        "= \\sqrt{(8 - 6)^2 + (3 - 7)^2}",
+        "= \\sqrt{4 + 16} = 2\\sqrt{5}",
+        "\\therefore AB",
+        "= CD",
+        "AD",
+        "= \\sqrt{(8 - 0)^2 + (3 - (-1))^2}",
+        "= \\sqrt{8^2 + 4^2} = \\sqrt{80} = 4\\sqrt{5}",
+        "BC",
+        "= \\sqrt{(6 - (-2))^2 + (7 - 3)^2}",
+        "= \\sqrt{8^2 + 4^2} = \\sqrt{80} = 4\\sqrt{5}",
+        "\\therefore AD",
+        "= BC",
+        "\\therefore",
+        "ABCD"
+      ],
+      "pdfPageStart": 248,
+      "pdfPageEnd": 248,
+      "printedPageStart": 243,
+      "printedPageEnd": 243,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p033",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$BD$ কর্ণের দৈর্ঘ্য $= \\sqrt{(8 - (-2))^2 + (3 - 3)^2} = \\sqrt{10^2 + (0)^2} = \\sqrt{100} = 10$ একক",
+      "image": null,
+      "formulas": [
+        "BD",
+        "= \\sqrt{(8 - (-2))^2 + (3 - 3)^2} = \\sqrt{10^2 + (0)^2} = \\sqrt{100} = 10"
+      ],
+      "pdfPageStart": 248,
+      "pdfPageEnd": 248,
+      "printedPageStart": 243,
+      "printedPageEnd": 243,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p034",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন, $BD^2 = 100$, $AB^2 = (2\\sqrt{5})^2 = 20$, $AD^2 = (4\\sqrt{5})^2 = 80$",
+      "image": null,
+      "formulas": [
+        "BD^2 = 100",
+        "AB^2 = (2\\sqrt{5})^2 = 20",
+        "AD^2 = (4\\sqrt{5})^2 = 80"
+      ],
+      "pdfPageStart": 248,
+      "pdfPageEnd": 248,
+      "printedPageStart": 243,
+      "printedPageEnd": 243,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p035",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore AB^2 + AD^2 = 20 + 80 = 100 = BD^2$",
+      "image": null,
+      "formulas": [
+        "\\therefore AB^2 + AD^2 = 20 + 80 = 100 = BD^2"
+      ],
+      "pdfPageStart": 248,
+      "pdfPageEnd": 248,
+      "printedPageStart": 243,
+      "printedPageEnd": 243,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p036",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "২২ পীথাগোরাসের উপপাদ্য অনুযায়ী $ABD$ একটি সমকোণী ত্রিভুজ এবং $\\angle BAD$ সমকোণ। সুতরাং এ দ্বারা প্রমাণিত হলো যে, $ABCD$ একটি আয়তক্ষেত্র।",
+      "image": null,
+      "formulas": [
+        "ABD",
+        "\\angle BAD",
+        "ABCD"
+      ],
+      "pdfPageStart": 248,
+      "pdfPageEnd": 248,
+      "printedPageStart": 243,
+      "printedPageEnd": 243,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p037",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৫.** দেখাও যে, $(-3, -3)$, $(0, 0)$ ও $(3, 3)$ বিন্দু তিনটি দ্বারা কোনো ত্রিভুজ তৈরি করা যায় না।",
+      "image": null,
+      "formulas": [
+        "(-3, -3)",
+        "(0, 0)",
+        "(3, 3)"
+      ],
+      "pdfPageStart": 249,
+      "pdfPageEnd": 249,
+      "printedPageStart": 244,
+      "printedPageEnd": 244,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p038",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** ধরি, $A(-3, -3)$, $B(0, 0)$ ও $C(3, 3)$ প্রদত্ত বিন্দুসমূহ। $xy$ সমতলে তাদের অবস্থান দেখানো হলো।",
+      "image": null,
+      "formulas": [
+        "A(-3, -3)",
+        "B(0, 0)",
+        "C(3, 3)",
+        "xy"
+      ],
+      "pdfPageStart": 249,
+      "pdfPageEnd": 249,
+      "printedPageStart": 244,
+      "printedPageEnd": 244,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p039",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা জানি, যেকোনো ত্রিভুজের দুই বাহুর সমষ্টি তৃতীয় বাহু অপেক্ষা বড়। ধরে নিই $ABC$ একটি ত্রিভুজ এবং $AB$, $BC$ ও $AC$ এর তিনটি বাহু।",
+      "image": null,
+      "formulas": [
+        "ABC",
+        "AB",
+        "BC",
+        "AC"
+      ],
+      "pdfPageStart": 249,
+      "pdfPageEnd": 249,
+      "printedPageStart": 244,
+      "printedPageEnd": 244,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p040",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$AB$ বাহুর দৈর্ঘ্য $= \\sqrt{(0 - (-3))^2 + (0 - (-3))^2}$\n$= \\sqrt{3^2 + 3^2} = \\sqrt{18} = 3\\sqrt{2}$ একক",
+      "image": null,
+      "formulas": [
+        "AB",
+        "= \\sqrt{(0 - (-3))^2 + (0 - (-3))^2}",
+        "= \\sqrt{3^2 + 3^2} = \\sqrt{18} = 3\\sqrt{2}"
+      ],
+      "pdfPageStart": 249,
+      "pdfPageEnd": 249,
+      "printedPageStart": 244,
+      "printedPageEnd": 244,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p041",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$BC$ বাহুর দৈর্ঘ্য $= \\sqrt{(3 - 0)^2 + (3 - 0)^2}$\n$= \\sqrt{3^2 + 3^2} = \\sqrt{18} = 3\\sqrt{2}$ একক",
+      "image": null,
+      "formulas": [
+        "BC",
+        "= \\sqrt{(3 - 0)^2 + (3 - 0)^2}",
+        "= \\sqrt{3^2 + 3^2} = \\sqrt{18} = 3\\sqrt{2}"
+      ],
+      "pdfPageStart": 249,
+      "pdfPageEnd": 249,
+      "printedPageStart": 244,
+      "printedPageEnd": 244,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p042",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$AC$ বাহুর দৈর্ঘ্য $= \\sqrt{(3 + 3)^2 + (3 + 3)^2}$\n$= \\sqrt{72} = 6\\sqrt{2}$ একক",
+      "image": null,
+      "formulas": [
+        "AC",
+        "= \\sqrt{(3 + 3)^2 + (3 + 3)^2}",
+        "= \\sqrt{72} = 6\\sqrt{2}"
+      ],
+      "pdfPageStart": 249,
+      "pdfPageEnd": 249,
+      "printedPageStart": 244,
+      "printedPageEnd": 244,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p043",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane showing points A(-3, -3), B(0, 0), and C(3, 3)",
+      "image": "p249-page_6_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 249,
+      "pdfPageEnd": 249,
+      "printedPageStart": 244,
+      "printedPageEnd": 244,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p044",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং $AB + BC = 3\\sqrt{2} + 3\\sqrt{2} = 6\\sqrt{2} = AC$ অর্থাৎ দুই বাহুর সমষ্টি তৃতীয় বাহুর সমান। সুতরাং এদের দ্বারা কোনো ত্রিভুজ গঠন সম্ভব নয়।",
+      "image": null,
+      "formulas": [
+        "AB + BC = 3\\sqrt{2} + 3\\sqrt{2} = 6\\sqrt{2} = AC"
+      ],
+      "pdfPageStart": 249,
+      "pdfPageEnd": 249,
+      "printedPageStart": 244,
+      "printedPageEnd": 244,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.2-p045",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার $xy$ সমতলে অবস্থান দেখে বলা যায় যে বিন্দু তিনটি একই সরলরেখায় অবস্থান করে এবং এদের দ্বারা কোনো ত্রিভুজ গঠন সম্ভব নয়।",
+      "image": null,
+      "formulas": [
+        "xy"
+      ],
+      "pdfPageStart": 249,
+      "pdfPageEnd": 249,
+      "printedPageStart": 244,
+      "printedPageEnd": 244,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

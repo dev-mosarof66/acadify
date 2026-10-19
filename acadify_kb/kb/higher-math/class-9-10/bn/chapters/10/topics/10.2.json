@@ -1,0 +1,1285 @@
+{
+  "id": "higher-math-9-10-bn-c10-t10.2",
+  "key": "10.2",
+  "title": "প্যাসকেলের ত্রিভুজের ব্যবহার",
+  "chapter": 10,
+  "ordinal": 2,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "প্যাসকেলের ত্রিভুজ থেকে আমরা দেখতে পাই এর বাম ও ডান দিকে ১ আছে। ত্রিভুজের মাঝখানের সংখ্যাগুলোর প্রত্যেকটি ঠিক উপরের দুটি সংখ্যার যোগফল। নিম্নের উদাহরণটি লক্ষ্য করলে বিষয়টি খুব সহজেই বুঝা যাবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 230,
+      "pdfPageEnd": 230,
+      "printedPageStart": 225,
+      "printedPageEnd": 225,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$n = 5$ ও $n = 6$ এর জন্য দ্বিপদী সহগগুলো হবে নিম্নরূপ:",
+      "image": null,
+      "formulas": [
+        "n = 5",
+        "n = 6"
+      ],
+      "pdfPageStart": 230,
+      "pdfPageEnd": 230,
+      "printedPageStart": 225,
+      "printedPageEnd": 225,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p003",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: Pascal's triangle rows n=5 and n=6",
+      "image": "p230-page_3_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 230,
+      "pdfPageEnd": 230,
+      "printedPageStart": 225,
+      "printedPageEnd": 225,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p004",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\begin{array}{ccccccc}\nn = 5 \\rightarrow & & & 1 & & 5 & & 10 \\\\\n& & & \\nearrow & & \\nearrow & & \\nearrow \\\\\n& & & & & 10 & & 10 \\\\\n& & & \\searrow & & \\searrow & & \\searrow \\\\\nn = 6 \\rightarrow & 1 & & 6 & & 15 & & 20 \\\\\n& & & \\nearrow & & \\nearrow & & \\nearrow \\\\\n& & & & & 15 & & 15 \\\\\n& & & \\searrow & & \\searrow & & \\searrow \\\\\n& & & & & 6 & & 6 \\\\\n& & & & & & & 1\n\\end{array}$$",
+      "image": null,
+      "formulas": [
+        "\\begin{array}{ccccccc}\nn = 5 \\rightarrow & & & 1 & & 5 & & 10 \\\\\n& & & \\nearrow & & \\nearrow & & \\nearrow \\\\\n& & & & & 10 & & 10 \\\\\n& & & \\searrow & & \\searrow & & \\searrow \\\\\nn = 6 \\rightarrow & 1 & & 6 & & 15 & & 20 \\\\\n& & & \\nearrow & & \\nearrow & & \\nearrow \\\\\n& & & & & 15 & & 15 \\\\\n& & & \\searrow & & \\searrow & & \\searrow \\\\\n& & & & & 6 & & 6 \\\\\n& & & & & & & 1\n\\end{array}"
+      ],
+      "pdfPageStart": 230,
+      "pdfPageEnd": 230,
+      "printedPageStart": 225,
+      "printedPageEnd": 225,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p005",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\therefore (1 + y)^5 = 1 + 5y + 10y^2 + 10y^3 + 5y^4 + y^5$$",
+      "image": null,
+      "formulas": [
+        "\\therefore (1 + y)^5 = 1 + 5y + 10y^2 + 10y^3 + 5y^4 + y^5"
+      ],
+      "pdfPageStart": 230,
+      "pdfPageEnd": 230,
+      "printedPageStart": 225,
+      "printedPageEnd": 225,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p006",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\therefore (1 + y)^6 = 1 + 6y + 15y^2 + 20y^3 + 15y^4 + 6y^5 + y^6$$",
+      "image": null,
+      "formulas": [
+        "\\therefore (1 + y)^6 = 1 + 6y + 15y^2 + 20y^3 + 15y^4 + 6y^5 + y^6"
+      ],
+      "pdfPageStart": 230,
+      "pdfPageEnd": 230,
+      "printedPageStart": 225,
+      "printedPageEnd": 225,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এবং $(1 + y)^7 = 1 + 7y + 21y^2 + 35y^3 + 35y^4 + 21y^5 + 7y^6 + y^7$",
+      "image": null,
+      "formulas": [
+        "(1 + y)^7 = 1 + 7y + 21y^2 + 35y^3 + 35y^4 + 21y^5 + 7y^6 + y^7"
+      ],
+      "pdfPageStart": 230,
+      "pdfPageEnd": 230,
+      "printedPageStart": 225,
+      "printedPageEnd": 225,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:** নিম্নোক্ত বিস্তৃতিসমূহ নির্ণয় করো (উপরের বিস্তৃতিসমূহের সাহায্য নাও):",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 230,
+      "pdfPageEnd": 230,
+      "printedPageStart": 225,
+      "printedPageEnd": 225,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p009",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$(1 + y)^8 =$$",
+      "image": null,
+      "formulas": [
+        "(1 + y)^8 ="
+      ],
+      "pdfPageStart": 230,
+      "pdfPageEnd": 230,
+      "printedPageStart": 225,
+      "printedPageEnd": 225,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p010",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$(1 + y)^9 =$$",
+      "image": null,
+      "formulas": [
+        "(1 + y)^9 ="
+      ],
+      "pdfPageStart": 230,
+      "pdfPageEnd": 230,
+      "printedPageStart": 225,
+      "printedPageEnd": 225,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p011",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$(1 + y)^{10} =$$",
+      "image": null,
+      "formulas": [
+        "(1 + y)^{10} ="
+      ],
+      "pdfPageStart": 230,
+      "pdfPageEnd": 230,
+      "printedPageStart": 225,
+      "printedPageEnd": 225,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা যদি ভালভাবে খেয়াল করি তাহলে বুঝতে পারব এই পদ্ধতির একটি বিশেষ দূর্বলতা আছে। যেমন আমরা যদি $(1 + y)^5$ এর বিস্তৃতি জানতে চাই তাহলে $(1 + y)^4$ এর বিস্তৃতি জানা দরকার। আবার যেকোনো দ্বিপদী সহগ জানার জন্য তার ঠিক উপরের পূর্ববর্তী দুটি সহগ জানা প্রয়োজন। এই অবস্থা থেকে উত্তরনের জন্য আমরা সরাসরি দ্বিপদী সহগ নির্ণয়ের কৌশল বের করতে চাই। প্যাসকেলের ত্রিভুজ থেকে আমরা দেখতে পাই দ্বিপদী বিস্তৃতির সহগগুলো যাত $n$ এবং পদটি কোন অবস্থানে আছে তার উপর নির্ভরশীল। আমরা একটি নতুন সাংকেতিক চিহ্ন $\\binom{n}{r}$ বিবেচনা করি যেখানে $n$ যাত এবং $r$ পদের অবস্থানের সাথে সম্পর্কিত। উদাহরণস্বরূপ যদি $n = 4$ হয় তবে পদসংখ্যা হবে 5 টি। আমরা পদগুলি নিম্নোক্ত উপায়ে লিখি।",
+      "image": null,
+      "formulas": [
+        "(1 + y)^5",
+        "(1 + y)^4",
+        "n",
+        "\\binom{n}{r}",
+        "n",
+        "r",
+        "n = 4"
+      ],
+      "pdfPageStart": 230,
+      "pdfPageEnd": 230,
+      "printedPageStart": 225,
+      "printedPageEnd": 225,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যখন $n = 4$, পদসংখ্যা 5 টি: $T_1, T_2, T_3, T_4, T_5$",
+      "image": null,
+      "formulas": [
+        "n = 4",
+        "T_1, T_2, T_3, T_4, T_5"
+      ],
+      "pdfPageStart": 230,
+      "pdfPageEnd": 230,
+      "printedPageStart": 225,
+      "printedPageEnd": 225,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাদের সহগগুলি হলো: 1, 4, 6, 4, 1",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 230,
+      "pdfPageEnd": 230,
+      "printedPageStart": 225,
+      "printedPageEnd": 225,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "নতুন চিহ্ন ব্যবহার করে সহগ: $\\binom{4}{0}, \\binom{4}{1}, \\binom{4}{2}, \\binom{4}{3}, \\binom{4}{4}$ এখানে, $\\binom{4}{0} = 1$, $\\binom{4}{1} = \\frac{4}{1} = 4$, $\\binom{4}{2} = \\frac{4 \\times 3}{1 \\times 2} = 6$, $\\binom{4}{3} = \\frac{4 \\times 3 \\times 2}{1 \\times 2 \\times 3} = 4$, এবং\n$\\binom{4}{4} = \\frac{4 \\times 3 \\times 2 \\times 1}{1 \\times 2 \\times 3 \\times 4} = 1$",
+      "image": null,
+      "formulas": [
+        "\\binom{4}{0}, \\binom{4}{1}, \\binom{4}{2}, \\binom{4}{3}, \\binom{4}{4}",
+        "\\binom{4}{0} = 1",
+        "\\binom{4}{1} = \\frac{4}{1} = 4",
+        "\\binom{4}{2} = \\frac{4 \\times 3}{1 \\times 2} = 6",
+        "\\binom{4}{3} = \\frac{4 \\times 3 \\times 2}{1 \\times 2 \\times 3} = 4",
+        "\\binom{4}{4} = \\frac{4 \\times 3 \\times 2 \\times 1}{1 \\times 2 \\times 3 \\times 4} = 1"
+      ],
+      "pdfPageStart": 230,
+      "pdfPageEnd": 231,
+      "printedPageStart": 225,
+      "printedPageEnd": 226,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "[প্যাসকেলের ত্রিভুজ থেকে সহজেই বুঝতে পারবে]",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 231,
+      "pdfPageEnd": 231,
+      "printedPageStart": 226,
+      "printedPageEnd": 226,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "উল্লিখিত নতুন চিহ্নের সাহায্যে $(n = 1, 2, 3, \\dots)$ প্যাসকেলের ত্রিভুজ হবে নিচের টেবিলের অনুরূপ:",
+      "image": null,
+      "formulas": [
+        "(n = 1, 2, 3, \\dots)"
+      ],
+      "pdfPageStart": 231,
+      "pdfPageEnd": 231,
+      "printedPageStart": 226,
+      "printedPageEnd": 226,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p018",
+      "kind": "table",
+      "section": null,
+      "caption": null,
+      "body": "<table><tr><td><em>n</em> = 1</td><td></td><td><sup>1</sup><br />0</td><td><sup>1</sup><br />1</td><td></td></tr>\n<tr><td><em>n</em> = 2</td><td></td><td><sup>2</sup><br />0</td><td><sup>2</sup><br />1</td><td><sup>2</sup><br />2</td></tr>\n<tr><td><em>n</em> = 3</td><td></td><td><sup>3</sup><br />0</td><td><sup>3</sup><br />1</td><td><sup>3</sup><br />2</td><td><sup>3</sup><br />3</td></tr>\n<tr><td><em>n</em> = 4</td><td></td><td><sup>4</sup><br />0</td><td><sup>4</sup><br />1</td><td><sup>4</sup><br />2</td><td><sup>4</sup><br />3</td><td><sup>4</sup><br />4</td></tr>\n<tr><td><em>n</em> = 5</td><td></td><td><sup>5</sup><br />0</td><td><sup>5</sup><br />1</td><td><sup>5</sup><br />2</td><td><sup>5</sup><br />3</td><td><sup>5</sup><br />4</td><td><sup>5</sup><br />5</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 231,
+      "pdfPageEnd": 231,
+      "printedPageStart": 226,
+      "printedPageEnd": 226,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং উপরের ত্রিভুজ থেকে আমরা খুব সহজেই বলতে পারি $(1 + y)^4$ এর বিস্তৃতির তৃতীয় ($T_{2+1}$) পদের সহগ $\\binom{4}{2}$ এবং $(1 + y)^5$ এর বিস্তৃতির তৃতীয় ($T_{2+1}$) ও চতুর্থ ($T_{3+1}$) পদের সহগ যথাক্রমে $\\binom{5}{2}$ এবং $\\binom{5}{3}$। সাধারণভাবে $(1 + y)^n$ এর বিস্তৃতির $(r + 1)$ তম পদ ($T_{r+1}$) এর সহগ $\\binom{n}{r}$।",
+      "image": null,
+      "formulas": [
+        "(1 + y)^4",
+        "T_{2+1}",
+        "\\binom{4}{2}",
+        "(1 + y)^5",
+        "T_{2+1}",
+        "T_{3+1}",
+        "\\binom{5}{2}",
+        "\\binom{5}{3}",
+        "(1 + y)^n",
+        "(r + 1)",
+        "T_{r+1}",
+        "\\binom{n}{r}"
+      ],
+      "pdfPageStart": 231,
+      "pdfPageEnd": 231,
+      "printedPageStart": 226,
+      "printedPageEnd": 226,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন, $\\binom{n}{r}$ এর মান কত তা জানার জন্য আবারো প্যাসকেলের ত্রিভুজ লক্ষ্য করি। প্যাসকেলের ত্রিভুজের দুটি হেলানো পার্শ্ব থেকে আমরা দেখতে পাই,",
+      "image": null,
+      "formulas": [
+        "\\binom{n}{r}"
+      ],
+      "pdfPageStart": 231,
+      "pdfPageEnd": 231,
+      "printedPageStart": 226,
+      "printedPageEnd": 226,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p021",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\binom{1}{0} = 1, \\binom{2}{0} = 1, \\binom{3}{0} = 1, \\dots, \\binom{n}{0} = 1$$",
+      "image": null,
+      "formulas": [
+        "\\binom{1}{0} = 1, \\binom{2}{0} = 1, \\binom{3}{0} = 1, \\dots, \\binom{n}{0} = 1"
+      ],
+      "pdfPageStart": 231,
+      "pdfPageEnd": 231,
+      "printedPageStart": 226,
+      "printedPageEnd": 226,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p022",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\binom{1}{1} = 1, \\binom{2}{1} = 2, \\binom{3}{1} = 3, \\dots, \\binom{n}{1} = n$$",
+      "image": null,
+      "formulas": [
+        "\\binom{1}{1} = 1, \\binom{2}{1} = 2, \\binom{3}{1} = 3, \\dots, \\binom{n}{1} = n"
+      ],
+      "pdfPageStart": 231,
+      "pdfPageEnd": 231,
+      "printedPageStart": 226,
+      "printedPageEnd": 226,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা $n = 5$ ধরে পাই",
+      "image": null,
+      "formulas": [
+        "n = 5"
+      ],
+      "pdfPageStart": 231,
+      "pdfPageEnd": 231,
+      "printedPageStart": 226,
+      "printedPageEnd": 226,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p024",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\binom{5}{0} = 1, \\binom{5}{1} = 5, \\binom{5}{2} = \\frac{5 \\times 4}{1 \\times 2} = 10$$",
+      "image": null,
+      "formulas": [
+        "\\binom{5}{0} = 1, \\binom{5}{1} = 5, \\binom{5}{2} = \\frac{5 \\times 4}{1 \\times 2} = 10"
+      ],
+      "pdfPageStart": 231,
+      "pdfPageEnd": 231,
+      "printedPageStart": 226,
+      "printedPageEnd": 226,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p025",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\binom{5}{3} = \\frac{5 \\times 4 \\times 3}{1 \\times 2 \\times 3} = 10, \\binom{5}{4} = \\frac{5 \\times 4 \\times 3 \\times 2}{1 \\times 2 \\times 3 \\times 4} = 5$$",
+      "image": null,
+      "formulas": [
+        "\\binom{5}{3} = \\frac{5 \\times 4 \\times 3}{1 \\times 2 \\times 3} = 10, \\binom{5}{4} = \\frac{5 \\times 4 \\times 3 \\times 2}{1 \\times 2 \\times 3 \\times 4} = 5"
+      ],
+      "pdfPageStart": 231,
+      "pdfPageEnd": 231,
+      "printedPageStart": 226,
+      "printedPageEnd": 226,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p026",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এবং $\\binom{5}{5} = \\frac{5 \\times 4 \\times 3 \\times 2 \\times 1}{1 \\times 2 \\times 3 \\times 4 \\times 5} = 1$",
+      "image": null,
+      "formulas": [
+        "\\binom{5}{5} = \\frac{5 \\times 4 \\times 3 \\times 2 \\times 1}{1 \\times 2 \\times 3 \\times 4 \\times 5} = 1"
+      ],
+      "pdfPageStart": 232,
+      "pdfPageEnd": 232,
+      "printedPageStart": 227,
+      "printedPageEnd": 227,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p027",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং $\\binom{5}{3}$ এর মানের ক্ষেত্রে বলা যায়, $\\binom{5}{3} = \\frac{5 \\times (5 - 1) \\times (5 - 2)}{1 \\times 2 \\times 3}$ এবং",
+      "image": null,
+      "formulas": [
+        "\\binom{5}{3}",
+        "\\binom{5}{3} = \\frac{5 \\times (5 - 1) \\times (5 - 2)}{1 \\times 2 \\times 3}"
+      ],
+      "pdfPageStart": 232,
+      "pdfPageEnd": 232,
+      "printedPageStart": 227,
+      "printedPageEnd": 227,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p028",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\binom{6}{4} = \\frac{6 \\times (6 - 1) \\times (6 - 2) \\times (6 - 3)}{1 \\times 2 \\times 3 \\times 4}$",
+      "image": null,
+      "formulas": [
+        "\\binom{6}{4} = \\frac{6 \\times (6 - 1) \\times (6 - 2) \\times (6 - 3)}{1 \\times 2 \\times 3 \\times 4}"
+      ],
+      "pdfPageStart": 232,
+      "pdfPageEnd": 232,
+      "printedPageStart": 227,
+      "printedPageEnd": 227,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p029",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সাধারণভাবে আমরা লিখতে পারি,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 232,
+      "pdfPageEnd": 232,
+      "printedPageStart": 227,
+      "printedPageEnd": 227,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p030",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\binom{n}{0} = 1, \\binom{n}{n} = 1$",
+      "image": null,
+      "formulas": [
+        "\\binom{n}{0} = 1, \\binom{n}{n} = 1"
+      ],
+      "pdfPageStart": 232,
+      "pdfPageEnd": 232,
+      "printedPageStart": 227,
+      "printedPageEnd": 227,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p031",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\binom{n}{r} = \\frac{n \\times (n - 1) \\times (n - 2) \\cdots (n - r + 1)}{1 \\times 2 \\times 3 \\times 4 \\cdots \\times r}$",
+      "image": null,
+      "formulas": [
+        "\\binom{n}{r} = \\frac{n \\times (n - 1) \\times (n - 2) \\cdots (n - r + 1)}{1 \\times 2 \\times 3 \\times 4 \\cdots \\times r}"
+      ],
+      "pdfPageStart": 232,
+      "pdfPageEnd": 232,
+      "printedPageStart": 227,
+      "printedPageEnd": 227,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p032",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "উপরোক্ত চিহ্ন ব্যবহার করে পাই,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 232,
+      "pdfPageEnd": 232,
+      "printedPageStart": 227,
+      "printedPageEnd": 227,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p033",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$(1 + y)^4 = \\binom{4}{0}y^0 + \\binom{4}{1}y^1 + \\binom{4}{2}y^2 + \\binom{4}{3}y^3 + \\binom{4}{4}y^4$\n$= 1 + 4y + 6y^2 + 4y^3 + y^4$",
+      "image": null,
+      "formulas": [
+        "(1 + y)^4 = \\binom{4}{0}y^0 + \\binom{4}{1}y^1 + \\binom{4}{2}y^2 + \\binom{4}{3}y^3 + \\binom{4}{4}y^4",
+        "= 1 + 4y + 6y^2 + 4y^3 + y^4"
+      ],
+      "pdfPageStart": 232,
+      "pdfPageEnd": 232,
+      "printedPageStart": 227,
+      "printedPageEnd": 227,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p034",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$(1 + y)^5 = \\binom{5}{0}y^0 + \\binom{5}{1}y^1 + \\binom{5}{2}y^2 + \\binom{5}{3}y^3 + \\binom{5}{4}y^4 + \\binom{5}{5}y^5$\n$= 1 + 5y + 10y^2 + 10y^3 + 5y^4 + y^5$",
+      "image": null,
+      "formulas": [
+        "(1 + y)^5 = \\binom{5}{0}y^0 + \\binom{5}{1}y^1 + \\binom{5}{2}y^2 + \\binom{5}{3}y^3 + \\binom{5}{4}y^4 + \\binom{5}{5}y^5",
+        "= 1 + 5y + 10y^2 + 10y^3 + 5y^4 + y^5"
+      ],
+      "pdfPageStart": 232,
+      "pdfPageEnd": 232,
+      "printedPageStart": 227,
+      "printedPageEnd": 227,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p035",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এবং $(1 + y)^n$ এর বিস্তৃতি",
+      "image": null,
+      "formulas": [
+        "(1 + y)^n"
+      ],
+      "pdfPageStart": 232,
+      "pdfPageEnd": 232,
+      "printedPageStart": 227,
+      "printedPageEnd": 227,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p036",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$(1 + y)^n = \\binom{n}{0}y^0 + \\binom{n}{1}y^1 + \\binom{n}{2}y^2 + \\binom{n}{3}y^3 + \\cdots + \\binom{n}{n}y^n$\n$= 1 \\cdot y^0 + ny^1 + \\frac{n(n - 1)}{1 \\cdot 2}y^2 + \\frac{n(n - 1)(n - 2)}{1 \\cdot 2 \\cdot 3}y^3 + \\cdots + 1 \\cdot y^n$",
+      "image": null,
+      "formulas": [
+        "(1 + y)^n = \\binom{n}{0}y^0 + \\binom{n}{1}y^1 + \\binom{n}{2}y^2 + \\binom{n}{3}y^3 + \\cdots + \\binom{n}{n}y^n",
+        "= 1 \\cdot y^0 + ny^1 + \\frac{n(n - 1)}{1 \\cdot 2}y^2 + \\frac{n(n - 1)(n - 2)}{1 \\cdot 2 \\cdot 3}y^3 + \\cdots + 1 \\cdot y^n"
+      ],
+      "pdfPageStart": 232,
+      "pdfPageEnd": 232,
+      "printedPageStart": 227,
+      "printedPageEnd": 227,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p037",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore (1 + y)^n = 1 + ny + \\frac{n(n - 1)}{1 \\cdot 2}y^2 + \\frac{n(n - 1)(n - 2)}{1 \\cdot 2 \\cdot 3}y^3 + \\cdots + y^n$",
+      "image": null,
+      "formulas": [
+        "\\therefore (1 + y)^n = 1 + ny + \\frac{n(n - 1)}{1 \\cdot 2}y^2 + \\frac{n(n - 1)(n - 2)}{1 \\cdot 2 \\cdot 3}y^3 + \\cdots + y^n"
+      ],
+      "pdfPageStart": 232,
+      "pdfPageEnd": 232,
+      "printedPageStart": 227,
+      "printedPageEnd": 227,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p038",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১.** $(1 + 3x)^5$ কে বিস্তৃত করো।",
+      "image": null,
+      "formulas": [
+        "(1 + 3x)^5"
+      ],
+      "pdfPageStart": 232,
+      "pdfPageEnd": 232,
+      "printedPageStart": 227,
+      "printedPageEnd": 227,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p039",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** প্যাসকেলের ত্রিভুজের সাহায্যে -",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 232,
+      "pdfPageEnd": 232,
+      "printedPageStart": 227,
+      "printedPageEnd": 227,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p040",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "```text\n                  1\n                1     1\n              1     2     1\n            1     3     3     1\n          1     4     6     4     1\n        1     5    10    10     5     1\n``` $$(1 + 3x)^5 = 1 + 5(3x) + 10(3x)^2 + 10(3x)^3 + 5(3x)^4 + 1(3x)^5$$\n$$= 1 + 15x + 90x^2 + 270x^3 + 405x^4 + 243x^5$$",
+      "image": null,
+      "formulas": [
+        "(1 + 3x)^5 = 1 + 5(3x) + 10(3x)^2 + 10(3x)^3 + 5(3x)^4 + 1(3x)^5",
+        "= 1 + 15x + 90x^2 + 270x^3 + 405x^4 + 243x^5"
+      ],
+      "pdfPageStart": 232,
+      "pdfPageEnd": 233,
+      "printedPageStart": 227,
+      "printedPageEnd": 228,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p041",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "দ্বিপদী উপপাদ্যের সাহায্যে -",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 233,
+      "pdfPageEnd": 233,
+      "printedPageStart": 228,
+      "printedPageEnd": 228,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p042",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$$(1 + 3x)^5 = \\binom{5}{0}(3x)^0 + \\binom{5}{1}(3x)^1 + \\binom{5}{2}(3x)^2 + \\binom{5}{3}(3x)^3 + \\binom{5}{4}(3x)^4$$\n$$+ \\binom{5}{5}(3x)^5$$",
+      "image": null,
+      "formulas": [
+        "(1 + 3x)^5 = \\binom{5}{0}(3x)^0 + \\binom{5}{1}(3x)^1 + \\binom{5}{2}(3x)^2 + \\binom{5}{3}(3x)^3 + \\binom{5}{4}(3x)^4",
+        "+ \\binom{5}{5}(3x)^5"
+      ],
+      "pdfPageStart": 233,
+      "pdfPageEnd": 233,
+      "printedPageStart": 228,
+      "printedPageEnd": 228,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p043",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $(1 + 3x)^5 = 1 + \\frac{5}{1}(3x) + \\frac{5 \\cdot 4}{1 \\cdot 2}(3x)^2 + \\frac{5 \\cdot 4 \\cdot 3}{1 \\cdot 2 \\cdot 3}(3x)^3 + \\frac{5 \\cdot 4 \\cdot 3 \\cdot 2}{1 \\cdot 2 \\cdot 3 \\cdot 4}(3x)^4 + 1 \\cdot (3x)^5$\n$$= 1 + 15x + 90x^2 + 270x^3 + 405x^4 + 243x^5$$",
+      "image": null,
+      "formulas": [
+        "(1 + 3x)^5 = 1 + \\frac{5}{1}(3x) + \\frac{5 \\cdot 4}{1 \\cdot 2}(3x)^2 + \\frac{5 \\cdot 4 \\cdot 3}{1 \\cdot 2 \\cdot 3}(3x)^3 + \\frac{5 \\cdot 4 \\cdot 3 \\cdot 2}{1 \\cdot 2 \\cdot 3 \\cdot 4}(3x)^4 + 1 \\cdot (3x)^5",
+        "= 1 + 15x + 90x^2 + 270x^3 + 405x^4 + 243x^5"
+      ],
+      "pdfPageStart": 233,
+      "pdfPageEnd": 233,
+      "printedPageStart": 228,
+      "printedPageEnd": 228,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p044",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২.** $(1 - 3x)^5$ কে বিস্তৃত করো।",
+      "image": null,
+      "formulas": [
+        "(1 - 3x)^5"
+      ],
+      "pdfPageStart": 233,
+      "pdfPageEnd": 233,
+      "printedPageStart": 228,
+      "printedPageEnd": 228,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p045",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** প্যাসকেলের ত্রিভুজের সাহায্যে -",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 233,
+      "pdfPageEnd": 233,
+      "printedPageStart": 228,
+      "printedPageEnd": 228,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p046",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "image: Pascal's triangle",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 233,
+      "pdfPageEnd": 233,
+      "printedPageStart": 228,
+      "printedPageEnd": 228,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p047",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$$(1 - 3x)^5 = 1 + 5(-3x) + 10(-3x)^2 + 10(-3x)^3 + 5(-3x)^4 + 1(-3x)^5$$\n$$= 1 - 15x + 90x^2 - 270x^3 + 405x^4 - 243x^5$$",
+      "image": null,
+      "formulas": [
+        "(1 - 3x)^5 = 1 + 5(-3x) + 10(-3x)^2 + 10(-3x)^3 + 5(-3x)^4 + 1(-3x)^5",
+        "= 1 - 15x + 90x^2 - 270x^3 + 405x^4 - 243x^5"
+      ],
+      "pdfPageStart": 233,
+      "pdfPageEnd": 233,
+      "printedPageStart": 228,
+      "printedPageEnd": 228,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p048",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "দ্বিপদী বিস্তৃতির সাহায্যে -",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 233,
+      "pdfPageEnd": 233,
+      "printedPageStart": 228,
+      "printedPageEnd": 228,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p049",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$$(1 - 3x)^5 = \\binom{5}{0}(-3x)^0 + \\binom{5}{1}(-3x)^1 + \\binom{5}{2}(-3x)^2 + \\binom{5}{3}(-3x)^3 + \\binom{5}{4}(-3x)^4$$\n$$+ \\binom{5}{5}(-3x)^5$$",
+      "image": null,
+      "formulas": [
+        "(1 - 3x)^5 = \\binom{5}{0}(-3x)^0 + \\binom{5}{1}(-3x)^1 + \\binom{5}{2}(-3x)^2 + \\binom{5}{3}(-3x)^3 + \\binom{5}{4}(-3x)^4",
+        "+ \\binom{5}{5}(-3x)^5"
+      ],
+      "pdfPageStart": 233,
+      "pdfPageEnd": 233,
+      "printedPageStart": 228,
+      "printedPageEnd": 228,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p050",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$$= 1 + \\frac{5}{1}(-3x) + \\frac{5 \\cdot 4}{1 \\cdot 2}(-3x)^2 + \\frac{5 \\cdot 4 \\cdot 3}{1 \\cdot 2 \\cdot 3}(-3x)^3 + \\frac{5 \\cdot 4 \\cdot 3 \\cdot 2}{1 \\cdot 2 \\cdot 3 \\cdot 4}(-3x)^4 + 1 \\cdot (-3x)^5$$\n$$= 1 - 15x + 90x^2 - 270x^3 + 405x^4 - 243x^5$$",
+      "image": null,
+      "formulas": [
+        "= 1 + \\frac{5}{1}(-3x) + \\frac{5 \\cdot 4}{1 \\cdot 2}(-3x)^2 + \\frac{5 \\cdot 4 \\cdot 3}{1 \\cdot 2 \\cdot 3}(-3x)^3 + \\frac{5 \\cdot 4 \\cdot 3 \\cdot 2}{1 \\cdot 2 \\cdot 3 \\cdot 4}(-3x)^4 + 1 \\cdot (-3x)^5",
+        "= 1 - 15x + 90x^2 - 270x^3 + 405x^4 - 243x^5"
+      ],
+      "pdfPageStart": 233,
+      "pdfPageEnd": 233,
+      "printedPageStart": 228,
+      "printedPageEnd": 228,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p051",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:** $(1 + 3x)^5$ এবং $(1 - 3x)^5$ এর বিস্তৃতি থেকে দেখা যাচ্ছে যে, উভয় বিস্তৃতি একই। শুধুমাত্র সহগের চিহ্ন পরিবর্তন করে, অর্থাৎ $+$, $-$, $+$, $\\dots$ এর মাধ্যমে একটি থেকে অন্যটি পাওয়া সম্ভব।",
+      "image": null,
+      "formulas": [
+        "(1 + 3x)^5",
+        "(1 - 3x)^5",
+        "+",
+        "-",
+        "+",
+        "\\dots"
+      ],
+      "pdfPageStart": 233,
+      "pdfPageEnd": 233,
+      "printedPageStart": 228,
+      "printedPageEnd": 228,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p052",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:** $(1 + 2x^2)^7$ এবং $(1 - 2x^2)^7$ কে বিস্তৃত করো।",
+      "image": null,
+      "formulas": [
+        "(1 + 2x^2)^7",
+        "(1 - 2x^2)^7"
+      ],
+      "pdfPageStart": 233,
+      "pdfPageEnd": 233,
+      "printedPageStart": 228,
+      "printedPageEnd": 228,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p053",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৩.** $(1 + \\frac{2}{x})^8$ কে পঞ্চম পদ পর্যন্ত বিস্তৃত করো।",
+      "image": null,
+      "formulas": [
+        "(1 + \\frac{2}{x})^8"
+      ],
+      "pdfPageStart": 234,
+      "pdfPageEnd": 234,
+      "printedPageStart": 229,
+      "printedPageEnd": 229,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p054",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 234,
+      "pdfPageEnd": 234,
+      "printedPageStart": 229,
+      "printedPageEnd": 229,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p055",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "দ্বিপদী বিস্তৃতি ব্যবহার করে $(1 + \\frac{2}{x})^8$ এর পঞ্চম পদ পর্যন্ত বিস্তৃতি নিম্নরূপ:",
+      "image": null,
+      "formulas": [
+        "(1 + \\frac{2}{x})^8"
+      ],
+      "pdfPageStart": 234,
+      "pdfPageEnd": 234,
+      "printedPageStart": 229,
+      "printedPageEnd": 229,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p056",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$(1 + \\frac{2}{x})^8 = \\binom{8}{0}(\\frac{2}{x})^0 + \\binom{8}{1}(\\frac{2}{x})^1 + \\binom{8}{2}(\\frac{2}{x})^2 + \\binom{8}{3}(\\frac{2}{x})^3 + \\binom{8}{4}(\\frac{2}{x})^4$$",
+      "image": null,
+      "formulas": [
+        "(1 + \\frac{2}{x})^8 = \\binom{8}{0}(\\frac{2}{x})^0 + \\binom{8}{1}(\\frac{2}{x})^1 + \\binom{8}{2}(\\frac{2}{x})^2 + \\binom{8}{3}(\\frac{2}{x})^3 + \\binom{8}{4}(\\frac{2}{x})^4"
+      ],
+      "pdfPageStart": 234,
+      "pdfPageEnd": 234,
+      "printedPageStart": 229,
+      "printedPageEnd": 229,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p057",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= 1 \\cdot 1 + \\frac{8}{1} \\cdot \\frac{2}{x} + \\frac{8 \\cdot 7}{1 \\cdot 2} \\cdot \\frac{4}{x^2} + \\frac{8 \\cdot 7 \\cdot 6}{1 \\cdot 2 \\cdot 3} \\cdot \\frac{8}{x^3} + \\frac{8 \\cdot 7 \\cdot 6 \\cdot 5}{1 \\cdot 2 \\cdot 3 \\cdot 4} \\cdot \\frac{16}{x^4}$$",
+      "image": null,
+      "formulas": [
+        "= 1 \\cdot 1 + \\frac{8}{1} \\cdot \\frac{2}{x} + \\frac{8 \\cdot 7}{1 \\cdot 2} \\cdot \\frac{4}{x^2} + \\frac{8 \\cdot 7 \\cdot 6}{1 \\cdot 2 \\cdot 3} \\cdot \\frac{8}{x^3} + \\frac{8 \\cdot 7 \\cdot 6 \\cdot 5}{1 \\cdot 2 \\cdot 3 \\cdot 4} \\cdot \\frac{16}{x^4}"
+      ],
+      "pdfPageStart": 234,
+      "pdfPageEnd": 234,
+      "printedPageStart": 229,
+      "printedPageEnd": 229,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p058",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= 1 + \\frac{16}{x} + \\frac{112}{x^2} + \\frac{448}{x^3} + \\frac{1120}{x^4}$$",
+      "image": null,
+      "formulas": [
+        "= 1 + \\frac{16}{x} + \\frac{112}{x^2} + \\frac{448}{x^3} + \\frac{1120}{x^4}"
+      ],
+      "pdfPageStart": 234,
+      "pdfPageEnd": 234,
+      "printedPageStart": 229,
+      "printedPageEnd": 229,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p059",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\therefore (1 + \\frac{2}{x})^8 = 1 + \\frac{16}{x} + \\frac{112}{x^2} + \\frac{448}{x^3} + \\frac{1120}{x^4}  [পঞ্চম পদ পর্যন্ত বিস্তৃতি]$$",
+      "image": null,
+      "formulas": [
+        "\\therefore (1 + \\frac{2}{x})^8 = 1 + \\frac{16}{x} + \\frac{112}{x^2} + \\frac{448}{x^3} + \\frac{1120}{x^4}  [পঞ্চম পদ পর্যন্ত বিস্তৃতি]"
+      ],
+      "pdfPageStart": 234,
+      "pdfPageEnd": 234,
+      "printedPageStart": 229,
+      "printedPageEnd": 229,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p060",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "[প্যাসকেলের ত্রিভুজের সাহায্যে নিজে করো।]",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 234,
+      "pdfPageEnd": 234,
+      "printedPageStart": 229,
+      "printedPageEnd": 229,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p061",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৪.** $(1 - \\frac{x^2}{4})^8$ এর বিস্তৃতির $x^3$ ও $x^6$ এর সহগ নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "(1 - \\frac{x^2}{4})^8",
+        "x^3",
+        "x^6"
+      ],
+      "pdfPageStart": 234,
+      "pdfPageEnd": 234,
+      "printedPageStart": 229,
+      "printedPageEnd": 229,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p062",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** দ্বিপদী বিস্তৃতির সাহায্যে পাই,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 234,
+      "pdfPageEnd": 234,
+      "printedPageStart": 229,
+      "printedPageEnd": 229,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p063",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$$(1 - \\frac{x^2}{4})^8 = \\binom{8}{0}(-\\frac{x^2}{4})^0 + \\binom{8}{1}(-\\frac{x^2}{4})^1 + \\binom{8}{2}(-\\frac{x^2}{4})^2 + \\binom{8}{3}(-\\frac{x^2}{4})^3$$\n$$+ \\binom{8}{4}(-\\frac{x^2}{4})^4 + \\dots$$",
+      "image": null,
+      "formulas": [
+        "(1 - \\frac{x^2}{4})^8 = \\binom{8}{0}(-\\frac{x^2}{4})^0 + \\binom{8}{1}(-\\frac{x^2}{4})^1 + \\binom{8}{2}(-\\frac{x^2}{4})^2 + \\binom{8}{3}(-\\frac{x^2}{4})^3",
+        "+ \\binom{8}{4}(-\\frac{x^2}{4})^4 + \\dots"
+      ],
+      "pdfPageStart": 234,
+      "pdfPageEnd": 234,
+      "printedPageStart": 229,
+      "printedPageEnd": 229,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p064",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= 1 \\cdot 1 + \\frac{8}{1} \\cdot (-\\frac{x^2}{4}) + \\frac{8 \\cdot 7}{1 \\cdot 2} \\cdot (\\frac{x^4}{16}) + \\frac{8 \\cdot 7 \\cdot 6}{1 \\cdot 2 \\cdot 3} \\cdot (-\\frac{x^6}{64}) + \\frac{8 \\cdot 7 \\cdot 6 \\cdot 5}{1 \\cdot 2 \\cdot 3 \\cdot 4} \\cdot (\\frac{x^8}{256}) + \\dots$$",
+      "image": null,
+      "formulas": [
+        "= 1 \\cdot 1 + \\frac{8}{1} \\cdot (-\\frac{x^2}{4}) + \\frac{8 \\cdot 7}{1 \\cdot 2} \\cdot (\\frac{x^4}{16}) + \\frac{8 \\cdot 7 \\cdot 6}{1 \\cdot 2 \\cdot 3} \\cdot (-\\frac{x^6}{64}) + \\frac{8 \\cdot 7 \\cdot 6 \\cdot 5}{1 \\cdot 2 \\cdot 3 \\cdot 4} \\cdot (\\frac{x^8}{256}) + \\dots"
+      ],
+      "pdfPageStart": 234,
+      "pdfPageEnd": 234,
+      "printedPageStart": 229,
+      "printedPageEnd": 229,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p065",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= 1 - 2x^2 + \\frac{7}{4}x^4 - \\frac{7}{8}x^6 + \\dots$$",
+      "image": null,
+      "formulas": [
+        "= 1 - 2x^2 + \\frac{7}{4}x^4 - \\frac{7}{8}x^6 + \\dots"
+      ],
+      "pdfPageStart": 234,
+      "pdfPageEnd": 234,
+      "printedPageStart": 229,
+      "printedPageEnd": 229,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p066",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$(1 - \\frac{x^2}{4})^8$ এর বিস্তৃতিতে দেখা যাচ্ছে $x^3$ বর্তমান নয়। অর্থাৎ $x^3$ এর সহগ ০ এবং $x^6$ এর সহগ $-\\frac{7}{8}$",
+      "image": null,
+      "formulas": [
+        "(1 - \\frac{x^2}{4})^8",
+        "x^3",
+        "x^3",
+        "x^6",
+        "-\\frac{7}{8}"
+      ],
+      "pdfPageStart": 234,
+      "pdfPageEnd": 234,
+      "printedPageStart": 229,
+      "printedPageEnd": 229,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p067",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore x^3$ এর সহগ ০ এবং $x^6$ এর সহগ $-\\frac{7}{8}$",
+      "image": null,
+      "formulas": [
+        "\\therefore x^3",
+        "x^6",
+        "-\\frac{7}{8}"
+      ],
+      "pdfPageStart": 234,
+      "pdfPageEnd": 234,
+      "printedPageStart": 229,
+      "printedPageEnd": 229,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.2-p068",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:** প্যাসকেলের ত্রিভুজের সাহায্যে সত্যতা যাচাই করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 234,
+      "pdfPageEnd": 234,
+      "printedPageStart": 229,
+      "printedPageEnd": 229,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

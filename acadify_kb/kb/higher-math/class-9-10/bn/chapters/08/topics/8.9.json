@@ -1,0 +1,4311 @@
+{
+  "id": "higher-math-9-10-bn-c08-t8.9",
+  "key": "8.9",
+  "title": "বিভিন্ন কোণের ত্রিকোণমিতিক অনুপাতসমূহ",
+  "chapter": 8,
+  "ordinal": 10,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ত্রিকোণমিতিক আলোচনার দ্বিতীয় অংশে আমরা সূক্ষ্মকোণের $\\left( 0 < \\theta < \\frac{\\pi}{2} \\right)$ অনুপাতসমূহ নির্ণয়ের কৌশল আলোচনা করেছি। অনুপাতসমূহের পারস্পরিক সম্পর্ক এবং এতদসংক্রান্ত কয়েকটি সহজ অভেদ প্রমাণ করা হয়েছে। বিভিন্ন চতুর্ভাগে অনুপাতসমূহের চিত্র নির্ধারণ, আদর্শ কোণসমূহের ত্রিকোণমিতিক অনুপাত এবং অনুপাতসমূহের সর্বনিম্ন ও সর্বোচ্চ মানের ধারণাও দেওয়া হয়েছে। আলোচনার এই অংশে প্রথমে ঋণাত্মক কোণ $(-\\theta)$ এর অনুপাতসমূহ নির্ণয় করা হবে। এর উপর ভিত্তি করে ধারাবাহিকভাবে $\\frac{\\pi}{2} - \\theta, \\frac{\\pi}{2} + \\theta, \\pi + \\theta, \\pi - \\theta, \\frac{3\\pi}{2} + \\theta, \\frac{3\\pi}{2} - \\theta, 2\\pi + \\theta, 2\\pi - \\theta$ এবং $\\frac{n\\pi}{2} + \\theta$ ও $\\frac{n\\pi}{2} - \\theta$ [যেখানে $n$ ধনাত্মক পূর্ণসংখ্যা এবং $0 < \\theta < \\frac{\\pi}{2}$] কোণসমূহের ত্রিকোণমিতিক আলোচনা অন্তর্ভুক্ত থাকবে।",
+      "image": null,
+      "formulas": [
+        "\\left( 0 < \\theta < \\frac{\\pi}{2} \\right)",
+        "(-\\theta)",
+        "\\frac{\\pi}{2} - \\theta, \\frac{\\pi}{2} + \\theta, \\pi + \\theta, \\pi - \\theta, \\frac{3\\pi}{2} + \\theta, \\frac{3\\pi}{2} - \\theta, 2\\pi + \\theta, 2\\pi - \\theta",
+        "\\frac{n\\pi}{2} + \\theta",
+        "\\frac{n\\pi}{2} - \\theta",
+        "n",
+        "0 < \\theta < \\frac{\\pi}{2}"
+      ],
+      "pdfPageStart": 181,
+      "pdfPageEnd": 181,
+      "printedPageStart": 176,
+      "printedPageEnd": 176,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$(-\\theta)$ কোণের ত্রিকোণমিতিক অনুপাতসমূহ $\\left( 0 < \\theta < \\frac{\\pi}{2} \\right)$:",
+      "image": null,
+      "formulas": [
+        "(-\\theta)",
+        "\\left( 0 < \\theta < \\frac{\\pi}{2} \\right)"
+      ],
+      "pdfPageStart": 181,
+      "pdfPageEnd": 181,
+      "printedPageStart": 176,
+      "printedPageEnd": 176,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "মনে করি ঘূর্ণায়মান রশ্মি $OA$ এর আদি অবস্থান $OX$ থেকে ঘড়ির কাঁটার বিপরীত দিকে ঘুরে প্রথম চতুর্ভাগে $\\angle XOA = \\theta$ এবং ঘড়ির কাঁটার দিকে একই দূরত্ব ঘুরে চতুর্থ চতুর্ভাগে $\\angle XOA' = -\\theta$ কোণ উৎপন্ন করে (নিচের চিত্র)। $OA$ রশ্মির উপর যেকোনো বিন্দু $P(x, y)$ নিই। এখন $P(x, y)$ বিন্দু থেকে $OX$ এর ওপর $PN$ লম্ব ঝাকি এবং $PN$ কে বর্ধিত করায় তা $OA'$ কে $Q$ বিন্দুতে ছেদ করে। তাহলে $QN$ রেখা $OX$ এর ওপর লম্ব। যেহেতু $P(x, y)$ বিন্দুর অবস্থান প্রথম চতুর্ভাগে সেহেতু $x > 0, y > 0$ এবং $ON = x, PN = y$.",
+      "image": null,
+      "formulas": [
+        "OA",
+        "OX",
+        "\\angle XOA = \\theta",
+        "\\angle XOA' = -\\theta",
+        "OA",
+        "P(x, y)",
+        "P(x, y)",
+        "OX",
+        "PN",
+        "PN",
+        "OA'",
+        "Q",
+        "QN",
+        "OX",
+        "P(x, y)",
+        "x > 0, y > 0",
+        "ON = x, PN = y"
+      ],
+      "pdfPageStart": 181,
+      "pdfPageEnd": 181,
+      "printedPageStart": 176,
+      "printedPageEnd": 176,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p004",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane diagram showing points P(x, y) and Q(x, -y) with angle θ and -θ x, y",
+      "image": "p182-page_32_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 182,
+      "pdfPageEnd": 182,
+      "printedPageStart": 177,
+      "printedPageEnd": 177,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন $\\triangle OPN$ ও $\\triangle OQN$ সমকোণী ত্রিভুজদ্বয়ের $\\angle PON = \\angle QON$, $\\angle ONP = \\angle ONQ$ এবং $ON$ উভয় ত্রিভুজের সাধারণ বাহু। সুতরাং ত্রিভুজদ্বয় সর্বসম।",
+      "image": null,
+      "formulas": [
+        "\\triangle OPN",
+        "\\triangle OQN",
+        "\\angle PON = \\angle QON",
+        "\\angle ONP = \\angle ONQ",
+        "ON"
+      ],
+      "pdfPageStart": 182,
+      "pdfPageEnd": 182,
+      "printedPageStart": 177,
+      "printedPageEnd": 177,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore PN = QN$ এবং $OP = OQ$.",
+      "image": null,
+      "formulas": [
+        "\\therefore PN = QN",
+        "OP = OQ"
+      ],
+      "pdfPageStart": 182,
+      "pdfPageEnd": 182,
+      "printedPageStart": 177,
+      "printedPageEnd": 177,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$Q$ বিন্দুর অবস্থান চতুর্থ চতুর্ভাগে হওয়ায় এর কোটি ঋণাত্মক। সুতরাং $Q$ বিন্দুর স্থানাঙ্ক $Q(x, -y)$. $\\triangle OQN$ সমকোণী ত্রিভুজের ক্ষেত্রে $ON = ভূমি$, $QN = লম্ব$ এবং $OQ = অতিভুজ = r$ (ধরি)।",
+      "image": null,
+      "formulas": [
+        "Q",
+        "Q",
+        "Q(x, -y)",
+        "\\triangle OQN",
+        "ON = ভূমি",
+        "QN = লম্ব",
+        "OQ = অতিভুজ = r"
+      ],
+      "pdfPageStart": 182,
+      "pdfPageEnd": 182,
+      "printedPageStart": 177,
+      "printedPageEnd": 177,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাহলে পূর্ববর্তী আলোচনা থেকে আমরা পাই,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 182,
+      "pdfPageEnd": 182,
+      "printedPageStart": 177,
+      "printedPageEnd": 177,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p009",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\sin(-\\theta) = \\frac{লম্ব}{অতিভুজ} = \\frac{QN}{OQ} = \\frac{-y}{r} = -\\frac{PN}{OP} = -\\sin\\theta$$",
+      "image": null,
+      "formulas": [
+        "\\sin(-\\theta) = \\frac{লম্ব}{অতিভুজ} = \\frac{QN}{OQ} = \\frac{-y}{r} = -\\frac{PN}{OP} = -\\sin\\theta"
+      ],
+      "pdfPageStart": 182,
+      "pdfPageEnd": 182,
+      "printedPageStart": 177,
+      "printedPageEnd": 177,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p010",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\cos(-\\theta) = \\frac{ভূমি}{অতিভুজ} = \\frac{ON}{OQ} = \\frac{x}{r} = \\frac{ON}{OP} = \\cos\\theta$$",
+      "image": null,
+      "formulas": [
+        "\\cos(-\\theta) = \\frac{ভূমি}{অতিভুজ} = \\frac{ON}{OQ} = \\frac{x}{r} = \\frac{ON}{OP} = \\cos\\theta"
+      ],
+      "pdfPageStart": 182,
+      "pdfPageEnd": 182,
+      "printedPageStart": 177,
+      "printedPageEnd": 177,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p011",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\tan(-\\theta) = \\frac{লম্ব}{ভূমি} = \\frac{QN}{ON} = \\frac{-y}{x} = -\\frac{PN}{ON} = -\\tan\\theta$$",
+      "image": null,
+      "formulas": [
+        "\\tan(-\\theta) = \\frac{লম্ব}{ভূমি} = \\frac{QN}{ON} = \\frac{-y}{x} = -\\frac{PN}{ON} = -\\tan\\theta"
+      ],
+      "pdfPageStart": 182,
+      "pdfPageEnd": 182,
+      "printedPageStart": 177,
+      "printedPageEnd": 177,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "একইভাবে, $cosec(-\\theta) = -cosec\\theta$, $\\sec(-\\theta) = \\sec\\theta$, $\\cot(-\\theta) = -\\cot\\theta$",
+      "image": null,
+      "formulas": [
+        "cosec(-\\theta) = -cosec\\theta",
+        "\\sec(-\\theta) = \\sec\\theta",
+        "\\cot(-\\theta) = -\\cot\\theta"
+      ],
+      "pdfPageStart": 182,
+      "pdfPageEnd": 182,
+      "printedPageStart": 177,
+      "printedPageEnd": 177,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:** যেকোনো কোণ $\\theta$ এর জন্য উপরিসূত্র সম্পর্কগুলো প্রযোজ্য।",
+      "image": null,
+      "formulas": [
+        "\\theta"
+      ],
+      "pdfPageStart": 182,
+      "pdfPageEnd": 182,
+      "printedPageStart": 177,
+      "printedPageEnd": 177,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৭.**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 182,
+      "pdfPageEnd": 182,
+      "printedPageStart": 177,
+      "printedPageEnd": 177,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p015",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\sin \\left(-\\frac{\\pi}{6}\\right) = -\\sin \\left(\\frac{\\pi}{6}\\right), \\cos \\left(-\\frac{\\pi}{4}\\right) = \\cos \\left(\\frac{\\pi}{4}\\right), \\tan \\left(-\\frac{\\pi}{4}\\right) = -\\tan \\left(\\frac{\\pi}{4}\\right),$$",
+      "image": null,
+      "formulas": [
+        "\\sin \\left(-\\frac{\\pi}{6}\\right) = -\\sin \\left(\\frac{\\pi}{6}\\right), \\cos \\left(-\\frac{\\pi}{4}\\right) = \\cos \\left(\\frac{\\pi}{4}\\right), \\tan \\left(-\\frac{\\pi}{4}\\right) = -\\tan \\left(\\frac{\\pi}{4}\\right),"
+      ],
+      "pdfPageStart": 182,
+      "pdfPageEnd": 182,
+      "printedPageStart": 177,
+      "printedPageEnd": 177,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p016",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$cosec \\left(-\\frac{\\pi}{3}\\right) = -cosec \\left(\\frac{\\pi}{3}\\right), \\sec \\left(-\\frac{\\pi}{3}\\right) = \\sec \\left(\\frac{\\pi}{3}\\right), \\cot \\left(-\\frac{\\pi}{6}\\right) = -\\cot \\left(\\frac{\\pi}{6}\\right).$$",
+      "image": null,
+      "formulas": [
+        "cosec \\left(-\\frac{\\pi}{3}\\right) = -cosec \\left(\\frac{\\pi}{3}\\right), \\sec \\left(-\\frac{\\pi}{3}\\right) = \\sec \\left(\\frac{\\pi}{3}\\right), \\cot \\left(-\\frac{\\pi}{6}\\right) = -\\cot \\left(\\frac{\\pi}{6}\\right)."
+      ],
+      "pdfPageStart": 182,
+      "pdfPageEnd": 182,
+      "printedPageStart": 177,
+      "printedPageEnd": 177,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\left(\\frac{\\pi}{2} - \\theta\\right)$ কোণ বা পূরক কোণের ত্রিকোণমিতিক অনুপাতসমূহ $\\left(0 < \\theta < \\frac{\\pi}{2}\\right)$:",
+      "image": null,
+      "formulas": [
+        "\\left(\\frac{\\pi}{2} - \\theta\\right)",
+        "\\left(0 < \\theta < \\frac{\\pi}{2}\\right)"
+      ],
+      "pdfPageStart": 182,
+      "pdfPageEnd": 182,
+      "printedPageStart": 177,
+      "printedPageEnd": 177,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধরি, কোনো ঘূর্ণায়মান রশ্মি $OA$ তার আদি অবস্থান $OX$ থেকে ঘড়ির ক্যারি বিপরীত দিকে ঘুরে প্রথম চতুর্ভাগে $\\angle XOA = \\theta$ কোণ উৎপন্ন করে। আবার অপর একটি রশ্মি $OA'$ আদি অবস্থান $OX$ থেকে একইদিকে ঘুরে $\\angle XOY = \\frac{\\pi}{2}$ কোণ উৎপন্ন করার পর $OY$ অবস্থান থেকে ঘড়ির ক্যারি দিকে ঘুরে $\\angle YOA' = -\\theta$ কোণ উৎপন্ন করে (নিচের চিত্র)।",
+      "image": null,
+      "formulas": [
+        "OA",
+        "OX",
+        "\\angle XOA = \\theta",
+        "OA'",
+        "OX",
+        "\\angle XOY = \\frac{\\pi}{2}",
+        "OY",
+        "\\angle YOA' = -\\theta"
+      ],
+      "pdfPageStart": 182,
+      "pdfPageEnd": 183,
+      "printedPageStart": 177,
+      "printedPageEnd": 178,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p019",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: Coordinate plane diagram showing points P(x,y) and Q(y,x) with angles and radii r",
+      "image": "p183-page_33_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 183,
+      "pdfPageEnd": 183,
+      "printedPageStart": 178,
+      "printedPageEnd": 178,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাহলে, $\\angle XOA' = \\frac{\\pi}{2} + (-\\theta) = \\frac{\\pi}{2} - \\theta$",
+      "image": null,
+      "formulas": [
+        "\\angle XOA' = \\frac{\\pi}{2} + (-\\theta) = \\frac{\\pi}{2} - \\theta"
+      ],
+      "pdfPageStart": 183,
+      "pdfPageEnd": 183,
+      "printedPageStart": 178,
+      "printedPageEnd": 178,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$OP$ এবং $OQ$ সমান দূরত্ব ধরে $P$ ও $Q$ বিন্দুদ্বয় থেকে $OX$ এর উপর $PM$ ও $QN$ লম্বদ্বয় আঁকি। এখন $\\triangle POM$ ও $\\triangle QON$ সমকোণী ত্রিভুজদ্বয়ের $\\angle OMP = \\angle ONQ$, $\\angle POM = \\angle OQN$ এবং $OP = OQ$.",
+      "image": null,
+      "formulas": [
+        "OP",
+        "OQ",
+        "P",
+        "Q",
+        "OX",
+        "PM",
+        "QN",
+        "\\triangle POM",
+        "\\triangle QON",
+        "\\angle OMP = \\angle ONQ",
+        "\\angle POM = \\angle OQN",
+        "OP = OQ"
+      ],
+      "pdfPageStart": 183,
+      "pdfPageEnd": 183,
+      "printedPageStart": 178,
+      "printedPageEnd": 178,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ ত্রিভুজদ্বয় সর্বসম।",
+      "image": null,
+      "formulas": [
+        "\\therefore"
+      ],
+      "pdfPageStart": 183,
+      "pdfPageEnd": 183,
+      "printedPageStart": 178,
+      "printedPageEnd": 178,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore ON = PM$ এবং $QN = OM$",
+      "image": null,
+      "formulas": [
+        "\\therefore ON = PM",
+        "QN = OM"
+      ],
+      "pdfPageStart": 183,
+      "pdfPageEnd": 183,
+      "printedPageStart": 178,
+      "printedPageEnd": 178,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন $P$ বিন্দুর স্থানাঙ্ক $(x, y)$ হলে",
+      "image": null,
+      "formulas": [
+        "P",
+        "(x, y)"
+      ],
+      "pdfPageStart": 183,
+      "pdfPageEnd": 183,
+      "printedPageStart": 178,
+      "printedPageEnd": 178,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p025",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$OM = x, PM = y$",
+      "image": null,
+      "formulas": [
+        "OM = x, PM = y"
+      ],
+      "pdfPageStart": 183,
+      "pdfPageEnd": 183,
+      "printedPageStart": 178,
+      "printedPageEnd": 178,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p026",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore ON = y, QN = x$",
+      "image": null,
+      "formulas": [
+        "\\therefore ON = y, QN = x"
+      ],
+      "pdfPageStart": 183,
+      "pdfPageEnd": 183,
+      "printedPageStart": 178,
+      "printedPageEnd": 178,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p027",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore Q$ বিন্দুর স্থানাঙ্ক $(y, x)$",
+      "image": null,
+      "formulas": [
+        "\\therefore Q",
+        "(y, x)"
+      ],
+      "pdfPageStart": 183,
+      "pdfPageEnd": 183,
+      "printedPageStart": 178,
+      "printedPageEnd": 178,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p028",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাহলে $\\triangle NOQ$ এর ক্ষেত্রে আমরা পাই,",
+      "image": null,
+      "formulas": [
+        "\\triangle NOQ"
+      ],
+      "pdfPageStart": 183,
+      "pdfPageEnd": 183,
+      "printedPageStart": 178,
+      "printedPageEnd": 178,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p029",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\sin \\left( \\frac{\\pi}{2} - \\theta \\right) = \\frac{x}{r} = \\cos \\theta, \\quad \\cos \\left( \\frac{\\pi}{2} - \\theta \\right) = \\frac{y}{r} = \\sin \\theta$$",
+      "image": null,
+      "formulas": [
+        "\\sin \\left( \\frac{\\pi}{2} - \\theta \\right) = \\frac{x}{r} = \\cos \\theta, \\quad \\cos \\left( \\frac{\\pi}{2} - \\theta \\right) = \\frac{y}{r} = \\sin \\theta"
+      ],
+      "pdfPageStart": 183,
+      "pdfPageEnd": 183,
+      "printedPageStart": 178,
+      "printedPageEnd": 178,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p030",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\tan \\left( \\frac{\\pi}{2} - \\theta \\right) = \\frac{x}{y} = \\cot \\theta$$",
+      "image": null,
+      "formulas": [
+        "\\tan \\left( \\frac{\\pi}{2} - \\theta \\right) = \\frac{x}{y} = \\cot \\theta"
+      ],
+      "pdfPageStart": 183,
+      "pdfPageEnd": 183,
+      "printedPageStart": 178,
+      "printedPageEnd": 178,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p031",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "একইভাবে, $cosec \\left( \\frac{\\pi}{2} - \\theta \\right) = \\sec \\theta, \\quad \\sec \\left( \\frac{\\pi}{2} - \\theta \\right) = cosec \\theta$",
+      "image": null,
+      "formulas": [
+        "cosec \\left( \\frac{\\pi}{2} - \\theta \\right) = \\sec \\theta, \\quad \\sec \\left( \\frac{\\pi}{2} - \\theta \\right) = cosec \\theta"
+      ],
+      "pdfPageStart": 183,
+      "pdfPageEnd": 183,
+      "printedPageStart": 178,
+      "printedPageEnd": 178,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p032",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\cot \\left( \\frac{\\pi}{2} - \\theta \\right) = \\tan \\theta$$",
+      "image": null,
+      "formulas": [
+        "\\cot \\left( \\frac{\\pi}{2} - \\theta \\right) = \\tan \\theta"
+      ],
+      "pdfPageStart": 183,
+      "pdfPageEnd": 183,
+      "printedPageStart": 178,
+      "printedPageEnd": 178,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p033",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:** যেকোনো কোণ $\\theta$ এর জন্য উপরিসূত্র সম্পর্কগুলো প্রযোজ্য।",
+      "image": null,
+      "formulas": [
+        "\\theta"
+      ],
+      "pdfPageStart": 183,
+      "pdfPageEnd": 183,
+      "printedPageStart": 178,
+      "printedPageEnd": 178,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p034",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৮.** $\\sin \\left( \\frac{\\pi}{3} \\right) = \\sin \\left( \\frac{\\pi}{2} - \\frac{\\pi}{6} \\right) = \\cos \\frac{\\pi}{6}$",
+      "image": null,
+      "formulas": [
+        "\\sin \\left( \\frac{\\pi}{3} \\right) = \\sin \\left( \\frac{\\pi}{2} - \\frac{\\pi}{6} \\right) = \\cos \\frac{\\pi}{6}"
+      ],
+      "pdfPageStart": 183,
+      "pdfPageEnd": 183,
+      "printedPageStart": 178,
+      "printedPageEnd": 178,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p035",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\tan \\left( \\frac{\\pi}{6} \\right) = \\tan \\left( \\frac{\\pi}{2} - \\frac{\\pi}{3} \\right) = \\cot \\frac{\\pi}{3}, \\quad \\sec \\left( \\frac{\\pi}{4} \\right) = \\sec \\left( \\frac{\\pi}{2} - \\frac{\\pi}{4} \\right) = cosec \\frac{\\pi}{4}$$",
+      "image": null,
+      "formulas": [
+        "\\tan \\left( \\frac{\\pi}{6} \\right) = \\tan \\left( \\frac{\\pi}{2} - \\frac{\\pi}{3} \\right) = \\cot \\frac{\\pi}{3}, \\quad \\sec \\left( \\frac{\\pi}{4} \\right) = \\sec \\left( \\frac{\\pi}{2} - \\frac{\\pi}{4} \\right) = cosec \\frac{\\pi}{4}"
+      ],
+      "pdfPageStart": 183,
+      "pdfPageEnd": 183,
+      "printedPageStart": 178,
+      "printedPageEnd": 178,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p036",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**লাক্ষণীয়:** $\\theta$ এবং $\\left( \\frac{\\pi}{2} - \\theta \\right)$ কোণ দুটি পরস্পর পূরক (Complement Angle)। এদের একটির sine অপরের cosine, একটির tangent অপরের cotangent এবং একটির secant অপরের cosecant এর সমান।",
+      "image": null,
+      "formulas": [
+        "\\theta",
+        "\\left( \\frac{\\pi}{2} - \\theta \\right)"
+      ],
+      "pdfPageStart": 183,
+      "pdfPageEnd": 183,
+      "printedPageStart": 178,
+      "printedPageEnd": 178,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p037",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\left( \\frac{\\pi}{2} + \\theta \\right)$ কোণের ত্রিকোণমিতিক অনুপাতসমূহ $\\left( 0 < \\theta < \\frac{\\pi}{2} \\right)$:",
+      "image": null,
+      "formulas": [
+        "\\left( \\frac{\\pi}{2} + \\theta \\right)",
+        "\\left( 0 < \\theta < \\frac{\\pi}{2} \\right)"
+      ],
+      "pdfPageStart": 183,
+      "pdfPageEnd": 183,
+      "printedPageStart": 178,
+      "printedPageEnd": 178,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p038",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধরি, ঘূর্ণায়মান রশ্মি $OA$ এর আদি অবস্থান $OX$ থেকে ঘড়ির কাঁটার বিপরীত দিকে ঘুরে প্রথম চতুর্ভাগে $\\angle XOA = \\theta$ এবং একই দিকে আরও ঘুরে $\\angle AOA' = \\frac{\\pi}{2}$ কোণ উৎপন্ন করে (নিচের চিত্র)।",
+      "image": null,
+      "formulas": [
+        "OA",
+        "OX",
+        "\\angle XOA = \\theta",
+        "\\angle AOA' = \\frac{\\pi}{2}"
+      ],
+      "pdfPageStart": 183,
+      "pdfPageEnd": 183,
+      "printedPageStart": 178,
+      "printedPageEnd": 178,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p039",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাহলে, $\\angle XOA = \\angle YOA' = \\theta$ এবং $\\angle XOA' = \\frac{\\pi}{2} + \\theta$.",
+      "image": null,
+      "formulas": [
+        "\\angle XOA = \\angle YOA' = \\theta",
+        "\\angle XOA' = \\frac{\\pi}{2} + \\theta"
+      ],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p040",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "মনে করি, $OA$ রশ্মির উপর $P(x, y)$ যেকোনো বিন্দু। $OA'$ এর উপর $Q$ বিন্দুটি এমনভাবে নিই যেন $OP = OQ$ হয়। $P$ ও $Q$ বিন্দু থেকে $x$-অক্ষের উপর $PM$ ও $QN$ লম্ব টানি।",
+      "image": null,
+      "formulas": [
+        "OA",
+        "P(x, y)",
+        "OA'",
+        "Q",
+        "OP = OQ",
+        "P",
+        "Q",
+        "x",
+        "PM",
+        "QN"
+      ],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p041",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane diagram showing points P(x, y) and Q(-y, x) with angles θ and π/2 - θ",
+      "image": "p184-page_34_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p042",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\angle NQO = \\angle YOQ = \\angle POM = \\theta$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\angle NQO = \\angle YOQ = \\angle POM = \\theta"
+      ],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p043",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন সমকোণী ত্রিভুজ $\\triangle POM$ ও $\\triangle QON$ এর মধ্যে $\\angle POM = \\angle NQO$, $\\angle PMO = \\angle QNO$ এবং $OP = OQ = r$",
+      "image": null,
+      "formulas": [
+        "\\triangle POM",
+        "\\triangle QON",
+        "\\angle POM = \\angle NQO",
+        "\\angle PMO = \\angle QNO",
+        "OP = OQ = r"
+      ],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p044",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\triangle POM$ ও $\\triangle QON$ সর্বসম।",
+      "image": null,
+      "formulas": [
+        "\\therefore \\triangle POM",
+        "\\triangle QON"
+      ],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p045",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore ON = PM, QN = OM$",
+      "image": null,
+      "formulas": [
+        "\\therefore ON = PM, QN = OM"
+      ],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p046",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন $P$ বিন্দুর স্থানাঙ্ক $(x, y)$ হলে, $ON = -PM = -y$ এবং $QN = OM = x$",
+      "image": null,
+      "formulas": [
+        "P",
+        "(x, y)",
+        "ON = -PM = -y",
+        "QN = OM = x"
+      ],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p047",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore Q$ বিন্দুর স্থানাঙ্ক $Q(-y, x)$",
+      "image": null,
+      "formulas": [
+        "\\therefore Q",
+        "Q(-y, x)"
+      ],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p048",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাহলে আমরা পাই,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p049",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\sin \\left( \\frac{\\pi}{2} + \\theta \\right) = \\frac{x}{r} = \\cos \\theta, \\quad \\cos \\left( \\frac{\\pi}{2} + \\theta \\right) = \\frac{-y}{r} = -\\frac{y}{r} = -\\sin \\theta$$",
+      "image": null,
+      "formulas": [
+        "\\sin \\left( \\frac{\\pi}{2} + \\theta \\right) = \\frac{x}{r} = \\cos \\theta, \\quad \\cos \\left( \\frac{\\pi}{2} + \\theta \\right) = \\frac{-y}{r} = -\\frac{y}{r} = -\\sin \\theta"
+      ],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p050",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\tan \\left( \\frac{\\pi}{2} + \\theta \\right) = \\frac{x}{-y} = -\\frac{x}{y} = -\\cot \\theta$$",
+      "image": null,
+      "formulas": [
+        "\\tan \\left( \\frac{\\pi}{2} + \\theta \\right) = \\frac{x}{-y} = -\\frac{x}{y} = -\\cot \\theta"
+      ],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p051",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "একইভাবে, $cosec \\left( \\frac{\\pi}{2} + \\theta \\right) = \\sec \\theta, \\quad \\sec \\left( \\frac{\\pi}{2} + \\theta \\right) = -cosec \\theta$",
+      "image": null,
+      "formulas": [
+        "cosec \\left( \\frac{\\pi}{2} + \\theta \\right) = \\sec \\theta, \\quad \\sec \\left( \\frac{\\pi}{2} + \\theta \\right) = -cosec \\theta"
+      ],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p052",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\cot \\left( \\frac{\\pi}{2} + \\theta \\right) = -\\tan \\theta$$",
+      "image": null,
+      "formulas": [
+        "\\cot \\left( \\frac{\\pi}{2} + \\theta \\right) = -\\tan \\theta"
+      ],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p053",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:** যেকোনো কোণ $\\theta$ এর জন্য উপরিউক্ত সূত্রকগুলো প্রযোজ্য।",
+      "image": null,
+      "formulas": [
+        "\\theta"
+      ],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p054",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৯.** $\\sin \\left( \\frac{2\\pi}{3} \\right) = \\sin \\left( \\frac{\\pi}{2} + \\frac{\\pi}{6} \\right) = \\cos \\frac{\\pi}{6} = \\frac{\\sqrt{3}}{2}$",
+      "image": null,
+      "formulas": [
+        "\\sin \\left( \\frac{2\\pi}{3} \\right) = \\sin \\left( \\frac{\\pi}{2} + \\frac{\\pi}{6} \\right) = \\cos \\frac{\\pi}{6} = \\frac{\\sqrt{3}}{2}"
+      ],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p055",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\cos \\left( \\frac{3\\pi}{4} \\right) = \\cos \\left( \\frac{\\pi}{2} + \\frac{\\pi}{4} \\right) = -\\sin \\frac{\\pi}{4} = -\\frac{1}{\\sqrt{2}}$$",
+      "image": null,
+      "formulas": [
+        "\\cos \\left( \\frac{3\\pi}{4} \\right) = \\cos \\left( \\frac{\\pi}{2} + \\frac{\\pi}{4} \\right) = -\\sin \\frac{\\pi}{4} = -\\frac{1}{\\sqrt{2}}"
+      ],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p056",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\tan \\left( \\frac{5\\pi}{6} \\right) = \\tan \\left( \\frac{\\pi}{2} + \\frac{\\pi}{3} \\right) = -\\cot \\frac{\\pi}{3} = -\\frac{1}{\\sqrt{3}}$$",
+      "image": null,
+      "formulas": [
+        "\\tan \\left( \\frac{5\\pi}{6} \\right) = \\tan \\left( \\frac{\\pi}{2} + \\frac{\\pi}{3} \\right) = -\\cot \\frac{\\pi}{3} = -\\frac{1}{\\sqrt{3}}"
+      ],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p057",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:** $\\sec \\left( \\frac{3\\pi}{4} \\right)$, $cosec \\left( \\frac{5\\pi}{6} \\right)$ এবং $\\cot \\left( \\frac{2\\pi}{3} \\right)$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "\\sec \\left( \\frac{3\\pi}{4} \\right)",
+        "cosec \\left( \\frac{5\\pi}{6} \\right)",
+        "\\cot \\left( \\frac{2\\pi}{3} \\right)"
+      ],
+      "pdfPageStart": 184,
+      "pdfPageEnd": 184,
+      "printedPageStart": 179,
+      "printedPageEnd": 179,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p058",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$(\\pi + \\theta)$ কোণের ত্রিকোণমিতিক অনুপাতসমূহ $\\left(0 < \\theta < \\frac{\\pi}{2}\\right)$:",
+      "image": null,
+      "formulas": [
+        "(\\pi + \\theta)",
+        "\\left(0 < \\theta < \\frac{\\pi}{2}\\right)"
+      ],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p059",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধরি ঘূর্ণায়মান রশ্মি $OA$ আদি অবস্থান $OX$ থেকে ঘড়ির কাটার বিপরীত দিকে ঘুরে প্রথম চতুর্ভাগে $\\angle XOA = \\theta$ এবং একই দিকে আরও ঘুরে তৃতীয় চতুর্ভাগে $\\angle AOA' = \\pi$ কোণ উৎপন্ন করে (নিচের চিত্র)। তাহলে $\\angle XOA' = (\\pi + \\theta)$.",
+      "image": null,
+      "formulas": [
+        "OA",
+        "OX",
+        "\\angle XOA = \\theta",
+        "\\angle AOA' = \\pi",
+        "\\angle XOA' = (\\pi + \\theta)"
+      ],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p060",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন $OA$ রশ্মির উপর যেকোনো বিন্দু $P$ এবং $OA'$ এর উপর $Q$ বিন্দুটি এমনভাবে নিই যেন, $OP = OQ = r$ হয়। $P$ ও $Q$ হতে $x$-অক্ষের উপর $PM$ ও $QN$ লম্ব টানি।",
+      "image": null,
+      "formulas": [
+        "OA",
+        "P",
+        "OA'",
+        "Q",
+        "OP = OQ = r",
+        "P",
+        "Q",
+        "x",
+        "PM",
+        "QN"
+      ],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p061",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane diagram showing angles θ and π + θ with points P(x, y) and Q(-x, -y) x, y",
+      "image": "p185-page_35_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p062",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\triangle POM$ ও $\\triangle QON$ সমকোণী ত্রিভুজদ্বয়ের মধ্যে $\\angle OMP = \\angle ONQ$, $\\angle POM = \\angle QON$ এবং $OP = OQ = r$. সুতরাং ত্রিভুজদ্বয় সর্বসম।",
+      "image": null,
+      "formulas": [
+        "\\triangle POM",
+        "\\triangle QON",
+        "\\angle OMP = \\angle ONQ",
+        "\\angle POM = \\angle QON",
+        "OP = OQ = r"
+      ],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p063",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore PM = QN$ এবং $OM = ON$",
+      "image": null,
+      "formulas": [
+        "\\therefore PM = QN",
+        "OM = ON"
+      ],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p064",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন $P$ বিন্দুর স্থানাঙ্ক $(x, y)$ হলে, $ON = -x, NQ = -y$",
+      "image": null,
+      "formulas": [
+        "P",
+        "(x, y)",
+        "ON = -x, NQ = -y"
+      ],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p065",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore Q$ বিন্দুর স্থানাঙ্ক $(-x, -y)$",
+      "image": null,
+      "formulas": [
+        "\\therefore Q",
+        "(-x, -y)"
+      ],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p066",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ, $\\sin(\\pi + \\theta) = \\frac{-y}{r} = -\\frac{y}{r} = -\\sin\\theta$",
+      "image": null,
+      "formulas": [
+        "\\sin(\\pi + \\theta) = \\frac{-y}{r} = -\\frac{y}{r} = -\\sin\\theta"
+      ],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p067",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\cos(\\pi + \\theta) = \\frac{-x}{r} = -\\frac{x}{r} = -\\cos\\theta, \\tan(\\pi + \\theta) = \\frac{-y}{-x} = \\frac{y}{x} = \\tan\\theta$",
+      "image": null,
+      "formulas": [
+        "\\cos(\\pi + \\theta) = \\frac{-x}{r} = -\\frac{x}{r} = -\\cos\\theta, \\tan(\\pi + \\theta) = \\frac{-y}{-x} = \\frac{y}{x} = \\tan\\theta"
+      ],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p068",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অনুরূপভাবে, $\\csc(\\pi + \\theta) = -\\csc\\theta$",
+      "image": null,
+      "formulas": [
+        "\\csc(\\pi + \\theta) = -\\csc\\theta"
+      ],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p069",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\sec(\\pi + \\theta) = -\\sec\\theta, \\cot(\\pi + \\theta) = \\cot\\theta$",
+      "image": null,
+      "formulas": [
+        "\\sec(\\pi + \\theta) = -\\sec\\theta, \\cot(\\pi + \\theta) = \\cot\\theta"
+      ],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p070",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:** যেকোনো কোণ $\\theta$ এর জন্য উপরিউক্ত সম্পর্কগুলো প্রযোজ্য।",
+      "image": null,
+      "formulas": [
+        "\\theta"
+      ],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p071",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২০.** $\\sin \\left(\\frac{4\\pi}{3}\\right) = \\sin \\left(\\pi + \\frac{\\pi}{3}\\right) = -\\sin \\left(\\frac{\\pi}{3}\\right) = -\\frac{\\sqrt{3}}{2}$",
+      "image": null,
+      "formulas": [
+        "\\sin \\left(\\frac{4\\pi}{3}\\right) = \\sin \\left(\\pi + \\frac{\\pi}{3}\\right) = -\\sin \\left(\\frac{\\pi}{3}\\right) = -\\frac{\\sqrt{3}}{2}"
+      ],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p072",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\cos \\left(\\frac{5\\pi}{4}\\right) = \\cos \\left(\\pi + \\frac{\\pi}{4}\\right) = -\\cos \\left(\\frac{\\pi}{4}\\right) = -\\frac{1}{\\sqrt{2}}$",
+      "image": null,
+      "formulas": [
+        "\\cos \\left(\\frac{5\\pi}{4}\\right) = \\cos \\left(\\pi + \\frac{\\pi}{4}\\right) = -\\cos \\left(\\frac{\\pi}{4}\\right) = -\\frac{1}{\\sqrt{2}}"
+      ],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p073",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\tan \\left(\\frac{7\\pi}{6}\\right) = \\tan \\left(\\pi + \\frac{\\pi}{6}\\right) = \\tan \\left(\\frac{\\pi}{6}\\right) = \\frac{1}{\\sqrt{3}}$",
+      "image": null,
+      "formulas": [
+        "\\tan \\left(\\frac{7\\pi}{6}\\right) = \\tan \\left(\\pi + \\frac{\\pi}{6}\\right) = \\tan \\left(\\frac{\\pi}{6}\\right) = \\frac{1}{\\sqrt{3}}"
+      ],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p074",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:** $\\sec \\left(\\frac{4\\pi}{3}\\right), \\csc \\left(\\frac{5\\pi}{4}\\right), \\cot \\left(\\frac{7\\pi}{6}\\right)$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "\\sec \\left(\\frac{4\\pi}{3}\\right), \\csc \\left(\\frac{5\\pi}{4}\\right), \\cot \\left(\\frac{7\\pi}{6}\\right)"
+      ],
+      "pdfPageStart": 185,
+      "pdfPageEnd": 185,
+      "printedPageStart": 180,
+      "printedPageEnd": 180,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p075",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$(\\pi - \\theta)$ কোণের ত্রিকোণমিতিক অনুপাতসমূহ $\\left(0 < \\theta < \\frac{\\pi}{2}\\right)$:",
+      "image": null,
+      "formulas": [
+        "(\\pi - \\theta)",
+        "\\left(0 < \\theta < \\frac{\\pi}{2}\\right)"
+      ],
+      "pdfPageStart": 186,
+      "pdfPageEnd": 186,
+      "printedPageStart": 181,
+      "printedPageEnd": 181,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p076",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধরি ঘূর্ণায়মান রশ্মি $OA$ আদি অবস্থান $OX$ থেকে ঘড়ির কাঁটার বিপরীত দিকে ঘুরে $\\angle XOA = \\theta$ কোণ উৎপন্ন করে। রশ্মিটি একই দিকে আরও ঘুরে $\\angle XOX' = \\pi$ কোণ উৎপন্ন করার পর $OX'$ থেকে ঘড়ির কাঁটার দিকে ঘুরে $\\angle X'OA' = -\\theta$ কোণ উৎপন্ন করে (নিচের চিত্র)। তাহলে $\\angle XOA' = \\pi + (-\\theta) = \\pi - \\theta$.",
+      "image": null,
+      "formulas": [
+        "OA",
+        "OX",
+        "\\angle XOA = \\theta",
+        "\\angle XOX' = \\pi",
+        "OX'",
+        "\\angle X'OA' = -\\theta",
+        "\\angle XOA' = \\pi + (-\\theta) = \\pi - \\theta"
+      ],
+      "pdfPageStart": 186,
+      "pdfPageEnd": 186,
+      "printedPageStart": 181,
+      "printedPageEnd": 181,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p077",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$OA$ রশ্মির উপর $P$ যেকোনো বিন্দু এবং $OA'$ এর উপর $Q$ যেকোনো বিন্দু নিই যেন, $OP = OQ = r$ হয়।",
+      "image": null,
+      "formulas": [
+        "OA",
+        "P",
+        "OA'",
+        "Q",
+        "OP = OQ = r"
+      ],
+      "pdfPageStart": 186,
+      "pdfPageEnd": 186,
+      "printedPageStart": 181,
+      "printedPageEnd": 181,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p078",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন $\\triangle OMP$ ও $\\triangle ONQ$ সমকোণী ত্রিভুজগুলির মধ্যে $\\angle OMP = \\angle ONQ$, $\\angle POM = \\angle QON$ এবং $OP = OQ = r$. সুতরাং ত্রিভুজগুলি সর্বসম এবং $ON = OM$, $QN = PM$.",
+      "image": null,
+      "formulas": [
+        "\\triangle OMP",
+        "\\triangle ONQ",
+        "\\angle OMP = \\angle ONQ",
+        "\\angle POM = \\angle QON",
+        "OP = OQ = r",
+        "ON = OM",
+        "QN = PM"
+      ],
+      "pdfPageStart": 186,
+      "pdfPageEnd": 186,
+      "printedPageStart": 181,
+      "printedPageEnd": 181,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p079",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane diagram showing angles θ and π-θ with points P(x, y) and Q(-x, y)",
+      "image": "p186-page_36_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 186,
+      "pdfPageEnd": 186,
+      "printedPageStart": 181,
+      "printedPageEnd": 181,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p080",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন $P$ বিন্দুর স্থানাঙ্ক $(x, y)$ হলে $OM = x$, $PM = y$\n$\\therefore ON = -x$, $NQ = y$\n$\\therefore Q$ বিন্দুর স্থানাঙ্ক $Q(-x, y)$",
+      "image": null,
+      "formulas": [
+        "P",
+        "(x, y)",
+        "OM = x",
+        "PM = y",
+        "\\therefore ON = -x",
+        "NQ = y",
+        "\\therefore Q",
+        "Q(-x, y)"
+      ],
+      "pdfPageStart": 186,
+      "pdfPageEnd": 186,
+      "printedPageStart": 181,
+      "printedPageEnd": 181,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p081",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাহলে, $\\sin(\\pi - \\theta) = \\frac{y}{r} = \\sin\\theta$, $\\cos(\\pi - \\theta) = \\frac{-x}{r} = -\\frac{x}{r} = -\\cos\\theta$",
+      "image": null,
+      "formulas": [
+        "\\sin(\\pi - \\theta) = \\frac{y}{r} = \\sin\\theta",
+        "\\cos(\\pi - \\theta) = \\frac{-x}{r} = -\\frac{x}{r} = -\\cos\\theta"
+      ],
+      "pdfPageStart": 186,
+      "pdfPageEnd": 186,
+      "printedPageStart": 181,
+      "printedPageEnd": 181,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p082",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\tan(\\pi - \\theta) = \\frac{y}{-x} = -\\frac{y}{x} = -\\tan\\theta$",
+      "image": null,
+      "formulas": [
+        "\\tan(\\pi - \\theta) = \\frac{y}{-x} = -\\frac{y}{x} = -\\tan\\theta"
+      ],
+      "pdfPageStart": 186,
+      "pdfPageEnd": 186,
+      "printedPageStart": 181,
+      "printedPageEnd": 181,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p083",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অনুরূপভাবে, $\\csc(\\pi - \\theta) = \\csc\\theta$",
+      "image": null,
+      "formulas": [
+        "\\csc(\\pi - \\theta) = \\csc\\theta"
+      ],
+      "pdfPageStart": 186,
+      "pdfPageEnd": 186,
+      "printedPageStart": 181,
+      "printedPageEnd": 181,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p084",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\sec(\\pi - \\theta) = -\\sec\\theta$, $\\cot(\\pi - \\theta) = -\\cot\\theta$",
+      "image": null,
+      "formulas": [
+        "\\sec(\\pi - \\theta) = -\\sec\\theta",
+        "\\cot(\\pi - \\theta) = -\\cot\\theta"
+      ],
+      "pdfPageStart": 186,
+      "pdfPageEnd": 186,
+      "printedPageStart": 181,
+      "printedPageEnd": 181,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p085",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:** যেকোনো কোণ $\\theta$ এর জন্য উপরিসূত্র সক্ষরকগুলো প্রযোজ্য।",
+      "image": null,
+      "formulas": [
+        "\\theta"
+      ],
+      "pdfPageStart": 186,
+      "pdfPageEnd": 186,
+      "printedPageStart": 181,
+      "printedPageEnd": 181,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p086",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২১.** $\\sin \\left( \\frac{2\\pi}{3} \\right) = \\sin \\left( \\pi - \\frac{\\pi}{3} \\right) = \\sin \\left( \\frac{\\pi}{3} \\right) = \\frac{\\sqrt{3}}{2}$",
+      "image": null,
+      "formulas": [
+        "\\sin \\left( \\frac{2\\pi}{3} \\right) = \\sin \\left( \\pi - \\frac{\\pi}{3} \\right) = \\sin \\left( \\frac{\\pi}{3} \\right) = \\frac{\\sqrt{3}}{2}"
+      ],
+      "pdfPageStart": 186,
+      "pdfPageEnd": 186,
+      "printedPageStart": 181,
+      "printedPageEnd": 181,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p087",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\cos \\left( \\frac{3\\pi}{4} \\right) = \\cos \\left( \\pi - \\frac{\\pi}{4} \\right) = -\\cos \\left( \\frac{\\pi}{4} \\right) = -\\frac{1}{\\sqrt{2}}$",
+      "image": null,
+      "formulas": [
+        "\\cos \\left( \\frac{3\\pi}{4} \\right) = \\cos \\left( \\pi - \\frac{\\pi}{4} \\right) = -\\cos \\left( \\frac{\\pi}{4} \\right) = -\\frac{1}{\\sqrt{2}}"
+      ],
+      "pdfPageStart": 186,
+      "pdfPageEnd": 186,
+      "printedPageStart": 181,
+      "printedPageEnd": 181,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p088",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\tan \\left( \\frac{5\\pi}{6} \\right) = \\tan \\left( \\pi - \\frac{\\pi}{6} \\right) = -\\tan \\left( \\frac{\\pi}{6} \\right) = -\\frac{1}{\\sqrt{3}}$",
+      "image": null,
+      "formulas": [
+        "\\tan \\left( \\frac{5\\pi}{6} \\right) = \\tan \\left( \\pi - \\frac{\\pi}{6} \\right) = -\\tan \\left( \\frac{\\pi}{6} \\right) = -\\frac{1}{\\sqrt{3}}"
+      ],
+      "pdfPageStart": 186,
+      "pdfPageEnd": 186,
+      "printedPageStart": 181,
+      "printedPageEnd": 181,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p089",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:** $\\csc \\left( \\frac{3\\pi}{4} \\right)$, $\\sec \\left( \\frac{5\\pi}{6} \\right)$, $\\cot \\left( \\frac{2\\pi}{3} \\right)$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "\\csc \\left( \\frac{3\\pi}{4} \\right)",
+        "\\sec \\left( \\frac{5\\pi}{6} \\right)",
+        "\\cot \\left( \\frac{2\\pi}{3} \\right)"
+      ],
+      "pdfPageStart": 186,
+      "pdfPageEnd": 186,
+      "printedPageStart": 181,
+      "printedPageEnd": 181,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p090",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**লক্ষণীয়:** $\\theta$ এবং $(\\pi - \\theta)$ কোণ দুটি পরস্পর সমপূরক। সমপূরক কোণের sine ও cosecant সমান ও একই চিহ্নবিশিষ্ট। কিন্তু cosine, secant, tangent ও cotangent সমান ও বিপরীত চিহ্নবিশিষ্ট।",
+      "image": null,
+      "formulas": [
+        "\\theta",
+        "(\\pi - \\theta)"
+      ],
+      "pdfPageStart": 186,
+      "pdfPageEnd": 186,
+      "printedPageStart": 181,
+      "printedPageEnd": 181,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p091",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\left( \\frac{3\\pi}{2} - \\theta \\right)$ কোণের ত্রিকোণমিতিক অনুপাতসমূহ $\\left( 0 < \\theta < \\frac{\\pi}{2} \\right)$:",
+      "image": null,
+      "formulas": [
+        "\\left( \\frac{3\\pi}{2} - \\theta \\right)",
+        "\\left( 0 < \\theta < \\frac{\\pi}{2} \\right)"
+      ],
+      "pdfPageStart": 187,
+      "pdfPageEnd": 187,
+      "printedPageStart": 182,
+      "printedPageEnd": 182,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p092",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "পূর্ববর্তী আলোচনার সাপেক্ষে পাওয়া যায়:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 187,
+      "pdfPageEnd": 187,
+      "printedPageStart": 182,
+      "printedPageEnd": 182,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p093",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\sin \\left( \\frac{3\\pi}{2} - \\theta \\right) = \\sin \\left\\{ \\pi + \\left( \\frac{\\pi}{2} - \\theta \\right) \\right\\} = -\\sin \\left( \\frac{\\pi}{2} - \\theta \\right) = -\\cos \\theta$$",
+      "image": null,
+      "formulas": [
+        "\\sin \\left( \\frac{3\\pi}{2} - \\theta \\right) = \\sin \\left\\{ \\pi + \\left( \\frac{\\pi}{2} - \\theta \\right) \\right\\} = -\\sin \\left( \\frac{\\pi}{2} - \\theta \\right) = -\\cos \\theta"
+      ],
+      "pdfPageStart": 187,
+      "pdfPageEnd": 187,
+      "printedPageStart": 182,
+      "printedPageEnd": 182,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p094",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\cos \\left( \\frac{3\\pi}{2} - \\theta \\right) = \\cos \\left\\{ \\pi + \\left( \\frac{\\pi}{2} - \\theta \\right) \\right\\} = -\\cos \\left( \\frac{\\pi}{2} - \\theta \\right) = -\\sin \\theta$$",
+      "image": null,
+      "formulas": [
+        "\\cos \\left( \\frac{3\\pi}{2} - \\theta \\right) = \\cos \\left\\{ \\pi + \\left( \\frac{\\pi}{2} - \\theta \\right) \\right\\} = -\\cos \\left( \\frac{\\pi}{2} - \\theta \\right) = -\\sin \\theta"
+      ],
+      "pdfPageStart": 187,
+      "pdfPageEnd": 187,
+      "printedPageStart": 182,
+      "printedPageEnd": 182,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p095",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\tan \\left( \\frac{3\\pi}{2} - \\theta \\right) = \\tan \\left\\{ \\pi + \\left( \\frac{\\pi}{2} - \\theta \\right) \\right\\} = \\tan \\left( \\frac{\\pi}{2} - \\theta \\right) = \\cot \\theta$$",
+      "image": null,
+      "formulas": [
+        "\\tan \\left( \\frac{3\\pi}{2} - \\theta \\right) = \\tan \\left\\{ \\pi + \\left( \\frac{\\pi}{2} - \\theta \\right) \\right\\} = \\tan \\left( \\frac{\\pi}{2} - \\theta \\right) = \\cot \\theta"
+      ],
+      "pdfPageStart": 187,
+      "pdfPageEnd": 187,
+      "printedPageStart": 182,
+      "printedPageEnd": 182,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p096",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অনুরূপভাবে, $\\csc \\left( \\frac{3\\pi}{2} - \\theta \\right) = -\\sec \\theta$",
+      "image": null,
+      "formulas": [
+        "\\csc \\left( \\frac{3\\pi}{2} - \\theta \\right) = -\\sec \\theta"
+      ],
+      "pdfPageStart": 187,
+      "pdfPageEnd": 187,
+      "printedPageStart": 182,
+      "printedPageEnd": 182,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p097",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\sec \\left( \\frac{3\\pi}{2} - \\theta \\right) = -\\csc \\theta, \\cot \\left( \\frac{3\\pi}{2} - \\theta \\right) = \\tan \\theta.$$",
+      "image": null,
+      "formulas": [
+        "\\sec \\left( \\frac{3\\pi}{2} - \\theta \\right) = -\\csc \\theta, \\cot \\left( \\frac{3\\pi}{2} - \\theta \\right) = \\tan \\theta."
+      ],
+      "pdfPageStart": 187,
+      "pdfPageEnd": 187,
+      "printedPageStart": 182,
+      "printedPageEnd": 182,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p098",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:** যেকোনো কোণ $\\theta$ এর জন্য উপরিউক্ত সম্পর্কগুলো প্রযোজ্য।",
+      "image": null,
+      "formulas": [
+        "\\theta"
+      ],
+      "pdfPageStart": 187,
+      "pdfPageEnd": 187,
+      "printedPageStart": 182,
+      "printedPageEnd": 182,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p099",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$(2\\pi - \\theta)$ কোণের ত্রিকোণমিতিক অনুপাতসমূহ $\\left( 0 < \\theta < \\frac{\\pi}{2} \\right)$:",
+      "image": null,
+      "formulas": [
+        "(2\\pi - \\theta)",
+        "\\left( 0 < \\theta < \\frac{\\pi}{2} \\right)"
+      ],
+      "pdfPageStart": 187,
+      "pdfPageEnd": 187,
+      "printedPageStart": 182,
+      "printedPageEnd": 182,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p100",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "প্রমিত বা আদর্শ অবস্থানে $(2\\pi - \\theta)$ কোণের অবস্থান চতুর্থ চতুর্ভাগে থাকে এবং $(-\\theta)$ কোণের সাথে মিলে যায়। তাই $(-\\theta)$ ও $(2\\pi - \\theta)$ কোণের ত্রিকোণমিতিক অনুপাত সমান।",
+      "image": null,
+      "formulas": [
+        "(2\\pi - \\theta)",
+        "(-\\theta)",
+        "(-\\theta)",
+        "(2\\pi - \\theta)"
+      ],
+      "pdfPageStart": 187,
+      "pdfPageEnd": 187,
+      "printedPageStart": 182,
+      "printedPageEnd": 182,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p101",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\therefore \\sin(2\\pi - \\theta) = \\sin(-\\theta) = -\\sin\\theta, \\cos(2\\pi - \\theta) = \\cos(-\\theta) = \\cos\\theta$$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\sin(2\\pi - \\theta) = \\sin(-\\theta) = -\\sin\\theta, \\cos(2\\pi - \\theta) = \\cos(-\\theta) = \\cos\\theta"
+      ],
+      "pdfPageStart": 187,
+      "pdfPageEnd": 187,
+      "printedPageStart": 182,
+      "printedPageEnd": 182,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p102",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\tan(2\\pi - \\theta) = \\tan(-\\theta) = -\\tan\\theta, \\csc(2\\pi - \\theta) = \\csc(-\\theta) = -\\csc\\theta$$",
+      "image": null,
+      "formulas": [
+        "\\tan(2\\pi - \\theta) = \\tan(-\\theta) = -\\tan\\theta, \\csc(2\\pi - \\theta) = \\csc(-\\theta) = -\\csc\\theta"
+      ],
+      "pdfPageStart": 187,
+      "pdfPageEnd": 187,
+      "printedPageStart": 182,
+      "printedPageEnd": 182,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p103",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\sec(2\\pi - \\theta) = \\sec(-\\theta) = \\sec\\theta  এবং  \\cot(2\\pi - \\theta) = \\cot(-\\theta) = -\\cot\\theta$$",
+      "image": null,
+      "formulas": [
+        "\\sec(2\\pi - \\theta) = \\sec(-\\theta) = \\sec\\theta  এবং  \\cot(2\\pi - \\theta) = \\cot(-\\theta) = -\\cot\\theta"
+      ],
+      "pdfPageStart": 187,
+      "pdfPageEnd": 187,
+      "printedPageStart": 182,
+      "printedPageEnd": 182,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p104",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:** যেকোনো কোণ $\\theta$ এর জন্য উপরিউক্ত সম্পর্কগুলো প্রযোজ্য।",
+      "image": null,
+      "formulas": [
+        "\\theta"
+      ],
+      "pdfPageStart": 187,
+      "pdfPageEnd": 187,
+      "printedPageStart": 182,
+      "printedPageEnd": 182,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p105",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$(2\\pi + \\theta)$ কোণের ত্রিকোণমিতিক অনুপাতসমূহ $\\left( 0 < \\theta < \\frac{\\pi}{2} \\right)$:",
+      "image": null,
+      "formulas": [
+        "(2\\pi + \\theta)",
+        "\\left( 0 < \\theta < \\frac{\\pi}{2} \\right)"
+      ],
+      "pdfPageStart": 187,
+      "pdfPageEnd": 187,
+      "printedPageStart": 182,
+      "printedPageEnd": 182,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p106",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "প্রমিত বা আদর্শ অবস্থানে $(2\\pi + \\theta)$ কোণের অবস্থান প্রথম চতুর্ভাগে থাকায় $\\theta$ কোণের ও $(2\\pi + \\theta)$ কোণের অনুপাতসমূহ একই হবে।",
+      "image": null,
+      "formulas": [
+        "(2\\pi + \\theta)",
+        "\\theta",
+        "(2\\pi + \\theta)"
+      ],
+      "pdfPageStart": 187,
+      "pdfPageEnd": 187,
+      "printedPageStart": 182,
+      "printedPageEnd": 182,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p107",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\therefore \\sin(2\\pi + \\theta) = \\sin\\theta, \\cos(2\\pi + \\theta) = \\cos\\theta$$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\sin(2\\pi + \\theta) = \\sin\\theta, \\cos(2\\pi + \\theta) = \\cos\\theta"
+      ],
+      "pdfPageStart": 187,
+      "pdfPageEnd": 187,
+      "printedPageStart": 182,
+      "printedPageEnd": 182,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p108",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\tan(2\\pi + \\theta) = \\tan\\theta, \\csc(2\\pi + \\theta) = \\csc\\theta$$",
+      "image": null,
+      "formulas": [
+        "\\tan(2\\pi + \\theta) = \\tan\\theta, \\csc(2\\pi + \\theta) = \\csc\\theta"
+      ],
+      "pdfPageStart": 187,
+      "pdfPageEnd": 187,
+      "printedPageStart": 182,
+      "printedPageEnd": 182,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p109",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\sec(2\\pi + \\theta) = \\sec\\theta, \\cot(2\\pi + \\theta) = \\cot\\theta.$$",
+      "image": null,
+      "formulas": [
+        "\\sec(2\\pi + \\theta) = \\sec\\theta, \\cot(2\\pi + \\theta) = \\cot\\theta."
+      ],
+      "pdfPageStart": 187,
+      "pdfPageEnd": 187,
+      "printedPageStart": 182,
+      "printedPageEnd": 182,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p110",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:** যেকোনো কোণ $\\theta$ এর জন্য উপরিউক্ত সম্পর্কগুলো প্রযোজ্য।",
+      "image": null,
+      "formulas": [
+        "\\theta"
+      ],
+      "pdfPageStart": 187,
+      "pdfPageEnd": 187,
+      "printedPageStart": 182,
+      "printedPageEnd": 182,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p111",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\left( \\frac{3\\pi}{2} + \\theta \\right)$ কোণের ত্রিকোণমিতিক অনুপাতসমূহ $\\left( 0 < \\theta < \\frac{\\pi}{2} \\right)$:",
+      "image": null,
+      "formulas": [
+        "\\left( \\frac{3\\pi}{2} + \\theta \\right)",
+        "\\left( 0 < \\theta < \\frac{\\pi}{2} \\right)"
+      ],
+      "pdfPageStart": 188,
+      "pdfPageEnd": 188,
+      "printedPageStart": 183,
+      "printedPageEnd": 183,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p112",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\left( \\frac{3\\pi}{2} + \\theta \\right)$ কোণের জন্য $\\frac{3\\pi}{2} + \\theta = 2\\pi - \\left( \\frac{\\pi}{2} - \\theta \\right)$",
+      "image": null,
+      "formulas": [
+        "\\left( \\frac{3\\pi}{2} + \\theta \\right)",
+        "\\frac{3\\pi}{2} + \\theta = 2\\pi - \\left( \\frac{\\pi}{2} - \\theta \\right)"
+      ],
+      "pdfPageStart": 188,
+      "pdfPageEnd": 188,
+      "printedPageStart": 183,
+      "printedPageEnd": 183,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p113",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\sin \\left( \\frac{3\\pi}{2} + \\theta \\right) = \\sin \\left\\{ 2\\pi - \\left( \\frac{\\pi}{2} - \\theta \\right) \\right\\} = -\\sin \\left( \\frac{\\pi}{2} - \\theta \\right) = -\\cos \\theta$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\sin \\left( \\frac{3\\pi}{2} + \\theta \\right) = \\sin \\left\\{ 2\\pi - \\left( \\frac{\\pi}{2} - \\theta \\right) \\right\\} = -\\sin \\left( \\frac{\\pi}{2} - \\theta \\right) = -\\cos \\theta"
+      ],
+      "pdfPageStart": 188,
+      "pdfPageEnd": 188,
+      "printedPageStart": 183,
+      "printedPageEnd": 183,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p114",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\cos \\left( \\frac{3\\pi}{2} + \\theta \\right) = \\cos \\left( \\frac{\\pi}{2} - \\theta \\right) = \\sin \\theta$",
+      "image": null,
+      "formulas": [
+        "\\cos \\left( \\frac{3\\pi}{2} + \\theta \\right) = \\cos \\left( \\frac{\\pi}{2} - \\theta \\right) = \\sin \\theta"
+      ],
+      "pdfPageStart": 188,
+      "pdfPageEnd": 188,
+      "printedPageStart": 183,
+      "printedPageEnd": 183,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p115",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\tan \\left( \\frac{3\\pi}{2} + \\theta \\right) = -\\tan \\left( \\frac{\\pi}{2} - \\theta \\right) = -\\cot \\theta$",
+      "image": null,
+      "formulas": [
+        "\\tan \\left( \\frac{3\\pi}{2} + \\theta \\right) = -\\tan \\left( \\frac{\\pi}{2} - \\theta \\right) = -\\cot \\theta"
+      ],
+      "pdfPageStart": 188,
+      "pdfPageEnd": 188,
+      "printedPageStart": 183,
+      "printedPageEnd": 183,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p116",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অনুরূপভাবে, $\\csc \\left( \\frac{3\\pi}{2} + \\theta \\right) = -\\sec \\theta$",
+      "image": null,
+      "formulas": [
+        "\\csc \\left( \\frac{3\\pi}{2} + \\theta \\right) = -\\sec \\theta"
+      ],
+      "pdfPageStart": 188,
+      "pdfPageEnd": 188,
+      "printedPageStart": 183,
+      "printedPageEnd": 183,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p117",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\sec \\left( \\frac{3\\pi}{2} + \\theta \\right) = \\csc \\theta, \\cot \\left( \\frac{3\\pi}{2} + \\theta \\right) = -\\tan \\theta$",
+      "image": null,
+      "formulas": [
+        "\\sec \\left( \\frac{3\\pi}{2} + \\theta \\right) = \\csc \\theta, \\cot \\left( \\frac{3\\pi}{2} + \\theta \\right) = -\\tan \\theta"
+      ],
+      "pdfPageStart": 188,
+      "pdfPageEnd": 188,
+      "printedPageStart": 183,
+      "printedPageEnd": 183,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p118",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:** যেকোনো কোণ $\\theta$ এর জন্য উপরিউক্ত সমসর্কগুলো প্রযোজ্য।",
+      "image": null,
+      "formulas": [
+        "\\theta"
+      ],
+      "pdfPageStart": 188,
+      "pdfPageEnd": 188,
+      "printedPageStart": 183,
+      "printedPageEnd": 183,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p119",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যেকোনো কোণের অর্থাৎ, $\\left( n \\times \\frac{\\pi}{2} \\pm \\theta \\right)$ কোণের ত্রিকোণমিতিক অনুপাতসমূহ নির্ণয়ের পদ্ধতি $\\left( 0 < \\theta < \\frac{\\pi}{2} \\right)$:",
+      "image": null,
+      "formulas": [
+        "\\left( n \\times \\frac{\\pi}{2} \\pm \\theta \\right)",
+        "\\left( 0 < \\theta < \\frac{\\pi}{2} \\right)"
+      ],
+      "pdfPageStart": 188,
+      "pdfPageEnd": 188,
+      "printedPageStart": 183,
+      "printedPageEnd": 183,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p120",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "নিম্নোক্ত পদ্ধতিতে যেকোনো ত্রিকোণমিতিক কোণের অনুপাতসমূহ নির্ণয় করা যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 188,
+      "pdfPageEnd": 188,
+      "printedPageStart": 183,
+      "printedPageEnd": 183,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p121",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**ধাপ ১.** প্রথমে প্রদত্ত কোণকে দুইভাগে ভাগ করতে হবে যার একটি অংশ $\\frac{\\pi}{2}$ বা $\\frac{\\pi}{2}$ এর $n$ গুণিতক এবং অপরটি সূক্ষ্মকোণ। অর্থাৎ প্রদত্ত কোণকে $\\left( n \\times \\frac{\\pi}{2} \\pm \\theta \\right)$ আকারে প্রকাশ করতে হবে।",
+      "image": null,
+      "formulas": [
+        "\\frac{\\pi}{2}",
+        "\\frac{\\pi}{2}",
+        "n",
+        "\\left( n \\times \\frac{\\pi}{2} \\pm \\theta \\right)"
+      ],
+      "pdfPageStart": 188,
+      "pdfPageEnd": 188,
+      "printedPageStart": 183,
+      "printedPageEnd": 183,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p122",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**ধাপ ২.** $n$ জোড় সংখ্যা হলে অনুপাতের ধরন একই থাকবে অর্থাৎ sine অনুপাত sine থাকবে, cosine অনুপাত cosine থাকবে ইত্যাদি।",
+      "image": null,
+      "formulas": [
+        "n"
+      ],
+      "pdfPageStart": 188,
+      "pdfPageEnd": 188,
+      "printedPageStart": 183,
+      "printedPageEnd": 183,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p123",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$n$ বিজোড় সংখ্যা হলে sine, tangent ও secant অনুপাতগুলো যথাক্রমে cosine, cotangent ও cosecant এ পরিবর্তিত হবে। একইভাবে, cosine, cotangent ও cosecant যথাক্রমে sine, tangent ও secant এ পরিবর্তিত হবে।",
+      "image": null,
+      "formulas": [
+        "n"
+      ],
+      "pdfPageStart": 188,
+      "pdfPageEnd": 188,
+      "printedPageStart": 183,
+      "printedPageEnd": 183,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p124",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**ধাপ ৩.** $\\left( n \\times \\frac{\\pi}{2} \\pm \\theta \\right)$ কোণের অবস্থান কোন চতুর্ভাগে সেটা জানার পর ঐ চতুর্ভাগে প্রদত্ত অনুপাতের যে চিহ্ন সেই চিহ্ন ধাপ ২ থেকে নির্গত অনুপাতের পূর্বে বসাতে হবে।",
+      "image": null,
+      "formulas": [
+        "\\left( n \\times \\frac{\\pi}{2} \\pm \\theta \\right)"
+      ],
+      "pdfPageStart": 188,
+      "pdfPageEnd": 188,
+      "printedPageStart": 183,
+      "printedPageEnd": 183,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p125",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**বিশেষ দ্রষ্টব্য:** এখানে বর্ণিত পদ্ধতির সাহায্যে যেকোনো ত্রিকোণমিতিক অনুপাত নির্ণয় সম্ভব বলে শিক্ষার্থীদের এই পদ্ধতিতে ত্রিকোণমিতিক অনুপাত নির্ণয়ের জন্য উপদেশ দেওয়া হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 188,
+      "pdfPageEnd": 188,
+      "printedPageStart": 183,
+      "printedPageEnd": 183,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p126",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২২.** $\\sin \\left( \\frac{9\\pi}{2} + \\theta \\right)$ কোণের ক্ষেত্রে $n = 9$ একটি বিজোড় সংখ্যা তাই $\\sin$ পরিবর্তিত হয়ে $\\cos$ হবে। আবার, $\\left( \\frac{9\\pi}{2} + \\theta \\right)$ দশম বা দ্বিতীয় চতুর্ভাগে থাকে ফলে $\\sin$ এর চিহ্ন ধনাত্মক।",
+      "image": null,
+      "formulas": [
+        "\\sin \\left( \\frac{9\\pi}{2} + \\theta \\right)",
+        "n = 9",
+        "\\sin",
+        "\\cos",
+        "\\left( \\frac{9\\pi}{2} + \\theta \\right)",
+        "\\sin"
+      ],
+      "pdfPageStart": 189,
+      "pdfPageEnd": 189,
+      "printedPageStart": 184,
+      "printedPageEnd": 184,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p127",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\therefore \\sin \\left( \\frac{9\\pi}{2} + \\theta \\right) = \\cos \\theta$$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\sin \\left( \\frac{9\\pi}{2} + \\theta \\right) = \\cos \\theta"
+      ],
+      "pdfPageStart": 189,
+      "pdfPageEnd": 189,
+      "printedPageStart": 184,
+      "printedPageEnd": 184,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p128",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\sin \\left( \\frac{9\\pi}{2} - \\theta \\right)$ এর ক্ষেত্রে $n = 9$ বিজোড় এবং $\\left( \\frac{9\\pi}{2} - \\theta \\right)$ নবম বা প্রথম চতুর্ভাগে থাকায় $\\sin$ এর চিহ্ন ধনাত্মক।",
+      "image": null,
+      "formulas": [
+        "\\sin \\left( \\frac{9\\pi}{2} - \\theta \\right)",
+        "n = 9",
+        "\\left( \\frac{9\\pi}{2} - \\theta \\right)",
+        "\\sin"
+      ],
+      "pdfPageStart": 189,
+      "pdfPageEnd": 189,
+      "printedPageStart": 184,
+      "printedPageEnd": 184,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p129",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\therefore \\sin \\left( \\frac{9\\pi}{2} - \\theta \\right) = \\cos \\theta$$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\sin \\left( \\frac{9\\pi}{2} - \\theta \\right) = \\cos \\theta"
+      ],
+      "pdfPageStart": 189,
+      "pdfPageEnd": 189,
+      "printedPageStart": 184,
+      "printedPageEnd": 184,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p130",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\tan \\left( \\frac{9\\pi}{2} + \\theta \\right)$ এর ক্ষেত্রে $n = 9$ বিজোড় বলে $\\tan$ হবে $\\cot$ এবং $\\left( \\frac{9\\pi}{2} + \\theta \\right)$ দশম বা দ্বিতীয় চতুর্ভাগে থাকায় $\\tan$ এর চিহ্ন ঋণাত্মক।",
+      "image": null,
+      "formulas": [
+        "\\tan \\left( \\frac{9\\pi}{2} + \\theta \\right)",
+        "n = 9",
+        "\\tan",
+        "\\cot",
+        "\\left( \\frac{9\\pi}{2} + \\theta \\right)",
+        "\\tan"
+      ],
+      "pdfPageStart": 189,
+      "pdfPageEnd": 189,
+      "printedPageStart": 184,
+      "printedPageEnd": 184,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p131",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\therefore \\tan \\left( \\frac{9\\pi}{2} + \\theta \\right) = -\\cot \\theta$$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\tan \\left( \\frac{9\\pi}{2} + \\theta \\right) = -\\cot \\theta"
+      ],
+      "pdfPageStart": 189,
+      "pdfPageEnd": 189,
+      "printedPageStart": 184,
+      "printedPageEnd": 184,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p132",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "একইভাবে, $\\tan \\left( \\frac{9\\pi}{2} - \\theta \\right) = \\cot \\theta$",
+      "image": null,
+      "formulas": [
+        "\\tan \\left( \\frac{9\\pi}{2} - \\theta \\right) = \\cot \\theta"
+      ],
+      "pdfPageStart": 189,
+      "pdfPageEnd": 189,
+      "printedPageStart": 184,
+      "printedPageEnd": 184,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p133",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:** $\\sin \\left( \\frac{11\\pi}{2} \\pm \\theta \\right)$, $\\cos (11\\pi \\pm \\theta)$, $\\tan \\left( \\frac{17\\pi}{2} \\pm \\theta \\right)$, $\\cot (18\\pi \\pm \\theta)$, $\\sec \\left( \\frac{19\\pi}{2} \\pm \\theta \\right)$ এবং $\\csc (8\\pi \\pm \\theta)$ অনুপাতসমূহকে $\\theta$ কোণের অনুপাতে প্রকাশ করো।",
+      "image": null,
+      "formulas": [
+        "\\sin \\left( \\frac{11\\pi}{2} \\pm \\theta \\right)",
+        "\\cos (11\\pi \\pm \\theta)",
+        "\\tan \\left( \\frac{17\\pi}{2} \\pm \\theta \\right)",
+        "\\cot (18\\pi \\pm \\theta)",
+        "\\sec \\left( \\frac{19\\pi}{2} \\pm \\theta \\right)",
+        "\\csc (8\\pi \\pm \\theta)",
+        "\\theta"
+      ],
+      "pdfPageStart": 189,
+      "pdfPageEnd": 189,
+      "printedPageStart": 184,
+      "printedPageEnd": 184,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p134",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৩.** মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 189,
+      "pdfPageEnd": 189,
+      "printedPageStart": 184,
+      "printedPageEnd": 184,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p135",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $\\sin(10\\pi + \\theta)$\nখ) $\\cos \\left( \\frac{19\\pi}{3} \\right)$\nগ) $\\tan \\left( \\frac{11\\pi}{6} \\right)$\nঘ) $\\cot \\left( \\theta - \\frac{9\\pi}{2} \\right)$\nঙ) $\\sec \\left( -\\frac{17\\pi}{2} \\right)$",
+      "image": null,
+      "formulas": [
+        "\\sin(10\\pi + \\theta)",
+        "\\cos \\left( \\frac{19\\pi}{3} \\right)",
+        "\\tan \\left( \\frac{11\\pi}{6} \\right)",
+        "\\cot \\left( \\theta - \\frac{9\\pi}{2} \\right)",
+        "\\sec \\left( -\\frac{17\\pi}{2} \\right)"
+      ],
+      "pdfPageStart": 189,
+      "pdfPageEnd": 189,
+      "printedPageStart": 184,
+      "printedPageEnd": 184,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p136",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 189,
+      "pdfPageEnd": 189,
+      "printedPageStart": 184,
+      "printedPageEnd": 184,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p137",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $\\sin(10\\pi + \\theta) = \\sin(20 \\times \\frac{\\pi}{2} + \\theta)$",
+      "image": null,
+      "formulas": [
+        "\\sin(10\\pi + \\theta) = \\sin(20 \\times \\frac{\\pi}{2} + \\theta)"
+      ],
+      "pdfPageStart": 189,
+      "pdfPageEnd": 189,
+      "printedPageStart": 184,
+      "printedPageEnd": 184,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p138",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে $n = 20$ এবং $\\sin(20 \\times \\frac{\\pi}{2} + \\theta)$ কোণটি 21 তম বা প্রথম চতুর্ভাগে অবস্থিত।",
+      "image": null,
+      "formulas": [
+        "n = 20",
+        "\\sin(20 \\times \\frac{\\pi}{2} + \\theta)"
+      ],
+      "pdfPageStart": 189,
+      "pdfPageEnd": 189,
+      "printedPageStart": 184,
+      "printedPageEnd": 184,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p139",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\therefore \\sin(10\\pi + \\theta) = \\sin \\theta$$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\sin(10\\pi + \\theta) = \\sin \\theta"
+      ],
+      "pdfPageStart": 189,
+      "pdfPageEnd": 189,
+      "printedPageStart": 184,
+      "printedPageEnd": 184,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p140",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $\\cos \\left( \\frac{19\\pi}{3} \\right) = \\cos \\left( 6\\pi + \\frac{\\pi}{3} \\right) = \\cos \\left( 12 \\times \\frac{\\pi}{2} + \\frac{\\pi}{3} \\right)$",
+      "image": null,
+      "formulas": [
+        "\\cos \\left( \\frac{19\\pi}{3} \\right) = \\cos \\left( 6\\pi + \\frac{\\pi}{3} \\right) = \\cos \\left( 12 \\times \\frac{\\pi}{2} + \\frac{\\pi}{3} \\right)"
+      ],
+      "pdfPageStart": 190,
+      "pdfPageEnd": 190,
+      "printedPageStart": 185,
+      "printedPageEnd": 185,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p141",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে $n = 12$ এবং $\\frac{19\\pi}{3}$ প্রথম চতুর্ভাগে অবস্থিত।",
+      "image": null,
+      "formulas": [
+        "n = 12",
+        "\\frac{19\\pi}{3}"
+      ],
+      "pdfPageStart": 190,
+      "pdfPageEnd": 190,
+      "printedPageStart": 185,
+      "printedPageEnd": 185,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p142",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\cos \\left( \\frac{19\\pi}{3} \\right) = \\cos \\frac{\\pi}{3} = \\frac{1}{2}$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\cos \\left( \\frac{19\\pi}{3} \\right) = \\cos \\frac{\\pi}{3} = \\frac{1}{2}"
+      ],
+      "pdfPageStart": 190,
+      "pdfPageEnd": 190,
+      "printedPageStart": 185,
+      "printedPageEnd": 185,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p143",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $\\tan \\left( \\frac{11\\pi}{6} \\right) = \\tan \\left( 2\\pi - \\frac{\\pi}{6} \\right) = \\tan \\left( 4 \\times \\frac{\\pi}{2} - \\frac{\\pi}{6} \\right)$",
+      "image": null,
+      "formulas": [
+        "\\tan \\left( \\frac{11\\pi}{6} \\right) = \\tan \\left( 2\\pi - \\frac{\\pi}{6} \\right) = \\tan \\left( 4 \\times \\frac{\\pi}{2} - \\frac{\\pi}{6} \\right)"
+      ],
+      "pdfPageStart": 190,
+      "pdfPageEnd": 190,
+      "printedPageStart": 185,
+      "printedPageEnd": 185,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p144",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে $n = 4$ এবং $\\frac{11\\pi}{6}$ চতুর্থ চতুর্ভাগে অবস্থিত।",
+      "image": null,
+      "formulas": [
+        "n = 4",
+        "\\frac{11\\pi}{6}"
+      ],
+      "pdfPageStart": 190,
+      "pdfPageEnd": 190,
+      "printedPageStart": 185,
+      "printedPageEnd": 185,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p145",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\tan \\left( \\frac{11\\pi}{6} \\right) = -\\tan \\frac{\\pi}{6} = -\\frac{1}{\\sqrt{3}}$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\tan \\left( \\frac{11\\pi}{6} \\right) = -\\tan \\frac{\\pi}{6} = -\\frac{1}{\\sqrt{3}}"
+      ],
+      "pdfPageStart": 190,
+      "pdfPageEnd": 190,
+      "printedPageStart": 185,
+      "printedPageEnd": 185,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p146",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঘ) $\\cot \\left( \\theta - \\frac{9\\pi}{2} \\right) = \\cot \\left\\{ - \\left( \\frac{9\\pi}{2} - \\theta \\right) \\right\\} = -\\cot \\left( 9 \\times \\frac{\\pi}{2} - \\theta \\right)$",
+      "image": null,
+      "formulas": [
+        "\\cot \\left( \\theta - \\frac{9\\pi}{2} \\right) = \\cot \\left\\{ - \\left( \\frac{9\\pi}{2} - \\theta \\right) \\right\\} = -\\cot \\left( 9 \\times \\frac{\\pi}{2} - \\theta \\right)"
+      ],
+      "pdfPageStart": 190,
+      "pdfPageEnd": 190,
+      "printedPageStart": 185,
+      "printedPageEnd": 185,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p147",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে $n = 9$ এবং $\\frac{9\\pi}{2} - \\theta$ প্রথম চতুর্ভাগে অবস্থিত।",
+      "image": null,
+      "formulas": [
+        "n = 9",
+        "\\frac{9\\pi}{2} - \\theta"
+      ],
+      "pdfPageStart": 190,
+      "pdfPageEnd": 190,
+      "printedPageStart": 185,
+      "printedPageEnd": 185,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p148",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\cot \\left( \\theta - \\frac{9\\pi}{2} \\right) = -(\\tan \\theta) = -\\tan \\theta$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\cot \\left( \\theta - \\frac{9\\pi}{2} \\right) = -(\\tan \\theta) = -\\tan \\theta"
+      ],
+      "pdfPageStart": 190,
+      "pdfPageEnd": 190,
+      "printedPageStart": 185,
+      "printedPageEnd": 185,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p149",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঙ) $\\sec \\left( -\\frac{17\\pi}{2} \\right) = \\sec \\left( \\frac{17\\pi}{2} \\right) [\\because \\sec(-\\theta) = \\sec \\theta]$",
+      "image": null,
+      "formulas": [
+        "\\sec \\left( -\\frac{17\\pi}{2} \\right) = \\sec \\left( \\frac{17\\pi}{2} \\right) [\\because \\sec(-\\theta) = \\sec \\theta]"
+      ],
+      "pdfPageStart": 190,
+      "pdfPageEnd": 190,
+      "printedPageStart": 185,
+      "printedPageEnd": 185,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p150",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$= \\sec \\left( 17 \\times \\frac{\\pi}{2} + 0 \\right)$",
+      "image": null,
+      "formulas": [
+        "= \\sec \\left( 17 \\times \\frac{\\pi}{2} + 0 \\right)"
+      ],
+      "pdfPageStart": 190,
+      "pdfPageEnd": 190,
+      "printedPageStart": 185,
+      "printedPageEnd": 185,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p151",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে $n = 17$ এবং $\\frac{17\\pi}{2}$, $y$ অক্ষের উপরে অবস্থিত।",
+      "image": null,
+      "formulas": [
+        "n = 17",
+        "\\frac{17\\pi}{2}",
+        "y"
+      ],
+      "pdfPageStart": 190,
+      "pdfPageEnd": 190,
+      "printedPageStart": 185,
+      "printedPageEnd": 185,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p152",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\sec \\left( -\\frac{17\\pi}{2} \\right) = cosec  0,  অসংজ্ঞায়িত$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\sec \\left( -\\frac{17\\pi}{2} \\right) = cosec  0,  অসংজ্ঞায়িত"
+      ],
+      "pdfPageStart": 190,
+      "pdfPageEnd": 190,
+      "printedPageStart": 185,
+      "printedPageEnd": 185,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p153",
+      "kind": "formula",
+      "section": "উদাহরণ ২৪. মান নির্ণয় করো:",
+      "caption": null,
+      "body": "$$\\sin \\frac{11}{90}\\pi + \\cos \\frac{1}{30}\\pi + \\sin \\frac{101}{90}\\pi + \\cos \\frac{31}{30}\\pi + \\cos \\frac{5}{3}\\pi$$",
+      "image": null,
+      "formulas": [
+        "\\sin \\frac{11}{90}\\pi + \\cos \\frac{1}{30}\\pi + \\sin \\frac{101}{90}\\pi + \\cos \\frac{31}{30}\\pi + \\cos \\frac{5}{3}\\pi"
+      ],
+      "pdfPageStart": 190,
+      "pdfPageEnd": 190,
+      "printedPageStart": 185,
+      "printedPageEnd": 185,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p154",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$$\\sin \\frac{11}{90}\\pi + \\cos \\frac{1}{30}\\pi + \\sin \\frac{101}{90}\\pi + \\cos \\frac{31}{30}\\pi + \\cos \\frac{5}{3}\\pi$$",
+      "image": null,
+      "formulas": [
+        "\\sin \\frac{11}{90}\\pi + \\cos \\frac{1}{30}\\pi + \\sin \\frac{101}{90}\\pi + \\cos \\frac{31}{30}\\pi + \\cos \\frac{5}{3}\\pi"
+      ],
+      "pdfPageStart": 190,
+      "pdfPageEnd": 190,
+      "printedPageStart": 185,
+      "printedPageEnd": 185,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p155",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$$= \\sin \\frac{22}{180}\\pi + \\cos \\frac{6}{180}\\pi + \\sin \\frac{202}{180}\\pi + \\cos \\frac{186}{180}\\pi + \\cos \\frac{300}{180}\\pi$$",
+      "image": null,
+      "formulas": [
+        "= \\sin \\frac{22}{180}\\pi + \\cos \\frac{6}{180}\\pi + \\sin \\frac{202}{180}\\pi + \\cos \\frac{186}{180}\\pi + \\cos \\frac{300}{180}\\pi"
+      ],
+      "pdfPageStart": 190,
+      "pdfPageEnd": 190,
+      "printedPageStart": 185,
+      "printedPageEnd": 185,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p156",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$$= \\sin \\frac{22}{180}\\pi + \\cos \\frac{6}{180}\\pi + \\sin(\\pi + \\frac{22}{180}\\pi) + \\cos(\\pi + \\frac{6}{180}\\pi) + \\cos(2\\pi - \\frac{60}{180}\\pi)$$",
+      "image": null,
+      "formulas": [
+        "= \\sin \\frac{22}{180}\\pi + \\cos \\frac{6}{180}\\pi + \\sin(\\pi + \\frac{22}{180}\\pi) + \\cos(\\pi + \\frac{6}{180}\\pi) + \\cos(2\\pi - \\frac{60}{180}\\pi)"
+      ],
+      "pdfPageStart": 190,
+      "pdfPageEnd": 190,
+      "printedPageStart": 185,
+      "printedPageEnd": 185,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p157",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$$= \\sin \\frac{22}{180}\\pi + \\cos \\frac{6}{180}\\pi - \\sin \\frac{22}{180}\\pi - \\cos \\frac{6}{180}\\pi + \\cos \\frac{60}{180}\\pi$$",
+      "image": null,
+      "formulas": [
+        "= \\sin \\frac{22}{180}\\pi + \\cos \\frac{6}{180}\\pi - \\sin \\frac{22}{180}\\pi - \\cos \\frac{6}{180}\\pi + \\cos \\frac{60}{180}\\pi"
+      ],
+      "pdfPageStart": 191,
+      "pdfPageEnd": 191,
+      "printedPageStart": 186,
+      "printedPageEnd": 186,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p158",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$$= \\cos \\frac{\\pi}{3}$$",
+      "image": null,
+      "formulas": [
+        "= \\cos \\frac{\\pi}{3}"
+      ],
+      "pdfPageStart": 191,
+      "pdfPageEnd": 191,
+      "printedPageStart": 186,
+      "printedPageEnd": 186,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p159",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$$= \\frac{1}{2}$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{1}{2}"
+      ],
+      "pdfPageStart": 191,
+      "pdfPageEnd": 191,
+      "printedPageStart": 186,
+      "printedPageEnd": 186,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p160",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "**কাজ: মান নির্ণয় করো:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 191,
+      "pdfPageEnd": 191,
+      "printedPageStart": 186,
+      "printedPageEnd": 186,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p161",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$$\\cos^2 \\frac{\\pi}{15} + \\cos^2 \\frac{13\\pi}{30} + \\cos^2 \\frac{16\\pi}{15} + \\cos^2 \\frac{47\\pi}{30}$$",
+      "image": null,
+      "formulas": [
+        "\\cos^2 \\frac{\\pi}{15} + \\cos^2 \\frac{13\\pi}{30} + \\cos^2 \\frac{16\\pi}{15} + \\cos^2 \\frac{47\\pi}{30}"
+      ],
+      "pdfPageStart": 191,
+      "pdfPageEnd": 191,
+      "printedPageStart": 186,
+      "printedPageEnd": 186,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p162",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "**উদাহরণ ২৫.** $\\tan \\theta = \\frac{5}{12}$ এবং $\\cos \\theta$ ঋণাত্মক হলে, প্রমাণ করো যে, $\\frac{\\sin \\theta + \\cos(-\\theta)}{\\sec(-\\theta) + \\tan \\theta} = \\frac{51}{26}$",
+      "image": null,
+      "formulas": [
+        "\\tan \\theta = \\frac{5}{12}",
+        "\\cos \\theta",
+        "\\frac{\\sin \\theta + \\cos(-\\theta)}{\\sec(-\\theta) + \\tan \\theta} = \\frac{51}{26}"
+      ],
+      "pdfPageStart": 191,
+      "pdfPageEnd": 191,
+      "printedPageStart": 186,
+      "printedPageEnd": 186,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p163",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "**সমাধান:** $\\tan \\theta = \\frac{5}{12}$ এবং $\\cos \\theta$ ঋণাত্মক হওয়ায় $\\theta$ কোণের অবস্থান তৃতীয় চতুর্ভাগে।",
+      "image": null,
+      "formulas": [
+        "\\tan \\theta = \\frac{5}{12}",
+        "\\cos \\theta",
+        "\\theta"
+      ],
+      "pdfPageStart": 191,
+      "pdfPageEnd": 191,
+      "printedPageStart": 186,
+      "printedPageEnd": 186,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p164",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "অর্থাৎ, $\\tan \\theta = \\frac{5}{12} = \\frac{y}{x}$",
+      "image": null,
+      "formulas": [
+        "\\tan \\theta = \\frac{5}{12} = \\frac{y}{x}"
+      ],
+      "pdfPageStart": 191,
+      "pdfPageEnd": 191,
+      "printedPageStart": 186,
+      "printedPageEnd": 186,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p165",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore x = 12, y = 5$",
+      "image": null,
+      "formulas": [
+        "\\therefore x = 12, y = 5"
+      ],
+      "pdfPageStart": 191,
+      "pdfPageEnd": 191,
+      "printedPageStart": 186,
+      "printedPageEnd": 186,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p166",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore r = \\sqrt{(12)^2 + (5)^2} = \\sqrt{144 + 25} = \\sqrt{169} = 13$",
+      "image": null,
+      "formulas": [
+        "\\therefore r = \\sqrt{(12)^2 + (5)^2} = \\sqrt{144 + 25} = \\sqrt{169} = 13"
+      ],
+      "pdfPageStart": 191,
+      "pdfPageEnd": 191,
+      "printedPageStart": 186,
+      "printedPageEnd": 186,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p167",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore \\sin \\theta = \\frac{-y}{r} = -\\frac{5}{13}, \\cos \\theta = \\frac{-x}{r} = \\frac{-12}{13}$ এবং $\\sec \\theta = \\frac{1}{\\cos \\theta} = -\\frac{13}{12}$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\sin \\theta = \\frac{-y}{r} = -\\frac{5}{13}, \\cos \\theta = \\frac{-x}{r} = \\frac{-12}{13}",
+        "\\sec \\theta = \\frac{1}{\\cos \\theta} = -\\frac{13}{12}"
+      ],
+      "pdfPageStart": 191,
+      "pdfPageEnd": 191,
+      "printedPageStart": 186,
+      "printedPageEnd": 186,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p168",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$$\\therefore \\frac{\\sin \\theta + \\cos(-\\theta)}{\\sec(-\\theta) + \\tan \\theta} = \\frac{\\sin \\theta + \\cos \\theta}{\\sec \\theta + \\tan \\theta} \\quad [\\because \\cos(-\\theta) = \\cos \\theta, \\sec(-\\theta) = \\sec \\theta]$$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\frac{\\sin \\theta + \\cos(-\\theta)}{\\sec(-\\theta) + \\tan \\theta} = \\frac{\\sin \\theta + \\cos \\theta}{\\sec \\theta + \\tan \\theta} \\quad [\\because \\cos(-\\theta) = \\cos \\theta, \\sec(-\\theta) = \\sec \\theta]"
+      ],
+      "pdfPageStart": 191,
+      "pdfPageEnd": 191,
+      "printedPageStart": 186,
+      "printedPageEnd": 186,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p169",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$$= \\frac{\\frac{5}{13} - \\frac{12}{13}}{\\frac{-12}{13} + \\frac{5}{12}} = \\frac{-\\frac{13}{13}}{-\\frac{8}{12}} = \\frac{17}{13} \\times \\frac{12}{8} = \\frac{51}{26} \\quad [প্রমাণিত]$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{\\frac{5}{13} - \\frac{12}{13}}{\\frac{-12}{13} + \\frac{5}{12}} = \\frac{-\\frac{13}{13}}{-\\frac{8}{12}} = \\frac{17}{13} \\times \\frac{12}{8} = \\frac{51}{26} \\quad [প্রমাণিত]"
+      ],
+      "pdfPageStart": 191,
+      "pdfPageEnd": 191,
+      "printedPageStart": 186,
+      "printedPageEnd": 186,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p170",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "**উদাহরণ ২৬.** $\\tan \\theta = -\\sqrt{3}, \\frac{\\pi}{2} < \\theta < 2\\pi$ হলে $\\theta$ এর মান কত?",
+      "image": null,
+      "formulas": [
+        "\\tan \\theta = -\\sqrt{3}, \\frac{\\pi}{2} < \\theta < 2\\pi",
+        "\\theta"
+      ],
+      "pdfPageStart": 191,
+      "pdfPageEnd": 191,
+      "printedPageStart": 186,
+      "printedPageEnd": 186,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p171",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "**সমাধান:** $\\tan \\theta$ ঋণাত্মক হওয়ায় $\\theta$ এর অবস্থান দ্বিতীয় বা চতুর্থ চতুর্ভাগে থাকবে।",
+      "image": null,
+      "formulas": [
+        "\\tan \\theta",
+        "\\theta"
+      ],
+      "pdfPageStart": 191,
+      "pdfPageEnd": 191,
+      "printedPageStart": 186,
+      "printedPageEnd": 186,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p172",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "দ্বিতীয় চতুর্ভাগে $\\tan \\theta = -\\sqrt{3} = \\tan \\left( \\pi - \\frac{\\pi}{3} \\right) = \\tan \\frac{2\\pi}{3}$",
+      "image": null,
+      "formulas": [
+        "\\tan \\theta = -\\sqrt{3} = \\tan \\left( \\pi - \\frac{\\pi}{3} \\right) = \\tan \\frac{2\\pi}{3}"
+      ],
+      "pdfPageStart": 191,
+      "pdfPageEnd": 191,
+      "printedPageStart": 186,
+      "printedPageEnd": 186,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p173",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore \\theta = \\frac{2\\pi}{3}$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\theta = \\frac{2\\pi}{3}"
+      ],
+      "pdfPageStart": 191,
+      "pdfPageEnd": 191,
+      "printedPageStart": 186,
+      "printedPageEnd": 186,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p174",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "এটি গ্রহণযোগ্য মান। কারণ $\\frac{\\pi}{2} < \\theta < 2\\pi$",
+      "image": null,
+      "formulas": [
+        "\\frac{\\pi}{2} < \\theta < 2\\pi"
+      ],
+      "pdfPageStart": 191,
+      "pdfPageEnd": 191,
+      "printedPageStart": 186,
+      "printedPageEnd": 186,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p175",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "আবার, চতুর্থ চতুর্ভাগে $\\tan \\theta = -\\sqrt{3} = \\tan \\left( 2\\pi - \\frac{\\pi}{3} \\right) = \\tan \\frac{5\\pi}{3}$",
+      "image": null,
+      "formulas": [
+        "\\tan \\theta = -\\sqrt{3} = \\tan \\left( 2\\pi - \\frac{\\pi}{3} \\right) = \\tan \\frac{5\\pi}{3}"
+      ],
+      "pdfPageStart": 191,
+      "pdfPageEnd": 191,
+      "printedPageStart": 186,
+      "printedPageEnd": 186,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p176",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$$\\therefore \\theta = \\frac{5\\pi}{3}$$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\theta = \\frac{5\\pi}{3}"
+      ],
+      "pdfPageStart": 192,
+      "pdfPageEnd": 192,
+      "printedPageStart": 187,
+      "printedPageEnd": 187,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p177",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "এটিও গ্রহণযোগ্য মান। কারণ $\\frac{\\pi}{2} < \\theta < 2\\pi$",
+      "image": null,
+      "formulas": [
+        "\\frac{\\pi}{2} < \\theta < 2\\pi"
+      ],
+      "pdfPageStart": 192,
+      "pdfPageEnd": 192,
+      "printedPageStart": 187,
+      "printedPageEnd": 187,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p178",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$$\\therefore \\theta  এর মান  \\frac{2\\pi}{3}  ও  \\frac{5\\pi}{3}$$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\theta  এর মান  \\frac{2\\pi}{3}  ও  \\frac{5\\pi}{3}"
+      ],
+      "pdfPageStart": 192,
+      "pdfPageEnd": 192,
+      "printedPageStart": 187,
+      "printedPageEnd": 187,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p179",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "**উদাহরণ ২৭.** সমাধান করো: $0 < \\theta < \\frac{\\pi}{2}$ হলে $\\sin\\theta + \\cos\\theta = \\sqrt{2}$",
+      "image": null,
+      "formulas": [
+        "0 < \\theta < \\frac{\\pi}{2}",
+        "\\sin\\theta + \\cos\\theta = \\sqrt{2}"
+      ],
+      "pdfPageStart": 192,
+      "pdfPageEnd": 192,
+      "printedPageStart": 187,
+      "printedPageEnd": 187,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p180",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "**সমাধান:** $\\sin\\theta + \\cos\\theta = \\sqrt{2}$",
+      "image": null,
+      "formulas": [
+        "\\sin\\theta + \\cos\\theta = \\sqrt{2}"
+      ],
+      "pdfPageStart": 192,
+      "pdfPageEnd": 192,
+      "printedPageStart": 187,
+      "printedPageEnd": 187,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p181",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $\\sin\\theta = \\sqrt{2} - \\cos\\theta \\implies \\sin^2\\theta = 2 - 2\\sqrt{2}\\cos\\theta + \\cos^2\\theta$",
+      "image": null,
+      "formulas": [
+        "\\sin\\theta = \\sqrt{2} - \\cos\\theta \\implies \\sin^2\\theta = 2 - 2\\sqrt{2}\\cos\\theta + \\cos^2\\theta"
+      ],
+      "pdfPageStart": 192,
+      "pdfPageEnd": 192,
+      "printedPageStart": 187,
+      "printedPageEnd": 187,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p182",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $1 - \\cos^2\\theta = 2 - 2\\sqrt{2}\\cos\\theta + \\cos^2\\theta$",
+      "image": null,
+      "formulas": [
+        "1 - \\cos^2\\theta = 2 - 2\\sqrt{2}\\cos\\theta + \\cos^2\\theta"
+      ],
+      "pdfPageStart": 192,
+      "pdfPageEnd": 192,
+      "printedPageStart": 187,
+      "printedPageEnd": 187,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p183",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $2\\cos^2\\theta - 2\\sqrt{2}\\cos\\theta + 1 = 0 \\implies (\\sqrt{2}\\cos\\theta - 1)^2 = 0$",
+      "image": null,
+      "formulas": [
+        "2\\cos^2\\theta - 2\\sqrt{2}\\cos\\theta + 1 = 0 \\implies (\\sqrt{2}\\cos\\theta - 1)^2 = 0"
+      ],
+      "pdfPageStart": 192,
+      "pdfPageEnd": 192,
+      "printedPageStart": 187,
+      "printedPageEnd": 187,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p184",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $\\sqrt{2}\\cos\\theta - 1 = 0$",
+      "image": null,
+      "formulas": [
+        "\\sqrt{2}\\cos\\theta - 1 = 0"
+      ],
+      "pdfPageStart": 192,
+      "pdfPageEnd": 192,
+      "printedPageStart": 187,
+      "printedPageEnd": 187,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p185",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $\\cos\\theta = \\frac{1}{\\sqrt{2}} = \\cos\\frac{\\pi}{4}$",
+      "image": null,
+      "formulas": [
+        "\\cos\\theta = \\frac{1}{\\sqrt{2}} = \\cos\\frac{\\pi}{4}"
+      ],
+      "pdfPageStart": 192,
+      "pdfPageEnd": 192,
+      "printedPageStart": 187,
+      "printedPageEnd": 187,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p186",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$$\\therefore \\theta = \\frac{\\pi}{4}$$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\theta = \\frac{\\pi}{4}"
+      ],
+      "pdfPageStart": 192,
+      "pdfPageEnd": 192,
+      "printedPageStart": 187,
+      "printedPageEnd": 187,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p187",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "নির্দেশ সমাধান: $\\theta = \\frac{\\pi}{4}$",
+      "image": null,
+      "formulas": [
+        "\\theta = \\frac{\\pi}{4}"
+      ],
+      "pdfPageStart": 192,
+      "pdfPageEnd": 192,
+      "printedPageStart": 187,
+      "printedPageEnd": 187,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p188",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "**উদাহরণ ২৮.** $0 < \\theta < 2\\pi$ ব্যবধিতে সমীকরণটির সমাধান করো: $\\sin^2\\theta - \\cos^2\\theta = \\cos\\theta$",
+      "image": null,
+      "formulas": [
+        "0 < \\theta < 2\\pi",
+        "\\sin^2\\theta - \\cos^2\\theta = \\cos\\theta"
+      ],
+      "pdfPageStart": 192,
+      "pdfPageEnd": 192,
+      "printedPageStart": 187,
+      "printedPageEnd": 187,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p189",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "**সমাধান:** $\\sin^2\\theta - \\cos^2\\theta = \\cos\\theta$",
+      "image": null,
+      "formulas": [
+        "\\sin^2\\theta - \\cos^2\\theta = \\cos\\theta"
+      ],
+      "pdfPageStart": 192,
+      "pdfPageEnd": 192,
+      "printedPageStart": 187,
+      "printedPageEnd": 187,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p190",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $1 - \\cos^2\\theta - \\cos^2\\theta = \\cos\\theta$",
+      "image": null,
+      "formulas": [
+        "1 - \\cos^2\\theta - \\cos^2\\theta = \\cos\\theta"
+      ],
+      "pdfPageStart": 192,
+      "pdfPageEnd": 192,
+      "printedPageStart": 187,
+      "printedPageEnd": 187,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p191",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $1 - 2\\cos^2\\theta - \\cos\\theta = 0 \\implies 2\\cos^2\\theta + \\cos\\theta - 1 = 0$",
+      "image": null,
+      "formulas": [
+        "1 - 2\\cos^2\\theta - \\cos\\theta = 0 \\implies 2\\cos^2\\theta + \\cos\\theta - 1 = 0"
+      ],
+      "pdfPageStart": 192,
+      "pdfPageEnd": 192,
+      "printedPageStart": 187,
+      "printedPageEnd": 187,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p192",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $(2\\cos\\theta - 1)(\\cos\\theta + 1) = 0$",
+      "image": null,
+      "formulas": [
+        "(2\\cos\\theta - 1)(\\cos\\theta + 1) = 0"
+      ],
+      "pdfPageStart": 192,
+      "pdfPageEnd": 192,
+      "printedPageStart": 187,
+      "printedPageEnd": 187,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p193",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$$\\therefore 2\\cos\\theta - 1 = 0  অথবা  \\cos\\theta + 1 = 0$$",
+      "image": null,
+      "formulas": [
+        "\\therefore 2\\cos\\theta - 1 = 0  অথবা  \\cos\\theta + 1 = 0"
+      ],
+      "pdfPageStart": 192,
+      "pdfPageEnd": 192,
+      "printedPageStart": 187,
+      "printedPageEnd": 187,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p194",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "অর্থাৎ, $\\cos\\theta = \\frac{1}{2}$ অথবা $\\cos\\theta = -1$",
+      "image": null,
+      "formulas": [
+        "\\cos\\theta = \\frac{1}{2}",
+        "\\cos\\theta = -1"
+      ],
+      "pdfPageStart": 192,
+      "pdfPageEnd": 192,
+      "printedPageStart": 187,
+      "printedPageEnd": 187,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p195",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "অর্থাৎ, $\\cos\\theta = \\cos\\frac{\\pi}{3}$ অথবা $\\cos\\theta = \\cos\\pi$",
+      "image": null,
+      "formulas": [
+        "\\cos\\theta = \\cos\\frac{\\pi}{3}",
+        "\\cos\\theta = \\cos\\pi"
+      ],
+      "pdfPageStart": 192,
+      "pdfPageEnd": 192,
+      "printedPageStart": 187,
+      "printedPageEnd": 187,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p196",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$$\\therefore \\theta = \\frac{\\pi}{3}, \\pi, \\frac{5\\pi}{3}$$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\theta = \\frac{\\pi}{3}, \\pi, \\frac{5\\pi}{3}"
+      ],
+      "pdfPageStart": 192,
+      "pdfPageEnd": 192,
+      "printedPageStart": 187,
+      "printedPageEnd": 187,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p197",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "নির্দেশ সমাধান: $\\theta = \\frac{\\pi}{3}, \\pi, \\frac{5\\pi}{3}$",
+      "image": null,
+      "formulas": [
+        "\\theta = \\frac{\\pi}{3}, \\pi, \\frac{5\\pi}{3}"
+      ],
+      "pdfPageStart": 192,
+      "pdfPageEnd": 192,
+      "printedPageStart": 187,
+      "printedPageEnd": 187,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p198",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "**কাজ:** $2 (\\sin\\theta\\cos\\theta + \\sqrt{3}) = \\sqrt{3}\\cos\\theta + 4\\sin\\theta$ সমীকরণটি সমাধান করো,\nযেখানে $0 < \\theta < 2\\pi$",
+      "image": null,
+      "formulas": [
+        "2 (\\sin\\theta\\cos\\theta + \\sqrt{3}) = \\sqrt{3}\\cos\\theta + 4\\sin\\theta",
+        "0 < \\theta < 2\\pi"
+      ],
+      "pdfPageStart": 193,
+      "pdfPageEnd": 193,
+      "printedPageStart": 188,
+      "printedPageEnd": 188,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p199",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "**উদাহরণ ২৯.** $A = \\frac{\\cot\\theta + \\csc\\theta - 1}{\\cot\\theta - \\csc\\theta + 1}$ এবং $B = \\cot\\theta + \\csc\\theta$",
+      "image": null,
+      "formulas": [
+        "A = \\frac{\\cot\\theta + \\csc\\theta - 1}{\\cot\\theta - \\csc\\theta + 1}",
+        "B = \\cot\\theta + \\csc\\theta"
+      ],
+      "pdfPageStart": 193,
+      "pdfPageEnd": 193,
+      "printedPageStart": 188,
+      "printedPageEnd": 188,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p200",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "ক) $\\theta = \\frac{\\pi}{3}$ হলে দেখাও যে, $B = \\sqrt{3}$",
+      "image": null,
+      "formulas": [
+        "\\theta = \\frac{\\pi}{3}",
+        "B = \\sqrt{3}"
+      ],
+      "pdfPageStart": 193,
+      "pdfPageEnd": 193,
+      "printedPageStart": 188,
+      "printedPageEnd": 188,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p201",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "খ) প্রমাণ করো যে, $A^2 - B^2 = 0$",
+      "image": null,
+      "formulas": [
+        "A^2 - B^2 = 0"
+      ],
+      "pdfPageStart": 193,
+      "pdfPageEnd": 193,
+      "printedPageStart": 188,
+      "printedPageEnd": 188,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p202",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "গ) $B = \\frac{1}{\\sqrt{3}}$ এবং $0 < \\theta \\le 2\\pi$ হলে $\\theta$ এর সম্ভাব্য মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "B = \\frac{1}{\\sqrt{3}}",
+        "0 < \\theta \\le 2\\pi",
+        "\\theta"
+      ],
+      "pdfPageStart": 193,
+      "pdfPageEnd": 193,
+      "printedPageStart": 188,
+      "printedPageEnd": 188,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p203",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "**সমাধান:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 193,
+      "pdfPageEnd": 193,
+      "printedPageStart": 188,
+      "printedPageEnd": 188,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p204",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "ক) $B = \\cot\\theta + \\csc\\theta = \\cot\\frac{\\pi}{3} + \\csc\\frac{\\pi}{3}$ $[\\because \\theta = \\frac{\\pi}{3}]$\n$$= \\frac{1}{\\sqrt{3}} + \\frac{2}{\\sqrt{3}} = \\frac{3}{\\sqrt{3}} = \\sqrt{3}$$",
+      "image": null,
+      "formulas": [
+        "B = \\cot\\theta + \\csc\\theta = \\cot\\frac{\\pi}{3} + \\csc\\frac{\\pi}{3}",
+        "[\\because \\theta = \\frac{\\pi}{3}]",
+        "= \\frac{1}{\\sqrt{3}} + \\frac{2}{\\sqrt{3}} = \\frac{3}{\\sqrt{3}} = \\sqrt{3}"
+      ],
+      "pdfPageStart": 193,
+      "pdfPageEnd": 193,
+      "printedPageStart": 188,
+      "printedPageEnd": 188,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p205",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "খ) $A = \\frac{\\cot\\theta + \\csc\\theta - 1}{\\cot\\theta - \\csc\\theta + 1}$\n$$= \\frac{\\cot\\theta + \\csc\\theta - (\\csc^2\\theta - \\cot^2\\theta)}{\\cot\\theta - \\csc\\theta + 1} \\quad [\\because \\csc^2\\theta - \\cot^2\\theta = 1]$$\n$$= \\frac{\\cot\\theta + \\csc\\theta - (\\csc\\theta + \\cot\\theta)(\\csc\\theta - \\cot\\theta)}{\\cot\\theta - \\csc\\theta + 1}$$\n$$= \\frac{(\\cot\\theta + \\csc\\theta)(1 - \\csc\\theta + \\cot\\theta)}{\\cot\\theta - \\csc\\theta + 1} = \\cot\\theta + \\csc\\theta = B$$\n$\\therefore A^2 = B^2$\n$\\therefore A^2 - B^2 = 0$",
+      "image": null,
+      "formulas": [
+        "A = \\frac{\\cot\\theta + \\csc\\theta - 1}{\\cot\\theta - \\csc\\theta + 1}",
+        "= \\frac{\\cot\\theta + \\csc\\theta - (\\csc^2\\theta - \\cot^2\\theta)}{\\cot\\theta - \\csc\\theta + 1} \\quad [\\because \\csc^2\\theta - \\cot^2\\theta = 1]",
+        "= \\frac{\\cot\\theta + \\csc\\theta - (\\csc\\theta + \\cot\\theta)(\\csc\\theta - \\cot\\theta)}{\\cot\\theta - \\csc\\theta + 1}",
+        "= \\frac{(\\cot\\theta + \\csc\\theta)(1 - \\csc\\theta + \\cot\\theta)}{\\cot\\theta - \\csc\\theta + 1} = \\cot\\theta + \\csc\\theta = B",
+        "\\therefore A^2 = B^2",
+        "\\therefore A^2 - B^2 = 0"
+      ],
+      "pdfPageStart": 193,
+      "pdfPageEnd": 193,
+      "printedPageStart": 188,
+      "printedPageEnd": 188,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p206",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "গ) $B = \\frac{1}{\\sqrt{3}}$",
+      "image": null,
+      "formulas": [
+        "B = \\frac{1}{\\sqrt{3}}"
+      ],
+      "pdfPageStart": 193,
+      "pdfPageEnd": 193,
+      "printedPageStart": 188,
+      "printedPageEnd": 188,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p207",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $\\cot\\theta + \\csc\\theta = \\frac{1}{\\sqrt{3}} \\implies \\frac{\\cos\\theta}{\\sin\\theta} + \\frac{1}{\\sin\\theta} = \\frac{1}{\\sqrt{3}}$",
+      "image": null,
+      "formulas": [
+        "\\cot\\theta + \\csc\\theta = \\frac{1}{\\sqrt{3}} \\implies \\frac{\\cos\\theta}{\\sin\\theta} + \\frac{1}{\\sin\\theta} = \\frac{1}{\\sqrt{3}}"
+      ],
+      "pdfPageStart": 193,
+      "pdfPageEnd": 193,
+      "printedPageStart": 188,
+      "printedPageEnd": 188,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p208",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $\\frac{\\cos\\theta + 1}{\\sin\\theta} = \\frac{1}{\\sqrt{3}} \\implies \\sqrt{3}(\\cos\\theta + 1) = \\sin\\theta$",
+      "image": null,
+      "formulas": [
+        "\\frac{\\cos\\theta + 1}{\\sin\\theta} = \\frac{1}{\\sqrt{3}} \\implies \\sqrt{3}(\\cos\\theta + 1) = \\sin\\theta"
+      ],
+      "pdfPageStart": 193,
+      "pdfPageEnd": 193,
+      "printedPageStart": 188,
+      "printedPageEnd": 188,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p209",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $3(\\cos^2\\theta + 2\\cos\\theta + 1) = \\sin^2\\theta$ [বর্গ করে]",
+      "image": null,
+      "formulas": [
+        "3(\\cos^2\\theta + 2\\cos\\theta + 1) = \\sin^2\\theta"
+      ],
+      "pdfPageStart": 193,
+      "pdfPageEnd": 193,
+      "printedPageStart": 188,
+      "printedPageEnd": 188,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p210",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $3\\cos^2\\theta + 6\\cos\\theta + 3 = 1 - \\cos^2\\theta$",
+      "image": null,
+      "formulas": [
+        "3\\cos^2\\theta + 6\\cos\\theta + 3 = 1 - \\cos^2\\theta"
+      ],
+      "pdfPageStart": 193,
+      "pdfPageEnd": 193,
+      "printedPageStart": 188,
+      "printedPageEnd": 188,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p211",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $4\\cos^2\\theta + 6\\cos\\theta + 2 = 0 \\implies 2\\cos^2\\theta + 3\\cos\\theta + 1 = 0$",
+      "image": null,
+      "formulas": [
+        "4\\cos^2\\theta + 6\\cos\\theta + 2 = 0 \\implies 2\\cos^2\\theta + 3\\cos\\theta + 1 = 0"
+      ],
+      "pdfPageStart": 193,
+      "pdfPageEnd": 193,
+      "printedPageStart": 188,
+      "printedPageEnd": 188,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p212",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $2\\cos^2\\theta + 2\\cos\\theta + \\cos\\theta + 1 = 0$ বা, $2\\cos\\theta(\\cos\\theta + 1) + 1(\\cos\\theta + 1) = 0 \\implies (\\cos\\theta + 1)(2\\cos\\theta + 1) = 0$",
+      "image": null,
+      "formulas": [
+        "2\\cos^2\\theta + 2\\cos\\theta + \\cos\\theta + 1 = 0",
+        "2\\cos\\theta(\\cos\\theta + 1) + 1(\\cos\\theta + 1) = 0 \\implies (\\cos\\theta + 1)(2\\cos\\theta + 1) = 0"
+      ],
+      "pdfPageStart": 193,
+      "pdfPageEnd": 194,
+      "printedPageStart": 188,
+      "printedPageEnd": 189,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p213",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore \\cos\\theta + 1 = 0$ অথবা, $2\\cos\\theta + 1 = 0$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\cos\\theta + 1 = 0",
+        "2\\cos\\theta + 1 = 0"
+      ],
+      "pdfPageStart": 194,
+      "pdfPageEnd": 194,
+      "printedPageStart": 189,
+      "printedPageEnd": 189,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p214",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "অর্থাৎ, $\\cos\\theta = -1$ অথবা, $\\cos\\theta = -\\frac{1}{2}$",
+      "image": null,
+      "formulas": [
+        "\\cos\\theta = -1",
+        "\\cos\\theta = -\\frac{1}{2}"
+      ],
+      "pdfPageStart": 194,
+      "pdfPageEnd": 194,
+      "printedPageStart": 189,
+      "printedPageEnd": 189,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p215",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "অর্থাৎ, $\\cos\\theta = \\cos\\pi$ অথবা, $\\cos\\theta = \\cos\\left(\\pi - \\frac{\\pi}{3}\\right), \\cos\\left(\\pi + \\frac{\\pi}{3}\\right)$",
+      "image": null,
+      "formulas": [
+        "\\cos\\theta = \\cos\\pi",
+        "\\cos\\theta = \\cos\\left(\\pi - \\frac{\\pi}{3}\\right), \\cos\\left(\\pi + \\frac{\\pi}{3}\\right)"
+      ],
+      "pdfPageStart": 194,
+      "pdfPageEnd": 194,
+      "printedPageStart": 189,
+      "printedPageEnd": 189,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p216",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "অর্থাৎ, $\\theta = \\pi$ অথবা, $\\frac{2\\pi}{3}, \\frac{4\\pi}{3}$; কিন্তু $\\theta = \\pi, \\frac{4\\pi}{3}$ দ্বারা সমীকরণটি সিদ্ধ হয় না।",
+      "image": null,
+      "formulas": [
+        "\\theta = \\pi",
+        "\\frac{2\\pi}{3}, \\frac{4\\pi}{3}",
+        "\\theta = \\pi, \\frac{4\\pi}{3}"
+      ],
+      "pdfPageStart": 194,
+      "pdfPageEnd": 194,
+      "printedPageStart": 189,
+      "printedPageEnd": 189,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p217",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore \\theta = \\frac{2\\pi}{3}$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\theta = \\frac{2\\pi}{3}"
+      ],
+      "pdfPageStart": 194,
+      "pdfPageEnd": 194,
+      "printedPageStart": 189,
+      "printedPageEnd": 189,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.9-p218",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "নির্ণেয় সমাধান: $\\theta = \\frac{2\\pi}{3}$",
+      "image": null,
+      "formulas": [
+        "\\theta = \\frac{2\\pi}{3}"
+      ],
+      "pdfPageStart": 194,
+      "pdfPageEnd": 194,
+      "printedPageStart": 189,
+      "printedPageEnd": 189,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

@@ -1,0 +1,2540 @@
+{
+  "id": "higher-math-9-10-bn-c08-t8.8",
+  "key": "8.8",
+  "title": "অনুপাতসমূহের সংজ্ঞা",
+  "chapter": 8,
+  "ordinal": 9,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\theta$ যেকোনো কোণ। এর প্রমিত অবস্থানে ঘূর্ণয়মান রশ্মি $OZ$ এর উপর বিন্দু $P(x, y)$ নিই যেখানে $OP = r (> 0)$। তাহলে $\\theta$ কোণের",
+      "image": null,
+      "formulas": [
+        "\\theta",
+        "OZ",
+        "P(x, y)",
+        "OP = r (> 0)",
+        "\\theta"
+      ],
+      "pdfPageStart": 172,
+      "pdfPageEnd": 172,
+      "printedPageStart": 167,
+      "printedPageEnd": 167,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "sine অনুপাত, $\\sin\\theta = \\frac{y}{r}$",
+      "image": null,
+      "formulas": [
+        "\\sin\\theta = \\frac{y}{r}"
+      ],
+      "pdfPageStart": 172,
+      "pdfPageEnd": 172,
+      "printedPageStart": 167,
+      "printedPageEnd": 167,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "cosine অনুপাত, $\\cos\\theta = \\frac{x}{r}$",
+      "image": null,
+      "formulas": [
+        "\\cos\\theta = \\frac{x}{r}"
+      ],
+      "pdfPageStart": 172,
+      "pdfPageEnd": 172,
+      "printedPageStart": 167,
+      "printedPageEnd": 167,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "tangent অনুপাত, $\\tan\\theta = \\frac{y}{x}$ [যখন $x \\neq 0$]",
+      "image": null,
+      "formulas": [
+        "\\tan\\theta = \\frac{y}{x}",
+        "x \\neq 0"
+      ],
+      "pdfPageStart": 172,
+      "pdfPageEnd": 172,
+      "printedPageStart": 167,
+      "printedPageEnd": 167,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "cotangent অনুপাত, $\\cot\\theta = \\frac{x}{y}$ [যখন $y \\neq 0$]",
+      "image": null,
+      "formulas": [
+        "\\cot\\theta = \\frac{x}{y}",
+        "y \\neq 0"
+      ],
+      "pdfPageStart": 172,
+      "pdfPageEnd": 172,
+      "printedPageStart": 167,
+      "printedPageEnd": 167,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "secant অনুপাত, $\\sec\\theta = \\frac{r}{x}$ [যখন $x \\neq 0$]",
+      "image": null,
+      "formulas": [
+        "\\sec\\theta = \\frac{r}{x}",
+        "x \\neq 0"
+      ],
+      "pdfPageStart": 172,
+      "pdfPageEnd": 172,
+      "printedPageStart": 167,
+      "printedPageEnd": 167,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "cosecant অনুপাত, $\\csc\\theta = \\frac{r}{y}$ [যখন $y \\neq 0$]",
+      "image": null,
+      "formulas": [
+        "\\csc\\theta = \\frac{r}{y}",
+        "y \\neq 0"
+      ],
+      "pdfPageStart": 172,
+      "pdfPageEnd": 172,
+      "printedPageStart": 167,
+      "printedPageEnd": 167,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p008",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane diagram showing point P(x, y) and radius r",
+      "image": "p172-page_22_image_3_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 172,
+      "pdfPageEnd": 172,
+      "printedPageStart": 167,
+      "printedPageEnd": 167,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "লক্ষণীয় যে, রশ্মি $OZ$ এর ওপর $P(x, y), P'(x', y')$ দুইটি বিন্দু যেখানে $OP = r (> 0), OP' = r' (> 0)$; $x, x'$ এবং $y, y'$ একই চিহ্নযুক্ত। ফলে $\\triangle OPM$ ও $\\triangle OP'M'$ হতে পাই।",
+      "image": null,
+      "formulas": [
+        "OZ",
+        "P(x, y), P'(x', y')",
+        "OP = r (> 0), OP' = r' (> 0)",
+        "x, x'",
+        "y, y'",
+        "\\triangle OPM",
+        "\\triangle OP'M'"
+      ],
+      "pdfPageStart": 172,
+      "pdfPageEnd": 172,
+      "printedPageStart": 167,
+      "printedPageEnd": 167,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\frac{x}{r} = \\frac{x'}{r'}, \\frac{y}{r} = \\frac{y'}{r'}$ ইত্যাদি।",
+      "image": null,
+      "formulas": [
+        "\\frac{x}{r} = \\frac{x'}{r'}, \\frac{y}{r} = \\frac{y'}{r'}"
+      ],
+      "pdfPageStart": 172,
+      "pdfPageEnd": 172,
+      "printedPageStart": 167,
+      "printedPageEnd": 167,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ফলে $\\theta$ কোণের অনুপাত সমূহের মান $OZ$ রশ্মিতে $P$ বিন্দুর অবস্থানের উপর নির্ভর করে না।",
+      "image": null,
+      "formulas": [
+        "\\theta",
+        "OZ",
+        "P"
+      ],
+      "pdfPageStart": 172,
+      "pdfPageEnd": 172,
+      "printedPageStart": 167,
+      "printedPageEnd": 167,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\theta$ সূক্ষ্মকোণ হলে $\\triangle OPM$ সমকোণী ত্রিভুজে অতিভুজ $OP = r$, সন্নিহিত বাহু $OM = x$, বিপরীত বাহু $PM = y$. সুতরাং,",
+      "image": null,
+      "formulas": [
+        "\\theta",
+        "\\triangle OPM",
+        "OP = r",
+        "OM = x",
+        "PM = y"
+      ],
+      "pdfPageStart": 172,
+      "pdfPageEnd": 172,
+      "printedPageStart": 167,
+      "printedPageEnd": 167,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p013",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: right triangle diagram showing angle theta, hypotenuse r, adjacent side x, opposite side y, and point P(x,y)",
+      "image": "p172-page_22_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 172,
+      "pdfPageEnd": 172,
+      "printedPageStart": 167,
+      "printedPageEnd": 167,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p014",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\sin\\theta = \\frac{y}{r} = \\frac{বিপরীত বাহু}{অতিভুজ}$$",
+      "image": null,
+      "formulas": [
+        "\\sin\\theta = \\frac{y}{r} = \\frac{বিপরীত বাহু}{অতিভুজ}"
+      ],
+      "pdfPageStart": 172,
+      "pdfPageEnd": 172,
+      "printedPageStart": 167,
+      "printedPageEnd": 167,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p015",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\cos\\theta = \\frac{x}{r} = \\frac{সন্নিহিত বাহু}{অতিভুজ}$$",
+      "image": null,
+      "formulas": [
+        "\\cos\\theta = \\frac{x}{r} = \\frac{সমনিহিত বাহু}{অতিভুজ}"
+      ],
+      "pdfPageStart": 172,
+      "pdfPageEnd": 172,
+      "printedPageStart": 167,
+      "printedPageEnd": 167,
+      "reviewReasons": [
+        "latin-junk",
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p016",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\tan\\theta = \\frac{y}{x} = \\frac{বিপরীত বাহু}{সন্নিহিত বাহু},  ইত্যাদি।$$",
+      "image": null,
+      "formulas": [
+        "\\tan\\theta = \\frac{y}{x} = \\frac{বিপরীত বাহু}{সমনিহিত বাহু},  ইত্যাদি।"
+      ],
+      "pdfPageStart": 172,
+      "pdfPageEnd": 172,
+      "printedPageStart": 167,
+      "printedPageEnd": 167,
+      "reviewReasons": [
+        "latin-junk",
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং সূক্ষ্মকোণের ক্ষেত্রে ত্রিকোণমিতিক অনুপাতের স্থানাঙ্ক ভিত্তিক সংজ্ঞা ও নবম-দশম শ্রেণির গণিত বইয়ের প্রদত্ত সমকোণী ত্রিভুজভিত্তিক সংজ্ঞা একই।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 172,
+      "pdfPageEnd": 173,
+      "printedPageStart": 167,
+      "printedPageEnd": 168,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$0^\\circ$ এবং $90^\\circ$ কোণের অনুপাতসমূহ: $0^\\circ$ কোণের ক্ষেত্রে ঘূর্ণায়মান রশ্মি $OX$ রেখার ওপর থাকে। সুতরাং $P(x, 0)$ এবং $r = OP = x$. অতএব,",
+      "image": null,
+      "formulas": [
+        "0^\\circ",
+        "90^\\circ",
+        "0^\\circ",
+        "OX",
+        "P(x, 0)",
+        "r = OP = x"
+      ],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p019",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\sin 0^\\circ = \\frac{y}{r} = \\frac{0}{r} = 0$$",
+      "image": null,
+      "formulas": [
+        "\\sin 0^\\circ = \\frac{y}{r} = \\frac{0}{r} = 0"
+      ],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p020",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\cos 0^\\circ = \\frac{x}{r} = \\frac{x}{x} = 1$$",
+      "image": null,
+      "formulas": [
+        "\\cos 0^\\circ = \\frac{x}{r} = \\frac{x}{x} = 1"
+      ],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$90^\\circ$ কোণের ক্ষেত্রে ঘূর্ণায়মান রশ্মি $OY$ রেখার ওপর থাকে। সুতরাং $P(0, y)$ এবং $r = OP = y$.",
+      "image": null,
+      "formulas": [
+        "90^\\circ",
+        "OY",
+        "P(0, y)",
+        "r = OP = y"
+      ],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p022",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\sin 90^\\circ = \\frac{y}{r} = \\frac{y}{y} = 1$$",
+      "image": null,
+      "formulas": [
+        "\\sin 90^\\circ = \\frac{y}{r} = \\frac{y}{y} = 1"
+      ],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p023",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\cos 90^\\circ = \\frac{x}{r} = \\frac{0}{r} = 0$$",
+      "image": null,
+      "formulas": [
+        "\\cos 90^\\circ = \\frac{x}{r} = \\frac{0}{r} = 0"
+      ],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p024",
+      "kind": "definition",
+      "section": null,
+      "caption": null,
+      "body": "সংজ্ঞা থেকে সহজেই দেখা যায়, যেকোনো $\\theta$ কোণের জন্য ত্রিকোণমিতিক অনুপাতের নিম্নকৃত ধর্মাবলি প্রযোজ্য।",
+      "image": null,
+      "formulas": [
+        "\\theta"
+      ],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p025",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "১. $\\sin^2\\theta + \\cos^2\\theta = 1$",
+      "image": null,
+      "formulas": [
+        "\\sin^2\\theta + \\cos^2\\theta = 1"
+      ],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p026",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:** $\\sin\\theta = \\frac{y}{r}$, $\\cos\\theta = \\frac{x}{r}$, $r^2 = x^2 + y^2$",
+      "image": null,
+      "formulas": [
+        "\\sin\\theta = \\frac{y}{r}",
+        "\\cos\\theta = \\frac{x}{r}",
+        "r^2 = x^2 + y^2"
+      ],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p027",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\therefore \\sin^2\\theta + \\cos^2\\theta = \\frac{x^2 + y^2}{r^2} = \\frac{r^2}{r^2} = 1$$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\sin^2\\theta + \\cos^2\\theta = \\frac{x^2 + y^2}{r^2} = \\frac{r^2}{r^2} = 1"
+      ],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p028",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "২. $\\tan\\theta = \\frac{\\sin\\theta}{\\cos\\theta}$, $\\cot\\theta = \\frac{\\cos\\theta}{\\sin\\theta}$",
+      "image": null,
+      "formulas": [
+        "\\tan\\theta = \\frac{\\sin\\theta}{\\cos\\theta}",
+        "\\cot\\theta = \\frac{\\cos\\theta}{\\sin\\theta}"
+      ],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p029",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\sec\\theta = \\frac{1}{\\cos\\theta}, cosec\\theta = \\frac{1}{\\sin\\theta}$$",
+      "image": null,
+      "formulas": [
+        "\\sec\\theta = \\frac{1}{\\cos\\theta}, cosec\\theta = \\frac{1}{\\sin\\theta}"
+      ],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p030",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যেখানে অনুপাতগুলো সংজ্ঞায়িত।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p031",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane quadrants",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p032",
+      "kind": "table",
+      "section": null,
+      "caption": null,
+      "body": "<table><tr><td>II<br />(-, +)</td><td>I (+, +)</td></tr>\n<tr><td>III<br />(-, -)</td><td>IV<br />(+, -)</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p033",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "৩. উপরের চিত্রে প্রদত্ত স্থানাঙ্ক চিহ্ন বিবেচনা করে দেখা যায় যে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 173,
+      "pdfPageEnd": 173,
+      "printedPageStart": 168,
+      "printedPageEnd": 168,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p034",
+      "kind": "table",
+      "section": null,
+      "caption": null,
+      "body": "<table><tr><th>II</th><th>I</th></tr>\n<tr><td>sin, cosec<br />ধনাত্মক</td><td>সকল অনুপাত<br />ধনাত্মক</td></tr>\n<tr><td>III</td><td>IV</td></tr>\n<tr><td>tan, cot<br />ধনাত্মক</td><td>cos, sec<br />ধনাত্মক</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p035",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "8. $|\\sin\\theta| \\le 1, |\\cos\\theta| \\le 1$",
+      "image": null,
+      "formulas": [
+        "|\\sin\\theta| \\le 1, |\\cos\\theta| \\le 1"
+      ],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p036",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:** আমরা জানি, $\\sin^2\\theta + \\cos^2\\theta = 1$",
+      "image": null,
+      "formulas": [
+        "\\sin^2\\theta + \\cos^2\\theta = 1"
+      ],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p037",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\sin^2\\theta \\le 1, \\cos^2\\theta \\le 1$",
+      "image": null,
+      "formulas": [
+        "\\sin^2\\theta \\le 1, \\cos^2\\theta \\le 1"
+      ],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p038",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ $|\\sin\\theta| \\le 1, |\\cos\\theta| \\le 1$",
+      "image": null,
+      "formulas": [
+        "|\\sin\\theta| \\le 1, |\\cos\\theta| \\le 1"
+      ],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p039",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "৫. $\\theta$ এর বিভিন্ন মানের জন্য $\\sin\\theta, \\cos\\theta$ এবং $\\tan\\theta$ এর মান নিম্নরূপ:",
+      "image": null,
+      "formulas": [
+        "\\theta",
+        "\\sin\\theta, \\cos\\theta",
+        "\\tan\\theta"
+      ],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p040",
+      "kind": "table",
+      "section": null,
+      "caption": null,
+      "body": "<table><tr><th></th><th>0°</th><th>$\\frac{\\pi}{6} = 30°$</th><th>$\\frac{\\pi}{4} = 45°$</th><th>$\\frac{\\pi}{3} = 60°$</th><th>$\\frac{\\pi}{2} = 90°$</th></tr>\n<tr><td>$\\sin\\theta$</td><td>0</td><td>$\\frac{1}{2}$</td><td>$\\frac{1}{\\sqrt{2}}$</td><td>$\\frac{\\sqrt{3}}{2}$</td><td>1</td></tr>\n<tr><td>$\\cos\\theta$</td><td>1</td><td>$\\frac{\\sqrt{3}}{2}$</td><td>$\\frac{1}{\\sqrt{2}}$</td><td>$\\frac{1}{2}$</td><td>0</td></tr>\n<tr><td>$\\tan\\theta$</td><td>0</td><td>$\\frac{1}{\\sqrt{3}}$</td><td>1</td><td>$\\sqrt{3}$</td><td>অসংজ্ঞায়িত</td></tr></table>",
+      "image": null,
+      "formulas": [
+        "\\frac{\\pi}{6} = 30°",
+        "\\frac{\\pi}{4} = 45°",
+        "\\frac{\\pi}{3} = 60°",
+        "\\frac{\\pi}{2} = 90°",
+        "\\sin\\theta",
+        "\\frac{1}{2}",
+        "\\frac{1}{\\sqrt{2}}",
+        "\\frac{\\sqrt{3}}{2}",
+        "\\cos\\theta",
+        "\\frac{\\sqrt{3}}{2}",
+        "\\frac{1}{\\sqrt{2}}",
+        "\\frac{1}{2}",
+        "\\tan\\theta",
+        "\\frac{1}{\\sqrt{3}}",
+        "\\sqrt{3}"
+      ],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [
+        "verify-formula",
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p041",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১১.** $\\theta$ সূক্ষ্মকোণ $\\left(0 < \\theta < \\frac{\\pi}{2}\\right)$ এবং $\\cos\\theta = \\frac{4}{5}$ হলে, অপর ত্রিকোণমিতিক অনুপাতসমূহের মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "\\theta",
+        "\\left(0 < \\theta < \\frac{\\pi}{2}\\right)",
+        "\\cos\\theta = \\frac{4}{5}"
+      ],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p042",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** ত্রিকোণমিতিক অভেদ (Identities) ব্যবহার করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p043",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা জানি, $\\sin^2\\theta + \\cos^2\\theta = 1$",
+      "image": null,
+      "formulas": [
+        "\\sin^2\\theta + \\cos^2\\theta = 1"
+      ],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p044",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\sin^2\\theta = 1 - \\cos^2\\theta = 1 - \\left(\\frac{4}{5}\\right)^2 = 1 - \\frac{16}{25} = \\frac{25 - 16}{25} = \\frac{9}{25}$",
+      "image": null,
+      "formulas": [
+        "\\sin^2\\theta = 1 - \\cos^2\\theta = 1 - \\left(\\frac{4}{5}\\right)^2 = 1 - \\frac{16}{25} = \\frac{25 - 16}{25} = \\frac{9}{25}"
+      ],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p045",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\sin\\theta = \\pm\\sqrt{\\frac{9}{25}} = \\pm\\frac{3}{5}$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\sin\\theta = \\pm\\sqrt{\\frac{9}{25}} = \\pm\\frac{3}{5}"
+      ],
+      "pdfPageStart": 174,
+      "pdfPageEnd": 174,
+      "printedPageStart": 169,
+      "printedPageEnd": 169,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p046",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যেহেতু $\\theta$ সূক্ষ্মকোণ, তাই $\\theta$ প্রথম চতুর্ভাগে অবস্থিত এবং সকল ত্রিকোণমিতিক অনুপাত ধনাত্মক।",
+      "image": null,
+      "formulas": [
+        "\\theta",
+        "\\theta"
+      ],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p047",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A right-angled triangle in a Cartesian coordinate system with vertices O, P, and Q. The angle at O is labeled theta (θ). The side OP is labeled 5, the side PQ is labeled 3, and the side OQ is labeled 4.",
+      "image": "p175-page_25_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p048",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\sin\\theta = \\frac{3}{5}$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\sin\\theta = \\frac{3}{5}"
+      ],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p049",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন, $\\sec\\theta = \\frac{1}{\\cos\\theta} = \\frac{1}{\\frac{4}{5}} = \\frac{5}{4}$",
+      "image": null,
+      "formulas": [
+        "\\sec\\theta = \\frac{1}{\\cos\\theta} = \\frac{1}{\\frac{4}{5}} = \\frac{5}{4}"
+      ],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p050",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$cosec\\theta = \\frac{1}{\\sin\\theta} = \\frac{1}{\\frac{3}{5}} = \\frac{5}{3}$",
+      "image": null,
+      "formulas": [
+        "cosec\\theta = \\frac{1}{\\sin\\theta} = \\frac{1}{\\frac{3}{5}} = \\frac{5}{3}"
+      ],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p051",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন $\\triangle POQ$ সমকোণী ত্রিভুজ থেকে পাই,",
+      "image": null,
+      "formulas": [
+        "\\triangle POQ"
+      ],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p052",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\tan\\theta = \\frac{লম্ব}{ভূমি} = \\frac{লম্ব/অতিভুজ}{ভূমি/অতিভুজ} = \\frac{PQ/OP}{OQ/OP}$$",
+      "image": null,
+      "formulas": [
+        "\\tan\\theta = \\frac{লম্ব}{ভূমি} = \\frac{লম্ব/অতিভুজ}{ভূমি/অতিভুজ} = \\frac{PQ/OP}{OQ/OP}"
+      ],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p053",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\frac{\\sin\\theta}{\\cos\\theta} = \\frac{3/5}{4/5} = \\frac{3}{4}$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{\\sin\\theta}{\\cos\\theta} = \\frac{3/5}{4/5} = \\frac{3}{4}"
+      ],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p054",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\cot\\theta = \\frac{ভূমি}{লম্ব} = \\frac{ভূমি/অতিভুজ}{লম্ব/অতিভুজ} = \\frac{OQ/OP}{PQ/OP}$$",
+      "image": null,
+      "formulas": [
+        "\\cot\\theta = \\frac{ভূমি}{লম্ব} = \\frac{ভূমি/অতিভুজ}{লম্ব/অতিভুজ} = \\frac{OQ/OP}{PQ/OP}"
+      ],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p055",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\frac{\\cos\\theta}{\\sin\\theta} = \\frac{4/5}{3/5} = \\frac{4}{3}$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{\\cos\\theta}{\\sin\\theta} = \\frac{4/5}{3/5} = \\frac{4}{3}"
+      ],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p056",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বি.দ্র: $\\tan\\theta = \\frac{\\sin\\theta}{\\cos\\theta}, \\cot\\theta = \\frac{\\cos\\theta}{\\sin\\theta}$",
+      "image": null,
+      "formulas": [
+        "\\tan\\theta = \\frac{\\sin\\theta}{\\cos\\theta}, \\cot\\theta = \\frac{\\cos\\theta}{\\sin\\theta}"
+      ],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p057",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ত্রিকোণমিতিক অভেদের সাহায্যে, $\\sec^2\\theta - \\tan^2\\theta = 1$",
+      "image": null,
+      "formulas": [
+        "\\sec^2\\theta - \\tan^2\\theta = 1"
+      ],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p058",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\tan^2\\theta = \\sec^2\\theta - 1 = \\left(\\frac{5}{4}\\right)^2 - 1 = \\frac{25}{16} - 1 = \\frac{9}{16}$",
+      "image": null,
+      "formulas": [
+        "\\tan^2\\theta = \\sec^2\\theta - 1 = \\left(\\frac{5}{4}\\right)^2 - 1 = \\frac{25}{16} - 1 = \\frac{9}{16}"
+      ],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p059",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\tan\\theta = \\sqrt{\\frac{9}{16}} = \\frac{3}{4}$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\tan\\theta = \\sqrt{\\frac{9}{16}} = \\frac{3}{4}"
+      ],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p060",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার, $cosec^2\\theta - \\cot^2\\theta = 1$",
+      "image": null,
+      "formulas": [
+        "cosec^2\\theta - \\cot^2\\theta = 1"
+      ],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p061",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\cot^2\\theta = cosec^2\\theta - 1 = \\left(\\frac{5}{3}\\right)^2 - 1 = \\frac{25}{9} - 1 = \\frac{16}{9}$",
+      "image": null,
+      "formulas": [
+        "\\cot^2\\theta = cosec^2\\theta - 1 = \\left(\\frac{5}{3}\\right)^2 - 1 = \\frac{25}{9} - 1 = \\frac{16}{9}"
+      ],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p062",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\cot\\theta = \\sqrt{\\frac{16}{9}} = \\frac{4}{3}$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\cot\\theta = \\sqrt{\\frac{16}{9}} = \\frac{4}{3}"
+      ],
+      "pdfPageStart": 175,
+      "pdfPageEnd": 175,
+      "printedPageStart": 170,
+      "printedPageEnd": 170,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p063",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বিকল্প: আমরা জানি, $\\cos\\theta = \\frac{ভূমি}{অতিভুজ} = \\frac{4}{5}$ [দেওয়া আছে]",
+      "image": null,
+      "formulas": [
+        "\\cos\\theta = \\frac{ভূমি}{অতিভুজ} = \\frac{4}{5}"
+      ],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p064",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A right-angled triangle in a Cartesian coordinate system with vertices O, P, and Q. The angle at O is labeled θ. The side OQ is labeled 4, the side PQ is labeled 3, and the hypotenuse OP is labeled 5.",
+      "image": "p176-page_26_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p065",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "পাশের চিত্রে সমকোণী ত্রিভুজ $POQ$ থেকে পাই,",
+      "image": null,
+      "formulas": [
+        "POQ"
+      ],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p066",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$$PQ = \\sqrt{OP^2 - OQ^2} = \\sqrt{5^2 - 4^2}$$\n$$= \\sqrt{25 - 16} = \\sqrt{9} = 3  একক$$",
+      "image": null,
+      "formulas": [
+        "PQ = \\sqrt{OP^2 - OQ^2} = \\sqrt{5^2 - 4^2}",
+        "= \\sqrt{25 - 16} = \\sqrt{9} = 3  একক"
+      ],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p067",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\sin\\theta = \\frac{লম্ব}{অতিভুজ} = \\frac{PQ}{OP} = \\frac{3}{5}$$",
+      "image": null,
+      "formulas": [
+        "\\sin\\theta = \\frac{লম্ব}{অতিভুজ} = \\frac{PQ}{OP} = \\frac{3}{5}"
+      ],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p068",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\tan\\theta = \\frac{লম্ব}{ভূমি} = \\frac{PQ}{OQ} = \\frac{3}{4}$$",
+      "image": null,
+      "formulas": [
+        "\\tan\\theta = \\frac{লম্ব}{ভূমি} = \\frac{PQ}{OQ} = \\frac{3}{4}"
+      ],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p069",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\sec\\theta = \\frac{অতিভুজ}{ভূমি} = \\frac{OP}{OQ} = \\frac{5}{4}$$",
+      "image": null,
+      "formulas": [
+        "\\sec\\theta = \\frac{অতিভুজ}{ভূমি} = \\frac{OP}{OQ} = \\frac{5}{4}"
+      ],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p070",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\csc\\theta = \\frac{অতিভুজ}{লম্ব} = \\frac{OP}{PQ} = \\frac{5}{3}$$",
+      "image": null,
+      "formulas": [
+        "\\csc\\theta = \\frac{অতিভুজ}{লম্ব} = \\frac{OP}{PQ} = \\frac{5}{3}"
+      ],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p071",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\cot\\theta = \\frac{ভূমি}{লম্ব} = \\frac{OQ}{PQ} = \\frac{4}{3}$$",
+      "image": null,
+      "formulas": [
+        "\\cot\\theta = \\frac{ভূমি}{লম্ব} = \\frac{OQ}{PQ} = \\frac{4}{3}"
+      ],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p072",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:** $\\theta$ স্তূলকোণ $\\left( \\frac{\\pi}{2} < \\theta < \\pi \\right)$ এবং $\\tan\\theta = -\\frac{1}{2}$ হলে, অপর ত্রিকোণমিতিক অনুপাতসমূহ সমকোণী ত্রিভুজ এবং ত্রিকোণমিতিক অভেদ এর সাহায্যে নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "\\theta",
+        "\\left( \\frac{\\pi}{2} < \\theta < \\pi \\right)",
+        "\\tan\\theta = -\\frac{1}{2}"
+      ],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p073",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১২.** $\\cos A = \\frac{4}{5}$, $\\sin B = \\frac{12}{13}$ এবং $A$ ও $B$ উভয়ই সূক্ষ্মকোণ হলে $\\frac{\\tan B - \\tan A}{1 + \\tan B \\cdot \\tan A}$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "\\cos A = \\frac{4}{5}",
+        "\\sin B = \\frac{12}{13}",
+        "A",
+        "B",
+        "\\frac{\\tan B - \\tan A}{1 + \\tan B \\cdot \\tan A}"
+      ],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p074",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** দেওয়া আছে, $\\cos A = \\frac{4}{5}$",
+      "image": null,
+      "formulas": [
+        "\\cos A = \\frac{4}{5}"
+      ],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p075",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা জানি, $\\sin^2 A + \\cos^2 A = 1$",
+      "image": null,
+      "formulas": [
+        "\\sin^2 A + \\cos^2 A = 1"
+      ],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p076",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\sin^2 A = 1 - \\cos^2 A = 1 - \\frac{16}{25} = \\frac{9}{25}$",
+      "image": null,
+      "formulas": [
+        "\\sin^2 A = 1 - \\cos^2 A = 1 - \\frac{16}{25} = \\frac{9}{25}"
+      ],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p077",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\sin A = \\sqrt{\\frac{9}{25}} = \\frac{3}{5}$ [$A$ সূক্ষ্মকোণ]",
+      "image": null,
+      "formulas": [
+        "\\therefore \\sin A = \\sqrt{\\frac{9}{25}} = \\frac{3}{5}",
+        "A"
+      ],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p078",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A right-angled triangle in a Cartesian coordinate system with vertices O, P, and Q. The angle at O is labeled A. The side OQ is labeled 4, the side PQ is labeled 3, and the hypotenuse OP is labeled 5.",
+      "image": "p176-page_26_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p079",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\tan A = \\frac{\\sin A}{\\cos A} = \\frac{\\frac{3}{5}}{\\frac{4}{5}} = \\frac{3}{4}$$",
+      "image": null,
+      "formulas": [
+        "\\tan A = \\frac{\\sin A}{\\cos A} = \\frac{\\frac{3}{5}}{\\frac{4}{5}} = \\frac{3}{4}"
+      ],
+      "pdfPageStart": 176,
+      "pdfPageEnd": 176,
+      "printedPageStart": 171,
+      "printedPageEnd": 171,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p080",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার, $\\sin B = \\frac{12}{13}$",
+      "image": null,
+      "formulas": [
+        "\\sin B = \\frac{12}{13}"
+      ],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p081",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A right-angled triangle on a coordinate plane with vertices O, A, P, and Q. The hypotenuse OP has length 13, the vertical side PQ has length 12, and the horizontal side OQ has length 5. Angle A is at vertex O.",
+      "image": "p177-page_27_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p082",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\cos B = \\sqrt{1 - \\sin^2 B} = \\sqrt{1 - \\frac{144}{169}} = \\sqrt{\\frac{25}{169}}$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\cos B = \\sqrt{1 - \\sin^2 B} = \\sqrt{1 - \\frac{144}{169}} = \\sqrt{\\frac{25}{169}}"
+      ],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p083",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\cos B = \\frac{5}{13}$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\cos B = \\frac{5}{13}"
+      ],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p084",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\tan B = \\frac{\\sin B}{\\cos B} = \\frac{12/13}{5/13} = \\frac{12}{5}$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\tan B = \\frac{\\sin B}{\\cos B} = \\frac{12/13}{5/13} = \\frac{12}{5}"
+      ],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p085",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন, $\\frac{\\tan B - \\tan A}{1 + \\tan B \\cdot \\tan A} = \\frac{\\frac{12}{5} - \\frac{3}{4}}{1 + \\frac{12}{5} \\cdot \\frac{3}{4}}$",
+      "image": null,
+      "formulas": [
+        "\\frac{\\tan B - \\tan A}{1 + \\tan B \\cdot \\tan A} = \\frac{\\frac{12}{5} - \\frac{3}{4}}{1 + \\frac{12}{5} \\cdot \\frac{3}{4}}"
+      ],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p086",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\frac{\\frac{48 - 15}{20}}{1 + \\frac{36}{20}} = \\frac{\\frac{33}{20}}{\\frac{20 + 36}{20}} = \\frac{33}{56}$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{\\frac{48 - 15}{20}}{1 + \\frac{36}{20}} = \\frac{\\frac{33}{20}}{\\frac{20 + 36}{20}} = \\frac{33}{56}"
+      ],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p087",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\frac{\\tan B - \\tan A}{1 + \\tan B \\cdot \\tan A} = \\frac{33}{56}$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\frac{\\tan B - \\tan A}{1 + \\tan B \\cdot \\tan A} = \\frac{33}{56}"
+      ],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p088",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৩.** মান নির্ণয় করো: $\\sin^2 \\frac{\\pi}{6} + \\cos^2 \\frac{\\pi}{4} + \\tan^2 \\frac{\\pi}{3} + \\cot^2 \\frac{\\pi}{2}$",
+      "image": null,
+      "formulas": [
+        "\\sin^2 \\frac{\\pi}{6} + \\cos^2 \\frac{\\pi}{4} + \\tan^2 \\frac{\\pi}{3} + \\cot^2 \\frac{\\pi}{2}"
+      ],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p089",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** আমরা জানি, $\\sin \\frac{\\pi}{6} = \\frac{1}{2}$, $\\cos \\frac{\\pi}{4} = \\frac{1}{\\sqrt{2}}$, $\\tan \\frac{\\pi}{3} = \\sqrt{3}$ এবং $\\cot \\frac{\\pi}{2} = 0$",
+      "image": null,
+      "formulas": [
+        "\\sin \\frac{\\pi}{6} = \\frac{1}{2}",
+        "\\cos \\frac{\\pi}{4} = \\frac{1}{\\sqrt{2}}",
+        "\\tan \\frac{\\pi}{3} = \\sqrt{3}",
+        "\\cot \\frac{\\pi}{2} = 0"
+      ],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p090",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\sin^2 \\frac{\\pi}{6} + \\cos^2 \\frac{\\pi}{4} + \\tan^2 \\frac{\\pi}{3} + \\cot^2 \\frac{\\pi}{2}$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\sin^2 \\frac{\\pi}{6} + \\cos^2 \\frac{\\pi}{4} + \\tan^2 \\frac{\\pi}{3} + \\cot^2 \\frac{\\pi}{2}"
+      ],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p091",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\left( \\frac{1}{2} \\right)^2 + \\left( \\frac{1}{\\sqrt{2}} \\right)^2 + (\\sqrt{3})^2 + (0)^2$$",
+      "image": null,
+      "formulas": [
+        "= \\left( \\frac{1}{2} \\right)^2 + \\left( \\frac{1}{\\sqrt{2}} \\right)^2 + (\\sqrt{3})^2 + (0)^2"
+      ],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p092",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\frac{1}{4} + \\frac{1}{2} + 3 = 3 \\frac{3}{4}$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{1}{4} + \\frac{1}{2} + 3 = 3 \\frac{3}{4}"
+      ],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p093",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p094",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $\\sin^2 \\frac{\\pi}{4} \\cos^2 \\frac{\\pi}{3} + \\tan^2 \\frac{\\pi}{6} \\sec^2 \\frac{\\pi}{3} + \\cot^2 \\frac{\\pi}{3} \\csc^2 \\frac{\\pi}{4}$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "\\sin^2 \\frac{\\pi}{4} \\cos^2 \\frac{\\pi}{3} + \\tan^2 \\frac{\\pi}{6} \\sec^2 \\frac{\\pi}{3} + \\cot^2 \\frac{\\pi}{3} \\csc^2 \\frac{\\pi}{4}"
+      ],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p095",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) সরল করো: $\\frac{\\sin^2 \\frac{\\pi}{3} + \\sin \\frac{\\pi}{3} \\cos \\frac{\\pi}{3} + \\cos^2 \\frac{\\pi}{3}}{\\sin \\frac{\\pi}{3} + \\cos \\frac{\\pi}{3}} - \\frac{\\sin^2 \\frac{\\pi}{3} - \\sin \\frac{\\pi}{3} \\cos \\frac{\\pi}{3} + \\cos^2 \\frac{\\pi}{3}}{\\sin \\frac{\\pi}{3} - \\cos \\frac{\\pi}{3}}$",
+      "image": null,
+      "formulas": [
+        "\\frac{\\sin^2 \\frac{\\pi}{3} + \\sin \\frac{\\pi}{3} \\cos \\frac{\\pi}{3} + \\cos^2 \\frac{\\pi}{3}}{\\sin \\frac{\\pi}{3} + \\cos \\frac{\\pi}{3}} - \\frac{\\sin^2 \\frac{\\pi}{3} - \\sin \\frac{\\pi}{3} \\cos \\frac{\\pi}{3} + \\cos^2 \\frac{\\pi}{3}}{\\sin \\frac{\\pi}{3} - \\cos \\frac{\\pi}{3}}"
+      ],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p096",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৪.** $7 \\sin^2 \\theta + 3 \\cos^2 \\theta = 4$ হলে, প্রমাণ করো যে, $\\tan \\theta = \\pm \\frac{1}{\\sqrt{3}}$",
+      "image": null,
+      "formulas": [
+        "7 \\sin^2 \\theta + 3 \\cos^2 \\theta = 4",
+        "\\tan \\theta = \\pm \\frac{1}{\\sqrt{3}}"
+      ],
+      "pdfPageStart": 177,
+      "pdfPageEnd": 177,
+      "printedPageStart": 172,
+      "printedPageEnd": 172,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p097",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** দেওয়া আছে, $7\\sin^2\\theta + 3\\cos^2\\theta = 4$",
+      "image": null,
+      "formulas": [
+        "7\\sin^2\\theta + 3\\cos^2\\theta = 4"
+      ],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p098",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $7\\sin^2\\theta + 3(1 - \\sin^2\\theta) = 4$ [$\\because \\sin^2\\theta + \\cos^2\\theta = 1$]",
+      "image": null,
+      "formulas": [
+        "7\\sin^2\\theta + 3(1 - \\sin^2\\theta) = 4",
+        "\\because \\sin^2\\theta + \\cos^2\\theta = 1"
+      ],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p099",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $7\\sin^2\\theta + 3 - 3\\sin^2\\theta = 4 \\implies 4\\sin^2\\theta = 1 \\implies \\sin^2\\theta = \\frac{1}{4}$",
+      "image": null,
+      "formulas": [
+        "7\\sin^2\\theta + 3 - 3\\sin^2\\theta = 4 \\implies 4\\sin^2\\theta = 1 \\implies \\sin^2\\theta = \\frac{1}{4}"
+      ],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p100",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার, $\\cos^2\\theta = 1 - \\sin^2\\theta = 1 - \\frac{1}{4} = \\frac{3}{4}$",
+      "image": null,
+      "formulas": [
+        "\\cos^2\\theta = 1 - \\sin^2\\theta = 1 - \\frac{1}{4} = \\frac{3}{4}"
+      ],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p101",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\tan^2\\theta = \\frac{\\sin^2\\theta}{\\cos^2\\theta} = \\frac{\\frac{1}{4}}{\\frac{3}{4}} = \\frac{1}{3}$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\tan^2\\theta = \\frac{\\sin^2\\theta}{\\cos^2\\theta} = \\frac{\\frac{1}{4}}{\\frac{3}{4}} = \\frac{1}{3}"
+      ],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p102",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\tan\\theta = \\pm \\frac{1}{\\sqrt{3}}$ (প্রমাণিত)।",
+      "image": null,
+      "formulas": [
+        "\\therefore \\tan\\theta = \\pm \\frac{1}{\\sqrt{3}}"
+      ],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p103",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৫.** $15\\cos^2\\theta + 2\\sin\\theta = 7$ এবং $-\\frac{\\pi}{2} < \\theta < \\frac{\\pi}{2}$ হলে $\\cot\\theta$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "15\\cos^2\\theta + 2\\sin\\theta = 7",
+        "-\\frac{\\pi}{2} < \\theta < \\frac{\\pi}{2}",
+        "\\cot\\theta"
+      ],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p104",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** দেওয়া আছে, $15\\cos^2\\theta + 2\\sin\\theta = 7$",
+      "image": null,
+      "formulas": [
+        "15\\cos^2\\theta + 2\\sin\\theta = 7"
+      ],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p105",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $15(1 - \\sin^2\\theta) + 2\\sin\\theta = 7$ [$\\because \\sin^2\\theta + \\cos^2\\theta = 1$]",
+      "image": null,
+      "formulas": [
+        "15(1 - \\sin^2\\theta) + 2\\sin\\theta = 7",
+        "\\because \\sin^2\\theta + \\cos^2\\theta = 1"
+      ],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p106",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $15 - 15\\sin^2\\theta + 2\\sin\\theta = 7 \\implies 15\\sin^2\\theta - 2\\sin\\theta - 8 = 0$",
+      "image": null,
+      "formulas": [
+        "15 - 15\\sin^2\\theta + 2\\sin\\theta = 7 \\implies 15\\sin^2\\theta - 2\\sin\\theta - 8 = 0"
+      ],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p107",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $15\\sin^2\\theta - 12\\sin\\theta + 10\\sin\\theta - 8 = 0 \\implies (3\\sin\\theta + 2)(5\\sin\\theta - 4) = 0$",
+      "image": null,
+      "formulas": [
+        "15\\sin^2\\theta - 12\\sin\\theta + 10\\sin\\theta - 8 = 0 \\implies (3\\sin\\theta + 2)(5\\sin\\theta - 4) = 0"
+      ],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p108",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\sin\\theta = -\\frac{2}{3}$ বা, $\\sin\\theta = \\frac{4}{5}$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\sin\\theta = -\\frac{2}{3}",
+        "\\sin\\theta = \\frac{4}{5}"
+      ],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p109",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\sin\\theta$ এর উভয় মান গ্রহণযোগ্য। কেননা $-\\frac{\\pi}{2} < \\theta < \\frac{\\pi}{2}$",
+      "image": null,
+      "formulas": [
+        "\\sin\\theta",
+        "-\\frac{\\pi}{2} < \\theta < \\frac{\\pi}{2}"
+      ],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p110",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\sin\\theta = -\\frac{2}{3}$ হলে $\\cos\\theta = \\sqrt{1 - \\sin^2\\theta} = \\sqrt{1 - \\frac{4}{9}} = \\frac{\\sqrt{5}}{3}$",
+      "image": null,
+      "formulas": [
+        "\\sin\\theta = -\\frac{2}{3}",
+        "\\cos\\theta = \\sqrt{1 - \\sin^2\\theta} = \\sqrt{1 - \\frac{4}{9}} = \\frac{\\sqrt{5}}{3}"
+      ],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p111",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\sin\\theta = \\frac{4}{5}$ হলে $\\cos\\theta = \\sqrt{1 - \\sin^2\\theta} = \\sqrt{1 - \\frac{16}{25}} = \\frac{3}{5}$",
+      "image": null,
+      "formulas": [
+        "\\sin\\theta = \\frac{4}{5}",
+        "\\cos\\theta = \\sqrt{1 - \\sin^2\\theta} = \\sqrt{1 - \\frac{16}{25}} = \\frac{3}{5}"
+      ],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p112",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\cot\\theta = \\frac{\\cos\\theta}{\\sin\\theta} = \\frac{\\frac{\\sqrt{5}}{3}}{-\\frac{2}{3}} = -\\frac{\\sqrt{5}}{2}$ [যখন $\\sin\\theta = -\\frac{2}{3}$]",
+      "image": null,
+      "formulas": [
+        "\\therefore \\cot\\theta = \\frac{\\cos\\theta}{\\sin\\theta} = \\frac{\\frac{\\sqrt{5}}{3}}{-\\frac{2}{3}} = -\\frac{\\sqrt{5}}{2}",
+        "\\sin\\theta = -\\frac{2}{3}"
+      ],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p113",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অথবা $\\cot\\theta = \\frac{\\cos\\theta}{\\sin\\theta} = \\frac{\\frac{3}{5}}{\\frac{4}{5}} = \\frac{3}{4}$ [যখন $\\sin\\theta = \\frac{4}{5}$]",
+      "image": null,
+      "formulas": [
+        "\\cot\\theta = \\frac{\\cos\\theta}{\\sin\\theta} = \\frac{\\frac{3}{5}}{\\frac{4}{5}} = \\frac{3}{4}",
+        "\\sin\\theta = \\frac{4}{5}"
+      ],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p114",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "নির্ণেয় মান $-\\frac{\\sqrt{5}}{2}$ বা, $\\frac{3}{4}$",
+      "image": null,
+      "formulas": [
+        "-\\frac{\\sqrt{5}}{2}",
+        "\\frac{3}{4}"
+      ],
+      "pdfPageStart": 178,
+      "pdfPageEnd": 178,
+      "printedPageStart": 173,
+      "printedPageEnd": 173,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p115",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৬.** $A = \\frac{\\pi}{3}$ ও $B = \\frac{\\pi}{6}$ হলে প্রমাণ করো যে,",
+      "image": null,
+      "formulas": [
+        "A = \\frac{\\pi}{3}",
+        "B = \\frac{\\pi}{6}"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p116",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $\\sin(A + B) = \\sin A \\cos B + \\cos A \\sin B$",
+      "image": null,
+      "formulas": [
+        "\\sin(A + B) = \\sin A \\cos B + \\cos A \\sin B"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p117",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $\\tan(A - B) = \\frac{\\tan A - \\tan B}{1 + \\tan A \\tan B}$",
+      "image": null,
+      "formulas": [
+        "\\tan(A - B) = \\frac{\\tan A - \\tan B}{1 + \\tan A \\tan B}"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p118",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p119",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) বামপক্ষ $= \\sin(A + B) = \\sin(\\frac{\\pi}{3} + \\frac{\\pi}{6}) = \\sin \\frac{\\pi}{2} = 1$",
+      "image": null,
+      "formulas": [
+        "= \\sin(A + B) = \\sin(\\frac{\\pi}{3} + \\frac{\\pi}{6}) = \\sin \\frac{\\pi}{2} = 1"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p120",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ডানপক্ষ $= \\sin A \\cos B + \\cos A \\sin B = \\sin \\frac{\\pi}{3} \\cos \\frac{\\pi}{6} + \\cos \\frac{\\pi}{3} \\sin \\frac{\\pi}{6}$",
+      "image": null,
+      "formulas": [
+        "= \\sin A \\cos B + \\cos A \\sin B = \\sin \\frac{\\pi}{3} \\cos \\frac{\\pi}{6} + \\cos \\frac{\\pi}{3} \\sin \\frac{\\pi}{6}"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p121",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\frac{\\sqrt{3}}{2} \\cdot \\frac{\\sqrt{3}}{2} + \\frac{1}{2} \\cdot \\frac{1}{2} = \\frac{3}{4} + \\frac{1}{4} = 1$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{\\sqrt{3}}{2} \\cdot \\frac{\\sqrt{3}}{2} + \\frac{1}{2} \\cdot \\frac{1}{2} = \\frac{3}{4} + \\frac{1}{4} = 1"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p122",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ বামপক্ষ $=$ ডানপক্ষ (প্রমাণিত)।",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "="
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p123",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) বামপক্ষ $= \\tan(A - B) = \\tan(\\frac{\\pi}{3} - \\frac{\\pi}{6}) = \\tan \\frac{\\pi}{6} = \\frac{1}{\\sqrt{3}}$",
+      "image": null,
+      "formulas": [
+        "= \\tan(A - B) = \\tan(\\frac{\\pi}{3} - \\frac{\\pi}{6}) = \\tan \\frac{\\pi}{6} = \\frac{1}{\\sqrt{3}}"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p124",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ডানপক্ষ $= \\frac{\\tan A - \\tan B}{1 + \\tan A \\tan B} = \\frac{\\tan \\frac{\\pi}{3} - \\tan \\frac{\\pi}{6}}{1 + \\tan \\frac{\\pi}{3} \\tan \\frac{\\pi}{6}}$",
+      "image": null,
+      "formulas": [
+        "= \\frac{\\tan A - \\tan B}{1 + \\tan A \\tan B} = \\frac{\\tan \\frac{\\pi}{3} - \\tan \\frac{\\pi}{6}}{1 + \\tan \\frac{\\pi}{3} \\tan \\frac{\\pi}{6}}"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p125",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\frac{\\sqrt{3} - \\frac{1}{\\sqrt{3}}}{1 + \\sqrt{3} \\cdot \\frac{1}{\\sqrt{3}}} = \\frac{2}{\\sqrt{3}} \\times \\frac{1}{2} = \\frac{1}{\\sqrt{3}}$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{\\sqrt{3} - \\frac{1}{\\sqrt{3}}}{1 + \\sqrt{3} \\cdot \\frac{1}{\\sqrt{3}}} = \\frac{2}{\\sqrt{3}} \\times \\frac{1}{2} = \\frac{1}{\\sqrt{3}}"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p126",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ বামপক্ষ $=$ ডানপক্ষ (প্রমাণিত)।",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "="
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p127",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:** $A = \\frac{\\pi}{3}$ ও $B = \\frac{\\pi}{6}$ এর জন্য নিম্নকণ্ট অভেদসমূহ প্রমাণ করো:",
+      "image": null,
+      "formulas": [
+        "A = \\frac{\\pi}{3}",
+        "B = \\frac{\\pi}{6}"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p128",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $\\sin(A - B) = \\sin A \\cos B - \\cos A \\sin B$",
+      "image": null,
+      "formulas": [
+        "\\sin(A - B) = \\sin A \\cos B - \\cos A \\sin B"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p129",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $\\cos(A + B) = \\cos A \\cos B - \\sin A \\sin B$",
+      "image": null,
+      "formulas": [
+        "\\cos(A + B) = \\cos A \\cos B - \\sin A \\sin B"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p130",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $\\cos(A - B) = \\cos A \\cos B + \\sin A \\sin B$",
+      "image": null,
+      "formulas": [
+        "\\cos(A - B) = \\cos A \\cos B + \\sin A \\sin B"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.8-p131",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঘ) $\\tan 2B = \\frac{2 \\tan B}{1 - \\tan^2 B}$",
+      "image": null,
+      "formulas": [
+        "\\tan 2B = \\frac{2 \\tan B}{1 - \\tan^2 B}"
+      ],
+      "pdfPageStart": 179,
+      "pdfPageEnd": 179,
+      "printedPageStart": 174,
+      "printedPageEnd": 174,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

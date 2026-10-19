@@ -1,0 +1,420 @@
+{
+  "id": "higher-math-9-10-bn-c13-t13.8",
+  "key": "13.8",
+  "title": "১. আয়তিক ঘন বা আয়তাকার ঘনবস্তু (Rectangular Parallelopiped)",
+  "chapter": 13,
+  "ordinal": 8,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c13-t13.8-p001",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A rectangular parallelopiped with vertices labeled A, B, C, D, A', B', C', and D'",
+      "image": "p298-page_7_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 298,
+      "pdfPageEnd": 298,
+      "printedPageStart": 293,
+      "printedPageEnd": 293,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.8-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তিনজোড়া সমান্তরাল সমতল দ্বারা আবদ্ধ ঘনবস্তুকে সামান্তরিক ঘনবস্তু বলা হয়। এই ছয়টি সমতলের প্রত্যেকটি একটি সামান্তরিক এবং বিপরীত পৃষ্ঠগুলো সর্বতোভাবে সমান। সামান্তরিক ঘনবস্তুর ছয়টি তলে বিভক্ত বারটি ধার আছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 298,
+      "pdfPageEnd": 298,
+      "printedPageStart": 293,
+      "printedPageEnd": 293,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.8-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যে সামান্তরিক ঘনবস্তুর পৃষ্ঠতলগুলো আয়তক্ষেত্র, তাকে আয়তাকার ঘনবস্তু বলা হয়। যে আয়তাকার ঘনবস্তুর পৃষ্ঠতলগুলো বর্গক্ষেত্র, তাকে ঘনক বলা হয়। উপরিউক্ত চিত্রে আয়তাকার ঘনবস্তুর এবং ঘনকের পৃষ্ঠগুলো $ABCD$, $A'B'C'D'$, $BCC'B'$, $ADD'A'$, $ABB'A'$, $DCC'D'$ এবং ধারগুলো $AB$, $A'B'$, $CD$, $C'D'$, $BC$, $B'C'$, $AD$, $A'D'$, $AA'$, $BB'$, $CC'$, $DD'$। তবে চিত্রে কেবল একটি কর্ণ $BD'$ দেখানো হয়েছে, অন্যগুলো অনুরূপভাবে আঁকতে হবে।",
+      "image": null,
+      "formulas": [
+        "ABCD",
+        "A'B'C'D'",
+        "BCC'B'",
+        "ADD'A'",
+        "ABB'A'",
+        "DCC'D'",
+        "AB",
+        "A'B'",
+        "CD",
+        "C'D'",
+        "BC",
+        "B'C'",
+        "AD",
+        "A'D'",
+        "AA'",
+        "BB'",
+        "CC'",
+        "DD'",
+        "BD'"
+      ],
+      "pdfPageStart": 298,
+      "pdfPageEnd": 298,
+      "printedPageStart": 293,
+      "printedPageEnd": 293,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.8-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "মনে করি, আয়তাকার ঘনবস্তুর দৈর্ঘ্য, প্রস্থ ও উচ্চতা যথাক্রমে $AB = a$ একক, $AD = b$ একক এবং $AA' = c$ একক।",
+      "image": null,
+      "formulas": [
+        "AB = a",
+        "AD = b",
+        "AA' = c"
+      ],
+      "pdfPageStart": 298,
+      "pdfPageEnd": 298,
+      "printedPageStart": 293,
+      "printedPageEnd": 293,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.8-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**ক) আয়তাকার ঘনবস্তুর সমগ্র তলের ক্ষেত্রফল (Area of the whole surface)**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 298,
+      "pdfPageEnd": 298,
+      "printedPageStart": 293,
+      "printedPageEnd": 293,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.8-p006",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= ছয়টি পৃষ্ঠের ক্ষেত্রফলের সমষ্টি$$",
+      "image": null,
+      "formulas": [
+        "= ছয়টি পৃষ্ঠের ক্ষেত্রফলের সমষ্টি"
+      ],
+      "pdfPageStart": 298,
+      "pdfPageEnd": 298,
+      "printedPageStart": 293,
+      "printedPageEnd": 293,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.8-p007",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= 2(ABCD  তলের ক্ষেত্রফল + ABB'A'  তলের ক্ষেত্রফল + ADD'A'  তলের ক্ষেত্রফল)$$",
+      "image": null,
+      "formulas": [
+        "= 2(ABCD  তলের ক্ষেত্রফল + ABB'A'  তলের ক্ষেত্রফল + ADD'A'  তলের ক্ষেত্রফল)"
+      ],
+      "pdfPageStart": 298,
+      "pdfPageEnd": 298,
+      "printedPageStart": 293,
+      "printedPageEnd": 293,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.8-p008",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= 2(ab + ac + bc)  বর্গ একক = 2(ab + bc + ca)  বর্গ একক$$",
+      "image": null,
+      "formulas": [
+        "= 2(ab + ac + bc)  বর্গ একক = 2(ab + bc + ca)  বর্গ একক"
+      ],
+      "pdfPageStart": 298,
+      "pdfPageEnd": 298,
+      "printedPageStart": 293,
+      "printedPageEnd": 293,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.8-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**খ) আয়তন (Volume) = $AB \\times AD \\times AA'$ ঘন একক = $abc$ ঘন একক**",
+      "image": null,
+      "formulas": [
+        "AB \\times AD \\times AA'",
+        "abc"
+      ],
+      "pdfPageStart": 298,
+      "pdfPageEnd": 298,
+      "printedPageStart": 293,
+      "printedPageEnd": 293,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.8-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**গ) কর্ণ $BD' = \\sqrt{BD^2 + DD'^2} = \\sqrt{AB^2 + AD^2 + DD'^2} = \\sqrt{a^2 + b^2 + c^2}$ একক**",
+      "image": null,
+      "formulas": [
+        "BD' = \\sqrt{BD^2 + DD'^2} = \\sqrt{AB^2 + AD^2 + DD'^2} = \\sqrt{a^2 + b^2 + c^2}"
+      ],
+      "pdfPageStart": 298,
+      "pdfPageEnd": 298,
+      "printedPageStart": 293,
+      "printedPageEnd": 293,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.8-p011",
+      "kind": "text",
+      "section": "২. ঘনক (Cube) আকৃতির ঘনবস্তু",
+      "caption": null,
+      "body": "ঘনকের ক্ষেত্রে, $a = b = c$, অতএব",
+      "image": null,
+      "formulas": [
+        "a = b = c"
+      ],
+      "pdfPageStart": 298,
+      "pdfPageEnd": 298,
+      "printedPageStart": 293,
+      "printedPageEnd": 293,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.8-p012",
+      "kind": "text",
+      "section": "২. ঘনক (Cube) আকৃতির ঘনবস্তু",
+      "caption": null,
+      "body": "**ক) সমগ্র তলের ক্ষেত্রফল = $2(a^2 + a^2 + a^2) = 6a^2$ বর্গ একক**",
+      "image": null,
+      "formulas": [
+        "2(a^2 + a^2 + a^2) = 6a^2"
+      ],
+      "pdfPageStart": 298,
+      "pdfPageEnd": 298,
+      "printedPageStart": 293,
+      "printedPageEnd": 293,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.8-p013",
+      "kind": "text",
+      "section": "২. ঘনক (Cube) আকৃতির ঘনবস্তু",
+      "caption": null,
+      "body": "**খ) আয়তন = $a \\cdot a \\cdot a = a^3$ ঘন একক** গ) কর্ণ $= \\sqrt{a^2 + a^2 + a^2} = \\sqrt{3}a$ একক।",
+      "image": null,
+      "formulas": [
+        "a \\cdot a \\cdot a = a^3",
+        "= \\sqrt{a^2 + a^2 + a^2} = \\sqrt{3}a"
+      ],
+      "pdfPageStart": 298,
+      "pdfPageEnd": 299,
+      "printedPageStart": 293,
+      "printedPageEnd": 294,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.8-p014",
+      "kind": "text",
+      "section": "২. ঘনক (Cube) আকৃতির ঘনবস্তু",
+      "caption": null,
+      "body": "**উদাহরণ ১.** একটি আয়তাকার ঘনবস্তুর দৈর্ঘ্য, প্রস্থ ও উচ্চতার অনুপাত $4 : 3 : 2$ এবং তার সমগ্র তলের ক্ষেত্রফল 468 বর্গমিটার হলে, তার কর্ণ ও আয়তন নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "4 : 3 : 2"
+      ],
+      "pdfPageStart": 299,
+      "pdfPageEnd": 299,
+      "printedPageStart": 294,
+      "printedPageEnd": 294,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.8-p015",
+      "kind": "text",
+      "section": "২. ঘনক (Cube) আকৃতির ঘনবস্তু",
+      "caption": null,
+      "body": "**সমাধান:** মনে করি, দৈর্ঘ্য, প্রস্থ ও উচ্চতা যথাক্রমে $4x$, $3x$ ও $2x$ মিটার।",
+      "image": null,
+      "formulas": [
+        "4x",
+        "3x",
+        "2x"
+      ],
+      "pdfPageStart": 299,
+      "pdfPageEnd": 299,
+      "printedPageStart": 294,
+      "printedPageEnd": 294,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.8-p016",
+      "kind": "text",
+      "section": "২. ঘনক (Cube) আকৃতির ঘনবস্তু",
+      "caption": null,
+      "body": "তাহলে, $2(4x \\cdot 3x + 3x \\cdot 2x + 2x \\cdot 4x) = 468$",
+      "image": null,
+      "formulas": [
+        "2(4x \\cdot 3x + 3x \\cdot 2x + 2x \\cdot 4x) = 468"
+      ],
+      "pdfPageStart": 299,
+      "pdfPageEnd": 299,
+      "printedPageStart": 294,
+      "printedPageEnd": 294,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.8-p017",
+      "kind": "text",
+      "section": "২. ঘনক (Cube) আকৃতির ঘনবস্তু",
+      "caption": null,
+      "body": "বা, $52x^2 = 468$ বা, $x^2 = 9$ $\\therefore x = 3$",
+      "image": null,
+      "formulas": [
+        "52x^2 = 468",
+        "x^2 = 9",
+        "\\therefore x = 3"
+      ],
+      "pdfPageStart": 299,
+      "pdfPageEnd": 299,
+      "printedPageStart": 294,
+      "printedPageEnd": 294,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.8-p018",
+      "kind": "text",
+      "section": "২. ঘনক (Cube) আকৃতির ঘনবস্তু",
+      "caption": null,
+      "body": "$\\therefore$ ঘনবস্তুর দৈর্ঘ্য 12 মিটার, প্রস্থ 9 মিটার এবং উচ্চতা 6 মিটার",
+      "image": null,
+      "formulas": [
+        "\\therefore"
+      ],
+      "pdfPageStart": 299,
+      "pdfPageEnd": 299,
+      "printedPageStart": 294,
+      "printedPageEnd": 294,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.8-p019",
+      "kind": "text",
+      "section": "২. ঘনক (Cube) আকৃতির ঘনবস্তু",
+      "caption": null,
+      "body": "কর্ণের দৈর্ঘ্য $= \\sqrt{12^2 + 9^2 + 6^2}$ মিটার $= \\sqrt{144 + 81 + 36} = \\sqrt{261}$ মিটার $\\approx 16.16$ মিটার (প্রায়)",
+      "image": null,
+      "formulas": [
+        "= \\sqrt{12^2 + 9^2 + 6^2}",
+        "= \\sqrt{144 + 81 + 36} = \\sqrt{261}",
+        "\\approx 16.16"
+      ],
+      "pdfPageStart": 299,
+      "pdfPageEnd": 299,
+      "printedPageStart": 294,
+      "printedPageEnd": 294,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.8-p020",
+      "kind": "text",
+      "section": "২. ঘনক (Cube) আকৃতির ঘনবস্তু",
+      "caption": null,
+      "body": "এবং আয়তন $= 12 \\times 9 \\times 6 = 648$ ঘনমিটার।",
+      "image": null,
+      "formulas": [
+        "= 12 \\times 9 \\times 6 = 648"
+      ],
+      "pdfPageStart": 299,
+      "pdfPageEnd": 299,
+      "printedPageStart": 294,
+      "printedPageEnd": 294,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.8-p021",
+      "kind": "text",
+      "section": "২. ঘনক (Cube) আকৃতির ঘনবস্তু",
+      "caption": null,
+      "body": "> **কাজ:** পিচবোর্ডের একটি ছোটো বাক্স (কর্টুন অথবা ঔষধের বোতলের প্যাকেট) এর দৈর্ঘ্য, প্রস্থ ও উচ্চতা মেপে তার আয়তন, ছয়টি তলের ক্ষেত্রফল ও কর্ণের দৈর্ঘ্য নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 299,
+      "pdfPageEnd": 299,
+      "printedPageStart": 294,
+      "printedPageEnd": 294,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

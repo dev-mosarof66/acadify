@@ -100,10 +100,10 @@
       "exercise": 18
     },
     "byReason": {
-      "known-confusable-corrected": 14,
+      "known-confusable-corrected": 17,
       "verify-table": 15,
       "verify-formula": 47
     },
-    "needsReview": 74
+    "needsReview": 77
   }
 }

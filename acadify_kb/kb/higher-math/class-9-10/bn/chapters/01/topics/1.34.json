@@ -10,7 +10,7 @@
       "kind": "text",
       "section": null,
       "caption": null,
-      "body": "দ্বিঘাত ফাংশন হলো একটি ফাংশন যা $y = ax^2 + bx + c$ সমীকরণ দ্বারা বর্গিত যেখানে $a, b$ ও $c$ বাস্তব সংখ্যা এবং $a \\neq 0$। প্রদত্ত ফাংশনে ধরি $a = 1, b = -4, c = -1$। তাহলে $y = ax^2 + bx + c$ কে লেখা যায় $y = x^2 - 4x - 1$। বর্গিত ফাংশন হতে $x$ ও $y$ এর সংশ্লিষ্ট মান পাওয়া যায় যা নিচের সারণিতে দেখানো হয়েছে।",
+      "body": "দ্বিঘাত ফাংশন হলো একটি ফাংশন যা $y = ax^2 + bx + c$ সমীকরণ দ্বারা বর্ণিত যেখানে $a, b$ ও $c$ বাস্তব সংখ্যা এবং $a \\neq 0$। প্রদত্ত ফাংশনে ধরি $a = 1, b = -4, c = -1$। তাহলে $y = ax^2 + bx + c$ কে লেখা যায় $y = x^2 - 4x - 1$। বর্ণিত ফাংশন হতে $x$ ও $y$ এর সংশ্লিষ্ট মান পাওয়া যায় যা নিচের সারণিতে দেখানো হয়েছে।",
       "image": null,
       "formulas": [
         "y = ax^2 + bx + c",
@@ -28,6 +28,7 @@
       "printedPageStart": 31,
       "printedPageEnd": 31,
       "reviewReasons": [
+        "known-confusable-corrected",
         "verify-formula"
       ],
       "needsReview": true
@@ -69,15 +70,17 @@
       "kind": "text",
       "section": null,
       "caption": null,
-      "body": "উপরে দিঘাত ফাংশনটির লেখচিত্র। এই দিঘাত ফাংশন এর কিছু সাধারণ বৈশিষ্ট্য লক্ষ্য করি।",
+      "body": "উপরে দ্বিঘাত ফাংশনটির লেখচিত্র। এই দ্বিঘাত ফাংশন এর কিছু সাধারণ বৈশিষ্ট্য লক্ষ্য করি।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 37,
       "pdfPageEnd": 37,
       "printedPageStart": 32,
       "printedPageEnd": 32,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "higher-math-9-10-bn-c01-t1.34-p005",

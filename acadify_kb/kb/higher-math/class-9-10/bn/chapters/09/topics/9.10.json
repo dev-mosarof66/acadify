@@ -1,0 +1,484 @@
+{
+  "id": "higher-math-9-10-bn-c09-t9.10",
+  "key": "9.10",
+  "title": "$y = \\log_2 x$ এর লেখচিত্র অঙ্কন",
+  "chapter": 9,
+  "ordinal": 11,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c09-t9.10-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যেহেতু $y = \\log_2 x$ ফলে $y = 2^x$ এর বিপরীত ফাংশন। $y = x$ রেখার সাপেক্ষে সূচক ফাংশনের প্রতিফলন লগারিদমীয় ফাংশন নির্ণয় করা হয়েছে যাহা $y = x$ রেখার সাপেক্ষে প্রতিসম।",
+      "image": null,
+      "formulas": [
+        "y = \\log_2 x",
+        "y = 2^x",
+        "y = x",
+        "y = x"
+      ],
+      "pdfPageStart": 219,
+      "pdfPageEnd": 219,
+      "printedPageStart": 214,
+      "printedPageEnd": 214,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.10-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে ডোমেন $R = (0, \\infty)$ এবং রেঞ্জ $D = (-\\infty, \\infty)$",
+      "image": null,
+      "formulas": [
+        "R = (0, \\infty)",
+        "D = (-\\infty, \\infty)"
+      ],
+      "pdfPageStart": 219,
+      "pdfPageEnd": 219,
+      "printedPageStart": 214,
+      "printedPageEnd": 214,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.10-p003",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A coordinate plane showing the graphs of y = 2^x, y = log2(x), and y = x, with labeled axes X, Y, X', Y' and grid lines.",
+      "image": "p219-page_22_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 219,
+      "pdfPageEnd": 219,
+      "printedPageStart": 214,
+      "printedPageEnd": 214,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.10-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:** নিচের ফাংশনগুলোর লেখচিত্র অঙ্কন করো এবং এদের বিপরীত ফাংশন নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 219,
+      "pdfPageEnd": 219,
+      "printedPageStart": 214,
+      "printedPageEnd": 214,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.10-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $y = 3x + 2$\nঘ) $y = \\frac{4}{x}$\nছ) $y = 2^{-x}$",
+      "image": null,
+      "formulas": [
+        "y = 3x + 2",
+        "y = \\frac{4}{x}",
+        "y = 2^{-x}"
+      ],
+      "pdfPageStart": 219,
+      "pdfPageEnd": 219,
+      "printedPageStart": 214,
+      "printedPageEnd": 214,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.10-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $y = x^2 + 3, x \\ge 0$\nঙ) $y = 3x$\nজ) $y = 4^x$",
+      "image": null,
+      "formulas": [
+        "y = x^2 + 3, x \\ge 0",
+        "y = 3x",
+        "y = 4^x"
+      ],
+      "pdfPageStart": 219,
+      "pdfPageEnd": 219,
+      "printedPageStart": 214,
+      "printedPageEnd": 214,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.10-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $y = x^3 - 1$\nচ) $y = \\frac{2x + 1}{x - 1}$",
+      "image": null,
+      "formulas": [
+        "y = x^3 - 1",
+        "y = \\frac{2x + 1}{x - 1}"
+      ],
+      "pdfPageStart": 219,
+      "pdfPageEnd": 219,
+      "printedPageStart": 214,
+      "printedPageEnd": 214,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.10-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৩০.** $f(x) = \\frac{x}{|x|}$, ফাংশনটির ডোমেন এবং রেঞ্জ নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "f(x) = \\frac{x}{|x|}"
+      ],
+      "pdfPageStart": 219,
+      "pdfPageEnd": 219,
+      "printedPageStart": 214,
+      "printedPageEnd": 214,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.10-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $f(0) = \\frac{0}{|0|} = \\frac{0}{0}$ যা অসংজ্ঞায়িত।",
+      "image": null,
+      "formulas": [
+        "f(0) = \\frac{0}{|0|} = \\frac{0}{0}"
+      ],
+      "pdfPageStart": 219,
+      "pdfPageEnd": 219,
+      "printedPageStart": 214,
+      "printedPageEnd": 214,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.10-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore x = 0$ বিন্দুতে প্রদত্ত ফাংশনটি বিদ্যমান নয়। শূন্য ব্যতীত $x$ এর অন্য বাস্তব মানের জন্য প্রদত্ত ফাংশনটি বিদ্যমান।",
+      "image": null,
+      "formulas": [
+        "\\therefore x = 0",
+        "x"
+      ],
+      "pdfPageStart": 219,
+      "pdfPageEnd": 219,
+      "printedPageStart": 214,
+      "printedPageEnd": 214,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.10-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ ফাংশনের ডোমেন $D_f = R - \\{0\\}$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "D_f = R - \\{0\\}"
+      ],
+      "pdfPageStart": 219,
+      "pdfPageEnd": 219,
+      "printedPageStart": 214,
+      "printedPageEnd": 214,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.10-p012",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$f(x) = \\frac{x}{|x|} = \\begin{cases} \\frac{x}{x} = 1, & যখন  x > 0 \\\\ \\frac{x}{-x} = -1, & যখন  x < 0 \\end{cases}$$",
+      "image": null,
+      "formulas": [
+        "f(x) = \\frac{x}{|x|} = \\begin{cases} \\frac{x}{x} = 1, & যখন  x > 0 \\\\ \\frac{x}{-x} = -1, & যখন  x < 0 \\end{cases}"
+      ],
+      "pdfPageStart": 219,
+      "pdfPageEnd": 219,
+      "printedPageStart": 214,
+      "printedPageEnd": 214,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.10-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ ফাংশনের রেঞ্জ $R_f = \\{-1, 1\\}$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "R_f = \\{-1, 1\\}"
+      ],
+      "pdfPageStart": 219,
+      "pdfPageEnd": 219,
+      "printedPageStart": 214,
+      "printedPageEnd": 214,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.10-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৩১.** $y = f(x) = \\ln \\frac{a + x}{a - x}$, $a > 0$ এবং পূর্ণসংখ্যা, ফাংশনটির ডোমেন ও রেঞ্জ নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "y = f(x) = \\ln \\frac{a + x}{a - x}",
+        "a > 0"
+      ],
+      "pdfPageStart": 219,
+      "pdfPageEnd": 219,
+      "printedPageStart": 214,
+      "printedPageEnd": 214,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.10-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** যেহেতু লগারিদম শুধুমাত্র ধনাত্মক বাস্তব সংখ্যার জন্য সংজ্ঞায়িত হয়",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 219,
+      "pdfPageEnd": 219,
+      "printedPageStart": 214,
+      "printedPageEnd": 214,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.10-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\frac{a + x}{a - x} > 0$ যদি",
+      "image": null,
+      "formulas": [
+        "\\therefore \\frac{a + x}{a - x} > 0"
+      ],
+      "pdfPageStart": 219,
+      "pdfPageEnd": 219,
+      "printedPageStart": 214,
+      "printedPageEnd": 214,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.10-p017",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A number line diagram showing a closed interval between -a and a.",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 219,
+      "pdfPageEnd": 219,
+      "printedPageStart": 214,
+      "printedPageEnd": 214,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.10-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(i) $a + x > 0$ এবং $a - x > 0$ হয় অথবা\n(ii) $a + x < 0$ এবং $a - x < 0$ হয় $(i) \\implies x > -a$ এবং $a > x$\n$$\\implies -a < x  এবং  x < a$$\n$\\therefore$ ডোমেন $= \\{x : -a < x\\} \\cap \\{x : x < a\\}$\n$$= (-a, \\infty) \\cap (-\\infty, a) = (-a, a)$$",
+      "image": null,
+      "formulas": [
+        "a + x > 0",
+        "a - x > 0",
+        "a + x < 0",
+        "a - x < 0",
+        "(i) \\implies x > -a",
+        "a > x",
+        "\\implies -a < x  এবং  x < a",
+        "\\therefore",
+        "= \\{x : -a < x\\} \\cap \\{x : x < a\\}",
+        "= (-a, \\infty) \\cap (-\\infty, a) = (-a, a)"
+      ],
+      "pdfPageStart": 219,
+      "pdfPageEnd": 220,
+      "printedPageStart": 214,
+      "printedPageEnd": 215,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.10-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$(ii) \\implies x < -a$ এবং $a < x$\n$$\\implies x < -a  এবং  x > a$$\n$\\therefore$ ডোমেন $= \\{x : x < -a\\} \\cap \\{x : x > a\\} = \\varnothing$",
+      "image": null,
+      "formulas": [
+        "(ii) \\implies x < -a",
+        "a < x",
+        "\\implies x < -a  এবং  x > a",
+        "\\therefore",
+        "= \\{x : x < -a\\} \\cap \\{x : x > a\\} = \\varnothing"
+      ],
+      "pdfPageStart": 220,
+      "pdfPageEnd": 220,
+      "printedPageStart": 215,
+      "printedPageEnd": 215,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.10-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ প্রদত্ত ফাংশনের ডোমেন $D_f = (i)  ও  (ii)  থেকে প্রাপ্ত ডোমেনের সংযোগ  (-a, a) \\cup \\varnothing = (-a, a)$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "D_f = (i)  ও  (ii)  থেকে প্রাপ্ত ডোমেনের সংযোগ  (-a, a) \\cup \\varnothing = (-a, a)"
+      ],
+      "pdfPageStart": 220,
+      "pdfPageEnd": 220,
+      "printedPageStart": 215,
+      "printedPageEnd": 215,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.10-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**রেঞ্জ:** $y = f(x) = \\ln \\frac{a + x}{a - x} \\implies e^y = \\frac{a + x}{a - x}$\n$$\\implies a + x = ae^y - xe^y$$\n$$\\implies x + xe^y = ae^y - a$$\n$$\\implies (1 + e^y)x = a(e^y - 1)$$\n$$\\implies x = \\frac{a(e^y - 1)}{e^y + 1}$$",
+      "image": null,
+      "formulas": [
+        "y = f(x) = \\ln \\frac{a + x}{a - x} \\implies e^y = \\frac{a + x}{a - x}",
+        "\\implies a + x = ae^y - xe^y",
+        "\\implies x + xe^y = ae^y - a",
+        "\\implies (1 + e^y)x = a(e^y - 1)",
+        "\\implies x = \\frac{a(e^y - 1)}{e^y + 1}"
+      ],
+      "pdfPageStart": 220,
+      "pdfPageEnd": 220,
+      "printedPageStart": 215,
+      "printedPageEnd": 215,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.10-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$y$ এর সকল বাস্তব মানের জন্য $x$ এর মান বাস্তব হয়।\n$\\therefore$ প্রদত্ত ফাংশনের রেঞ্জ $R_f = R$",
+      "image": null,
+      "formulas": [
+        "y",
+        "x",
+        "\\therefore",
+        "R_f = R"
+      ],
+      "pdfPageStart": 220,
+      "pdfPageEnd": 220,
+      "printedPageStart": 215,
+      "printedPageEnd": 215,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.10-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:** নিচের ফাংশনের ডোমেন ও রেঞ্জ নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 220,
+      "pdfPageEnd": 220,
+      "printedPageStart": 215,
+      "printedPageEnd": 215,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.10-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $y = \\ln \\frac{2 + x}{2 - x}$\nখ) $y = \\ln \\frac{3 + x}{3 - x}$\nগ) $y = \\ln \\frac{4 + x}{4 - x}$\nঘ) $y = \\ln \\frac{5 + x}{5 - x}$",
+      "image": null,
+      "formulas": [
+        "y = \\ln \\frac{2 + x}{2 - x}",
+        "y = \\ln \\frac{3 + x}{3 - x}",
+        "y = \\ln \\frac{4 + x}{4 - x}",
+        "y = \\ln \\frac{5 + x}{5 - x}"
+      ],
+      "pdfPageStart": 220,
+      "pdfPageEnd": 220,
+      "printedPageStart": 215,
+      "printedPageEnd": 215,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

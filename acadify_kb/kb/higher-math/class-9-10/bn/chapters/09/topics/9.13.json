@@ -1,0 +1,54 @@
+{
+  "id": "higher-math-9-10-bn-c09-t9.13",
+  "key": "9.13",
+  "title": "৩. লেখচিত্র অঙ্কন করো।",
+  "chapter": 9,
+  "ordinal": 14,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c09-t9.13-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $y = 3^x$\nখ) $y = -3^x$\nগ) $y = 3^{x+1}$\nঘ) $y = -3^{x+1}$\nঙ) $y = 3^{-x+1}$\nচ) $y = 3^{x-1}$",
+      "image": null,
+      "formulas": [
+        "y = 3^x",
+        "y = -3^x",
+        "y = 3^{x+1}",
+        "y = -3^{x+1}",
+        "y = 3^{-x+1}",
+        "y = 3^{x-1}"
+      ],
+      "pdfPageStart": 226,
+      "pdfPageEnd": 226,
+      "printedPageStart": 221,
+      "printedPageEnd": 221,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.13-p002",
+      "kind": "text",
+      "section": "৪. নিচের ফাংশনের বিপরীত ফাংশন লেখো এবং লেখচিত্র অঙ্কন করে ডোমেন ও রেঞ্জ নির্ণয় করো।",
+      "caption": null,
+      "body": "ক) $y = 1 - 2^x$\nখ) $y = \\log_{10} x$\nগ) $y = x^2, x > 0$",
+      "image": null,
+      "formulas": [
+        "y = 1 - 2^x",
+        "y = \\log_{10} x",
+        "y = x^2, x > 0"
+      ],
+      "pdfPageStart": 226,
+      "pdfPageEnd": 226,
+      "printedPageStart": 221,
+      "printedPageEnd": 221,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

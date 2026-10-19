@@ -1,0 +1,244 @@
+{
+  "id": "higher-math-9-10-bn-c11-t11.6",
+  "key": "11.6",
+  "title": "সুতরাং চতুর্ভুজক্ষেত্র এর ক্ষেত্রফল",
+  "chapter": 11,
+  "ordinal": 7,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c11-t11.6-p001",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\frac{1}{2} \\begin{vmatrix} x_1 & x_2 & x_3 & x_4 & x_1 \\\\ y_1 & y_2 & y_3 & y_4 & y_1 \\end{vmatrix}  বর্গ একক$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{1}{2} \\begin{vmatrix} x_1 & x_2 & x_3 & x_4 & x_1 \\\\ y_1 & y_2 & y_3 & y_4 & y_1 \\end{vmatrix}  বর্গ একক"
+      ],
+      "pdfPageStart": 260,
+      "pdfPageEnd": 260,
+      "printedPageStart": 255,
+      "printedPageEnd": 255,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.6-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অনুরূপভাবে একটি পঞ্চভুজ $ABCDE$ (নিচের চিত্র) এর শীর্ষবিন্দুগুলো যদি $A(x_1, y_1)$, $B(x_2, y_2)$, $C(x_3, y_3)$, $D(x_4, y_4)$ ও $E(x_5, y_5)$ হয় এবং চিত্রের মতো শীর্ষগুলো যদি ঘড়ির কাঁটার বিপরীত দিকে হয়, তবে পঞ্চভুজ $ABCDE$ এর ক্ষেত্রফল তিনটি ত্রিভুজ ক্ষেত্র $ABC$, $ACD$ ও $ADE$ এর ক্ষেত্রফলের সমষ্টির সমান।",
+      "image": null,
+      "formulas": [
+        "ABCDE",
+        "A(x_1, y_1)",
+        "B(x_2, y_2)",
+        "C(x_3, y_3)",
+        "D(x_4, y_4)",
+        "E(x_5, y_5)",
+        "ABCDE",
+        "ABC",
+        "ACD",
+        "ADE"
+      ],
+      "pdfPageStart": 260,
+      "pdfPageEnd": 260,
+      "printedPageStart": 255,
+      "printedPageEnd": 255,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.6-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ত্রিভুজক্ষেত্র ও চতুর্ভুজক্ষেত্রের ঠিক অনুরূপভাবে পঞ্চভুজক্ষেত্র $ABCDE$ এর ক্ষেত্রফল",
+      "image": null,
+      "formulas": [
+        "ABCDE"
+      ],
+      "pdfPageStart": 260,
+      "pdfPageEnd": 260,
+      "printedPageStart": 255,
+      "printedPageEnd": 255,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.6-p004",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\frac{1}{2} \\begin{vmatrix} x_1 & x_2 & x_3 & x_4 & x_5 & x_1 \\\\ y_1 & y_2 & y_3 & y_4 & y_5 & y_1 \\end{vmatrix}  বর্গ একক$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{1}{2} \\begin{vmatrix} x_1 & x_2 & x_3 & x_4 & x_5 & x_1 \\\\ y_1 & y_2 & y_3 & y_4 & y_5 & y_1 \\end{vmatrix}  বর্গ একক"
+      ],
+      "pdfPageStart": 260,
+      "pdfPageEnd": 260,
+      "printedPageStart": 255,
+      "printedPageEnd": 255,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.6-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "একইভাবে যেকোনো বহুভুজের শীর্ষবিন্দুসমূহের স্থানাঙ্ক জানা থাকলে সহজেই উপরোক্ত পদ্ধতিতে ক্ষেত্রফল নির্ণয় করা যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 260,
+      "pdfPageEnd": 260,
+      "printedPageStart": 255,
+      "printedPageEnd": 255,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.6-p006",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A geometric diagram showing a pentagon ABCDE on a Cartesian coordinate plane with axes X, Y, X', and Y', and origin O.",
+      "image": "p260-page_17_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 260,
+      "pdfPageEnd": 260,
+      "printedPageStart": 255,
+      "printedPageEnd": 255,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.6-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:** চতুর্ভুজক্ষেত্রের ক্ষেত্রফল নির্ণয়ের পদ্ধতির সাহায্যে ষড়ভুজ ক্ষেত্রের ক্ষেত্রফল নির্ণয়ের সূত্র প্রতিপাদন করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 260,
+      "pdfPageEnd": 260,
+      "printedPageStart": 255,
+      "printedPageEnd": 255,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.6-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৪.** $A(1, 4)$, $B(-4, 3)$, $C(1, -2)$ এবং $D(4, 0)$ শীর্ষবিশিষ্ট চতুর্ভুজক্ষেত্র $ABCD$ এর ক্ষেত্রফল নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "A(1, 4)",
+        "B(-4, 3)",
+        "C(1, -2)",
+        "D(4, 0)",
+        "ABCD"
+      ],
+      "pdfPageStart": 260,
+      "pdfPageEnd": 260,
+      "printedPageStart": 255,
+      "printedPageEnd": 255,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.6-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** বিন্দুমূহকে যড়ির ক্যাটার বিপরীত দিকে নিয়ে চতুর্ভুজক্ষেত্র $ABCD$ এর ক্ষেত্রফল $=$",
+      "image": null,
+      "formulas": [
+        "ABCD",
+        "="
+      ],
+      "pdfPageStart": 261,
+      "pdfPageEnd": 261,
+      "printedPageStart": 256,
+      "printedPageEnd": 256,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.6-p010",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{1}{2} \\begin{vmatrix} 1 & -4 & 1 & 4 & 1 \\\\ 4 & 3 & -2 & 0 & 4 \\end{vmatrix}  বর্গ একক$$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{2} \\begin{vmatrix} 1 & -4 & 1 & 4 & 1 \\\\ 4 & 3 & -2 & 0 & 4 \\end{vmatrix}  বর্গ একক"
+      ],
+      "pdfPageStart": 261,
+      "pdfPageEnd": 261,
+      "printedPageStart": 256,
+      "printedPageEnd": 256,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.6-p011",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\frac{1}{2} (3 + 8 + 0 + 16 + 16 - 3 + 8 - 0)  বর্গ একক$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{1}{2} (3 + 8 + 0 + 16 + 16 - 3 + 8 - 0)  বর্গ একক"
+      ],
+      "pdfPageStart": 261,
+      "pdfPageEnd": 261,
+      "printedPageStart": 256,
+      "printedPageEnd": 256,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.6-p012",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\frac{1}{2} (48)  বর্গ একক = 24  বর্গ একক$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{1}{2} (48)  বর্গ একক = 24  বর্গ একক"
+      ],
+      "pdfPageStart": 261,
+      "pdfPageEnd": 261,
+      "printedPageStart": 256,
+      "printedPageEnd": 256,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

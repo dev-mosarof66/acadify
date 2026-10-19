@@ -1,0 +1,152 @@
+{
+  "id": "higher-math-9-10-bn-c12-t12.3",
+  "key": "12.3",
+  "title": "ভেক্টরের বিয়োগ",
+  "chapter": 12,
+  "ordinal": 3,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c12-t12.3-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "<u>u</u> এবং <u>v</u> ভেক্টরদ্বয়ের বিয়োগফল <u>u</u> - <u>v</u> বলতে <u>u</u> এবং $-v$ (অর্থাৎ <u>v</u> এর বিপরীত ভেক্টর) ভেক্টরদ্বয়ের যোগফল <u>u</u> + ($-v$) বুঝায়।",
+      "image": null,
+      "formulas": [
+        "-v",
+        "-v"
+      ],
+      "pdfPageStart": 279,
+      "pdfPageEnd": 279,
+      "printedPageStart": 274,
+      "printedPageEnd": 274,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.3-p002",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A triangle with vertices A, B, and C. The side AB is labeled with vector u. The side AC is labeled with vector v. The side BC is labeled with vector u - v.",
+      "image": "p280-page_5_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 280,
+      "pdfPageEnd": 280,
+      "printedPageStart": 275,
+      "printedPageEnd": 275,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.3-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ভেক্টর বিয়োগের ত্রিভুজবিধি: $<u>u</u>$ এবং $<u>v</u>$ এর আদিবিন্দু একই হলে $<u>u</u> - <u>v</u>$ সেই ভেক্টর, যার আদিবিন্দু হচ্ছে $<u>v</u>$ এর অন্তবিন্দু এবং যার অন্তবিন্দু হচ্ছে $<u>u</u>$ এর অন্তবিন্দু। সংক্ষেপে একই আদিবিন্দু বিশিষ্ট দুটি ভেক্টরের বিয়োগফল হচ্ছে অন্তবিন্দুদ্বয় দ্বারা বিপরীতক্রমে গঠিত ভেক্টর। সুতরাং $<u>u</u> = \\overrightarrow{AB}$, $<u>v</u> = \\overrightarrow{AC}$ হলে $<u>u</u> - <u>v</u> = \\overrightarrow{CB}$, অর্থাৎ, $\\overrightarrow{AB} - \\overrightarrow{AC} = \\overrightarrow{CB}$। নিচে আমরা এটা প্রমাণ করব।",
+      "image": null,
+      "formulas": [
+        "<u>u</u>",
+        "<u>v</u>",
+        "<u>u</u> - <u>v</u>",
+        "<u>v</u>",
+        "<u>u</u>",
+        "<u>u</u> = \\overrightarrow{AB}",
+        "<u>v</u> = \\overrightarrow{AC}",
+        "<u>u</u> - <u>v</u> = \\overrightarrow{CB}",
+        "\\overrightarrow{AB} - \\overrightarrow{AC} = \\overrightarrow{CB}"
+      ],
+      "pdfPageStart": 280,
+      "pdfPageEnd": 280,
+      "printedPageStart": 275,
+      "printedPageEnd": 275,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.3-p004",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A geometric diagram showing a triangle ABC and a parallelogram AEBF. The vector u is represented by the arrow from A to B. The vector v is represented by the arrow from A to C. The vector u - v is represented by the arrow from A to F. The vector -v is represented by the arrow from E to A.",
+      "image": "p280-page_5_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 280,
+      "pdfPageEnd": 280,
+      "printedPageStart": 275,
+      "printedPageEnd": 275,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.3-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:** $CA$ রেখাংশকে এমনভাবে বর্ধিত করি যেন $AE = CA$ হয়। $AEFB$ সামান্তরিক গঠন করি। ভেক্টর যোগের সামান্তরিক বিধি অনুযায়ী, $\\overrightarrow{AE} + \\overrightarrow{AB} = \\overrightarrow{AF}$।",
+      "image": null,
+      "formulas": [
+        "CA",
+        "AE = CA",
+        "AEFB",
+        "\\overrightarrow{AE} + \\overrightarrow{AB} = \\overrightarrow{AF}"
+      ],
+      "pdfPageStart": 280,
+      "pdfPageEnd": 280,
+      "printedPageStart": 275,
+      "printedPageEnd": 275,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.3-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার $AFBC$ একটি সামান্তরিক, কেননা $BF = AE = CA$ এবং $BF \\parallel AE$ বলে $BF \\parallel CA$। $\\therefore \\overrightarrow{AF} = \\overrightarrow{CB}$ (ভেক্টর স্থানান্তর), কিন্তু $\\overrightarrow{AE} = -<u>v</u>$ এবং $\\overrightarrow{AB} = <u>u</u>$।",
+      "image": null,
+      "formulas": [
+        "AFBC",
+        "BF = AE = CA",
+        "BF \\parallel AE",
+        "BF \\parallel CA",
+        "\\therefore \\overrightarrow{AF} = \\overrightarrow{CB}",
+        "\\overrightarrow{AE} = -<u>v</u>",
+        "\\overrightarrow{AB} = <u>u</u>"
+      ],
+      "pdfPageStart": 280,
+      "pdfPageEnd": 280,
+      "printedPageStart": 275,
+      "printedPageEnd": 275,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.3-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং $<u>u</u> - <u>v</u> = \\overrightarrow{CB}$ প্রমাণিত হলো।",
+      "image": null,
+      "formulas": [
+        "<u>u</u> - <u>v</u> = \\overrightarrow{CB}"
+      ],
+      "pdfPageStart": 280,
+      "pdfPageEnd": 280,
+      "printedPageStart": 275,
+      "printedPageEnd": 275,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

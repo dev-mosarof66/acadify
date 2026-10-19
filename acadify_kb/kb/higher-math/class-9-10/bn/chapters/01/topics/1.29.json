@@ -188,7 +188,7 @@
       "kind": "text",
       "section": null,
       "caption": null,
-      "body": "এখানে $D = \\{(2,2), (2,4), (2,10), (5,10), (7,7)\\}$ এরূপ অস্বিত সদস্যদের দ্বারা গঠিত ক্রমজোড়গুলোর সেট, যা দ্বারা এই বিভাজ্যতা সম্পর্কটি বর্ণনা করা যায়। $D$ সেট অন্তর্ভুক্ত ক্রমজোড়গুলোর প্রথম অংশ $A$ এর সদস্য ও দ্বিতীয় অংশ $B$ এর সদস্য যেখানে প্রথম অংশ দ্বারা দ্বিতীয় অংশ বিভাজ্য। অর্থাৎ, $D \\subset A \\times B$ এবং $D = \\{(x,y) : x \\in A, y \\in B  এবং  x  দ্বারা  y  বিভাজ্য\\}$, এখানে $D$ সেটটি $A$ সেট থেকে $B$ সেটে একটি অস্বয়।",
+      "body": "এখানে $D = \\{(2,2), (2,4), (2,10), (5,10), (7,7)\\}$ এরূপ অন্বিত সদস্যদের দ্বারা গঠিত ক্রমজোড়গুলোর সেট, যা দ্বারা এই বিভাজ্যতা সম্পর্কটি বর্ণনা করা যায়। $D$ সেট অন্তর্ভুক্ত ক্রমজোড়গুলোর প্রথম অংশ $A$ এর সদস্য ও দ্বিতীয় অংশ $B$ এর সদস্য যেখানে প্রথম অংশ দ্বারা দ্বিতীয় অংশ বিভাজ্য। অর্থাৎ, $D \\subset A \\times B$ এবং $D = \\{(x,y) : x \\in A, y \\in B  এবং  x  দ্বারা  y  বিভাজ্য\\}$, এখানে $D$ সেটটি $A$ সেট থেকে $B$ সেটে একটি অন্বয়।",
       "image": null,
       "formulas": [
         "D = \\{(2,2), (2,4), (2,10), (5,10), (7,7)\\}",
@@ -206,6 +206,7 @@
       "printedPageStart": 25,
       "printedPageEnd": 25,
       "reviewReasons": [
+        "known-confusable-corrected",
         "verify-formula"
       ],
       "needsReview": true
@@ -238,15 +239,17 @@
       "kind": "text",
       "section": null,
       "caption": null,
-      "body": "**উদাহরণ ২৬.** নিচের কোন অস্বয়টি (relation) ফাংশন নয়? যুক্তি দাও।",
+      "body": "**উদাহরণ ২৬.** নিচের কোন অন্বয়টি (relation) ফাংশন নয়? যুক্তি দাও।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 30,
       "pdfPageEnd": 30,
       "printedPageStart": 25,
       "printedPageEnd": 25,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "higher-math-9-10-bn-c01-t1.29-p013",
@@ -551,7 +554,7 @@
       "kind": "text",
       "section": null,
       "caption": null,
-      "body": "> **কাজ:** $F = \\{(-2, 4), (-1, 1), (0, 0), (1, 1), (2, 4)\\}$ অস্বয়টি কী ফাংশন? এর ডোমেন ও রেঞ্জ নির্ণয় কর। সম্ভব হলে $F$ এর জন্য একটি সূত্র নির্ণয় করো।",
+      "body": "> **কাজ:** $F = \\{(-2, 4), (-1, 1), (0, 0), (1, 1), (2, 4)\\}$ অন্বয়টি কী ফাংশন? এর ডোমেন ও রেঞ্জ নির্ণয় কর। সম্ভব হলে $F$ এর জন্য একটি সূত্র নির্ণয় করো।",
       "image": null,
       "formulas": [
         "F = \\{(-2, 4), (-1, 1), (0, 0), (1, 1), (2, 4)\\}",
@@ -562,6 +565,7 @@
       "printedPageStart": 26,
       "printedPageEnd": 26,
       "reviewReasons": [
+        "known-confusable-corrected",
         "verify-formula"
       ],
       "needsReview": true
@@ -571,7 +575,7 @@
       "kind": "text",
       "section": null,
       "caption": null,
-      "body": "**মনতব্য:** কোনো ফাংশন $F$ এর ডোমেন এবং ডোমেনের প্রত্যেক সদস্য $x$ এর অনন্য প্রতিবিম্ব $F(x)$ নির্দিষ্ট করা হলেই ফাংশনটি নির্ধারিত হয়। অনেক সময় ডোমেন উহু রাখা হয়। এরূপ ক্ষেত্রে ডোমেন হিসেবে ঐ সেটকে গ্রহণ করা হয়, যার প্রত্যেক উপাদানের জন্য $F(x)$ নির্ধারিত থাকে।",
+      "body": "**মন্তব্য:** কোনো ফাংশন $F$ এর ডোমেন এবং ডোমেনের প্রত্যেক সদস্য $x$ এর অনন্য প্রতিবিম্ব $F(x)$ নির্দিষ্ট করা হলেই ফাংশনটি নির্ধারিত হয়। অনেক সময় ডোমেন উহু রাখা হয়। এরূপ ক্ষেত্রে ডোমেন হিসেবে ঐ সেটকে গ্রহণ করা হয়, যার প্রত্যেক উপাদানের জন্য $F(x)$ নির্ধারিত থাকে।",
       "image": null,
       "formulas": [
         "F",
@@ -584,6 +588,7 @@
       "printedPageStart": 26,
       "printedPageEnd": 26,
       "reviewReasons": [
+        "known-confusable-corrected",
         "verify-formula"
       ],
       "needsReview": true
@@ -733,15 +738,17 @@
       "kind": "text",
       "section": "কাজ:",
       "caption": null,
-      "body": "ক) নিচের কোন অস্বয়টি ফাংশন নয়? যুক্তি দাও।",
+      "body": "ক) নিচের কোন অন্বয়টি ফাংশন নয়? যুক্তি দাও।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 32,
       "pdfPageEnd": 32,
       "printedPageStart": 27,
       "printedPageEnd": 27,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "higher-math-9-10-bn-c01-t1.29-p038",
@@ -828,7 +835,7 @@
       "kind": "text",
       "section": "কাজ:",
       "caption": null,
-      "body": "গ) প্রদত্ত $S$ অস্বয়টিকে তালিকা পদ্ধতিতে বর্ণনা কর এবং কোনগুলো ফাংশন তা নির্ধারণ করো। ডোমেন $S$ ও রেঞ্জ $S$ নির্ণয় করো, যেখানে $A = \\{-2, -1, 0, 1, 2\\}$।",
+      "body": "গ) প্রদত্ত $S$ অন্বয়টিকে তালিকা পদ্ধতিতে বর্ণনা কর এবং কোনগুলো ফাংশন তা নির্ধারণ করো। ডোমেন $S$ ও রেঞ্জ $S$ নির্ণয় করো, যেখানে $A = \\{-2, -1, 0, 1, 2\\}$।",
       "image": null,
       "formulas": [
         "S",
@@ -841,6 +848,7 @@
       "printedPageStart": 27,
       "printedPageEnd": 27,
       "reviewReasons": [
+        "known-confusable-corrected",
         "verify-formula"
       ],
       "needsReview": true

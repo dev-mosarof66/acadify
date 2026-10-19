@@ -10,15 +10,17 @@
       "kind": "text",
       "section": "(Inert Gases and their Stability)",
       "caption": null,
-      "body": "পর্যায় সারণি অধ্যায়ে তোমরা নিষ্ক্রিয় গ্যাস তথা 18 নং গ্রুপের মৌল সম্বর্কে বিস্তারিত জেনেছ। এদের ইলেকট্রন বিন্যাস সম্বর্কেও জ্ঞান লাভ করেছো। তারপরও এখানে এদের ইলেকট্রন বিন্যাস দেখানো হলো:",
+      "body": "পর্যায় সারণি অধ্যায়ে তোমরা নিষ্ক্রিয় গ্যাস তথা 18 নং গ্রুপের মৌল সম্পর্কে বিস্তারিত জেনেছ। এদের ইলেকট্রন বিন্যাস সম্পর্কেও জ্ঞান লাভ করেছো। তারপরও এখানে এদের ইলেকট্রন বিন্যাস দেখানো হলো:",
       "image": null,
       "formulas": [],
       "pdfPageStart": 96,
       "pdfPageEnd": 96,
       "printedPageStart": 91,
       "printedPageEnd": 91,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "chemistry-9-10-bn-c05-t5.7-p002",

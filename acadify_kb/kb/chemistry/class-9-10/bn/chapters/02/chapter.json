@@ -57,7 +57,7 @@
     },
     {
       "key": "2.7",
-      "title": "পাতন এবং উধর্বপাতন (Distillation and Sublimation)",
+      "title": "পাতন এবং ঊর্ধ্বপাতন (Distillation and Sublimation)",
       "file": "topics/2.7.json",
       "passages": 26
     },
@@ -79,9 +79,10 @@
       "exercise": 13
     },
     "byReason": {
+      "known-confusable-corrected": 22,
       "latin-junk": 6,
       "verify-table": 3
     },
-    "needsReview": 9
+    "needsReview": 29
   }
 }

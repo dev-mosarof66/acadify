@@ -95,10 +95,10 @@
     },
     "byReason": {
       "latin-junk": 5,
-      "known-confusable-corrected": 36,
+      "known-confusable-corrected": 43,
       "verify-table": 11,
       "verify-formula": 13
     },
-    "needsReview": 59
+    "needsReview": 66
   }
 }

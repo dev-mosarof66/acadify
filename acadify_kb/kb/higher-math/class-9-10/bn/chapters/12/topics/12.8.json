@@ -1,0 +1,435 @@
+{
+  "id": "higher-math-9-10-bn-c12-t12.8",
+  "key": "12.8",
+  "title": "সূত্র ২. $m(<u>u</u> + <u>v</u>) = m<u>u</u> + m<u>v</u>$",
+  "chapter": 12,
+  "ordinal": 8,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c12-t12.8-p001",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: geometric diagrams showing vector addition and scalar multiplication",
+      "image": "p284-page_9_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 284,
+      "pdfPageEnd": 284,
+      "printedPageStart": 279,
+      "printedPageEnd": 279,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.8-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:** মনে করি, $\\overrightarrow{OA} = <u>u</u>, \\overrightarrow{AB} = <u>v</u>$। তাহলে $\\overrightarrow{OB} = \\overrightarrow{OA} + \\overrightarrow{AB} = <u>u</u> + <u>v</u>$",
+      "image": null,
+      "formulas": [
+        "\\overrightarrow{OA} = <u>u</u>, \\overrightarrow{AB} = <u>v</u>",
+        "\\overrightarrow{OB} = \\overrightarrow{OA} + \\overrightarrow{AB} = <u>u</u> + <u>v</u>"
+      ],
+      "pdfPageStart": 284,
+      "pdfPageEnd": 284,
+      "printedPageStart": 279,
+      "printedPageEnd": 279,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.8-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$OA$ কে $C$ পর্যন্ত বর্ধিত করি যেন $OC = m \\cdot OA$ হয়। উপরের বামের চিত্রে $m$ ধনাত্মক ও ডানের চিত্রে $m$ ঋণাত্মক। $C$ বিন্দু দিয়ে অঙ্কিত $AB$ এর সমান্তরাল $CD$ রেখা $OB$ এর বর্ধিতাংশকে $D$ বিন্দুতে ছেদ করে। যেহেতু $OAB$ এবং $OCD$ ত্রিভুজদ্বয় সদৃশ,",
+      "image": null,
+      "formulas": [
+        "OA",
+        "C",
+        "OC = m \\cdot OA",
+        "m",
+        "m",
+        "C",
+        "AB",
+        "CD",
+        "OB",
+        "D",
+        "OAB",
+        "OCD"
+      ],
+      "pdfPageStart": 284,
+      "pdfPageEnd": 284,
+      "printedPageStart": 279,
+      "printedPageEnd": 279,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.8-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সেহেতু $\\frac{|\\overrightarrow{OC}|}{|\\overrightarrow{OA}|} = \\frac{|\\overrightarrow{CD}|}{|\\overrightarrow{AB}|} = \\frac{|\\overrightarrow{OD}|}{|\\overrightarrow{OB}|} = m$",
+      "image": null,
+      "formulas": [
+        "\\frac{|\\overrightarrow{OC}|}{|\\overrightarrow{OA}|} = \\frac{|\\overrightarrow{CD}|}{|\\overrightarrow{AB}|} = \\frac{|\\overrightarrow{OD}|}{|\\overrightarrow{OB}|} = m"
+      ],
+      "pdfPageStart": 284,
+      "pdfPageEnd": 284,
+      "printedPageStart": 279,
+      "printedPageEnd": 279,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.8-p005",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore OC = m \\cdot OA, CD = m \\cdot AB, OD = m \\cdot OB$",
+      "image": null,
+      "formulas": [
+        "\\therefore OC = m \\cdot OA, CD = m \\cdot AB, OD = m \\cdot OB"
+      ],
+      "pdfPageStart": 284,
+      "pdfPageEnd": 284,
+      "printedPageStart": 279,
+      "printedPageEnd": 279,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.8-p006",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\overrightarrow{CD} = m\\overrightarrow{AB} = m<u>v</u>$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\overrightarrow{CD} = m\\overrightarrow{AB} = m<u>v</u>"
+      ],
+      "pdfPageStart": 284,
+      "pdfPageEnd": 284,
+      "printedPageStart": 279,
+      "printedPageEnd": 279,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.8-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে, $\\overrightarrow{OC} + \\overrightarrow{CD} = \\overrightarrow{OD}$",
+      "image": null,
+      "formulas": [
+        "\\overrightarrow{OC} + \\overrightarrow{CD} = \\overrightarrow{OD}"
+      ],
+      "pdfPageStart": 284,
+      "pdfPageEnd": 284,
+      "printedPageStart": 279,
+      "printedPageEnd": 279,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.8-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $m(\\overrightarrow{OA}) + m(\\overrightarrow{AB}) = m(\\overrightarrow{OB})$",
+      "image": null,
+      "formulas": [
+        "m(\\overrightarrow{OA}) + m(\\overrightarrow{AB}) = m(\\overrightarrow{OB})"
+      ],
+      "pdfPageStart": 284,
+      "pdfPageEnd": 284,
+      "printedPageStart": 279,
+      "printedPageEnd": 279,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.8-p009",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore m<u>u</u> + m<u>v</u> = m(<u>u</u> + <u>v</u>)$",
+      "image": null,
+      "formulas": [
+        "\\therefore m<u>u</u> + m<u>v</u> = m(<u>u</u> + <u>v</u>)"
+      ],
+      "pdfPageStart": 284,
+      "pdfPageEnd": 284,
+      "printedPageStart": 279,
+      "printedPageEnd": 279,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.8-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**দ্রষ্টব্য:** $m$ এর সকল মানের জন্য উপরোক্ত সূত্র সত্য।",
+      "image": null,
+      "formulas": [
+        "m"
+      ],
+      "pdfPageStart": 284,
+      "pdfPageEnd": 284,
+      "printedPageStart": 279,
+      "printedPageEnd": 279,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.8-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ব্যবহারের সুবিধার্থে ভেক্টর সম্পর্কিত নিয়মগুলো নিচে একত্রে লেখা হলো:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 284,
+      "pdfPageEnd": 284,
+      "printedPageStart": 279,
+      "printedPageEnd": 279,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.8-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "১. $<u>u</u> + <u>v</u> = <u>v</u> + <u>u</u>$",
+      "image": null,
+      "formulas": [
+        "<u>u</u> + <u>v</u> = <u>v</u> + <u>u</u>"
+      ],
+      "pdfPageStart": 284,
+      "pdfPageEnd": 284,
+      "printedPageStart": 279,
+      "printedPageEnd": 279,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.8-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "২. $(<u>u</u> + <u>v</u>) + <u>w</u> = <u>u</u> + (<u>v</u> + <u>w</u>)$",
+      "image": null,
+      "formulas": [
+        "(<u>u</u> + <u>v</u>) + <u>w</u> = <u>u</u> + (<u>v</u> + <u>w</u>)"
+      ],
+      "pdfPageStart": 284,
+      "pdfPageEnd": 284,
+      "printedPageStart": 279,
+      "printedPageEnd": 279,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.8-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "৩. $<u>u</u> + <u>0</u> = <u>0</u> + <u>u</u> = <u>u</u>$",
+      "image": null,
+      "formulas": [
+        "<u>u</u> + <u>0</u> = <u>0</u> + <u>u</u> = <u>u</u>"
+      ],
+      "pdfPageStart": 284,
+      "pdfPageEnd": 284,
+      "printedPageStart": 279,
+      "printedPageEnd": 279,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.8-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "৪. $<u>u</u> + (-<u>u</u>) = (-<u>u</u>) + <u>u</u> = <u>0</u>$",
+      "image": null,
+      "formulas": [
+        "<u>u</u> + (-<u>u</u>) = (-<u>u</u>) + <u>u</u> = <u>0</u>"
+      ],
+      "pdfPageStart": 284,
+      "pdfPageEnd": 284,
+      "printedPageStart": 279,
+      "printedPageEnd": 279,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.8-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "৫. $<u>u</u> + <u>v</u> = <u>u</u> + <u>w</u>$ হলে $<u>v</u> = <u>w</u>$",
+      "image": null,
+      "formulas": [
+        "<u>u</u> + <u>v</u> = <u>u</u> + <u>w</u>",
+        "<u>v</u> = <u>w</u>"
+      ],
+      "pdfPageStart": 284,
+      "pdfPageEnd": 284,
+      "printedPageStart": 279,
+      "printedPageEnd": 279,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.8-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "৬. $m(<u>nu</u>) = n(<u>mu</u>) = (<u>mn</u>)(<u>u</u>)$",
+      "image": null,
+      "formulas": [
+        "m(<u>nu</u>) = n(<u>mu</u>) = (<u>mn</u>)(<u>u</u>)"
+      ],
+      "pdfPageStart": 285,
+      "pdfPageEnd": 285,
+      "printedPageStart": 280,
+      "printedPageEnd": 280,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.8-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "৭. $0<u>u</u> = <u>0</u>$",
+      "image": null,
+      "formulas": [
+        "0<u>u</u> = <u>0</u>"
+      ],
+      "pdfPageStart": 285,
+      "pdfPageEnd": 285,
+      "printedPageStart": 280,
+      "printedPageEnd": 280,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.8-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "৮. $1<u>u</u> = <u>u</u>$",
+      "image": null,
+      "formulas": [
+        "1<u>u</u> = <u>u</u>"
+      ],
+      "pdfPageStart": 285,
+      "pdfPageEnd": 285,
+      "printedPageStart": 280,
+      "printedPageEnd": 280,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.8-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "৯. $(-1)<u>u</u> = -<u>u</u>$",
+      "image": null,
+      "formulas": [
+        "(-1)<u>u</u> = -<u>u</u>"
+      ],
+      "pdfPageStart": 285,
+      "pdfPageEnd": 285,
+      "printedPageStart": 280,
+      "printedPageEnd": 280,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.8-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "১০. $(m + n)<u>u</u> = <u>mu</u> + <u>nu</u>$",
+      "image": null,
+      "formulas": [
+        "(m + n)<u>u</u> = <u>mu</u> + <u>nu</u>"
+      ],
+      "pdfPageStart": 285,
+      "pdfPageEnd": 285,
+      "printedPageStart": 280,
+      "printedPageEnd": 280,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.8-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:** $m$ ও $n$ এর বিভিন্ন প্রকার সাংখ্যিক মান নিয়ে $<u>u</u>$ ভেক্টরের জন্য $(m + n)<u>u</u> = <u>mu</u> + <u>nu</u>$ সূত্রটি যাচাই করো।",
+      "image": null,
+      "formulas": [
+        "m",
+        "n",
+        "<u>u</u>",
+        "(m + n)<u>u</u> = <u>mu</u> + <u>nu</u>"
+      ],
+      "pdfPageStart": 285,
+      "pdfPageEnd": 285,
+      "printedPageStart": 280,
+      "printedPageEnd": 280,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

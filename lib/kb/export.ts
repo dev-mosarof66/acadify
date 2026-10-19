@@ -3,11 +3,12 @@ import "server-only";
 import { access, mkdir, readFile, readdir, rm, writeFile } from "node:fs/promises";
 import path from "node:path";
 
-import { buildAiReady, classify, type AiDecision, type AiPassage, type AiReport, type Curation } from "./aiready";
+import { buildAiReady, classify, type AiDecision, type AiPassage, type AiReport, type BookTrust, type Curation } from "./aiready";
 import type { PlacedImage } from "./images";
 import type { KbJob } from "./jobs";
 import type { ChapterDraft } from "./mdtree";
 import { bookOutDir, KB_OUT_DIR } from "./paths";
+import { buildChunks, buildExerciseItems, figuresWithPictures, type ChunkBook } from "./chunks";
 import { applyCorrections, CORRECTIONS, reviewReasons } from "./review";
 
 const pad = (n: number) => String(n).padStart(2, "0");
@@ -240,6 +241,19 @@ interface LoadedChapter {
   title: string;
   topics: { key: string; title: string; passages: RawPassage[] }[];
   curation: Record<string, Curation>;
+  trust: BookTrust;
+  book: ChunkBook;
+}
+
+/** What the book says about itself (textbook.json) and how far it has been checked (verification.json). */
+async function readBookInfo(bookDir: string): Promise<{ trust: BookTrust; book: ChunkBook }> {
+  const meta = await readFile(path.join(bookDir, "textbook.json"), "utf8").then(JSON.parse).catch(() => ({}));
+  const ver = await readFile(path.join(bookDir, "verification.json"), "utf8").then(JSON.parse).catch(() => null);
+  const status: string = ver?.status ?? "unchecked";
+  return {
+    trust: { pageChecked: status === "page-checked" },
+    book: { id: meta.id ?? path.basename(bookDir), subject: meta.subject ?? "", classLevel: meta.classLevel ?? "", language: meta.language ?? "", trust: status },
+  };
 }
 
 const curationFile = (chDir: string) => path.join(chDir, "curation.json");
@@ -270,10 +284,10 @@ async function loadChapter(dir: string, number: number): Promise<LoadedChapter |
       passages: topic.passages.map((p: RawPassage & { reviewReasons?: string[] }) => ({ ...p, reviewReasons: p.reviewReasons ?? [], section: p.section ?? null, caption: p.caption ?? null, image: p.image ?? null })),
     });
   }
-  return { chDir, number: chapter.number, title: chapter.title, topics, curation: await readCuration(chDir) };
+  return { chDir, number: chapter.number, title: chapter.title, topics, curation: await readCuration(chDir), ...(await readBookInfo(bookDir)) };
 }
 
-function viewOf(p: RawPassage, curation: Record<string, Curation>): ChapterViewPassage {
+function viewOf(p: RawPassage, curation: Record<string, Curation>, trust: BookTrust): ChapterViewPassage {
   const cur = currentCuration(curation, p);
   return {
     id: p.id,
@@ -284,7 +298,7 @@ function viewOf(p: RawPassage, curation: Record<string, Curation>): ChapterViewP
     image: p.image ?? null,
     printedPageStart: p.printedPageStart,
     reviewReasons: p.reviewReasons,
-    ai: classify(p, cur),
+    ai: classify(p, cur, trust),
     edited: cur?.body !== undefined,
     reviewed: cur?.status ?? null,
   };
@@ -303,8 +317,8 @@ export async function readKbChapter(dir: string, number: number): Promise<Chapte
   return {
     number: c.number,
     title: c.title,
-    topics: c.topics.map((t) => ({ key: t.key, title: t.title, passages: t.passages.map((p) => viewOf(p, c.curation)) })),
-    ai: buildAiReady(aiInput(c)).report,
+    topics: c.topics.map((t) => ({ key: t.key, title: t.title, passages: t.passages.map((p) => viewOf(p, c.curation, c.trust)) })),
+    ai: buildAiReady(aiInput(c), c.trust).report,
   };
 }
 
@@ -315,12 +329,15 @@ export async function readKbChapter(dir: string, number: number): Promise<Chapte
 export async function writeAiReady(dir: string, number: number): Promise<AiReport | null> {
   const c = await loadChapter(dir, number);
   if (!c) return null;
-  const { records, exercises, report } = buildAiReady(aiInput(c));
+  const { records, exercises, report } = buildAiReady(aiInput(c), c.trust);
   const out = path.join(c.chDir, "ai");
   await mkdir(out, { recursive: true });
   const lines = (rows: unknown[]) => rows.map((r) => JSON.stringify(r)).join("\n") + (rows.length ? "\n" : "");
   await writeFile(path.join(out, "passages.jsonl"), lines(records), "utf8");
   await writeFile(path.join(out, "exercises.jsonl"), lines(exercises), "utf8");
+  // whole explanations and whole questions, regrouped from the fragments above
+  await writeFile(path.join(out, "chunks.jsonl"), lines(buildChunks(records, c.book, figuresWithPictures(c.topics.flatMap((t) => t.passages)))), "utf8");
+  await writeFile(path.join(out, "exercise-items.jsonl"), lines(buildExerciseItems(exercises, c.book)), "utf8");
   await writeJson(path.join(out, "report.json"), report);
   return report;
 }
@@ -344,8 +361,8 @@ export async function curatePassage(dir: string, number: number, passageId: stri
     c.curation[raw.id] = body === raw.body ? { status: "kept", original: raw.body } : { status: "kept", body, original: raw.body };
   }
   await writeJson(curationFile(c.chDir), c.curation);
-  const ai = (await writeAiReady(dir, number)) ?? buildAiReady(aiInput(c)).report;
-  return { passage: viewOf(raw, c.curation), ai };
+  const ai = (await writeAiReady(dir, number)) ?? buildAiReady(aiInput(c), c.trust).report;
+  return { passage: viewOf(raw, c.curation, c.trust), ai };
 }
 
 const IMAGE_TYPES: Record<string, string> = { ".jpg": "image/jpeg", ".jpeg": "image/jpeg", ".png": "image/png", ".webp": "image/webp", ".gif": "image/gif" };

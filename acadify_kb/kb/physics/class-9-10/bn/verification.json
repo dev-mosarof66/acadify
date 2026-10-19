@@ -1,0 +1,31 @@
+{
+  "status": "page-checked",
+  "checkedOn": "2026-10-18",
+  "method": "Every page of the extraction was compared with its printed page image by an AI reader; 1,138 corrections were proposed; 1,027 were applied after a second reader (reading 200 dpi page halves) confirmed them or they were plainly non-words. This is a machine reading, not human review.",
+  "scope": {
+    "pdfPages": 361,
+    "passages": 2911,
+    "chapters": 13
+  },
+  "residualCheck": {
+    "note": "A fresh, unprompted check of a random sample after the corrections were applied.",
+    "pages": 37,
+    "passages": 338,
+    "discrepanciesReported": 15,
+    "genuineContentErrors": 4,
+    "meaningChanging": 1,
+    "cosmeticOnly": 11,
+    "cosmeticMeaning": "the book prints Latin digits where the extraction has Bangla digits, and spelling variants such as তাড়িত/তড়িৎ, তৈরী/তৈরি",
+    "followUp": "The genuine errors found (উল্ট লেন্স, ফ্রেমিং) were fixed everywhere they occur."
+  },
+  "excluded": {
+    "inventedTables": ["t2.8-p023", "t3.6-p037", "t6.4-p005", "t6.ex-p010", "t7.2-p050", "t11.2-p003"],
+    "why": "The parser turned graphs into tables of values that are not in the book."
+  },
+  "knownGaps": [
+    "About 49 section headings are missing from the passages; section labels on passages are unreliable and are not used for retrieval.",
+    "54 figures have a wrong, cropped or missing picture file; text that points to a figure whose picture is missing is flagged (missingFigures).",
+    "An estimated 1% of passages still carry a spelling error, and rarely a wrong word; no human has read the book.",
+    "Digits are normalised to Bangla in prose; the printed book often uses Latin digits."
+  ]
+}

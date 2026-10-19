@@ -81,11 +81,11 @@
       "exercise": 17
     },
     "byReason": {
-      "known-confusable-corrected": 58,
+      "known-confusable-corrected": 62,
       "verify-formula": 50,
       "latin-junk": 16,
       "verify-table": 2
     },
-    "needsReview": 110
+    "needsReview": 114
   }
 }

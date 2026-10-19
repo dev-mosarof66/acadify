@@ -1,0 +1,197 @@
+{
+  "id": "higher-math-9-10-bn-c11-t11.1",
+  "key": "11.1",
+  "title": "আয়তাকার কার্তেসীয় স্থানাঙ্ক (Rectangular Cartesian Coordinates)",
+  "chapter": 11,
+  "ordinal": 1,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c11-t11.1-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সমতলের ধারণা পূর্ববর্তী শ্রেণিতে দেওয়া হয়েছে। একটি টেবিলের উপরিভাগ, ঘরের মেঝে, বই-এর উপরিভাগ এমন কি যে কাগজের উপর লেখা হয় এদের প্রত্যেকই সমতল। একটি ফুটবলের উপরিভাগ বা একটি বোতলের উপরিভাগ হলো বক্রতল। এই অংশে সমতলে অবস্থিত কোনো বিন্দুর সঠিক অবস্থান নির্ণয়ের কৌশল আলোচনা করা হবে। সমতলে অবস্থিত কোনো নির্দিষ্ট বিন্দুর সঠিক অবস্থান নির্ণয়ের জন্য ঐ সমতলে অঙ্কিত দুইটি পরস্পরচ্ছেদী সরলরেখা হতে নির্দিষ্ট বিন্দুর দূরত্ব জানা প্রয়োজন। এর কারণ হিসেবে বলা যায় পরস্পরচ্ছেদী দুইটি সরলরখা হতে কোনো নির্দিষ্ট দূরত্বে কেবলমাত্র একটি বিন্দুই থাকতে পারে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 245,
+      "pdfPageEnd": 245,
+      "printedPageStart": 240,
+      "printedPageEnd": 240,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.1-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কোনো সমতলে পরস্পর সমকোণে ছেদ করে এরূপ দুইটি সরলরেখা $XOX'$ এবং $YOY'$ আকলে $XOX'$ কে $x$ অক্ষ ($x$-axis), $YOY'$ কে $y$ অক্ষ ($y$-axis) এবং ছেদ বিন্দু '$O$' কে মূলবিন্দু (origin) বলা হয়।",
+      "image": null,
+      "formulas": [
+        "XOX'",
+        "YOY'",
+        "XOX'",
+        "x",
+        "x",
+        "YOY'",
+        "y",
+        "y",
+        "O"
+      ],
+      "pdfPageStart": 245,
+      "pdfPageEnd": 245,
+      "printedPageStart": 240,
+      "printedPageEnd": 240,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.1-p003",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: Cartesian coordinate system diagram showing axes X, X', Y, Y', origin O, and point P(x, y) with projections M and N",
+      "image": "p245-page_2_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 245,
+      "pdfPageEnd": 245,
+      "printedPageStart": 240,
+      "printedPageEnd": 240,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.1-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন ধরে নিই অক্ষদ্বয়ের সমতলে যেকোনো বিন্দু $P$। উক্ত $P$ বিন্দু থেকে $XOX'$ অর্থাৎ, $x$ অক্ষ এবং $YOY'$ অর্থাৎ $y$ অক্ষের উপর লম্ব যথাক্রমে $PM$ এবং $PN$। তাহলে $y$ অক্ষ হতে $P$ বিন্দুর দূরত্ব $= NP = OM = x$ কে $P$ বিন্দুর ভুজ (abscissa) বা $x$ স্থানাঙ্ক ($x$-coordinate) বলে। আবার $x$ অক্ষ হতে $P$ বিন্দুর দূরত্ব $= MP = ON = y$ কে $P$ বিন্দুর কোটি (ordinate) বা $y$ স্থানাঙ্ক ($y$-coordinate) বলা হয়। ভুজ ও কোটিকে এক সাথে স্থানাঙ্ক বলা হয়। সুতরাং চিত্রে $P$ বিন্দুর স্থানাঙ্ক বলতে $y$ অক্ষ ও $x$ অক্ষ হতে $P$ বিন্দুর লম্ব দূরত্ব বোঝায় এবং তাদের $x$ ও $y$ দ্বারা নির্দেশ করে $P$ বিন্দুর স্থানাঙ্ক $P(x, y)$ প্রতীক দ্বারা প্রকাশ করা হয়।",
+      "image": null,
+      "formulas": [
+        "P",
+        "P",
+        "XOX'",
+        "x",
+        "YOY'",
+        "y",
+        "PM",
+        "PN",
+        "y",
+        "P",
+        "= NP = OM = x",
+        "P",
+        "x",
+        "x",
+        "x",
+        "P",
+        "= MP = ON = y",
+        "P",
+        "y",
+        "y",
+        "P",
+        "y",
+        "x",
+        "P",
+        "x",
+        "y",
+        "P",
+        "P(x, y)"
+      ],
+      "pdfPageStart": 245,
+      "pdfPageEnd": 245,
+      "printedPageStart": 240,
+      "printedPageEnd": 240,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.1-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বিন্দুর স্থানাঙ্ক সূচক $(x, y)$ একটি ক্রমজোড় বুঝায় যার প্রথমটি ভুজ ও দ্বিতীয়টি কোটি নির্দেশ করে। তাই $x \\neq y$ হলে $(x, y)$ ও $(y, x)$ দ্বারা দুটি ভিন্ন বিন্দু বুঝায়। সুতরাং পরস্পর সমকোণে ছেদ করে এরূপ একজোড়া অক্ষের সাপেক্ষে কোনো বিন্দুর স্থানাঙ্ককে আয়তাকার কার্তেসীয় স্থানাঙ্ক বলা হয়। বিন্দুটি $y$ অক্ষের ডানে থাকলে ভুজ ধনাত্মক ও বামে থাকলে ভুজ ঋণাত্মক হবে। আবার বিন্দুটি $x$ অক্ষের উপরে থাকলে কোটি ধনাত্মক এবং নিচে থাকলে কোটি ঋণাত্মক হবে। $x$ অক্ষের উপর কোটি শূন্য এবং $y$ অক্ষের উপর ভুজ শূন্য হবে।",
+      "image": null,
+      "formulas": [
+        "(x, y)",
+        "x \\neq y",
+        "(x, y)",
+        "(y, x)",
+        "y",
+        "x",
+        "x",
+        "y"
+      ],
+      "pdfPageStart": 245,
+      "pdfPageEnd": 246,
+      "printedPageStart": 240,
+      "printedPageEnd": 241,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.1-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং কোনো বিন্দুর ধনাঙ্ক ভুজ ও কোটি যথাক্রমে $OX$ ও $OY$ বরাবর বা তাদের সমান্তরাল দিকে থাকবে। একইভাবে ঋণাত্মক ভুজ ও কোটি $OX'$ ও $OY'$ বরাবর বা তাদের সমান্তরাল দিকে থাকবে।",
+      "image": null,
+      "formulas": [
+        "OX",
+        "OY",
+        "OX'",
+        "OY'"
+      ],
+      "pdfPageStart": 246,
+      "pdfPageEnd": 246,
+      "printedPageStart": 241,
+      "printedPageEnd": 241,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.1-p007",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane with four quadrants labeled ১ম চতুর্ভাগ (+, +), ২য় চতুর্ভাগ (-, +), ৩য় চতুর্ভাগ (-, -), and ৪র্থ চতুর্ভাগ (+, -)",
+      "image": "p246-page_3_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 246,
+      "pdfPageEnd": 246,
+      "printedPageStart": 241,
+      "printedPageEnd": 241,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.1-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কার্তেসীয় স্থানাঙ্কের অক্ষদ্বয় দ্বারা সমতল $XOY, YOX', X'OY', Y'OX$ এই চারটি ভাগে বিভক্ত হয়। এদের প্রত্যেকটিকে চতুর্ভাগ (quadrant) বলা হয়। $XOY$ চতুর্ভাগকে প্রথম ধরা হয় এবং ঘড়ির কাঁটার আবর্তনের বিপরীত দিকে পর্যায়ক্রমে দ্বিতীয়, তৃতীয় ও চতুর্থ চতুর্ভাগ ধরা হয়। কোনো বিন্দুর স্থানাঙ্কের চিহ্ন অনুসারে বিন্দুর অবস্থান বিভিন্ন চতুর্ভাগে থাকে।",
+      "image": null,
+      "formulas": [
+        "XOY, YOX', X'OY', Y'OX",
+        "XOY"
+      ],
+      "pdfPageStart": 246,
+      "pdfPageEnd": 246,
+      "printedPageStart": 241,
+      "printedPageEnd": 241,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

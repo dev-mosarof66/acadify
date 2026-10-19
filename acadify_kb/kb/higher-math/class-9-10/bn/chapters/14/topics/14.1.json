@@ -1,0 +1,162 @@
+{
+  "id": "higher-math-9-10-bn-c14-t14.1",
+  "key": "14.1",
+  "title": "যুক্তিভিত্তিক সম্ভাবনা নির্ণয়",
+  "chapter": 14,
+  "ordinal": 1,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c14-t14.1-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১.** মনে করি একটা নিরপেক্ষ ছক্কা নিক্ষেপ করা হলো। ৫ আসার সম্ভাবনা কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 312,
+      "pdfPageEnd": 312,
+      "printedPageStart": 307,
+      "printedPageEnd": 307,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.1-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** একটা ছক্কা নিক্ষেপ করলে সম্ভাব্য ফলাফলগুলো হচ্ছে: 1, 2, 3, 4, 5, 6। ছক্কাটি নিরপেক্ষ হলে ফলাফলগুলো সমসম্ভাব্য হবে। অর্থাৎ যেকোনো ফলাফল আসার সম্ভাবনা সমান। অতএব যেকোনো একটা ফলাফল আসার সম্ভাবনা হয়ভাগের একভাগ। সুতরাং ৫ আসার সম্ভাবনা $\\frac{1}{6}$। আমরা এটাকে $P(5) = \\frac{1}{6}$ এভাবে লিখি।",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{6}",
+        "P(5) = \\frac{1}{6}"
+      ],
+      "pdfPageStart": 312,
+      "pdfPageEnd": 312,
+      "printedPageStart": 307,
+      "printedPageEnd": 307,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.1-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২.** একটা নিরপেক্ষ ছক্কা নিক্ষেপে জোড় সংখ্যা আসার সম্ভাবনা কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 312,
+      "pdfPageEnd": 312,
+      "printedPageStart": 307,
+      "printedPageEnd": 307,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.1-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** ছক্কা নিক্ষেপে সম্ভাব্য ফলাফলগুলো হচ্ছে 1, 2, 3, 4, 5, 6। এদের মধ্যে 2, 4, 6 এই ৩টি জোড় সংখ্যা। এই তিনটির যেকোনো একটা আসলে জোড় সংখ্যা হবে অর্থাৎ জোড় সংখ্যার অনুকূল ফলাফল ৩ টি। যেহেতু ফলাফলগুলো সমসম্ভাব্য, তাই জোড় সংখ্যা আসার সম্ভাবনা হবে $\\frac{3}{6}$।",
+      "image": null,
+      "formulas": [
+        "\\frac{3}{6}"
+      ],
+      "pdfPageStart": 312,
+      "pdfPageEnd": 312,
+      "printedPageStart": 307,
+      "printedPageEnd": 307,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.1-p005",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\therefore P(জোড়সংখ্যা) = \\frac{3}{6}$$",
+      "image": null,
+      "formulas": [
+        "\\therefore P(জোড়সংখ্যা) = \\frac{3}{6}"
+      ],
+      "pdfPageStart": 312,
+      "pdfPageEnd": 312,
+      "printedPageStart": 307,
+      "printedPageEnd": 307,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.1-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাহলে সম্ভাবনাকে এভাবে সংজ্ঞায়িত করা যায়:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 313,
+      "pdfPageEnd": 313,
+      "printedPageStart": 308,
+      "printedPageEnd": 308,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.1-p007",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$কোনো ঘটনা ঘটার সম্ভাবনা = \\frac{উক্ত ঘটনার অনুকূল ফলাফল}{সমগ্র সম্ভাব্য ফলাফল}$$",
+      "image": null,
+      "formulas": [
+        "কোনো ঘটনা ঘটার সন্ন্যাবনা = \\frac{উক্ত ঘটনার অনুকূল ফলাফল}{সমগ্র সন্ন্যাব্য ফলাফল}"
+      ],
+      "pdfPageStart": 313,
+      "pdfPageEnd": 313,
+      "printedPageStart": 308,
+      "printedPageEnd": 308,
+      "reviewReasons": [
+        "latin-junk",
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.1-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কোনো পরীক্ষণে কোনো ঘটনা ঘটার অনুকূল ফলাফল সর্বনিম্ন শূন্য এবং সর্বোচ্চ $n$ (সমগ্র সম্ভাব্য ঘটনাবলি) হতে পারে। যখন কোনো ঘটনার অনুকূল ফলাফলের মান শূন্য হয় তখন সম্ভাবনার মান শূন্য হয়। আর যখন অনুকূল ফলাফলের মান $n$ হয়, তখন সম্ভাবনার মান ১ হয়। এ কারণে সম্ভাবনার মান ০ হতে ১ এর মধ্যে থাকে।",
+      "image": null,
+      "formulas": [
+        "n",
+        "n"
+      ],
+      "pdfPageStart": 313,
+      "pdfPageEnd": 313,
+      "printedPageStart": 308,
+      "printedPageEnd": 308,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

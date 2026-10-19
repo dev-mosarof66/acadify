@@ -1,0 +1,2132 @@
+{
+  "id": "higher-math-9-10-bn-c09-t9.4",
+  "key": "9.4",
+  "title": "মূলদ ভগ্নাংশ সূচক",
+  "chapter": 9,
+  "ordinal": 4,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p001",
+      "kind": "definition",
+      "section": null,
+      "caption": null,
+      "body": "**সংজ্ঞা ৫:** $a \\in R$ এবং $n \\in N, n > 1$ হলে, $a^{\\frac{1}{n}} = \\sqrt[n]{a}$ যখন $a > 0$ অথবা $a < 0$ এবং $n$ বিজোড়।",
+      "image": null,
+      "formulas": [
+        "a \\in R",
+        "n \\in N, n > 1",
+        "a^{\\frac{1}{n}} = \\sqrt[n]{a}",
+        "a > 0",
+        "a < 0",
+        "n"
+      ],
+      "pdfPageStart": 205,
+      "pdfPageEnd": 205,
+      "printedPageStart": 200,
+      "printedPageEnd": 200,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:** সূচক নিয়ম $(a^m)^n = a^{mn}$ [সূত্র ৬]",
+      "image": null,
+      "formulas": [
+        "(a^m)^n = a^{mn}"
+      ],
+      "pdfPageStart": 205,
+      "pdfPageEnd": 205,
+      "printedPageStart": 200,
+      "printedPageEnd": 200,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যদি সকল ক্ষেত্রে সত্য হতে হয়, তবে $\\left(a^{\\frac{1}{n}}\\right)^n = a^{\\frac{n}{n}} = a^1 = a$ হতে হবে, অর্থাৎ $a^{\\frac{1}{n}}$ এর $n$ তম মূল হতে হবে। এজন্য একাধিক মূলের ক্ষেত্রে দ্বার্তা পরিহারের লক্ষ্যে উপরের সংজ্ঞা বর্ণনা করা হয়েছে।",
+      "image": null,
+      "formulas": [
+        "\\left(a^{\\frac{1}{n}}\\right)^n = a^{\\frac{n}{n}} = a^1 = a",
+        "a^{\\frac{1}{n}}",
+        "n"
+      ],
+      "pdfPageStart": 205,
+      "pdfPageEnd": 205,
+      "printedPageStart": 200,
+      "printedPageEnd": 200,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:** $a < 0$ এবং $n \\in N, n > 1$ বিজোড় হলে সূত্র ৭ থেকে দেখা যায় যে",
+      "image": null,
+      "formulas": [
+        "a < 0",
+        "n \\in N, n > 1"
+      ],
+      "pdfPageStart": 205,
+      "pdfPageEnd": 205,
+      "printedPageStart": 200,
+      "printedPageEnd": 200,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p005",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$a^{\\frac{1}{n}} = \\sqrt[n]{a} = -\\sqrt[n]{|a|} = -|a|^{\\frac{1}{n}}$$",
+      "image": null,
+      "formulas": [
+        "a^{\\frac{1}{n}} = \\sqrt[n]{a} = -\\sqrt[n]{|a|} = -|a|^{\\frac{1}{n}}"
+      ],
+      "pdfPageStart": 205,
+      "pdfPageEnd": 205,
+      "printedPageStart": 200,
+      "printedPageEnd": 200,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এরূপ ক্ষেত্রে এই সূত্রের সাহায্যেই $a^{\\frac{1}{n}}$ এর মান নির্ণয় করা হয়।",
+      "image": null,
+      "formulas": [
+        "a^{\\frac{1}{n}}"
+      ],
+      "pdfPageStart": 205,
+      "pdfPageEnd": 205,
+      "printedPageStart": 200,
+      "printedPageEnd": 200,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:** $a$ মূলদ সংখ্যা হলেও অধিকাংশ ক্ষেত্রে $a^{\\frac{1}{n}}$ অমূলদ সংখ্যা হয়। এরূপ ক্ষেত্রে $a^{\\frac{1}{n}}$ এর আসন্ন মান ব্যবহার করা হয়।",
+      "image": null,
+      "formulas": [
+        "a",
+        "a^{\\frac{1}{n}}",
+        "a^{\\frac{1}{n}}"
+      ],
+      "pdfPageStart": 205,
+      "pdfPageEnd": 205,
+      "printedPageStart": 200,
+      "printedPageEnd": 200,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p008",
+      "kind": "definition",
+      "section": null,
+      "caption": null,
+      "body": "**সংজ্ঞা ৬:** $a > 0, m \\in Z$ এবং $n \\in N, n > 1$ হলে $a^{\\frac{m}{n}} = (a^{\\frac{1}{n}})^m$",
+      "image": null,
+      "formulas": [
+        "a > 0, m \\in Z",
+        "n \\in N, n > 1",
+        "a^{\\frac{m}{n}} = (a^{\\frac{1}{n}})^m"
+      ],
+      "pdfPageStart": 205,
+      "pdfPageEnd": 205,
+      "printedPageStart": 200,
+      "printedPageEnd": 200,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**দ্রষ্টব্য:** সংজ্ঞা ৫ ও ৬ এবং সূত্র ৮ থেকে দেখা যায় যে,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 205,
+      "pdfPageEnd": 205,
+      "printedPageStart": 200,
+      "printedPageEnd": 200,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p010",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$a^{\\frac{m}{n}} = (\\sqrt[n]{a})^m = \\sqrt[n]{a^m}  যেখানে,  a > 0, m \\in Z  এবং,  n \\in N, n > 1$$",
+      "image": null,
+      "formulas": [
+        "a^{\\frac{m}{n}} = (\\sqrt[n]{a})^m = \\sqrt[n]{a^m}  যেখানে,  a > 0, m \\in Z  এবং,  n \\in N, n > 1"
+      ],
+      "pdfPageStart": 205,
+      "pdfPageEnd": 205,
+      "printedPageStart": 200,
+      "printedPageEnd": 200,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং, $p \\in Z$ এবং $q \\in Z, n > 1$ যদি এমন হয় যে, $\\frac{m}{n} = \\frac{p}{q}$ হয়, তবে সূত্র ৯ থেকে দেখা যায় যে, $a^{\\frac{m}{n}} = a^{\\frac{p}{q}}$",
+      "image": null,
+      "formulas": [
+        "p \\in Z",
+        "q \\in Z, n > 1",
+        "\\frac{m}{n} = \\frac{p}{q}",
+        "a^{\\frac{m}{n}} = a^{\\frac{p}{q}}"
+      ],
+      "pdfPageStart": 205,
+      "pdfPageEnd": 205,
+      "printedPageStart": 200,
+      "printedPageEnd": 200,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**দ্রষ্টব্য:** পূর্ণসংখ্যক সূচক ও মূলদ ভগ্নাংশ সূচকের সংজ্ঞা থেকে $a^r$ এর ব্যাখ্যা পাওয়া যায়, যেখানে $a > 0$ এবং $r \\in Q$। উপরের আলোচনা থেকে দেখা যায় যে, $a > 0$ হলে, $r$ কে বিভিন্ন সমতুল ভগ্নাংশ আকারে প্রকাশ করা হলেও $a^r$ এর মানের কোনো তারতম্য হয় না।",
+      "image": null,
+      "formulas": [
+        "a^r",
+        "a > 0",
+        "r \\in Q",
+        "a > 0",
+        "r",
+        "a^r"
+      ],
+      "pdfPageStart": 206,
+      "pdfPageEnd": 206,
+      "printedPageStart": 201,
+      "printedPageEnd": 201,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**দ্রষ্টব্য:** সূত্র ৬ এ বর্ণিত সূচক নিয়মগুলো সাধারণভাবে যেকোনো সূচকের জন্য সত্য হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 206,
+      "pdfPageEnd": 206,
+      "printedPageStart": 201,
+      "printedPageEnd": 201,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সূত্র ১০.** $a > 0, b > 0$ এবং $r, s \\in Q$ হলে",
+      "image": null,
+      "formulas": [
+        "a > 0, b > 0",
+        "r, s \\in Q"
+      ],
+      "pdfPageStart": 206,
+      "pdfPageEnd": 206,
+      "printedPageStart": 201,
+      "printedPageEnd": 201,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $a^r \\cdot a^s = a^{r+s}$",
+      "image": null,
+      "formulas": [
+        "a^r \\cdot a^s = a^{r+s}"
+      ],
+      "pdfPageStart": 206,
+      "pdfPageEnd": 206,
+      "printedPageStart": 201,
+      "printedPageEnd": 201,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $\\frac{a^r}{a^s} = a^{r-s}$",
+      "image": null,
+      "formulas": [
+        "\\frac{a^r}{a^s} = a^{r-s}"
+      ],
+      "pdfPageStart": 206,
+      "pdfPageEnd": 206,
+      "printedPageStart": 201,
+      "printedPageEnd": 201,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $(a^r)^s = a^{rs}$",
+      "image": null,
+      "formulas": [
+        "(a^r)^s = a^{rs}"
+      ],
+      "pdfPageStart": 206,
+      "pdfPageEnd": 206,
+      "printedPageStart": 201,
+      "printedPageEnd": 201,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঘ) $(ab)^r = a^r b^r$",
+      "image": null,
+      "formulas": [
+        "(ab)^r = a^r b^r"
+      ],
+      "pdfPageStart": 206,
+      "pdfPageEnd": 206,
+      "printedPageStart": 201,
+      "printedPageEnd": 201,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঙ) $\\left(\\frac{a}{b}\\right)^r = \\frac{a^r}{b^r}$",
+      "image": null,
+      "formulas": [
+        "\\left(\\frac{a}{b}\\right)^r = \\frac{a^r}{b^r}"
+      ],
+      "pdfPageStart": 206,
+      "pdfPageEnd": 206,
+      "printedPageStart": 201,
+      "printedPageEnd": 201,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(ক) ও (ঘ) এর পুনঃপুন প্রয়োগের মাধ্যমে দেখা যায় যে,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 206,
+      "pdfPageEnd": 206,
+      "printedPageStart": 201,
+      "printedPageEnd": 201,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**অনুসিদ্ধান্ত ২.** ক) $a > 0$ এবং $r_1, r_2, \\dots, r_k \\in Q$ হলে,",
+      "image": null,
+      "formulas": [
+        "a > 0",
+        "r_1, r_2, \\dots, r_k \\in Q"
+      ],
+      "pdfPageStart": 206,
+      "pdfPageEnd": 206,
+      "printedPageStart": 201,
+      "printedPageEnd": 201,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p022",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$a^{r_1} \\cdot a^{r_2} \\cdot a^{r_3} \\dots a^{r_k} = a^{r_1+r_2+r_3+\\dots+r_k}.$$",
+      "image": null,
+      "formulas": [
+        "a^{r_1} \\cdot a^{r_2} \\cdot a^{r_3} \\dots a^{r_k} = a^{r_1+r_2+r_3+\\dots+r_k}."
+      ],
+      "pdfPageStart": 206,
+      "pdfPageEnd": 206,
+      "printedPageStart": 201,
+      "printedPageEnd": 201,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $a_1 > 0, a_2 > 0, \\dots, a_n > 0$ এবং $r \\in Q$ হলে $(a_1 \\cdot a_2 \\dots a_n)^r = a_1^r \\cdot a_2^r \\dots a_n^r$.",
+      "image": null,
+      "formulas": [
+        "a_1 > 0, a_2 > 0, \\dots, a_n > 0",
+        "r \\in Q",
+        "(a_1 \\cdot a_2 \\dots a_n)^r = a_1^r \\cdot a_2^r \\dots a_n^r"
+      ],
+      "pdfPageStart": 206,
+      "pdfPageEnd": 206,
+      "printedPageStart": 201,
+      "printedPageEnd": 201,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৮.** দেখাও যে, $a^{\\frac{m}{n}} \\cdot a^{\\frac{p}{q}} = a^{\\frac{m}{n} + \\frac{p}{q}}$",
+      "image": null,
+      "formulas": [
+        "a^{\\frac{m}{n}} \\cdot a^{\\frac{p}{q}} = a^{\\frac{m}{n} + \\frac{p}{q}}"
+      ],
+      "pdfPageStart": 206,
+      "pdfPageEnd": 206,
+      "printedPageStart": 201,
+      "printedPageEnd": 201,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p025",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যেখানে, $a > 0; m, p \\in Z; n, q \\in N, n > 1, q > 1$.",
+      "image": null,
+      "formulas": [
+        "a > 0; m, p \\in Z; n, q \\in N, n > 1, q > 1"
+      ],
+      "pdfPageStart": 206,
+      "pdfPageEnd": 206,
+      "printedPageStart": 201,
+      "printedPageEnd": 201,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p026",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $\\frac{m}{n}$ ও $\\frac{p}{q}$ কে সমহরবিশিষ্ট ভগ্নাংশে পরিণত করে দেখা যায় যে,",
+      "image": null,
+      "formulas": [
+        "\\frac{m}{n}",
+        "\\frac{p}{q}"
+      ],
+      "pdfPageStart": 206,
+      "pdfPageEnd": 206,
+      "printedPageStart": 201,
+      "printedPageEnd": 201,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p027",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$a^{\\frac{m}{n}} \\cdot a^{\\frac{p}{q}} = a^{\\frac{mq}{nq}} \\cdot a^{\\frac{np}{nq}} = (a^{\\frac{1}{nq}})^{mq} (a^{\\frac{1}{nq}})^{np}  [সংজ্ঞা ৬ ব্যবহার করে]$$",
+      "image": null,
+      "formulas": [
+        "a^{\\frac{m}{n}} \\cdot a^{\\frac{p}{q}} = a^{\\frac{mq}{nq}} \\cdot a^{\\frac{np}{nq}} = (a^{\\frac{1}{nq}})^{mq} (a^{\\frac{1}{nq}})^{np}  [সংজ্ঞা ৬ ব্যবহার করে]"
+      ],
+      "pdfPageStart": 206,
+      "pdfPageEnd": 206,
+      "printedPageStart": 201,
+      "printedPageEnd": 201,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p028",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= (a^{\\frac{1}{nq}})^{mq+np}  [সূত্র ৬]$$",
+      "image": null,
+      "formulas": [
+        "= (a^{\\frac{1}{nq}})^{mq+np}  [সূত্র ৬]"
+      ],
+      "pdfPageStart": 206,
+      "pdfPageEnd": 206,
+      "printedPageStart": 201,
+      "printedPageEnd": 201,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p029",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= a^{\\frac{mq+np}{nq}}$$",
+      "image": null,
+      "formulas": [
+        "= a^{\\frac{mq+np}{nq}}"
+      ],
+      "pdfPageStart": 206,
+      "pdfPageEnd": 206,
+      "printedPageStart": 201,
+      "printedPageEnd": 201,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p030",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= a^{\\frac{mq}{nq} + \\frac{np}{nq}}$$",
+      "image": null,
+      "formulas": [
+        "= a^{\\frac{mq}{nq} + \\frac{np}{nq}}"
+      ],
+      "pdfPageStart": 206,
+      "pdfPageEnd": 206,
+      "printedPageStart": 201,
+      "printedPageEnd": 201,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p031",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= a^{\\frac{m}{n} + \\frac{p}{q}}$$",
+      "image": null,
+      "formulas": [
+        "= a^{\\frac{m}{n} + \\frac{p}{q}}"
+      ],
+      "pdfPageStart": 206,
+      "pdfPageEnd": 206,
+      "printedPageStart": 201,
+      "printedPageEnd": 201,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p032",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কয়েকটি প্রয়োজনীয় তথ্য:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 206,
+      "pdfPageEnd": 206,
+      "printedPageStart": 201,
+      "printedPageEnd": 201,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p033",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(i) যদি $a^x = 1$ হয়, যেখানে $a > 0$ এবং $a \\neq 1$, তাহলে $x = 0$",
+      "image": null,
+      "formulas": [
+        "a^x = 1",
+        "a > 0",
+        "a \\neq 1",
+        "x = 0"
+      ],
+      "pdfPageStart": 206,
+      "pdfPageEnd": 206,
+      "printedPageStart": 201,
+      "printedPageEnd": 201,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p034",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(ii) যদি $a^x = 1$ হয়, যেখানে $a > 0$ এবং $x \\neq 0$, তাহলে $a = 1$",
+      "image": null,
+      "formulas": [
+        "a^x = 1",
+        "a > 0",
+        "x \\neq 0",
+        "a = 1"
+      ],
+      "pdfPageStart": 206,
+      "pdfPageEnd": 206,
+      "printedPageStart": 201,
+      "printedPageEnd": 201,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p035",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(iii) যদি $a^x = a^y$ হয়, যেখানে $a > 0$ এবং $a \\neq 1$, তাহলে $x = y$",
+      "image": null,
+      "formulas": [
+        "a^x = a^y",
+        "a > 0",
+        "a \\neq 1",
+        "x = y"
+      ],
+      "pdfPageStart": 206,
+      "pdfPageEnd": 206,
+      "printedPageStart": 201,
+      "printedPageEnd": 201,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p036",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(iv) যদি $a^x = b^x$ হয়, যেখানে $\\frac{a}{b} > 0$ এবং $x \\neq 0$, তাহলে $a = b$",
+      "image": null,
+      "formulas": [
+        "a^x = b^x",
+        "\\frac{a}{b} > 0",
+        "x \\neq 0",
+        "a = b"
+      ],
+      "pdfPageStart": 206,
+      "pdfPageEnd": 206,
+      "printedPageStart": 201,
+      "printedPageEnd": 201,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p037",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৯.** যদি $a^x = b, b^y = c$ এবং $c^z = a$ হয়, তবে দেখাও যে, $xyz = 1$.",
+      "image": null,
+      "formulas": [
+        "a^x = b, b^y = c",
+        "c^z = a",
+        "xyz = 1"
+      ],
+      "pdfPageStart": 207,
+      "pdfPageEnd": 207,
+      "printedPageStart": 202,
+      "printedPageEnd": 202,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p038",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** প্রদত্ত শর্ত হতে, $b = a^x, c = b^y$ এবং $a = c^z$",
+      "image": null,
+      "formulas": [
+        "b = a^x, c = b^y",
+        "a = c^z"
+      ],
+      "pdfPageStart": 207,
+      "pdfPageEnd": 207,
+      "printedPageStart": 202,
+      "printedPageEnd": 202,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p039",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন, $b = a^x = (c^z)^x = c^{zx} = (b^y)^{zx} = b^{xyz}$",
+      "image": null,
+      "formulas": [
+        "b = a^x = (c^z)^x = c^{zx} = (b^y)^{zx} = b^{xyz}"
+      ],
+      "pdfPageStart": 207,
+      "pdfPageEnd": 207,
+      "printedPageStart": 202,
+      "printedPageEnd": 202,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p040",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $b = b^{xyz}$ বা, $b^1 = b^{xyz}$",
+      "image": null,
+      "formulas": [
+        "b = b^{xyz}",
+        "b^1 = b^{xyz}"
+      ],
+      "pdfPageStart": 207,
+      "pdfPageEnd": 207,
+      "printedPageStart": 202,
+      "printedPageEnd": 202,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p041",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore xyz = 1$",
+      "image": null,
+      "formulas": [
+        "\\therefore xyz = 1"
+      ],
+      "pdfPageStart": 207,
+      "pdfPageEnd": 207,
+      "printedPageStart": 202,
+      "printedPageEnd": 202,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p042",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১০.** যদি $a^b = b^a$ হয়, তবে দেখাও যে, $\\left(\\frac{a}{b}\\right)^{\\frac{a}{b}} = a^{\\frac{a}{b}-1}$ এবং এ থেকে প্রমাণ করো যে, $a = 2b$ হলে, $b = 2$",
+      "image": null,
+      "formulas": [
+        "a^b = b^a",
+        "\\left(\\frac{a}{b}\\right)^{\\frac{a}{b}} = a^{\\frac{a}{b}-1}",
+        "a = 2b",
+        "b = 2"
+      ],
+      "pdfPageStart": 207,
+      "pdfPageEnd": 207,
+      "printedPageStart": 202,
+      "printedPageEnd": 202,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p043",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** দেওয়া আছে, $a^b = b^a$",
+      "image": null,
+      "formulas": [
+        "a^b = b^a"
+      ],
+      "pdfPageStart": 207,
+      "pdfPageEnd": 207,
+      "printedPageStart": 202,
+      "printedPageEnd": 202,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p044",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore b = (a^b)^{\\frac{1}{a}} = (a)^{\\frac{b}{a}}$",
+      "image": null,
+      "formulas": [
+        "\\therefore b = (a^b)^{\\frac{1}{a}} = (a)^{\\frac{b}{a}}"
+      ],
+      "pdfPageStart": 207,
+      "pdfPageEnd": 207,
+      "printedPageStart": 202,
+      "printedPageEnd": 202,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p045",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বামপক্ষ $= \\left(\\frac{a}{b}\\right)^{\\frac{a}{b}} = \\left(\\frac{a}{a^{\\frac{b}{a}}}\\right)^{\\frac{a}{b}} = \\left(a^1 \\cdot a^{-\\frac{b}{a}}\\right)^{\\frac{a}{b}}$",
+      "image": null,
+      "formulas": [
+        "= \\left(\\frac{a}{b}\\right)^{\\frac{a}{b}} = \\left(\\frac{a}{a^{\\frac{b}{a}}}\\right)^{\\frac{a}{b}} = \\left(a^1 \\cdot a^{-\\frac{b}{a}}\\right)^{\\frac{a}{b}}"
+      ],
+      "pdfPageStart": 207,
+      "pdfPageEnd": 207,
+      "printedPageStart": 202,
+      "printedPageEnd": 202,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p046",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$= a^{\\frac{a}{b}} \\cdot a^{-1} = a^{\\frac{a}{b}-1} =$ ডানপক্ষ (প্রমাণিত)",
+      "image": null,
+      "formulas": [
+        "= a^{\\frac{a}{b}} \\cdot a^{-1} = a^{\\frac{a}{b}-1} ="
+      ],
+      "pdfPageStart": 207,
+      "pdfPageEnd": 207,
+      "printedPageStart": 202,
+      "printedPageEnd": 202,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p047",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "পুনরায়, $a = 2b$ হলে",
+      "image": null,
+      "formulas": [
+        "a = 2b"
+      ],
+      "pdfPageStart": 207,
+      "pdfPageEnd": 207,
+      "printedPageStart": 202,
+      "printedPageEnd": 202,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p048",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\left(\\frac{2b}{b}\\right)^{\\frac{2b}{b}} = (2b)^{\\frac{2b}{b}-1}$",
+      "image": null,
+      "formulas": [
+        "\\left(\\frac{2b}{b}\\right)^{\\frac{2b}{b}} = (2b)^{\\frac{2b}{b}-1}"
+      ],
+      "pdfPageStart": 207,
+      "pdfPageEnd": 207,
+      "printedPageStart": 202,
+      "printedPageEnd": 202,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p049",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $(2)^2 = (2b)^{2-1}$ বা, $4 = 2b$",
+      "image": null,
+      "formulas": [
+        "(2)^2 = (2b)^{2-1}",
+        "4 = 2b"
+      ],
+      "pdfPageStart": 207,
+      "pdfPageEnd": 207,
+      "printedPageStart": 202,
+      "printedPageEnd": 202,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p050",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore b = 2$ (প্রমাণিত)",
+      "image": null,
+      "formulas": [
+        "\\therefore b = 2"
+      ],
+      "pdfPageStart": 207,
+      "pdfPageEnd": 207,
+      "printedPageStart": 202,
+      "printedPageEnd": 202,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p051",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১১.** যদি $x^{x\\sqrt{x}} = (x\\sqrt{x})^x$ হয়, তবে $x$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "x^{x\\sqrt{x}} = (x\\sqrt{x})^x",
+        "x"
+      ],
+      "pdfPageStart": 207,
+      "pdfPageEnd": 207,
+      "printedPageStart": 202,
+      "printedPageEnd": 202,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p052",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** দেওয়া আছে, $x^{x\\sqrt{x}} = (x\\sqrt{x})^x$",
+      "image": null,
+      "formulas": [
+        "x^{x\\sqrt{x}} = (x\\sqrt{x})^x"
+      ],
+      "pdfPageStart": 207,
+      "pdfPageEnd": 207,
+      "printedPageStart": 202,
+      "printedPageEnd": 202,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p053",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $(x^x)^{\\sqrt{x}} = \\left(x \\cdot x^{\\frac{1}{2}}\\right)^x = \\left(x^{1+\\frac{1}{2}}\\right)^x = \\left(x^{\\frac{3}{2}}\\right)^x = (x^x)^{\\frac{3}{2}}$",
+      "image": null,
+      "formulas": [
+        "(x^x)^{\\sqrt{x}} = \\left(x \\cdot x^{\\frac{1}{2}}\\right)^x = \\left(x^{1+\\frac{1}{2}}\\right)^x = \\left(x^{\\frac{3}{2}}\\right)^x = (x^x)^{\\frac{3}{2}}"
+      ],
+      "pdfPageStart": 207,
+      "pdfPageEnd": 207,
+      "printedPageStart": 202,
+      "printedPageEnd": 202,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p054",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore (x^x)^{\\sqrt{x}} = (x^x)^{\\frac{3}{2}}$",
+      "image": null,
+      "formulas": [
+        "\\therefore (x^x)^{\\sqrt{x}} = (x^x)^{\\frac{3}{2}}"
+      ],
+      "pdfPageStart": 207,
+      "pdfPageEnd": 207,
+      "printedPageStart": 202,
+      "printedPageEnd": 202,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p055",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\sqrt{x} = \\frac{3}{2}$ বা, $x = \\left(\\frac{3}{2}\\right)^2 = \\frac{9}{4}$",
+      "image": null,
+      "formulas": [
+        "\\sqrt{x} = \\frac{3}{2}",
+        "x = \\left(\\frac{3}{2}\\right)^2 = \\frac{9}{4}"
+      ],
+      "pdfPageStart": 207,
+      "pdfPageEnd": 207,
+      "printedPageStart": 202,
+      "printedPageEnd": 202,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p056",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore x = \\frac{9}{4}$",
+      "image": null,
+      "formulas": [
+        "\\therefore x = \\frac{9}{4}"
+      ],
+      "pdfPageStart": 207,
+      "pdfPageEnd": 207,
+      "printedPageStart": 202,
+      "printedPageEnd": 202,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p057",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১২.** যদি $a^x = b^y = c^z$ এবং $b^2 = ac$ হয়, তবে প্রমাণ করো যে, $\\frac{1}{x} + \\frac{1}{z} = \\frac{2}{y}$",
+      "image": null,
+      "formulas": [
+        "a^x = b^y = c^z",
+        "b^2 = ac",
+        "\\frac{1}{x} + \\frac{1}{z} = \\frac{2}{y}"
+      ],
+      "pdfPageStart": 207,
+      "pdfPageEnd": 207,
+      "printedPageStart": 202,
+      "printedPageEnd": 202,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p058",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** দেওয়া আছে, $a^x = b^y$ বা, $a = b^{\\frac{y}{x}}$",
+      "image": null,
+      "formulas": [
+        "a^x = b^y",
+        "a = b^{\\frac{y}{x}}"
+      ],
+      "pdfPageStart": 207,
+      "pdfPageEnd": 207,
+      "printedPageStart": 202,
+      "printedPageEnd": 202,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p059",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার, $c^z = b^y$ বা, $c = b^{\\frac{y}{z}}$ এখন, $b^2 = ac$ বা, $b^2 = b^{\\frac{y}{x}} \\cdot b^{\\frac{y}{z}} = b^{\\frac{y}{x} + \\frac{y}{z}}$",
+      "image": null,
+      "formulas": [
+        "c^z = b^y",
+        "c = b^{\\frac{y}{z}}",
+        "b^2 = ac",
+        "b^2 = b^{\\frac{y}{x}} \\cdot b^{\\frac{y}{z}} = b^{\\frac{y}{x} + \\frac{y}{z}}"
+      ],
+      "pdfPageStart": 207,
+      "pdfPageEnd": 208,
+      "printedPageStart": 202,
+      "printedPageEnd": 203,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p060",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $2 = \\frac{y}{x} + \\frac{y}{z}$",
+      "image": null,
+      "formulas": [
+        "2 = \\frac{y}{x} + \\frac{y}{z}"
+      ],
+      "pdfPageStart": 208,
+      "pdfPageEnd": 208,
+      "printedPageStart": 203,
+      "printedPageEnd": 203,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p061",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\frac{2}{y} = \\frac{1}{x} + \\frac{1}{z}$ [উভয়পক্ষকে $y$ দ্বারা ভাগ করে]",
+      "image": null,
+      "formulas": [
+        "\\frac{2}{y} = \\frac{1}{x} + \\frac{1}{z}",
+        "y"
+      ],
+      "pdfPageStart": 208,
+      "pdfPageEnd": 208,
+      "printedPageStart": 203,
+      "printedPageEnd": 203,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p062",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\frac{1}{x} + \\frac{1}{z} = \\frac{2}{y}$ (প্রমাণিত)",
+      "image": null,
+      "formulas": [
+        "\\therefore \\frac{1}{x} + \\frac{1}{z} = \\frac{2}{y}"
+      ],
+      "pdfPageStart": 208,
+      "pdfPageEnd": 208,
+      "printedPageStart": 203,
+      "printedPageEnd": 203,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p063",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৩.** প্রমাণ করো যে, $\\left( \\frac{x^b}{x^c} \\right)^{b+c} \\times \\left( \\frac{x^c}{x^a} \\right)^{c+a} \\times \\left( \\frac{x^a}{x^b} \\right)^{a+b} = 1$.",
+      "image": null,
+      "formulas": [
+        "\\left( \\frac{x^b}{x^c} \\right)^{b+c} \\times \\left( \\frac{x^c}{x^a} \\right)^{c+a} \\times \\left( \\frac{x^a}{x^b} \\right)^{a+b} = 1"
+      ],
+      "pdfPageStart": 208,
+      "pdfPageEnd": 208,
+      "printedPageStart": 203,
+      "printedPageEnd": 203,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p064",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** বামপক্ষ $= \\left( \\frac{x^b}{x^c} \\right)^{b+c} \\times \\left( \\frac{x^c}{x^a} \\right)^{c+a} \\times \\left( \\frac{x^a}{x^b} \\right)^{a+b}$",
+      "image": null,
+      "formulas": [
+        "= \\left( \\frac{x^b}{x^c} \\right)^{b+c} \\times \\left( \\frac{x^c}{x^a} \\right)^{c+a} \\times \\left( \\frac{x^a}{x^b} \\right)^{a+b}"
+      ],
+      "pdfPageStart": 208,
+      "pdfPageEnd": 208,
+      "printedPageStart": 203,
+      "printedPageEnd": 203,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p065",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$= (x^{b-c})^{b+c} \\times (x^{c-a})^{c+a} \\times (x^{a-b})^{a+b}$",
+      "image": null,
+      "formulas": [
+        "= (x^{b-c})^{b+c} \\times (x^{c-a})^{c+a} \\times (x^{a-b})^{a+b}"
+      ],
+      "pdfPageStart": 208,
+      "pdfPageEnd": 208,
+      "printedPageStart": 203,
+      "printedPageEnd": 203,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p066",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$= x^{b^2-c^2} \\times x^{c^2-a^2} \\times x^{a^2-b^2}$",
+      "image": null,
+      "formulas": [
+        "= x^{b^2-c^2} \\times x^{c^2-a^2} \\times x^{a^2-b^2}"
+      ],
+      "pdfPageStart": 208,
+      "pdfPageEnd": 208,
+      "printedPageStart": 203,
+      "printedPageEnd": 203,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p067",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$= x^{b^2-c^2+c^2-a^2+a^2-b^2}$",
+      "image": null,
+      "formulas": [
+        "= x^{b^2-c^2+c^2-a^2+a^2-b^2}"
+      ],
+      "pdfPageStart": 208,
+      "pdfPageEnd": 208,
+      "printedPageStart": 203,
+      "printedPageEnd": 203,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p068",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$= x^0 = 1 =$ ডানপক্ষ",
+      "image": null,
+      "formulas": [
+        "= x^0 = 1 ="
+      ],
+      "pdfPageStart": 208,
+      "pdfPageEnd": 208,
+      "printedPageStart": 203,
+      "printedPageEnd": 203,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p069",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৪.** যদি $a^{\\frac{1}{x}} = b^{\\frac{1}{y}} = c^{\\frac{1}{z}}$ এবং $abc = 1$ হয়, তবে দেখাও যে, $x + y + z = 0$.",
+      "image": null,
+      "formulas": [
+        "a^{\\frac{1}{x}} = b^{\\frac{1}{y}} = c^{\\frac{1}{z}}",
+        "abc = 1",
+        "x + y + z = 0"
+      ],
+      "pdfPageStart": 208,
+      "pdfPageEnd": 208,
+      "printedPageStart": 203,
+      "printedPageEnd": 203,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p070",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** ধরি, $a^{\\frac{1}{x}} = b^{\\frac{1}{y}} = c^{\\frac{1}{z}} = k$",
+      "image": null,
+      "formulas": [
+        "a^{\\frac{1}{x}} = b^{\\frac{1}{y}} = c^{\\frac{1}{z}} = k"
+      ],
+      "pdfPageStart": 208,
+      "pdfPageEnd": 208,
+      "printedPageStart": 203,
+      "printedPageEnd": 203,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p071",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাহলে পাই, $a = k^x, b = k^y, c = k^z$",
+      "image": null,
+      "formulas": [
+        "a = k^x, b = k^y, c = k^z"
+      ],
+      "pdfPageStart": 208,
+      "pdfPageEnd": 208,
+      "printedPageStart": 203,
+      "printedPageEnd": 203,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p072",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore abc = k^x \\cdot k^y \\cdot k^z = k^{x+y+z}$",
+      "image": null,
+      "formulas": [
+        "\\therefore abc = k^x \\cdot k^y \\cdot k^z = k^{x+y+z}"
+      ],
+      "pdfPageStart": 208,
+      "pdfPageEnd": 208,
+      "printedPageStart": 203,
+      "printedPageEnd": 203,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p073",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "দেওয়া আছে, $abc = 1$",
+      "image": null,
+      "formulas": [
+        "abc = 1"
+      ],
+      "pdfPageStart": 208,
+      "pdfPageEnd": 208,
+      "printedPageStart": 203,
+      "printedPageEnd": 203,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p074",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore k^{x+y+z} = 1 = k^0$",
+      "image": null,
+      "formulas": [
+        "\\therefore k^{x+y+z} = 1 = k^0"
+      ],
+      "pdfPageStart": 208,
+      "pdfPageEnd": 208,
+      "printedPageStart": 203,
+      "printedPageEnd": 203,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p075",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore x + y + z = 0$",
+      "image": null,
+      "formulas": [
+        "\\therefore x + y + z = 0"
+      ],
+      "pdfPageStart": 208,
+      "pdfPageEnd": 208,
+      "printedPageStart": 203,
+      "printedPageEnd": 203,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p076",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৫.** সরল করো $\\frac{1}{1 + a^{y-z} + a^{y-x}} + \\frac{1}{1 + a^{z-x} + a^{z-y}} + \\frac{1}{1 + a^{x-y} + a^{x-z}}$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{1 + a^{y-z} + a^{y-x}} + \\frac{1}{1 + a^{z-x} + a^{z-y}} + \\frac{1}{1 + a^{x-y} + a^{x-z}}"
+      ],
+      "pdfPageStart": 208,
+      "pdfPageEnd": 208,
+      "printedPageStart": 203,
+      "printedPageEnd": 203,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p077",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** এখানে, $\\frac{1}{1 + a^{y-z} + a^{y-x}} = \\frac{a^{-y}}{a^{-y}(1 + a^{y-z} + a^{y-x})} = \\frac{a^{-y}}{a^{-y} + a^{-z} + a^{-x}}$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{1 + a^{y-z} + a^{y-x}} = \\frac{a^{-y}}{a^{-y}(1 + a^{y-z} + a^{y-x})} = \\frac{a^{-y}}{a^{-y} + a^{-z} + a^{-x}}"
+      ],
+      "pdfPageStart": 208,
+      "pdfPageEnd": 208,
+      "printedPageStart": 203,
+      "printedPageEnd": 203,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p078",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "একইভাবে, $\\frac{1}{1 + a^{z-x} + a^{z-y}} = \\frac{a^{-z}}{a^{-z}(1 + a^{z-x} + a^{z-y})} = \\frac{a^{-z}}{a^{-z} + a^{-x} + a^{-y}}$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{1 + a^{z-x} + a^{z-y}} = \\frac{a^{-z}}{a^{-z}(1 + a^{z-x} + a^{z-y})} = \\frac{a^{-z}}{a^{-z} + a^{-x} + a^{-y}}"
+      ],
+      "pdfPageStart": 208,
+      "pdfPageEnd": 208,
+      "printedPageStart": 203,
+      "printedPageEnd": 203,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p079",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এবং $\\frac{1}{1 + a^{x-y} + a^{x-z}} = \\frac{a^{-x}}{a^{-x} + a^{-y} + a^{-z}}$ সুতরাং প্রদত্ত রাশি $= \\frac{1}{1 + a^{y-z} + a^{y-x}} + \\frac{1}{1 + a^{z-x} + a^{z-y}} + \\frac{1}{1 + a^{x-y} + a^{x-z}}$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{1 + a^{x-y} + a^{x-z}} = \\frac{a^{-x}}{a^{-x} + a^{-y} + a^{-z}}",
+        "= \\frac{1}{1 + a^{y-z} + a^{y-x}} + \\frac{1}{1 + a^{z-x} + a^{z-y}} + \\frac{1}{1 + a^{x-y} + a^{x-z}}"
+      ],
+      "pdfPageStart": 208,
+      "pdfPageEnd": 209,
+      "printedPageStart": 203,
+      "printedPageEnd": 204,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p080",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$= \\frac{a^{-y}}{a^{-y} + a^{-z} + a^{-x}} + \\frac{a^{-z}}{a^{-z} + a^{-x} + a^{-y}} + \\frac{a^{-x}}{a^{-x} + a^{-y} + a^{-z}}$",
+      "image": null,
+      "formulas": [
+        "= \\frac{a^{-y}}{a^{-y} + a^{-z} + a^{-x}} + \\frac{a^{-z}}{a^{-z} + a^{-x} + a^{-y}} + \\frac{a^{-x}}{a^{-x} + a^{-y} + a^{-z}}"
+      ],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p081",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$= \\frac{a^{-x} + a^{-y} + a^{-z}}{a^{-x} + a^{-y} + a^{-z}} = 1$",
+      "image": null,
+      "formulas": [
+        "= \\frac{a^{-x} + a^{-y} + a^{-z}}{a^{-x} + a^{-y} + a^{-z}} = 1"
+      ],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p082",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৬.** যদি $a = 2 + 2^{\\frac{2}{3}} + 2^{\\frac{1}{3}}$ হয়, তবে দেখাও যে, $a^3 - 6a^2 + 6a - 2 = 0$",
+      "image": null,
+      "formulas": [
+        "a = 2 + 2^{\\frac{2}{3}} + 2^{\\frac{1}{3}}",
+        "a^3 - 6a^2 + 6a - 2 = 0"
+      ],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p083",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** দেওয়া আছে, $a = 2 + 2^{\\frac{2}{3}} + 2^{\\frac{1}{3}}$",
+      "image": null,
+      "formulas": [
+        "a = 2 + 2^{\\frac{2}{3}} + 2^{\\frac{1}{3}}"
+      ],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p084",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore a - 2 = 2^{\\frac{2}{3}} + 2^{\\frac{1}{3}}$",
+      "image": null,
+      "formulas": [
+        "\\therefore a - 2 = 2^{\\frac{2}{3}} + 2^{\\frac{1}{3}}"
+      ],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p085",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $(a - 2)^3 = (2^{\\frac{2}{3}} + 2^{\\frac{1}{3}})^3 = 2^2 + 2 + 3 \\cdot 2^{\\frac{2}{3}} \\cdot 2^{\\frac{1}{3}} (2^{\\frac{2}{3}} + 2^{\\frac{1}{3}}) = 6 + 6(a - 2) [\\because 2^{\\frac{2}{3}} + 2^{\\frac{1}{3}} = a - 2]$",
+      "image": null,
+      "formulas": [
+        "(a - 2)^3 = (2^{\\frac{2}{3}} + 2^{\\frac{1}{3}})^3 = 2^2 + 2 + 3 \\cdot 2^{\\frac{2}{3}} \\cdot 2^{\\frac{1}{3}} (2^{\\frac{2}{3}} + 2^{\\frac{1}{3}}) = 6 + 6(a - 2) [\\because 2^{\\frac{2}{3}} + 2^{\\frac{1}{3}} = a - 2]"
+      ],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p086",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $a^3 - 3a^2 \\cdot 2 + 3a \\cdot 2^2 - 2^3 = 6 + 6a - 12$",
+      "image": null,
+      "formulas": [
+        "a^3 - 3a^2 \\cdot 2 + 3a \\cdot 2^2 - 2^3 = 6 + 6a - 12"
+      ],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p087",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $a^3 - 6a^2 + 12a - 8 = 6a - 6$",
+      "image": null,
+      "formulas": [
+        "a^3 - 6a^2 + 12a - 8 = 6a - 6"
+      ],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p088",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore a^3 - 6a^2 + 6a - 2 = 0$",
+      "image": null,
+      "formulas": [
+        "\\therefore a^3 - 6a^2 + 6a - 2 = 0"
+      ],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p089",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৭.** সমাধান করো: $4^x - 3 \\cdot 2^{x+2} + 2^5 = 0$",
+      "image": null,
+      "formulas": [
+        "4^x - 3 \\cdot 2^{x+2} + 2^5 = 0"
+      ],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p090",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $4^x - 3 \\cdot 2^{x+2} + 2^5 = 0$",
+      "image": null,
+      "formulas": [
+        "4^x - 3 \\cdot 2^{x+2} + 2^5 = 0"
+      ],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p091",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $(2^2)^x - 3 \\cdot 2^x \\cdot 2^2 + 32 = 0$",
+      "image": null,
+      "formulas": [
+        "(2^2)^x - 3 \\cdot 2^x \\cdot 2^2 + 32 = 0"
+      ],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p092",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $(2^x)^2 - 12 \\cdot 2^x + 32 = 0$",
+      "image": null,
+      "formulas": [
+        "(2^x)^2 - 12 \\cdot 2^x + 32 = 0"
+      ],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p093",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $y^2 - 12y + 32 = 0$ [মনে করি $2^x = y$]",
+      "image": null,
+      "formulas": [
+        "y^2 - 12y + 32 = 0",
+        "2^x = y"
+      ],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p094",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $y^2 - 4y - 8y + 32 = 0$ বা, $y(y - 4) - 8(y - 4) = 0$",
+      "image": null,
+      "formulas": [
+        "y^2 - 4y - 8y + 32 = 0",
+        "y(y - 4) - 8(y - 4) = 0"
+      ],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p095",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $(y - 4)(y - 8) = 0$",
+      "image": null,
+      "formulas": [
+        "(y - 4)(y - 8) = 0"
+      ],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p096",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং $y - 4 = 0$ অথবা, $y - 8 = 0$",
+      "image": null,
+      "formulas": [
+        "y - 4 = 0",
+        "y - 8 = 0"
+      ],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p097",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $2^x - 4 = 0 [\\because 2^x = y]$ অথবা, $2^x - 8 = 0 [\\because 2^x = y]$",
+      "image": null,
+      "formulas": [
+        "2^x - 4 = 0 [\\because 2^x = y]",
+        "2^x - 8 = 0 [\\because 2^x = y]"
+      ],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p098",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $2^x = 4 = 2^2$ অথবা, $2^x = 8 = 2^3$",
+      "image": null,
+      "formulas": [
+        "2^x = 4 = 2^2",
+        "2^x = 8 = 2^3"
+      ],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p099",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore x = 2$ অথবা, $x = 3$",
+      "image": null,
+      "formulas": [
+        "\\therefore x = 2",
+        "x = 3"
+      ],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p100",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণেয় সমাধান $x = 2, 3$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "x = 2, 3"
+      ],
+      "pdfPageStart": 209,
+      "pdfPageEnd": 209,
+      "printedPageStart": 204,
+      "printedPageEnd": 204,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p101",
+      "kind": "text",
+      "section": "ক) মান নির্ণয় করো:",
+      "caption": null,
+      "body": "(১) $\\frac{5^{n+2} + 35 \\times 5^{n-1}}{4 \\times 5^n}$",
+      "image": null,
+      "formulas": [
+        "\\frac{5^{n+2} + 35 \\times 5^{n-1}}{4 \\times 5^n}"
+      ],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p102",
+      "kind": "text",
+      "section": "ক) মান নির্ণয় করো:",
+      "caption": null,
+      "body": "(২) $\\frac{3^4 \\cdot 3^8}{3^{14}}$",
+      "image": null,
+      "formulas": [
+        "\\frac{3^4 \\cdot 3^8}{3^{14}}"
+      ],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p103",
+      "kind": "formula",
+      "section": "খ) দেখাও যে,",
+      "caption": null,
+      "body": "$$\\left( \\frac{p^a}{p^b} \\right)^{a^2+ab+b^2} \\times \\left( \\frac{p^b}{p^c} \\right)^{b^2+bc+c^2} \\times \\left( \\frac{p^c}{p^a} \\right)^{c^2+ca+a^2} = 1$$",
+      "image": null,
+      "formulas": [
+        "\\left( \\frac{p^a}{p^b} \\right)^{a^2+ab+b^2} \\times \\left( \\frac{p^b}{p^c} \\right)^{b^2+bc+c^2} \\times \\left( \\frac{p^c}{p^a} \\right)^{c^2+ca+a^2} = 1"
+      ],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p104",
+      "kind": "formula",
+      "section": "গ) যদি $a = xy^{p-1}$, $b = xy^{q-1}$ এবং $c = xy^{r-1}$ হয়, তবে দেখাও যে",
+      "caption": null,
+      "body": "$$a^{q-r} \\cdot b^{r-p} \\cdot c^{p-q} = 1$$",
+      "image": null,
+      "formulas": [
+        "a^{q-r} \\cdot b^{r-p} \\cdot c^{p-q} = 1"
+      ],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p105",
+      "kind": "text",
+      "section": "ঘ) সমাধান করো:",
+      "caption": null,
+      "body": "(১) $4^x - 3^{x-\\frac{1}{2}} = 3^{x+\\frac{1}{2}} - 2^{2x-1}$",
+      "image": null,
+      "formulas": [
+        "4^x - 3^{x-\\frac{1}{2}} = 3^{x+\\frac{1}{2}} - 2^{2x-1}"
+      ],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p106",
+      "kind": "text",
+      "section": "ঘ) সমাধান করো:",
+      "caption": null,
+      "body": "(২) $9^{2x} = 3^{x+1}$",
+      "image": null,
+      "formulas": [
+        "9^{2x} = 3^{x+1}"
+      ],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p107",
+      "kind": "text",
+      "section": "ঘ) সমাধান করো:",
+      "caption": null,
+      "body": "(৩) $2^{x+3} + 2^{x+1} = 320$",
+      "image": null,
+      "formulas": [
+        "2^{x+3} + 2^{x+1} = 320"
+      ],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p108",
+      "kind": "text",
+      "section": "ঙ) সরল করো:",
+      "caption": null,
+      "body": "(১) $\\sqrt[12]{(a^8)\\sqrt{(a^6)\\sqrt{a^4}}}$",
+      "image": null,
+      "formulas": [
+        "\\sqrt[12]{(a^8)\\sqrt{(a^6)\\sqrt{a^4}}}"
+      ],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.4-p109",
+      "kind": "text",
+      "section": "ঙ) সরল করো:",
+      "caption": null,
+      "body": "(২) $\\left[ 1 - 1\\{ 1 - (1 - x^3)^{-1} \\}^{-1} \\right]^{-1}$",
+      "image": null,
+      "formulas": [
+        "\\left[ 1 - 1\\{ 1 - (1 - x^3)^{-1} \\}^{-1} \\right]^{-1}"
+      ],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

@@ -1,0 +1,2304 @@
+{
+  "id": "higher-math-9-10-bn-c11-t11.9",
+  "key": "11.9",
+  "title": "সরলরেখার সমীকরণ",
+  "chapter": 11,
+  "ordinal": 10,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধরি, একটি নির্দিষ্ট সরলরেখা $L$ দুটি নির্দিষ্ট বিন্দু $A(3, 4)$ এবং $B(5, 7)$ দিয়ে অতিক্রম করে। নিচের চিত্রে রেখাটি দেখানো হলো।",
+      "image": null,
+      "formulas": [
+        "L",
+        "A(3, 4)",
+        "B(5, 7)"
+      ],
+      "pdfPageStart": 266,
+      "pdfPageEnd": 266,
+      "printedPageStart": 261,
+      "printedPageEnd": 261,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p002",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A coordinate plane showing a line passing through points A(3, 4) and B(5, 7), with a point P(x, y) on the line.",
+      "image": "p266-page_23_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 266,
+      "pdfPageEnd": 266,
+      "printedPageStart": 261,
+      "printedPageEnd": 261,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাহলে $AB$ সরলরেখার ঢাল,\n$$m_1 = \\frac{7 - 4}{5 - 3} = \\frac{3}{2}$$ (1)",
+      "image": null,
+      "formulas": [
+        "AB",
+        "m_1 = \\frac{7 - 4}{5 - 3} = \\frac{3}{2}"
+      ],
+      "pdfPageStart": 266,
+      "pdfPageEnd": 266,
+      "printedPageStart": 261,
+      "printedPageEnd": 261,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "মনে করি, $P(x, y)$ সরলরেখা $L$ এর উপর একটি বিন্দু।",
+      "image": null,
+      "formulas": [
+        "P(x, y)",
+        "L"
+      ],
+      "pdfPageStart": 266,
+      "pdfPageEnd": 266,
+      "printedPageStart": 261,
+      "printedPageEnd": 261,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাহলে $AP$ রেখার ঢাল, $m_2 = \\frac{y - 4}{x - 3}$ (2)",
+      "image": null,
+      "formulas": [
+        "AP",
+        "m_2 = \\frac{y - 4}{x - 3}"
+      ],
+      "pdfPageStart": 266,
+      "pdfPageEnd": 266,
+      "printedPageStart": 261,
+      "printedPageEnd": 261,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কিন্তু $AP$ ও $AB$ একই সরলরেখা হওয়ায় উভয়ের ঢাল সমান। অর্থাৎ,\n$$m_1 = m_2$$",
+      "image": null,
+      "formulas": [
+        "AP",
+        "AB",
+        "m_1 = m_2"
+      ],
+      "pdfPageStart": 266,
+      "pdfPageEnd": 266,
+      "printedPageStart": 261,
+      "printedPageEnd": 261,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\frac{3}{2} = \\frac{y - 4}{x - 3}$ [(1) ও (2) থেকে পাই]",
+      "image": null,
+      "formulas": [
+        "\\frac{3}{2} = \\frac{y - 4}{x - 3}"
+      ],
+      "pdfPageStart": 266,
+      "pdfPageEnd": 266,
+      "printedPageStart": 261,
+      "printedPageEnd": 261,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $3x - 9 = 2y - 8$",
+      "image": null,
+      "formulas": [
+        "3x - 9 = 2y - 8"
+      ],
+      "pdfPageStart": 266,
+      "pdfPageEnd": 266,
+      "printedPageStart": 261,
+      "printedPageEnd": 261,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $2y = 3x - 1$",
+      "image": null,
+      "formulas": [
+        "2y = 3x - 1"
+      ],
+      "pdfPageStart": 266,
+      "pdfPageEnd": 266,
+      "printedPageStart": 261,
+      "printedPageEnd": 261,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $y = \\frac{3}{2}x - \\frac{1}{2}$ (3)",
+      "image": null,
+      "formulas": [
+        "y = \\frac{3}{2}x - \\frac{1}{2}"
+      ],
+      "pdfPageStart": 266,
+      "pdfPageEnd": 266,
+      "printedPageStart": 261,
+      "printedPageEnd": 261,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার, $PB$ রেখার ঢাল, $m_3 = \\frac{7 - y}{5 - x}$ (4)",
+      "image": null,
+      "formulas": [
+        "PB",
+        "m_3 = \\frac{7 - y}{5 - x}"
+      ],
+      "pdfPageStart": 266,
+      "pdfPageEnd": 266,
+      "printedPageStart": 261,
+      "printedPageEnd": 261,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$AB$ এবং $PB$ রেখার ঢাল সমান বলে,\n$$m_1 = m_3$$",
+      "image": null,
+      "formulas": [
+        "AB",
+        "PB",
+        "m_1 = m_3"
+      ],
+      "pdfPageStart": 266,
+      "pdfPageEnd": 266,
+      "printedPageStart": 261,
+      "printedPageEnd": 261,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\frac{3}{2} = \\frac{7 - y}{5 - x}$ [(1) ও (4) থেকে পাই] বা, $15 - 3x = 14 - 2y$",
+      "image": null,
+      "formulas": [
+        "\\frac{3}{2} = \\frac{7 - y}{5 - x}",
+        "15 - 3x = 14 - 2y"
+      ],
+      "pdfPageStart": 266,
+      "pdfPageEnd": 267,
+      "printedPageStart": 261,
+      "printedPageEnd": 262,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $2y + 15 = 3x + 14$",
+      "image": null,
+      "formulas": [
+        "2y + 15 = 3x + 14"
+      ],
+      "pdfPageStart": 267,
+      "pdfPageEnd": 267,
+      "printedPageStart": 262,
+      "printedPageEnd": 262,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $2y = 3x - 1$",
+      "image": null,
+      "formulas": [
+        "2y = 3x - 1"
+      ],
+      "pdfPageStart": 267,
+      "pdfPageEnd": 267,
+      "printedPageStart": 262,
+      "printedPageEnd": 262,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $y = \\frac{3}{2}x - \\frac{1}{2} \\dots (5)$",
+      "image": null,
+      "formulas": [
+        "y = \\frac{3}{2}x - \\frac{1}{2} \\dots (5)"
+      ],
+      "pdfPageStart": 267,
+      "pdfPageEnd": 267,
+      "printedPageStart": 262,
+      "printedPageEnd": 262,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সমীকরণ (3) ও (5) একই সমীকরণ। সুতরাং সমীকরণ (3) বা (5) হচ্ছে সরলরেখা $L$ এর কাতেরীয় সমীকরণ। লক্ষ্য করলে দেখা যাবে সমীকরণ (3) বা (5) $x$ এবং $y$ এর একঘাত সমীকরণ এবং এটি একটি সরলরেখা নির্দেশ করে। তাই নিঃসন্দেহে বলা যায় $x$ এবং $y$ এর একঘাত সমীকরণ সব সময় একটি সরলরেখা নির্দেশ করে। সমীকরণ (3) বা (5) কে নিম্নরূপে প্রকাশ করা যায়:",
+      "image": null,
+      "formulas": [
+        "L",
+        "x",
+        "y",
+        "x",
+        "y"
+      ],
+      "pdfPageStart": 267,
+      "pdfPageEnd": 267,
+      "printedPageStart": 262,
+      "printedPageEnd": 262,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p018",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$y = \\frac{3}{2}x - \\frac{1}{2}$$",
+      "image": null,
+      "formulas": [
+        "y = \\frac{3}{2}x - \\frac{1}{2}"
+      ],
+      "pdfPageStart": 267,
+      "pdfPageEnd": 267,
+      "printedPageStart": 262,
+      "printedPageEnd": 262,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p019",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{y - 4}{x - 3} = \\frac{3}{2}  অথবা  \\frac{y - 7}{x - 5} = \\frac{3}{2}$$",
+      "image": null,
+      "formulas": [
+        "\\frac{y - 4}{x - 3} = \\frac{3}{2}  অথবা  \\frac{y - 7}{x - 5} = \\frac{3}{2}"
+      ],
+      "pdfPageStart": 267,
+      "pdfPageEnd": 267,
+      "printedPageStart": 262,
+      "printedPageEnd": 262,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ, $\\frac{y - 4}{x - 3} = \\frac{7 - 4}{5 - 3}  অথবা  \\frac{y - 7}{x - 5} = \\frac{7 - 4}{5 - 3}$",
+      "image": null,
+      "formulas": [
+        "\\frac{y - 4}{x - 3} = \\frac{7 - 4}{5 - 3}  অথবা  \\frac{y - 7}{x - 5} = \\frac{7 - 4}{5 - 3}"
+      ],
+      "pdfPageStart": 267,
+      "pdfPageEnd": 267,
+      "printedPageStart": 262,
+      "printedPageEnd": 262,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ, $\\frac{y - 4}{x - 3} = m  অথবা  \\frac{y - 7}{x - 5} = m$",
+      "image": null,
+      "formulas": [
+        "\\frac{y - 4}{x - 3} = m  অথবা  \\frac{y - 7}{x - 5} = m"
+      ],
+      "pdfPageStart": 267,
+      "pdfPageEnd": 267,
+      "printedPageStart": 262,
+      "printedPageEnd": 262,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং সাধারণভাবে বলা যায়, যদি দুটি নির্দিষ্ট বিন্দু $A(x_1, y_1)$ এবং $B(x_2, y_2)$ কোনো সরলরেখার উপর অবস্থিত হয়, তাহলে ঢাল",
+      "image": null,
+      "formulas": [
+        "A(x_1, y_1)",
+        "B(x_2, y_2)"
+      ],
+      "pdfPageStart": 267,
+      "pdfPageEnd": 267,
+      "printedPageStart": 262,
+      "printedPageEnd": 262,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p023",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$m = \\frac{y_2 - y_1}{x_2 - x_1} \\left[ \\frac{rise}{run} \\right]  বা  \\left[ \\frac{ওঠা}{হাঁটা} \\right]$$",
+      "image": null,
+      "formulas": [
+        "m = \\frac{y_2 - y_1}{x_2 - x_1} \\left[ \\frac{rise}{run} \\right]  বা  \\left[ \\frac{ওঠা}{হাঁটা} \\right]"
+      ],
+      "pdfPageStart": 267,
+      "pdfPageEnd": 267,
+      "printedPageStart": 262,
+      "printedPageEnd": 262,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এবং উক্ত সরলরেখার কাতেরীয় সমীকরণ হবে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 267,
+      "pdfPageEnd": 267,
+      "printedPageStart": 262,
+      "printedPageEnd": 262,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p025",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{y - y_1}{x - x_1} = m \\dots (6)  বা,  \\frac{y - y_2}{x - x_2} = m \\dots (7)$$",
+      "image": null,
+      "formulas": [
+        "\\frac{y - y_1}{x - x_1} = m \\dots (6)  বা,  \\frac{y - y_2}{x - x_2} = m \\dots (7)"
+      ],
+      "pdfPageStart": 267,
+      "pdfPageEnd": 267,
+      "printedPageStart": 262,
+      "printedPageEnd": 262,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p026",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সমীকরণ (6) হতে পাই",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 267,
+      "pdfPageEnd": 267,
+      "printedPageStart": 262,
+      "printedPageEnd": 262,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p027",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$y - y_1 = m(x - x_1) \\dots (8)$$",
+      "image": null,
+      "formulas": [
+        "y - y_1 = m(x - x_1) \\dots (8)"
+      ],
+      "pdfPageStart": 267,
+      "pdfPageEnd": 267,
+      "printedPageStart": 262,
+      "printedPageEnd": 262,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p028",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সমীকরণ (7) হতে পাই,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 267,
+      "pdfPageEnd": 267,
+      "printedPageStart": 262,
+      "printedPageEnd": 262,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p029",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$y - y_2 = m(x - x_2) \\dots (9)$$",
+      "image": null,
+      "formulas": [
+        "y - y_2 = m(x - x_2) \\dots (9)"
+      ],
+      "pdfPageStart": 267,
+      "pdfPageEnd": 267,
+      "printedPageStart": 262,
+      "printedPageEnd": 262,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p030",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ (8) এবং (9) হতে আমরা বলতে পারি একটি সরলরেখার ঢাল $m$ হলে এবং রেখাটি নির্দিষ্ট বিন্দু $(x_1, y_1)$ বা $(x_2, y_2)$ দিয়ে অতিক্রম করলে রেখাটির কাতেরীয় সমীকরণ (8) অথবা (9) দ্বারা নির্ণয় করা যাবে। আবার (6) ও (7) সমীকরণ হতে আমরা পাই,",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "m",
+        "(x_1, y_1)",
+        "(x_2, y_2)"
+      ],
+      "pdfPageStart": 267,
+      "pdfPageEnd": 267,
+      "printedPageStart": 262,
+      "printedPageEnd": 262,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p031",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$m = \\frac{y - y_1}{x - x_1} = \\frac{y - y_2}{x - x_2} \\dots (10)$$",
+      "image": null,
+      "formulas": [
+        "m = \\frac{y - y_1}{x - x_1} = \\frac{y - y_2}{x - x_2} \\dots (10)"
+      ],
+      "pdfPageStart": 267,
+      "pdfPageEnd": 267,
+      "printedPageStart": 262,
+      "printedPageEnd": 262,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p032",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সমীকরণ (10) হতে স্পষ্টভাবে বলা যায়, একটি সরলরেখা দুটি নির্দিষ্ট বিন্দু $A(x_1, y_1)$ এবং $B(x_2, y_2)$ দিয়ে অতিক্রম করলে এর কাতেরীয় সমীকরণ হবে,",
+      "image": null,
+      "formulas": [
+        "A(x_1, y_1)",
+        "B(x_2, y_2)"
+      ],
+      "pdfPageStart": 268,
+      "pdfPageEnd": 268,
+      "printedPageStart": 263,
+      "printedPageEnd": 263,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p033",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{y - y_1}{x - x_1} = \\frac{y_1 - y_2}{x_1 - x_2}  বা  \\frac{y - y_2}{x - x_2} = \\frac{y_2 - y_1}{x_2 - x_1} \\dots (11)$$",
+      "image": null,
+      "formulas": [
+        "\\frac{y - y_1}{x - x_1} = \\frac{y_1 - y_2}{x_1 - x_2}  বা  \\frac{y - y_2}{x - x_2} = \\frac{y_2 - y_1}{x_2 - x_1} \\dots (11)"
+      ],
+      "pdfPageStart": 268,
+      "pdfPageEnd": 268,
+      "printedPageStart": 263,
+      "printedPageEnd": 263,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p034",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যেহেতু, $m = \\frac{y_1 - y_2}{x_1 - x_2} = \\frac{y_2 - y_1}{x_2 - x_1}$",
+      "image": null,
+      "formulas": [
+        "m = \\frac{y_1 - y_2}{x_1 - x_2} = \\frac{y_2 - y_1}{x_2 - x_1}"
+      ],
+      "pdfPageStart": 268,
+      "pdfPageEnd": 268,
+      "printedPageStart": 263,
+      "printedPageEnd": 263,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p035",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "উপরিউক্ত আলোচনা নিম্নের উদাহরণসমূহের সাহায্যে ব্যাখ্যা করা হলো যাতে শিক্ষার্থীরা সরলরেখার ঢাল ও সমীকরণ সহজেই বুঝতে পারে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 268,
+      "pdfPageEnd": 268,
+      "printedPageStart": 263,
+      "printedPageEnd": 263,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p036",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২০.** $A(3, 4)$ ও $B(6, 7)$ বিন্দুদ্বারা সংযোগকারী রেখার সমীকরণ নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "A(3, 4)",
+        "B(6, 7)"
+      ],
+      "pdfPageStart": 268,
+      "pdfPageEnd": 268,
+      "printedPageStart": 263,
+      "printedPageEnd": 263,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p037",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $AB$ রেখার ঢাল $m = \\frac{ওঠা}{হাঁটা} = \\frac{7 - 4}{6 - 3} = \\frac{3}{3} = 1$",
+      "image": null,
+      "formulas": [
+        "AB",
+        "m = \\frac{ওঠা}{হাঁটা} = \\frac{7 - 4}{6 - 3} = \\frac{3}{3} = 1"
+      ],
+      "pdfPageStart": 268,
+      "pdfPageEnd": 268,
+      "printedPageStart": 263,
+      "printedPageEnd": 263,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p038",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সমীকরণ (8) ব্যবহার করে $AB$ রেখার সমীকরণ, $y - 4 = 1(x - 3)$",
+      "image": null,
+      "formulas": [
+        "AB",
+        "y - 4 = 1(x - 3)"
+      ],
+      "pdfPageStart": 268,
+      "pdfPageEnd": 268,
+      "printedPageStart": 263,
+      "printedPageEnd": 263,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p039",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $y - 4 = x - 3$",
+      "image": null,
+      "formulas": [
+        "y - 4 = x - 3"
+      ],
+      "pdfPageStart": 268,
+      "pdfPageEnd": 268,
+      "printedPageStart": 263,
+      "printedPageEnd": 263,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p040",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $y = x + 1$",
+      "image": null,
+      "formulas": [
+        "y = x + 1"
+      ],
+      "pdfPageStart": 268,
+      "pdfPageEnd": 268,
+      "printedPageStart": 263,
+      "printedPageEnd": 263,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p041",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সমীকরণ (9) ব্যবহার করে $AB$ রেখার সমীকরণ, $y - 7 = 1(x - 6)$",
+      "image": null,
+      "formulas": [
+        "AB",
+        "y - 7 = 1(x - 6)"
+      ],
+      "pdfPageStart": 268,
+      "pdfPageEnd": 268,
+      "printedPageStart": 263,
+      "printedPageEnd": 263,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p042",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $y = x + 1$",
+      "image": null,
+      "formulas": [
+        "y = x + 1"
+      ],
+      "pdfPageStart": 268,
+      "pdfPageEnd": 268,
+      "printedPageStart": 263,
+      "printedPageEnd": 263,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p043",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সমীকরণ (11) ব্যবহার করে $AB$ রেখার সমীকরণ $\\frac{y - 4}{x - 3} = \\frac{4 - 7}{3 - 6}$",
+      "image": null,
+      "formulas": [
+        "AB",
+        "\\frac{y - 4}{x - 3} = \\frac{4 - 7}{3 - 6}"
+      ],
+      "pdfPageStart": 268,
+      "pdfPageEnd": 268,
+      "printedPageStart": 263,
+      "printedPageEnd": 263,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p044",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\frac{y - 4}{x - 3} = \\frac{-3}{-3} = 1$",
+      "image": null,
+      "formulas": [
+        "\\frac{y - 4}{x - 3} = \\frac{-3}{-3} = 1"
+      ],
+      "pdfPageStart": 268,
+      "pdfPageEnd": 268,
+      "printedPageStart": 263,
+      "printedPageEnd": 263,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p045",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $y - 4 = x - 3$",
+      "image": null,
+      "formulas": [
+        "y - 4 = x - 3"
+      ],
+      "pdfPageStart": 268,
+      "pdfPageEnd": 268,
+      "printedPageStart": 263,
+      "printedPageEnd": 263,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p046",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $y = x + 1$",
+      "image": null,
+      "formulas": [
+        "y = x + 1"
+      ],
+      "pdfPageStart": 268,
+      "pdfPageEnd": 268,
+      "printedPageStart": 263,
+      "printedPageEnd": 263,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p047",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "লক্ষণীয় সূত্র (8) বা (9) বা (11) যেকোনোটি ব্যবহার করে দুটি নির্দিষ্ট বিন্দুগামী রেখার সমীকরণ নির্ণয় করা যায়। শিক্ষার্থীগণ সুবিধামতো যেকোনোটি ব্যবহার করতে পারবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 268,
+      "pdfPageEnd": 268,
+      "printedPageStart": 263,
+      "printedPageEnd": 263,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p048",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২১.** একটি নির্দিষ্ট সরলরেখার ঢাল ৩ এবং রেখাটি $(-2, -3)$ বিন্দুগামী। রেখাটির সমীকরণ নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "(-2, -3)"
+      ],
+      "pdfPageStart": 268,
+      "pdfPageEnd": 268,
+      "printedPageStart": 263,
+      "printedPageEnd": 263,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p049",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** দেওয়া আছে, ঢাল $m = 3$ এবং নির্দিষ্ট বিন্দু $(x_1, y_1) = (-2, -3)$",
+      "image": null,
+      "formulas": [
+        "m = 3",
+        "(x_1, y_1) = (-2, -3)"
+      ],
+      "pdfPageStart": 268,
+      "pdfPageEnd": 268,
+      "printedPageStart": 263,
+      "printedPageEnd": 263,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p050",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ রেখাটির সমীকরণ, $y - y_1 = m(x - x_1)$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "y - y_1 = m(x - x_1)"
+      ],
+      "pdfPageStart": 268,
+      "pdfPageEnd": 268,
+      "printedPageStart": 263,
+      "printedPageEnd": 263,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p051",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $y - (-3) = 3\\{x - (-2)\\}$",
+      "image": null,
+      "formulas": [
+        "y - (-3) = 3\\{x - (-2)\\}"
+      ],
+      "pdfPageStart": 268,
+      "pdfPageEnd": 268,
+      "printedPageStart": 263,
+      "printedPageEnd": 263,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p052",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $y + 3 = 3(x + 2)$",
+      "image": null,
+      "formulas": [
+        "y + 3 = 3(x + 2)"
+      ],
+      "pdfPageStart": 268,
+      "pdfPageEnd": 268,
+      "printedPageStart": 263,
+      "printedPageEnd": 263,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p053",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $y = 3x + 3$ $\\therefore$ নির্ণয়ে সমীকরণ, $y = 3x + 3$",
+      "image": null,
+      "formulas": [
+        "y = 3x + 3",
+        "\\therefore",
+        "y = 3x + 3"
+      ],
+      "pdfPageStart": 268,
+      "pdfPageEnd": 269,
+      "printedPageStart": 263,
+      "printedPageEnd": 264,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p054",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২২.** সরলরেখা $y = 3x + 3$ একটি নির্দিষ্ট বিন্দু $P(t, 4)$ দিয়ে অতিক্রম করে। $P$ বিন্দুর স্থানাঙ্ক নির্ণয় করো। রেখাটি $x$ এবং $y$ অক্ষকে যথাক্রমে $A$ ও $B$ বিন্দুতে ছেদ করে। $A$ ও $B$ বিন্দুর স্থানাঙ্ক নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "y = 3x + 3",
+        "P(t, 4)",
+        "P",
+        "x",
+        "y",
+        "A",
+        "B",
+        "A",
+        "B"
+      ],
+      "pdfPageStart": 269,
+      "pdfPageEnd": 269,
+      "printedPageStart": 264,
+      "printedPageEnd": 264,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p055",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $P(t, 4)$ বিন্দুটি $y = 3x + 3$ রেখার উপর অবস্থিত হওয়ায় বিন্দুর স্থানাঙ্ক রেখার সমীকরণকে সিদ্ধ করবে।",
+      "image": null,
+      "formulas": [
+        "P(t, 4)",
+        "y = 3x + 3"
+      ],
+      "pdfPageStart": 269,
+      "pdfPageEnd": 269,
+      "printedPageStart": 264,
+      "printedPageEnd": 264,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p056",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং, $4 = 3 \\cdot t + 3$\nবা, $3t = 4 - 3$\nবা, $t = \\frac{1}{3}$",
+      "image": null,
+      "formulas": [
+        "4 = 3 \\cdot t + 3",
+        "3t = 4 - 3",
+        "t = \\frac{1}{3}"
+      ],
+      "pdfPageStart": 269,
+      "pdfPageEnd": 269,
+      "printedPageStart": 264,
+      "printedPageEnd": 264,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p057",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore P$ বিন্দুর স্থানাঙ্ক $P(t, 4) = P\\left(\\frac{1}{3}, 4\\right)$",
+      "image": null,
+      "formulas": [
+        "\\therefore P",
+        "P(t, 4) = P\\left(\\frac{1}{3}, 4\\right)"
+      ],
+      "pdfPageStart": 269,
+      "pdfPageEnd": 269,
+      "printedPageStart": 264,
+      "printedPageEnd": 264,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p058",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane showing line y=3x+3 with points A(-1,0) and B(0,3)",
+      "image": "p269-page_26_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 269,
+      "pdfPageEnd": 269,
+      "printedPageStart": 264,
+      "printedPageEnd": 264,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p059",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$y = 3x + 3$ রেখাটি $x$ অক্ষকে $A$ বিন্দুতে ছেদ করে। কাজেই $A$ বিন্দুর কোটি বা $y$ স্থানাঙ্ক 0 [যেহেতু $x$ অক্ষের সকল বিন্দুতে $y$ এর মান শূন্য]",
+      "image": null,
+      "formulas": [
+        "y = 3x + 3",
+        "x",
+        "A",
+        "A",
+        "y",
+        "x",
+        "y"
+      ],
+      "pdfPageStart": 269,
+      "pdfPageEnd": 269,
+      "printedPageStart": 264,
+      "printedPageEnd": 264,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p060",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং, $0 = 3x + 3$ বা, $x = -1$\n$\\therefore A$ বিন্দুর স্থানাঙ্ক $(-1, 0)$",
+      "image": null,
+      "formulas": [
+        "0 = 3x + 3",
+        "x = -1",
+        "\\therefore A",
+        "(-1, 0)"
+      ],
+      "pdfPageStart": 269,
+      "pdfPageEnd": 269,
+      "printedPageStart": 264,
+      "printedPageEnd": 264,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p061",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার, $y = 3x + 3$ রেখাটি $y$ অক্ষকে $B$ বিন্দুতে ছেদ করে। কাজেই $B$ বিন্দুর ভুজ বা $x$ স্থানাঙ্ক 0 [যেহেতু $y$ অক্ষের সকল বিন্দুতে $x$ এর মান শূন্য]",
+      "image": null,
+      "formulas": [
+        "y = 3x + 3",
+        "y",
+        "B",
+        "B",
+        "x",
+        "y",
+        "x"
+      ],
+      "pdfPageStart": 269,
+      "pdfPageEnd": 269,
+      "printedPageStart": 264,
+      "printedPageEnd": 264,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p062",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং, $y = 3 \\cdot 0 + 3$ বা, $y = 3$\n$\\therefore B$ বিন্দুর স্থানাঙ্ক $(0, 3)$",
+      "image": null,
+      "formulas": [
+        "y = 3 \\cdot 0 + 3",
+        "y = 3",
+        "\\therefore B",
+        "(0, 3)"
+      ],
+      "pdfPageStart": 269,
+      "pdfPageEnd": 269,
+      "printedPageStart": 264,
+      "printedPageEnd": 264,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p063",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন কার্তেসীয় তলে $AB$ রেখাটি অঙ্কন করি। $AB$ রেখাটি $x$ অক্ষকে $(-1, 0)$ বিন্দুতে এবং $y$ অক্ষকে $(0, 3)$ বিন্দুতে ছেদ করেছে। অর্থাৎ $x$ এর মান যখন $-1$ তখন $y = 3x + 3$ রেখাটি $x$ অক্ষকে ছেদ করেছে। আবার $y$ এর মান যখন $3$ তখন রেখাটি $y$ অক্ষকে ছেদ করেছে। সুতরাং রেখাটির $x$ ছেদক $-1$ এবং $y$ ছেদক $3$।",
+      "image": null,
+      "formulas": [
+        "AB",
+        "AB",
+        "x",
+        "(-1, 0)",
+        "y",
+        "(0, 3)",
+        "x",
+        "-1",
+        "y = 3x + 3",
+        "x",
+        "y",
+        "3",
+        "y",
+        "x",
+        "-1",
+        "y",
+        "3"
+      ],
+      "pdfPageStart": 269,
+      "pdfPageEnd": 269,
+      "printedPageStart": 264,
+      "printedPageEnd": 264,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p064",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "উল্লসিক নয় এমন সরলরেখার সাধারণ সমীকরণকে নিম্নোক্ত রূপে প্রকাশ করা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 269,
+      "pdfPageEnd": 269,
+      "printedPageStart": 264,
+      "printedPageEnd": 264,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p065",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\boxed{y = mx + c}$$",
+      "image": null,
+      "formulas": [
+        "\\boxed{y = mx + c}"
+      ],
+      "pdfPageStart": 269,
+      "pdfPageEnd": 269,
+      "printedPageStart": 264,
+      "printedPageEnd": 264,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p066",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে $m$ রেখাটির ঢাল এবং $c$ হলো $y$ অক্ষের ছেদক এবং $c > 0$ এর জন্য রেখাটি চিত্র (ক) এ দেখানো হলো।",
+      "image": null,
+      "formulas": [
+        "m",
+        "c",
+        "y",
+        "c > 0"
+      ],
+      "pdfPageStart": 269,
+      "pdfPageEnd": 269,
+      "printedPageStart": 264,
+      "printedPageEnd": 264,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p067",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার $y$ অক্ষের সমান্তরাল অর্থাৎ, $x$ অক্ষের উপর লম্ব রেখার সাধারণ সমীকরণ হলো $x = a$। একইভাবে $x$ অক্ষের সমান্তরাল অর্থাৎ, $y$ অক্ষের উপর লম্ব রেখার সাধারণ সমীকরণ হলো $y = b$ [চিত্র (ক)]।",
+      "image": null,
+      "formulas": [
+        "y",
+        "x",
+        "x = a",
+        "x",
+        "y",
+        "y = b"
+      ],
+      "pdfPageStart": 269,
+      "pdfPageEnd": 269,
+      "printedPageStart": 264,
+      "printedPageEnd": 264,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p068",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "লক্ষণীয় $c$ এর মান ধনাত্মক হওয়ায় $y = mx + c$ রেখাটি $y$ অক্ষের ধনাত্মক দিকে $c$ একক দূরে ছেদ করেছে। $m$ এর মান ধনাত্মক ($m = \\tan\\theta > 0$) হওয়ায় $y = mx + c$ রেখা দ্বারা উৎপন্ন কোণটি সূক্ষ্মকোণ। $a$ ও $b$ এর মান ধনাত্মক হওয়ায় $x = a$ রেখাটি $y$ অক্ষের ডান দিকে এবং $y = b$ রেখাটি $x$ অক্ষের উপরে দেখানো হয়েছে।",
+      "image": null,
+      "formulas": [
+        "c",
+        "y = mx + c",
+        "y",
+        "c",
+        "m",
+        "m = \\tan\\theta > 0",
+        "y = mx + c",
+        "a",
+        "b",
+        "x = a",
+        "y",
+        "y = b",
+        "x"
+      ],
+      "pdfPageStart": 270,
+      "pdfPageEnd": 270,
+      "printedPageStart": 265,
+      "printedPageEnd": 265,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p069",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$a, b$ ও $c$ এর ঋণাত্মক মানের বলায় রেখাগুলোর অবস্থান চিত্র (খ) এ দেখানো হলো।",
+      "image": null,
+      "formulas": [
+        "a, b",
+        "c"
+      ],
+      "pdfPageStart": 270,
+      "pdfPageEnd": 270,
+      "printedPageStart": 265,
+      "printedPageEnd": 265,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p070",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: Coordinate geometry diagrams (ক), (খ), and (গ) showing lines y = mx + c, x = a, and y = b in various quadrants and with different signs for m, a, b, and c.",
+      "image": "p270-page_27_chart_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 270,
+      "pdfPageEnd": 270,
+      "printedPageStart": 265,
+      "printedPageEnd": 265,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p071",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "চিত্র (ক) ও (খ) এবং উপরের আলোচনা থেকে আমরা স্পষ্ট করেই বলতে পারি $c = 0$ হলে $y = mx$ রেখাটি মূলবিন্দু $(0,0)$ দিয়ে যাবে। $a = 0$ হলে রেখাটি $y$ অক্ষ এবং $b = 0$ হলে রেখাটি $x$ অক্ষ [চিত্র (গ)]। সুতরাং $x$ অক্ষের সমীকরণ $y = 0$ এবং $y$ অক্ষের সমীকরণ $x = 0$।",
+      "image": null,
+      "formulas": [
+        "c = 0",
+        "y = mx",
+        "(0,0)",
+        "a = 0",
+        "y",
+        "b = 0",
+        "x",
+        "x",
+        "y = 0",
+        "y",
+        "x = 0"
+      ],
+      "pdfPageStart": 270,
+      "pdfPageEnd": 270,
+      "printedPageStart": 265,
+      "printedPageEnd": 265,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p072",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৩.** $y - 2x + 3 = 0$ রেখার ঢাল ও ছেদক নির্ণয় করো। কার্তেসীয় তলে রেখাটি এঁকে দেখাও।",
+      "image": null,
+      "formulas": [
+        "y - 2x + 3 = 0"
+      ],
+      "pdfPageStart": 270,
+      "pdfPageEnd": 270,
+      "printedPageStart": 265,
+      "printedPageEnd": 265,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p073",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $y - 2x + 3 = 0$",
+      "image": null,
+      "formulas": [
+        "y - 2x + 3 = 0"
+      ],
+      "pdfPageStart": 270,
+      "pdfPageEnd": 270,
+      "printedPageStart": 265,
+      "printedPageEnd": 265,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p074",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $y = 2x - 3$ [$y = mx + c$ আকার]",
+      "image": null,
+      "formulas": [
+        "y = 2x - 3",
+        "y = mx + c"
+      ],
+      "pdfPageStart": 270,
+      "pdfPageEnd": 270,
+      "printedPageStart": 265,
+      "printedPageEnd": 265,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p075",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ ঢাল, $m = 2$ এবং $y$ অক্ষের ছেদক, $c = -3$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "m = 2",
+        "y",
+        "c = -3"
+      ],
+      "pdfPageStart": 270,
+      "pdfPageEnd": 270,
+      "printedPageStart": 265,
+      "printedPageEnd": 265,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p076",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন রেখাটি $x$ ও $y$ অক্ষকে $A$ ও $B$ বিন্দুতে ছেদ করলে,",
+      "image": null,
+      "formulas": [
+        "x",
+        "y",
+        "A",
+        "B"
+      ],
+      "pdfPageStart": 270,
+      "pdfPageEnd": 270,
+      "printedPageStart": 265,
+      "printedPageEnd": 265,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p077",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$A$ বিন্দুর স্থানাঙ্ক $\\left(\\frac{3}{2}, 0\\right)$ [$x$ অক্ষে $y = 0$ বসিয়ে $x = \\frac{3}{2}$]",
+      "image": null,
+      "formulas": [
+        "A",
+        "\\left(\\frac{3}{2}, 0\\right)",
+        "x",
+        "y = 0",
+        "x = \\frac{3}{2}"
+      ],
+      "pdfPageStart": 270,
+      "pdfPageEnd": 270,
+      "printedPageStart": 265,
+      "printedPageEnd": 265,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p078",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এবং $B$ বিন্দুর স্থানাঙ্ক $(0, -3)$ [$y$ অক্ষে $x = 0$ বসিয়ে $y = -3$]",
+      "image": null,
+      "formulas": [
+        "B",
+        "(0, -3)",
+        "y",
+        "x = 0",
+        "y = -3"
+      ],
+      "pdfPageStart": 270,
+      "pdfPageEnd": 270,
+      "printedPageStart": 265,
+      "printedPageEnd": 265,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p079",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কার্তেসীয় তলে রেখাটি এঁকে দেখানো হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 270,
+      "pdfPageEnd": 270,
+      "printedPageStart": 265,
+      "printedPageEnd": 265,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p080",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: Coordinate plane showing the line y = 2x - 3 with intercepts A(3/2, 0) and B(0, -3)",
+      "image": "p270-page_27_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 270,
+      "pdfPageEnd": 270,
+      "printedPageStart": 265,
+      "printedPageEnd": 265,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p081",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৪.** $A(-1, 3)$ এবং $B(5, 15)$ বিন্দুদ্বয়ের সংযোগ রেখা $x$ ও $y$ অক্ষকে যথাক্রমে $P$ ও $Q$ বিন্দুতে ছেদ করে। $PQ$ রেখার সমীকরণ নির্ণয় করো এবং $PQ$ এর দৈর্ঘ্য নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "A(-1, 3)",
+        "B(5, 15)",
+        "x",
+        "y",
+        "P",
+        "Q",
+        "PQ",
+        "PQ"
+      ],
+      "pdfPageStart": 270,
+      "pdfPageEnd": 270,
+      "printedPageStart": 265,
+      "printedPageEnd": 265,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p082",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $AB$ রেখার সমীকরণ, $\\frac{y - 3}{x + 1} = \\frac{3 - 15}{-1 - 5}$\n$= \\frac{-12}{-6} = 2$",
+      "image": null,
+      "formulas": [
+        "AB",
+        "\\frac{y - 3}{x + 1} = \\frac{3 - 15}{-1 - 5}",
+        "= \\frac{-12}{-6} = 2"
+      ],
+      "pdfPageStart": 271,
+      "pdfPageEnd": 271,
+      "printedPageStart": 266,
+      "printedPageEnd": 266,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p083",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $y - 3 = 2x + 2$",
+      "image": null,
+      "formulas": [
+        "y - 3 = 2x + 2"
+      ],
+      "pdfPageStart": 271,
+      "pdfPageEnd": 271,
+      "printedPageStart": 266,
+      "printedPageEnd": 266,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p084",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $y = 2x + 5$ ...(1)",
+      "image": null,
+      "formulas": [
+        "y = 2x + 5"
+      ],
+      "pdfPageStart": 271,
+      "pdfPageEnd": 271,
+      "printedPageStart": 266,
+      "printedPageEnd": 266,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p085",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(1) হতে $P$ বিন্দুর স্থানাঙ্ক $\\left(-\\frac{5}{2}, 0\\right)$ এবং $Q$ বিন্দুর স্থানাঙ্ক $(0, 5)$",
+      "image": null,
+      "formulas": [
+        "P",
+        "\\left(-\\frac{5}{2}, 0\\right)",
+        "Q",
+        "(0, 5)"
+      ],
+      "pdfPageStart": 271,
+      "pdfPageEnd": 271,
+      "printedPageStart": 266,
+      "printedPageEnd": 266,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p086",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore PQ$ রেখার সমীকরণ, $\\frac{y - 0}{x + \\frac{5}{2}} = \\frac{0 - 5}{-\\frac{5}{2} - 0}$",
+      "image": null,
+      "formulas": [
+        "\\therefore PQ",
+        "\\frac{y - 0}{x + \\frac{5}{2}} = \\frac{0 - 5}{-\\frac{5}{2} - 0}"
+      ],
+      "pdfPageStart": 271,
+      "pdfPageEnd": 271,
+      "printedPageStart": 266,
+      "printedPageEnd": 266,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p087",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\frac{2y}{2x + 5} = \\frac{10}{5} = \\frac{2}{1}$",
+      "image": null,
+      "formulas": [
+        "\\frac{2y}{2x + 5} = \\frac{10}{5} = \\frac{2}{1}"
+      ],
+      "pdfPageStart": 271,
+      "pdfPageEnd": 271,
+      "printedPageStart": 266,
+      "printedPageEnd": 266,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p088",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $2y = 4x + 10$",
+      "image": null,
+      "formulas": [
+        "2y = 4x + 10"
+      ],
+      "pdfPageStart": 271,
+      "pdfPageEnd": 271,
+      "printedPageStart": 266,
+      "printedPageEnd": 266,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p089",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $y = 2x + 5$",
+      "image": null,
+      "formulas": [
+        "y = 2x + 5"
+      ],
+      "pdfPageStart": 271,
+      "pdfPageEnd": 271,
+      "printedPageStart": 266,
+      "printedPageEnd": 266,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p090",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A Cartesian coordinate plane showing a line passing through points P(-5/2, 0), A(-1, 3), Q(0, 5), and B(5, 15). The axes are labeled X and Y, with the origin O.",
+      "image": "p271-page_28_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 271,
+      "pdfPageEnd": 271,
+      "printedPageStart": 266,
+      "printedPageEnd": 266,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p091",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:** $AB$ এবং $PQ$ একই সরলরেখা।",
+      "image": null,
+      "formulas": [
+        "AB",
+        "PQ"
+      ],
+      "pdfPageStart": 271,
+      "pdfPageEnd": 271,
+      "printedPageStart": 266,
+      "printedPageEnd": 266,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p092",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$PQ$ এর দৈর্ঘ্য $= \\sqrt{\\left(-\\frac{5}{2} - 0\\right)^2 + (0 - 5)^2}$\n$= \\sqrt{\\frac{25}{4} + 25} = \\sqrt{\\frac{125}{4}} = \\frac{5\\sqrt{5}}{2}$ একক।",
+      "image": null,
+      "formulas": [
+        "PQ",
+        "= \\sqrt{\\left(-\\frac{5}{2} - 0\\right)^2 + (0 - 5)^2}",
+        "= \\sqrt{\\frac{25}{4} + 25} = \\sqrt{\\frac{125}{4}} = \\frac{5\\sqrt{5}}{2}"
+      ],
+      "pdfPageStart": 271,
+      "pdfPageEnd": 271,
+      "printedPageStart": 266,
+      "printedPageEnd": 266,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p093",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৫.** $A(3, 4)$, $B(-4, 2)$, $C(6, -1)$ এবং $D(k, 3)$ বিন্দু চারটি ঘড়ির কাঁটার বিপরীত দিকে আবর্তিত।",
+      "image": null,
+      "formulas": [
+        "A(3, 4)",
+        "B(-4, 2)",
+        "C(6, -1)",
+        "D(k, 3)"
+      ],
+      "pdfPageStart": 271,
+      "pdfPageEnd": 271,
+      "printedPageStart": 266,
+      "printedPageEnd": 266,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p094",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) দেখাও যে, $A$ ও $B$ বিন্দুর সংযোগ সরলরেখা $x$ অক্ষের সাথে সূক্ষ্মকোণ উৎপন্ন করে।",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "x"
+      ],
+      "pdfPageStart": 271,
+      "pdfPageEnd": 271,
+      "printedPageStart": 266,
+      "printedPageEnd": 266,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p095",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $P(x, y)$ বিন্দুটি $A$ ও $B$ থেকে সমদূরবর্তী হলে, দেখাও যে, $14x + 4y = 5$",
+      "image": null,
+      "formulas": [
+        "P(x, y)",
+        "A",
+        "B",
+        "14x + 4y = 5"
+      ],
+      "pdfPageStart": 271,
+      "pdfPageEnd": 271,
+      "printedPageStart": 266,
+      "printedPageEnd": 266,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p096",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $ABCD$ চতুর্ভুজক্ষেত্রের ক্ষেত্রফল $\\triangle ABC$ এর ক্ষেত্রফলের তিনগুণ হলে $k$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "ABCD",
+        "\\triangle ABC",
+        "k"
+      ],
+      "pdfPageStart": 271,
+      "pdfPageEnd": 271,
+      "printedPageStart": 266,
+      "printedPageEnd": 266,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p097",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 271,
+      "pdfPageEnd": 271,
+      "printedPageStart": 266,
+      "printedPageEnd": 266,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p098",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $AB$ রেখার ঢাল $m$ হলে,",
+      "image": null,
+      "formulas": [
+        "AB",
+        "m"
+      ],
+      "pdfPageStart": 271,
+      "pdfPageEnd": 271,
+      "printedPageStart": 266,
+      "printedPageEnd": 266,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p099",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$m = \\frac{2 - 4}{-4 - 3} = \\frac{-2}{-7} = \\frac{2}{7}$$",
+      "image": null,
+      "formulas": [
+        "m = \\frac{2 - 4}{-4 - 3} = \\frac{-2}{-7} = \\frac{2}{7}"
+      ],
+      "pdfPageStart": 271,
+      "pdfPageEnd": 271,
+      "printedPageStart": 266,
+      "printedPageEnd": 266,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p100",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "চাল ধনাত্মক হওয়ায় রেখাটি $x$ অক্ষের ধনাত্মক দিকের সাথে সূক্ষ্মকোণ উৎপন্ন করে।",
+      "image": null,
+      "formulas": [
+        "x"
+      ],
+      "pdfPageStart": 272,
+      "pdfPageEnd": 272,
+      "printedPageStart": 267,
+      "printedPageEnd": 267,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p101",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $PA = \\sqrt{(x - 3)^2 + (y - 4)^2}$ এবং $PB = \\sqrt{(x + 4)^2 + (y - 2)^2}$",
+      "image": null,
+      "formulas": [
+        "PA = \\sqrt{(x - 3)^2 + (y - 4)^2}",
+        "PB = \\sqrt{(x + 4)^2 + (y - 2)^2}"
+      ],
+      "pdfPageStart": 272,
+      "pdfPageEnd": 272,
+      "printedPageStart": 267,
+      "printedPageEnd": 267,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p102",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$P$ বিন্দু $A$ ও $B$ বিন্দু থেকে সমদূরবর্তী হওয়ায় $PA = PB$",
+      "image": null,
+      "formulas": [
+        "P",
+        "A",
+        "B",
+        "PA = PB"
+      ],
+      "pdfPageStart": 272,
+      "pdfPageEnd": 272,
+      "printedPageStart": 267,
+      "printedPageEnd": 267,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p103",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\sqrt{(x - 3)^2 + (y - 4)^2} = \\sqrt{(x + 4)^2 + (y - 2)^2}$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\sqrt{(x - 3)^2 + (y - 4)^2} = \\sqrt{(x + 4)^2 + (y - 2)^2}"
+      ],
+      "pdfPageStart": 272,
+      "pdfPageEnd": 272,
+      "printedPageStart": 267,
+      "printedPageEnd": 267,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p104",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x^2 - 6x + 9 + y^2 - 8y + 16 = x^2 + 8x + 16 + y^2 - 4y + 4$",
+      "image": null,
+      "formulas": [
+        "x^2 - 6x + 9 + y^2 - 8y + 16 = x^2 + 8x + 16 + y^2 - 4y + 4"
+      ],
+      "pdfPageStart": 272,
+      "pdfPageEnd": 272,
+      "printedPageStart": 267,
+      "printedPageEnd": 267,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p105",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $-6x - 8y - 8x + 4y = 20 - 25$",
+      "image": null,
+      "formulas": [
+        "-6x - 8y - 8x + 4y = 20 - 25"
+      ],
+      "pdfPageStart": 272,
+      "pdfPageEnd": 272,
+      "printedPageStart": 267,
+      "printedPageEnd": 267,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p106",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $-14x - 4y = -5$",
+      "image": null,
+      "formulas": [
+        "-14x - 4y = -5"
+      ],
+      "pdfPageStart": 272,
+      "pdfPageEnd": 272,
+      "printedPageStart": 267,
+      "printedPageEnd": 267,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p107",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore 14x + 4y = 5$",
+      "image": null,
+      "formulas": [
+        "\\therefore 14x + 4y = 5"
+      ],
+      "pdfPageStart": 272,
+      "pdfPageEnd": 272,
+      "printedPageStart": 267,
+      "printedPageEnd": 267,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p108",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $ABCD$ চতুর্ভুজ ক্ষেত্রের ক্ষেত্রফল $= \\frac{1}{2} \\begin{vmatrix} 3 & -4 & 6 & k & 3 \\\\ 4 & 2 & -1 & 3 & 4 \\end{vmatrix}$",
+      "image": null,
+      "formulas": [
+        "ABCD",
+        "= \\frac{1}{2} \\begin{vmatrix} 3 & -4 & 6 & k & 3 \\\\ 4 & 2 & -1 & 3 & 4 \\end{vmatrix}"
+      ],
+      "pdfPageStart": 272,
+      "pdfPageEnd": 272,
+      "printedPageStart": 267,
+      "printedPageEnd": 267,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p109",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$= \\frac{1}{2} \\{6 + 4 + 18 + 4k - (-16 + 12 - k + 9)\\} = \\frac{1}{2}(28 + 4k - 5 + k) = \\frac{1}{2}(23 + 5k)$",
+      "image": null,
+      "formulas": [
+        "= \\frac{1}{2} \\{6 + 4 + 18 + 4k - (-16 + 12 - k + 9)\\} = \\frac{1}{2}(28 + 4k - 5 + k) = \\frac{1}{2}(23 + 5k)"
+      ],
+      "pdfPageStart": 272,
+      "pdfPageEnd": 272,
+      "printedPageStart": 267,
+      "printedPageEnd": 267,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p110",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$ABC$ ত্রিভুজ ক্ষেত্রের ক্ষেত্রফল $= \\frac{1}{2} \\begin{vmatrix} 3 & -4 & 6 & 3 \\\\ 4 & 2 & -1 & 4 \\end{vmatrix}$",
+      "image": null,
+      "formulas": [
+        "ABC",
+        "= \\frac{1}{2} \\begin{vmatrix} 3 & -4 & 6 & 3 \\\\ 4 & 2 & -1 & 4 \\end{vmatrix}"
+      ],
+      "pdfPageStart": 272,
+      "pdfPageEnd": 272,
+      "printedPageStart": 267,
+      "printedPageEnd": 267,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p111",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$= \\frac{1}{2} \\{6 + 4 + 24 - (-16 + 12 - 3)\\} = \\frac{41}{2}$",
+      "image": null,
+      "formulas": [
+        "= \\frac{1}{2} \\{6 + 4 + 24 - (-16 + 12 - 3)\\} = \\frac{41}{2}"
+      ],
+      "pdfPageStart": 272,
+      "pdfPageEnd": 272,
+      "printedPageStart": 267,
+      "printedPageEnd": 267,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p112",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "শর্তমতে, $\\frac{1}{2}(23 + 5k) = 3 \\times \\frac{41}{2}$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{2}(23 + 5k) = 3 \\times \\frac{41}{2}"
+      ],
+      "pdfPageStart": 272,
+      "pdfPageEnd": 272,
+      "printedPageStart": 267,
+      "printedPageEnd": 267,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p113",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $23 + 5k = 123$",
+      "image": null,
+      "formulas": [
+        "23 + 5k = 123"
+      ],
+      "pdfPageStart": 272,
+      "pdfPageEnd": 272,
+      "printedPageStart": 267,
+      "printedPageEnd": 267,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p114",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $5k = 100$ বা, $k = 20$",
+      "image": null,
+      "formulas": [
+        "5k = 100",
+        "k = 20"
+      ],
+      "pdfPageStart": 272,
+      "pdfPageEnd": 272,
+      "printedPageStart": 267,
+      "printedPageEnd": 267,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.9-p115",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore k = 20$",
+      "image": null,
+      "formulas": [
+        "\\therefore k = 20"
+      ],
+      "pdfPageStart": 272,
+      "pdfPageEnd": 272,
+      "printedPageStart": 267,
+      "printedPageEnd": 267,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

@@ -1,0 +1,470 @@
+{
+  "id": "higher-math-9-10-bn-c09-t9.8",
+  "key": "9.8",
+  "title": "সারণি ৩",
+  "chapter": 9,
+  "ordinal": 9,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c09-t9.8-p001",
+      "kind": "table",
+      "section": null,
+      "caption": null,
+      "body": "<table><tr><th><em>x</em></th><th>0</th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th><th>6</th><th>7</th><th>8</th><th>9</th><th>10</th></tr>\n<tr><th><em>x</em></th><th>1</th><th>2</th><th>4</th><th>8</th><th>16</th><th>32</th><th>64</th><th>128</th><th>256</th><th>512</th><th>1024</th></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 217,
+      "pdfPageEnd": 217,
+      "printedPageStart": 212,
+      "printedPageEnd": 212,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.8-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সারণি ১ এ বর্ণিত $x$ এর ভিন্ন ভিন্ন মানের জন্য $y$ এর মানগুলোর অন্তর সমান যা দ্বারা $y = 2x$ ফাংশানটি বর্ণিত হয়েছে। এটা একটি সরলরেখার সমীকরণ।",
+      "image": null,
+      "formulas": [
+        "x",
+        "y",
+        "y = 2x"
+      ],
+      "pdfPageStart": 217,
+      "pdfPageEnd": 217,
+      "printedPageStart": 212,
+      "printedPageEnd": 212,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.8-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সারণি ২ এ বর্ণিত $(x,y)$ ক্রমজোড়ের মানগুলো দ্বারা দ্বিঘাত সমীকরণ $y = x^2$ ফাংশানটি বর্ণিত হয়েছে।",
+      "image": null,
+      "formulas": [
+        "(x,y)",
+        "y = x^2"
+      ],
+      "pdfPageStart": 217,
+      "pdfPageEnd": 217,
+      "printedPageStart": 212,
+      "printedPageEnd": 212,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.8-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সারণি ৩ এ বর্ণিত $(x,y)$ ক্রমজোড়ের মানগুলো $y = 2^x$ দ্বারা বর্ণনা করা যায়। এখানে ২ একটি নির্দিষ্ট বাস্তব সংখ্যা এবং $x$ এর ভিন্ন ভিন্ন মানের জন্য $y$ এর বর্ণিত মানগুলো পাওয়া যায়।",
+      "image": null,
+      "formulas": [
+        "(x,y)",
+        "y = 2^x",
+        "x",
+        "y"
+      ],
+      "pdfPageStart": 217,
+      "pdfPageEnd": 217,
+      "printedPageStart": 212,
+      "printedPageEnd": 212,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.8-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সূচক ফাংশন $f(x) = a^x$ সকল বাস্তব সংখ্যা $x$ এর জন্য সংজ্ঞায়িত, যেখানে $a > 0$ এবং $a \\neq 1$। যেমন $y = 2^x, 10^x, x^x, e^x$ ইত্যাদি সূচক ফাংশান।",
+      "image": null,
+      "formulas": [
+        "f(x) = a^x",
+        "x",
+        "a > 0",
+        "a \\neq 1",
+        "y = 2^x, 10^x, x^x, e^x"
+      ],
+      "pdfPageStart": 217,
+      "pdfPageEnd": 217,
+      "printedPageStart": 212,
+      "printedPageEnd": 212,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.8-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**দ্রষ্টব্য:** সূচক ফাংশন $f(x) = a^x$ এর ডোমেন $(-\\infty, \\infty)$ এবং রেঞ্জ $= (0, \\infty)$",
+      "image": null,
+      "formulas": [
+        "f(x) = a^x",
+        "(-\\infty, \\infty)",
+        "= (0, \\infty)"
+      ],
+      "pdfPageStart": 217,
+      "pdfPageEnd": 217,
+      "printedPageStart": 212,
+      "printedPageEnd": 212,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.8-p007",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "ক) নিচের ছকে বর্ণিত সূচক ফাংশান লেখো:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 217,
+      "pdfPageEnd": 217,
+      "printedPageStart": 212,
+      "printedPageEnd": 212,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.8-p008",
+      "kind": "table",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "<table><tr><th><em>x</em></th><th>-2</th><th>-1</th><th>0</th><th>1</th><th>2</th></tr>\n<tr><th><em>y</em></th><th>1/4</th><th>1/2</th><th>1</th><th>2</th><th>4</th></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 217,
+      "pdfPageEnd": 217,
+      "printedPageStart": 212,
+      "printedPageEnd": 212,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.8-p009",
+      "kind": "table",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "<table><tr><th><em>x</em></th><th>-1</th><th>0</th><th>1</th><th>2</th><th>3</th></tr>\n<tr><th><em>y</em></th><th>-3</th><th>0</th><th>3</th><th>6</th><th>9</th></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 217,
+      "pdfPageEnd": 217,
+      "printedPageStart": 212,
+      "printedPageEnd": 212,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.8-p010",
+      "kind": "table",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "<table><tr><th><em>x</em></th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>\n<tr><th><em>y</em></th><th>4</th><th>16</th><th>64</th><th>256</th><th>1024</th></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 217,
+      "pdfPageEnd": 217,
+      "printedPageStart": 212,
+      "printedPageEnd": 212,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.8-p011",
+      "kind": "table",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "<table><tr><th><em>x</em></th><th>-3</th><th>-2</th><th>-1</th><th>0</th><th>1</th></tr>\n<tr><th><em>y</em></th><th>0</th><th>1</th><th>2</th><th>3</th><th>4</th></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 217,
+      "pdfPageEnd": 217,
+      "printedPageStart": 212,
+      "printedPageEnd": 212,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.8-p012",
+      "kind": "table",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "<table><tr><th><em>x</em></th><th>-2</th><th>-1</th><th>0</th><th>1</th><th>2</th></tr>\n<tr><th><em>y</em></th><th>1/25</th><th>1/5</th><th>1</th><th>5</th><th>25</th></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 217,
+      "pdfPageEnd": 217,
+      "printedPageStart": 212,
+      "printedPageEnd": 212,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.8-p013",
+      "kind": "table",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "<table><tr><th><em>x</em></th><th>1</th><th>2</th><th>3</th><th>4</th><th>5</th></tr>\n<tr><th><em>y</em></th><th>5</th><th>10</th><th>15</th><th>20</th><th>25</th></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 217,
+      "pdfPageEnd": 217,
+      "printedPageStart": 212,
+      "printedPageEnd": 212,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.8-p014",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "খ) নিচের কোনটি সূচক ফাংশান নির্দেশ করে:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 217,
+      "pdfPageEnd": 217,
+      "printedPageStart": 212,
+      "printedPageEnd": 212,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.8-p015",
+      "kind": "table",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "<table><tr><td>(১) $y = -3^x$</td><td>(২) $y = 3x$</td><td>(৩) $y = -2x - 3$</td></tr>\n<tr><td>(৪) $y = 5 - x$</td><td>(৫) $y = x^2 + 1$</td><td>(৬) $y = 3x^2$</td></tr></table>",
+      "image": null,
+      "formulas": [
+        "y = -3^x",
+        "y = 3x",
+        "y = -2x - 3",
+        "y = 5 - x",
+        "y = x^2 + 1",
+        "y = 3x^2"
+      ],
+      "pdfPageStart": 217,
+      "pdfPageEnd": 217,
+      "printedPageStart": 212,
+      "printedPageEnd": 212,
+      "reviewReasons": [
+        "verify-formula",
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.8-p016",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "$f(x) = 2^x$ এর লেখচিত্র অঙ্কন",
+      "image": null,
+      "formulas": [
+        "f(x) = 2^x"
+      ],
+      "pdfPageStart": 218,
+      "pdfPageEnd": 218,
+      "printedPageStart": 213,
+      "printedPageEnd": 213,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.8-p017",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "$y = 2^x$ ধরে $x$ এর কয়েকটি মানের জন্য $y$ এর সংশ্লিষ্ট মানগুলোর তালিকা প্রস্তুত করি।",
+      "image": null,
+      "formulas": [
+        "y = 2^x",
+        "x",
+        "y"
+      ],
+      "pdfPageStart": 218,
+      "pdfPageEnd": 218,
+      "printedPageStart": 213,
+      "printedPageEnd": 213,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.8-p018",
+      "kind": "table",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "<table><tr><th><em>x</em></th><th>-3</th><th>-2</th><th>-1</th><th>0</th><th>1</th><th>2</th></tr>\n<tr><td><em>y</em></td><td><sup>1</sup>/<sub>8</sub></td><td><sup>1</sup>/<sub>4</sub></td><td><sup>1</sup>/<sub>2</sub></td><td>1</td><td>2</td><td>4</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 218,
+      "pdfPageEnd": 218,
+      "printedPageStart": 213,
+      "printedPageEnd": 213,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.8-p019",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "ছক কাগজে $(x, y)$ এর মানগুলো স্থাপন করলে পাশের লেখচিত্র পাওয়া যায়।",
+      "image": null,
+      "formulas": [
+        "(x, y)"
+      ],
+      "pdfPageStart": 218,
+      "pdfPageEnd": 218,
+      "printedPageStart": 213,
+      "printedPageEnd": 213,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.8-p020",
+      "kind": "figure",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "drawing: coordinate plane graph of exponential function",
+      "image": "p218-page_21_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 218,
+      "pdfPageEnd": 218,
+      "printedPageStart": 213,
+      "printedPageEnd": 213,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.8-p021",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "চিত্র লক্ষ্য করি:\n(i) $x$ ঋণাত্মক এবং $|x|$ যথেষ্ট বড়ো হলে $y$ এর মান 0 (শূন্য) এর কাছাকাছি হয় যদিও কখনো শূন্য হয় না অর্থাৎ, $x \\to -\\infty$ হলে $y \\to 0$ হয়\n(ii) $x$ ধনাত্মক এবং $x$ যথেষ্ট বড়ো হলে $y$ এর মান যথেষ্ট বড়ো হয়। অর্থাৎ $x \\to \\infty$ হলে $y \\to \\infty$।",
+      "image": null,
+      "formulas": [
+        "x",
+        "|x|",
+        "y",
+        "x \\to -\\infty",
+        "y \\to 0",
+        "x",
+        "x",
+        "y",
+        "x \\to \\infty",
+        "y \\to \\infty"
+      ],
+      "pdfPageStart": 218,
+      "pdfPageEnd": 218,
+      "printedPageStart": 213,
+      "printedPageEnd": 213,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.8-p022",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "এ থেকে বুঝা যায় $f(x) = 2^x$ ফাংশনের রেঞ্জ $(0, \\infty)$।",
+      "image": null,
+      "formulas": [
+        "f(x) = 2^x",
+        "(0, \\infty)"
+      ],
+      "pdfPageStart": 218,
+      "pdfPageEnd": 218,
+      "printedPageStart": 213,
+      "printedPageEnd": 213,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.8-p023",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "**কাজ:** লেখচিত্র অঙ্কন করো, যেখানে $-3 \\le x \\le 3$",
+      "image": null,
+      "formulas": [
+        "-3 \\le x \\le 3"
+      ],
+      "pdfPageStart": 218,
+      "pdfPageEnd": 218,
+      "printedPageStart": 213,
+      "printedPageEnd": 213,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.8-p024",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "ক) $y = 2^{-x}$\nখ) $y = 4^x$\nগ) $y = 2^{\\frac{x}{2}}$\nঘ) $y = \\left(\\frac{3}{2}\\right)^x$",
+      "image": null,
+      "formulas": [
+        "y = 2^{-x}",
+        "y = 4^x",
+        "y = 2^{\\frac{x}{2}}",
+        "y = \\left(\\frac{3}{2}\\right)^x"
+      ],
+      "pdfPageStart": 218,
+      "pdfPageEnd": 218,
+      "printedPageStart": 213,
+      "printedPageEnd": 213,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

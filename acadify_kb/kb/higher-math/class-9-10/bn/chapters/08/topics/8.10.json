@@ -1,0 +1,104 @@
+{
+  "id": "higher-math-9-10-bn-c08-t8.10",
+  "key": "8.10",
+  "title": "৮. সমাধান করো: (যখন $0 < \\theta < \\frac{\\pi}{2}$)",
+  "chapter": 8,
+  "ordinal": 11,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c08-t8.10-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $2 \\cos^2 \\theta = 1 + 2 \\sin^2 \\theta$",
+      "image": null,
+      "formulas": [
+        "2 \\cos^2 \\theta = 1 + 2 \\sin^2 \\theta"
+      ],
+      "pdfPageStart": 195,
+      "pdfPageEnd": 195,
+      "printedPageStart": 190,
+      "printedPageEnd": 190,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.10-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $6 \\sin^2 \\theta - 11 \\sin \\theta + 4 = 0$",
+      "image": null,
+      "formulas": [
+        "6 \\sin^2 \\theta - 11 \\sin \\theta + 4 = 0"
+      ],
+      "pdfPageStart": 195,
+      "pdfPageEnd": 195,
+      "printedPageStart": 190,
+      "printedPageEnd": 190,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.10-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঙ) $2 \\sin^2 \\theta + 3 \\cos \\theta = 3$",
+      "image": null,
+      "formulas": [
+        "2 \\sin^2 \\theta + 3 \\cos \\theta = 3"
+      ],
+      "pdfPageStart": 195,
+      "pdfPageEnd": 195,
+      "printedPageStart": 190,
+      "printedPageEnd": 190,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.10-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $2 \\sin^2 \\theta - 3 \\cos \\theta = 0$",
+      "image": null,
+      "formulas": [
+        "2 \\sin^2 \\theta - 3 \\cos \\theta = 0"
+      ],
+      "pdfPageStart": 195,
+      "pdfPageEnd": 195,
+      "printedPageStart": 190,
+      "printedPageEnd": 190,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.10-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঘ) $\\tan \\theta + \\cot \\theta = \\frac{4}{\\sqrt{3}}$",
+      "image": null,
+      "formulas": [
+        "\\tan \\theta + \\cot \\theta = \\frac{4}{\\sqrt{3}}"
+      ],
+      "pdfPageStart": 195,
+      "pdfPageEnd": 195,
+      "printedPageStart": 190,
+      "printedPageEnd": 190,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

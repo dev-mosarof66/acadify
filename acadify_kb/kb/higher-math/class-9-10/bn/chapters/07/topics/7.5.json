@@ -1,0 +1,625 @@
+{
+  "id": "higher-math-9-10-bn-c07-t7.5",
+  "key": "7.5",
+  "title": "অসীম গুণোত্তর ধারার সমষ্টি (Sum of Infinite Geometric Series)",
+  "chapter": 7,
+  "ordinal": 5,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$a + ar + ar^2 + ar^3 + \\dots$ গুণোত্তর ধারাটির প্রথম পদ $a$ এবং সাধারণ অনুপাত $r$।",
+      "image": null,
+      "formulas": [
+        "a + ar + ar^2 + ar^3 + \\dots",
+        "a",
+        "r"
+      ],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং, ধারাটির $n$ তম পদ $= ar^{n-1}$, যেখানে $n \\in N$।",
+      "image": null,
+      "formulas": [
+        "n",
+        "= ar^{n-1}",
+        "n \\in N"
+      ],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এবার, $r \\neq 1$ হলে ধারাটির $n$ তম আংশিক সমষ্টি",
+      "image": null,
+      "formulas": [
+        "r \\neq 1",
+        "n"
+      ],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p004",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$S_n = a + ar + ar^2 + ar^3 + \\dots + ar^{n-1}$$",
+      "image": null,
+      "formulas": [
+        "S_n = a + ar + ar^2 + ar^3 + \\dots + ar^{n-1}"
+      ],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p005",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$S_n = a \\cdot \\frac{r^n - 1}{r - 1} \\quad যখন  r > 1  এবং  S_n = a \\cdot \\frac{1 - r^n}{1 - r}, \\quad যখন  r < 1$$",
+      "image": null,
+      "formulas": [
+        "S_n = a \\cdot \\frac{r^n - 1}{r - 1} \\quad যখন  r > 1  এবং  S_n = a \\cdot \\frac{1 - r^n}{1 - r}, \\quad যখন  r < 1"
+      ],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**লক্ষ্য করি:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $|r| < 1$ হলে, অর্থাৎ, $-1 < r < 1$ হলে, $n$ এর মান বৃদ্ধি করলে ($n \\to \\infty$ হলে) $|r^n|$ এর মান হ্রাস পায় এবং $n$ এর মান যথেষ্ট বড়ো করলে $|r^n|$ এর মান ০ এর কাছাকাছি হয়। অর্থাৎ $|r^n|$ এর প্রান্তীয় মান (Limiting value) ০ হয়।",
+      "image": null,
+      "formulas": [
+        "|r| < 1",
+        "-1 < r < 1",
+        "n",
+        "n \\to \\infty",
+        "|r^n|",
+        "n",
+        "|r^n|",
+        "|r^n|"
+      ],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ফলে $S_n$ এর প্রান্তীয় মান $S_n = \\frac{a(1 - r^n)}{1 - r} = \\frac{a}{1 - r} - \\frac{ar^n}{1 - r} = \\frac{a}{1 - r}$",
+      "image": null,
+      "formulas": [
+        "S_n",
+        "S_n = \\frac{a(1 - r^n)}{1 - r} = \\frac{a}{1 - r} - \\frac{ar^n}{1 - r} = \\frac{a}{1 - r}"
+      ],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এক্ষেত্রে, অসীম ধারাটির সমষ্টি $S_\\infty = \\frac{a}{1 - r}$",
+      "image": null,
+      "formulas": [
+        "S_\\infty = \\frac{a}{1 - r}"
+      ],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $|r| > 1$ হলে, অর্থাৎ $r > 1$ অথবা $r < -1$ হলে, $n$ এর মান বৃদ্ধি করলে $|r^n|$ এর মান বৃদ্ধি পায় এবং $n$ কে যথেষ্ট বড়ো করে $|r^n|$ এর মান যথেষ্ট বড়ো করা যায়। সুতরাং এমন কোন নির্দিষ্ট সংখ্যা $S$ পাওয়া যায় না, যাকে $S_n$ এর প্রান্তীয় মান ধরা যায়।",
+      "image": null,
+      "formulas": [
+        "|r| > 1",
+        "r > 1",
+        "r < -1",
+        "n",
+        "|r^n|",
+        "n",
+        "|r^n|",
+        "S",
+        "S_n"
+      ],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ, এক্ষেত্রে অসীম ধারাটির কোনো সমষ্টি নেই।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $r = -1$ হলে, $S_n$ এর প্রান্তীয় মান পাওয়া যায় না। কেননা, $n$ জোড় সংখ্যা হলে $(-1)^n = 1$ এবং $n$ বিজোড় সংখ্যা হলে $(-1)^n = -1$। এক্ষেত্রে ধারাটি হবে, $a - a + a - a + a - a + \\dots$।",
+      "image": null,
+      "formulas": [
+        "r = -1",
+        "S_n",
+        "n",
+        "(-1)^n = 1",
+        "n",
+        "(-1)^n = -1",
+        "a - a + a - a + a - a + \\dots"
+      ],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং, এই অসীম ধারাটির কোনো সমষ্টি নেই।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঘ) $r = 1$ হলেও $S_n$ এর প্রান্তীয় মান পাওয়া যায় না। কেননা তখন ধারাটি হবে $a + a + a + a + \\dots$ ($n$ সংখ্যক)। অর্থাৎ $S_n = na$ যা $n$ এর মান বাড়িয়ে যথেষ্ট বড় করা যায়।",
+      "image": null,
+      "formulas": [
+        "r = 1",
+        "S_n",
+        "a + a + a + a + \\dots",
+        "n",
+        "S_n = na",
+        "n"
+      ],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং, এই অসীম ধারাটির কোনো সমষ্টি নেই।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "> $|r| < 1$ অর্থাৎ, $-1 < r < 1$ হলে, $a + ar + ar^2 + \\dots$ অসীম গুণোত্তর ধারাটির সমষ্টি $S = \\frac{a}{1 - r}$। $r$ এর অন্য সকল মানের জন্য অসীম ধারাটির সমষ্টি থাকবে না।",
+      "image": null,
+      "formulas": [
+        "|r| < 1",
+        "-1 < r < 1",
+        "a + ar + ar^2 + \\dots",
+        "S = \\frac{a}{1 - r}",
+        "r"
+      ],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:** অসীম গুণোত্তর ধারার সমষ্টিকে (যদি থাকে) $S_\\infty$ লিখে প্রকাশ করা হয় এবং একে ধারাটির অসীমতক সমষ্টি বলা হয়। অর্থাৎ, $a + ar + ar^2 + ar^3 + \\dots$ গুণোত্তর ধারাটির অসীমতক সমষ্টি, $S_\\infty = \\frac{a}{1 - r}$, যখন $|r| < 1$।",
+      "image": null,
+      "formulas": [
+        "S_\\infty",
+        "a + ar + ar^2 + ar^3 + \\dots",
+        "S_\\infty = \\frac{a}{1 - r}",
+        "|r| < 1"
+      ],
+      "pdfPageStart": 144,
+      "pdfPageEnd": 144,
+      "printedPageStart": 139,
+      "printedPageEnd": 139,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p018",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "ক) নিচের প্রত্যেক ক্ষেত্রে একটি অসীম গুণোত্তর ধারার প্রথম পদ $a$ এবং সাধারণ অনুপাত $r$ দেওয়া আছে। ধারাটি লিখ এবং যদি এর অসীমতক সমষ্টি থাকে তাহাও নির্ণয় করো:",
+      "image": null,
+      "formulas": [
+        "a",
+        "r"
+      ],
+      "pdfPageStart": 145,
+      "pdfPageEnd": 145,
+      "printedPageStart": 140,
+      "printedPageEnd": 140,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p019",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "(১) $a = 4, r = \\frac{1}{2}$ (২) $a = 2, r = -\\frac{1}{3}$ (৩) $a = \\frac{1}{3}, r = 3$",
+      "image": null,
+      "formulas": [
+        "a = 4, r = \\frac{1}{2}",
+        "a = 2, r = -\\frac{1}{3}",
+        "a = \\frac{1}{3}, r = 3"
+      ],
+      "pdfPageStart": 145,
+      "pdfPageEnd": 145,
+      "printedPageStart": 140,
+      "printedPageEnd": 140,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p020",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "(৪) $a = 5, r = \\frac{1}{10^2}$ (৫) $a = 1, r = -\\frac{2}{7}$ (৬) $a = 81, r = -\\frac{1}{3}$",
+      "image": null,
+      "formulas": [
+        "a = 5, r = \\frac{1}{10^2}",
+        "a = 1, r = -\\frac{2}{7}",
+        "a = 81, r = -\\frac{1}{3}"
+      ],
+      "pdfPageStart": 145,
+      "pdfPageEnd": 145,
+      "printedPageStart": 140,
+      "printedPageEnd": 140,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p021",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "খ) তোমরা প্রত্যেকে একটি করে অসীম গুণোত্তর ধারা লেখো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 145,
+      "pdfPageEnd": 145,
+      "printedPageStart": 140,
+      "printedPageEnd": 140,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p022",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "**উদাহরণ ২.** নিচের অসীম গুণোত্তর ধারার অসীমতক সমষ্টি (যদি থাকে) নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 145,
+      "pdfPageEnd": 145,
+      "printedPageStart": 140,
+      "printedPageEnd": 140,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p023",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "ক) $\\frac{1}{3} + \\frac{1}{3^2} + \\frac{1}{3^3} + \\frac{1}{3^4} + \\dots$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{3} + \\frac{1}{3^2} + \\frac{1}{3^3} + \\frac{1}{3^4} + \\dots"
+      ],
+      "pdfPageStart": 145,
+      "pdfPageEnd": 145,
+      "printedPageStart": 140,
+      "printedPageEnd": 140,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p024",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "খ) $1 + 0.1 + 0.01 + 0.001 + \\dots$",
+      "image": null,
+      "formulas": [
+        "1 + 0.1 + 0.01 + 0.001 + \\dots"
+      ],
+      "pdfPageStart": 145,
+      "pdfPageEnd": 145,
+      "printedPageStart": 140,
+      "printedPageEnd": 140,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p025",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "গ) $1 + \\frac{1}{\\sqrt{2}} + \\frac{1}{2} + \\frac{1}{2\\sqrt{2}} + \\frac{1}{4} + \\dots$",
+      "image": null,
+      "formulas": [
+        "1 + \\frac{1}{\\sqrt{2}} + \\frac{1}{2} + \\frac{1}{2\\sqrt{2}} + \\frac{1}{4} + \\dots"
+      ],
+      "pdfPageStart": 145,
+      "pdfPageEnd": 145,
+      "printedPageStart": 140,
+      "printedPageEnd": 140,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p026",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "ক) এখানে, ধারাটির প্রথম পদ, $a = \\frac{1}{3}$ এবং সাধারণ অনুপাত $r = \\frac{1}{3^2} \\times \\frac{3}{1} = \\frac{1}{3} < 1$",
+      "image": null,
+      "formulas": [
+        "a = \\frac{1}{3}",
+        "r = \\frac{1}{3^2} \\times \\frac{3}{1} = \\frac{1}{3} < 1"
+      ],
+      "pdfPageStart": 145,
+      "pdfPageEnd": 145,
+      "printedPageStart": 140,
+      "printedPageEnd": 140,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p027",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore$ ধারাটির অসীমতক সমষ্টি, $S_\\infty = \\frac{a}{1 - r} = \\frac{\\frac{1}{3}}{1 - \\frac{1}{3}} = \\frac{1}{3} \\times \\frac{3}{2} = \\frac{1}{2}$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "S_\\infty = \\frac{a}{1 - r} = \\frac{\\frac{1}{3}}{1 - \\frac{1}{3}} = \\frac{1}{3} \\times \\frac{3}{2} = \\frac{1}{2}"
+      ],
+      "pdfPageStart": 145,
+      "pdfPageEnd": 145,
+      "printedPageStart": 140,
+      "printedPageEnd": 140,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p028",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "খ) এখানে, ধারাটির প্রথম পদ $a = 1$ এবং সাধারণ অনুপাত $r = \\frac{0.1}{1} = \\frac{1}{10} < 1$",
+      "image": null,
+      "formulas": [
+        "a = 1",
+        "r = \\frac{0.1}{1} = \\frac{1}{10} < 1"
+      ],
+      "pdfPageStart": 145,
+      "pdfPageEnd": 145,
+      "printedPageStart": 140,
+      "printedPageEnd": 140,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p029",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore$ ধারাটির অসীমতক সমষ্টি, $S_\\infty = \\frac{a}{1 - r} = \\frac{1}{1 - \\frac{1}{10}} = \\frac{10}{9} = 1\\frac{1}{9}$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "S_\\infty = \\frac{a}{1 - r} = \\frac{1}{1 - \\frac{1}{10}} = \\frac{10}{9} = 1\\frac{1}{9}"
+      ],
+      "pdfPageStart": 145,
+      "pdfPageEnd": 145,
+      "printedPageStart": 140,
+      "printedPageEnd": 140,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p030",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "গ) এখানে, ধারাটির প্রথম পদ $a = 1$ এবং সাধারণ অনুপাত $r = \\frac{\\frac{1}{\\sqrt{2}}}{1} = \\frac{1}{\\sqrt{2}} < 1$",
+      "image": null,
+      "formulas": [
+        "a = 1",
+        "r = \\frac{\\frac{1}{\\sqrt{2}}}{1} = \\frac{1}{\\sqrt{2}} < 1"
+      ],
+      "pdfPageStart": 145,
+      "pdfPageEnd": 145,
+      "printedPageStart": 140,
+      "printedPageEnd": 140,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.5-p031",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore$ ধারাটির অসীমতক সমষ্টি, $S_\\infty = \\frac{a}{1 - r} = \\frac{1}{1 - \\frac{1}{\\sqrt{2}}} = \\frac{\\sqrt{2}}{\\sqrt{2} - 1} = 3.414$ (আসন্ন)",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "S_\\infty = \\frac{a}{1 - r} = \\frac{1}{1 - \\frac{1}{\\sqrt{2}}} = \\frac{\\sqrt{2}}{\\sqrt{2} - 1} = 3.414"
+      ],
+      "pdfPageStart": 145,
+      "pdfPageEnd": 145,
+      "printedPageStart": 140,
+      "printedPageEnd": 140,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

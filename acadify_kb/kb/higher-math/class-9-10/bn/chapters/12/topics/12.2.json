@@ -1,0 +1,198 @@
+{
+  "id": "higher-math-9-10-bn-c12-t12.2",
+  "key": "12.2",
+  "title": "ভেক্টরের যোগ",
+  "chapter": 12,
+  "ordinal": 2,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c12-t12.2-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কোনো $<u>u</u>$ ভেক্টরের প্রান্তবিন্দু থেকে অপর একটি ভেক্টর $<u>v</u>$ আঁকা হলে $<u>u</u> + <u>v</u>$ দ্বারা এরূপ ভেক্টর বুঝায় যার আদিবিন্দু $<u>u</u>$ এর আদিবিন্দু এবং যার প্রান্তবিন্দু $<u>v</u>$ এর প্রান্তবিন্দু। মনে করি $\\vec{AB} = <u>u</u>, \\vec{BC} = <u>v</u>$ এরূপ দুটি ভেক্টর যে, $<u>u</u>$ এর প্রান্তবিন্দু $<u>v</u>$ এর আদিবিন্দু। তাহলে $<u>u</u>$ এর আদিবিন্দু এবং $<u>v</u>$ এর প্রান্তবিন্দু সংযোজক $\\vec{AC}$ ভেক্টরকে $<u>u</u>$ ও $<u>v</u>$ ভেক্টরদ্বয়ের সমষ্টি বলা হয় এবং $<u>u</u> + <u>v</u>$ দ্বারা সূচিত হয়।",
+      "image": null,
+      "formulas": [
+        "<u>u</u>",
+        "<u>v</u>",
+        "<u>u</u> + <u>v</u>",
+        "<u>u</u>",
+        "<u>v</u>",
+        "\\vec{AB} = <u>u</u>, \\vec{BC} = <u>v</u>",
+        "<u>u</u>",
+        "<u>v</u>",
+        "<u>u</u>",
+        "<u>v</u>",
+        "\\vec{AC}",
+        "<u>u</u>",
+        "<u>v</u>",
+        "<u>u</u> + <u>v</u>"
+      ],
+      "pdfPageStart": 278,
+      "pdfPageEnd": 278,
+      "printedPageStart": 273,
+      "printedPageEnd": 273,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.2-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "![drawing: A right-angled triangle with vertices A, B, and C. The side AB is labeled with vector <u>u</u>, the side BC is labeled with vector <u>v</u>, and the hypotenuse AC is labeled with vector <u>u</u> + <u>v</u>.</drawing>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 279,
+      "pdfPageEnd": 279,
+      "printedPageStart": 274,
+      "printedPageEnd": 274,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.2-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**ভেক্টর যোগের ত্রিভুজবিধি:** উপরের চিত্রে <u>u</u> ও <u>v</u> সমান্তরাল না হলে <u>u</u>, <u>v</u> এবং <u>u</u> + <u>v</u> ভেক্টরএয় দ্বারা ত্রিভুজ উৎপন্ন হয় বলে উপরিউক্ত যোগন পদ্ধতিকে ত্রিভুজবিধি বলা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 279,
+      "pdfPageEnd": 279,
+      "printedPageStart": 274,
+      "printedPageEnd": 274,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.2-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**ভেক্টর যোগের ত্রিভুজবিধির অনুসিদ্ধান্ত** হিসেবে ভেক্টর যোগের সামান্তরিক বিধি নিম্নরূপ:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 279,
+      "pdfPageEnd": 279,
+      "printedPageStart": 274,
+      "printedPageEnd": 274,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.2-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**ভেক্টর যোগের সামান্তরিক বিধি:** কোনো সামান্তরিকের দুটি সন্নিহিত বাহু দ্বারা দুইটি ভেক্টর <u>u</u> ও <u>v</u> এর মান ও দিক সূচিত হলে, ঐ সামান্তরিকের যে কর্ণ <u>u</u> ও <u>v</u> ভেক্টরদ্বয়ের ধারক রেখার ছেদবিন্দুগামী তা দ্বারা <u>u</u> + <u>v</u> ভেক্টরের মান ও দিক সূচিত হয়। নিচে আমরা এটার প্রমাণ দেখব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 279,
+      "pdfPageEnd": 279,
+      "printedPageStart": 274,
+      "printedPageEnd": 274,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.2-p006",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A parallelogram OACB with vectors u and v. The vector u is along OA, the vector v is along OB, and the diagonal OC represents the sum u + v.",
+      "image": "p279-page_4_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 279,
+      "pdfPageEnd": 279,
+      "printedPageStart": 274,
+      "printedPageEnd": 274,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.2-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:** মনে করি, যেকোনো বিন্দু থেকে অঙ্কিত <u>u</u> এবং <u>v</u> ভেক্টরদ্বয় $\\overrightarrow{OA}$ এবং $\\overrightarrow{OB}$ দ্বারা সূচিত হয়েছে। $OACB$ সামান্তরিক ও তার $OC$ কর্ণ অঙ্কন করি। তাহলে ঐ সামান্তরিকের $\\overrightarrow{OC}$ কর্ণ দ্বারা <u>u</u> এবং <u>v</u> এর যোগফল সূচিত হবে। অর্থাৎ $\\overrightarrow{OC} = <u>u</u> + <u>v</u>$।",
+      "image": null,
+      "formulas": [
+        "\\overrightarrow{OA}",
+        "\\overrightarrow{OB}",
+        "OACB",
+        "OC",
+        "\\overrightarrow{OC}",
+        "\\overrightarrow{OC} = <u>u</u> + <u>v</u>"
+      ],
+      "pdfPageStart": 279,
+      "pdfPageEnd": 279,
+      "printedPageStart": 274,
+      "printedPageEnd": 274,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.2-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$OACB$ সামান্তরিকের $OB$ ও $AC$ সমান ও সমান্তরাল। $\\therefore \\overrightarrow{AC} = \\overrightarrow{OB} = <u>v</u>$ [ভেক্টর স্থানান্তর]",
+      "image": null,
+      "formulas": [
+        "OACB",
+        "OB",
+        "AC",
+        "\\therefore \\overrightarrow{AC} = \\overrightarrow{OB} = <u>v</u>"
+      ],
+      "pdfPageStart": 279,
+      "pdfPageEnd": 279,
+      "printedPageStart": 274,
+      "printedPageEnd": 274,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.2-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ ত্রিভুজবিধি কাজে লাগিয়ে $<u>u</u> + <u>v</u> = \\overrightarrow{OA} + \\overrightarrow{OB} = \\overrightarrow{OA} + \\overrightarrow{AC} = \\overrightarrow{OC}$ [প্রমাণিত]",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "<u>u</u> + <u>v</u> = \\overrightarrow{OA} + \\overrightarrow{OB} = \\overrightarrow{OA} + \\overrightarrow{AC} = \\overrightarrow{OC}"
+      ],
+      "pdfPageStart": 279,
+      "pdfPageEnd": 279,
+      "printedPageStart": 274,
+      "printedPageEnd": 274,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.2-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**দ্রষ্টব্য:** ক) দুই বা ততোধিক ভেক্টরের যোগফলকে তাদের লক্ষ্যিও বলা হয়। বল বা বেগের লক্ষ্যি নির্ণয়ের ক্ষেত্রে ভেক্টর যোগের পদ্ধতি অনুসরণ করতে হয়। খ) দুটি ভেক্টর সমান্তরাল হলে তাদের যোগের ক্ষেত্রে সামান্তরিক বিধি প্রয়োজন্য নয়, কিন্তু ত্রিভুজবিধি সকল ক্ষেত্রে প্রয়োজন।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 279,
+      "pdfPageEnd": 279,
+      "printedPageStart": 274,
+      "printedPageEnd": 274,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

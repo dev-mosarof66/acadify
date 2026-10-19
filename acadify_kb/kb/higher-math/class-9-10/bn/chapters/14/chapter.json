@@ -1,0 +1,78 @@
+{
+  "id": "higher-math-9-10-bn-c14",
+  "textbookId": "higher-math-9-10-bn",
+  "number": 14,
+  "title": "সম্ভাবনা",
+  "englishTitle": "Probability",
+  "pdfPages": [
+    311,
+    332
+  ],
+  "printedPages": [
+    306,
+    327
+  ],
+  "topics": [
+    {
+      "key": "14.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/14.0.json",
+      "passages": 9
+    },
+    {
+      "key": "14.1",
+      "title": "যুক্তিভিত্তিক সম্ভাবনা নির্ণয়",
+      "file": "topics/14.1.json",
+      "passages": 8
+    },
+    {
+      "key": "14.2",
+      "title": "দুইটি বিশেষ ধরনের ঘটনা",
+      "file": "topics/14.2.json",
+      "passages": 13
+    },
+    {
+      "key": "14.3",
+      "title": "তথ্যভিত্তিক সম্ভাবনা নির্ণয়",
+      "file": "topics/14.3.json",
+      "passages": 9
+    },
+    {
+      "key": "14.4",
+      "title": "নমুনাক্ষেত্র এবং Probability Tree দ্বারা সম্ভাবনা নির্ণয়",
+      "file": "topics/14.4.json",
+      "passages": 28
+    },
+    {
+      "key": "14.ex",
+      "title": "অনুশীলনী ১৪",
+      "file": "topics/14.ex.json",
+      "passages": 44
+    },
+    {
+      "key": "14.ans",
+      "title": "অনুশীলনীর উত্তর",
+      "file": "topics/14.ans.json",
+      "passages": 162
+    }
+  ],
+  "stats": {
+    "topics": 7,
+    "passages": 273,
+    "images": 0,
+    "byKind": {
+      "text": 61,
+      "formula": 6,
+      "exercise": 41,
+      "table": 3,
+      "answer": 162
+    },
+    "byReason": {
+      "known-confusable-corrected": 47,
+      "verify-formula": 183,
+      "latin-junk": 21,
+      "verify-table": 3
+    },
+    "needsReview": 215
+  }
+}

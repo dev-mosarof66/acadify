@@ -1,0 +1,226 @@
+{
+  "id": "higher-math-9-10-bn-c11-t11.3",
+  "key": "11.3",
+  "title": "ত্রিভুজক্ষেত্রের ক্ষেত্রফল (Area of triangles)",
+  "chapter": 11,
+  "ordinal": 4,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c11-t11.3-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা জানি, তিনটি ভিন্ন বিন্দু একই সরলরেখায় অবস্থান না করলে ঐ তিনটি বিন্দুকে সরলরেখা দ্বারা যোগ করলে একটি ত্রিভুজক্ষেত্র পাওয়া যায়। উক্ত ত্রিভুজক্ষেত্রটি বাহুভেদে এবং কোণভেদে ভিন্ন ভিন্ন হতে পারে। এই অংশে আমরা একটি মাত্র সূত্রের সাহায্যে যেকোনো ত্রিভুজের বাহুর দৈর্ঘ্য নির্ণয়ের মাধ্যমে ত্রিভুজটির ক্ষেত্রফল নির্ণয় করতে সক্ষম হব। একই সূত্রের সাহায্যে যেকোনো চতুর্ভুজকে দুটি ত্রিভুজ ক্ষেত্রে বিভক্ত করে চতুর্ভুজ ক্ষেত্রের ক্ষেত্রফল নির্ণয় করাও সম্ভব হবে। এক্ষেত্রে আমরা ত্রিভুজ ক্ষেত্রটির পরিসীমা (বাহুগুলোর দৈর্ঘ্যের সমষ্টি) এবং বাহুর দৈর্ঘ্যের মাধ্যমে ক্ষেত্রফল নির্ণয় করব। যেকোনো ত্রিভুজ আকৃতি বা কোণাকৃতির জমির ক্ষেত্রফল নির্ণয়ের এই পদ্ধতি অর্থাৎ বাহুর দৈর্ঘ্যের মাধ্যমে ক্ষেত্রফল নির্ণয় অত্যন্ত গুরুত্বপূর্ণ। অর্থাৎ জমির ক্ষেত্রফল নির্ণয়ে এটি খুবই কার্যকর। কারণ হিসেবে বলা যায় ত্রিকোণাকার বা চৌকোণাকার জমির শীর্ষবিন্দুগুলোর স্থানাঙ্ক যদি জানা না থাকে বা সম্ভব না হয় কিন্তু যদি বাহুর দৈর্ঘ্য জানা থাকে তাহলেও আমরা ক্ষেত্রফল নির্ণয়ে সক্ষম হব। এই অংশে আমরা দুইটি পদ্ধতির মাধ্যমে ত্রিভুজ বা বহুভুজের ক্ষেত্রফল নির্ণয় করব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 250,
+      "pdfPageEnd": 250,
+      "printedPageStart": 245,
+      "printedPageEnd": 245,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.3-p002",
+      "kind": "text",
+      "section": "পদ্ধতি ১: বাহুর দৈর্ঘ্য ও পরিসীমার সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "ক্ষেত্রফল নির্ণয়ের সূত্র: পার্শ্বের চিত্রে $ABC$ একটি ত্রিভুজ দেখানো হয়েছে। $A(x_1, y_1)$, $B(x_2, y_2)$ ও $C(x_3, y_3)$ তিনটি ভিন্ন বিন্দু এবং $AB$, $BC$ ও $CA$ ত্রিভুজের তিনটি বাহু। দূরত্ব নির্ণয়ের সূত্রের সাহায্যে সহজেই $AB$, $BC$ ও $CA$ বাহুর দৈর্ঘ্য নির্ণয় সম্ভব। যেমন:",
+      "image": null,
+      "formulas": [
+        "ABC",
+        "A(x_1, y_1)",
+        "B(x_2, y_2)",
+        "C(x_3, y_3)",
+        "AB",
+        "BC",
+        "CA",
+        "AB",
+        "BC",
+        "CA"
+      ],
+      "pdfPageStart": 250,
+      "pdfPageEnd": 250,
+      "printedPageStart": 245,
+      "printedPageEnd": 245,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.3-p003",
+      "kind": "text",
+      "section": "পদ্ধতি ১: বাহুর দৈর্ঘ্য ও পরিসীমার সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "২\n২০",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 250,
+      "pdfPageEnd": 250,
+      "printedPageStart": 245,
+      "printedPageEnd": 245,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.3-p004",
+      "kind": "figure",
+      "section": "পদ্ধতি ১: বাহুর দৈর্ঘ্য ও পরিসীমার সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "drawing: A geometric diagram showing a triangle with vertices A(x<sub>1</sub>, y<sub>1</sub>), B(x<sub>2</sub>, y<sub>2</sub>), and C(x<sub>3</sub>, y<sub>3</sub>) on a Cartesian coordinate system with axes X, Y, X', and Y'. The sides of the triangle are labeled a, b, and c.",
+      "image": "p251-page_8_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 251,
+      "pdfPageEnd": 251,
+      "printedPageStart": 246,
+      "printedPageEnd": 246,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.3-p005",
+      "kind": "text",
+      "section": "পদ্ধতি ১: বাহুর দৈর্ঘ্য ও পরিসীমার সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "$AB$ বাহুর দৈর্ঘ্য $c$ ধরে\n$$c = \\sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2}  একক$$",
+      "image": null,
+      "formulas": [
+        "AB",
+        "c",
+        "c = \\sqrt{(x_1 - x_2)^2 + (y_1 - y_2)^2}  একক"
+      ],
+      "pdfPageStart": 251,
+      "pdfPageEnd": 251,
+      "printedPageStart": 246,
+      "printedPageEnd": 246,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.3-p006",
+      "kind": "text",
+      "section": "পদ্ধতি ১: বাহুর দৈর্ঘ্য ও পরিসীমার সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "$BC$ বাহুর দৈর্ঘ্য $a$ ধরে\n$$a = \\sqrt{(x_2 - x_3)^2 + (y_2 - y_3)^2}  একক$$",
+      "image": null,
+      "formulas": [
+        "BC",
+        "a",
+        "a = \\sqrt{(x_2 - x_3)^2 + (y_2 - y_3)^2}  একক"
+      ],
+      "pdfPageStart": 251,
+      "pdfPageEnd": 251,
+      "printedPageStart": 246,
+      "printedPageEnd": 246,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.3-p007",
+      "kind": "text",
+      "section": "পদ্ধতি ১: বাহুর দৈর্ঘ্য ও পরিসীমার সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "$AC$ বাহুর দৈর্ঘ্য $b$ ধরে\n$$b = \\sqrt{(x_1 - x_3)^2 + (y_1 - y_3)^2}  একক$$",
+      "image": null,
+      "formulas": [
+        "AC",
+        "b",
+        "b = \\sqrt{(x_1 - x_3)^2 + (y_1 - y_3)^2}  একক"
+      ],
+      "pdfPageStart": 251,
+      "pdfPageEnd": 251,
+      "printedPageStart": 246,
+      "printedPageEnd": 246,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.3-p008",
+      "kind": "text",
+      "section": "পদ্ধতি ১: বাহুর দৈর্ঘ্য ও পরিসীমার সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "এখন ত্রিভুজটির পরিসীমা $2s$ ধরে",
+      "image": null,
+      "formulas": [
+        "2s"
+      ],
+      "pdfPageStart": 251,
+      "pdfPageEnd": 251,
+      "printedPageStart": 246,
+      "printedPageEnd": 246,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.3-p009",
+      "kind": "formula",
+      "section": "পদ্ধতি ১: বাহুর দৈর্ঘ্য ও পরিসীমার সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "$$2s = a + b + c  [পরিসীমা = বাহু তিনটির দৈর্ঘ্যের সমষ্টি]$$",
+      "image": null,
+      "formulas": [
+        "2s = a + b + c  [পরিসীমা = বাহু তিনটির দৈর্ঘ্যের সমষ্টি]"
+      ],
+      "pdfPageStart": 251,
+      "pdfPageEnd": 251,
+      "printedPageStart": 246,
+      "printedPageEnd": 246,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.3-p010",
+      "kind": "text",
+      "section": "পদ্ধতি ১: বাহুর দৈর্ঘ্য ও পরিসীমার সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "অর্থাৎ $s = \\frac{1}{2}(a + b + c)$ একক, এখানে $s$ হলো ত্রিভুজের পরিসীমার অর্ধেক।",
+      "image": null,
+      "formulas": [
+        "s = \\frac{1}{2}(a + b + c)",
+        "s"
+      ],
+      "pdfPageStart": 251,
+      "pdfPageEnd": 251,
+      "printedPageStart": 246,
+      "printedPageEnd": 246,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.3-p011",
+      "kind": "text",
+      "section": "পদ্ধতি ১: বাহুর দৈর্ঘ্য ও পরিসীমার সাহায্যে ক্ষেত্রফল নির্ণয়",
+      "caption": null,
+      "body": "আমরা $s$ এবং $a, b, c$ এর সাহায্যে সহজেই যেকোনো ত্রিভুজের ক্ষেত্রফল নির্ণয় করতে পারি।",
+      "image": null,
+      "formulas": [
+        "s",
+        "a, b, c"
+      ],
+      "pdfPageStart": 251,
+      "pdfPageEnd": 251,
+      "printedPageStart": 246,
+      "printedPageEnd": 246,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

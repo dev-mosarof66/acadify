@@ -1,0 +1,107 @@
+{
+  "id": "higher-math-9-10-bn-c09-t9.7",
+  "key": "9.7",
+  "title": "সূচকীয়, লগারিদমীয় ও পরমমান ফাংশন",
+  "chapter": 9,
+  "ordinal": 8,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c09-t9.7-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "প্রথম অধ্যায়ে আমরা ফাংশন সম্পর্কে বিস্তারিত জেনেছি। এখানে সূচকীয়, লগারিদমীয় ও পরমমান ফাংশন সম্পর্কে আলোচনা করা হলো:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.7-p002",
+      "kind": "text",
+      "section": "সূচকীয় ফাংশন",
+      "caption": null,
+      "body": "নিচের তিনটি সারণিতে বর্ণিত $(x, y)$ ক্রমজোড়ের মানগুলো লক্ষ্য করি:",
+      "image": null,
+      "formulas": [
+        "(x, y)"
+      ],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.7-p003",
+      "kind": "text",
+      "section": "সূচকীয় ফাংশন",
+      "caption": null,
+      "body": "**সারণি ১**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.7-p004",
+      "kind": "table",
+      "section": "সূচকীয় ফাংশন",
+      "caption": null,
+      "body": "<table><tr><td><em>x</em></td><td>-2</td><td>-1</td><td>0</td><td>1</td><td>2</td><td>3</td></tr>\n<tr><td><em>y</em></td><td>-4</td><td>-2</td><td>0</td><td>2</td><td>4</td><td>6</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.7-p005",
+      "kind": "text",
+      "section": "সূচকীয় ফাংশন",
+      "caption": null,
+      "body": "**সারণি ২**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.7-p006",
+      "kind": "table",
+      "section": "সূচকীয় ফাংশন",
+      "caption": null,
+      "body": "<table><tr><td><em>x</em></td><td>0</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td></tr>\n<tr><td><em>y</em></td><td>0</td><td>1</td><td>4</td><td>9</td><td>16</td><td>25</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    }
+  ]
+}

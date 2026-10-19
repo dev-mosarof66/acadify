@@ -1,0 +1,66 @@
+{
+  "id": "higher-math-9-10-bn-c10",
+  "textbookId": "higher-math-9-10-bn",
+  "number": 10,
+  "title": "দ্বিপদী বিস্তৃতি",
+  "englishTitle": "Binomial Expansion",
+  "pdfPages": [
+    228,
+    243
+  ],
+  "printedPages": [
+    223,
+    238
+  ],
+  "topics": [
+    {
+      "key": "10.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/10.0.json",
+      "passages": 10
+    },
+    {
+      "key": "10.1",
+      "title": "দ্বিপদী সহগ",
+      "file": "topics/10.1.json",
+      "passages": 3
+    },
+    {
+      "key": "10.2",
+      "title": "প্যাসকেলের ত্রিভুজের ব্যবহার",
+      "file": "topics/10.2.json",
+      "passages": 68
+    },
+    {
+      "key": "10.ex",
+      "title": "অনুশীলনী ১০.১",
+      "file": "topics/10.ex.json",
+      "passages": 36
+    },
+    {
+      "key": "10.3",
+      "title": "$(x + y)^n$ দ্বিপদী এর বিস্তৃতি",
+      "file": "topics/10.3.json",
+      "passages": 101
+    }
+  ],
+  "stats": {
+    "topics": 5,
+    "passages": 218,
+    "images": 1,
+    "byKind": {
+      "text": 117,
+      "formula": 60,
+      "table": 4,
+      "figure": 2,
+      "exercise": 35
+    },
+    "byReason": {
+      "verify-formula": 182,
+      "verify-table": 4,
+      "latin-junk": 1,
+      "known-confusable-corrected": 4
+    },
+    "needsReview": 186
+  }
+}

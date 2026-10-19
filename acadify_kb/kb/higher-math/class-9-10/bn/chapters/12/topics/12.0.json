@@ -1,0 +1,227 @@
+{
+  "id": "higher-math-9-10-bn-c12-t12.0",
+  "key": "12.0",
+  "title": "ভূমিকা ও শিখনফল",
+  "chapter": 12,
+  "ordinal": 0,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c12-t12.0-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "পদার্থ বিজ্ঞানে আমরা দুই প্রকারের রাশি (quantities) সম্পর্কে জেনেছি। এক প্রকার রাশির বর্ণনায় শুধু পরিমাণ $[+(যোগ) বা -(বিয়োগ)]$ চিহ্ন সংযোজন করে পরিমাণ উল্লেখ করলেই চলে। অন্য প্রকারের রাশির বর্ণনায় পরিমাণ (magnitude) ও দিক (direction) উভয়ই উল্লেখ করতে হয়। প্রথম প্রকারের রাশিকে স্কেলার রাশি ও দ্বিতীয় প্রকারের রাশিকে ভেক্টর রাশি বলা হয়। এই অধ্যায়ে আমরা ভেক্টর রাশি সম্পর্কে আলোচনা করব।",
+      "image": null,
+      "formulas": [
+        "[+(যোগ) বা -(বিয়োগ)]"
+      ],
+      "pdfPageStart": 276,
+      "pdfPageEnd": 276,
+      "printedPageStart": 271,
+      "printedPageEnd": 271,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.0-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এই অধ্যায় শেষে শিক্ষার্থীরা ---",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 276,
+      "pdfPageEnd": 276,
+      "printedPageStart": 271,
+      "printedPageEnd": 271,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.0-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "* স্কেলার রাশি ও ভেক্টর রাশি বর্ণনা করতে পারবে;\n* স্কেলার রাশি ও ভেক্টর রাশি প্রতীকের সাহায্যে ব্যাখ্যা করতে পারবে;\n* সমান ভেক্টর, বিপরীত ভেক্টর ও অবস্থান ভেক্টর ব্যাখ্যা করতে পারবে;\n* ভেক্টরের যোগ ও যোগবিধি ব্যাখ্যা করতে পারবে;\n* ভেক্টরের বিয়োগবিধি ব্যাখ্যা করতে পারবে;\n* ভেক্টরের স্কেলার গুণিতক ও একক ভেক্টর ব্যাখ্যা করতে পারবে;\n* ভেক্টরের স্কেলার গুণিতক ও বর্গনবিধি ব্যাখ্যা করতে পারবে;\n* ভেক্টরের সাহায্যে বিভিন্ন জ্যামিতিক সমস্যার সমাধান করতে পারবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 276,
+      "pdfPageEnd": 276,
+      "printedPageStart": 271,
+      "printedPageEnd": 271,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.0-p004",
+      "kind": "text",
+      "section": "স্কেলার রাশি ও ভেক্টর রাশি",
+      "caption": null,
+      "body": "দৈনদিন জীবনে প্রায় সবক্ষেত্রেই বস্তুর পরিমাপের প্রয়োজন হয়। ৫ সে.মি., ৩ মিনিট, ১২ টাকা, ৫ লিটার, $6^\\circ C$ ইত্যাদি দ্বারা যথাক্রমে বস্তুর দৈর্ঘ্য, সময়ের পরিমাণ, টাকার পরিমাণ, আয়তনের পরিমাণ ও তাপমাত্রার পরিমাণ বুঝানো হয়। এসব পরিমাপের জন্য কেবলমাত্র এককসহ পরিমাণ উল্লেখ করলেই চলে। আবার যদি বলা হয় একটি লোক একবিন্দু থেকে যাত্রা করে প্রথমে ৪ মি. পরে ৫ মি. গেল, তাহলে যাত্রাবিন্দু থেকে তার দূরত্ব নির্ণয় করতে গেলে প্রথমে জানা দরকার লোকটির গতির দিক কী? গতির সঠিক দিক না জানা পর্যন্ত যাত্রাবিন্দু থেকে লোকটি কতদূর গিয়েছে তা সঠিকভাবে নির্ণয় সম্ভব নয়।",
+      "image": null,
+      "formulas": [
+        "6^\\circ C"
+      ],
+      "pdfPageStart": 276,
+      "pdfPageEnd": 276,
+      "printedPageStart": 271,
+      "printedPageEnd": 271,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.0-p005",
+      "kind": "text",
+      "section": "স্কেলার রাশি ও ভেক্টর রাশি",
+      "caption": null,
+      "body": "যে রাশি কেবলমাত্র এককসহ পরিমাণ দ্বারা অথবা পরিমাণের পূর্বে $+$ বা $-$ চিহ্নযুক্ত করে সম্পূর্ণরূপে বুঝানো যায়, তাকে স্কেলার বা অদিক বা নির্দিষ্ট রাশি (scalar quantity) বলা হয়। দৈর্ঘ্য (length), ভর (mass), আয়তন (volume), দ্রুতি (speed), তাপমাত্রা (temperature) ইত্যাদি প্রত্যেকই স্কেলার রাশি।",
+      "image": null,
+      "formulas": [
+        "+",
+        "-"
+      ],
+      "pdfPageStart": 276,
+      "pdfPageEnd": 276,
+      "printedPageStart": 271,
+      "printedPageEnd": 271,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.0-p006",
+      "kind": "text",
+      "section": "স্কেলার রাশি ও ভেক্টর রাশি",
+      "caption": null,
+      "body": "যে রাশিকে সম্পূর্ণরূপে প্রকাশ করার জন্য তার পরিমাণ ও দিক উভয়ের প্রয়োজন হয়, তাকে ভেক্টর বা সদিক রাশি (vector quantity) বলা হয়। সরণ (displacement), বেগ (velocity), ত্বরণ (acceleration), ওজন (weight), বল (force) ইত্যাদি প্রত্যেকই ভেক্টর রাশি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 277,
+      "pdfPageEnd": 277,
+      "printedPageStart": 272,
+      "printedPageEnd": 272,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.0-p007",
+      "kind": "text",
+      "section": "ভেক্টর রাশির জ্যামিতিক প্রতিরূপ: দিক নির্দেশক রেখাংশ",
+      "caption": null,
+      "body": "কোনো রেখাংশের এক প্রান্তকে আদিবিন্দু (initial point) এবং অপর প্রান্তকে অন্তবিন্দু (terminal point) হিসেবে চিহ্নিত করলে ঐ রেখাংশকে একটি দিক নির্দেশক রেখাংশ বা সদিক রেখাংশ (directed line segment) বলা হয়। কোনো দিক নির্দেশক রেখাংশের আদি বিন্দু $A$ এবং অন্তবিন্দু $B$ হলে ঐ দিক নির্দেশক রেখাংশকে $\\overrightarrow{AB}$ দ্বারা সূচিত করা হয়। প্রত্যেক দিক নির্দেশক রেখাংশ একটি ভেক্টর রাশি, যার পরিমাণ ঐ রেখাংশের দৈর্ঘ্য ($|\\overrightarrow{AB}|$) বা সংক্ষিপে $AB$ দ্বারা সূচিত এবং যার দিক $A$ বিন্দু হতে $AB$ রেখা বরাবর $B$ বিন্দু নির্দেশকারী দিক।",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "\\overrightarrow{AB}",
+        "|\\overrightarrow{AB}|",
+        "AB",
+        "A",
+        "AB",
+        "B"
+      ],
+      "pdfPageStart": 277,
+      "pdfPageEnd": 277,
+      "printedPageStart": 272,
+      "printedPageEnd": 272,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.0-p008",
+      "kind": "text",
+      "section": "ভেক্টর রাশির জ্যামিতিক প্রতিরূপ: দিক নির্দেশক রেখাংশ",
+      "caption": null,
+      "body": "বিপরীতক্রমে যেকোনো ভেক্টর রাশিকে একটি দিক নির্দেশক রেখাংশ দ্বারা প্রকাশ করা যায়, যেখানে রেখাংশটির দৈর্ঘ্য রাশিটির পরিমাণ এবং রেখাংশটির আদিবিন্দু হতে অন্তবিন্দু নির্দেশকারী দিক প্রদত্ত ভেক্টর রাশির দিক। তাই, ভেক্টর রাশি ও দিক নির্দেশক রেখাংশ সমার্থক ধারণা। দিক নির্দেশক রেখাংশকে জ্যামিতিক ভেক্টর বলেও উল্লেখ করা হয়। আমাদের আলোচনা একই সমতলে অবস্থিত ভেক্টরের মধ্যে সীমাবদ্ধ থাকবে। আমরা এখানে ভেক্টর বলতে জ্যামিতিক ভেক্টরই বুঝব। এই প্রসঙ্গে স্কেলার রাশির নির্দেশক বাস্তব সংখ্যাকে স্কেলার বলব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 277,
+      "pdfPageEnd": 277,
+      "printedPageStart": 272,
+      "printedPageEnd": 272,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.0-p009",
+      "kind": "text",
+      "section": "ভেক্টর রাশির জ্যামিতিক প্রতিরূপ: দিক নির্দেশক রেখাংশ",
+      "caption": null,
+      "body": "কোনো ভেক্টর (দিক নির্দেশক রেখাংশ) যে অসীম সরলরেখার অংশ বিশেষ, তাকে ঐ ভেক্টরের ধারক রেখা বা শুধু ধারক (support) বলা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 277,
+      "pdfPageEnd": 277,
+      "printedPageStart": 272,
+      "printedPageEnd": 272,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.0-p010",
+      "kind": "text",
+      "section": "ভেক্টর রাশির জ্যামিতিক প্রতিরূপ: দিক নির্দেশক রেখাংশ",
+      "caption": null,
+      "body": "সচরাচর একটি ভেক্টরকে একটি অক্ষর দিয়ে সূচিত করা হয়; যেমন $<u>u</u> = \\overrightarrow{AB}$ ভেক্টর বুঝাতে ভেক্টরটির নিচে দাগ (underscore) দেওয়া হয় এবং এর নির্দেশকারী সদিক রেখাংশের উপরে $\\rightarrow$ চিহ্ন দেওয়া হয়। $<u>u</u> = \\overrightarrow{AB}$ এর অর্থ $<u>u</u>$ ভেক্টরের আদি বিন্দু $A$ ও প্রান্তবিন্দু $B$ এবং এর দিক $A$ এর দিক হতে $B$ এর দিকে এবং এর দৈর্ঘ্য $|<u>u</u>| = |\\overrightarrow{AB}|$, $AB$ রেখাংশের দৈর্ঘ্য।",
+      "image": null,
+      "formulas": [
+        "<u>u</u> = \\overrightarrow{AB}",
+        "\\rightarrow",
+        "<u>u</u> = \\overrightarrow{AB}",
+        "<u>u</u>",
+        "A",
+        "B",
+        "A",
+        "B",
+        "|<u>u</u>| = |\\overrightarrow{AB}|",
+        "AB"
+      ],
+      "pdfPageStart": 277,
+      "pdfPageEnd": 277,
+      "printedPageStart": 272,
+      "printedPageEnd": 272,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.0-p011",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "ক) তোমার বাড়ি হতে স্কুল সোজা দক্ষিণে ৩ কি.মি. দূরে অবস্থিত। বাড়ি হতে হুঁটে স্কুলে যেতে এক ঘণ্টা সময় লাগলে তোমার গতিবেগ কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 277,
+      "pdfPageEnd": 277,
+      "printedPageStart": 272,
+      "printedPageEnd": 272,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.0-p012",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "খ) স্কুল ছুটির পর সাইকেলে ২০ মিনিটে বাড়ি এলে এক্ষেত্রে তোমার গতিবেগ কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 277,
+      "pdfPageEnd": 277,
+      "printedPageStart": 272,
+      "printedPageEnd": 272,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

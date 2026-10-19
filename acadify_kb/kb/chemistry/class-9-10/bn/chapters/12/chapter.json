@@ -58,10 +58,10 @@
     },
     "byReason": {
       "latin-junk": 9,
+      "known-confusable-corrected": 16,
       "verify-formula": 23,
-      "known-confusable-corrected": 8,
       "verify-table": 1
     },
-    "needsReview": 36
+    "needsReview": 44
   }
 }

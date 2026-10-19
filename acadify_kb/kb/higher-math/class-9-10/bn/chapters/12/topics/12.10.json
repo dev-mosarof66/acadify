@@ -1,0 +1,1086 @@
+{
+  "id": "higher-math-9-10-bn-c12-t12.10",
+  "key": "12.10",
+  "title": "কতিপয় উদাহরণ",
+  "chapter": 12,
+  "ordinal": 10,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১.** দেখাও যে,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $-(-<u>a</u>) = <u>a</u>$",
+      "image": null,
+      "formulas": [
+        "-(-<u>a</u>) = <u>a</u>"
+      ],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $-m(<u>a</u>) = m(-<u>a</u>) = -(m<u>a</u>)$ যেখানে $m$ একটি স্কেলার।",
+      "image": null,
+      "formulas": [
+        "-m(<u>a</u>) = m(-<u>a</u>) = -(m<u>a</u>)",
+        "m"
+      ],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $\\frac{1}{|<u>a</u>|}<u>a</u>$ একটি একক ভেক্টর যার দিক ও $<u>a</u>$ এর দিক একই",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{|<u>a</u>|}<u>a</u>",
+        "<u>a</u>"
+      ],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p005",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "ক) বিপরীত ভেক্টরের ধর্ম অনুযায়ী $<u>a</u> + (-<u>a</u>) = <u>0</u>$",
+      "image": null,
+      "formulas": [
+        "<u>a</u> + (-<u>a</u>) = <u>0</u>"
+      ],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p006",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "আবার $(-<u>a</u>) + (-(-<u>a</u>)) = <u>0</u>$",
+      "image": null,
+      "formulas": [
+        "(-<u>a</u>) + (-(-<u>a</u>)) = <u>0</u>"
+      ],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p007",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore (-<u>a</u>) + (-(-<u>a</u>)) = <u>a</u> + (-<u>a</u>)$",
+      "image": null,
+      "formulas": [
+        "\\therefore (-<u>a</u>) + (-(-<u>a</u>)) = <u>a</u> + (-<u>a</u>)"
+      ],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p008",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore (-(-<u>a</u>)) = <u>a</u>$ [ভেক্টর যোগের বর্জনবিধি]",
+      "image": null,
+      "formulas": [
+        "\\therefore (-(-<u>a</u>)) = <u>a</u>"
+      ],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p009",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "খ) $m<u>a</u> + (-m)<u>a</u> = [m + (-m)]<u>a</u> = 0<u>a</u> = <u>0</u>$",
+      "image": null,
+      "formulas": [
+        "m<u>a</u> + (-m)<u>a</u> = [m + (-m)]<u>a</u> = 0<u>a</u> = <u>0</u>"
+      ],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p010",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore (-m)<u>a</u> = -m<u>a</u> \\dots \\dots \\dots (1)$",
+      "image": null,
+      "formulas": [
+        "\\therefore (-m)<u>a</u> = -m<u>a</u> \\dots \\dots \\dots (1)"
+      ],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p011",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "আবার $m<u>a</u> + m(-<u>a</u>) = m[<u>a</u> + (-<u>a</u>)] = m<u>0</u> = <u>0</u>$",
+      "image": null,
+      "formulas": [
+        "m<u>a</u> + m(-<u>a</u>) = m[<u>a</u> + (-<u>a</u>)] = m<u>0</u> = <u>0</u>"
+      ],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p012",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore m(-<u>a</u>) = -m<u>a</u> \\dots \\dots \\dots (2)$",
+      "image": null,
+      "formulas": [
+        "\\therefore m(-<u>a</u>) = -m<u>a</u> \\dots \\dots \\dots (2)"
+      ],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p013",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "(1) এবং (2) থেকে $(-m)<u>a</u> = m(-<u>a</u>) = -m<u>a</u>$",
+      "image": null,
+      "formulas": [
+        "(-m)<u>a</u> = m(-<u>a</u>) = -m<u>a</u>"
+      ],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p014",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "গ) $<u>a</u> \\neq <u>0</u>$ হওয়ায় $|<u>a</u>| \\neq 0$",
+      "image": null,
+      "formulas": [
+        "<u>a</u> \\neq <u>0</u>",
+        "|<u>a</u>| \\neq 0"
+      ],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p015",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "মনে করি, $\\widehat{a} = \\frac{1}{|<u>a</u>|}<u>a</u>$",
+      "image": null,
+      "formulas": [
+        "\\widehat{a} = \\frac{1}{|<u>a</u>|}<u>a</u>"
+      ],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p016",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "তাহলে $|\\widehat{a}| = \\frac{1}{|<u>a</u>|}|<u>a</u>| = 1$ এবং $\\widehat{a}$ এর দিক ও $<u>a</u>$ এর দিক একই। সুতরাং $\\widehat{a}$ একটি একক ভেক্টর যার দিক $<u>a</u>$ মূখী।",
+      "image": null,
+      "formulas": [
+        "|\\widehat{a}| = \\frac{1}{|<u>a</u>|}|<u>a</u>| = 1",
+        "\\widehat{a}",
+        "<u>a</u>",
+        "\\widehat{a}",
+        "<u>a</u>"
+      ],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p017",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "**উদাহরণ ২.** $ABCD$ একটি সামান্তরিক যার কর্ণদ্বয় $AC$ ও $BD$।",
+      "image": null,
+      "formulas": [
+        "ABCD",
+        "AC",
+        "BD"
+      ],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p018",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "ক) $\\overrightarrow{AC}$ এবং $\\overrightarrow{BD}$ ভেক্টরদ্বয়কে $\\overrightarrow{AB}$ এবং $\\overrightarrow{AD}$ ভেক্টরদ্বয়ের মাধ্যমে প্রকাশ করো।",
+      "image": null,
+      "formulas": [
+        "\\overrightarrow{AC}",
+        "\\overrightarrow{BD}",
+        "\\overrightarrow{AB}",
+        "\\overrightarrow{AD}"
+      ],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p019",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "খ) $\\overrightarrow{AB}$ এবং $\\overrightarrow{AD}$ ভেক্টরদ্বয়কে $\\overrightarrow{AC}$ এবং $\\overrightarrow{BD}$ ভেক্টরদ্বয়ের মাধ্যমে প্রকাশ করো।",
+      "image": null,
+      "formulas": [
+        "\\overrightarrow{AB}",
+        "\\overrightarrow{AD}",
+        "\\overrightarrow{AC}",
+        "\\overrightarrow{BD}"
+      ],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p020",
+      "kind": "figure",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "drawing: A parallelogram ABCD with diagonals AC and BD intersecting at point O. The sides and diagonals are marked with arrows indicating direction.",
+      "image": "p287-page_12_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 287,
+      "pdfPageEnd": 287,
+      "printedPageStart": 282,
+      "printedPageEnd": 282,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p021",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "ক) $\\overrightarrow{AC} = \\overrightarrow{AD} + \\overrightarrow{DC} = \\overrightarrow{AD} + \\overrightarrow{AB}$\nআবার, $\\overrightarrow{AB} + \\overrightarrow{BD} = \\overrightarrow{AD}$ বা, $\\overrightarrow{BD} = \\overrightarrow{AD} - \\overrightarrow{AB}$",
+      "image": null,
+      "formulas": [
+        "\\overrightarrow{AC} = \\overrightarrow{AD} + \\overrightarrow{DC} = \\overrightarrow{AD} + \\overrightarrow{AB}",
+        "\\overrightarrow{AB} + \\overrightarrow{BD} = \\overrightarrow{AD}",
+        "\\overrightarrow{BD} = \\overrightarrow{AD} - \\overrightarrow{AB}"
+      ],
+      "pdfPageStart": 287,
+      "pdfPageEnd": 287,
+      "printedPageStart": 282,
+      "printedPageEnd": 282,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p022",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "খ) যেহেতু সমান্তরিকের কর্ণদ্বয় পরস্পর সমদ্বিখণ্ডিত হয়,\n$\\overrightarrow{AB} = \\overrightarrow{AO} + \\overrightarrow{OB} = \\frac{1}{2}\\overrightarrow{AC} + \\frac{1}{2}\\overrightarrow{DB} = \\frac{1}{2}\\overrightarrow{AC} - \\frac{1}{2}\\overrightarrow{BD}$\nএবং $\\overrightarrow{AD} = \\overrightarrow{AO} + \\overrightarrow{OD} = \\frac{1}{2}\\overrightarrow{AC} + \\frac{1}{2}\\overrightarrow{BD}$",
+      "image": null,
+      "formulas": [
+        "\\overrightarrow{AB} = \\overrightarrow{AO} + \\overrightarrow{OB} = \\frac{1}{2}\\overrightarrow{AC} + \\frac{1}{2}\\overrightarrow{DB} = \\frac{1}{2}\\overrightarrow{AC} - \\frac{1}{2}\\overrightarrow{BD}",
+        "\\overrightarrow{AD} = \\overrightarrow{AO} + \\overrightarrow{OD} = \\frac{1}{2}\\overrightarrow{AC} + \\frac{1}{2}\\overrightarrow{BD}"
+      ],
+      "pdfPageStart": 287,
+      "pdfPageEnd": 287,
+      "printedPageStart": 282,
+      "printedPageEnd": 282,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p023",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "**উদাহরণ ৩.** ভেক্টরের সাহায্যে প্রমাণ করো যে, ত্রিভুজের যেকোনো দুই বাহুর মধ্যবিন্দুদ্বয়ের সংযোজক রেখাংশ ঐ ত্রিভুজের তৃতীয় বাহুর সমান্তরাল ও তার অর্ধেক।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 287,
+      "pdfPageEnd": 287,
+      "printedPageStart": 282,
+      "printedPageEnd": 282,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p024",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "**সমাধান:** মনে করি, $ABC$ ত্রিভুজের $AB$ ও $AC$ বাহুদ্বয়ের মধ্যবিন্দু যথাক্রমে $D$ ও $E$। $D$ ও $E$ যোগ করি। প্রমাণ করতে হবে যে, $DE \\parallel BC$ এবং $DE = \\frac{1}{2}BC$।",
+      "image": null,
+      "formulas": [
+        "ABC",
+        "AB",
+        "AC",
+        "D",
+        "E",
+        "D",
+        "E",
+        "DE \\parallel BC",
+        "DE = \\frac{1}{2}BC"
+      ],
+      "pdfPageStart": 287,
+      "pdfPageEnd": 287,
+      "printedPageStart": 282,
+      "printedPageEnd": 282,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p025",
+      "kind": "figure",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "drawing: A triangle ABC with midpoints D and E on sides AB and AC respectively, and a line segment DE connecting them.",
+      "image": "p287-page_12_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 287,
+      "pdfPageEnd": 287,
+      "printedPageStart": 282,
+      "printedPageEnd": 282,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p026",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "ভেক্টর বিয়োগের ত্রিভুজবিধি অনুসারে, $\\overrightarrow{AE} - \\overrightarrow{AD} = \\overrightarrow{DE}$ (1)\nএবং $\\overrightarrow{AC} - \\overrightarrow{AB} = \\overrightarrow{BC}$\nকিন্তু $\\overrightarrow{AC} = 2\\overrightarrow{AE}$, $\\overrightarrow{AB} = 2\\overrightarrow{AD}$ [$\\because D, E$ বিন্দু যথাক্রমে $AB$ ও $AC$ এর মধ্যবিন্দু]\n$\\therefore \\overrightarrow{AC} - \\overrightarrow{AB} = \\overrightarrow{BC}$ থেকে পাই\n$2\\overrightarrow{AE} - 2\\overrightarrow{AD} = \\overrightarrow{BC}$, অর্থাৎ $2(\\overrightarrow{AE} - \\overrightarrow{AD}) = \\overrightarrow{BC}$\n$\\therefore 2\\overrightarrow{DE} = \\overrightarrow{BC}$ [(1) হতে]\n$\\therefore \\overrightarrow{DE} = \\frac{1}{2}\\overrightarrow{BC}$\nএবং $|\\overrightarrow{DE}| = \\frac{1}{2}|\\overrightarrow{BC}|$ বা $DE = \\frac{1}{2}BC$ সুতরাং $\\overrightarrow{DE}$ ও $\\overrightarrow{BC}$ ভেক্টরদ্বয়ের ধারক রেখা একই বা সমান্তরাল। কিন্তু এখানে ধারক রেখা এক নয়। সুতরাং $\\overrightarrow{DE}$ ও $\\overrightarrow{BC}$ ভেক্টরদ্বয়ের ধারক রেখাদ্বয় অর্থাৎ $DE$ এবং $BC$ সমান্তরাল।",
+      "image": null,
+      "formulas": [
+        "\\overrightarrow{AE} - \\overrightarrow{AD} = \\overrightarrow{DE}",
+        "\\overrightarrow{AC} - \\overrightarrow{AB} = \\overrightarrow{BC}",
+        "\\overrightarrow{AC} = 2\\overrightarrow{AE}",
+        "\\overrightarrow{AB} = 2\\overrightarrow{AD}",
+        "\\because D, E",
+        "AB",
+        "AC",
+        "\\therefore \\overrightarrow{AC} - \\overrightarrow{AB} = \\overrightarrow{BC}",
+        "2\\overrightarrow{AE} - 2\\overrightarrow{AD} = \\overrightarrow{BC}",
+        "2(\\overrightarrow{AE} - \\overrightarrow{AD}) = \\overrightarrow{BC}",
+        "\\therefore 2\\overrightarrow{DE} = \\overrightarrow{BC}",
+        "\\therefore \\overrightarrow{DE} = \\frac{1}{2}\\overrightarrow{BC}",
+        "|\\overrightarrow{DE}| = \\frac{1}{2}|\\overrightarrow{BC}|",
+        "DE = \\frac{1}{2}BC",
+        "\\overrightarrow{DE}",
+        "\\overrightarrow{BC}",
+        "\\overrightarrow{DE}",
+        "\\overrightarrow{BC}",
+        "DE",
+        "BC"
+      ],
+      "pdfPageStart": 287,
+      "pdfPageEnd": 288,
+      "printedPageStart": 282,
+      "printedPageEnd": 283,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p027",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "**উদাহরণ ৪.** ভেক্টর পদ্ধতিতে প্রমাণ করো যে, সামান্তরিকের কর্ণদ্বয় পরস্পরকে সমদ্বিখণ্ডিত করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p028",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "**সমাধান:** মনে করি, $ABCD$ সামান্তরিকের কর্ণদ্বয় $AC$ ও $BD$ পরস্পর $O$ বিন্দুতে ছেদ করেছে।",
+      "image": null,
+      "formulas": [
+        "ABCD",
+        "AC",
+        "BD",
+        "O"
+      ],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p029",
+      "kind": "figure",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "drawing: A parallelogram ABCD with diagonals AC and BD intersecting at point O. The sides are labeled with vectors a, b, c, and d.",
+      "image": "p288-page_13_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p030",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "মনে করি, $\\overrightarrow{AO} = <u>a</u>$, $\\overrightarrow{BO} = <u>b</u>$, $\\overrightarrow{OC} = <u>c</u>$, $\\overrightarrow{OD} = <u>d</u>$",
+      "image": null,
+      "formulas": [
+        "\\overrightarrow{AO} = <u>a</u>",
+        "\\overrightarrow{BO} = <u>b</u>",
+        "\\overrightarrow{OC} = <u>c</u>",
+        "\\overrightarrow{OD} = <u>d</u>"
+      ],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p031",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "প্রমাণ করতে হবে যে, $|<u>a</u>| = |<u>c</u>|$, $|<u>b</u>| = |<u>d</u>|$",
+      "image": null,
+      "formulas": [
+        "|<u>a</u>| = |<u>c</u>|",
+        "|<u>b</u>| = |<u>d</u>|"
+      ],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p032",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\overrightarrow{AO} + \\overrightarrow{OD} = \\overrightarrow{AD}$ এবং $\\overrightarrow{BO} + \\overrightarrow{OC} = \\overrightarrow{BC}$",
+      "image": null,
+      "formulas": [
+        "\\overrightarrow{AO} + \\overrightarrow{OD} = \\overrightarrow{AD}",
+        "\\overrightarrow{BO} + \\overrightarrow{OC} = \\overrightarrow{BC}"
+      ],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p033",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "যেহেতু সামান্তরিকের বিপরীত বাহুদ্বয় পরস্পর সমান ও সমান্তরাল, $\\overrightarrow{AD} = \\overrightarrow{BC}$",
+      "image": null,
+      "formulas": [
+        "\\overrightarrow{AD} = \\overrightarrow{BC}"
+      ],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p034",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "অর্থাৎ $\\overrightarrow{AO} + \\overrightarrow{OD} = \\overrightarrow{BO} + \\overrightarrow{OC}$",
+      "image": null,
+      "formulas": [
+        "\\overrightarrow{AO} + \\overrightarrow{OD} = \\overrightarrow{BO} + \\overrightarrow{OC}"
+      ],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p035",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $<u>a</u> + <u>d</u> = <u>b</u> + <u>c</u>$",
+      "image": null,
+      "formulas": [
+        "<u>a</u> + <u>d</u> = <u>b</u> + <u>c</u>"
+      ],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p036",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "বা, $<u>a</u> - <u>c</u> = <u>b</u> - <u>d</u>$ [উভয় পক্ষে $-c - d$ যোগ করে]",
+      "image": null,
+      "formulas": [
+        "<u>a</u> - <u>c</u> = <u>b</u> - <u>d</u>",
+        "-c - d"
+      ],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p037",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "এখানে $<u>a</u>$ ও $<u>c</u>$ এর ধারক $AC$, $\\therefore <u>a</u> - <u>c</u>$ এর ধারক $AC$।",
+      "image": null,
+      "formulas": [
+        "<u>a</u>",
+        "<u>c</u>",
+        "AC",
+        "\\therefore <u>a</u> - <u>c</u>",
+        "AC"
+      ],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p038",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$<u>b</u>$ ও $<u>d</u>$ এর ধারক $BD$, $\\therefore <u>b</u> - <u>d</u>$ এর ধারক $BD$।",
+      "image": null,
+      "formulas": [
+        "<u>b</u>",
+        "<u>d</u>",
+        "BD",
+        "\\therefore <u>b</u> - <u>d</u>",
+        "BD"
+      ],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p039",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$<u>a</u> - <u>c</u>$ ও $<u>b</u> - <u>d</u>$ দুটি সমান অশূন্য ভেক্টর হলে তাদের ধারক রেখা একই অথবা সমান্তরাল হবে। কিন্তু $AC, BD$ দুইটি পরস্পরচ্ছেদী অসমান্তরাল সরলরেখা। সুতরাং $<u>a</u> - <u>c</u>$ ও $<u>b</u> - <u>d</u>$ ভেক্টরদ্বয় অশূন্য হতে পারে না বিধায় এদের মান শূন্য হবে।",
+      "image": null,
+      "formulas": [
+        "<u>a</u> - <u>c</u>",
+        "<u>b</u> - <u>d</u>",
+        "AC, BD",
+        "<u>a</u> - <u>c</u>",
+        "<u>b</u> - <u>d</u>"
+      ],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p040",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore <u>a</u> - <u>c</u> = <u>0</u>$ বা $<u>a</u> = <u>c</u>$ এবং $<u>b</u> - <u>d</u> = <u>0</u>$ বা $<u>b</u> = <u>d</u>$",
+      "image": null,
+      "formulas": [
+        "\\therefore <u>a</u> - <u>c</u> = <u>0</u>",
+        "<u>a</u> = <u>c</u>",
+        "<u>b</u> - <u>d</u> = <u>0</u>",
+        "<u>b</u> = <u>d</u>"
+      ],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p041",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore |<u>a</u>| = |<u>c</u>|$ এবং $|<u>b</u>| = |<u>d</u>|$",
+      "image": null,
+      "formulas": [
+        "\\therefore |<u>a</u>| = |<u>c</u>|",
+        "|<u>b</u>| = |<u>d</u>|"
+      ],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p042",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "অর্থাৎ, সামান্তরিকের কর্ণদ্বয় পরস্পরকে সমদ্বিখণ্ডিত করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p043",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "**উদাহরণ ৫.** ভেক্টর পদ্ধতিতে প্রমাণ করো যে, কোনো চতুর্ভুজের সন্নিহিত বাহুগুলোর মধ্যবিন্দুর সংযোজক রেখাসমূহ একটি সামান্তরিক উৎপন্ন করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p044",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "**সমাধান:** মনে করি, $ABCD$ চতুর্ভুজের বাহুগুলোর মধ্যবিন্দু $P, Q, R, S$। $P$ ও $Q$, $Q$ ও $R$, $R$ ও $S$, $S$ ও $P$ যোগ করি। প্রমাণ করতে হবে যে, $PQRS$ একটি সামান্তরিক।",
+      "image": null,
+      "formulas": [
+        "ABCD",
+        "P, Q, R, S",
+        "P",
+        "Q",
+        "Q",
+        "R",
+        "R",
+        "S",
+        "S",
+        "P",
+        "PQRS"
+      ],
+      "pdfPageStart": 288,
+      "pdfPageEnd": 288,
+      "printedPageStart": 283,
+      "printedPageEnd": 283,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p045",
+      "kind": "figure",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "drawing: A parallelogram ABCD with internal points P, Q, R, S and connecting lines.",
+      "image": "p289-page_14_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 289,
+      "pdfPageEnd": 289,
+      "printedPageStart": 284,
+      "printedPageEnd": 284,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p046",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "মনে করি, $\\overrightarrow{AB} = <u>a</u>$, $\\overrightarrow{BC} = <u>b</u>$, $\\overrightarrow{CD} = <u>c</u>$, $\\overrightarrow{DA} = <u>d</u>$",
+      "image": null,
+      "formulas": [
+        "\\overrightarrow{AB} = <u>a</u>",
+        "\\overrightarrow{BC} = <u>b</u>",
+        "\\overrightarrow{CD} = <u>c</u>",
+        "\\overrightarrow{DA} = <u>d</u>"
+      ],
+      "pdfPageStart": 289,
+      "pdfPageEnd": 289,
+      "printedPageStart": 284,
+      "printedPageEnd": 284,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p047",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "তাহলে, $\\overrightarrow{PQ} = \\overrightarrow{PB} + \\overrightarrow{BQ} = \\frac{1}{2}\\overrightarrow{AB} + \\frac{1}{2}\\overrightarrow{BC} = \\frac{1}{2}(<u>a</u> + <u>b</u>)$",
+      "image": null,
+      "formulas": [
+        "\\overrightarrow{PQ} = \\overrightarrow{PB} + \\overrightarrow{BQ} = \\frac{1}{2}\\overrightarrow{AB} + \\frac{1}{2}\\overrightarrow{BC} = \\frac{1}{2}(<u>a</u> + <u>b</u>)"
+      ],
+      "pdfPageStart": 289,
+      "pdfPageEnd": 289,
+      "printedPageStart": 284,
+      "printedPageEnd": 284,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p048",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "অনুরূপভাবে, $\\overrightarrow{QR} = \\frac{1}{2}(<u>b</u> + <u>c</u>)$, $\\overrightarrow{RS} = \\frac{1}{2}(<u>c</u> + <u>d</u>)$ এবং $\\overrightarrow{SP} = \\frac{1}{2}(<u>d</u> + <u>a</u>)$",
+      "image": null,
+      "formulas": [
+        "\\overrightarrow{QR} = \\frac{1}{2}(<u>b</u> + <u>c</u>)",
+        "\\overrightarrow{RS} = \\frac{1}{2}(<u>c</u> + <u>d</u>)",
+        "\\overrightarrow{SP} = \\frac{1}{2}(<u>d</u> + <u>a</u>)"
+      ],
+      "pdfPageStart": 289,
+      "pdfPageEnd": 289,
+      "printedPageStart": 284,
+      "printedPageEnd": 284,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p049",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "কিন্তু $(<u>a</u> + <u>b</u>) + (<u>c</u> + <u>d</u>) = \\overrightarrow{AC} + \\overrightarrow{CA} = \\overrightarrow{AC} - \\overrightarrow{AC} = <u>0</u>$",
+      "image": null,
+      "formulas": [
+        "(<u>a</u> + <u>b</u>) + (<u>c</u> + <u>d</u>) = \\overrightarrow{AC} + \\overrightarrow{CA} = \\overrightarrow{AC} - \\overrightarrow{AC} = <u>0</u>"
+      ],
+      "pdfPageStart": 289,
+      "pdfPageEnd": 289,
+      "printedPageStart": 284,
+      "printedPageEnd": 284,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p050",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "অর্থাৎ $(<u>a</u> + <u>b</u>) = -(<u>c</u> + <u>d</u>)$",
+      "image": null,
+      "formulas": [
+        "(<u>a</u> + <u>b</u>) = -(<u>c</u> + <u>d</u>)"
+      ],
+      "pdfPageStart": 289,
+      "pdfPageEnd": 289,
+      "printedPageStart": 284,
+      "printedPageEnd": 284,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p051",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore \\overrightarrow{PQ} = \\frac{1}{2}(<u>a</u> + <u>b</u>) = -\\frac{1}{2}(<u>c</u> + <u>d</u>) = -\\overrightarrow{RS} = \\overrightarrow{SR}$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\overrightarrow{PQ} = \\frac{1}{2}(<u>a</u> + <u>b</u>) = -\\frac{1}{2}(<u>c</u> + <u>d</u>) = -\\overrightarrow{RS} = \\overrightarrow{SR}"
+      ],
+      "pdfPageStart": 289,
+      "pdfPageEnd": 289,
+      "printedPageStart": 284,
+      "printedPageEnd": 284,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p052",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore PQ$ এবং $SR$ সমান ও সমান্তরাল।",
+      "image": null,
+      "formulas": [
+        "\\therefore PQ",
+        "SR"
+      ],
+      "pdfPageStart": 289,
+      "pdfPageEnd": 289,
+      "printedPageStart": 284,
+      "printedPageEnd": 284,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p053",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "অনুরূপভাবে, $QR$ এবং $PS$ সমান ও সমান্তরাল।",
+      "image": null,
+      "formulas": [
+        "QR",
+        "PS"
+      ],
+      "pdfPageStart": 289,
+      "pdfPageEnd": 289,
+      "printedPageStart": 284,
+      "printedPageEnd": 284,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.10-p054",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore PQRS$ একটি সমান্তরিক।",
+      "image": null,
+      "formulas": [
+        "\\therefore PQRS"
+      ],
+      "pdfPageStart": 289,
+      "pdfPageEnd": 289,
+      "printedPageStart": 284,
+      "printedPageEnd": 284,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

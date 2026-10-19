@@ -1,0 +1,1140 @@
+{
+  "id": "higher-math-9-10-bn-c09-t9.12",
+  "key": "9.12",
+  "title": "ফাংশনের লেখচিত্র",
+  "chapter": 9,
+  "ordinal": 13,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কোনো সমতলে কোনো ফাংশনকে জ্যামিতিকভাবে উপস্থাপন করা গেলে ঐ ফাংশনকে চেনা যায়। ফাংশনের জ্যামিতিকভাবে এই উপস্থাপনকে ফাংশনের লেখচিত্র অঙ্কন করা হয়েছে বলা হয়। এখানে সূচক, লগারিদম ও পরমমান ফাংশনের লেখচিত্রের অঙ্কন পদ্ধতি নিয়ে আলোচনা করা হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 221,
+      "pdfPageEnd": 221,
+      "printedPageStart": 216,
+      "printedPageEnd": 216,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(1) $y = f(x) = a^x$ এর লেখচিত্র অঙ্কন করো:",
+      "image": null,
+      "formulas": [
+        "y = f(x) = a^x"
+      ],
+      "pdfPageStart": 221,
+      "pdfPageEnd": 221,
+      "printedPageStart": 216,
+      "printedPageEnd": 216,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$(i)$ যখন $a > 1$ এবং $x$ যেকোনো ধনাত্মক বা ঋণাত্মক পূর্ণসংখ্যা তখন ফাংশন $f(x) = a^x$ সর্বদা ধনাত্মক।",
+      "image": null,
+      "formulas": [
+        "(i)",
+        "a > 1",
+        "x",
+        "f(x) = a^x"
+      ],
+      "pdfPageStart": 221,
+      "pdfPageEnd": 221,
+      "printedPageStart": 216,
+      "printedPageEnd": 216,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধাপ ১. $x$ এর ধনাত্মক মানের জন্য $x$ এর মান বৃদ্ধির সাথে সাথে $f(x)$ এর মান বৃদ্ধি পায়।",
+      "image": null,
+      "formulas": [
+        "x",
+        "x",
+        "f(x)"
+      ],
+      "pdfPageStart": 222,
+      "pdfPageEnd": 222,
+      "printedPageStart": 217,
+      "printedPageEnd": 217,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধাপ ২. যখন $x = 0$ তখন $y = a^0 = 1$, সুতরাং $(0, 1)$ রেখার উপর একটি বিন্দু।",
+      "image": null,
+      "formulas": [
+        "x = 0",
+        "y = a^0 = 1",
+        "(0, 1)"
+      ],
+      "pdfPageStart": 222,
+      "pdfPageEnd": 222,
+      "printedPageStart": 217,
+      "printedPageEnd": 217,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধাপ ৩. $x$ এর ঋণাত্মক মানের জন্য $x$ এর মান ক্রমাগত বৃদ্ধির সাথে সাথে $f(x)$ এর মান ক্রমাগত হ্রাস পাবে। অর্থাৎ $x \\to -\\infty$ হলে $y \\to 0$ হবে।",
+      "image": null,
+      "formulas": [
+        "x",
+        "x",
+        "f(x)",
+        "x \\to -\\infty",
+        "y \\to 0"
+      ],
+      "pdfPageStart": 222,
+      "pdfPageEnd": 222,
+      "printedPageStart": 217,
+      "printedPageEnd": 217,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে $y = a^x, a > 1$ ফাংশনের লেখচিত্র পাশের চিত্রে দেখানো হলো। এখানে $D_f = (-\\infty, \\infty)$ এবং $R_f = (0, \\infty)$।",
+      "image": null,
+      "formulas": [
+        "y = a^x, a > 1",
+        "D_f = (-\\infty, \\infty)",
+        "R_f = (0, \\infty)"
+      ],
+      "pdfPageStart": 222,
+      "pdfPageEnd": 222,
+      "printedPageStart": 217,
+      "printedPageEnd": 217,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p008",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: graph of exponential function y = a^x for a > 1",
+      "image": "p222-page_25_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 222,
+      "pdfPageEnd": 222,
+      "printedPageStart": 217,
+      "printedPageEnd": 217,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$(ii)$ যখন $0 < a < 1$, $x$ এর মান ধনাত্মক বা ঋণাত্মক তখন $y = f(x) = a^x$ সবদাই ধনাত্মক।",
+      "image": null,
+      "formulas": [
+        "(ii)",
+        "0 < a < 1",
+        "x",
+        "y = f(x) = a^x"
+      ],
+      "pdfPageStart": 222,
+      "pdfPageEnd": 222,
+      "printedPageStart": 217,
+      "printedPageEnd": 217,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধাপ ১. লক্ষ্য করি, মূল বিন্দুর ডানদিকে $x$ এর মান ক্রমাগত বৃদ্ধি পেতে থাকলে অর্থাৎ $x \\to \\infty$ হলে $y \\to 0$ হবে।",
+      "image": null,
+      "formulas": [
+        "x",
+        "x \\to \\infty",
+        "y \\to 0"
+      ],
+      "pdfPageStart": 222,
+      "pdfPageEnd": 222,
+      "printedPageStart": 217,
+      "printedPageEnd": 217,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধাপ ২. যখন $x = 0$ তখন $y = a^0 = 1$ সুতরাং $(0, 1)$ বিন্দু রেখার উপর পড়ে।",
+      "image": null,
+      "formulas": [
+        "x = 0",
+        "y = a^0 = 1",
+        "(0, 1)"
+      ],
+      "pdfPageStart": 222,
+      "pdfPageEnd": 222,
+      "printedPageStart": 217,
+      "printedPageEnd": 217,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধাপ ৩. যখন $a < 1$ এবং $x$ ঋণাত্মক তখন $x$ এর মান মূল বিন্দুর বামদিকে ক্রমাগত বৃদ্ধির সাথে সাথে $y$ এর মান ক্রমাগত বৃদ্ধি পাবে অর্থাৎ $y \\to \\infty$।",
+      "image": null,
+      "formulas": [
+        "a < 1",
+        "x",
+        "x",
+        "y",
+        "y \\to \\infty"
+      ],
+      "pdfPageStart": 222,
+      "pdfPageEnd": 222,
+      "printedPageStart": 217,
+      "printedPageEnd": 217,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধরি $a = \\frac{1}{2} < 1$, $x = -2, -3, \\dots, -n$ তখন",
+      "image": null,
+      "formulas": [
+        "a = \\frac{1}{2} < 1",
+        "x = -2, -3, \\dots, -n"
+      ],
+      "pdfPageStart": 222,
+      "pdfPageEnd": 222,
+      "printedPageStart": 217,
+      "printedPageEnd": 217,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$y = f(x) = a^x = (\\frac{1}{2})^{-2} = 2^2, y = 2^3, \\dots, y = 2^n$. যখন $n \\to \\infty$ তখন $y \\to \\infty$।",
+      "image": null,
+      "formulas": [
+        "y = f(x) = a^x = (\\frac{1}{2})^{-2} = 2^2, y = 2^3, \\dots, y = 2^n",
+        "n \\to \\infty",
+        "y \\to \\infty"
+      ],
+      "pdfPageStart": 222,
+      "pdfPageEnd": 222,
+      "printedPageStart": 217,
+      "printedPageEnd": 217,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$y = f(x) = a^x$ এর লেখচিত্র পাশের চিত্রে দেখানো হলো।",
+      "image": null,
+      "formulas": [
+        "y = f(x) = a^x"
+      ],
+      "pdfPageStart": 222,
+      "pdfPageEnd": 222,
+      "printedPageStart": 217,
+      "printedPageEnd": 217,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে $D_f = (-\\infty, \\infty)$ এবং $R_f = (0, \\infty)$।",
+      "image": null,
+      "formulas": [
+        "D_f = (-\\infty, \\infty)",
+        "R_f = (0, \\infty)"
+      ],
+      "pdfPageStart": 222,
+      "pdfPageEnd": 222,
+      "printedPageStart": 217,
+      "printedPageEnd": 217,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p017",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: graph of exponential function y = a^x for 0 < a < 1",
+      "image": "p222-page_25_chart_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 222,
+      "pdfPageEnd": 222,
+      "printedPageStart": 217,
+      "printedPageEnd": 217,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:** নিচের ফাংশনগুলোর লেখচিত্র অঙ্কন কর এবং ডোমেন ও রেঞ্জ নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 222,
+      "pdfPageEnd": 222,
+      "printedPageStart": 217,
+      "printedPageEnd": 217,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $f(x) = 2^x$\nখ) $f(x) = \\left(\\frac{1}{2}\\right)^x$\nগ) $f(x) = e^x, 2 < e < 3$\nঘ) $f(x) = e^{-x}, 2 < e < 3$\nঙ) $f(x) = 3^x$",
+      "image": null,
+      "formulas": [
+        "f(x) = 2^x",
+        "f(x) = \\left(\\frac{1}{2}\\right)^x",
+        "f(x) = e^x, 2 < e < 3",
+        "f(x) = e^{-x}, 2 < e < 3",
+        "f(x) = 3^x"
+      ],
+      "pdfPageStart": 222,
+      "pdfPageEnd": 222,
+      "printedPageStart": 217,
+      "printedPageEnd": 217,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(2) $f(x) = \\log_a x$ এর লেখচিত্র অঙ্কন করো।",
+      "image": null,
+      "formulas": [
+        "f(x) = \\log_a x"
+      ],
+      "pdfPageStart": 222,
+      "pdfPageEnd": 222,
+      "printedPageStart": 217,
+      "printedPageEnd": 217,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$(i)$ ধরি, $y = f(x) = \\log_a x$ যখন $0 < a < 1$। ফাংশনটিকে লেখা যায় $x = a^y$",
+      "image": null,
+      "formulas": [
+        "(i)",
+        "y = f(x) = \\log_a x",
+        "0 < a < 1",
+        "x = a^y"
+      ],
+      "pdfPageStart": 222,
+      "pdfPageEnd": 222,
+      "printedPageStart": 217,
+      "printedPageEnd": 217,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ফর্মা-২৮, উচ্চতর গণিত, ৯ম-১০ম শ্রেণি ধাপ ১. যখন $y$ এর ধনাত্মক মান ক্রমাগত বৃদ্ধি পেতে থাকে অর্থাৎ, $y \\to \\infty$ হয় তখন $x$ এর মান শূন্যের দিকে ধাবিত হয় অর্থাৎ $x \\to 0$",
+      "image": null,
+      "formulas": [
+        "y",
+        "y \\to \\infty",
+        "x",
+        "x \\to 0"
+      ],
+      "pdfPageStart": 222,
+      "pdfPageEnd": 223,
+      "printedPageStart": 217,
+      "printedPageEnd": 218,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধাপ ২. যেহেতু $a^0 = 1$ কাজেই $y = \\log_a 1 = 0$, সুতরাং রেখাটি $(1, 0)$ বিন্দুগামী।",
+      "image": null,
+      "formulas": [
+        "a^0 = 1",
+        "y = \\log_a 1 = 0",
+        "(1, 0)"
+      ],
+      "pdfPageStart": 223,
+      "pdfPageEnd": 223,
+      "printedPageStart": 218,
+      "printedPageEnd": 218,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধাপ ৩. $y$ এর ঋণাত্মক মান অর্থাৎ $y$ এর মান মূলবিন্দুর নিচে দিকে ক্রমাগত বৃদ্ধি পেতে থাকে অর্থাৎ $y \\to -\\infty$ হয় তাহলে $x$ এর মান ক্রমাগত বৃদ্ধি পেতে থাকে অর্থাৎ $x \\to \\infty$",
+      "image": null,
+      "formulas": [
+        "y",
+        "y",
+        "y \\to -\\infty",
+        "x",
+        "x \\to \\infty"
+      ],
+      "pdfPageStart": 223,
+      "pdfPageEnd": 223,
+      "printedPageStart": 218,
+      "printedPageEnd": 218,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p025",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন পাশের চিত্রে $y = \\log_a x, 0 < a < 1$ দেখানো হলো। এখানে $D_f = (0, \\infty)$ এবং $R_f = (-\\infty, \\infty)$",
+      "image": null,
+      "formulas": [
+        "y = \\log_a x, 0 < a < 1",
+        "D_f = (0, \\infty)",
+        "R_f = (-\\infty, \\infty)"
+      ],
+      "pdfPageStart": 223,
+      "pdfPageEnd": 223,
+      "printedPageStart": 218,
+      "printedPageEnd": 218,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p026",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: graph of y = log_a x for 0 < a < 1",
+      "image": "p223-page_26_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 223,
+      "pdfPageEnd": 223,
+      "printedPageStart": 218,
+      "printedPageEnd": 218,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p027",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$(ii)$ যখন $y = \\log_a x, a > 1$ তখন",
+      "image": null,
+      "formulas": [
+        "(ii)",
+        "y = \\log_a x, a > 1"
+      ],
+      "pdfPageStart": 223,
+      "pdfPageEnd": 223,
+      "printedPageStart": 218,
+      "printedPageEnd": 218,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p028",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধাপ ১. যখন $a > 1, y$ এর সকল মানের জন্য $x$ এর মান ধনাত্মক এবং $y$ এর মানের ক্রমাগত বৃদ্ধির সাথে সাথে $x$ এর মান বৃদ্ধিপ্রাপ্ত হয়। অর্থাৎ $y \\to \\infty$ হলে $x \\to \\infty$",
+      "image": null,
+      "formulas": [
+        "a > 1, y",
+        "x",
+        "y",
+        "x",
+        "y \\to \\infty",
+        "x \\to \\infty"
+      ],
+      "pdfPageStart": 223,
+      "pdfPageEnd": 223,
+      "printedPageStart": 218,
+      "printedPageEnd": 218,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p029",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধাপ ২. যেহেতু $a^0 = 1$ কাজেই $y = \\log 1 = 0$ সুতরাং, রেখাটি $(1, 0)$ বিন্দুগামী।",
+      "image": null,
+      "formulas": [
+        "a^0 = 1",
+        "y = \\log 1 = 0",
+        "(1, 0)"
+      ],
+      "pdfPageStart": 223,
+      "pdfPageEnd": 223,
+      "printedPageStart": 218,
+      "printedPageEnd": 218,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p030",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধাপ ৩. $y$ এর ঋণাত্মক মানের জন্য $y$ এর মান ক্রমাগত বৃদ্ধি পেলে অর্থাৎ, $y \\to -\\infty$ হলে $x$ এর মান ক্রমাগত শূন্যের দিকে ধাবিত হয় অর্থাৎ $x \\to 0$।",
+      "image": null,
+      "formulas": [
+        "y",
+        "y",
+        "y \\to -\\infty",
+        "x",
+        "x \\to 0"
+      ],
+      "pdfPageStart": 223,
+      "pdfPageEnd": 223,
+      "printedPageStart": 218,
+      "printedPageEnd": 218,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p031",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন $f(x) = \\log_a x, a > 1$ এর লেখচিত্র পাশের চিত্রে দেখানো হলো। এখানে $D_f = (0, \\infty)$ এবং $R_f = (-\\infty, \\infty)$",
+      "image": null,
+      "formulas": [
+        "f(x) = \\log_a x, a > 1",
+        "D_f = (0, \\infty)",
+        "R_f = (-\\infty, \\infty)"
+      ],
+      "pdfPageStart": 223,
+      "pdfPageEnd": 223,
+      "printedPageStart": 218,
+      "printedPageEnd": 218,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p032",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: graph of y = log_a x for a > 1",
+      "image": "p223-page_26_chart_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 223,
+      "pdfPageEnd": 223,
+      "printedPageStart": 218,
+      "printedPageEnd": 218,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p033",
+      "kind": "figure",
+      "section": "উদাহরণ ৩৪. $f(x) = \\log_{10} x$ এর লেখচিত্র অঙ্কন করো।",
+      "caption": null,
+      "body": "drawing: graph of y = log_10 x",
+      "image": "p223-page_26_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 223,
+      "pdfPageEnd": 223,
+      "printedPageStart": 218,
+      "printedPageEnd": 218,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p034",
+      "kind": "example",
+      "section": "উদাহরণ ৩৪. $f(x) = \\log_{10} x$ এর লেখচিত্র অঙ্কন করো।",
+      "caption": null,
+      "body": "**সমাধান:** ধরি $y = f(x) = \\log_{10} x$",
+      "image": null,
+      "formulas": [
+        "y = f(x) = \\log_{10} x"
+      ],
+      "pdfPageStart": 223,
+      "pdfPageEnd": 223,
+      "printedPageStart": 218,
+      "printedPageEnd": 218,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p035",
+      "kind": "text",
+      "section": "উদাহরণ ৩৪. $f(x) = \\log_{10} x$ এর লেখচিত্র অঙ্কন করো।",
+      "caption": null,
+      "body": "যেহেতু $10^0 = 1$ কাজেই $y = \\log_{10} 1 = 0$ সুতরাং, রেখাটি $(1, 0)$ বিন্দুগামী। যখন $x \\to 0$ তখন $y \\to -\\infty$। যখন $x \\to \\infty$ তখন $y \\to \\infty$।",
+      "image": null,
+      "formulas": [
+        "10^0 = 1",
+        "y = \\log_{10} 1 = 0",
+        "(1, 0)",
+        "x \\to 0",
+        "y \\to -\\infty",
+        "x \\to \\infty",
+        "y \\to \\infty"
+      ],
+      "pdfPageStart": 223,
+      "pdfPageEnd": 223,
+      "printedPageStart": 218,
+      "printedPageEnd": 218,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p036",
+      "kind": "text",
+      "section": "উদাহরণ ৩৪. $f(x) = \\log_{10} x$ এর লেখচিত্র অঙ্কন করো।",
+      "caption": null,
+      "body": "$\\therefore y = \\log_{10} x$ রেখাটি উর্ধ্বগামী।",
+      "image": null,
+      "formulas": [
+        "\\therefore y = \\log_{10} x"
+      ],
+      "pdfPageStart": 223,
+      "pdfPageEnd": 223,
+      "printedPageStart": 218,
+      "printedPageEnd": 218,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p037",
+      "kind": "text",
+      "section": "উদাহরণ ৩৪. $f(x) = \\log_{10} x$ এর লেখচিত্র অঙ্কন করো।",
+      "caption": null,
+      "body": "নিচে রেখাটির লেখচিত্র অঙ্কন করা হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 223,
+      "pdfPageEnd": 223,
+      "printedPageStart": 218,
+      "printedPageEnd": 218,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p038",
+      "kind": "text",
+      "section": "উদাহরণ ৩৪. $f(x) = \\log_{10} x$ এর লেখচিত্র অঙ্কন করো।",
+      "caption": null,
+      "body": "এখানে $D_f = (0, \\infty)$ এবং $R_f = (-\\infty, \\infty)$.",
+      "image": null,
+      "formulas": [
+        "D_f = (0, \\infty)",
+        "R_f = (-\\infty, \\infty)"
+      ],
+      "pdfPageStart": 223,
+      "pdfPageEnd": 223,
+      "printedPageStart": 218,
+      "printedPageEnd": 218,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p039",
+      "kind": "text",
+      "section": "উদাহরণ ৩৪. $f(x) = \\log_{10} x$ এর লেখচিত্র অঙ্কন করো।",
+      "caption": null,
+      "body": "**উদাহরণ ৩৫.** $f(x) = \\ln x$ এর লেখচিত্র অঙ্কন করো।",
+      "image": null,
+      "formulas": [
+        "f(x) = \\ln x"
+      ],
+      "pdfPageStart": 224,
+      "pdfPageEnd": 224,
+      "printedPageStart": 219,
+      "printedPageEnd": 219,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p040",
+      "kind": "text",
+      "section": "উদাহরণ ৩৪. $f(x) = \\log_{10} x$ এর লেখচিত্র অঙ্কন করো।",
+      "caption": null,
+      "body": "**সমাধান:** ধরি $y = f(x) = \\ln x$\nযেহেতু $e^0 = 1$ কাজেই $y = \\ln 1 = 0$ সুতরাং, রেখাটি $(1, 0)$ বিন্দুগামী। যখন $x \\to 0$ তখন $y \\to -\\infty$। যখন $x \\to \\infty$ তখন $y \\to \\infty$।\n$\\therefore y = \\ln x$ রেখাটি উধ্বর্গামী।\nপাশে রেখাটির লেখচিত্র অঙ্কন করা হলো।\nএখানে $D_f = (0, \\infty)$ এবং $R_f = (-\\infty, \\infty)$।",
+      "image": null,
+      "formulas": [
+        "y = f(x) = \\ln x",
+        "e^0 = 1",
+        "y = \\ln 1 = 0",
+        "(1, 0)",
+        "x \\to 0",
+        "y \\to -\\infty",
+        "x \\to \\infty",
+        "y \\to \\infty",
+        "\\therefore y = \\ln x",
+        "D_f = (0, \\infty)",
+        "R_f = (-\\infty, \\infty)"
+      ],
+      "pdfPageStart": 224,
+      "pdfPageEnd": 224,
+      "printedPageStart": 219,
+      "printedPageEnd": 219,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p041",
+      "kind": "figure",
+      "section": "উদাহরণ ৩৪. $f(x) = \\log_{10} x$ এর লেখচিত্র অঙ্কন করো।",
+      "caption": null,
+      "body": "drawing: graph of y = ln x",
+      "image": "p224-page_27_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 224,
+      "pdfPageEnd": 224,
+      "printedPageStart": 219,
+      "printedPageEnd": 219,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p042",
+      "kind": "text",
+      "section": "উদাহরণ ৩৪. $f(x) = \\log_{10} x$ এর লেখচিত্র অঙ্কন করো।",
+      "caption": null,
+      "body": "**উদাহরণ ৩৬.** $y = \\frac{4 - x}{4 + x}$ একটি ফাংশন।",
+      "image": null,
+      "formulas": [
+        "y = \\frac{4 - x}{4 + x}"
+      ],
+      "pdfPageStart": 224,
+      "pdfPageEnd": 224,
+      "printedPageStart": 219,
+      "printedPageEnd": 219,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p043",
+      "kind": "text",
+      "section": "উদাহরণ ৩৪. $f(x) = \\log_{10} x$ এর লেখচিত্র অঙ্কন করো।",
+      "caption": null,
+      "body": "ক) ফাংশনটির ডোমেন নির্ণয় করো।\nখ) ফাংশনটির বিপরীত ফাংশন নির্ণয় করো।\nগ) $g(x) = \\ln y$ হলে, $g(x)$ এর ডোমেন নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "g(x) = \\ln y",
+        "g(x)"
+      ],
+      "pdfPageStart": 224,
+      "pdfPageEnd": 224,
+      "printedPageStart": 219,
+      "printedPageEnd": 219,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p044",
+      "kind": "text",
+      "section": "উদাহরণ ৩৪. $f(x) = \\log_{10} x$ এর লেখচিত্র অঙ্কন করো।",
+      "caption": null,
+      "body": "**সমাধান:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 224,
+      "pdfPageEnd": 224,
+      "printedPageStart": 219,
+      "printedPageEnd": 219,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p045",
+      "kind": "text",
+      "section": "উদাহরণ ৩৪. $f(x) = \\log_{10} x$ এর লেখচিত্র অঙ্কন করো।",
+      "caption": null,
+      "body": "ক) দেওয়া আছে, $y = \\frac{4 - x}{4 + x}$\nএখানে $4 + x = 0$ অর্থাৎ $x = -4$ হলে $y$ অসংজ্ঞায়িত হয়।\n$\\therefore x \\neq -4$\n$\\therefore$ ফাংশনটির ডোমেন $= R - \\{-4\\}$",
+      "image": null,
+      "formulas": [
+        "y = \\frac{4 - x}{4 + x}",
+        "4 + x = 0",
+        "x = -4",
+        "y",
+        "\\therefore x \\neq -4",
+        "\\therefore",
+        "= R - \\{-4\\}"
+      ],
+      "pdfPageStart": 224,
+      "pdfPageEnd": 224,
+      "printedPageStart": 219,
+      "printedPageEnd": 219,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p046",
+      "kind": "text",
+      "section": "উদাহরণ ৩৪. $f(x) = \\log_{10} x$ এর লেখচিত্র অঙ্কন করো।",
+      "caption": null,
+      "body": "খ) দেওয়া আছে, $y = \\frac{4 - x}{4 + x}$\nধরি, $f(x) = y \\therefore x = f^{-1}(y)$\nএখন, $y = \\frac{4 - x}{4 + x}$\nবা, $4y + xy = 4 - x$\nবা, $xy + x = 4 - 4y$\nবা, $x(y + 1) = 4(1 - y)$\nবা, $x = \\frac{4(1 - y)}{1 + y}$\nবা, $f^{-1}(y) = \\frac{4(1 - y)}{1 + y}$ [$\\because x = f^{-1}(y)$]\n$\\therefore f^{-1}(x) = \\frac{4(1 - x)}{(1 + x)}$ [চলক পরিবর্তন করে]",
+      "image": null,
+      "formulas": [
+        "y = \\frac{4 - x}{4 + x}",
+        "f(x) = y \\therefore x = f^{-1}(y)",
+        "y = \\frac{4 - x}{4 + x}",
+        "4y + xy = 4 - x",
+        "xy + x = 4 - 4y",
+        "x(y + 1) = 4(1 - y)",
+        "x = \\frac{4(1 - y)}{1 + y}",
+        "f^{-1}(y) = \\frac{4(1 - y)}{1 + y}",
+        "\\because x = f^{-1}(y)",
+        "\\therefore f^{-1}(x) = \\frac{4(1 - x)}{(1 + x)}"
+      ],
+      "pdfPageStart": 224,
+      "pdfPageEnd": 224,
+      "printedPageStart": 219,
+      "printedPageEnd": 219,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p047",
+      "kind": "text",
+      "section": "উদাহরণ ৩৪. $f(x) = \\log_{10} x$ এর লেখচিত্র অঙ্কন করো।",
+      "caption": null,
+      "body": "গ) দেওয়া আছে, $g(x) = \\ln(y)$\n$\\therefore g(x) = \\ln \\frac{4 - x}{4 + x}$ [$\\because y = \\frac{4 - x}{4 + x}$]\n$\\therefore g(x) \\in R$ হবে যদি $\\frac{4 - x}{4 + x} > 0$ হয়।\nএখন $\\frac{4 - x}{4 + x} > 0$ হবে যদি\n$(i)$ $4 - x > 0$ এবং $4 + x > 0$ হয়, অথবা $(ii)$ $4 - x < 0$ এবং $4 + x < 0$ হয়।",
+      "image": null,
+      "formulas": [
+        "g(x) = \\ln(y)",
+        "\\therefore g(x) = \\ln \\frac{4 - x}{4 + x}",
+        "\\because y = \\frac{4 - x}{4 + x}",
+        "\\therefore g(x) \\in R",
+        "\\frac{4 - x}{4 + x} > 0",
+        "\\frac{4 - x}{4 + x} > 0",
+        "(i)",
+        "4 - x > 0",
+        "4 + x > 0",
+        "(ii)",
+        "4 - x < 0",
+        "4 + x < 0"
+      ],
+      "pdfPageStart": 224,
+      "pdfPageEnd": 224,
+      "printedPageStart": 219,
+      "printedPageEnd": 219,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p048",
+      "kind": "text",
+      "section": "উদাহরণ ৩৪. $f(x) = \\log_{10} x$ এর লেখচিত্র অঙ্কন করো।",
+      "caption": null,
+      "body": "এখন $(i) \\implies x < 4$ এবং $x > -4$",
+      "image": null,
+      "formulas": [
+        "(i) \\implies x < 4",
+        "x > -4"
+      ],
+      "pdfPageStart": 225,
+      "pdfPageEnd": 225,
+      "printedPageStart": 220,
+      "printedPageEnd": 220,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p049",
+      "kind": "text",
+      "section": "উদাহরণ ৩৪. $f(x) = \\log_{10} x$ এর লেখচিত্র অঙ্কন করো।",
+      "caption": null,
+      "body": "$\\therefore$ ডোমেন $= \\{x \\in R : x < 4\\} \\cap \\{x \\in R : x > -4\\} = (-\\infty, 4) \\cap (-4, \\infty) = (-4, 4)$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "= \\{x \\in R : x < 4\\} \\cap \\{x \\in R : x > -4\\} = (-\\infty, 4) \\cap (-4, \\infty) = (-4, 4)"
+      ],
+      "pdfPageStart": 225,
+      "pdfPageEnd": 225,
+      "printedPageStart": 220,
+      "printedPageEnd": 220,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p050",
+      "kind": "text",
+      "section": "উদাহরণ ৩৪. $f(x) = \\log_{10} x$ এর লেখচিত্র অঙ্কন করো।",
+      "caption": null,
+      "body": "আবার, $(ii) \\implies x > 4$ এবং $x < -4$",
+      "image": null,
+      "formulas": [
+        "(ii) \\implies x > 4",
+        "x < -4"
+      ],
+      "pdfPageStart": 225,
+      "pdfPageEnd": 225,
+      "printedPageStart": 220,
+      "printedPageEnd": 220,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p051",
+      "kind": "text",
+      "section": "উদাহরণ ৩৪. $f(x) = \\log_{10} x$ এর লেখচিত্র অঙ্কন করো।",
+      "caption": null,
+      "body": "$\\therefore$ ডোমেন $= \\{x \\in R : x > 4\\} \\cap \\{x \\in R : x < -4\\} = (4, \\infty) \\cap (-\\infty, 4) = \\varnothing$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "= \\{x \\in R : x > 4\\} \\cap \\{x \\in R : x < -4\\} = (4, \\infty) \\cap (-\\infty, 4) = \\varnothing"
+      ],
+      "pdfPageStart": 225,
+      "pdfPageEnd": 225,
+      "printedPageStart": 220,
+      "printedPageEnd": 220,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p052",
+      "kind": "text",
+      "section": "উদাহরণ ৩৪. $f(x) = \\log_{10} x$ এর লেখচিত্র অঙ্কন করো।",
+      "caption": null,
+      "body": "$\\therefore$ প্রদত্ত ফাংশনের ডোমেন $= (-4, 4) \\cup \\varnothing = (-4, 4)$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "= (-4, 4) \\cup \\varnothing = (-4, 4)"
+      ],
+      "pdfPageStart": 225,
+      "pdfPageEnd": 225,
+      "printedPageStart": 220,
+      "printedPageEnd": 220,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p053",
+      "kind": "text",
+      "section": "উদাহরণ ৩৪. $f(x) = \\log_{10} x$ এর লেখচিত্র অঙ্কন করো।",
+      "caption": null,
+      "body": "**কাজ:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 225,
+      "pdfPageEnd": 225,
+      "printedPageStart": 220,
+      "printedPageEnd": 220,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p054",
+      "kind": "text",
+      "section": "উদাহরণ ৩৪. $f(x) = \\log_{10} x$ এর লেখচিত্র অঙ্কন করো।",
+      "caption": null,
+      "body": "ক) টেবিলে উল্লেখিত $x$ ও $y$ এর মান নিয়ে $y = \\log_{10}x$ এর লেখচিত্র অঙ্কন করো।",
+      "image": null,
+      "formulas": [
+        "x",
+        "y",
+        "y = \\log_{10}x"
+      ],
+      "pdfPageStart": 225,
+      "pdfPageEnd": 225,
+      "printedPageStart": 220,
+      "printedPageEnd": 220,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p055",
+      "kind": "table",
+      "section": "উদাহরণ ৩৪. $f(x) = \\log_{10} x$ এর লেখচিত্র অঙ্কন করো।",
+      "caption": null,
+      "body": "<table><tr><td><em>x</em></td><td>0.5</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>10</td><td>12</td></tr>\n<tr><td><em>y</em></td><td>-0.3</td><td>0</td><td>0.3</td><td>0.5</td><td>0.6</td><td>0.7</td><td>1</td><td>1.07</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 225,
+      "pdfPageEnd": 225,
+      "printedPageStart": 220,
+      "printedPageEnd": 220,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.12-p056",
+      "kind": "text",
+      "section": "উদাহরণ ৩৪. $f(x) = \\log_{10} x$ এর লেখচিত্র অঙ্কন করো।",
+      "caption": null,
+      "body": "খ) $y = \\log_e x$ এর লেখচিত্র অঙ্কনের জন্য (ক) এর ন্যায় $x$ ও $y$ এর মান নিয়ে টেবিল তৈরি করো ও লেখচিত্র আঁকো।",
+      "image": null,
+      "formulas": [
+        "y = \\log_e x",
+        "x",
+        "y"
+      ],
+      "pdfPageStart": 225,
+      "pdfPageEnd": 225,
+      "printedPageStart": 220,
+      "printedPageEnd": 220,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

@@ -1,0 +1,655 @@
+{
+  "id": "higher-math-9-10-bn-c06-t6.3",
+  "key": "6.3",
+  "title": "দুই চলকবিশিষ্ট অসমতার লেখচিত্র",
+  "chapter": 6,
+  "ordinal": 4,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৯.** $x + y - 3 > 0$ অথবা $x + y - 3 < 0$ অসমতার লেখচিত্র অঙ্কন **করো**।",
+      "image": null,
+      "formulas": [
+        "x + y - 3 > 0",
+        "x + y - 3 < 0"
+      ],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** উপরোক্ত অসমতাদ্বয়ের লেখচিত্র অঙ্কন করতে প্রথমেই ছক কাগজে $x + y - 3 = 0$ সমীকরণটির লেখচিত্র অঙ্কন করি।",
+      "image": null,
+      "formulas": [
+        "x + y - 3 = 0"
+      ],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$x + y - 3 = 0$ সমীকরণ থেকে পাই",
+      "image": null,
+      "formulas": [
+        "x + y - 3 = 0"
+      ],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p004",
+      "kind": "table",
+      "section": null,
+      "caption": null,
+      "body": "<table><tr><td><em>x</em></td><td>0</td><td>3</td><td>1</td></tr>\n<tr><td><em>y</em></td><td>3</td><td>0</td><td>2</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p005",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane with line passing through (0,3), (1,2), and (3,0) 0,3",
+      "image": "p135-page_8_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 135,
+      "pdfPageEnd": 135,
+      "printedPageStart": 130,
+      "printedPageEnd": 130,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$x + y - 3 > 0$ অসমতার লেখচিত্র অঙ্কনের জন্য উক্ত অসমতায় মূলবিন্দু $(0,0)$ বসালে আমরা পাই $-3 > 0$ যা সত্য নয়। কাজেই, অসমতার ছায়াচিত্র হবে $x + y - 3 = 0$ রেখার যে পাশে মূলবিন্দু রয়েছে তার বিপরীত পাশে।",
+      "image": null,
+      "formulas": [
+        "x + y - 3 > 0",
+        "(0,0)",
+        "-3 > 0",
+        "x + y - 3 = 0"
+      ],
+      "pdfPageStart": 135,
+      "pdfPageEnd": 135,
+      "printedPageStart": 130,
+      "printedPageEnd": 130,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p007",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane showing the shaded region for the inequality x + y - 3 > 0",
+      "image": "p135-page_8_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 135,
+      "pdfPageEnd": 135,
+      "printedPageStart": 130,
+      "printedPageEnd": 130,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$x + y - 3 < 0$ অসমতার লেখচিত্র অঙ্কনের জন্য উক্ত অসমতায় মূলবিন্দু $(0,0)$ বসালে পাওয়া যায় $-3 < 0$ যা অসমতাকে সিদ্ধ করে বা মান সত্য। কাজেই, এ অবস্থায় অসমতার ছায়াচিত্র হবে রেখাটির যে পাশে মূলবিন্দু রয়েছে সে পাশে।",
+      "image": null,
+      "formulas": [
+        "x + y - 3 < 0",
+        "(0,0)",
+        "-3 < 0"
+      ],
+      "pdfPageStart": 135,
+      "pdfPageEnd": 135,
+      "printedPageStart": 130,
+      "printedPageEnd": 130,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p009",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane showing the shaded region for the inequality x + y - 3 < 0",
+      "image": "p135-page_8_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 135,
+      "pdfPageEnd": 135,
+      "printedPageStart": 130,
+      "printedPageEnd": 130,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১০.** $2x - 3y + 6 \\ge 0$ অসমতার সমাধান সেটের বর্ণনা দাও ও চিত্রিত **করো**।",
+      "image": null,
+      "formulas": [
+        "2x - 3y + 6 \\ge 0"
+      ],
+      "pdfPageStart": 135,
+      "pdfPageEnd": 135,
+      "printedPageStart": 130,
+      "printedPageEnd": 130,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** আমরা প্রথমে $2x - 3y + 6 = 0$ সমীকরণের লেখচিত্র অঙ্কন করি।",
+      "image": null,
+      "formulas": [
+        "2x - 3y + 6 = 0"
+      ],
+      "pdfPageStart": 135,
+      "pdfPageEnd": 135,
+      "printedPageStart": 130,
+      "printedPageEnd": 130,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সমীকরণটি থেকে পাওয়া যায়:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 135,
+      "pdfPageEnd": 135,
+      "printedPageStart": 130,
+      "printedPageEnd": 130,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$2x - 3y + 6 = 0$ বা, $y = \\frac{2x}{3} + 2$",
+      "image": null,
+      "formulas": [
+        "2x - 3y + 6 = 0",
+        "y = \\frac{2x}{3} + 2"
+      ],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এ লেখচিত্রস্থিত কয়েকটি বিন্দুর স্থানাঙ্ক:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p015",
+      "kind": "table",
+      "section": null,
+      "caption": null,
+      "body": "<table><tr><td><em>x</em></td><td>0</td><td>-3</td><td>3</td></tr>\n<tr><td><em>y</em></td><td>2</td><td>0</td><td>4</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "স্থানাঙ্কায়িত ছক কাগজে ক্ষুদ্রতম বর্গের বাহুর দৈর্ঘ্যকে একক ধরে $(0, 2)$, $(-3, 0)$, $(3, 4)$ বিন্দুগুলো স্থাপন করে সমীকরণটির লেখচিত্র অঙ্কন করি।",
+      "image": null,
+      "formulas": [
+        "(0, 2)",
+        "(-3, 0)",
+        "(3, 4)"
+      ],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p017",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane graph showing the line 2x - 3y + 6 = 0 and the shaded region for 2x - 3y + 6 > 0",
+      "image": "p136-page_9_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন মূলবিন্দু $(0, 0)$ তে $2x - 3y + 6$ রাশির মান $6$, যা ধনাত্মক। সুতরাং লেখচিত্র রেখাটির যে পাশে মূলবিন্দু রয়েছে সেই পাশের সকল বিন্দুর জন্যই $2x - 3y + 6 > 0$",
+      "image": null,
+      "formulas": [
+        "(0, 0)",
+        "2x - 3y + 6",
+        "6",
+        "2x - 3y + 6 > 0"
+      ],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অতএব, $2x - 3y + 6 \\geq 0$ অসমতার সমাধান সেট $2x - 3y + 6 = 0$ সমীকরণের লেখচিত্রস্থিত সকল বিন্দুর এবং লেখচিত্রের যে পাশে মূলবিন্দু অবস্থিত সেই পাশের সকল বিন্দুর স্থানাঙ্ক সম্বন্ধে গঠিত।",
+      "image": null,
+      "formulas": [
+        "2x - 3y + 6 \\geq 0",
+        "2x - 3y + 6 = 0"
+      ],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এই সমাধান সেটের লেখচিত্র উপরের চিত্রের চিহ্নিত অংশটুকু যার মধ্যে লেখচিত্র রেখাটিও অন্তর্ভুক্ত।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১১.** $XY$ সমতলে $-2x < 5$ অসমতার লেখচিত্র অঙ্কন করো।",
+      "image": null,
+      "formulas": [
+        "XY",
+        "-2x < 5"
+      ],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $-2x < 5$ অসমতাটিকে এভাবে লেখা যায়।",
+      "image": null,
+      "formulas": [
+        "-2x < 5"
+      ],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$2x + 5 > 0$ বা, $2x > -5$ বা, $x > -\\frac{5}{2}$",
+      "image": null,
+      "formulas": [
+        "2x + 5 > 0",
+        "2x > -5",
+        "x > -\\frac{5}{2}"
+      ],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন স্থানাঙ্কায়িত $XY$ সমতলে $x = -\\frac{5}{2}$ সমীকরণের লেখচিত্র অঙ্কন করি। ছক কাগজের ক্ষুদ্রতম বর্গের বাহুর দৈর্ঘ্যকে একক ধরে $\\left(-\\frac{5}{2}, 0\\right)$ বিন্দু দিয়ে $Y$ অক্ষের সমান্তরাল করে লেখচিত্র রেখাটি অঙ্কন করা হলো।",
+      "image": null,
+      "formulas": [
+        "XY",
+        "x = -\\frac{5}{2}",
+        "\\left(-\\frac{5}{2}, 0\\right)",
+        "Y"
+      ],
+      "pdfPageStart": 136,
+      "pdfPageEnd": 136,
+      "printedPageStart": 131,
+      "printedPageEnd": 131,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p025",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane graph showing the solution set for -2x < 5",
+      "image": "p137-page_10_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p026",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এই লেখচিত্র রেখার ডান পাশে মূলবিন্দু অবস্থিত এবং মূলবিন্দুতে $x = 0$ যা $> -\\frac{5}{2}$",
+      "image": null,
+      "formulas": [
+        "x = 0",
+        "> -\\frac{5}{2}"
+      ],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p027",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং লেখচিত্র রেখার ডান পাশের সকল বিন্দুর স্থানাঙ্কই প্রদত্ত অসমতার সমাধান (লেখচিত্র রেখার বিন্দুগুলো বিবেচ্য নয়)। সমাধান সেটের লেখচিত্র উপরের চিত্রের চিহ্নিত অংশটুকু (যার মধ্যে লেখচিত্র রেখাটি অন্তর্ভুক্ত নয়)।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p028",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১২.** $y \\le 2x$ অসমতার লেখচিত্র অঙ্কন **করো**।",
+      "image": null,
+      "formulas": [
+        "y \\le 2x"
+      ],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p029",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $y \\le 2x$ অসমতাটিকে $y - 2x \\le 0$ আকারে লেখা যায়।",
+      "image": null,
+      "formulas": [
+        "y \\le 2x",
+        "y - 2x \\le 0"
+      ],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p030",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন $y - 2x = 0$ অর্থাৎ $y = 2x$ সমীকরণের লেখচিত্র অঙ্কন করি। সমীকরণটি থেকে পাই,",
+      "image": null,
+      "formulas": [
+        "y - 2x = 0",
+        "y = 2x"
+      ],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p031",
+      "kind": "table",
+      "section": null,
+      "caption": null,
+      "body": "<table><tr><td><em>x</em></td><td>0</td><td>2</td><td>-2</td></tr>\n<tr><td><em>y</em></td><td>0</td><td>4</td><td>-4</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p032",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "স্থানাঙ্কায়িত ছক কাগজের ক্ষুদ্রতম বর্গের দৈর্ঘ্যকে একক ধরে $(0, 0), (2, 4), (-2, -4)$ বিন্দুগুলোকে স্থাপন করে লেখচিত্র রেখাটি অঙ্কন **করো** হলো।",
+      "image": null,
+      "formulas": [
+        "(0, 0), (2, 4), (-2, -4)"
+      ],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p033",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane graph showing the solution set for y ≤ 2x with points (0,0), (2,4), and (-2,-4) 0,0",
+      "image": "p137-page_10_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p034",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$(1, 0)$ বিন্দুটি লেখচিত্র রেখার ডানের অংশে আছে। এই বিন্দুতে $y - 2x = 0 - 2 \\times 1 = -2 < 0$",
+      "image": null,
+      "formulas": [
+        "(1, 0)",
+        "y - 2x = 0 - 2 \\times 1 = -2 < 0"
+      ],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 137,
+      "printedPageStart": 132,
+      "printedPageEnd": 132,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.3-p035",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং লেখচিত্র রেখাটি ও তার ডানের অংশ [অর্থাৎ যে অংশে $(1, 0)$ বিন্দুটি অবস্থিত] সমন্বয়ে গঠিত সমতলের অংশটুকুই প্রদত্ত অসমতার লেখচিত্র।",
+      "image": null,
+      "formulas": [
+        "(1, 0)"
+      ],
+      "pdfPageStart": 137,
+      "pdfPageEnd": 138,
+      "printedPageStart": 132,
+      "printedPageEnd": 133,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

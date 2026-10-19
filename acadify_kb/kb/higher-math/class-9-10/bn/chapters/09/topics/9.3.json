@@ -1,0 +1,761 @@
+{
+  "id": "higher-math-9-10-bn-c09-t9.3",
+  "key": "9.3",
+  "title": "মূল এর ব্যাখ্যা",
+  "chapter": 9,
+  "ordinal": 3,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p001",
+      "kind": "definition",
+      "section": null,
+      "caption": null,
+      "body": "**সংজ্ঞা:** $n \\in N, n > 1$ এবং $a \\in R$ হলে, যদি এমন $x \\in R$ থাকে যেন $x^n = a$ হয়, তবে সেই $x$ কে $a$ এর একটি $n$তম মূল বলা হয়। $n = 2$ হলে মূলকে বর্গমূল এবং $n = 3$ হলে মূলকে ঘনমূল বলা হয়।",
+      "image": null,
+      "formulas": [
+        "n \\in N, n > 1",
+        "a \\in R",
+        "x \\in R",
+        "x^n = a",
+        "x",
+        "a",
+        "n",
+        "n = 2",
+        "n = 3"
+      ],
+      "pdfPageStart": 203,
+      "pdfPageEnd": 203,
+      "printedPageStart": 198,
+      "printedPageEnd": 198,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৫.** ক) ২ এবং $-2$ উভয়ই ১৬-এর ৪তম মূল, কারণ $(2)^4 = 16$ এবং $(-2)^4 = 16$",
+      "image": null,
+      "formulas": [
+        "-2",
+        "(2)^4 = 16",
+        "(-2)^4 = 16"
+      ],
+      "pdfPageStart": 203,
+      "pdfPageEnd": 203,
+      "printedPageStart": 198,
+      "printedPageEnd": 198,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $-27$ এর ঘনমূল $-3$, কারণ $(-3)^3 = -27$",
+      "image": null,
+      "formulas": [
+        "-27",
+        "-3",
+        "(-3)^3 = -27"
+      ],
+      "pdfPageStart": 203,
+      "pdfPageEnd": 203,
+      "printedPageStart": 198,
+      "printedPageEnd": 198,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) ০ এর $n$তম মূল ০, কারণ সকল $n \\in N, n > 1$ এর জন্য $0^n = 0$",
+      "image": null,
+      "formulas": [
+        "n",
+        "n \\in N, n > 1",
+        "0^n = 0"
+      ],
+      "pdfPageStart": 203,
+      "pdfPageEnd": 203,
+      "printedPageStart": 198,
+      "printedPageEnd": 198,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঘ) $-9$ এর কোনো বর্গমূল নেই, কারণ যে কোনো বাস্তব সংখ্যার বর্গ অঋণাত্মক।",
+      "image": null,
+      "formulas": [
+        "-9"
+      ],
+      "pdfPageStart": 203,
+      "pdfPageEnd": 203,
+      "printedPageStart": 198,
+      "printedPageEnd": 198,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে উল্লেখ্য যে,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 203,
+      "pdfPageEnd": 203,
+      "printedPageStart": 198,
+      "printedPageEnd": 198,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(i) যদি $a > 0$ এবং $n \\in N, n > 1$ হয়, তবে $a$ এর একটি অনন্য ধনাত্মক, $n$ তম মূল আছে। এই ধনাত্মক মূলকে $\\sqrt[n]{a}$ দ্বারা সূচিত করা হয় ($\\sqrt[2]{a}$ এর স্থলে $\\sqrt{a}$ লেখা হয়) এবং একে $a$ এর মুখ্য $n$তম মূল বলা হয়। $n$ জোড় সংখ্যা হলে এরূপ $a$ এর আর একটি $n$ তম মূল আছে এবং তা হলো $-\\sqrt[n]{a}$ $(ii)$ যদি $a < 0$ এবং $n \\in N, n > 1$ বিজোড় সংখ্যা হয়, তবে $a$ এর একটি মাত্র $n$ তম মূল আছে যা ঋণাত্মক। এই মূলকে $-\\sqrt[n]{a}$ দ্বারা সূচিত করা হয়। $n$ জোড় হলে এবং $a$ ঋণাত্মক হলে $a$ এর কোন $n$তম মূল নেই।",
+      "image": null,
+      "formulas": [
+        "a > 0",
+        "n \\in N, n > 1",
+        "a",
+        "n",
+        "\\sqrt[n]{a}",
+        "\\sqrt[2]{a}",
+        "\\sqrt{a}",
+        "a",
+        "n",
+        "n",
+        "a",
+        "n",
+        "-\\sqrt[n]{a}",
+        "(ii)",
+        "a < 0",
+        "n \\in N, n > 1",
+        "a",
+        "n",
+        "-\\sqrt[n]{a}",
+        "n",
+        "a",
+        "a",
+        "n"
+      ],
+      "pdfPageStart": 203,
+      "pdfPageEnd": 204,
+      "printedPageStart": 198,
+      "printedPageEnd": 199,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$(iii)$ ০ এর $n$তম মূল $\\sqrt[n]{0} = 0$",
+      "image": null,
+      "formulas": [
+        "(iii)",
+        "n",
+        "\\sqrt[n]{0} = 0"
+      ],
+      "pdfPageStart": 204,
+      "pdfPageEnd": 204,
+      "printedPageStart": 199,
+      "printedPageEnd": 199,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**দৃষ্টব্য:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 204,
+      "pdfPageEnd": 204,
+      "printedPageStart": 199,
+      "printedPageEnd": 199,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "১. $a > 0$ হলে $\\sqrt[n]{a} > 0$",
+      "image": null,
+      "formulas": [
+        "a > 0",
+        "\\sqrt[n]{a} > 0"
+      ],
+      "pdfPageStart": 204,
+      "pdfPageEnd": 204,
+      "printedPageStart": 199,
+      "printedPageEnd": 199,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "২. $a < 0$ এবং $n$ বিজোড় হলে, $\\sqrt[n]{a} = -\\sqrt[n]{|a|} < 0$ [যেখানে $|a|$ হচ্ছে $a$ এর পরমমান]",
+      "image": null,
+      "formulas": [
+        "a < 0",
+        "n",
+        "\\sqrt[n]{a} = -\\sqrt[n]{|a|} < 0",
+        "|a|",
+        "a"
+      ],
+      "pdfPageStart": 204,
+      "pdfPageEnd": 204,
+      "printedPageStart": 199,
+      "printedPageEnd": 199,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৬.** $\\sqrt{4} = 2, (\\sqrt{4} \\neq -2), \\sqrt[3]{-8} = -2 = -\\sqrt[3]{8},$",
+      "image": null,
+      "formulas": [
+        "\\sqrt{4} = 2, (\\sqrt{4} \\neq -2), \\sqrt[3]{-8} = -2 = -\\sqrt[3]{8},"
+      ],
+      "pdfPageStart": 204,
+      "pdfPageEnd": 204,
+      "printedPageStart": 199,
+      "printedPageEnd": 199,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p013",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\sqrt{a^2} = |a| = \\begin{cases} a, & যখন  a \\geq 0 \\\\ -a, & যখন  a < 0 \\end{cases}$$",
+      "image": null,
+      "formulas": [
+        "\\sqrt{a^2} = |a| = \\begin{cases} a, & যখন  a \\geq 0 \\\\ -a, & যখন  a < 0 \\end{cases}"
+      ],
+      "pdfPageStart": 204,
+      "pdfPageEnd": 204,
+      "printedPageStart": 199,
+      "printedPageEnd": 199,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সূত্র ৭.** $a < 0, n \\in N, n > 1$ এবং $n$ বিজোড় হলে দেখাও যে, $\\sqrt[n]{a} = -\\sqrt[n]{|a|}$",
+      "image": null,
+      "formulas": [
+        "a < 0, n \\in N, n > 1",
+        "n",
+        "\\sqrt[n]{a} = -\\sqrt[n]{|a|}"
+      ],
+      "pdfPageStart": 204,
+      "pdfPageEnd": 204,
+      "printedPageStart": 199,
+      "printedPageEnd": 199,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 204,
+      "pdfPageEnd": 204,
+      "printedPageStart": 199,
+      "printedPageEnd": 199,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p016",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\begin{aligned}\n\\sqrt[n]{a} &= \\sqrt[n]{-|a|} \\quad [\\because a < 0] \\\\\n&= \\sqrt[n]{(-1)^n |a|} \\quad [\\because n  বিজোড়] \\\\\n&= -\\sqrt[n]{|a|}\n\\end{aligned}$$",
+      "image": null,
+      "formulas": [
+        "\\begin{aligned}\n\\sqrt[n]{a} &= \\sqrt[n]{-|a|} \\quad [\\because a < 0] \\\\\n&= \\sqrt[n]{(-1)^n |a|} \\quad [\\because n  বিজোড়] \\\\\n&= -\\sqrt[n]{|a|}\n\\end{aligned}"
+      ],
+      "pdfPageStart": 204,
+      "pdfPageEnd": 204,
+      "printedPageStart": 199,
+      "printedPageEnd": 199,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং, $\\sqrt[n]{a} = -\\sqrt[n]{|a|}$",
+      "image": null,
+      "formulas": [
+        "\\sqrt[n]{a} = -\\sqrt[n]{|a|}"
+      ],
+      "pdfPageStart": 204,
+      "pdfPageEnd": 204,
+      "printedPageStart": 199,
+      "printedPageEnd": 199,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৭.** $-\\sqrt[3]{27}$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "-\\sqrt[3]{27}"
+      ],
+      "pdfPageStart": 204,
+      "pdfPageEnd": 204,
+      "printedPageStart": 199,
+      "printedPageEnd": 199,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $-\\sqrt[3]{27} = -\\sqrt[3]{(3)^3} = -3$",
+      "image": null,
+      "formulas": [
+        "-\\sqrt[3]{27} = -\\sqrt[3]{(3)^3} = -3"
+      ],
+      "pdfPageStart": 204,
+      "pdfPageEnd": 204,
+      "printedPageStart": 199,
+      "printedPageEnd": 199,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সূত্র ৮.** $a > 0, m \\in Z$ এবং $n \\in N, n > 1$ হলে, $(\\sqrt[n]{a})^m = \\sqrt[n]{a^m}$",
+      "image": null,
+      "formulas": [
+        "a > 0, m \\in Z",
+        "n \\in N, n > 1",
+        "(\\sqrt[n]{a})^m = \\sqrt[n]{a^m}"
+      ],
+      "pdfPageStart": 204,
+      "pdfPageEnd": 204,
+      "printedPageStart": 199,
+      "printedPageEnd": 199,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:** মনে করি, $\\sqrt[n]{a} = x$ এবং $\\sqrt[n]{a^m} = y$",
+      "image": null,
+      "formulas": [
+        "\\sqrt[n]{a} = x",
+        "\\sqrt[n]{a^m} = y"
+      ],
+      "pdfPageStart": 204,
+      "pdfPageEnd": 204,
+      "printedPageStart": 199,
+      "printedPageEnd": 199,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাহলে, $x^n = a$ এবং $y^n = a^m$",
+      "image": null,
+      "formulas": [
+        "x^n = a",
+        "y^n = a^m"
+      ],
+      "pdfPageStart": 204,
+      "pdfPageEnd": 204,
+      "printedPageStart": 199,
+      "printedPageEnd": 199,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $y^n = a^m = (x^n)^m = (x^m)^n$",
+      "image": null,
+      "formulas": [
+        "y^n = a^m = (x^n)^m = (x^m)^n"
+      ],
+      "pdfPageStart": 204,
+      "pdfPageEnd": 204,
+      "printedPageStart": 199,
+      "printedPageEnd": 199,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যেহেতু $y > 0, x^m > 0$, সুতরাং মুখ্য $n$তম মূল বিবেচনা করে পাই, $y = x^m$",
+      "image": null,
+      "formulas": [
+        "y > 0, x^m > 0",
+        "n",
+        "y = x^m"
+      ],
+      "pdfPageStart": 204,
+      "pdfPageEnd": 204,
+      "printedPageStart": 199,
+      "printedPageEnd": 199,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p025",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\sqrt[n]{a^m} = (\\sqrt[n]{a})^m$",
+      "image": null,
+      "formulas": [
+        "\\sqrt[n]{a^m} = (\\sqrt[n]{a})^m"
+      ],
+      "pdfPageStart": 204,
+      "pdfPageEnd": 204,
+      "printedPageStart": 199,
+      "printedPageEnd": 199,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p026",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ, $(\\sqrt[n]{a})^m = \\sqrt[n]{a^m}$",
+      "image": null,
+      "formulas": [
+        "(\\sqrt[n]{a})^m = \\sqrt[n]{a^m}"
+      ],
+      "pdfPageStart": 204,
+      "pdfPageEnd": 204,
+      "printedPageStart": 199,
+      "printedPageEnd": 199,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p027",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সূত্র ৯.** যদি $a > 0$ এবং $\\frac{m}{n} = \\frac{p}{q}$ হয়, যেখানে $m, p \\in Z$ এবং $n, q \\in N, n > 1, q > 1$ তবে,",
+      "image": null,
+      "formulas": [
+        "a > 0",
+        "\\frac{m}{n} = \\frac{p}{q}",
+        "m, p \\in Z",
+        "n, q \\in N, n > 1, q > 1"
+      ],
+      "pdfPageStart": 204,
+      "pdfPageEnd": 204,
+      "printedPageStart": 199,
+      "printedPageEnd": 199,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p028",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\sqrt[n]{a^m} = \\sqrt[q]{a^p}$$",
+      "image": null,
+      "formulas": [
+        "\\sqrt[n]{a^m} = \\sqrt[q]{a^p}"
+      ],
+      "pdfPageStart": 204,
+      "pdfPageEnd": 204,
+      "printedPageStart": 199,
+      "printedPageEnd": 199,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p029",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "প্রমাণ: এখানে, $qm = pn$",
+      "image": null,
+      "formulas": [
+        "qm = pn"
+      ],
+      "pdfPageStart": 205,
+      "pdfPageEnd": 205,
+      "printedPageStart": 200,
+      "printedPageEnd": 200,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p030",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "মনে করি, $\\sqrt[n]{a^m} = x$ তাহলে, $x^n = a^m$",
+      "image": null,
+      "formulas": [
+        "\\sqrt[n]{a^m} = x",
+        "x^n = a^m"
+      ],
+      "pdfPageStart": 205,
+      "pdfPageEnd": 205,
+      "printedPageStart": 200,
+      "printedPageEnd": 200,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p031",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $(x^n)^q = (a^m)^q$",
+      "image": null,
+      "formulas": [
+        "(x^n)^q = (a^m)^q"
+      ],
+      "pdfPageStart": 205,
+      "pdfPageEnd": 205,
+      "printedPageStart": 200,
+      "printedPageEnd": 200,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p032",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x^{nq} = a^{mq} = a^{pn}$",
+      "image": null,
+      "formulas": [
+        "x^{nq} = a^{mq} = a^{pn}"
+      ],
+      "pdfPageStart": 205,
+      "pdfPageEnd": 205,
+      "printedPageStart": 200,
+      "printedPageEnd": 200,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p033",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $(x^q)^n = (a^p)^n$",
+      "image": null,
+      "formulas": [
+        "(x^q)^n = (a^p)^n"
+      ],
+      "pdfPageStart": 205,
+      "pdfPageEnd": 205,
+      "printedPageStart": 200,
+      "printedPageEnd": 200,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p034",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x^q = a^p$ [মুখ্য $n$তম মূল বিবেচনা করে]",
+      "image": null,
+      "formulas": [
+        "x^q = a^p",
+        "n"
+      ],
+      "pdfPageStart": 205,
+      "pdfPageEnd": 205,
+      "printedPageStart": 200,
+      "printedPageEnd": 200,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p035",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x = \\sqrt[q]{a^p}$",
+      "image": null,
+      "formulas": [
+        "x = \\sqrt[q]{a^p}"
+      ],
+      "pdfPageStart": 205,
+      "pdfPageEnd": 205,
+      "printedPageStart": 200,
+      "printedPageEnd": 200,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p036",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ, $\\sqrt[n]{a^m} = \\sqrt[q]{a^p}$",
+      "image": null,
+      "formulas": [
+        "\\sqrt[n]{a^m} = \\sqrt[q]{a^p}"
+      ],
+      "pdfPageStart": 205,
+      "pdfPageEnd": 205,
+      "printedPageStart": 200,
+      "printedPageEnd": 200,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.3-p037",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**অনুসিদ্ধান্ত ১.** যদি $a > 0$ এবং $n, k \\in N, n > 1$ হয়, তবে, $\\sqrt[n]{a} = \\sqrt[nk]{a^k}$",
+      "image": null,
+      "formulas": [
+        "a > 0",
+        "n, k \\in N, n > 1",
+        "\\sqrt[n]{a} = \\sqrt[nk]{a^k}"
+      ],
+      "pdfPageStart": 205,
+      "pdfPageEnd": 205,
+      "printedPageStart": 200,
+      "printedPageEnd": 200,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

@@ -1,0 +1,338 @@
+{
+  "id": "higher-math-9-10-bn-c07-t7.1",
+  "key": "7.1",
+  "title": "অসীম ধারা (Infinite Series)",
+  "chapter": 7,
+  "ordinal": 1,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c07-t7.1-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "নবম-দশম শ্রেণির গণিতে অনুক্রম ও সসীম ধারা সম্পর্কে বিস্তৃত আলোচনা করা হয়েছে। অনুক্রম ও অসীম ধারার মধ্যে একটা প্রত্যক্ষ সম্পর্ক রয়েছে। অনুক্রমের পদগুলোর পূর্বে যোগ চিহ্ন যুক্ত করে অসীম ধারা পাওয়া যায়। এ অধ্যায়ে অসীম ধারা নিয়ে আলোচনা করা হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.1-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এই অধ্যায় শেষে শিক্ষার্থীরা -",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.1-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "* ▶ অনুক্রমের ধারণা ব্যাখ্যা করতে পারবে;\n* ▶ অসীম ধারা চিহ্নিত করতে পারবে;\n* ▶ অসীম গুণোত্তর ধারার সমষ্টি থাকার শর্ত ব্যাখ্যা করতে পারবে;\n* ▶ অসীম গুণোত্তর ধারার সমষ্টি নির্ণয় করতে পারবে;\n* ▶ আবৃত দশমিক সংখ্যাকে অনন্ত গুণোত্তর ধারায় প্রকাশ এবং সাধারণ ভগ্নাংশে রূপান্তর করতে পারবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.1-p004",
+      "kind": "text",
+      "section": "অনুক্রম",
+      "caption": null,
+      "body": "নিচে দেখানো সম্পর্কটিতে প্রত্যেক স্বাভাবিক সংখ্যা $n$ এর সঙ্গে $n$ এর বর্গ $n^2$ সম্পর্কিত। অর্থাৎ স্বাভাবিক সংখ্যার সেট $N = \\{1, 2, 3, 4, \\dots\\}$ থেকে একটি নিয়মের মাধ্যমে তার বর্গসংখ্যার সেট $\\{1, 4, 9, 16, \\dots\\}$ পাওয়া যায়। এই সাজানো বর্গসংখ্যার সেটটি একটি অনুক্রম। যখন কতকগুলো রাশি একটা বিশেষ নিয়মে ক্রমাবয়ে এমনভাবে সাজানো হয় যে প্রত্যেক রাশি তার পূর্বে ও পরের রাশির সাথে কীভাবে সম্পর্কিত তা জানা যায়, তখন এভাবে সাজানো রাশিগুলোর সেটকে অনুক্রম (Sequence) বলা হয়।",
+      "image": null,
+      "formulas": [
+        "n",
+        "n",
+        "n^2",
+        "N = \\{1, 2, 3, 4, \\dots\\}",
+        "\\{1, 4, 9, 16, \\dots\\}"
+      ],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.1-p005",
+      "kind": "table",
+      "section": "অনুক্রম",
+      "caption": null,
+      "body": "<table><tr><td>1</td><td>2</td><td>3</td><td>4</td><td>...</td><td><em>n</em></td><td>...</td></tr>\n<tr><td>↓</td><td>↓</td><td>↓</td><td>↓</td><td></td><td>↓</td><td></td></tr>\n<tr><td>1</td><td>4</td><td>9</td><td>16</td><td>...</td><td><em>n</em><sup>2</sup></td><td>...</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.1-p006",
+      "kind": "text",
+      "section": "অনুক্রম",
+      "caption": null,
+      "body": "উপরের সম্পর্কটিকে ফাংশন বলা হয় এবং $f(n) = n^2$ লেখা হয়। এই অনুক্রমের সাধারণ পদ $n^2$। যেকোনো অনুক্রমের পদসংখ্যা অসীম। অনুক্রমটি সাধারণ পদের সাহায্যে লেখার পদ্ধতি হলো $\\{n^2\\}, n = 1, 2, 3, 4, \\dots$ বা, $\\{n^2\\}_{n=1}^{+\\infty}$ বা কেবলই, $\\{n^2\\}$। কোনো অনুক্রমের প্রথম রাশিকে প্রথম পদ, দ্বিতীয় রাশিকে দ্বিতীয় পদ, তৃতীয় রাশিকে তৃতীয় পদ, ইত্যাদি বলা হয়। উপরে বর্ণিত $1, 4, 9, 16, \\dots$ অনুক্রমের প্রথম পদ = 1, দ্বিতীয় পদ = 4, ইত্যাদি। নিচে অনুক্রমের আরও চারটি উদাহরণ দেওয়া হলো:",
+      "image": null,
+      "formulas": [
+        "f(n) = n^2",
+        "n^2",
+        "\\{n^2\\}, n = 1, 2, 3, 4, \\dots",
+        "\\{n^2\\}_{n=1}^{+\\infty}",
+        "\\{n^2\\}",
+        "1, 4, 9, 16, \\dots"
+      ],
+      "pdfPageStart": 141,
+      "pdfPageEnd": 141,
+      "printedPageStart": 136,
+      "printedPageEnd": 136,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.1-p007",
+      "kind": "text",
+      "section": "অনুক্রম",
+      "caption": null,
+      "body": "ক) $\\frac{1}{2}, \\frac{1}{2^2}, \\frac{1}{2^3}, \\frac{1}{2^4}, \\dots, \\frac{1}{2^n}, \\dots$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{2}, \\frac{1}{2^2}, \\frac{1}{2^3}, \\frac{1}{2^4}, \\dots, \\frac{1}{2^n}, \\dots"
+      ],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.1-p008",
+      "kind": "text",
+      "section": "অনুক্রম",
+      "caption": null,
+      "body": "খ) $3, 1, -1, -3, \\dots, (5 - 2n), \\dots$",
+      "image": null,
+      "formulas": [
+        "3, 1, -1, -3, \\dots, (5 - 2n), \\dots"
+      ],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.1-p009",
+      "kind": "text",
+      "section": "অনুক্রম",
+      "caption": null,
+      "body": "গ) $1, \\frac{2}{3}, \\frac{3}{5}, \\frac{4}{7}, \\dots, \\frac{n}{2n - 1}, \\dots$",
+      "image": null,
+      "formulas": [
+        "1, \\frac{2}{3}, \\frac{3}{5}, \\frac{4}{7}, \\dots, \\frac{n}{2n - 1}, \\dots"
+      ],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.1-p010",
+      "kind": "text",
+      "section": "অনুক্রম",
+      "caption": null,
+      "body": "ঘ) $\\frac{1}{2}, \\frac{1}{5}, \\frac{1}{10}, \\frac{1}{17}, \\dots, \\frac{1}{n^2 + 1}, \\dots$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{2}, \\frac{1}{5}, \\frac{1}{10}, \\frac{1}{17}, \\dots, \\frac{1}{n^2 + 1}, \\dots"
+      ],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.1-p011",
+      "kind": "text",
+      "section": "অনুক্রম",
+      "caption": null,
+      "body": "**কাজ:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.1-p012",
+      "kind": "text",
+      "section": "অনুক্রম",
+      "caption": null,
+      "body": "ক) নিচের অনুক্রমগুলোর সাধারণ পদ নির্ণয় করো:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.1-p013",
+      "kind": "text",
+      "section": "অনুক্রম",
+      "caption": null,
+      "body": "(১) $\\frac{1}{2}, -\\frac{2}{3}, \\frac{3}{4}, -\\frac{4}{5}, \\dots$ (২) $\\frac{1}{2}, \\frac{3}{4}, \\frac{5}{6}, \\frac{7}{8}, \\dots$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{2}, -\\frac{2}{3}, \\frac{3}{4}, -\\frac{4}{5}, \\dots",
+        "\\frac{1}{2}, \\frac{3}{4}, \\frac{5}{6}, \\frac{7}{8}, \\dots"
+      ],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.1-p014",
+      "kind": "text",
+      "section": "অনুক্রম",
+      "caption": null,
+      "body": "(৩) $\\frac{1}{2}, \\frac{1}{2}, \\frac{3}{2^3}, \\frac{4}{2^4}, \\dots$ (৪) $1, \\sqrt{2}, \\sqrt{3}, 2, \\dots$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{2}, \\frac{1}{2}, \\frac{3}{2^3}, \\frac{4}{2^4}, \\dots",
+        "1, \\sqrt{2}, \\sqrt{3}, 2, \\dots"
+      ],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.1-p015",
+      "kind": "text",
+      "section": "অনুক্রম",
+      "caption": null,
+      "body": "খ) প্রদত্ত সাধারণ পদ হতে অনুক্রমগুলো লেখো:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.1-p016",
+      "kind": "text",
+      "section": "অনুক্রম",
+      "caption": null,
+      "body": "(১) $1 + (-1)^n$ (২) $1 - (-1)^n$ (৩) $1 + \\left(-\\frac{1}{2}\\right)^n$",
+      "image": null,
+      "formulas": [
+        "1 + (-1)^n",
+        "1 - (-1)^n",
+        "1 + \\left(-\\frac{1}{2}\\right)^n"
+      ],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.1-p017",
+      "kind": "text",
+      "section": "অনুক্রম",
+      "caption": null,
+      "body": "(৪) $\\frac{n^2}{\\sqrt[n]{\\pi}}$ (৫) $\\frac{\\ln n}{n}$ (৬) $\\cos \\left(\\frac{n\\pi}{2}\\right)$",
+      "image": null,
+      "formulas": [
+        "\\frac{n^2}{\\sqrt[n]{\\pi}}",
+        "\\frac{\\ln n}{n}",
+        "\\cos \\left(\\frac{n\\pi}{2}\\right)"
+      ],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.1-p018",
+      "kind": "text",
+      "section": "অনুক্রম",
+      "caption": null,
+      "body": "গ) তোমরা প্রত্যেকে একটি করে কোন অনুক্রমের সাধারণ পদ লিখে তারপর অনুক্রমটি লেখো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    }
+  ]
+}

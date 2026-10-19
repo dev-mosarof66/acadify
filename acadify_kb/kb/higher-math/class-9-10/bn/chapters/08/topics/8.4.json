@@ -1,0 +1,1758 @@
+{
+  "id": "higher-math-9-10-bn-c08-t8.4",
+  "key": "8.4",
+  "title": "কোণের ডিগ্রি পরিমাণ ও রেডিয়ান (বৃত্তীয়) পরিমাণের সম্পর্ক",
+  "chapter": 8,
+  "ordinal": 4,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "প্রতিজ্ঞা ও থেকে আমরা পাই,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 159,
+      "pdfPageEnd": 159,
+      "printedPageStart": 154,
+      "printedPageEnd": 154,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p002",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$1  রেডিয়ান = \\frac{2}{\\pi}  সমকোণ$$",
+      "image": null,
+      "formulas": [
+        "1  রেডিয়ান = \\frac{2}{\\pi}  সমকোণ"
+      ],
+      "pdfPageStart": 159,
+      "pdfPageEnd": 159,
+      "printedPageStart": 154,
+      "printedPageEnd": 154,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ, $1^c = \\frac{2}{\\pi}  সমকোণ$। [1 রেডিয়ান = $1^c$]",
+      "image": null,
+      "formulas": [
+        "1^c = \\frac{2}{\\pi}  সমকোণ",
+        "1^c"
+      ],
+      "pdfPageStart": 159,
+      "pdfPageEnd": 159,
+      "printedPageStart": 154,
+      "printedPageEnd": 154,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p004",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\therefore 1  সমকোণ = \\left(\\frac{\\pi}{2}\\right)^c$$",
+      "image": null,
+      "formulas": [
+        "\\therefore 1  সমকোণ = \\left(\\frac{\\pi}{2}\\right)^c"
+      ],
+      "pdfPageStart": 159,
+      "pdfPageEnd": 159,
+      "printedPageStart": 154,
+      "printedPageEnd": 154,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $90^\\circ = \\left(\\frac{\\pi}{2}\\right)^c$",
+      "image": null,
+      "formulas": [
+        "90^\\circ = \\left(\\frac{\\pi}{2}\\right)^c"
+      ],
+      "pdfPageStart": 159,
+      "pdfPageEnd": 159,
+      "printedPageStart": 154,
+      "printedPageEnd": 154,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p006",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\therefore 1^\\circ = \\left(\\frac{\\pi}{180}\\right)^c  এবং  1^c = \\left(\\frac{180}{\\pi}\\right)^\\circ$$",
+      "image": null,
+      "formulas": [
+        "\\therefore 1^\\circ = \\left(\\frac{\\pi}{180}\\right)^c  এবং  1^c = \\left(\\frac{180}{\\pi}\\right)^\\circ"
+      ],
+      "pdfPageStart": 159,
+      "pdfPageEnd": 159,
+      "printedPageStart": 154,
+      "printedPageEnd": 154,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রতিজ্ঞা ৫.** $1^\\circ = \\left( \\frac{\\pi}{180} \\right)^c$ এবং $1^c = \\left( \\frac{180}{\\pi} \\right)^\\circ$",
+      "image": null,
+      "formulas": [
+        "1^\\circ = \\left( \\frac{\\pi}{180} \\right)^c",
+        "1^c = \\left( \\frac{180}{\\pi} \\right)^\\circ"
+      ],
+      "pdfPageStart": 160,
+      "pdfPageEnd": 160,
+      "printedPageStart": 155,
+      "printedPageEnd": 155,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**লক্ষণীয়:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 160,
+      "pdfPageEnd": 160,
+      "printedPageStart": 155,
+      "printedPageEnd": 155,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(i) $90^\\circ = 1$ সমকোণ $= \\frac{\\pi}{2}$ রেডিয়ান $= \\left( \\frac{\\pi}{2} \\right)^c$\nঅর্থাৎ, $180^\\circ = 2$ সমকোণ $= \\pi$ রেডিয়ান $= \\pi^c$.",
+      "image": null,
+      "formulas": [
+        "90^\\circ = 1",
+        "= \\frac{\\pi}{2}",
+        "= \\left( \\frac{\\pi}{2} \\right)^c",
+        "180^\\circ = 2",
+        "= \\pi",
+        "= \\pi^c"
+      ],
+      "pdfPageStart": 160,
+      "pdfPageEnd": 160,
+      "printedPageStart": 155,
+      "printedPageEnd": 155,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(ii) যাত্মুলক ও বৃত্তীয় পদ্ধতিতে একটি কোণের পরিমাণ যথাক্রমে $D^\\circ$ ও $R^c$ হলে\n$$D^\\circ = \\left( D \\times \\frac{\\pi}{180} \\right)^c = R^c$$\nঅর্থাৎ, $D \\times \\frac{\\pi}{180} = R$\nবা, $\\frac{D}{180} = \\frac{R}{\\pi}$",
+      "image": null,
+      "formulas": [
+        "D^\\circ",
+        "R^c",
+        "D^\\circ = \\left( D \\times \\frac{\\pi}{180} \\right)^c = R^c",
+        "D \\times \\frac{\\pi}{180} = R",
+        "\\frac{D}{180} = \\frac{R}{\\pi}"
+      ],
+      "pdfPageStart": 160,
+      "pdfPageEnd": 160,
+      "printedPageStart": 155,
+      "printedPageEnd": 155,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "উপরিউক্ত আলোচনা থেকে বহুল ব্যবহৃত কোণসমূহের ডিগ্রি ও রেডিয়ানের সম্পর্ক দেওয়া হলো:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 160,
+      "pdfPageEnd": 160,
+      "printedPageStart": 155,
+      "printedPageEnd": 155,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(i) $1^\\circ = \\left( \\frac{\\pi}{180} \\right)^c$",
+      "image": null,
+      "formulas": [
+        "1^\\circ = \\left( \\frac{\\pi}{180} \\right)^c"
+      ],
+      "pdfPageStart": 160,
+      "pdfPageEnd": 160,
+      "printedPageStart": 155,
+      "printedPageEnd": 155,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(ii) $30^\\circ = \\left( 30 \\times \\frac{\\pi}{180} \\right)^c = \\left( \\frac{\\pi}{6} \\right)^c$",
+      "image": null,
+      "formulas": [
+        "30^\\circ = \\left( 30 \\times \\frac{\\pi}{180} \\right)^c = \\left( \\frac{\\pi}{6} \\right)^c"
+      ],
+      "pdfPageStart": 160,
+      "pdfPageEnd": 160,
+      "printedPageStart": 155,
+      "printedPageEnd": 155,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(iii) $45^\\circ = \\left( 45 \\times \\frac{\\pi}{180} \\right)^c = \\left( \\frac{\\pi}{4} \\right)^c$",
+      "image": null,
+      "formulas": [
+        "45^\\circ = \\left( 45 \\times \\frac{\\pi}{180} \\right)^c = \\left( \\frac{\\pi}{4} \\right)^c"
+      ],
+      "pdfPageStart": 160,
+      "pdfPageEnd": 160,
+      "printedPageStart": 155,
+      "printedPageEnd": 155,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(iv) $60^\\circ = \\left( 60 \\times \\frac{\\pi}{180} \\right)^c = \\left( \\frac{\\pi}{3} \\right)^c$",
+      "image": null,
+      "formulas": [
+        "60^\\circ = \\left( 60 \\times \\frac{\\pi}{180} \\right)^c = \\left( \\frac{\\pi}{3} \\right)^c"
+      ],
+      "pdfPageStart": 160,
+      "pdfPageEnd": 160,
+      "printedPageStart": 155,
+      "printedPageEnd": 155,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(v) $90^\\circ = \\left( 90 \\times \\frac{\\pi}{180} \\right)^c = \\left( \\frac{\\pi}{2} \\right)^c$",
+      "image": null,
+      "formulas": [
+        "90^\\circ = \\left( 90 \\times \\frac{\\pi}{180} \\right)^c = \\left( \\frac{\\pi}{2} \\right)^c"
+      ],
+      "pdfPageStart": 160,
+      "pdfPageEnd": 160,
+      "printedPageStart": 155,
+      "printedPageEnd": 155,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(vi) $180^\\circ = \\left( 180 \\times \\frac{\\pi}{180} \\right)^c = \\pi^c$",
+      "image": null,
+      "formulas": [
+        "180^\\circ = \\left( 180 \\times \\frac{\\pi}{180} \\right)^c = \\pi^c"
+      ],
+      "pdfPageStart": 160,
+      "pdfPageEnd": 160,
+      "printedPageStart": 155,
+      "printedPageEnd": 155,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(vii) $360^\\circ = \\left( 360 \\times \\frac{\\pi}{180} \\right)^c = (2\\pi)^c$",
+      "image": null,
+      "formulas": [
+        "360^\\circ = \\left( 360 \\times \\frac{\\pi}{180} \\right)^c = (2\\pi)^c"
+      ],
+      "pdfPageStart": 160,
+      "pdfPageEnd": 160,
+      "printedPageStart": 155,
+      "printedPageEnd": 155,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ব্যবহারিক ক্ষেত্রে রেডিয়ান প্রতীক $(c)$ সাধারণত লেখা হয় না। সংক্ষেপে (রেডিয়ান প্রতীক উহ্য রেখে)",
+      "image": null,
+      "formulas": [
+        "(c)"
+      ],
+      "pdfPageStart": 160,
+      "pdfPageEnd": 160,
+      "printedPageStart": 155,
+      "printedPageEnd": 155,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$1^\\circ = \\frac{\\pi}{180}, 30^\\circ = \\frac{\\pi}{6}, 45^\\circ = \\frac{\\pi}{4}, 60^\\circ = \\frac{\\pi}{3}, 90^\\circ = \\frac{\\pi}{2}, 180^\\circ = \\pi, 360^\\circ = 2\\pi$ ইত্যাদি।",
+      "image": null,
+      "formulas": [
+        "1^\\circ = \\frac{\\pi}{180}, 30^\\circ = \\frac{\\pi}{6}, 45^\\circ = \\frac{\\pi}{4}, 60^\\circ = \\frac{\\pi}{3}, 90^\\circ = \\frac{\\pi}{2}, 180^\\circ = \\pi, 360^\\circ = 2\\pi"
+      ],
+      "pdfPageStart": 160,
+      "pdfPageEnd": 160,
+      "printedPageStart": 155,
+      "printedPageEnd": 155,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**দ্রষ্টব্য:** $1^\\circ = \\left( \\frac{\\pi}{180} \\right)^c = 0.01745^c$ (আসন্ন পাঁচ দশমিক স্থান পর্যন্ত)",
+      "image": null,
+      "formulas": [
+        "1^\\circ = \\left( \\frac{\\pi}{180} \\right)^c = 0.01745^c"
+      ],
+      "pdfPageStart": 160,
+      "pdfPageEnd": 160,
+      "printedPageStart": 155,
+      "printedPageEnd": 155,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$1^c = \\left( \\frac{180}{\\pi} \\right)^\\circ = 57.29578^\\circ$ (আসন্ন পাঁচ দশমিক স্থান পর্যন্ত) $= 57^\\circ 17' 44.81''$.",
+      "image": null,
+      "formulas": [
+        "1^c = \\left( \\frac{180}{\\pi} \\right)^\\circ = 57.29578^\\circ",
+        "= 57^\\circ 17' 44.81''"
+      ],
+      "pdfPageStart": 160,
+      "pdfPageEnd": 160,
+      "printedPageStart": 155,
+      "printedPageEnd": 155,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এক্ষেত্রে $\\pi$ এর আসন্ন মান 3.1416 ব্যবহার করা হয়েছে।",
+      "image": null,
+      "formulas": [
+        "\\pi"
+      ],
+      "pdfPageStart": 160,
+      "pdfPageEnd": 160,
+      "printedPageStart": 155,
+      "printedPageEnd": 155,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**দ্রষ্টব্য:** নিচের সমস্ত উদাহরণ এবং সমস্ত সমস্যায় $\\pi$ এর আসন্ন মান চার দশমিক স্থান ($\\pi = 3.1416$) পর্যন্ত ব্যবহার করা হবে। $\\pi$ এর আসন্ন মান ব্যবহৃত হলে উত্তরে অবশ্যই ‘প্রায়’ কথাটি লিখতে হবে।",
+      "image": null,
+      "formulas": [
+        "\\pi",
+        "\\pi = 3.1416",
+        "\\pi"
+      ],
+      "pdfPageStart": 161,
+      "pdfPageEnd": 161,
+      "printedPageStart": 156,
+      "printedPageEnd": 156,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p025",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৩.** ক) $30^\\circ 12' 36''$ কে রেডিয়ানে প্রকাশ করো। খ) $\\frac{3\\pi}{13}$ কে ডিগ্রি, মিনিট ও সেকেন্ডে প্রকাশ করো।",
+      "image": null,
+      "formulas": [
+        "30^\\circ 12' 36''",
+        "\\frac{3\\pi}{13}"
+      ],
+      "pdfPageStart": 161,
+      "pdfPageEnd": 161,
+      "printedPageStart": 156,
+      "printedPageEnd": 156,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p026",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 161,
+      "pdfPageEnd": 161,
+      "printedPageStart": 156,
+      "printedPageEnd": 156,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p027",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $30^\\circ 12' 36'' = 30^\\circ \\left( 12 \\frac{36}{60} \\right)' = 30^\\circ \\left( 12 \\frac{3}{5} \\right)' = 30^\\circ \\left( \\frac{63}{5} \\right)'$",
+      "image": null,
+      "formulas": [
+        "30^\\circ 12' 36'' = 30^\\circ \\left( 12 \\frac{36}{60} \\right)' = 30^\\circ \\left( 12 \\frac{3}{5} \\right)' = 30^\\circ \\left( \\frac{63}{5} \\right)'"
+      ],
+      "pdfPageStart": 161,
+      "pdfPageEnd": 161,
+      "printedPageStart": 156,
+      "printedPageEnd": 156,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p028",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\left( 30 \\frac{63}{5 \\times 60} \\right)^\\circ = \\left( 30 \\frac{21}{100} \\right)^\\circ = \\left( \\frac{3021}{100} \\right)^\\circ$$",
+      "image": null,
+      "formulas": [
+        "= \\left( 30 \\frac{63}{5 \\times 60} \\right)^\\circ = \\left( 30 \\frac{21}{100} \\right)^\\circ = \\left( \\frac{3021}{100} \\right)^\\circ"
+      ],
+      "pdfPageStart": 161,
+      "pdfPageEnd": 161,
+      "printedPageStart": 156,
+      "printedPageEnd": 156,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p029",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\frac{3021}{100} \\times \\frac{\\pi}{180}  রেডিয়ান  [\\because 1^\\circ = \\frac{\\pi^c}{180}]$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{3021}{100} \\times \\frac{\\pi}{180}  রেডিয়ান  [\\because 1^\\circ = \\frac{\\pi^c}{180}]"
+      ],
+      "pdfPageStart": 161,
+      "pdfPageEnd": 161,
+      "printedPageStart": 156,
+      "printedPageEnd": 156,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p030",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\frac{3021\\pi}{18000} = .5273  রেডিয়ান (প্রায়)$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{3021\\pi}{18000} = .5273  রেডিয়ান (প্রায়)"
+      ],
+      "pdfPageStart": 161,
+      "pdfPageEnd": 161,
+      "printedPageStart": 156,
+      "printedPageEnd": 156,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p031",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore 30^\\circ 12' 36'' = .5273^c  (প্রায়)$",
+      "image": null,
+      "formulas": [
+        "\\therefore 30^\\circ 12' 36'' = .5273^c  (প্রায়)"
+      ],
+      "pdfPageStart": 161,
+      "pdfPageEnd": 161,
+      "printedPageStart": 156,
+      "printedPageEnd": 156,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p032",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $\\frac{3\\pi}{13} = \\frac{3\\pi}{13} \\times \\frac{180}{\\pi}  ডিগ্রি  [\\because 1^c = \\left( \\frac{180}{\\pi} \\right)^\\circ]$",
+      "image": null,
+      "formulas": [
+        "\\frac{3\\pi}{13} = \\frac{3\\pi}{13} \\times \\frac{180}{\\pi}  ডিগ্রি  [\\because 1^c = \\left( \\frac{180}{\\pi} \\right)^\\circ]"
+      ],
+      "pdfPageStart": 161,
+      "pdfPageEnd": 161,
+      "printedPageStart": 156,
+      "printedPageEnd": 156,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p033",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\frac{540}{13}  ডিগ্রি = 41^\\circ 32' 18 \\cdot 46''.$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{540}{13}  ডিগ্রি = 41^\\circ 32' 18 \\cdot 46''."
+      ],
+      "pdfPageStart": 161,
+      "pdfPageEnd": 161,
+      "printedPageStart": 156,
+      "printedPageEnd": 156,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p034",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\frac{3\\pi}{13}  রেডিয়ান = 41^\\circ 32' 18 \\cdot 46''$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\frac{3\\pi}{13}  রেডিয়ান = 41^\\circ 32' 18 \\cdot 46''"
+      ],
+      "pdfPageStart": 161,
+      "pdfPageEnd": 161,
+      "printedPageStart": 156,
+      "printedPageEnd": 156,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p035",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৪.** একটি ত্রিভুজের তিনটি কোণের অনুপাত $3 : 4 : 5$, কোণ তিনটির বৃত্তীয় মান কত?",
+      "image": null,
+      "formulas": [
+        "3 : 4 : 5"
+      ],
+      "pdfPageStart": 161,
+      "pdfPageEnd": 161,
+      "printedPageStart": 156,
+      "printedPageEnd": 156,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p036",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** ধরি, কোণ তিনটি যথাক্রমে $3x^c, 4x^c$ ও $5x^c$.",
+      "image": null,
+      "formulas": [
+        "3x^c, 4x^c",
+        "5x^c"
+      ],
+      "pdfPageStart": 161,
+      "pdfPageEnd": 161,
+      "printedPageStart": 156,
+      "printedPageEnd": 156,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p037",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "প্রশ্নমতে, $3x^c + 4x^c + 5x^c = \\pi^c$ [ত্রিভুজের তিন কোণের সমষ্টি $2$ সমকোণ $= \\pi^c$]",
+      "image": null,
+      "formulas": [
+        "3x^c + 4x^c + 5x^c = \\pi^c",
+        "2",
+        "= \\pi^c"
+      ],
+      "pdfPageStart": 161,
+      "pdfPageEnd": 161,
+      "printedPageStart": 156,
+      "printedPageEnd": 156,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p038",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $12x^c = \\pi^c$",
+      "image": null,
+      "formulas": [
+        "12x^c = \\pi^c"
+      ],
+      "pdfPageStart": 161,
+      "pdfPageEnd": 161,
+      "printedPageStart": 156,
+      "printedPageEnd": 156,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p039",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x = \\frac{\\pi}{12}$",
+      "image": null,
+      "formulas": [
+        "x = \\frac{\\pi}{12}"
+      ],
+      "pdfPageStart": 161,
+      "pdfPageEnd": 161,
+      "printedPageStart": 156,
+      "printedPageEnd": 156,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p040",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ কোণ তিনটি যথাক্রমে",
+      "image": null,
+      "formulas": [
+        "\\therefore"
+      ],
+      "pdfPageStart": 161,
+      "pdfPageEnd": 161,
+      "printedPageStart": 156,
+      "printedPageEnd": 156,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p041",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$3x^c = \\left( \\frac{3\\pi}{12} \\right)^c = \\left( \\frac{\\pi}{4} \\right)^c = \\frac{\\pi}{4}$$",
+      "image": null,
+      "formulas": [
+        "3x^c = \\left( \\frac{3\\pi}{12} \\right)^c = \\left( \\frac{\\pi}{4} \\right)^c = \\frac{\\pi}{4}"
+      ],
+      "pdfPageStart": 161,
+      "pdfPageEnd": 161,
+      "printedPageStart": 156,
+      "printedPageEnd": 156,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p042",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$4x^c = \\left( \\frac{4\\pi}{12} \\right)^c = \\left( \\frac{\\pi}{3} \\right)^c = \\frac{\\pi}{3}$$",
+      "image": null,
+      "formulas": [
+        "4x^c = \\left( \\frac{4\\pi}{12} \\right)^c = \\left( \\frac{\\pi}{3} \\right)^c = \\frac{\\pi}{3}"
+      ],
+      "pdfPageStart": 161,
+      "pdfPageEnd": 161,
+      "printedPageStart": 156,
+      "printedPageEnd": 156,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p043",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$5x^c = \\left( \\frac{5\\pi}{12} \\right)^c = \\frac{5\\pi}{12}$$",
+      "image": null,
+      "formulas": [
+        "5x^c = \\left( \\frac{5\\pi}{12} \\right)^c = \\frac{5\\pi}{12}"
+      ],
+      "pdfPageStart": 162,
+      "pdfPageEnd": 162,
+      "printedPageStart": 157,
+      "printedPageEnd": 157,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p044",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "নির্গেয় কোণ তিনটির বৃত্তীয় মান: $\\frac{\\pi}{4}$, $\\frac{\\pi}{3}$ ও $\\frac{5\\pi}{12}$",
+      "image": null,
+      "formulas": [
+        "\\frac{\\pi}{4}",
+        "\\frac{\\pi}{3}",
+        "\\frac{5\\pi}{12}"
+      ],
+      "pdfPageStart": 162,
+      "pdfPageEnd": 162,
+      "printedPageStart": 157,
+      "printedPageEnd": 157,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p045",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৫.** একটি চাকা 1.75 কিলোমিটার পথ যেতে 40 বার ঘুরে। চাকাটির ব্যাসার্ধ কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 162,
+      "pdfPageEnd": 162,
+      "printedPageStart": 157,
+      "printedPageEnd": 157,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p046",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** ধরি, চাকার ব্যাসার্ধ $r$ মিটার।",
+      "image": null,
+      "formulas": [
+        "r"
+      ],
+      "pdfPageStart": 162,
+      "pdfPageEnd": 162,
+      "printedPageStart": 157,
+      "printedPageEnd": 157,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p047",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ চাকার পরিধি $= 2\\pi r$ মিটার $[\\pi = 3.1416]$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "= 2\\pi r",
+        "[\\pi = 3.1416]"
+      ],
+      "pdfPageStart": 162,
+      "pdfPageEnd": 162,
+      "printedPageStart": 157,
+      "printedPageEnd": 157,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p048",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা জানি, চাকাটি একবার ঘুরলে তার পরিধির সমান দূরত্ব অতিক্রম করে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 162,
+      "pdfPageEnd": 162,
+      "printedPageStart": 157,
+      "printedPageEnd": 157,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p049",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ 40 বার ঘুরায় চাকাটির মোট অতিক্রান্ত দূরত্ব $= 40 \\times 2\\pi r$ মি. $= 80\\pi r$ মিটার",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "= 40 \\times 2\\pi r",
+        "= 80\\pi r"
+      ],
+      "pdfPageStart": 162,
+      "pdfPageEnd": 162,
+      "printedPageStart": 157,
+      "printedPageEnd": 157,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p050",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "প্রশ্নমতে, $80\\pi r = 1750$ [1 কি.মি. $= 1000$ মিটার]",
+      "image": null,
+      "formulas": [
+        "80\\pi r = 1750",
+        "= 1000"
+      ],
+      "pdfPageStart": 162,
+      "pdfPageEnd": 162,
+      "printedPageStart": 157,
+      "printedPageEnd": 157,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p051",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $r = \\frac{1750}{80\\pi} = \\frac{1750}{80 \\times 3.1416}$ মিটার",
+      "image": null,
+      "formulas": [
+        "r = \\frac{1750}{80\\pi} = \\frac{1750}{80 \\times 3.1416}"
+      ],
+      "pdfPageStart": 162,
+      "pdfPageEnd": 162,
+      "printedPageStart": 157,
+      "printedPageEnd": 157,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p052",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$= 6.963$ মিটার (প্রায়)।",
+      "image": null,
+      "formulas": [
+        "= 6.963"
+      ],
+      "pdfPageStart": 162,
+      "pdfPageEnd": 162,
+      "printedPageStart": 157,
+      "printedPageEnd": 157,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p053",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ চাকার ব্যাসার্ধ 6.963 মিটার (প্রায়)।",
+      "image": null,
+      "formulas": [
+        "\\therefore"
+      ],
+      "pdfPageStart": 162,
+      "pdfPageEnd": 162,
+      "printedPageStart": 157,
+      "printedPageEnd": 157,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p054",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৬.** পৃথিবীর ব্যাসার্ধ 6440 কিলোমিটার। ঢাকা ও জামালপুর পৃথিবীর কেন্দ্রে $2^\\circ$ কোণ উৎপন্ন করলে ঢাকা ও জামালপুরের দূরত্ব নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "2^\\circ"
+      ],
+      "pdfPageStart": 162,
+      "pdfPageEnd": 162,
+      "printedPageStart": 157,
+      "printedPageEnd": 157,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p055",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** ব্যাসার্ধ $= r = 6440$ কি.মি.",
+      "image": null,
+      "formulas": [
+        "= r = 6440"
+      ],
+      "pdfPageStart": 162,
+      "pdfPageEnd": 162,
+      "printedPageStart": 157,
+      "printedPageEnd": 157,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p056",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "পৃথিবীর কেন্দ্রে উৎপন্ন কোণ $\\theta = 2^\\circ = 2 \\times \\frac{\\pi}{180} = \\frac{\\pi}{90}$ রেডিয়ান।",
+      "image": null,
+      "formulas": [
+        "\\theta = 2^\\circ = 2 \\times \\frac{\\pi}{180} = \\frac{\\pi}{90}"
+      ],
+      "pdfPageStart": 162,
+      "pdfPageEnd": 162,
+      "printedPageStart": 157,
+      "printedPageEnd": 157,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p057",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore s =$ চাপের দৈর্ঘ্য $=$ ঢাকা ও জামালপুরের দূরত্ব $= r\\theta = 6440 \\times \\frac{\\pi}{90}$ কি.মি.",
+      "image": null,
+      "formulas": [
+        "\\therefore s =",
+        "=",
+        "= r\\theta = 6440 \\times \\frac{\\pi}{90}"
+      ],
+      "pdfPageStart": 162,
+      "pdfPageEnd": 162,
+      "printedPageStart": 157,
+      "printedPageEnd": 157,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p058",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$= \\frac{644\\pi}{9}$ কি.মি",
+      "image": null,
+      "formulas": [
+        "= \\frac{644\\pi}{9}"
+      ],
+      "pdfPageStart": 162,
+      "pdfPageEnd": 162,
+      "printedPageStart": 157,
+      "printedPageEnd": 157,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p059",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$= 224.8$ কি.মি. (প্রায়)",
+      "image": null,
+      "formulas": [
+        "= 224.8"
+      ],
+      "pdfPageStart": 162,
+      "pdfPageEnd": 162,
+      "printedPageStart": 157,
+      "printedPageEnd": 157,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p060",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "নির্গেয় দূরত্ব: 224.8 কি.মি. (প্রায়)।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 162,
+      "pdfPageEnd": 162,
+      "printedPageStart": 157,
+      "printedPageEnd": 157,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p061",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৭.** কোনো বৃত্তের ব্যাসার্ধ 7 সে.মি.। বৃত্তের 11 সে.মি. দীর্ঘ চাপের কেন্দ্রস্থ কোণের পরিমাণ নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 162,
+      "pdfPageEnd": 162,
+      "printedPageStart": 157,
+      "printedPageEnd": 157,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p062",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** ধরি, $ABC$ বৃত্তের ব্যাসার্ধ $OB = 7$ সে.মি. এবং চাপ $AB = 11$ সে.মি.। $AB$ চাপের কেন্দ্রস্থ কোণের পরিমাণ $\\theta$ নির্ণয় করতে হবে।",
+      "image": null,
+      "formulas": [
+        "ABC",
+        "OB = 7",
+        "AB = 11",
+        "AB",
+        "\\theta"
+      ],
+      "pdfPageStart": 162,
+      "pdfPageEnd": 162,
+      "printedPageStart": 157,
+      "printedPageEnd": 157,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p063",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা জানি, $s = r\\theta$",
+      "image": null,
+      "formulas": [
+        "s = r\\theta"
+      ],
+      "pdfPageStart": 163,
+      "pdfPageEnd": 163,
+      "printedPageStart": 158,
+      "printedPageEnd": 158,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p064",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A circle with center O, points A, B, and C on the circumference, and a radius labeled 7 সে.মি. with an angle θ.",
+      "image": "p163-page_13_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 163,
+      "pdfPageEnd": 163,
+      "printedPageStart": 158,
+      "printedPageEnd": 158,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p065",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\theta = \\frac{s}{r} = \\frac{11  সে.মি.}{7  সে.মি.}$",
+      "image": null,
+      "formulas": [
+        "\\theta = \\frac{s}{r} = \\frac{11  সে.মি.}{7  সে.মি.}"
+      ],
+      "pdfPageStart": 163,
+      "pdfPageEnd": 163,
+      "printedPageStart": 158,
+      "printedPageEnd": 158,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p066",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$= 1.57$ রেডিয়ান (প্রায়)",
+      "image": null,
+      "formulas": [
+        "= 1.57"
+      ],
+      "pdfPageStart": 163,
+      "pdfPageEnd": 163,
+      "printedPageStart": 158,
+      "printedPageEnd": 158,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p067",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "নির্নয়ে কোণের পরিমাণ: $1.57$ রেডিয়ান (প্রায়)।",
+      "image": null,
+      "formulas": [
+        "1.57"
+      ],
+      "pdfPageStart": 163,
+      "pdfPageEnd": 163,
+      "printedPageStart": 158,
+      "printedPageEnd": 158,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p068",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৮.** এহসান সাইকেলে চড়ে বৃত্তাকার পথে 10 সেকেন্ডে একটি বৃন্তচাপ অতিক্রম করে। যদি চাপটি কেন্দ্রে $28^\\circ$ কোণ উৎপন্ন করে এবং বৃন্তের ব্যাস 180 মিটার হয়, তবে এহসানের গতিবেগ নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "28^\\circ"
+      ],
+      "pdfPageStart": 163,
+      "pdfPageEnd": 163,
+      "printedPageStart": 158,
+      "printedPageEnd": 158,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p069",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** ধরি, এহসান $ABC$ বৃন্তের $B$ বিন্দু থেকে যাত্রা করে 10 সেকেন্ড পরে পরিধির উপর $A$ বিন্দুতে আসে।",
+      "image": null,
+      "formulas": [
+        "ABC",
+        "B",
+        "A"
+      ],
+      "pdfPageStart": 163,
+      "pdfPageEnd": 163,
+      "printedPageStart": 158,
+      "printedPageEnd": 158,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p070",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাহলে $AB$ চাপ দ্বারা উৎপন্ন কেন্দ্রস্থ কোণ $\\angle AOB = 28^\\circ$",
+      "image": null,
+      "formulas": [
+        "AB",
+        "\\angle AOB = 28^\\circ"
+      ],
+      "pdfPageStart": 163,
+      "pdfPageEnd": 163,
+      "printedPageStart": 158,
+      "printedPageEnd": 158,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p071",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A circle with center O, points A, B, and C on the circumference, and a radius labeled 180 মি. with an angle of 28° at the center.",
+      "image": "p163-page_13_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 163,
+      "pdfPageEnd": 163,
+      "printedPageStart": 158,
+      "printedPageEnd": 158,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p072",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$OB = ব্যাসার্ধ = \\frac{180}{2}  মিটার = 90  মিটার$",
+      "image": null,
+      "formulas": [
+        "OB = ব্যাসার্ধ = \\frac{180}{2}  মিটার = 90  মিটার"
+      ],
+      "pdfPageStart": 163,
+      "pdfPageEnd": 163,
+      "printedPageStart": 158,
+      "printedPageEnd": 158,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p073",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধরি, চাপ $AB = s$ মিটার",
+      "image": null,
+      "formulas": [
+        "AB = s"
+      ],
+      "pdfPageStart": 163,
+      "pdfPageEnd": 163,
+      "printedPageStart": 158,
+      "printedPageEnd": 158,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p074",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা জানি,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 163,
+      "pdfPageEnd": 163,
+      "printedPageStart": 158,
+      "printedPageEnd": 158,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p075",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$s = r\\theta$",
+      "image": null,
+      "formulas": [
+        "s = r\\theta"
+      ],
+      "pdfPageStart": 163,
+      "pdfPageEnd": 163,
+      "printedPageStart": 158,
+      "printedPageEnd": 158,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p076",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$= 90 \\times 28 \\times \\frac{\\pi}{180}  মিটার$",
+      "image": null,
+      "formulas": [
+        "= 90 \\times 28 \\times \\frac{\\pi}{180}  মিটার"
+      ],
+      "pdfPageStart": 163,
+      "pdfPageEnd": 163,
+      "printedPageStart": 158,
+      "printedPageEnd": 158,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p077",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$= 14\\pi  মিটার$",
+      "image": null,
+      "formulas": [
+        "= 14\\pi  মিটার"
+      ],
+      "pdfPageStart": 163,
+      "pdfPageEnd": 163,
+      "printedPageStart": 158,
+      "printedPageEnd": 158,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p078",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$= 14 \\times 3.1416  মিটার (প্রায়)$",
+      "image": null,
+      "formulas": [
+        "= 14 \\times 3.1416  মিটার (প্রায়)"
+      ],
+      "pdfPageStart": 163,
+      "pdfPageEnd": 163,
+      "printedPageStart": 158,
+      "printedPageEnd": 158,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p079",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$= 43.98  মিটার (প্রায়)$",
+      "image": null,
+      "formulas": [
+        "= 43.98  মিটার (প্রায়)"
+      ],
+      "pdfPageStart": 163,
+      "pdfPageEnd": 163,
+      "printedPageStart": 158,
+      "printedPageEnd": 158,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p080",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ এহসানের গতিবেগ $= \\frac{43.98}{10}  মিটার/সেকেন্ড = 4.398  মিটার/সেকেন্ড = 4.4  মিটার/সেকেন্ড (প্রায়)$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "= \\frac{43.98}{10}  মিটার/সেকেন্ড = 4.398  মিটার/সেকেন্ড = 4.4  মিটার/সেকেন্ড (প্রায়)"
+      ],
+      "pdfPageStart": 163,
+      "pdfPageEnd": 163,
+      "printedPageStart": 158,
+      "printedPageEnd": 158,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p081",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "নির্নয়ে গতিবেগ: $4.4  মিটার/সেকেন্ড (প্রায়)$",
+      "image": null,
+      "formulas": [
+        "4.4  মিটার/সেকেন্ড (প্রায়)"
+      ],
+      "pdfPageStart": 163,
+      "pdfPageEnd": 163,
+      "printedPageStart": 158,
+      "printedPageEnd": 158,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p082",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৯.** 540 কিলোমিটার দূরে একটি বিন্দুতে কোনো পাহাড় $7^\\circ$ কোণ উৎপন্ন করে। পাহাড়টির উচ্চতা নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "7^\\circ"
+      ],
+      "pdfPageStart": 163,
+      "pdfPageEnd": 163,
+      "printedPageStart": 158,
+      "printedPageEnd": 158,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p083",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** মনে করি, $AB$ পাহাড়টির পাদবিন্দু $A$ থেকে 540 কি.মি. দূরে $O$ বিন্দুতে পাহাড়টি $7'$ কোণ উৎপন্ন করে।",
+      "image": null,
+      "formulas": [
+        "AB",
+        "A",
+        "O",
+        "7'"
+      ],
+      "pdfPageStart": 164,
+      "pdfPageEnd": 164,
+      "printedPageStart": 159,
+      "printedPageEnd": 159,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p084",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাহলে $AO = r =$ ব্যাসার্ধ $= 540$ কি.মি.",
+      "image": null,
+      "formulas": [
+        "AO = r =",
+        "= 540"
+      ],
+      "pdfPageStart": 164,
+      "pdfPageEnd": 164,
+      "printedPageStart": 159,
+      "printedPageEnd": 159,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p085",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কেন্দ্রস্থ কোণ $\\angle AOB = 7' = \\left( \\frac{7}{60} \\right)^\\circ = \\frac{7\\pi}{60 \\times 180}$ রেডিয়ান।",
+      "image": null,
+      "formulas": [
+        "\\angle AOB = 7' = \\left( \\frac{7}{60} \\right)^\\circ = \\frac{7\\pi}{60 \\times 180}"
+      ],
+      "pdfPageStart": 164,
+      "pdfPageEnd": 164,
+      "printedPageStart": 159,
+      "printedPageEnd": 159,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p086",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "পাহাড়ের উচ্চতা $\\approx$ চাপ $= s$ কি.মি.",
+      "image": null,
+      "formulas": [
+        "\\approx",
+        "= s"
+      ],
+      "pdfPageStart": 164,
+      "pdfPageEnd": 164,
+      "printedPageStart": 159,
+      "printedPageEnd": 159,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p087",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A geometric diagram showing a circle sector with center O, points A and B on the circumference, an angle of 7' at O, and a radius r = 540 km.",
+      "image": "p164-page_14_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 164,
+      "pdfPageEnd": 164,
+      "printedPageStart": 159,
+      "printedPageEnd": 159,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p088",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা জানি,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 164,
+      "pdfPageEnd": 164,
+      "printedPageStart": 159,
+      "printedPageEnd": 159,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p089",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$s = r\\theta = 540 \\times \\frac{7\\pi}{60 \\times 180}  কি.মি.$$",
+      "image": null,
+      "formulas": [
+        "s = r\\theta = 540 \\times \\frac{7\\pi}{60 \\times 180}  কি.মি."
+      ],
+      "pdfPageStart": 164,
+      "pdfPageEnd": 164,
+      "printedPageStart": 159,
+      "printedPageEnd": 159,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p090",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\frac{7 \\times 3.1416}{20}  কি.মি. (প্রায়)$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{7 \\times 3.1416}{20}  কি.মি. (প্রায়)"
+      ],
+      "pdfPageStart": 164,
+      "pdfPageEnd": 164,
+      "printedPageStart": 159,
+      "printedPageEnd": 159,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p091",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= 1.1  কি.মি. (প্রায়)$$",
+      "image": null,
+      "formulas": [
+        "= 1.1  কি.মি. (প্রায়)"
+      ],
+      "pdfPageStart": 164,
+      "pdfPageEnd": 164,
+      "printedPageStart": 159,
+      "printedPageEnd": 159,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.4-p092",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ পাহাড়টির উচ্চতা 1.1 কি.মি. (প্রায়) বা 1100 মিটার (প্রায়)।",
+      "image": null,
+      "formulas": [
+        "\\therefore"
+      ],
+      "pdfPageStart": 164,
+      "pdfPageEnd": 164,
+      "printedPageStart": 159,
+      "printedPageEnd": 159,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

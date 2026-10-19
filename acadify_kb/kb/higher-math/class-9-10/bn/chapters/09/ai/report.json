@@ -1,0 +1,10 @@
+{
+  "included": 452,
+  "held": 0,
+  "excluded": 29,
+  "exercises": 36,
+  "reasons": {
+    "left out by a reviewer": 19,
+    "picture description written by the parser": 10
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "id": "higher-math-9-10-bn-c11-t11.5",
+  "key": "11.5",
+  "title": "চতুর্ভুজক্ষেত্রের ক্ষেত্রফল",
+  "chapter": 11,
+  "ordinal": 6,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c11-t11.5-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "নিচের চিত্রে $ABCD$ একটি চতুর্ভুজ। চতুর্ভুজটির চারটি শীর্ষ যথাক্রমে $A(x_1, y_1)$, $B(x_2, y_2)$, $C(x_3, y_3)$, $D(x_4, y_4)$ এবং $A, B, C, D$ কে ঘড়ির কাঁটার বিপরীত দিক অনুসারে নেওয়া হয়েছে।",
+      "image": null,
+      "formulas": [
+        "ABCD",
+        "A(x_1, y_1)",
+        "B(x_2, y_2)",
+        "C(x_3, y_3)",
+        "D(x_4, y_4)",
+        "A, B, C, D"
+      ],
+      "pdfPageStart": 259,
+      "pdfPageEnd": 259,
+      "printedPageStart": 254,
+      "printedPageEnd": 254,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.5-p002",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A geometric diagram of a quadrilateral ABCD on a Cartesian coordinate system with axes X, Y, X', and Y', and origin O.",
+      "image": "p259-page_16_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 259,
+      "pdfPageEnd": 259,
+      "printedPageStart": 254,
+      "printedPageEnd": 254,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.5-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন চতুর্ভুজক্ষেত্র $ABCD$ এর ক্ষেত্রফল = ত্রিভুজক্ষেত্র $ABC$ এর ক্ষেত্রফল + ত্রিভুজক্ষেত্র $ACD$ এর ক্ষেত্রফল",
+      "image": null,
+      "formulas": [
+        "ABCD",
+        "ABC",
+        "ACD"
+      ],
+      "pdfPageStart": 259,
+      "pdfPageEnd": 259,
+      "printedPageStart": 254,
+      "printedPageEnd": 254,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.5-p004",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\frac{1}{2} \\begin{vmatrix} x_1 & x_2 & x_3 & x_1 \\\\ y_1 & y_2 & y_3 & y_1 \\end{vmatrix} + \\frac{1}{2} \\begin{vmatrix} x_1 & x_3 & x_4 & x_1 \\\\ y_1 & y_3 & y_4 & y_1 \\end{vmatrix}$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{1}{2} \\begin{vmatrix} x_1 & x_2 & x_3 & x_1 \\\\ y_1 & y_2 & y_3 & y_1 \\end{vmatrix} + \\frac{1}{2} \\begin{vmatrix} x_1 & x_3 & x_4 & x_1 \\\\ y_1 & y_3 & y_4 & y_1 \\end{vmatrix}"
+      ],
+      "pdfPageStart": 260,
+      "pdfPageEnd": 260,
+      "printedPageStart": 255,
+      "printedPageEnd": 255,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.5-p005",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\frac{1}{2} (x_1y_2 + x_2y_3 + x_3y_1 - x_2y_1 - x_3y_2 - x_1y_3) + \\frac{1}{2} (x_1y_3 + x_3y_4 + x_4y_1 - x_3y_1 - x_4y_3 - x_1y_4)$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{1}{2} (x_1y_2 + x_2y_3 + x_3y_1 - x_2y_1 - x_3y_2 - x_1y_3) + \\frac{1}{2} (x_1y_3 + x_3y_4 + x_4y_1 - x_3y_1 - x_4y_3 - x_1y_4)"
+      ],
+      "pdfPageStart": 260,
+      "pdfPageEnd": 260,
+      "printedPageStart": 255,
+      "printedPageEnd": 255,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.5-p006",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\frac{1}{2} (x_1y_2 + x_2y_3 + x_3y_4 + x_4y_1 - x_2y_1 - x_3y_2 - x_4y_3 - x_1y_4)$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{1}{2} (x_1y_2 + x_2y_3 + x_3y_4 + x_4y_1 - x_2y_1 - x_3y_2 - x_4y_3 - x_1y_4)"
+      ],
+      "pdfPageStart": 260,
+      "pdfPageEnd": 260,
+      "printedPageStart": 255,
+      "printedPageEnd": 255,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

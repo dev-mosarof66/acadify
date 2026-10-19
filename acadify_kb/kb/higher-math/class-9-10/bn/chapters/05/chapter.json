@@ -45,7 +45,7 @@
     },
     {
       "key": "5.4",
-      "title": "দুই চলকবিশিষ্ট দ্বিঘাত সমীকরণ জোটি",
+      "title": "দুই চলকবিশিষ্ট দ্বিঘাত সমীকরণ জোট",
       "file": "topics/5.4.json",
       "passages": 60
     },
@@ -57,7 +57,7 @@
     },
     {
       "key": "5.6",
-      "title": "দুই চলকবিশিষ্ট সূচক সমীকরণ জোটি",
+      "title": "দুই চলকবিশিষ্ট সূচক সমীকরণ জোট",
       "file": "topics/5.6.json",
       "passages": 59
     },
@@ -81,10 +81,10 @@
     },
     "byReason": {
       "verify-formula": 440,
+      "known-confusable-corrected": 43,
       "latin-junk": 2,
-      "known-confusable-corrected": 2,
       "verify-table": 4
     },
-    "needsReview": 445
+    "needsReview": 449
   }
 }

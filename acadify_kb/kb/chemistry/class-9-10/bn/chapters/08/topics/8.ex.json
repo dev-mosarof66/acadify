@@ -192,15 +192,17 @@
       "kind": "exercise",
       "section": "৭. প্লাটিনাম তড়িৎদ্বার ব্যবহার করে NaCl জলীয় দ্রবণের তড়িৎ বিশ্লেষণের সময় উৎপন্ন হয়-",
       "caption": null,
-      "body": "(i) হাইড্রোজেন গ্যাস\n(ii) ক্লোরিন গ্যাস\n(iii) সোডিয়াম হাইড্রোক্লোরাইড দ্রবণ",
+      "body": "(i) হাইড্রোজেন গ্যাস\n(ii) ক্লোরিন গ্যাস\n(iii) সোডিয়াম হাইড্রোক্সাইড দ্রবণ",
       "image": null,
       "formulas": [],
       "pdfPageStart": 209,
       "pdfPageEnd": 209,
       "printedPageStart": 204,
       "printedPageEnd": 204,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "chemistry-9-10-bn-c08-t8.ex-p014",

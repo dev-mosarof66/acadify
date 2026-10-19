@@ -160,15 +160,17 @@
       "kind": "text",
       "section": "তড়িৎ বিশ্লেষ্য (Electrolyte)",
       "caption": null,
-      "body": "**(ii) মৃদু তড়িৎ বিশ্লেষ্য (Weak Electrolyte):** যে সকল তড়িৎ বিশ্লেষ্য দ্রবণে খুব অল্প পরিমাণে আয়নিত হয় থাকে তাদেরকে মৃদু তড়িৎ বিশ্লেষ্য বলে। যেমন- অ্যামোনিয়াম হাইড্রোক্লোরাইড, ইথানয়িক এসিড (CH<sub>3</sub>COOH) ইত্যাদি।",
+      "body": "**(ii) মৃদু তড়িৎ বিশ্লেষ্য (Weak Electrolyte):** যে সকল তড়িৎ বিশ্লেষ্য দ্রবণে খুব অল্প পরিমাণে আয়নিত হয় থাকে তাদেরকে মৃদু তড়িৎ বিশ্লেষ্য বলে। যেমন- অ্যামোনিয়াম হাইড্রোক্সাইড, ইথানয়িক এসিড (CH<sub>3</sub>COOH) ইত্যাদি।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 187,
       "pdfPageEnd": 187,
       "printedPageStart": 182,
       "printedPageEnd": 182,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "chemistry-9-10-bn-c08-t8.3-p012",
@@ -535,7 +537,7 @@
       "kind": "text",
       "section": "অ্যানোড তড়িৎদ্বারে বিক্রিয়া",
       "caption": null,
-      "body": "$$Cl^- \\longrightarrow Cl + e^-  (জারণ ক্রিয়া)$$\n$$Cl + Cl \\longrightarrow Cl_2$$ পাত্রে Na<sup>+</sup> ও OH<sup>-</sup> থেকে যায়। ফলে Na<sup>+</sup> ও OH<sup>-</sup>একত্র হয়ে NaOH স্কার উৎপন্ন করে।",
+      "body": "$$Cl^- \\longrightarrow Cl + e^-  (জারণ ক্রিয়া)$$\n$$Cl + Cl \\longrightarrow Cl_2$$ পাত্রে Na<sup>+</sup> ও OH<sup>-</sup> থেকে যায়। ফলে Na<sup>+</sup> ও OH<sup>-</sup>একত্র হয়ে NaOH ক্ষার উৎপন্ন করে।",
       "image": null,
       "formulas": [
         "Cl^- \\longrightarrow Cl + e^-  (জারণ ক্রিয়া)",
@@ -547,6 +549,7 @@
       "printedPageEnd": 185,
       "reviewReasons": [
         "latin-junk",
+        "known-confusable-corrected",
         "verify-formula"
       ],
       "needsReview": true
@@ -823,15 +826,17 @@
       "kind": "text",
       "section": "৮.৩.৩ তড়িৎ বিশ্লেষণের ব্যবহার",
       "caption": null,
-      "body": "বর্তমানে সমস্ত পৃথিবীতে শিল্পকারখানার ব্যাপক প্রসার ঘটেছে। আর শিল্পজগতে তড়িৎ বিশ্লেষণের ভূমিকা বলে শেষ করা যাবে না। অনেক মূল্যবান যৌগের উৎপাদনে, আকারিক থেকে ধাতু নিষ্কাশনে, অবিশুদ্ধ ধাতুকে বিশুদ্ধ ধাতুতে পরিণত করতে, যে সকল ধাতু সহজে ক্ষয়প্রাপ্ত হয় তাদের ক্ষয় থেকে রক্ষা করতে, লোহার উপর মরিচা পড়া ঠেকাতে, এক ধাতুর উপর অন্য ধাতুর প্রলেপ দিতে তড়িৎ বিশ্লেষণ পদ্ধতি ব্যবহার করা হয় আর তড়িৎ বিশ্লেষণ করতে তড়িৎ বিশ্লেষ্য কোষ ব্যবহার করা হয়। নিচে তড়িৎ বিশ্লেষণের কিছু ব্যবহার দেখানো হলো।",
+      "body": "বর্তমানে সমস্ত পৃথিবীতে শিল্পকারখানার ব্যাপক প্রসার ঘটেছে। আর শিল্পজগতে তড়িৎ বিশ্লেষণের ভূমিকা বলে শেষ করা যাবে না। অনেক মূল্যবান যৌগের উৎপাদনে, আকরিক থেকে ধাতু নিষ্কাশনে, অবিশুদ্ধ ধাতুকে বিশুদ্ধ ধাতুতে পরিণত করতে, যে সকল ধাতু সহজে ক্ষয়প্রাপ্ত হয় তাদের ক্ষয় থেকে রক্ষা করতে, লোহার উপর মরিচা পড়া ঠেকাতে, এক ধাতুর উপর অন্য ধাতুর প্রলেপ দিতে তড়িৎ বিশ্লেষণ পদ্ধতি ব্যবহার করা হয় আর তড়িৎ বিশ্লেষণ করতে তড়িৎ বিশ্লেষ্য কোষ ব্যবহার করা হয়। নিচে তড়িৎ বিশ্লেষণের কিছু ব্যবহার দেখানো হলো।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 192,
       "pdfPageEnd": 192,
       "printedPageStart": 187,
       "printedPageEnd": 187,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "chemistry-9-10-bn-c08-t8.3-p052",
@@ -954,15 +959,17 @@
       "kind": "figure",
       "section": "৮.৩.৩ তড়িৎ বিশ্লেষণের ব্যবহার",
       "caption": null,
-      "body": "**চিত্র ৮.০৭: চামচের উপর সিলভারের ইলেকট্রোপ্লেনিং**",
+      "body": "**চিত্র ৮.০৭: চামচের উপর সিলভারের ইলেকট্রোপ্লেটিং**",
       "image": null,
       "formulas": [],
       "pdfPageStart": 194,
       "pdfPageEnd": 194,
       "printedPageStart": 189,
       "printedPageEnd": 189,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "chemistry-9-10-bn-c08-t8.3-p060",
@@ -984,15 +991,17 @@
       "kind": "figure",
       "section": "৮.৩.৩ তড়িৎ বিশ্লেষণের ব্যবহার",
       "caption": null,
-      "body": "**চিত্র ৮.০৭: চামচের উপর সিলভারের ইলেকট্রোপ্লেনিং**",
+      "body": "**চিত্র ৮.০৭: চামচের উপর সিলভারের ইলেকট্রোপ্লেটিং**",
       "image": null,
       "formulas": [],
       "pdfPageStart": 194,
       "pdfPageEnd": 194,
       "printedPageStart": 189,
       "printedPageEnd": 189,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "chemistry-9-10-bn-c08-t8.3-p062",
@@ -1014,15 +1023,17 @@
       "kind": "figure",
       "section": "৮.৩.৩ তড়িৎ বিশ্লেষণের ব্যবহার",
       "caption": null,
-      "body": "**চিত্র ৮.০৭: চামচের উপর সিলভারের ইলেকট্রোপ্লেনিং**",
+      "body": "**চিত্র ৮.০৭: চামচের উপর সিলভারের ইলেকট্রোপ্লেটিং**",
       "image": null,
       "formulas": [],
       "pdfPageStart": 194,
       "pdfPageEnd": 194,
       "printedPageStart": 189,
       "printedPageEnd": 189,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "chemistry-9-10-bn-c08-t8.3-p064",
@@ -1110,7 +1121,7 @@
       "kind": "text",
       "section": "তড়িৎ বিশ্লেষণে উৎপাদিত পদার্থের বাণিজ্যিক ব্যবহার",
       "caption": null,
-      "body": "সমুদ্রের পানির তড়িৎ বিশ্লেষণে উৎপন্ন ক্লোরিন জীবাগুনাশক হিসেবে এবং সোডিয়াম হাইড্রোক্লোরাইড ক্ষার বিভিন্ন শিল্পে কাঁচামাল হিসেবে ব্যবহৃত হয়।",
+      "body": "সমুদ্রের পানির তড়িৎ বিশ্লেষণে উৎপন্ন ক্লোরিন জীবাগুনাশক হিসেবে এবং সোডিয়াম হাইড্রোক্সাইড ক্ষার বিভিন্ন শিল্পে কাঁচামাল হিসেবে ব্যবহৃত হয়।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 195,

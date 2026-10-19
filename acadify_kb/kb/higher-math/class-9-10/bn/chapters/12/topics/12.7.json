@@ -1,0 +1,295 @@
+{
+  "id": "higher-math-9-10-bn-c12-t12.7",
+  "key": "12.7",
+  "title": "ভেক্টরের সাংখ্যগুণিতক সংক্রান্ত বর্গটন সূত্র",
+  "chapter": 12,
+  "ordinal": 7,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c12-t12.7-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$m, n$ দুটি স্কেলার এবং $<u>u</u>, <u>v</u>$ দুটি ভেক্টর হলে,",
+      "image": null,
+      "formulas": [
+        "m, n",
+        "<u>u</u>, <u>v</u>"
+      ],
+      "pdfPageStart": 283,
+      "pdfPageEnd": 283,
+      "printedPageStart": 278,
+      "printedPageEnd": 278,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.7-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "১. $(m + n)<u>u</u> = m<u>u</u> + n<u>u</u>$",
+      "image": null,
+      "formulas": [
+        "(m + n)<u>u</u> = m<u>u</u> + n<u>u</u>"
+      ],
+      "pdfPageStart": 283,
+      "pdfPageEnd": 283,
+      "printedPageStart": 278,
+      "printedPageEnd": 278,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.7-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "২. $m(<u>u</u> + <u>v</u>) = m<u>u</u> + m<u>v</u>$",
+      "image": null,
+      "formulas": [
+        "m(<u>u</u> + <u>v</u>) = m<u>u</u> + m<u>v</u>"
+      ],
+      "pdfPageStart": 283,
+      "pdfPageEnd": 283,
+      "printedPageStart": 278,
+      "printedPageEnd": 278,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.7-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সূত্র ১.** $(m + n)<u>u</u> = m<u>u</u> + n<u>u</u>$",
+      "image": null,
+      "formulas": [
+        "(m + n)<u>u</u> = m<u>u</u> + n<u>u</u>"
+      ],
+      "pdfPageStart": 283,
+      "pdfPageEnd": 283,
+      "printedPageStart": 278,
+      "printedPageEnd": 278,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.7-p005",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: vector addition diagram showing points A, B, and C on a line with vectors u, mu, and nu",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 283,
+      "pdfPageEnd": 283,
+      "printedPageStart": 278,
+      "printedPageEnd": 278,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.7-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:** $m$ বা $n$ শূন্য হলে সূত্রটি অবশ্যই খাটে।",
+      "image": null,
+      "formulas": [
+        "m",
+        "n"
+      ],
+      "pdfPageStart": 283,
+      "pdfPageEnd": 283,
+      "printedPageStart": 278,
+      "printedPageEnd": 278,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.7-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "মনে করি, $m, n$ উভয়ে ধনাত্মক এবং $\\overrightarrow{AB} = m<u>u</u> \\quad \\therefore |\\overrightarrow{AB}| = m|<u>u</u>|$",
+      "image": null,
+      "formulas": [
+        "m, n",
+        "\\overrightarrow{AB} = m<u>u</u> \\quad \\therefore |\\overrightarrow{AB}| = m|<u>u</u>|"
+      ],
+      "pdfPageStart": 283,
+      "pdfPageEnd": 283,
+      "printedPageStart": 278,
+      "printedPageEnd": 278,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.7-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$AB$ কে $C$ পর্যন্ত বর্ধিত করি যেন $|\\overrightarrow{BC}| = n|<u>u</u>|$ হয় $\\quad \\therefore \\overrightarrow{BC} = n<u>u</u>$",
+      "image": null,
+      "formulas": [
+        "AB",
+        "C",
+        "|\\overrightarrow{BC}| = n|<u>u</u>|",
+        "\\quad \\therefore \\overrightarrow{BC} = n<u>u</u>"
+      ],
+      "pdfPageStart": 283,
+      "pdfPageEnd": 283,
+      "printedPageStart": 278,
+      "printedPageEnd": 278,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.7-p009",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$|\\overrightarrow{AC}| = |\\overrightarrow{AB}| + |\\overrightarrow{BC}| = m|<u>u</u>| + n|<u>u</u>| = (m + n)|<u>u</u>| \\quad \\therefore \\overrightarrow{AC} = (m + n)<u>u</u>$",
+      "image": null,
+      "formulas": [
+        "|\\overrightarrow{AC}| = |\\overrightarrow{AB}| + |\\overrightarrow{BC}| = m|<u>u</u>| + n|<u>u</u>| = (m + n)|<u>u</u>| \\quad \\therefore \\overrightarrow{AC} = (m + n)<u>u</u>"
+      ],
+      "pdfPageStart": 283,
+      "pdfPageEnd": 283,
+      "printedPageStart": 278,
+      "printedPageEnd": 278,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.7-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কিন্তু $\\overrightarrow{AC} = \\overrightarrow{AB} + \\overrightarrow{BC} \\quad \\therefore m<u>u</u> + n<u>u</u> = (m + n)<u>u</u>$",
+      "image": null,
+      "formulas": [
+        "\\overrightarrow{AC} = \\overrightarrow{AB} + \\overrightarrow{BC} \\quad \\therefore m<u>u</u> + n<u>u</u> = (m + n)<u>u</u>"
+      ],
+      "pdfPageStart": 283,
+      "pdfPageEnd": 283,
+      "printedPageStart": 278,
+      "printedPageEnd": 278,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.7-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$m, n$ উভয়ে ঋণাত্মক হলে $(m + n)<u>u</u>$ এর দৈর্ঘ্য হবে $|(m + n)||<u>u</u>|$ এবং দিক হবে $<u>u</u>$ এর দিকের বিপরীত দিক। তখন $m<u>u</u> + n<u>u</u>$ ভেক্টরটির দৈর্ঘ্য হবে $|m||<u>u</u>| + |n||<u>u</u>| = (|m| + |n|)|<u>u</u>|$ এবং দিক হবে $<u>u</u>$ এর বিপরীত দিক। কিন্তু $m < 0$ এবং $n < 0$ হলে $|m| + |n| = |m + n|$ হয়, সেহেতু এক্ষেত্রে $(m + n)<u>u</u> = m<u>u</u> + n<u>u</u>$ পাওয়া গেল।",
+      "image": null,
+      "formulas": [
+        "m, n",
+        "(m + n)<u>u</u>",
+        "|(m + n)||<u>u</u>|",
+        "<u>u</u>",
+        "m<u>u</u> + n<u>u</u>",
+        "|m||<u>u</u>| + |n||<u>u</u>| = (|m| + |n|)|<u>u</u>|",
+        "<u>u</u>",
+        "m < 0",
+        "n < 0",
+        "|m| + |n| = |m + n|",
+        "(m + n)<u>u</u> = m<u>u</u> + n<u>u</u>"
+      ],
+      "pdfPageStart": 283,
+      "pdfPageEnd": 283,
+      "printedPageStart": 278,
+      "printedPageEnd": 278,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.7-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সর্বশেষ $m$ এবং $n$ এর মধ্যে একটি $> 0$ এবং অপরটি $< 0$ হলে $(m + n)<u>u</u>$ এর দৈর্ঘ্য হবে $||m| - |n||<u>u</u>|$ এবং দিক হবে $<u>u</u>$ এর দিকের সাথে একমুখী যখন $|m| > |n|$ এবং $<u>u</u>$ এর বিপরীত দিক যখন $|m| < |n|$। তখন $m<u>u</u> + n<u>u</u>$ ভেক্টরটিও দৈর্ঘ্য ও দিকে $(m + n)<u>u</u>$ এর সাথে একমুখী হবে।",
+      "image": null,
+      "formulas": [
+        "m",
+        "n",
+        "> 0",
+        "< 0",
+        "(m + n)<u>u</u>",
+        "||m| - |n||<u>u</u>|",
+        "<u>u</u>",
+        "|m| > |n|",
+        "<u>u</u>",
+        "|m| < |n|",
+        "m<u>u</u> + n<u>u</u>",
+        "(m + n)<u>u</u>"
+      ],
+      "pdfPageStart": 283,
+      "pdfPageEnd": 283,
+      "printedPageStart": 278,
+      "printedPageEnd": 278,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.7-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**দ্রষ্টব্য:** তিনটি বিন্দু $A, B, C$ সমরেখ হবে যদি এবং কেবল যদি $\\overrightarrow{AC}, \\overrightarrow{AB}$ এর সংখ্যা গুণিতক হয়।",
+      "image": null,
+      "formulas": [
+        "A, B, C",
+        "\\overrightarrow{AC}, \\overrightarrow{AB}"
+      ],
+      "pdfPageStart": 284,
+      "pdfPageEnd": 284,
+      "printedPageStart": 279,
+      "printedPageEnd": 279,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.7-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:** ক) দুটি ভেক্টরের ধারক রেখা অভিন্ন অথবা সমান্তরাল হলে এবং তাদের দিক একই হলে, তাদের সদৃশ (similar) ভেক্টর বলা হয়। খ) যে ভেক্টরের দৈর্ঘ্য ১ একক, তাকে (দিক নির্দেশক) একক ভেক্টর বলে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 284,
+      "pdfPageEnd": 284,
+      "printedPageStart": 279,
+      "printedPageEnd": 279,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

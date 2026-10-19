@@ -1,0 +1,324 @@
+{
+  "id": "higher-math-9-10-bn-c06-t6.1",
+  "key": "6.1",
+  "title": "অসমতার ব্যবহার",
+  "chapter": 6,
+  "ordinal": 2,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c06-t6.1-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সমীকরণের সাহায্যে তোমরা সমস্যা সমাধান করতে শিখেছ। একই পদ্ধতিতে অসমতা সম্পর্কিত সমস্যার সমাধান করতে পারবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 131,
+      "pdfPageEnd": 131,
+      "printedPageStart": 126,
+      "printedPageEnd": 126,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.1-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৬.** কোনো পরীক্ষায় বাংলা ১ম ও ২য় পত্র রমা পেয়েছে যথাক্রমে $5x$ এবং $6x$ নম্বর এবং কুমকুম পেয়েছে $4x$ এবং ৮৪ নম্বর। কোনো পত্র কেউ ৪০ এর নিচে পায়নি। বাংলা বিষয়ে কুমকুম হয়েছে প্রথম এবং রমা হয়েছে দ্বিতীয়। $x$ এর মান সন্বায় অসমতার মাধ্যমে প্রকাশ করো।",
+      "image": null,
+      "formulas": [
+        "5x",
+        "6x",
+        "4x",
+        "x"
+      ],
+      "pdfPageStart": 131,
+      "pdfPageEnd": 131,
+      "printedPageStart": 126,
+      "printedPageEnd": 126,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.1-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** রমা পেয়েছে মোট $5x + 6x$ নম্বর এবং কুমকুম পেয়েছে মোট $4x + 84$ নম্বর।",
+      "image": null,
+      "formulas": [
+        "5x + 6x",
+        "4x + 84"
+      ],
+      "pdfPageStart": 131,
+      "pdfPageEnd": 131,
+      "printedPageStart": 126,
+      "printedPageEnd": 126,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.1-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "প্রশ্নমতে, $5x + 6x < 4x + 84$",
+      "image": null,
+      "formulas": [
+        "5x + 6x < 4x + 84"
+      ],
+      "pdfPageStart": 131,
+      "pdfPageEnd": 131,
+      "printedPageStart": 126,
+      "printedPageEnd": 126,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.1-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $5x + 6x - 4x < 84$ বা, $7x < 84$",
+      "image": null,
+      "formulas": [
+        "5x + 6x - 4x < 84",
+        "7x < 84"
+      ],
+      "pdfPageStart": 131,
+      "pdfPageEnd": 131,
+      "printedPageStart": 126,
+      "printedPageEnd": 126,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.1-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x < \\frac{84}{7}$ বা, $x < 12$",
+      "image": null,
+      "formulas": [
+        "x < \\frac{84}{7}",
+        "x < 12"
+      ],
+      "pdfPageStart": 131,
+      "pdfPageEnd": 131,
+      "printedPageStart": 126,
+      "printedPageEnd": 126,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.1-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কিন্তু, $4x \\ge 40$ [প্রাপ্ত সর্বনিম্ন নম্বর ৪০] বা, $x \\ge 10$ বা, $10 \\le x$",
+      "image": null,
+      "formulas": [
+        "4x \\ge 40",
+        "x \\ge 10",
+        "10 \\le x"
+      ],
+      "pdfPageStart": 131,
+      "pdfPageEnd": 131,
+      "printedPageStart": 126,
+      "printedPageEnd": 126,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.1-p008",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore 10 \\le x < 12$",
+      "image": null,
+      "formulas": [
+        "\\therefore 10 \\le x < 12"
+      ],
+      "pdfPageStart": 131,
+      "pdfPageEnd": 131,
+      "printedPageStart": 126,
+      "printedPageEnd": 126,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.1-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৭.** একজন ছাত্র ৫ টাকা দরে $x$ টি পেনসিল এবং ৪ টাকা দরে $(x + 4)$ টি খাতা কিনেছে। মোট মূল্য অনুযায়ী ৯৭ টাকা হলে, সর্বাধিক কয়টি পেনসিল কিনেছে?",
+      "image": null,
+      "formulas": [
+        "x",
+        "(x + 4)"
+      ],
+      "pdfPageStart": 131,
+      "pdfPageEnd": 131,
+      "printedPageStart": 126,
+      "printedPageEnd": 126,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.1-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $x$ টি পেনসিলের দাম $5x$ টাকা এবং $x + 4$ টি খাতার দাম $8(x + 4)$ টাকা।",
+      "image": null,
+      "formulas": [
+        "x",
+        "5x",
+        "x + 4",
+        "8(x + 4)"
+      ],
+      "pdfPageStart": 131,
+      "pdfPageEnd": 131,
+      "printedPageStart": 126,
+      "printedPageEnd": 126,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.1-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "প্রশ্নমতে, $5x + 8(x + 4) \\le 97$",
+      "image": null,
+      "formulas": [
+        "5x + 8(x + 4) \\le 97"
+      ],
+      "pdfPageStart": 131,
+      "pdfPageEnd": 131,
+      "printedPageStart": 126,
+      "printedPageEnd": 126,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.1-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $5x + 8x + 32 \\le 97$",
+      "image": null,
+      "formulas": [
+        "5x + 8x + 32 \\le 97"
+      ],
+      "pdfPageStart": 131,
+      "pdfPageEnd": 131,
+      "printedPageStart": 126,
+      "printedPageEnd": 126,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.1-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $13x \\le 65$ বা, $x \\le \\frac{65}{13}$",
+      "image": null,
+      "formulas": [
+        "13x \\le 65",
+        "x \\le \\frac{65}{13}"
+      ],
+      "pdfPageStart": 131,
+      "pdfPageEnd": 132,
+      "printedPageStart": 126,
+      "printedPageEnd": 127,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.1-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x \\le 5$",
+      "image": null,
+      "formulas": [
+        "x \\le 5"
+      ],
+      "pdfPageStart": 132,
+      "pdfPageEnd": 132,
+      "printedPageStart": 127,
+      "printedPageEnd": 127,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.1-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ ছাত্রটি সর্বাধিক ৫ টি পেনসিল কিনেছে।",
+      "image": null,
+      "formulas": [
+        "\\therefore"
+      ],
+      "pdfPageStart": 132,
+      "pdfPageEnd": 132,
+      "printedPageStart": 127,
+      "printedPageEnd": 127,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.1-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:** 140 টাকা কেজি দরে জনাব ডেভিড $x$ কেজি আপেল কিনলেন। তিনি বিক্রিতাকে 1000 টাকার একখানা নোট দিলেন। বিক্রিতা 50 টাকার $x$ খানা নোটসহ বাকি টাকা ফেরত দিলেন। সমস্যাটিকে অসমতার মাধ্যমে প্রকাশ করো এবং $x$ এর সম্ভাব্য মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "x",
+        "x",
+        "x"
+      ],
+      "pdfPageStart": 132,
+      "pdfPageEnd": 132,
+      "printedPageStart": 127,
+      "printedPageEnd": 127,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

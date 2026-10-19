@@ -1,0 +1,164 @@
+{
+  "id": "higher-math-9-10-bn-c12-t12.9",
+  "key": "12.9",
+  "title": "অবস্থান ভেক্টর",
+  "chapter": 12,
+  "ordinal": 9,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c12-t12.9-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সমতলস্থ কোনো নির্দিষ্ট বিন্দু $O$ সাপেক্ষে ঐ সমতলের যেকোনো $P$ বিন্দুর অবস্থান $\\overrightarrow{OP}$ দ্বারা নির্দেশ করা যায়। $\\overrightarrow{OP}$ কে $O$ বিন্দু সাপেক্ষে $P$ বিন্দুর অবস্থান ভেক্টর বলা হয় এবং $O$ বিন্দুকে ভেক্টর মূলবিন্দু (origin) বলা হয়।",
+      "image": null,
+      "formulas": [
+        "O",
+        "P",
+        "\\overrightarrow{OP}",
+        "\\overrightarrow{OP}",
+        "O",
+        "P",
+        "O"
+      ],
+      "pdfPageStart": 285,
+      "pdfPageEnd": 285,
+      "printedPageStart": 280,
+      "printedPageEnd": 280,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.9-p002",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: vector diagram showing points O and P with vector p",
+      "image": "p285-page_10_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 285,
+      "pdfPageEnd": 285,
+      "printedPageStart": 280,
+      "printedPageEnd": 280,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.9-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "মনে করি, কোনো সমতলে $O$ একটি নির্দিষ্ট বিন্দু এবং একই সমতলে $A$ অপর একটি বিন্দু। $O, A$ যোগ করলে উৎপন্ন $\\overrightarrow{OA}$ ভেক্টর $O$ বিন্দুর প্রতিপক্ষিতে $A$ বিন্দুর অবস্থান ভেক্টর বলা হয়। অনুরূপভাবে, একই $O$ বিন্দুর প্রেক্ষিতে একই সমতলে অপর $B$ বিন্দুর অবস্থান ভেক্টর $\\overrightarrow{OB}$।",
+      "image": null,
+      "formulas": [
+        "O",
+        "A",
+        "O, A",
+        "\\overrightarrow{OA}",
+        "O",
+        "A",
+        "O",
+        "B",
+        "\\overrightarrow{OB}"
+      ],
+      "pdfPageStart": 285,
+      "pdfPageEnd": 285,
+      "printedPageStart": 280,
+      "printedPageEnd": 280,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.9-p004",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: triangle OAB with vectors a, b, and b-a",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 285,
+      "pdfPageEnd": 285,
+      "printedPageStart": 280,
+      "printedPageEnd": 280,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.9-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$A, B$ যোগ করি। মনে করি, $\\overrightarrow{OA} = <u>a</u>, \\overrightarrow{OB} = <u>b</u>$\nতাহলে $\\overrightarrow{OA} + \\overrightarrow{AB} = \\overrightarrow{OB}$ অর্থাৎ $<u>a</u> + \\overrightarrow{AB} = <u>b</u>$\n$\\therefore \\overrightarrow{AB} = <u>b</u> - <u>a</u>$",
+      "image": null,
+      "formulas": [
+        "A, B",
+        "\\overrightarrow{OA} = <u>a</u>, \\overrightarrow{OB} = <u>b</u>",
+        "\\overrightarrow{OA} + \\overrightarrow{AB} = \\overrightarrow{OB}",
+        "<u>a</u> + \\overrightarrow{AB} = <u>b</u>",
+        "\\therefore \\overrightarrow{AB} = <u>b</u> - <u>a</u>"
+      ],
+      "pdfPageStart": 285,
+      "pdfPageEnd": 285,
+      "printedPageStart": 280,
+      "printedPageEnd": 280,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.9-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং, দুটি বিন্দুর অবস্থান ভেক্টর জানা থাকলে তাদের সংযোজক রেখাংশ দ্বারা সূচিত ভেক্টর ঐ ভেক্টরদ্বয়ের প্রান্তবিন্দুর অবস্থান ভেক্টর বিয়োগ করে পাওয়া যাবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 285,
+      "pdfPageEnd": 285,
+      "printedPageStart": 280,
+      "printedPageEnd": 280,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.9-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**দ্রষ্টব্য:** মূলবিন্দু ভিন্ন ভিন্ন অবস্থানে থাকলে একই বিন্দুর অবস্থান ভেক্টর ভিন্ন ভিন্ন হতে পারে। কোনো নির্দিষ্ট প্রতিপাদ্য বিষয়ের সমাধানে এ বিষয়ের বিবেচনায়ীন সকল বিন্দুর অবস্থান ভেক্টর একই মূলবিন্দুর সাপেক্ষে ধরা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 285,
+      "pdfPageEnd": 285,
+      "printedPageStart": 280,
+      "printedPageEnd": 280,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.9-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:** তোমার খাতায় একটি বিন্দুকে মূলবিন্দু $O$ ধরে বিভিন্ন অবস্থানে আরও পাঁচটি বিন্দু নিয়ে $O$ বিন্দুর সাপেক্ষে এগুলোর অবস্থান ভেক্টর চিহ্নিত করো।",
+      "image": null,
+      "formulas": [
+        "O",
+        "O"
+      ],
+      "pdfPageStart": 286,
+      "pdfPageEnd": 286,
+      "printedPageStart": 281,
+      "printedPageEnd": 281,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

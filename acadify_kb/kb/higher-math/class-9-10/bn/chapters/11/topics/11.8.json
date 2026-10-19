@@ -1,0 +1,1015 @@
+{
+  "id": "higher-math-9-10-bn-c11-t11.8",
+  "key": "11.8",
+  "title": "ঢাল (Gradient or slope)",
+  "chapter": 11,
+  "ordinal": 9,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "পাশের চিত্রে $AB$ সরলরেখাটি বিবেচনা করি। রেখাটি $A(2, 3)$ ও $B(6, 7)$ দুটি বিন্দু দিয়ে অতিক্রম করেছে। চিত্রানুসারে রেখাটি $x$ অক্ষের ধনাত্মক দিকের সাথে $\\theta$ কোণ উৎপন্ন করেছে। এই $\\theta$ কোণ হলো $x$ অক্ষের সাথে $AB$ সরলরেখাটি কি পরিমাণ আনত হয়েছে তার পরিমাণ। স্থানাঙ্ক জ্যামিতিতে আমরা $AB$ রেখার ঢাল (gradient) $m$ কে নিম্নোক্ত ভাবে পরিমাণ করে থাকি:",
+      "image": null,
+      "formulas": [
+        "AB",
+        "A(2, 3)",
+        "B(6, 7)",
+        "x",
+        "\\theta",
+        "\\theta",
+        "x",
+        "AB",
+        "AB",
+        "m"
+      ],
+      "pdfPageStart": 262,
+      "pdfPageEnd": 262,
+      "printedPageStart": 257,
+      "printedPageEnd": 257,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p002",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane diagram showing line AB with points A(2,3) and B(6,7), rise of 4, and run of 4",
+      "image": "p262-page_19_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 262,
+      "pdfPageEnd": 262,
+      "printedPageStart": 257,
+      "printedPageEnd": 257,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p003",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$m = \\frac{y  স্থানাঙ্কের পরিবর্তন}{x  স্থানাঙ্কের পরিবর্তন} = \\frac{7 - 3}{6 - 2} = \\frac{4}{4} = 1$$",
+      "image": null,
+      "formulas": [
+        "m = \\frac{y  স্থানাঙ্কের পরিবর্তন}{x  স্থানাঙ্কের পরিবর্তন} = \\frac{7 - 3}{6 - 2} = \\frac{4}{4} = 1"
+      ],
+      "pdfPageStart": 262,
+      "pdfPageEnd": 262,
+      "printedPageStart": 257,
+      "printedPageEnd": 257,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore AB$ রেখার ঢাল, $m = 1$",
+      "image": null,
+      "formulas": [
+        "\\therefore AB",
+        "m = 1"
+      ],
+      "pdfPageStart": 262,
+      "pdfPageEnd": 262,
+      "printedPageStart": 257,
+      "printedPageEnd": 257,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সাধারণত, একটি সরলরেখা যখন $A(x_1, y_1)$ ও $B(x_2, y_2)$ বিন্দু দিয়ে অতিক্রম করে তখন এর ঢাল ($m$) কে আমরা",
+      "image": null,
+      "formulas": [
+        "A(x_1, y_1)",
+        "B(x_2, y_2)",
+        "m"
+      ],
+      "pdfPageStart": 262,
+      "pdfPageEnd": 262,
+      "printedPageStart": 257,
+      "printedPageEnd": 257,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p006",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$m = \\frac{y_2 - y_1}{x_2 - x_1} \\left[ \\frac{rise}{run} \\right] = \\frac{ওঠা}{হাঁটা}  দ্বারা প্রকাশ করে থাকি।$$",
+      "image": null,
+      "formulas": [
+        "m = \\frac{y_2 - y_1}{x_2 - x_1} \\left[ \\frac{rise}{run} \\right] = \\frac{ওঠা}{হাঁটা}  দ্বারা প্রকাশ করে থাকি।"
+      ],
+      "pdfPageStart": 262,
+      "pdfPageEnd": 262,
+      "printedPageStart": 257,
+      "printedPageEnd": 257,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বাস্তবিকপক্ষে, কোনো সরলরেখা দ্বারা $x$ অক্ষের ধনাত্মক দিকের সাথে উৎপন্ন কোণ $\\theta$ এবং ঢাল $m$ এর মধ্যে সম্পর্ক হলো, $m = \\tan\\theta$। উপরের চিত্রে $AB$ রেখার ক্ষেত্রে সরলরেখার ঢাল $m = 1$ অর্থাৎ, $\\tan\\theta = 1$ বা, $\\theta = 45^\\circ$ (একটি সূক্ষ্মকোণ)।",
+      "image": null,
+      "formulas": [
+        "x",
+        "\\theta",
+        "m",
+        "m = \\tan\\theta",
+        "AB",
+        "m = 1",
+        "\\tan\\theta = 1",
+        "\\theta = 45^\\circ"
+      ],
+      "pdfPageStart": 262,
+      "pdfPageEnd": 262,
+      "printedPageStart": 257,
+      "printedPageEnd": 257,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ফর্মা-৩৩, উচ্চতর গণিত, ৯ম-১০ম শ্রেণি",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 262,
+      "pdfPageEnd": 262,
+      "printedPageStart": 257,
+      "printedPageEnd": 257,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p009",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane with points A(x1, y1) and B(x2, y2) and angle theta",
+      "image": "p263-page_20_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 263,
+      "pdfPageEnd": 263,
+      "printedPageStart": 258,
+      "printedPageEnd": 258,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৫.** নিম্নের প্রতিফলে নির্দেশিত বিন্দুদ্বয় দ্বারা অতিক্রান্ত সরলরেখার ঢাল নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 263,
+      "pdfPageEnd": 263,
+      "printedPageStart": 258,
+      "printedPageEnd": 258,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $A(2, 3)$ এবং $B(3, 6)$\nখ) $A'(2, 1)$ এবং $B'(-1, 4)$",
+      "image": null,
+      "formulas": [
+        "A(2, 3)",
+        "B(3, 6)",
+        "A'(2, 1)",
+        "B'(-1, 4)"
+      ],
+      "pdfPageStart": 263,
+      "pdfPageEnd": 263,
+      "printedPageStart": 258,
+      "printedPageEnd": 258,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 263,
+      "pdfPageEnd": 263,
+      "printedPageStart": 258,
+      "printedPageEnd": 258,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $AB$ রেখার ঢাল $= \\frac{ওঠা}{হাঁটা} = \\frac{6 - 3}{3 - 2} = \\frac{3}{1} = 3$",
+      "image": null,
+      "formulas": [
+        "AB",
+        "= \\frac{ওঠা}{হাঁটা} = \\frac{6 - 3}{3 - 2} = \\frac{3}{1} = 3"
+      ],
+      "pdfPageStart": 263,
+      "pdfPageEnd": 263,
+      "printedPageStart": 258,
+      "printedPageEnd": 258,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $A'B'$ রেখার ঢাল $= \\frac{ওঠা}{হাঁটা} = \\frac{4 - 1}{-1 - 2}$\n$= \\frac{3}{-3} = -1$",
+      "image": null,
+      "formulas": [
+        "A'B'",
+        "= \\frac{ওঠা}{হাঁটা} = \\frac{4 - 1}{-1 - 2}",
+        "= \\frac{3}{-3} = -1"
+      ],
+      "pdfPageStart": 263,
+      "pdfPageEnd": 263,
+      "printedPageStart": 258,
+      "printedPageEnd": 258,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p015",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane with points A(2,3), B(3,6), A'(2,1), and B'(-1,4) 2,3",
+      "image": "p263-page_20_chart_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 263,
+      "pdfPageEnd": 263,
+      "printedPageStart": 258,
+      "printedPageEnd": 258,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**লক্ষণীয়:** উপরের চিত্র থেকে দেখা যাচ্ছে, $AB$ রেখার ঢাল ধনাত্মক এবং উৎপন্ন কোণ একটি সূক্ষ্মকোণ। আবার, একই চিত্র থেকে এটি পরিষ্কার যে $A'B'$ রেখার ঢাল ঋণাত্মক এবং উৎপন্ন কোণ একটি স্থূলকোণ। সুতরাং উপরিউক্ত আলোচনা থেকে আমরা এই সিদ্ধান্তে আসতে পারি যে, ঢাল ধনাত্মক হলে রেখা দ্বারা $x$ অক্ষের ধনাত্মক দিকের সাথে উৎপন্ন কোণ সূক্ষ্মকোণ এবং ঢাল ঋণাত্মক হলে রেখা দ্বারা $x$ অক্ষের ধনাত্মক দিকের সাথে উৎপন্ন কোণ একটি স্থূলকোণ।",
+      "image": null,
+      "formulas": [
+        "AB",
+        "A'B'",
+        "x",
+        "x"
+      ],
+      "pdfPageStart": 263,
+      "pdfPageEnd": 263,
+      "printedPageStart": 258,
+      "printedPageEnd": 258,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "উৎপন্ন কোণ শূন্য অথবা সমকোণ হলে ঢাল কি হবে তা নিম্নোক্ত উদাহরণের সাহায্যে ব্যাখ্যা করা হলো:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 263,
+      "pdfPageEnd": 263,
+      "printedPageStart": 258,
+      "printedPageEnd": 258,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৬.** $A, B$ এবং $C$ তিনটি বিন্দুর স্থানাঙ্ক যথাক্রমে $(2, 2), (5, 2)$ এবং $(2, 7)$। কার্তেসীয় তলে $AB$ ও $AC$ রেখা অঙ্কন করো। সম্ভব হলে $AB$ ও $AC$ রেখার ঢাল নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "A, B",
+        "C",
+        "(2, 2), (5, 2)",
+        "(2, 7)",
+        "AB",
+        "AC",
+        "AB",
+        "AC"
+      ],
+      "pdfPageStart": 263,
+      "pdfPageEnd": 263,
+      "printedPageStart": 258,
+      "printedPageEnd": 258,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** কার্তেসীয় তলে $AB$ ও $AC$ রেখা অঙ্কন করা হলো।",
+      "image": null,
+      "formulas": [
+        "AB",
+        "AC"
+      ],
+      "pdfPageStart": 263,
+      "pdfPageEnd": 263,
+      "printedPageStart": 258,
+      "printedPageEnd": 258,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "চিত্র থেকে দেখা যায় যে, $AB$ রেখা $x$ অক্ষের সমান্তরাল এবং $AC$ রেখা $y$ অক্ষের সমান্তরাল।",
+      "image": null,
+      "formulas": [
+        "AB",
+        "x",
+        "AC",
+        "y"
+      ],
+      "pdfPageStart": 264,
+      "pdfPageEnd": 264,
+      "printedPageStart": 259,
+      "printedPageEnd": 259,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p021",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane with points A(2,2), B(5,2), and C(2,7) 2,2",
+      "image": "p264-page_21_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 264,
+      "pdfPageEnd": 264,
+      "printedPageStart": 259,
+      "printedPageEnd": 259,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$AB$ রেখার ঢাল, $m = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{2 - 2}{5 - 2} = \\frac{0}{3} = 0$",
+      "image": null,
+      "formulas": [
+        "AB",
+        "m = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{2 - 2}{5 - 2} = \\frac{0}{3} = 0"
+      ],
+      "pdfPageStart": 264,
+      "pdfPageEnd": 264,
+      "printedPageStart": 259,
+      "printedPageEnd": 259,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$AC$ রেখার ঢাল $m = \\frac{y_2 - y_1}{x_2 - x_1}$ সূত্র দ্বারা নির্ণয় করা যাবে না, কারণ $x_1 = x_2 = 2$ এবং $x_2 - x_1 = 0$। যদি $x_1 = x_2$ হয় তবে রেখার ঢাল নির্ণয় করা যায় না কিন্তু রেখাটি $y$ অক্ষের সমান্তরাল হয়।",
+      "image": null,
+      "formulas": [
+        "AC",
+        "m = \\frac{y_2 - y_1}{x_2 - x_1}",
+        "x_1 = x_2 = 2",
+        "x_2 - x_1 = 0",
+        "x_1 = x_2",
+        "y"
+      ],
+      "pdfPageStart": 264,
+      "pdfPageEnd": 264,
+      "printedPageStart": 259,
+      "printedPageEnd": 259,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সাধারণত কোনো সরলরেখা $A(x_1, y_1)$ ও $B(x_2, y_2)$ বিন্দু দিয়ে অতিক্রম করলে ঢাল,",
+      "image": null,
+      "formulas": [
+        "A(x_1, y_1)",
+        "B(x_2, y_2)"
+      ],
+      "pdfPageStart": 264,
+      "pdfPageEnd": 264,
+      "printedPageStart": 259,
+      "printedPageEnd": 259,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p025",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$m = \\frac{y_2 - y_1}{x_2 - x_1}  বা,  m = \\frac{y_1 - y_2}{x_1 - x_2}  যদি  x_1 \\neq x_2  হয়।$$",
+      "image": null,
+      "formulas": [
+        "m = \\frac{y_2 - y_1}{x_2 - x_1}  বা,  m = \\frac{y_1 - y_2}{x_1 - x_2}  যদি  x_1 \\neq x_2  হয়।"
+      ],
+      "pdfPageStart": 264,
+      "pdfPageEnd": 264,
+      "printedPageStart": 259,
+      "printedPageEnd": 259,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p026",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**লক্ষ্য করি:** যদি $x_1 = x_2$ হয়, তাহলে রেখাটি $y$ অক্ষের সমান্তরাল অর্থাৎ $x$ অক্ষের উপর লম্ব হয়। এই রকম লম্ব রেখা বরাবর বা খাড়া রেখা বরাবর হাঁটা সম্ভব নয়। তাই ঢাল নির্ণয় করাও সম্ভব নয়।",
+      "image": null,
+      "formulas": [
+        "x_1 = x_2",
+        "y",
+        "x"
+      ],
+      "pdfPageStart": 264,
+      "pdfPageEnd": 264,
+      "printedPageStart": 259,
+      "printedPageEnd": 259,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p027",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:** উপরের চিত্রে $AB$ রেখার যেকোনো বিন্দুতে কোটি অর্থাৎ $y = 2$ এবং $AC$ রেখার যেকোনো বিন্দুতে ভুজ অর্থাৎ $x = 2$ তাই $AB$ সরলরেখার সমীকরণ $y = 2$ এবং $AC$ সরলরেখার সমীকরণ $x = 2$।",
+      "image": null,
+      "formulas": [
+        "AB",
+        "y = 2",
+        "AC",
+        "x = 2",
+        "AB",
+        "y = 2",
+        "AC",
+        "x = 2"
+      ],
+      "pdfPageStart": 264,
+      "pdfPageEnd": 264,
+      "printedPageStart": 259,
+      "printedPageEnd": 259,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p028",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৭.** $A(-3, 2)$ এবং $B(3, -2)$ বিন্দু দিয়ে অতিক্রমকারী রেখার ঢাল নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "A(-3, 2)",
+        "B(3, -2)"
+      ],
+      "pdfPageStart": 264,
+      "pdfPageEnd": 264,
+      "printedPageStart": 259,
+      "printedPageEnd": 259,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p029",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane with points A(-3, 2) and B(3, -2) and angle θ > 90°",
+      "image": "p264-page_21_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 264,
+      "pdfPageEnd": 264,
+      "printedPageStart": 259,
+      "printedPageEnd": 259,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p030",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $AB$ রেখার ঢাল $m$ হলে,",
+      "image": null,
+      "formulas": [
+        "AB",
+        "m"
+      ],
+      "pdfPageStart": 264,
+      "pdfPageEnd": 264,
+      "printedPageStart": 259,
+      "printedPageEnd": 259,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p031",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$m = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{ওঠা}{হাঁটা} = \\frac{2 - (-2)}{-3 - 3} = \\frac{4}{-6} = \\frac{2}{-3}$$",
+      "image": null,
+      "formulas": [
+        "m = \\frac{y_2 - y_1}{x_2 - x_1} = \\frac{ওঠা}{হাঁটা} = \\frac{2 - (-2)}{-3 - 3} = \\frac{4}{-6} = \\frac{2}{-3}"
+      ],
+      "pdfPageStart": 264,
+      "pdfPageEnd": 264,
+      "printedPageStart": 259,
+      "printedPageEnd": 259,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p032",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঢাল ঋণাত্মক হওয়ায় রেখাটি $x$ অক্ষের ধনাত্মক দিকের সাথে স্থূলকোণ উৎপন্ন করেছে।",
+      "image": null,
+      "formulas": [
+        "x"
+      ],
+      "pdfPageStart": 264,
+      "pdfPageEnd": 264,
+      "printedPageStart": 259,
+      "printedPageEnd": 259,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p033",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৮.** $A(1, -1)$, $B(2, 2)$ এবং $C(4, t)$ বিন্দু তিনটি সমরেখ হলে $t$ এর মান কত?",
+      "image": null,
+      "formulas": [
+        "A(1, -1)",
+        "B(2, 2)",
+        "C(4, t)",
+        "t"
+      ],
+      "pdfPageStart": 265,
+      "pdfPageEnd": 265,
+      "printedPageStart": 260,
+      "printedPageEnd": 260,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p034",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** সমরেখ হওয়ায় $AB$ ও $BC$ রেখার ঢাল একই হবে।",
+      "image": null,
+      "formulas": [
+        "AB",
+        "BC"
+      ],
+      "pdfPageStart": 265,
+      "pdfPageEnd": 265,
+      "printedPageStart": 260,
+      "printedPageEnd": 260,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p035",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং আমরা পাই,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 265,
+      "pdfPageEnd": 265,
+      "printedPageStart": 260,
+      "printedPageEnd": 260,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p036",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{2 + 1}{2 - 1} = \\frac{t - 2}{4 - 2}$$",
+      "image": null,
+      "formulas": [
+        "\\frac{2 + 1}{2 - 1} = \\frac{t - 2}{4 - 2}"
+      ],
+      "pdfPageStart": 265,
+      "pdfPageEnd": 265,
+      "printedPageStart": 260,
+      "printedPageEnd": 260,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p037",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\frac{3}{1} = \\frac{t - 2}{2}$",
+      "image": null,
+      "formulas": [
+        "\\frac{3}{1} = \\frac{t - 2}{2}"
+      ],
+      "pdfPageStart": 265,
+      "pdfPageEnd": 265,
+      "printedPageStart": 260,
+      "printedPageEnd": 260,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p038",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $t - 2 = 6$",
+      "image": null,
+      "formulas": [
+        "t - 2 = 6"
+      ],
+      "pdfPageStart": 265,
+      "pdfPageEnd": 265,
+      "printedPageStart": 260,
+      "printedPageEnd": 260,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p039",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $t = 8$",
+      "image": null,
+      "formulas": [
+        "t = 8"
+      ],
+      "pdfPageStart": 265,
+      "pdfPageEnd": 265,
+      "printedPageStart": 260,
+      "printedPageEnd": 260,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p040",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং $t$ এর মান ৮।",
+      "image": null,
+      "formulas": [
+        "t"
+      ],
+      "pdfPageStart": 265,
+      "pdfPageEnd": 265,
+      "printedPageStart": 260,
+      "printedPageEnd": 260,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p041",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A coordinate plane showing a line passing through points A(1, -1), B(2, 2), and C(4, t).",
+      "image": "p265-page_22_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 265,
+      "pdfPageEnd": 265,
+      "printedPageStart": 260,
+      "printedPageEnd": 260,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p042",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১৯.** $A(t, 3t)$, $B(t^2, 2t)$, $C(t - 2, t)$ এবং $D(1, 1)$ চারটি ভিন্ন বিন্দু। $AB$ এবং $CD$ রেখা সমান্তরাল হলে $t$ এর সম্ভাব্য মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "A(t, 3t)",
+        "B(t^2, 2t)",
+        "C(t - 2, t)",
+        "D(1, 1)",
+        "AB",
+        "CD",
+        "t"
+      ],
+      "pdfPageStart": 265,
+      "pdfPageEnd": 265,
+      "printedPageStart": 260,
+      "printedPageEnd": 260,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p043",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $AB$ রেখার ঢাল $m_1 = \\frac{2t - 3t}{t^2 - t} = \\frac{-t}{t(t - 1)} = \\frac{1}{1 - t}$",
+      "image": null,
+      "formulas": [
+        "AB",
+        "m_1 = \\frac{2t - 3t}{t^2 - t} = \\frac{-t}{t(t - 1)} = \\frac{1}{1 - t}"
+      ],
+      "pdfPageStart": 265,
+      "pdfPageEnd": 265,
+      "printedPageStart": 260,
+      "printedPageEnd": 260,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p044",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$CD$ রেখার ঢাল $m_2 = \\frac{1 - t}{1 - t + 2} = \\frac{1 - t}{3 - t}$",
+      "image": null,
+      "formulas": [
+        "CD",
+        "m_2 = \\frac{1 - t}{1 - t + 2} = \\frac{1 - t}{3 - t}"
+      ],
+      "pdfPageStart": 265,
+      "pdfPageEnd": 265,
+      "printedPageStart": 260,
+      "printedPageEnd": 260,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p045",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যেহেতু $AB$ ও $CD$ রেখা সমান্তরাল, $AB$ ও $CD$ রেখার ঢাল সমান অর্থাৎ, $m_1 = m_2$",
+      "image": null,
+      "formulas": [
+        "AB",
+        "CD",
+        "AB",
+        "CD",
+        "m_1 = m_2"
+      ],
+      "pdfPageStart": 265,
+      "pdfPageEnd": 265,
+      "printedPageStart": 260,
+      "printedPageEnd": 260,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p046",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\frac{1}{1 - t} = \\frac{1 - t}{3 - t}$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{1 - t} = \\frac{1 - t}{3 - t}"
+      ],
+      "pdfPageStart": 265,
+      "pdfPageEnd": 265,
+      "printedPageStart": 260,
+      "printedPageEnd": 260,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p047",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $(1 - t)^2 = (3 - t)$",
+      "image": null,
+      "formulas": [
+        "(1 - t)^2 = (3 - t)"
+      ],
+      "pdfPageStart": 265,
+      "pdfPageEnd": 265,
+      "printedPageStart": 260,
+      "printedPageEnd": 260,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p048",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $1 - 2t + t^2 = 3 - t$",
+      "image": null,
+      "formulas": [
+        "1 - 2t + t^2 = 3 - t"
+      ],
+      "pdfPageStart": 265,
+      "pdfPageEnd": 265,
+      "printedPageStart": 260,
+      "printedPageEnd": 260,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p049",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $t^2 - t - 2 = 0$",
+      "image": null,
+      "formulas": [
+        "t^2 - t - 2 = 0"
+      ],
+      "pdfPageStart": 265,
+      "pdfPageEnd": 265,
+      "printedPageStart": 260,
+      "printedPageEnd": 260,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p050",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $t = -1$ অথবা $t = 2$",
+      "image": null,
+      "formulas": [
+        "t = -1",
+        "t = 2"
+      ],
+      "pdfPageStart": 265,
+      "pdfPageEnd": 265,
+      "printedPageStart": 260,
+      "printedPageEnd": 260,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c11-t11.8-p051",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং $t$ এর সম্ভাব্য মানসমূহ $-1, 2$",
+      "image": null,
+      "formulas": [
+        "t",
+        "-1, 2"
+      ],
+      "pdfPageStart": 265,
+      "pdfPageEnd": 265,
+      "printedPageStart": 260,
+      "printedPageEnd": 260,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

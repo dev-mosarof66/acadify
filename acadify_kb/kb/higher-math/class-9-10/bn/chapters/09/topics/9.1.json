@@ -1,0 +1,132 @@
+{
+  "id": "higher-math-9-10-bn-c09-t9.1",
+  "key": "9.1",
+  "title": "অমূলদ সূচক",
+  "chapter": 9,
+  "ordinal": 1,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c09-t9.1-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অমূলদ সূচকের ক্ষেত্রে $a^x$ ($a > 0$) এর মান এমনভাবে নির্দিষ্ট করা হয় যে, $x$ এর মূলদ আসন্ন মান $p$ এর জন্য $a^p$ এর মান $a^x$ এর মানের আসন্ন হয়। উদাহরণস্বরূপ $3^{\\sqrt{5}}$ সংখ্যাটি বিবেচনা করি। আমরা জানি, $\\sqrt{5}$ একটি অমূলদ সংখ্যা এবং $\\sqrt{5} = 2.236067977 \\cdots$ (এই মান ক্যালকুলেটর ব্যবহার করে পাওয়া গিয়েছে এবং দশমিক বিস্তার যে অনন্ত তা $\\cdots$ দ্বারা নির্দেশ করা হয়েছে)। $\\sqrt{5}$ এর মান হিসেবে",
+      "image": null,
+      "formulas": [
+        "a^x",
+        "a > 0",
+        "x",
+        "p",
+        "a^p",
+        "a^x",
+        "3^{\\sqrt{5}}",
+        "\\sqrt{5}",
+        "\\sqrt{5} = 2.236067977 \\cdots",
+        "\\cdots",
+        "\\sqrt{5}"
+      ],
+      "pdfPageStart": 199,
+      "pdfPageEnd": 199,
+      "printedPageStart": 194,
+      "printedPageEnd": 194,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.1-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$$p_1 = 2.23 \\quad p_2 = 2.236 \\quad p_3 = 2.2360 \\quad p_4 = 2.23606 \\quad p_5 = 2.236067$$\n$$p_6 = 2.2360679 \\quad p_7 = 2.23606797$$",
+      "image": null,
+      "formulas": [
+        "p_1 = 2.23 \\quad p_2 = 2.236 \\quad p_3 = 2.2360 \\quad p_4 = 2.23606 \\quad p_5 = 2.236067",
+        "p_6 = 2.2360679 \\quad p_7 = 2.23606797"
+      ],
+      "pdfPageStart": 199,
+      "pdfPageEnd": 199,
+      "printedPageStart": 194,
+      "printedPageEnd": 194,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.1-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বিবেচনা করে $3^{\\sqrt{5}}$ এর মান হিসেবে",
+      "image": null,
+      "formulas": [
+        "3^{\\sqrt{5}}"
+      ],
+      "pdfPageStart": 199,
+      "pdfPageEnd": 199,
+      "printedPageStart": 194,
+      "printedPageEnd": 194,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.1-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$$q_1 = 3^{2.23} = 11.5872505 \\quad q_2 = 3^{2.236} = 11.6638822 \\quad q_3 = 3^{2.2360} = 11.6638822$$\n$$q_4 = 3^{2.23606} = 11.66465109 \\quad q_5 = 3^{2.236067} = 11.6647407$$\n$$q_6 = 3^{2.2360679} = 11.6647523 \\quad q_7 = 3^{2.23606797} = 11.6647532$$",
+      "image": null,
+      "formulas": [
+        "q_1 = 3^{2.23} = 11.5872505 \\quad q_2 = 3^{2.236} = 11.6638822 \\quad q_3 = 3^{2.2360} = 11.6638822",
+        "q_4 = 3^{2.23606} = 11.66465109 \\quad q_5 = 3^{2.236067} = 11.6647407",
+        "q_6 = 3^{2.2360679} = 11.6647523 \\quad q_7 = 3^{2.23606797} = 11.6647532"
+      ],
+      "pdfPageStart": 199,
+      "pdfPageEnd": 199,
+      "printedPageStart": 194,
+      "printedPageEnd": 194,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.1-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "পাওয়া যায় (এই মানগুলোও ক্যালকুলেটর ব্যবহার করে পাওয়া গিয়েছে)।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 199,
+      "pdfPageEnd": 199,
+      "printedPageStart": 194,
+      "printedPageEnd": 194,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.1-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বাস্তবিক পক্ষে, $3^{\\sqrt{5}} = 11.6647533 \\cdots$",
+      "image": null,
+      "formulas": [
+        "3^{\\sqrt{5}} = 11.6647533 \\cdots"
+      ],
+      "pdfPageStart": 199,
+      "pdfPageEnd": 199,
+      "printedPageStart": 194,
+      "printedPageEnd": 194,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

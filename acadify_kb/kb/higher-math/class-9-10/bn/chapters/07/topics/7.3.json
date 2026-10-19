@@ -1,0 +1,31 @@
+{
+  "id": "higher-math-9-10-bn-c07-t7.3",
+  "key": "7.3",
+  "title": "অসীম ধারা (Infinite Series)",
+  "chapter": 7,
+  "ordinal": 3,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c07-t7.3-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বাস্তব সংখ্যার একটি অনুক্রম $u_1, u_2, u_3, \\dots, u_n, \\dots$ হলে $u_1 + u_2 + u_3 + \\dots + u_n + \\dots$ কে বাস্তব সংখ্যার একটি অসীম ধারা বলা হয়। এই ধারাটির $n$ তম পদ $u_n$।",
+      "image": null,
+      "formulas": [
+        "u_1, u_2, u_3, \\dots, u_n, \\dots",
+        "u_1 + u_2 + u_3 + \\dots + u_n + \\dots",
+        "n",
+        "u_n"
+      ],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 142,
+      "printedPageStart": 137,
+      "printedPageEnd": 137,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

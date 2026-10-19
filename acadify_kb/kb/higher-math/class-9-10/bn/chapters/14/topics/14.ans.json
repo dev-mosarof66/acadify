@@ -1,0 +1,3140 @@
+{
+  "id": "higher-math-9-10-bn-c14-t14.ans",
+  "key": "14.ans",
+  "title": "অনুশীলনীর উত্তর",
+  "chapter": 14,
+  "ordinal": 6,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p001",
+      "kind": "answer",
+      "section": "অনুশীলনী ১.১",
+      "caption": null,
+      "body": "৫. ক) $A = \\{1, 3, 5, 7, 9, 11, 13, 15, 17, 19\\}$\n    খ) $B = \\{2, 3, 5, 7, 11, 13, 17, 19\\}$\n    গ) $C = \\{3, 5, 7, 11, 13, 17, 19\\}$\n    ঘ) $D = \\{1, 2, 3, 5, 7, 9, 11, 13, 15, 17, 19\\}$",
+      "image": null,
+      "formulas": [
+        "A = \\{1, 3, 5, 7, 9, 11, 13, 15, 17, 19\\}",
+        "B = \\{2, 3, 5, 7, 11, 13, 17, 19\\}",
+        "C = \\{3, 5, 7, 11, 13, 17, 19\\}",
+        "D = \\{1, 2, 3, 5, 7, 9, 11, 13, 15, 17, 19\\}"
+      ],
+      "pdfPageStart": 321,
+      "pdfPageEnd": 321,
+      "printedPageStart": 316,
+      "printedPageEnd": 316,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p002",
+      "kind": "answer",
+      "section": "অনুশীলনী ১.১",
+      "caption": null,
+      "body": "৬. ক) $x = 8$\n    খ) 56\n    গ) 24",
+      "image": null,
+      "formulas": [
+        "x = 8"
+      ],
+      "pdfPageStart": 321,
+      "pdfPageEnd": 321,
+      "printedPageStart": 316,
+      "printedPageEnd": 316,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p003",
+      "kind": "answer",
+      "section": "অনুশীলনী ১.১",
+      "caption": null,
+      "body": "৭. 0, 4\n    ৮. 0, 3",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 321,
+      "pdfPageEnd": 321,
+      "printedPageStart": 316,
+      "printedPageEnd": 316,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p004",
+      "kind": "answer",
+      "section": "অনুশীলনী ১.১",
+      "caption": null,
+      "body": "১৬. খ) $A$\n    ১৭. 3",
+      "image": null,
+      "formulas": [
+        "A"
+      ],
+      "pdfPageStart": 321,
+      "pdfPageEnd": 321,
+      "printedPageStart": 316,
+      "printedPageEnd": 316,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p005",
+      "kind": "answer",
+      "section": "অনুশীলনী ১.১",
+      "caption": null,
+      "body": "২১. ক) $2 < x < 3$\n    খ) $x < 1$ অথবা, $x > 5$\n    গ) $R \\setminus \\{3 \\le x \\le 5\\}$",
+      "image": null,
+      "formulas": [
+        "2 < x < 3",
+        "x < 1",
+        "x > 5",
+        "R \\setminus \\{3 \\le x \\le 5\\}"
+      ],
+      "pdfPageStart": 321,
+      "pdfPageEnd": 321,
+      "printedPageStart": 316,
+      "printedPageEnd": 316,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p006",
+      "kind": "answer",
+      "section": "অনুশীলনী ১.১",
+      "caption": null,
+      "body": "২২. ক) $3 \\le x \\le 4$\n    খ) $4 < x < 6$\n    গ) $1 < x < 3$\n    ঘ) $x \\le 1, x \\ge 6, x < 10$",
+      "image": null,
+      "formulas": [
+        "3 \\le x \\le 4",
+        "4 < x < 6",
+        "1 < x < 3",
+        "x \\le 1, x \\ge 6, x < 10"
+      ],
+      "pdfPageStart": 321,
+      "pdfPageEnd": 321,
+      "printedPageStart": 316,
+      "printedPageEnd": 316,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p007",
+      "kind": "answer",
+      "section": "অনুশীলনী ১.১",
+      "caption": null,
+      "body": "২৩. ক) $A \\cup B = \\{-3, -2, -1, 0, 1, 2, 3\\}$\n    খ) $A \\cup B = \\{6\\}$",
+      "image": null,
+      "formulas": [
+        "A \\cup B = \\{-3, -2, -1, 0, 1, 2, 3\\}",
+        "A \\cup B = \\{6\\}"
+      ],
+      "pdfPageStart": 321,
+      "pdfPageEnd": 321,
+      "printedPageStart": 316,
+      "printedPageEnd": 316,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p008",
+      "kind": "answer",
+      "section": "অনুশীলনী ১.১",
+      "caption": null,
+      "body": "২৪. ক) $A \\cap B = \\{0, 2\\}$\n    খ) $A \\cap B = \\{b, c\\}$",
+      "image": null,
+      "formulas": [
+        "A \\cap B = \\{0, 2\\}",
+        "A \\cap B = \\{b, c\\}"
+      ],
+      "pdfPageStart": 321,
+      "pdfPageEnd": 321,
+      "printedPageStart": 316,
+      "printedPageEnd": 316,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p009",
+      "kind": "answer",
+      "section": "অনুশীলনী ১.১",
+      "caption": null,
+      "body": "২৫. ক) 10\n    খ) 50",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 321,
+      "pdfPageEnd": 321,
+      "printedPageStart": 316,
+      "printedPageEnd": 316,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p010",
+      "kind": "answer",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "৪. ক) (i) ডোম $S = \\{1, 2, 3, 4\\}$, রেঞ্জ $S = \\{5, 10, 15, 20\\}$,\n    $S^{-1} = \\{(5, 1), (10, 2), (15, 3), (20, 4)\\}$",
+      "image": null,
+      "formulas": [
+        "S = \\{1, 2, 3, 4\\}",
+        "S = \\{5, 10, 15, 20\\}",
+        "S^{-1} = \\{(5, 1), (10, 2), (15, 3), (20, 4)\\}"
+      ],
+      "pdfPageStart": 321,
+      "pdfPageEnd": 321,
+      "printedPageStart": 316,
+      "printedPageEnd": 316,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p011",
+      "kind": "answer",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "(ii) $S$ ও $S^{-1}$ প্রত্যেকে ফাংশন",
+      "image": null,
+      "formulas": [
+        "S",
+        "S^{-1}"
+      ],
+      "pdfPageStart": 321,
+      "pdfPageEnd": 321,
+      "printedPageStart": 316,
+      "printedPageEnd": 316,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p012",
+      "kind": "answer",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "(iii) এক-এক ফাংশন",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 321,
+      "pdfPageEnd": 321,
+      "printedPageStart": 316,
+      "printedPageEnd": 316,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p013",
+      "kind": "answer",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "খ) (i) ডোম $S = \\{-3, -2, -1, 0, 1, 2, 3\\}$, রেঞ্জ $S = \\{-1, 0, 3, 8\\}$,\n    $S^{-1} = \\{(8, -3), (3, -2), (0, -1), (-1, 0), (0, 1), (3, 2), (8, 3)\\}$",
+      "image": null,
+      "formulas": [
+        "S = \\{-3, -2, -1, 0, 1, 2, 3\\}",
+        "S = \\{-1, 0, 3, 8\\}",
+        "S^{-1} = \\{(8, -3), (3, -2), (0, -1), (-1, 0), (0, 1), (3, 2), (8, 3)\\}"
+      ],
+      "pdfPageStart": 321,
+      "pdfPageEnd": 321,
+      "printedPageStart": 316,
+      "printedPageEnd": 316,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p014",
+      "kind": "answer",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "(ii) $S$ ফাংশন, $S^{-1}$ ফাংশন নয়, কেননা $(0, 1), (0, -1), (-3, 8), (3, 8), (-2, 3), (2, 3)$ প্রতিবিম্ব ভিন্ন নয়",
+      "image": null,
+      "formulas": [
+        "S",
+        "S^{-1}",
+        "(0, 1), (0, -1), (-3, 8), (3, 8), (-2, 3), (2, 3)"
+      ],
+      "pdfPageStart": 321,
+      "pdfPageEnd": 321,
+      "printedPageStart": 316,
+      "printedPageEnd": 316,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p015",
+      "kind": "answer",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "(iii) এক-এক ফাংশন নয়",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 321,
+      "pdfPageEnd": 321,
+      "printedPageStart": 316,
+      "printedPageEnd": 316,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p016",
+      "kind": "answer",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "গ) $(i)$ ডোম $S = \\left\\{ \\frac{1}{2}, 1, \\frac{5}{2} \\right\\}$, রেঞ্জ $S = \\{-2, -1, 0, 1, 2\\}$,\n$$S^{-1} = \\left\\{ \\left( 0, \\frac{1}{2} \\right), (1, 1), (-1, 1), \\left( 2, \\frac{5}{2} \\right), \\left( -2, \\frac{5}{2} \\right) \\right\\}$$",
+      "image": null,
+      "formulas": [
+        "(i)",
+        "S = \\left\\{ \\frac{1}{2}, 1, \\frac{5}{2} \\right\\}",
+        "S = \\{-2, -1, 0, 1, 2\\}",
+        "S^{-1} = \\left\\{ \\left( 0, \\frac{1}{2} \\right), (1, 1), (-1, 1), \\left( 2, \\frac{5}{2} \\right), \\left( -2, \\frac{5}{2} \\right) \\right\\}"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p017",
+      "kind": "answer",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "$(ii)$ $S$ ফাংশন নয় কেননা $(1, 1)$ এবং $(1, -1)$ প্রতিবিম্ব ভিন্ন, $S^{-1}$ ফাংশন",
+      "image": null,
+      "formulas": [
+        "(ii)",
+        "S",
+        "(1, 1)",
+        "(1, -1)",
+        "S^{-1}"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p018",
+      "kind": "answer",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "$(iii)$ এক-এক ফাংশন নয়",
+      "image": null,
+      "formulas": [
+        "(iii)"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p019",
+      "kind": "answer",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "ঘ) $(i)$ ডোম $S = \\{-3, -1, 0, 1, 3\\}$, রেঞ্জ $S = \\{-3, -1, 0, 1, 3\\}$, $S^{-1} = S$",
+      "image": null,
+      "formulas": [
+        "(i)",
+        "S = \\{-3, -1, 0, 1, 3\\}",
+        "S = \\{-3, -1, 0, 1, 3\\}",
+        "S^{-1} = S"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p020",
+      "kind": "answer",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "$(ii)$ $S, S^{-1}$ উভয়ই ফাংশন",
+      "image": null,
+      "formulas": [
+        "(ii)",
+        "S, S^{-1}"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p021",
+      "kind": "answer",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "$(iii)$ এক-এক ফাংশন",
+      "image": null,
+      "formulas": [
+        "(iii)"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p022",
+      "kind": "answer",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "ঙ) $(i)$ ডোম $S = \\{2\\}$, রেঞ্জ $S = \\{1, 2, 3\\}$, $S^{-1} = \\{(1, 2), (2, 2), (3, 2)\\}$",
+      "image": null,
+      "formulas": [
+        "(i)",
+        "S = \\{2\\}",
+        "S = \\{1, 2, 3\\}",
+        "S^{-1} = \\{(1, 2), (2, 2), (3, 2)\\}"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p023",
+      "kind": "answer",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "$(ii)$ $S$ ফাংশন নয়, $S^{-1}$ ফাংশন",
+      "image": null,
+      "formulas": [
+        "(ii)",
+        "S",
+        "S^{-1}"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p024",
+      "kind": "answer",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "$(iii)$ এক-এক ফাংশন নয়",
+      "image": null,
+      "formulas": [
+        "(iii)"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p025",
+      "kind": "answer",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "**৫. ক)** 0, 2, 3 **খ)** $a$ **গ)** 26 **ঘ)** $1 + y^2$",
+      "image": null,
+      "formulas": [
+        "a",
+        "1 + y^2"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p026",
+      "kind": "answer",
+      "section": "অনুশীলনী ১.২",
+      "caption": null,
+      "body": "**৬. ক)** ডোম $F = R$, রেঞ্জ $F = R$ **গ)** $\\sqrt[3]{x}$",
+      "image": null,
+      "formulas": [
+        "F = R",
+        "F = R",
+        "\\sqrt[3]{x}"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p027",
+      "kind": "answer",
+      "section": "অনুশীলনী ২",
+      "caption": null,
+      "body": "২. ক) $(x + 1)^2(x + 2)(x + 3)$",
+      "image": null,
+      "formulas": [
+        "(x + 1)^2(x + 2)(x + 3)"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p028",
+      "kind": "answer",
+      "section": "অনুশীলনী ২",
+      "caption": null,
+      "body": "খ) $(x + 1)(x^2 + x + 1)$",
+      "image": null,
+      "formulas": [
+        "(x + 1)(x^2 + x + 1)"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p029",
+      "kind": "answer",
+      "section": "অনুশীলনী ২",
+      "caption": null,
+      "body": "গ) $(x + y + z)(xy + yz + zx)$",
+      "image": null,
+      "formulas": [
+        "(x + y + z)(xy + yz + zx)"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p030",
+      "kind": "answer",
+      "section": "অনুশীলনী ২",
+      "caption": null,
+      "body": "ঘ) $-(x - y)(y - z)(z - x)$",
+      "image": null,
+      "formulas": [
+        "-(x - y)(y - z)(z - x)"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p031",
+      "kind": "answer",
+      "section": "অনুশীলনী ২",
+      "caption": null,
+      "body": "ঙ) $-(a - b)(b - c)(c - a)(a + b)(b + c)(c + a)$",
+      "image": null,
+      "formulas": [
+        "-(a - b)(b - c)(c - a)(a + b)(b + c)(c + a)"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p032",
+      "kind": "answer",
+      "section": "অনুশীলনী ২",
+      "caption": null,
+      "body": "চ) $(3x + 4y - 2)(5x - 6y + 3)$",
+      "image": null,
+      "formulas": [
+        "(3x + 4y - 2)(5x - 6y + 3)"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p033",
+      "kind": "answer",
+      "section": "অনুশীলনী ২",
+      "caption": null,
+      "body": "ছ) $(3x + 4y - 2z)(5x - 6y + 3z)$",
+      "image": null,
+      "formulas": [
+        "(3x + 4y - 2z)(5x - 6y + 3z)"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p034",
+      "kind": "answer",
+      "section": "অনুশীলনী ২",
+      "caption": null,
+      "body": "**৫. ক)** 0 **খ)** $\\frac{x}{(x - a)(x - b)(x - c)}$ **গ)** $\\frac{1}{x - 1}$",
+      "image": null,
+      "formulas": [
+        "\\frac{x}{(x - a)(x - b)(x - c)}",
+        "\\frac{1}{x - 1}"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p035",
+      "kind": "answer",
+      "section": "অনুশীলনী ২",
+      "caption": null,
+      "body": "**৬. ক)** $\\frac{2}{x} + \\frac{3}{x + 2}$ **খ)** $\\frac{6}{x - 4} - \\frac{5}{x - 3}$",
+      "image": null,
+      "formulas": [
+        "\\frac{2}{x} + \\frac{3}{x + 2}",
+        "\\frac{6}{x - 4} - \\frac{5}{x - 3}"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p036",
+      "kind": "answer",
+      "section": "অনুশীলনী ২",
+      "caption": null,
+      "body": "**গ)** $\\frac{1}{x} - \\frac{2}{x - 2} + \\frac{2}{x + 3}$ **ঘ)** $\\frac{1}{5} \\left( \\frac{7x - 27}{x^2 + 4} - \\frac{2}{x + 1} \\right)$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{x} - \\frac{2}{x - 2} + \\frac{2}{x + 3}",
+        "\\frac{1}{5} \\left( \\frac{7x - 27}{x^2 + 4} - \\frac{2}{x + 1} \\right)"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p037",
+      "kind": "answer",
+      "section": "অনুশীলনী ২",
+      "caption": null,
+      "body": "**ঙ)** $\\frac{1}{25(2x + 1)} + \\frac{12}{25(x + 3)} - \\frac{9}{5(x + 3)^2}$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{25(2x + 1)} + \\frac{12}{25(x + 3)} - \\frac{9}{5(x + 3)^2}"
+      ],
+      "pdfPageStart": 322,
+      "pdfPageEnd": 322,
+      "printedPageStart": 317,
+      "printedPageEnd": 317,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p038",
+      "kind": "answer",
+      "section": "অনুশীলনী ৫.১",
+      "caption": null,
+      "body": "১. $-3, -\\frac{3}{2}$",
+      "image": null,
+      "formulas": [
+        "-3, -\\frac{3}{2}"
+      ],
+      "pdfPageStart": 323,
+      "pdfPageEnd": 323,
+      "printedPageStart": 318,
+      "printedPageEnd": 318,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p039",
+      "kind": "answer",
+      "section": "অনুশীলনী ৫.১",
+      "caption": null,
+      "body": "২. $-1 + \\frac{\\sqrt{10}}{2}, -1 - \\frac{\\sqrt{10}}{2}$",
+      "image": null,
+      "formulas": [
+        "-1 + \\frac{\\sqrt{10}}{2}, -1 - \\frac{\\sqrt{10}}{2}"
+      ],
+      "pdfPageStart": 323,
+      "pdfPageEnd": 323,
+      "printedPageStart": 318,
+      "printedPageEnd": 318,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p040",
+      "kind": "answer",
+      "section": "অনুশীলনী ৫.১",
+      "caption": null,
+      "body": "৩. $2 - \\sqrt{3}, 2 + \\sqrt{3}$",
+      "image": null,
+      "formulas": [
+        "2 - \\sqrt{3}, 2 + \\sqrt{3}"
+      ],
+      "pdfPageStart": 323,
+      "pdfPageEnd": 323,
+      "printedPageStart": 318,
+      "printedPageEnd": 318,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p041",
+      "kind": "answer",
+      "section": "অনুশীলনী ৫.১",
+      "caption": null,
+      "body": "৪. $\\frac{1}{4}(5 - \\sqrt{33}), \\frac{1}{4}(5 + \\sqrt{33})$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{4}(5 - \\sqrt{33}), \\frac{1}{4}(5 + \\sqrt{33})"
+      ],
+      "pdfPageStart": 323,
+      "pdfPageEnd": 323,
+      "printedPageStart": 318,
+      "printedPageEnd": 318,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p042",
+      "kind": "answer",
+      "section": "অনুশীলনী ৫.১",
+      "caption": null,
+      "body": "৫. $\\frac{1}{6}(-7 - \\sqrt{37}), \\frac{1}{6}(-7 + \\sqrt{37})$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{6}(-7 - \\sqrt{37}), \\frac{1}{6}(-7 + \\sqrt{37})"
+      ],
+      "pdfPageStart": 323,
+      "pdfPageEnd": 323,
+      "printedPageStart": 318,
+      "printedPageEnd": 318,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p043",
+      "kind": "answer",
+      "section": "অনুশীলনী ৫.১",
+      "caption": null,
+      "body": "৬. $\\frac{1}{6}(9 - \\sqrt{105}), \\frac{1}{6}(9 + \\sqrt{105})$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{6}(9 - \\sqrt{105}), \\frac{1}{6}(9 + \\sqrt{105})"
+      ],
+      "pdfPageStart": 323,
+      "pdfPageEnd": 323,
+      "printedPageStart": 318,
+      "printedPageEnd": 318,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p044",
+      "kind": "answer",
+      "section": "অনুশীলনী ৫.১",
+      "caption": null,
+      "body": "৭. $4, 4$",
+      "image": null,
+      "formulas": [
+        "4, 4"
+      ],
+      "pdfPageStart": 323,
+      "pdfPageEnd": 323,
+      "printedPageStart": 318,
+      "printedPageEnd": 318,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p045",
+      "kind": "answer",
+      "section": "অনুশীলনী ৫.১",
+      "caption": null,
+      "body": "৮. $\\frac{1}{4}(-7 - \\sqrt{57}), \\frac{1}{4}(-7 + \\sqrt{57})$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{4}(-7 - \\sqrt{57}), \\frac{1}{4}(-7 + \\sqrt{57})"
+      ],
+      "pdfPageStart": 323,
+      "pdfPageEnd": 323,
+      "printedPageStart": 318,
+      "printedPageEnd": 318,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p046",
+      "kind": "answer",
+      "section": "অনুশীলনী ৫.১",
+      "caption": null,
+      "body": "৯. $\\frac{1}{3}, 2$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{3}, 2"
+      ],
+      "pdfPageStart": 323,
+      "pdfPageEnd": 323,
+      "printedPageStart": 318,
+      "printedPageEnd": 318,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p047",
+      "kind": "answer",
+      "section": "অনুশীলনী ৫.২",
+      "caption": null,
+      "body": "১. 13\n২. $\\frac{6}{5}$\n৩. 9\n৪. 5\n৫. 5\n৬. $\\frac{9}{2}, -\\frac{9}{2}$\n৭. 1, 5\n৮. 18\n৯. $\\frac{25}{7}, -\\frac{1}{7}$\n১০. $-\\frac{3}{2}, -\\frac{9}{11}$",
+      "image": null,
+      "formulas": [
+        "\\frac{6}{5}",
+        "\\frac{9}{2}, -\\frac{9}{2}",
+        "\\frac{25}{7}, -\\frac{1}{7}",
+        "-\\frac{3}{2}, -\\frac{9}{11}"
+      ],
+      "pdfPageStart": 323,
+      "pdfPageEnd": 323,
+      "printedPageStart": 318,
+      "printedPageEnd": 318,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p048",
+      "kind": "answer",
+      "section": "অনুশীলনী ৫.৩",
+      "caption": null,
+      "body": "১. 2\n২. $\\frac{7}{3}$\n৩. 6\n৪. 5\n৫. $\\frac{3}{2}$\n৬. $\\frac{5}{2}$\n৭. 3\n৮. 0\n৯. 0, 2\n১০. -1, 0\n১১. $-\\frac{1}{2}, \\frac{1}{2}$\n১২. 2, 3",
+      "image": null,
+      "formulas": [
+        "\\frac{7}{3}",
+        "\\frac{3}{2}",
+        "\\frac{5}{2}",
+        "-\\frac{1}{2}, \\frac{1}{2}"
+      ],
+      "pdfPageStart": 323,
+      "pdfPageEnd": 323,
+      "printedPageStart": 318,
+      "printedPageEnd": 318,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p049",
+      "kind": "answer",
+      "section": "অনুশীলনী ৫.৪",
+      "caption": null,
+      "body": "১. $(2, 3) \\left( \\frac{15}{2}, \\frac{16}{9} \\right)$\n২. $(3, 4), \\left( -6, \\frac{5}{8} \\right)$\n৩. $(0, 0), (13, 13), (3, -2), (-2, 3)$\n৪. $(0, 0), (5, 5), (2, -1), (-1, 2)$\n৫. $\\left( \\frac{1}{5}, 5 \\right), \\left( \\frac{4}{5}, 20 \\right)$\n৬. $\\left( 3, -\\frac{5}{3} \\right), \\left( \\frac{16}{9}, -\\frac{3}{4} \\right)$\n৭. $(1, 2), (-1, -2)$\n৮. $(7, 5), (-7, -5), (\\sqrt{2}, -6\\sqrt{2}), (-\\sqrt{2}, 6\\sqrt{2})$\n৯. $(3, 4), (4, 3), (-3, -4), (-4, -3)$\n১০. $(2, 1), (2, -1), (-2, 1), (-2, -1)$\n১১. $(1, -2), (2, -1), (-1, 2), (-2, 1)$\n১২. $(1, 3), (-1, -3), \\left( \\frac{13}{\\sqrt{21}}, \\frac{2}{\\sqrt{21}} \\right), \\left( -\\frac{13}{\\sqrt{21}}, -\\frac{2}{\\sqrt{21}} \\right)$",
+      "image": null,
+      "formulas": [
+        "(2, 3) \\left( \\frac{15}{2}, \\frac{16}{9} \\right)",
+        "(3, 4), \\left( -6, \\frac{5}{8} \\right)",
+        "(0, 0), (13, 13), (3, -2), (-2, 3)",
+        "(0, 0), (5, 5), (2, -1), (-1, 2)",
+        "\\left( \\frac{1}{5}, 5 \\right), \\left( \\frac{4}{5}, 20 \\right)",
+        "\\left( 3, -\\frac{5}{3} \\right), \\left( \\frac{16}{9}, -\\frac{3}{4} \\right)",
+        "(1, 2), (-1, -2)",
+        "(7, 5), (-7, -5), (\\sqrt{2}, -6\\sqrt{2}), (-\\sqrt{2}, 6\\sqrt{2})",
+        "(3, 4), (4, 3), (-3, -4), (-4, -3)",
+        "(2, 1), (2, -1), (-2, 1), (-2, -1)",
+        "(1, -2), (2, -1), (-1, 2), (-2, 1)",
+        "(1, 3), (-1, -3), \\left( \\frac{13}{\\sqrt{21}}, \\frac{2}{\\sqrt{21}} \\right), \\left( -\\frac{13}{\\sqrt{21}}, -\\frac{2}{\\sqrt{21}} \\right)"
+      ],
+      "pdfPageStart": 324,
+      "pdfPageEnd": 324,
+      "printedPageStart": 319,
+      "printedPageEnd": 319,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p050",
+      "kind": "answer",
+      "section": "অনুশীলনী ৫.৫",
+      "caption": null,
+      "body": "১. ১৬ মিটার, ১৫ মিটার\n২. ১৩, ৯\n৩. দৈর্ঘ্য ৪ মিটার, প্রস্থ ৬ মিটার\n৪. ১৯\n৫. (দৈর্ঘ্য, প্রস্থ) = (৬, ৪) মিটার অথবা $(16, 1\\frac{1}{2})$ মিটার\n৬. দৈর্ঘ্য ২৫ মিটার, প্রস্থ ২৪ মিটার\n৭. দৈর্ঘ্য ৪ মিটার, প্রস্থ ৬ মিটার\n৮. ৩৬\n৯. $8\\sqrt{3}$ মিটার\n১০. দৈর্ঘ্য ২০ মিটার, প্রস্থ ১৫ মিটার",
+      "image": null,
+      "formulas": [
+        "(16, 1\\frac{1}{2})",
+        "8\\sqrt{3}"
+      ],
+      "pdfPageStart": 324,
+      "pdfPageEnd": 324,
+      "printedPageStart": 319,
+      "printedPageEnd": 319,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p051",
+      "kind": "answer",
+      "section": "অনুশীলনী ৫.৬",
+      "caption": null,
+      "body": "$(x, y)$ যথাক্রমে:",
+      "image": null,
+      "formulas": [
+        "(x, y)"
+      ],
+      "pdfPageStart": 324,
+      "pdfPageEnd": 324,
+      "printedPageStart": 319,
+      "printedPageEnd": 319,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p052",
+      "kind": "answer",
+      "section": "অনুশীলনী ৫.৬",
+      "caption": null,
+      "body": "১. $(2, 3)$\n২. $(2, 1), \\left( -\\frac{1}{2}, -\\frac{1}{4} \\right)$\n৩. $(4, 0)$\n৪. $(1, 2)$\n৫. $(3, 3)$\n৬. $(2, \\pm 2), \\left( -2, \\pm \\frac{1}{2} \\right)$\n৭. $(2, \\pm 2), \\left( -2, \\pm \\frac{1}{2} \\right)$\n৮. $(1, 2), \\left( -\\frac{1}{3}, -\\frac{2}{3} \\right)$\n৯. $(2, \\pm 2), \\left( -2, \\pm \\frac{1}{2} \\right)$",
+      "image": null,
+      "formulas": [
+        "(2, 3)",
+        "(2, 1), \\left( -\\frac{1}{2}, -\\frac{1}{4} \\right)",
+        "(4, 0)",
+        "(1, 2)",
+        "(3, 3)",
+        "(2, \\pm 2), \\left( -2, \\pm \\frac{1}{2} \\right)",
+        "(2, \\pm 2), \\left( -2, \\pm \\frac{1}{2} \\right)",
+        "(1, 2), \\left( -\\frac{1}{3}, -\\frac{2}{3} \\right)",
+        "(2, \\pm 2), \\left( -2, \\pm \\frac{1}{2} \\right)"
+      ],
+      "pdfPageStart": 324,
+      "pdfPageEnd": 324,
+      "printedPageStart": 319,
+      "printedPageEnd": 319,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p053",
+      "kind": "answer",
+      "section": "অনুশীলনী ৫.৭",
+      "caption": null,
+      "body": "৯. অসম্ভব কারণ উভয় সংখ্যা ৫ এর গুণিতক হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 324,
+      "pdfPageEnd": 324,
+      "printedPageStart": 319,
+      "printedPageEnd": 319,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p054",
+      "kind": "answer",
+      "section": "অনুশীলনী ৫.৭",
+      "caption": null,
+      "body": "১০. $x(x + 1) = 10n + 6$ যেখানে $n, x$ পূর্ণসংখ্যা $x$ এর শেষ অঙ্ক তাহলে সংখ্যাদ্বয়ের শেষ অঙ্ক হয় 2, 3 অথবা 7, 8 হবে। কিন্তু এরকম সংখ্যা কখনো পূর্ণবর্গ হয় না।",
+      "image": null,
+      "formulas": [
+        "x(x + 1) = 10n + 6",
+        "n, x",
+        "x"
+      ],
+      "pdfPageStart": 325,
+      "pdfPageEnd": 325,
+      "printedPageStart": 320,
+      "printedPageEnd": 320,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p055",
+      "kind": "answer",
+      "section": "অনুশীলনী ৫.৭",
+      "caption": null,
+      "body": "১১. 11 বার ১২. 22 বার",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 325,
+      "pdfPageEnd": 325,
+      "printedPageStart": 320,
+      "printedPageEnd": 320,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p056",
+      "kind": "answer",
+      "section": "অনুশীলনী ৬.১",
+      "caption": null,
+      "body": "drawing: number line diagram 1",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 325,
+      "pdfPageEnd": 325,
+      "printedPageStart": 320,
+      "printedPageEnd": 320,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p057",
+      "kind": "answer",
+      "section": "অনুশীলনী ৬.১",
+      "caption": null,
+      "body": "drawing: number line diagram 2",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 325,
+      "pdfPageEnd": 325,
+      "printedPageStart": 320,
+      "printedPageEnd": 320,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p058",
+      "kind": "answer",
+      "section": "অনুশীলনী ৬.১",
+      "caption": null,
+      "body": "drawing: number line diagram 3",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 325,
+      "pdfPageEnd": 325,
+      "printedPageStart": 320,
+      "printedPageEnd": 320,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p059",
+      "kind": "answer",
+      "section": "অনুশীলনী ৬.১",
+      "caption": null,
+      "body": "drawing: number line diagram 4",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 325,
+      "pdfPageEnd": 325,
+      "printedPageStart": 320,
+      "printedPageEnd": 320,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p060",
+      "kind": "answer",
+      "section": "অনুশীলনী ৬.১",
+      "caption": null,
+      "body": "drawing: number line diagram 5",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 325,
+      "pdfPageEnd": 325,
+      "printedPageStart": 320,
+      "printedPageEnd": 320,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p061",
+      "kind": "answer",
+      "section": "অনুশীলনী ৬.১",
+      "caption": null,
+      "body": "drawing: number line diagram 6",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 325,
+      "pdfPageEnd": 325,
+      "printedPageStart": 320,
+      "printedPageEnd": 320,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p062",
+      "kind": "answer",
+      "section": "অনুশীলনী ৬.১",
+      "caption": null,
+      "body": "drawing: number line diagram 7",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 325,
+      "pdfPageEnd": 325,
+      "printedPageStart": 320,
+      "printedPageEnd": 320,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p063",
+      "kind": "answer",
+      "section": "অনুশীলনী ৬.১",
+      "caption": null,
+      "body": "drawing: number line diagram 8",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 325,
+      "pdfPageEnd": 325,
+      "printedPageStart": 320,
+      "printedPageEnd": 320,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p064",
+      "kind": "answer",
+      "section": "অনুশীলনী ৬.২",
+      "caption": null,
+      "body": "১. $3x + \\frac{x + 2}{2} < 29, 0 < x < 8$",
+      "image": null,
+      "formulas": [
+        "3x + \\frac{x + 2}{2} < 29, 0 < x < 8"
+      ],
+      "pdfPageStart": 325,
+      "pdfPageEnd": 325,
+      "printedPageStart": 320,
+      "printedPageEnd": 320,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p065",
+      "kind": "answer",
+      "section": "অনুশীলনী ৬.২",
+      "caption": null,
+      "body": "২. $4x + (x - 3) \\le 40, 0 < x \\le \\frac{43}{5}$",
+      "image": null,
+      "formulas": [
+        "4x + (x - 3) \\le 40, 0 < x \\le \\frac{43}{5}"
+      ],
+      "pdfPageStart": 325,
+      "pdfPageEnd": 325,
+      "printedPageStart": 320,
+      "printedPageEnd": 320,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p066",
+      "kind": "answer",
+      "section": "অনুশীলনী ৬.২",
+      "caption": null,
+      "body": "৩. $70x + 20x < 500, 0 < x \\le 5$",
+      "image": null,
+      "formulas": [
+        "70x + 20x < 500, 0 < x \\le 5"
+      ],
+      "pdfPageStart": 326,
+      "pdfPageEnd": 326,
+      "printedPageStart": 321,
+      "printedPageEnd": 321,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p067",
+      "kind": "answer",
+      "section": "অনুশীলনী ৬.২",
+      "caption": null,
+      "body": "৪. $\\frac{x + x + 120}{9} \\le 100, 0 < x \\le 390$",
+      "image": null,
+      "formulas": [
+        "\\frac{x + x + 120}{9} \\le 100, 0 < x \\le 390"
+      ],
+      "pdfPageStart": 326,
+      "pdfPageEnd": 326,
+      "printedPageStart": 321,
+      "printedPageEnd": 321,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p068",
+      "kind": "answer",
+      "section": "অনুশীলনী ৬.২",
+      "caption": null,
+      "body": "৫. $5x < 40, 5 < x < 8$",
+      "image": null,
+      "formulas": [
+        "5x < 40, 5 < x < 8"
+      ],
+      "pdfPageStart": 326,
+      "pdfPageEnd": 326,
+      "printedPageStart": 321,
+      "printedPageEnd": 321,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p069",
+      "kind": "answer",
+      "section": "অনুশীলনী ৬.২",
+      "caption": null,
+      "body": "৬. পিতার বয়স $\\le 42$ বছর",
+      "image": null,
+      "formulas": [
+        "\\le 42"
+      ],
+      "pdfPageStart": 326,
+      "pdfPageEnd": 326,
+      "printedPageStart": 321,
+      "printedPageEnd": 321,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p070",
+      "kind": "answer",
+      "section": "অনুশীলনী ৬.২",
+      "caption": null,
+      "body": "৭. জেনির বর্তমান বয়স $x, 14 < x < 17$",
+      "image": null,
+      "formulas": [
+        "x, 14 < x < 17"
+      ],
+      "pdfPageStart": 326,
+      "pdfPageEnd": 326,
+      "printedPageStart": 321,
+      "printedPageEnd": 321,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p071",
+      "kind": "answer",
+      "section": "অনুশীলনী ৬.২",
+      "caption": null,
+      "body": "৮. সময় $t$ সেকেন্ড হলে $t \\ge 50$",
+      "image": null,
+      "formulas": [
+        "t",
+        "t \\ge 50"
+      ],
+      "pdfPageStart": 326,
+      "pdfPageEnd": 326,
+      "printedPageStart": 321,
+      "printedPageEnd": 321,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p072",
+      "kind": "answer",
+      "section": "অনুশীলনী ৬.২",
+      "caption": null,
+      "body": "৯. উদ্ভয়নের সময় $t$ ঘণ্টা হলে $t \\ge 3\\frac{5}{8}$",
+      "image": null,
+      "formulas": [
+        "t",
+        "t \\ge 3\\frac{5}{8}"
+      ],
+      "pdfPageStart": 326,
+      "pdfPageEnd": 326,
+      "printedPageStart": 321,
+      "printedPageEnd": 321,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p073",
+      "kind": "answer",
+      "section": "অনুশীলনী ৬.২",
+      "caption": null,
+      "body": "১০. উদ্ভয়নের সময় $t$ ঘণ্টা হলে $t \\ge 2\\frac{9}{10}$",
+      "image": null,
+      "formulas": [
+        "t",
+        "t \\ge 2\\frac{9}{10}"
+      ],
+      "pdfPageStart": 326,
+      "pdfPageEnd": 326,
+      "printedPageStart": 321,
+      "printedPageEnd": 321,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p074",
+      "kind": "answer",
+      "section": "অনুশীলনী ৬.২",
+      "caption": null,
+      "body": "১১. সংখ্যাটি $x$ হলে $0 < x < 5$",
+      "image": null,
+      "formulas": [
+        "x",
+        "0 < x < 5"
+      ],
+      "pdfPageStart": 326,
+      "pdfPageEnd": 326,
+      "printedPageStart": 321,
+      "printedPageEnd": 321,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p075",
+      "kind": "answer",
+      "section": "অনুশীলনী ৬.৩",
+      "caption": null,
+      "body": "৫. রাবার, কলম ও খাতার মূল্য যথাক্রমে 19, 26 ও 55 টাকা",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 326,
+      "pdfPageEnd": 326,
+      "printedPageStart": 321,
+      "printedPageEnd": 321,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p076",
+      "kind": "answer",
+      "section": "অনুশীলনী ৬.৩",
+      "caption": null,
+      "body": "৬. 8",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 326,
+      "pdfPageEnd": 326,
+      "printedPageStart": 321,
+      "printedPageEnd": 321,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p077",
+      "kind": "answer",
+      "section": "অনুশীলনী ৬.৩",
+      "caption": null,
+      "body": "৭. $72^\\circ, 36^\\circ$",
+      "image": null,
+      "formulas": [
+        "72^\\circ, 36^\\circ"
+      ],
+      "pdfPageStart": 326,
+      "pdfPageEnd": 326,
+      "printedPageStart": 321,
+      "printedPageEnd": 321,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p078",
+      "kind": "answer",
+      "section": "অনুশীলনী ৬.৩",
+      "caption": null,
+      "body": "৮. দৈর্ঘ্য ও প্রস্থের একটি $x = 1$ থেকে 7 মিটার, অপরটি $8 - x$ মিটার",
+      "image": null,
+      "formulas": [
+        "x = 1",
+        "8 - x"
+      ],
+      "pdfPageStart": 326,
+      "pdfPageEnd": 326,
+      "printedPageStart": 321,
+      "printedPageEnd": 321,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p079",
+      "kind": "answer",
+      "section": "অনুশীলনী ৬.৩",
+      "caption": null,
+      "body": "৯. সংকেত: এরকম ত্রিভুজ আঁকা যেতে পারে যার জন্য $a < c, b < c, a + b < c + 1$ এবং $a$ ও $b$ এর মান যত খুশি বড়ো করা যেতে পারে",
+      "image": null,
+      "formulas": [
+        "a < c, b < c, a + b < c + 1",
+        "a",
+        "b"
+      ],
+      "pdfPageStart": 326,
+      "pdfPageEnd": 326,
+      "printedPageStart": 321,
+      "printedPageEnd": 321,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p080",
+      "kind": "answer",
+      "section": "অনুশীলনী ৬.৩",
+      "caption": null,
+      "body": "১০. সজীব আগে পৌঁছবে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 326,
+      "pdfPageEnd": 326,
+      "printedPageStart": 321,
+      "printedPageEnd": 321,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p081",
+      "kind": "answer",
+      "section": "অনুশীলনী ৭",
+      "caption": null,
+      "body": "৪. ক) 20, 30, $2r$ খ) $\\frac{1}{110}, \\frac{1}{240}, \\frac{1}{r(r + 1)}$ গ) 1, 0, 1 ($r$ জোড় হলে) এবং 0 ($r$ বিজোড় হলে)\nঘ) $\\frac{5}{3^9}, \\frac{5}{3^{14}}, \\frac{5}{3^{r-1}}$ ঙ) 0, 1, $\\frac{1 - (-1)^{3r}}{2}$",
+      "image": null,
+      "formulas": [
+        "2r",
+        "\\frac{1}{110}, \\frac{1}{240}, \\frac{1}{r(r + 1)}",
+        "r",
+        "r",
+        "\\frac{5}{3^9}, \\frac{5}{3^{14}}, \\frac{5}{3^{r-1}}",
+        "\\frac{1 - (-1)^{3r}}{2}"
+      ],
+      "pdfPageStart": 326,
+      "pdfPageEnd": 326,
+      "printedPageStart": 321,
+      "printedPageEnd": 321,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p082",
+      "kind": "answer",
+      "section": "অনুশীলনী ৭",
+      "caption": null,
+      "body": "৫. ক) $n > 10^5$ খ) $n < 10^5$ গ) 0",
+      "image": null,
+      "formulas": [
+        "n > 10^5",
+        "n < 10^5"
+      ],
+      "pdfPageStart": 326,
+      "pdfPageEnd": 326,
+      "printedPageStart": 321,
+      "printedPageEnd": 321,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p083",
+      "kind": "answer",
+      "section": "অনুশীলনী ৭",
+      "caption": null,
+      "body": "৬. ক) 2 খ) $\\frac{32}{3}$ গ) সমষ্টি নেই ঘ) $\\frac{1}{3}$",
+      "image": null,
+      "formulas": [
+        "\\frac{32}{3}",
+        "\\frac{1}{3}"
+      ],
+      "pdfPageStart": 326,
+      "pdfPageEnd": 326,
+      "printedPageStart": 321,
+      "printedPageEnd": 321,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p084",
+      "kind": "answer",
+      "section": "অনুশীলনী ৭",
+      "caption": null,
+      "body": "৭. ক) $\\frac{70}{81}(10^n - 1) - \\frac{7n}{9}$ খ) $\\frac{50}{81}(10^n - 1) - \\frac{5n}{9}$",
+      "image": null,
+      "formulas": [
+        "\\frac{70}{81}(10^n - 1) - \\frac{7n}{9}",
+        "\\frac{50}{81}(10^n - 1) - \\frac{5n}{9}"
+      ],
+      "pdfPageStart": 326,
+      "pdfPageEnd": 326,
+      "printedPageStart": 321,
+      "printedPageEnd": 321,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p085",
+      "kind": "answer",
+      "section": "অনুশীলনী ৭",
+      "caption": null,
+      "body": "৮. শর্ত $x < -2$ অথবা $x > 0$; সমষ্টি $= \\frac{1}{x}$",
+      "image": null,
+      "formulas": [
+        "x < -2",
+        "x > 0",
+        "= \\frac{1}{x}"
+      ],
+      "pdfPageStart": 327,
+      "pdfPageEnd": 327,
+      "printedPageStart": 322,
+      "printedPageEnd": 322,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p086",
+      "kind": "answer",
+      "section": "অনুশীলনী ৭",
+      "caption": null,
+      "body": "৯. ক) $\\frac{3}{11}$ খ) $\\frac{41}{3330}$ গ) $3\\frac{403}{9990}$",
+      "image": null,
+      "formulas": [
+        "\\frac{3}{11}",
+        "\\frac{41}{3330}",
+        "3\\frac{403}{9990}"
+      ],
+      "pdfPageStart": 327,
+      "pdfPageEnd": 327,
+      "printedPageStart": 322,
+      "printedPageEnd": 322,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p087",
+      "kind": "answer",
+      "section": "অনুশীলনী ৮.১",
+      "caption": null,
+      "body": "১. ক) (i) 1.3177 রেডিয়ান (প্রায়) (ii) 0.9759 রেডিয়ান (প্রায়) (iii) 0.5824 রেডিয়ান (প্রায়)\nখ) (i) $110^\\circ 46' 9.23''$ (ii) $75^\\circ 29' 54.5''$ (iii) $55^\\circ 54' 53.35''$",
+      "image": null,
+      "formulas": [
+        "110^\\circ 46' 9.23''",
+        "75^\\circ 29' 54.5''",
+        "55^\\circ 54' 53.35''"
+      ],
+      "pdfPageStart": 327,
+      "pdfPageEnd": 327,
+      "printedPageStart": 322,
+      "printedPageEnd": 322,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p088",
+      "kind": "answer",
+      "section": "অনুশীলনী ৮.১",
+      "caption": null,
+      "body": "৩. 12.7549 মি. (প্রায়) ৪. 57 কিমি/ঘণ্টা (প্রায়) ৫. $\\frac{\\pi}{5}$ রেডিয়ান, $\\frac{\\pi}{2}$ রেডিয়ান",
+      "image": null,
+      "formulas": [
+        "\\frac{\\pi}{5}",
+        "\\frac{\\pi}{2}"
+      ],
+      "pdfPageStart": 327,
+      "pdfPageEnd": 327,
+      "printedPageStart": 322,
+      "printedPageEnd": 322,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p089",
+      "kind": "answer",
+      "section": "অনুশীলনী ৮.১",
+      "caption": null,
+      "body": "৬. $\\frac{2\\pi}{9}, \\frac{\\pi}{3}, \\frac{4\\pi}{9}$ ৭. 562 কিমি (প্রায়) ৮. 1,135.3 কিমি (প্রায়)",
+      "image": null,
+      "formulas": [
+        "\\frac{2\\pi}{9}, \\frac{\\pi}{3}, \\frac{4\\pi}{9}"
+      ],
+      "pdfPageStart": 327,
+      "pdfPageEnd": 327,
+      "printedPageStart": 322,
+      "printedPageEnd": 322,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p090",
+      "kind": "answer",
+      "section": "অনুশীলনী ৮.১",
+      "caption": null,
+      "body": "৯. 4.78 মি./সে. (প্রায়) ১০. 1 কিমি (প্রায়) ১১. 1.833 রেডিয়ান (প্রায়)",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 327,
+      "pdfPageEnd": 327,
+      "printedPageStart": 322,
+      "printedPageEnd": 322,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p091",
+      "kind": "answer",
+      "section": "অনুশীলনী ৮.১",
+      "caption": null,
+      "body": "১২. 114.59 মিটার (প্রায়) ১৩. 1745 মি.(প্রায়) বা 1.75 কিমি (প্রায়)",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 327,
+      "pdfPageEnd": 327,
+      "printedPageStart": 322,
+      "printedPageEnd": 322,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p092",
+      "kind": "answer",
+      "section": "অনুশীলনী ৮.২",
+      "caption": null,
+      "body": "১. ক) $\\frac{1}{\\sqrt{6}}$ খ) 2",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{\\sqrt{6}}"
+      ],
+      "pdfPageStart": 327,
+      "pdfPageEnd": 327,
+      "printedPageStart": 322,
+      "printedPageEnd": 322,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p093",
+      "kind": "answer",
+      "section": "অনুশীলনী ৮.২",
+      "caption": null,
+      "body": "২. $\\tan \\theta = \\frac{3}{4}, \\sin \\theta = -\\frac{3}{5}$ ৩. $\\cos A = -\\frac{1}{\\sqrt{5}}, \\tan A = -2$",
+      "image": null,
+      "formulas": [
+        "\\tan \\theta = \\frac{3}{4}, \\sin \\theta = -\\frac{3}{5}",
+        "\\cos A = -\\frac{1}{\\sqrt{5}}, \\tan A = -2"
+      ],
+      "pdfPageStart": 327,
+      "pdfPageEnd": 327,
+      "printedPageStart": 322,
+      "printedPageEnd": 322,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p094",
+      "kind": "answer",
+      "section": "অনুশীলনী ৮.২",
+      "caption": null,
+      "body": "৪. $\\sin A = \\frac{\\sqrt{3}}{2}, \\tan A = \\sqrt{3}$ ৫. $\\sin A = -\\frac{5}{13}, \\cos A = \\frac{12}{13}$",
+      "image": null,
+      "formulas": [
+        "\\sin A = \\frac{\\sqrt{3}}{2}, \\tan A = \\sqrt{3}",
+        "\\sin A = -\\frac{5}{13}, \\cos A = \\frac{12}{13}"
+      ],
+      "pdfPageStart": 327,
+      "pdfPageEnd": 327,
+      "printedPageStart": 322,
+      "printedPageEnd": 322,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p095",
+      "kind": "answer",
+      "section": "অনুশীলনী ৮.২",
+      "caption": null,
+      "body": "৯. $\\frac{x^2 + y^2}{x^2 - y^2}$",
+      "image": null,
+      "formulas": [
+        "\\frac{x^2 + y^2}{x^2 - y^2}"
+      ],
+      "pdfPageStart": 327,
+      "pdfPageEnd": 327,
+      "printedPageStart": 322,
+      "printedPageEnd": 322,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p096",
+      "kind": "answer",
+      "section": "অনুশীলনী ৮.২",
+      "caption": null,
+      "body": "১১. ক) $\\frac{27}{4}$ খ) $\\frac{17}{12}$ গ) $\\frac{5}{8}$ ঘ) $\\frac{5\\sqrt{3}}{6}$",
+      "image": null,
+      "formulas": [
+        "\\frac{27}{4}",
+        "\\frac{17}{12}",
+        "\\frac{5}{8}",
+        "\\frac{5\\sqrt{3}}{6}"
+      ],
+      "pdfPageStart": 327,
+      "pdfPageEnd": 327,
+      "printedPageStart": 322,
+      "printedPageEnd": 322,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p097",
+      "kind": "answer",
+      "section": "অনুশীলনী ৮.২",
+      "caption": null,
+      "body": "১২. 2",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 327,
+      "pdfPageEnd": 327,
+      "printedPageStart": 322,
+      "printedPageEnd": 322,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p098",
+      "kind": "answer",
+      "section": "অনুশীলনী ৮.৩",
+      "caption": null,
+      "body": "৩. ক) 0 খ) 0 গ) অসংজ্ঞায়িত ঘ) $\\frac{1}{\\sqrt{3}}$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{\\sqrt{3}}"
+      ],
+      "pdfPageStart": 327,
+      "pdfPageEnd": 327,
+      "printedPageStart": 322,
+      "printedPageEnd": 322,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p099",
+      "kind": "answer",
+      "section": "অনুশীলনী ৮.৩",
+      "caption": null,
+      "body": "ঙ) $\\frac{2}{\\sqrt{3}}$ চ) অসংজ্ঞায়িত ছ) $-\\frac{1}{2}$ জ) $\\frac{\\sqrt{3}}{2}$",
+      "image": null,
+      "formulas": [
+        "\\frac{2}{\\sqrt{3}}",
+        "-\\frac{1}{2}",
+        "\\frac{\\sqrt{3}}{2}"
+      ],
+      "pdfPageStart": 327,
+      "pdfPageEnd": 327,
+      "printedPageStart": 322,
+      "printedPageEnd": 322,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p100",
+      "kind": "answer",
+      "section": "অনুশীলনী ৮.৩",
+      "caption": null,
+      "body": "৫. ক) 0 খ) 1 গ) 2 ঘ) 2 ঙ) 2",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 327,
+      "pdfPageEnd": 327,
+      "printedPageStart": 322,
+      "printedPageEnd": 322,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p101",
+      "kind": "answer",
+      "section": "অনুশীলনী ৮.৩",
+      "caption": null,
+      "body": "৭. ক) $\\frac{11\\pi}{6}$ খ) $\\frac{2\\pi}{3}, \\frac{4\\pi}{3}$ গ) $\\frac{4\\pi}{3}$ ঘ) $\\frac{7\\pi}{4}$",
+      "image": null,
+      "formulas": [
+        "\\frac{11\\pi}{6}",
+        "\\frac{2\\pi}{3}, \\frac{4\\pi}{3}",
+        "\\frac{4\\pi}{3}",
+        "\\frac{7\\pi}{4}"
+      ],
+      "pdfPageStart": 328,
+      "pdfPageEnd": 328,
+      "printedPageStart": 323,
+      "printedPageEnd": 323,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p102",
+      "kind": "answer",
+      "section": "অনুশীলনী ৮.৩",
+      "caption": null,
+      "body": "৮. ক) $\\frac{\\pi}{6}$ খ) $\\frac{\\pi}{3}$ গ) $\\frac{\\pi}{6}$ ঘ) $\\frac{\\pi}{6}$ বা $\\frac{\\pi}{3}$ ঙ) $\\frac{\\pi}{3}$",
+      "image": null,
+      "formulas": [
+        "\\frac{\\pi}{6}",
+        "\\frac{\\pi}{3}",
+        "\\frac{\\pi}{6}",
+        "\\frac{\\pi}{6}",
+        "\\frac{\\pi}{3}",
+        "\\frac{\\pi}{3}"
+      ],
+      "pdfPageStart": 328,
+      "pdfPageEnd": 328,
+      "printedPageStart": 323,
+      "printedPageEnd": 323,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p103",
+      "kind": "answer",
+      "section": "অনুশীলনী ৮.৩",
+      "caption": null,
+      "body": "৯. ক) $\\frac{2\\pi}{3}, \\frac{4\\pi}{3}$ খ) $\\frac{\\pi}{6}, \\frac{5\\pi}{6}$ গ) $\\frac{\\pi}{4}, \\frac{3\\pi}{4}, \\frac{5\\pi}{4}, \\frac{7\\pi}{4}$\nঘ) $\\frac{\\pi}{4}, \\frac{3\\pi}{4}, \\frac{5\\pi}{4}, \\frac{7\\pi}{4}$ ঙ) $\\frac{\\pi}{6}, \\frac{5\\pi}{6}, \\frac{7\\pi}{6}, \\frac{11\\pi}{6}$ চ) $\\frac{\\pi}{3}, \\frac{5\\pi}{3}$\nছ) $0, \\frac{\\pi}{3}, \\pi, \\frac{5\\pi}{3}, 2\\pi$",
+      "image": null,
+      "formulas": [
+        "\\frac{2\\pi}{3}, \\frac{4\\pi}{3}",
+        "\\frac{\\pi}{6}, \\frac{5\\pi}{6}",
+        "\\frac{\\pi}{4}, \\frac{3\\pi}{4}, \\frac{5\\pi}{4}, \\frac{7\\pi}{4}",
+        "\\frac{\\pi}{4}, \\frac{3\\pi}{4}, \\frac{5\\pi}{4}, \\frac{7\\pi}{4}",
+        "\\frac{\\pi}{6}, \\frac{5\\pi}{6}, \\frac{7\\pi}{6}, \\frac{11\\pi}{6}",
+        "\\frac{\\pi}{3}, \\frac{5\\pi}{3}",
+        "0, \\frac{\\pi}{3}, \\pi, \\frac{5\\pi}{3}, 2\\pi"
+      ],
+      "pdfPageStart": 328,
+      "pdfPageEnd": 328,
+      "printedPageStart": 323,
+      "printedPageEnd": 323,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p104",
+      "kind": "answer",
+      "section": "অনুশীলনী ৮.৩",
+      "caption": null,
+      "body": "১১. $\\frac{14\\sqrt{2}}{\\sqrt{3} - 1}$",
+      "image": null,
+      "formulas": [
+        "\\frac{14\\sqrt{2}}{\\sqrt{3} - 1}"
+      ],
+      "pdfPageStart": 328,
+      "pdfPageEnd": 328,
+      "printedPageStart": 323,
+      "printedPageEnd": 323,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p105",
+      "kind": "answer",
+      "section": "অনুশীলনী ৯.১",
+      "caption": null,
+      "body": "৫. ক) $\\frac{a^2 - b^2}{ab}$ খ) $\\frac{\\sqrt{a}}{b}$ গ) $1$\nঘ) $1$ ঙ) $(\\frac{a}{b})^{a+b}$",
+      "image": null,
+      "formulas": [
+        "\\frac{a^2 - b^2}{ab}",
+        "\\frac{\\sqrt{a}}{b}",
+        "1",
+        "1",
+        "(\\frac{a}{b})^{a+b}"
+      ],
+      "pdfPageStart": 328,
+      "pdfPageEnd": 328,
+      "printedPageStart": 323,
+      "printedPageEnd": 323,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p106",
+      "kind": "answer",
+      "section": "অনুশীলনী ৯.১",
+      "caption": null,
+      "body": "৮. ক) $0$ খ) $0$ গ) $\\frac{3}{2}$",
+      "image": null,
+      "formulas": [
+        "0",
+        "0",
+        "\\frac{3}{2}"
+      ],
+      "pdfPageStart": 328,
+      "pdfPageEnd": 328,
+      "printedPageStart": 323,
+      "printedPageEnd": 323,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p107",
+      "kind": "answer",
+      "section": "অনুশীলনী ৯.১",
+      "caption": null,
+      "body": "৯. ক) $x = 0$ খ) $x = 1, y = 1$ গ) $x = -2, y = -2$\nঘ) $x = -1, y = 1$",
+      "image": null,
+      "formulas": [
+        "x = 0",
+        "x = 1, y = 1",
+        "x = -2, y = -2",
+        "x = -1, y = 1"
+      ],
+      "pdfPageStart": 328,
+      "pdfPageEnd": 328,
+      "printedPageStart": 323,
+      "printedPageEnd": 323,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p108",
+      "kind": "answer",
+      "section": "অনুশীলনী ৯.২",
+      "caption": null,
+      "body": "৪. ক) $x = \\ln(1 - y)$ খ) $x = 10^y$\nগ) $x = \\pm\\sqrt{y}$",
+      "image": null,
+      "formulas": [
+        "x = \\ln(1 - y)",
+        "x = 10^y",
+        "x = \\pm\\sqrt{y}"
+      ],
+      "pdfPageStart": 328,
+      "pdfPageEnd": 328,
+      "printedPageStart": 323,
+      "printedPageEnd": 323,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p109",
+      "kind": "answer",
+      "section": "অনুশীলনী ৯.২",
+      "caption": null,
+      "body": "৫. $D_f = (-1, 1), R_f = R$",
+      "image": null,
+      "formulas": [
+        "D_f = (-1, 1), R_f = R"
+      ],
+      "pdfPageStart": 328,
+      "pdfPageEnd": 328,
+      "printedPageStart": 323,
+      "printedPageEnd": 323,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p110",
+      "kind": "answer",
+      "section": "অনুশীলনী ৯.২",
+      "caption": null,
+      "body": "৬. ক) $D_f = [-5, 5], R_f = [0, 5]$ খ) $D_f = [-2, 2], R_f = [0, 4]$\nগ) $D_f = R, R_f = \\{-1, 0, 1\\}$",
+      "image": null,
+      "formulas": [
+        "D_f = [-5, 5], R_f = [0, 5]",
+        "D_f = [-2, 2], R_f = [0, 4]",
+        "D_f = R, R_f = \\{-1, 0, 1\\}"
+      ],
+      "pdfPageStart": 328,
+      "pdfPageEnd": 328,
+      "printedPageStart": 323,
+      "printedPageEnd": 323,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p111",
+      "kind": "answer",
+      "section": "অনুশীলনী ১০.১",
+      "caption": null,
+      "body": "১. $1 + 5y + 10y^2 + 10y^3 + 5y^4 + y^5$",
+      "image": null,
+      "formulas": [
+        "1 + 5y + 10y^2 + 10y^3 + 5y^4 + y^5"
+      ],
+      "pdfPageStart": 328,
+      "pdfPageEnd": 328,
+      "printedPageStart": 323,
+      "printedPageEnd": 323,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p112",
+      "kind": "answer",
+      "section": "অনুশীলনী ১০.১",
+      "caption": null,
+      "body": "ক) $1 - 5y + 10y^2 - 10y^3 + 5y^4 - y^5$",
+      "image": null,
+      "formulas": [
+        "1 - 5y + 10y^2 - 10y^3 + 5y^4 - y^5"
+      ],
+      "pdfPageStart": 329,
+      "pdfPageEnd": 329,
+      "printedPageStart": 324,
+      "printedPageEnd": 324,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p113",
+      "kind": "answer",
+      "section": "অনুশীলনী ১০.১",
+      "caption": null,
+      "body": "খ) $1 + 10x + 40x^2 + 80x^3 + 80x^4 + 32x^5$",
+      "image": null,
+      "formulas": [
+        "1 + 10x + 40x^2 + 80x^3 + 80x^4 + 32x^5"
+      ],
+      "pdfPageStart": 329,
+      "pdfPageEnd": 329,
+      "printedPageStart": 324,
+      "printedPageEnd": 324,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p114",
+      "kind": "answer",
+      "section": "অনুশীলনী ১০.১",
+      "caption": null,
+      "body": "২. ক) $1 + 24x + 240x^2 + 1280x^3 + \\dots$",
+      "image": null,
+      "formulas": [
+        "1 + 24x + 240x^2 + 1280x^3 + \\dots"
+      ],
+      "pdfPageStart": 329,
+      "pdfPageEnd": 329,
+      "printedPageStart": 324,
+      "printedPageEnd": 324,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p115",
+      "kind": "answer",
+      "section": "অনুশীলনী ১০.১",
+      "caption": null,
+      "body": "খ) $1 - 21x + 189x^2 - 945x^3 + \\dots$",
+      "image": null,
+      "formulas": [
+        "1 - 21x + 189x^2 - 945x^3 + \\dots"
+      ],
+      "pdfPageStart": 329,
+      "pdfPageEnd": 329,
+      "printedPageStart": 324,
+      "printedPageEnd": 324,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p116",
+      "kind": "answer",
+      "section": "অনুশীলনী ১০.১",
+      "caption": null,
+      "body": "৩. $1 + 8x^2 + 28x^4 + 56x^6 + \\dots$ এবং $1.082856$",
+      "image": null,
+      "formulas": [
+        "1 + 8x^2 + 28x^4 + 56x^6 + \\dots",
+        "1.082856"
+      ],
+      "pdfPageStart": 329,
+      "pdfPageEnd": 329,
+      "printedPageStart": 324,
+      "printedPageEnd": 324,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p117",
+      "kind": "answer",
+      "section": "অনুশীলনী ১০.১",
+      "caption": null,
+      "body": "৪. ক) $1 - 10x + 40x^2 - \\dots$",
+      "image": null,
+      "formulas": [
+        "1 - 10x + 40x^2 - \\dots"
+      ],
+      "pdfPageStart": 329,
+      "pdfPageEnd": 329,
+      "printedPageStart": 324,
+      "printedPageEnd": 324,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p118",
+      "kind": "answer",
+      "section": "অনুশীলনী ১০.১",
+      "caption": null,
+      "body": "খ) $1 + 27x + 324x^2 + \\dots$",
+      "image": null,
+      "formulas": [
+        "1 + 27x + 324x^2 + \\dots"
+      ],
+      "pdfPageStart": 329,
+      "pdfPageEnd": 329,
+      "printedPageStart": 324,
+      "printedPageEnd": 324,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p119",
+      "kind": "answer",
+      "section": "অনুশীলনী ১০.১",
+      "caption": null,
+      "body": "৫. ক) $1 - 14x^2 + 84x^4 - 280x^6 + \\dots$",
+      "image": null,
+      "formulas": [
+        "1 - 14x^2 + 84x^4 - 280x^6 + \\dots"
+      ],
+      "pdfPageStart": 329,
+      "pdfPageEnd": 329,
+      "printedPageStart": 324,
+      "printedPageEnd": 324,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p120",
+      "kind": "answer",
+      "section": "অনুশীলনী ১০.১",
+      "caption": null,
+      "body": "খ) $1 + \\frac{8}{x} + \\frac{24}{x^2} + \\frac{32}{x^3} + \\dots$",
+      "image": null,
+      "formulas": [
+        "1 + \\frac{8}{x} + \\frac{24}{x^2} + \\frac{32}{x^3} + \\dots"
+      ],
+      "pdfPageStart": 329,
+      "pdfPageEnd": 329,
+      "printedPageStart": 324,
+      "printedPageEnd": 324,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p121",
+      "kind": "answer",
+      "section": "অনুশীলনী ১০.১",
+      "caption": null,
+      "body": "গ) $1 - \\frac{7}{2} \\cdot \\frac{1}{x} + \\frac{21}{4} \\cdot \\frac{1}{x^2} - \\frac{35}{8} \\cdot \\frac{1}{x^3} + \\dots$",
+      "image": null,
+      "formulas": [
+        "1 - \\frac{7}{2} \\cdot \\frac{1}{x} + \\frac{21}{4} \\cdot \\frac{1}{x^2} - \\frac{35}{8} \\cdot \\frac{1}{x^3} + \\dots"
+      ],
+      "pdfPageStart": 329,
+      "pdfPageEnd": 329,
+      "printedPageStart": 324,
+      "printedPageEnd": 324,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p122",
+      "kind": "answer",
+      "section": "অনুশীলনী ১০.১",
+      "caption": null,
+      "body": "৬. ক) $1 - 6x + 15x^2 - 20x^3 + \\dots$",
+      "image": null,
+      "formulas": [
+        "1 - 6x + 15x^2 - 20x^3 + \\dots"
+      ],
+      "pdfPageStart": 329,
+      "pdfPageEnd": 329,
+      "printedPageStart": 324,
+      "printedPageEnd": 324,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p123",
+      "kind": "answer",
+      "section": "অনুশীলনী ১০.১",
+      "caption": null,
+      "body": "খ) $1 + 12x + 60x^2 + 160x^3 + \\dots$",
+      "image": null,
+      "formulas": [
+        "1 + 12x + 60x^2 + 160x^3 + \\dots"
+      ],
+      "pdfPageStart": 329,
+      "pdfPageEnd": 329,
+      "printedPageStart": 324,
+      "printedPageEnd": 324,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p124",
+      "kind": "answer",
+      "section": "অনুশীলনী ১০.২",
+      "caption": null,
+      "body": "৪. ক) $32 + 80x^2 + 80x^4 + 40x^6 + 10x^8 + x^{10}$",
+      "image": null,
+      "formulas": [
+        "32 + 80x^2 + 80x^4 + 40x^6 + 10x^8 + x^{10}"
+      ],
+      "pdfPageStart": 329,
+      "pdfPageEnd": 329,
+      "printedPageStart": 324,
+      "printedPageEnd": 324,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p125",
+      "kind": "answer",
+      "section": "অনুশীলনী ১০.২",
+      "caption": null,
+      "body": "খ) $64 - \\frac{96}{x} + \\frac{60}{x^2} - \\frac{20}{x^3} + \\frac{15}{4x^4} - \\frac{3}{8x^5} + \\frac{1}{64x^6}$",
+      "image": null,
+      "formulas": [
+        "64 - \\frac{96}{x} + \\frac{60}{x^2} - \\frac{20}{x^3} + \\frac{15}{4x^4} - \\frac{3}{8x^5} + \\frac{1}{64x^6}"
+      ],
+      "pdfPageStart": 329,
+      "pdfPageEnd": 329,
+      "printedPageStart": 324,
+      "printedPageEnd": 324,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p126",
+      "kind": "answer",
+      "section": "অনুশীলনী ১০.২",
+      "caption": null,
+      "body": "৫. ক) $64 + 576x + 2160x^2 + 4320x^3 + \\dots$",
+      "image": null,
+      "formulas": [
+        "64 + 576x + 2160x^2 + 4320x^3 + \\dots"
+      ],
+      "pdfPageStart": 329,
+      "pdfPageEnd": 329,
+      "printedPageStart": 324,
+      "printedPageEnd": 324,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p127",
+      "kind": "answer",
+      "section": "অনুশীলনী ১০.২",
+      "caption": null,
+      "body": "খ) $1024 - \\frac{640}{x} + \\frac{160}{x^2} - \\frac{20}{x^3} + \\dots$",
+      "image": null,
+      "formulas": [
+        "1024 - \\frac{640}{x} + \\frac{160}{x^2} - \\frac{20}{x^3} + \\dots"
+      ],
+      "pdfPageStart": 329,
+      "pdfPageEnd": 329,
+      "printedPageStart": 324,
+      "printedPageEnd": 324,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p128",
+      "kind": "answer",
+      "section": "অনুশীলনী ১০.২",
+      "caption": null,
+      "body": "৬. $p = 2, r = 64, s = 60$",
+      "image": null,
+      "formulas": [
+        "p = 2, r = 64, s = 60"
+      ],
+      "pdfPageStart": 329,
+      "pdfPageEnd": 329,
+      "printedPageStart": 324,
+      "printedPageEnd": 324,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p129",
+      "kind": "answer",
+      "section": "অনুশীলনী ১০.২",
+      "caption": null,
+      "body": "৭. $64 + 48x + 15x^2 + \\frac{5}{2}x^3 + \\dots, 63.5215$",
+      "image": null,
+      "formulas": [
+        "64 + 48x + 15x^2 + \\frac{5}{2}x^3 + \\dots, 63.5215"
+      ],
+      "pdfPageStart": 329,
+      "pdfPageEnd": 329,
+      "printedPageStart": 324,
+      "printedPageEnd": 324,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p130",
+      "kind": "answer",
+      "section": "অনুশীলনী ১০.২",
+      "caption": null,
+      "body": "৮. $31.2080$",
+      "image": null,
+      "formulas": [
+        "31.2080"
+      ],
+      "pdfPageStart": 329,
+      "pdfPageEnd": 329,
+      "printedPageStart": 324,
+      "printedPageEnd": 324,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p131",
+      "kind": "answer",
+      "section": "অনুশীলনী ১০.২",
+      "caption": null,
+      "body": "৯. $n = 8$, পদসংখ্যা ৯ ও মধ্যপদ $\\frac{35}{128}$",
+      "image": null,
+      "formulas": [
+        "n = 8",
+        "\\frac{35}{128}"
+      ],
+      "pdfPageStart": 329,
+      "pdfPageEnd": 329,
+      "printedPageStart": 324,
+      "printedPageEnd": 324,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p132",
+      "kind": "answer",
+      "section": "অনুশীলনী ১০.২",
+      "caption": null,
+      "body": "১০. $k = 2$",
+      "image": null,
+      "formulas": [
+        "k = 2"
+      ],
+      "pdfPageStart": 329,
+      "pdfPageEnd": 329,
+      "printedPageStart": 324,
+      "printedPageEnd": 324,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p133",
+      "kind": "answer",
+      "section": "অনুশীলনী ১০.২",
+      "caption": null,
+      "body": "১৩. $101^{50}$ বড়ো",
+      "image": null,
+      "formulas": [
+        "101^{50}"
+      ],
+      "pdfPageStart": 329,
+      "pdfPageEnd": 329,
+      "printedPageStart": 324,
+      "printedPageEnd": 324,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p134",
+      "kind": "answer",
+      "section": "অনুশীলনী ১১.১",
+      "caption": null,
+      "body": "১. ক) $\\sqrt{13}$ একক খ) $4\\sqrt{2}$ একক গ) $|a - b|\\sqrt{2}$ একক\nঘ) ১ একক ঙ) $\\sqrt{13}$ একক",
+      "image": null,
+      "formulas": [
+        "\\sqrt{13}",
+        "4\\sqrt{2}",
+        "|a - b|\\sqrt{2}",
+        "\\sqrt{13}"
+      ],
+      "pdfPageStart": 330,
+      "pdfPageEnd": 330,
+      "printedPageStart": 325,
+      "printedPageEnd": 325,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p135",
+      "kind": "answer",
+      "section": "অনুশীলনী ১১.১",
+      "caption": null,
+      "body": "৫. 16.971 (প্রায়)",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 330,
+      "pdfPageEnd": 330,
+      "printedPageStart": 325,
+      "printedPageEnd": 325,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p136",
+      "kind": "answer",
+      "section": "অনুশীলনী ১১.১",
+      "caption": null,
+      "body": "৮. $B$ নিকটবর্তী, $A$ দূরবর্তী",
+      "image": null,
+      "formulas": [
+        "B",
+        "A"
+      ],
+      "pdfPageStart": 330,
+      "pdfPageEnd": 330,
+      "printedPageStart": 325,
+      "printedPageEnd": 325,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p137",
+      "kind": "answer",
+      "section": "অনুশীলনী ১১.২",
+      "caption": null,
+      "body": "১. ক) ৭ একক, $4\\sqrt{2}$ একক, ৫ একক, $12 + 4\\sqrt{2}$ একক\nখ) ১৪ বর্গ একক",
+      "image": null,
+      "formulas": [
+        "4\\sqrt{2}",
+        "12 + 4\\sqrt{2}"
+      ],
+      "pdfPageStart": 330,
+      "pdfPageEnd": 330,
+      "printedPageStart": 325,
+      "printedPageEnd": 325,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p138",
+      "kind": "answer",
+      "section": "অনুশীলনী ১১.২",
+      "caption": null,
+      "body": "২. ক) ৬ বর্গ একক খ) ২৪ বর্গ একক",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 330,
+      "pdfPageEnd": 330,
+      "printedPageStart": 325,
+      "printedPageEnd": 325,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p139",
+      "kind": "answer",
+      "section": "অনুশীলনী ১১.২",
+      "caption": null,
+      "body": "৩. $\\sqrt{58}$ একক, $\\sqrt{10}$ একক, 11.972 বর্গ একক",
+      "image": null,
+      "formulas": [
+        "\\sqrt{58}",
+        "\\sqrt{10}"
+      ],
+      "pdfPageStart": 330,
+      "pdfPageEnd": 330,
+      "printedPageStart": 325,
+      "printedPageEnd": 325,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p140",
+      "kind": "answer",
+      "section": "অনুশীলনী ১১.২",
+      "caption": null,
+      "body": "৪. ১০ একক, ১০ একক, ৪০ বর্গ একক",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 330,
+      "pdfPageEnd": 330,
+      "printedPageStart": 325,
+      "printedPageEnd": 325,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p141",
+      "kind": "answer",
+      "section": "অনুশীলনী ১১.২",
+      "caption": null,
+      "body": "৫. $a = 5$ হলে $\\frac{119}{2}$ বর্গ একক, $a = 15$ হলে $\\frac{169}{2}$ বর্গ একক",
+      "image": null,
+      "formulas": [
+        "a = 5",
+        "\\frac{119}{2}",
+        "a = 15",
+        "\\frac{169}{2}"
+      ],
+      "pdfPageStart": 330,
+      "pdfPageEnd": 330,
+      "printedPageStart": 325,
+      "printedPageEnd": 325,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p142",
+      "kind": "answer",
+      "section": "অনুশীলনী ১১.২",
+      "caption": null,
+      "body": "৬. $a = 2, 5\\frac{1}{3}$\n$a = 2$ হলে, $ABC$ ত্রিভুজটি সমকোণী, $AC$ অতিভুজ এবং $\\angle BAC$ সমকোণ",
+      "image": null,
+      "formulas": [
+        "a = 2, 5\\frac{1}{3}",
+        "a = 2",
+        "ABC",
+        "AC",
+        "\\angle BAC"
+      ],
+      "pdfPageStart": 330,
+      "pdfPageEnd": 330,
+      "printedPageStart": 325,
+      "printedPageEnd": 325,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p143",
+      "kind": "answer",
+      "section": "অনুশীলনী ১১.২",
+      "caption": null,
+      "body": "৭. ক) ২১ বর্গ একক খ) ২৪ বর্গ একক গ) ১৫ বর্গ একক",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 330,
+      "pdfPageEnd": 330,
+      "printedPageStart": 325,
+      "printedPageEnd": 325,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p144",
+      "kind": "answer",
+      "section": "অনুশীলনী ১১.২",
+      "caption": null,
+      "body": "৯. $p = \\frac{59}{5}$",
+      "image": null,
+      "formulas": [
+        "p = \\frac{59}{5}"
+      ],
+      "pdfPageStart": 330,
+      "pdfPageEnd": 330,
+      "printedPageStart": 325,
+      "printedPageEnd": 325,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p145",
+      "kind": "answer",
+      "section": "অনুশীলনী ১১.৩",
+      "caption": null,
+      "body": "১. ক) $-1$ খ) $\\frac{3}{2}$ গ) $0$ ঘ) $2$",
+      "image": null,
+      "formulas": [
+        "-1",
+        "\\frac{3}{2}",
+        "0",
+        "2"
+      ],
+      "pdfPageStart": 330,
+      "pdfPageEnd": 330,
+      "printedPageStart": 325,
+      "printedPageEnd": 325,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p146",
+      "kind": "answer",
+      "section": "অনুশীলনী ১১.৩",
+      "caption": null,
+      "body": "৩. $1, \\frac{1}{2}$",
+      "image": null,
+      "formulas": [
+        "1, \\frac{1}{2}"
+      ],
+      "pdfPageStart": 330,
+      "pdfPageEnd": 330,
+      "printedPageStart": 325,
+      "printedPageEnd": 325,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p147",
+      "kind": "answer",
+      "section": "অনুশীলনী ১১.৩",
+      "caption": null,
+      "body": "৮. $1, 2$",
+      "image": null,
+      "formulas": [
+        "1, 2"
+      ],
+      "pdfPageStart": 330,
+      "pdfPageEnd": 330,
+      "printedPageStart": 325,
+      "printedPageEnd": 325,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p148",
+      "kind": "answer",
+      "section": "অনুশীলনী ১১.৪",
+      "caption": null,
+      "body": "৮. ক) $y = -x + 6$ খ) $y = x - 3$ গ) $y = 3x - 3a$",
+      "image": null,
+      "formulas": [
+        "y = -x + 6",
+        "y = x - 3",
+        "y = 3x - 3a"
+      ],
+      "pdfPageStart": 331,
+      "pdfPageEnd": 331,
+      "printedPageStart": 326,
+      "printedPageEnd": 326,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p149",
+      "kind": "answer",
+      "section": "অনুশীলনী ১১.৪",
+      "caption": null,
+      "body": "৯. ক) $y = 3x + 5$ খ) $y = 3x - 5$ গ) $y = -3x + 5$\nয) $y = -3x - 5$",
+      "image": null,
+      "formulas": [
+        "y = 3x + 5",
+        "y = 3x - 5",
+        "y = -3x + 5",
+        "y = -3x - 5"
+      ],
+      "pdfPageStart": 331,
+      "pdfPageEnd": 331,
+      "printedPageStart": 326,
+      "printedPageEnd": 326,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p150",
+      "kind": "answer",
+      "section": "অনুশীলনী ১১.৪",
+      "caption": null,
+      "body": "১০. ক) $(1, 0), (0, -3)$ খ) $(-\\frac{6}{5}, 0), (0, 3)$ গ) $(\\frac{4}{3}, 0), (0, -2)$",
+      "image": null,
+      "formulas": [
+        "(1, 0), (0, -3)",
+        "(-\\frac{6}{5}, 0), (0, 3)",
+        "(\\frac{4}{3}, 0), (0, -2)"
+      ],
+      "pdfPageStart": 331,
+      "pdfPageEnd": 331,
+      "printedPageStart": 326,
+      "printedPageEnd": 326,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p151",
+      "kind": "answer",
+      "section": "অনুশীলনী ১১.৪",
+      "caption": null,
+      "body": "১১. $y = k(x - k), k = 2, 3$",
+      "image": null,
+      "formulas": [
+        "y = k(x - k), k = 2, 3"
+      ],
+      "pdfPageStart": 331,
+      "pdfPageEnd": 331,
+      "printedPageStart": 326,
+      "printedPageEnd": 326,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p152",
+      "kind": "answer",
+      "section": "অনুশীলনী ১১.৪",
+      "caption": null,
+      "body": "১২. $y = \\frac{1}{k}(x + k^2), k = -1, 2$",
+      "image": null,
+      "formulas": [
+        "y = \\frac{1}{k}(x + k^2), k = -1, 2"
+      ],
+      "pdfPageStart": 331,
+      "pdfPageEnd": 331,
+      "printedPageStart": 326,
+      "printedPageEnd": 326,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p153",
+      "kind": "answer",
+      "section": "অনুশীলনী ১১.৪",
+      "caption": null,
+      "body": "১৩. $k = \\frac{11}{2}$",
+      "image": null,
+      "formulas": [
+        "k = \\frac{11}{2}"
+      ],
+      "pdfPageStart": 331,
+      "pdfPageEnd": 331,
+      "printedPageStart": 326,
+      "printedPageEnd": 326,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p154",
+      "kind": "answer",
+      "section": "অনুশীলনী ১১.৪",
+      "caption": null,
+      "body": "১৪. ক) $y = 3x + 9$ এবং $y = -2x + 4$ খ) ১৫ বর্গ একক",
+      "image": null,
+      "formulas": [
+        "y = 3x + 9",
+        "y = -2x + 4"
+      ],
+      "pdfPageStart": 331,
+      "pdfPageEnd": 331,
+      "printedPageStart": 326,
+      "printedPageEnd": 326,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p155",
+      "kind": "answer",
+      "section": "অনুশীলনী ১৩",
+      "caption": null,
+      "body": "১. ৬৩৬ বর্গ মি., ২০.৫ মি., ৮৬৪ ঘন মি.\n৩. ৮.৭৫ মি., ৩.২ মি.\n৫. ৬৪.১৪ ঘন সে.মি.\n৭. ১১.৩৭ সে.মি.\n৯. ৪ টি\n১১. ৭৮.৫৪ বর্গ সে.মি.\n১৩. ৮৩৪০০ টি\n১৫. ২০৮৬.৪৯ বর্গ মি.\n১৭. ২৯৬.৩৮ বর্গ সে.মি. ৩১১.৭৭ ঘন সে.মি.\n১৯. ৪০.৬৫ বর্গ সে.মি., ১৬ ঘন সে.মি.\n২. ১ ঘন মি., ৭.৪ বর্গ মি.\n৪. ২৫ সে.মি.\n৬. ১ সে.মি.\n৮. ১.০৬ সে.মি.\n১০. ১৩০৮.৮২ ঘন সে.মি.\n১২. ৭.৪৮ বর্গ মি., ১০৭.৯৮ টাকা\n১৪. ১৬ সে.মি., ১২ সে.মি., ১২ সে.মি.\n১৬. ২০৩.১৪ বর্গ সে.মি., ২০৭.৮৫ ঘন সে.মি.\n১৮. ১১০.৮৫ বর্গ সে.মি., ৬০.৩৪ ঘন সে.মি.\n২০. ৪৬৬২.৮৬ ঘন সে.মি.",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 331,
+      "pdfPageEnd": 331,
+      "printedPageStart": 326,
+      "printedPageEnd": 326,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p156",
+      "kind": "answer",
+      "section": "অনুশীলনী ১৪",
+      "caption": null,
+      "body": "১. ক) $\\frac{1}{2}$ খ) $\\frac{7}{30}$ গ) $\\frac{3}{30}$ ঘ) $\\frac{4}{15}$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{2}",
+        "\\frac{7}{30}",
+        "\\frac{3}{30}",
+        "\\frac{4}{15}"
+      ],
+      "pdfPageStart": 331,
+      "pdfPageEnd": 331,
+      "printedPageStart": 326,
+      "printedPageEnd": 326,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p157",
+      "kind": "answer",
+      "section": "অনুশীলনী ১৪",
+      "caption": null,
+      "body": "২. $\\frac{1}{38}$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{38}"
+      ],
+      "pdfPageStart": 331,
+      "pdfPageEnd": 331,
+      "printedPageStart": 326,
+      "printedPageEnd": 326,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p158",
+      "kind": "answer",
+      "section": "অনুশীলনী ১৪",
+      "caption": null,
+      "body": "৩. $\\frac{98}{639}$",
+      "image": null,
+      "formulas": [
+        "\\frac{98}{639}"
+      ],
+      "pdfPageStart": 332,
+      "pdfPageEnd": 332,
+      "printedPageStart": 327,
+      "printedPageEnd": 327,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p159",
+      "kind": "answer",
+      "section": "অনুশীলনী ১৪",
+      "caption": null,
+      "body": "৪. ক) $\\frac{157}{1897}$ খ) $\\frac{1630}{1897}$ গ) $\\frac{424}{1897}$",
+      "image": null,
+      "formulas": [
+        "\\frac{157}{1897}",
+        "\\frac{1630}{1897}",
+        "\\frac{424}{1897}"
+      ],
+      "pdfPageStart": 332,
+      "pdfPageEnd": 332,
+      "printedPageStart": 327,
+      "printedPageEnd": 327,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p160",
+      "kind": "answer",
+      "section": "অনুশীলনী ১৪",
+      "caption": null,
+      "body": "৫. ক) $\\frac{23}{1000}$ খ) $\\frac{1}{400}$",
+      "image": null,
+      "formulas": [
+        "\\frac{23}{1000}",
+        "\\frac{1}{400}"
+      ],
+      "pdfPageStart": 332,
+      "pdfPageEnd": 332,
+      "printedPageStart": 327,
+      "printedPageEnd": 327,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p161",
+      "kind": "answer",
+      "section": "অনুশীলনী ১৪",
+      "caption": null,
+      "body": "৬. ক) $\\frac{8}{63}$ খ) $\\frac{25}{63}$",
+      "image": null,
+      "formulas": [
+        "\\frac{8}{63}",
+        "\\frac{25}{63}"
+      ],
+      "pdfPageStart": 332,
+      "pdfPageEnd": 332,
+      "printedPageStart": 327,
+      "printedPageEnd": 327,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.ans-p162",
+      "kind": "answer",
+      "section": "অনুশীলনী ১৪",
+      "caption": null,
+      "body": "৭. $\\frac{4}{45}$",
+      "image": null,
+      "formulas": [
+        "\\frac{4}{45}"
+      ],
+      "pdfPageStart": 332,
+      "pdfPageEnd": 332,
+      "printedPageStart": 327,
+      "printedPageEnd": 327,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

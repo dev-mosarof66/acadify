@@ -1082,15 +1082,17 @@
       "kind": "text",
       "section": "উপপাদ্য ১০. ত্রিভুজের পরিকেন্দ্র, ভরকেন্দ্র ও লম্ববিন্দু সমরেখ।",
       "caption": null,
-      "body": "ক) তথ্যানুযায়ী চিত্র ঐকে ভরকেন্দ্র চিহ্নিত করো।",
+      "body": "ক) তথ্যানুযায়ী চিত্র এঁকে ভরকেন্দ্র চিহ্নিত করো।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 82,
       "pdfPageEnd": 82,
       "printedPageStart": 77,
       "printedPageEnd": 77,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "higher-math-9-10-bn-c03-t3.3-p057",

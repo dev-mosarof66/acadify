@@ -375,7 +375,7 @@
       "kind": "text",
       "section": "সমাধান:",
       "caption": null,
-      "body": "ক) ধরি, সেট $J =$ যারা দৌড় পছন্দ করে, $S =$ যারা সাঁতার পছন্দ করে, $D =$ যারা নাচ পছন্দ করে। নিচে তথ্যগুলো ভেনচিট্রে দেখানো হলো।",
+      "body": "ক) ধরি, সেট $J =$ যারা দৌড় পছন্দ করে, $S =$ যারা সাঁতার পছন্দ করে, $D =$ যারা নাচ পছন্দ করে। নিচে তথ্যগুলো ভেনচিত্রে দেখানো হলো।",
       "image": null,
       "formulas": [
         "J =",
@@ -387,6 +387,7 @@
       "printedPageStart": 17,
       "printedPageEnd": 17,
       "reviewReasons": [
+        "known-confusable-corrected",
         "verify-formula"
       ],
       "needsReview": true
@@ -411,7 +412,7 @@
       "kind": "text",
       "section": "সমাধান:",
       "caption": null,
-      "body": "খ) ভেনচিট্র হতে $J' = \\{$যে সব বালিকা দৌড় পছন্দ করে না$\\}$।",
+      "body": "খ) ভেনচিত্র হতে $J' = \\{$যে সব বালিকা দৌড় পছন্দ করে না$\\}$।",
       "image": null,
       "formulas": [
         "J' = \\{",
@@ -422,6 +423,7 @@
       "printedPageStart": 17,
       "printedPageEnd": 17,
       "reviewReasons": [
+        "known-confusable-corrected",
         "verify-formula"
       ],
       "needsReview": true
@@ -472,7 +474,7 @@
       "kind": "text",
       "section": "সমাধান:",
       "caption": null,
-      "body": "ঘ) ভেনচিট্রে $n(J \\cap D \\cap S') = y$ এবং দেওয়া আছে $n(J) = 15$।",
+      "body": "ঘ) ভেনচিত্রে $n(J \\cap D \\cap S') = y$ এবং দেওয়া আছে $n(J) = 15$।",
       "image": null,
       "formulas": [
         "n(J \\cap D \\cap S') = y",
@@ -483,6 +485,7 @@
       "printedPageStart": 17,
       "printedPageEnd": 17,
       "reviewReasons": [
+        "known-confusable-corrected",
         "verify-formula"
       ],
       "needsReview": true
@@ -527,7 +530,7 @@
       "kind": "text",
       "section": "সমাধান:",
       "caption": null,
-      "body": "**উদাহরণ ১৭.** 24জন ছাত্রের 18জন ব্যস্কিটবল খেলা পছন্দ করে, 12জন ভলিবল খেলা পছন্দ করে। দেওয়া আছে, $U =$ শ্রেণির ছাত্রদের সেট, $B =$ ব্যস্কিটবল খেলা পছন্দ করে এমন ছাত্রের সেট, $V =$ ভলিবল খেলা পছন্দ করে এমন ছাত্রদের সেট। মনে কর $n(B \\cap V) = x$ এবং ভেনচিট্রে নিচের তথ্যগুলো ব্যাখ্যা করো:",
+      "body": "**উদাহরণ ১৭.** 24জন ছাত্রের 18জন ব্যস্কিটবল খেলা পছন্দ করে, 12জন ভলিবল খেলা পছন্দ করে। দেওয়া আছে, $U =$ শ্রেণির ছাত্রদের সেট, $B =$ ব্যস্কিটবল খেলা পছন্দ করে এমন ছাত্রের সেট, $V =$ ভলিবল খেলা পছন্দ করে এমন ছাত্রদের সেট। মনে কর $n(B \\cap V) = x$ এবং ভেনচিত্রে নিচের তথ্যগুলো ব্যাখ্যা করো:",
       "image": null,
       "formulas": [
         "U =",
@@ -540,6 +543,7 @@
       "printedPageStart": 17,
       "printedPageEnd": 17,
       "reviewReasons": [
+        "known-confusable-corrected",
         "verify-formula"
       ],
       "needsReview": true

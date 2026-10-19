@@ -1,0 +1,373 @@
+{
+  "id": "higher-math-9-10-bn-c12-t12.6",
+  "key": "12.6",
+  "title": "ভেক্টরের সংখ্যা গুণিতক বা স্কেলার গুণিতক (Scalar multiple of a vector)",
+  "chapter": 12,
+  "ordinal": 6,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c12-t12.6-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$<u>u</u>$ যেকোনো ভেক্টর এবং $m$ যেকোনো বাস্তব সংখ্যা হলে $m<u>u</u>$ দ্বারা কোন ভেক্টর বুঝায়, নিচে তা ব্যাখ্যা করা হলো।",
+      "image": null,
+      "formulas": [
+        "<u>u</u>",
+        "m",
+        "m<u>u</u>"
+      ],
+      "pdfPageStart": 282,
+      "pdfPageEnd": 282,
+      "printedPageStart": 277,
+      "printedPageEnd": 277,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.6-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "১. $m = 0$ হলে, $m<u>u</u> = <u>0</u>$ বা শূন্য ভেক্টর",
+      "image": null,
+      "formulas": [
+        "m = 0",
+        "m<u>u</u> = <u>0</u>"
+      ],
+      "pdfPageStart": 282,
+      "pdfPageEnd": 282,
+      "printedPageStart": 277,
+      "printedPageEnd": 277,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.6-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "২. $m \\neq 0$ হলে, $m<u>u</u>$ এর দৈর্ঘ্য $<u>u</u>$ এর দৈর্ঘ্যের $|m|$ গুণ হবে, $m<u>u</u>$ এর ধারক $<u>u</u>$ এর ধারকের সাথে অভিন্ন হবে, এবং",
+      "image": null,
+      "formulas": [
+        "m \\neq 0",
+        "m<u>u</u>",
+        "<u>u</u>",
+        "|m|",
+        "m<u>u</u>",
+        "<u>u</u>"
+      ],
+      "pdfPageStart": 282,
+      "pdfPageEnd": 282,
+      "printedPageStart": 277,
+      "printedPageEnd": 277,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.6-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $m > 0$ হলে $m<u>u</u>$ এর দিক $<u>u</u>$ এর দিকের সঙ্গে একমুখী হবে",
+      "image": null,
+      "formulas": [
+        "m > 0",
+        "m<u>u</u>",
+        "<u>u</u>"
+      ],
+      "pdfPageStart": 282,
+      "pdfPageEnd": 282,
+      "printedPageStart": 277,
+      "printedPageEnd": 277,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.6-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $m < 0$ হলে, $m<u>u</u>$ এর দিক $<u>u</u>$ এর দিকের বিপরীত হবে।",
+      "image": null,
+      "formulas": [
+        "m < 0",
+        "m<u>u</u>",
+        "<u>u</u>"
+      ],
+      "pdfPageStart": 282,
+      "pdfPageEnd": 282,
+      "printedPageStart": 277,
+      "printedPageEnd": 277,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.6-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**দৃষ্টব্য:** ক) $m = 0$ অথবা $<u>u</u> = <u>0</u>$ হলে $m<u>u</u> = <u>0</u>$ খ) $1<u>u</u> = <u>u</u>, (-1)<u>u</u> = -<u>u</u>$",
+      "image": null,
+      "formulas": [
+        "m = 0",
+        "<u>u</u> = <u>0</u>",
+        "m<u>u</u> = <u>0</u>",
+        "1<u>u</u> = <u>u</u>, (-1)<u>u</u> = -<u>u</u>"
+      ],
+      "pdfPageStart": 282,
+      "pdfPageEnd": 282,
+      "printedPageStart": 277,
+      "printedPageEnd": 277,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.6-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "উপরোক্ত সংজ্ঞা হতে দেখা যায়, $m(n<u>u</u>) = n(m<u>u</u>) = (mn)(<u>u</u>)$",
+      "image": null,
+      "formulas": [
+        "m(n<u>u</u>) = n(m<u>u</u>) = (mn)(<u>u</u>)"
+      ],
+      "pdfPageStart": 282,
+      "pdfPageEnd": 282,
+      "printedPageStart": 277,
+      "printedPageEnd": 277,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.6-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$m, n$ উভয়ে $> 0$, উভয়ে $< 0$, একটি $> 0$ এবং অপরটি $< 0$, একটি বা উভয় $0$, এ সকল ক্ষেত্রেও পৃথক পৃথকভাবে বিবেচনা করে সহজেই সূত্রটির বাস্তবতা সম্পর্কে নিশ্চিত হওয়া যায়। নিচে এর একটি উদাহরণ দেওয়া হলো:",
+      "image": null,
+      "formulas": [
+        "m, n",
+        "> 0",
+        "< 0",
+        "> 0",
+        "< 0",
+        "0"
+      ],
+      "pdfPageStart": 282,
+      "pdfPageEnd": 282,
+      "printedPageStart": 277,
+      "printedPageEnd": 277,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.6-p009",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: vector addition diagram on a line",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 282,
+      "pdfPageEnd": 282,
+      "printedPageStart": 277,
+      "printedPageEnd": 277,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.6-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "মনে করি, $\\overrightarrow{AB} = \\overrightarrow{BC} = <u>u</u>$",
+      "image": null,
+      "formulas": [
+        "\\overrightarrow{AB} = \\overrightarrow{BC} = <u>u</u>"
+      ],
+      "pdfPageStart": 282,
+      "pdfPageEnd": 282,
+      "printedPageStart": 277,
+      "printedPageEnd": 277,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.6-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$AC$ কে $G$ পর্যন্ত এরূপে বর্ধিত করি যেন $CD = DE = EF = FG = AB$ হয়।",
+      "image": null,
+      "formulas": [
+        "AC",
+        "G",
+        "CD = DE = EF = FG = AB"
+      ],
+      "pdfPageStart": 282,
+      "pdfPageEnd": 282,
+      "printedPageStart": 277,
+      "printedPageEnd": 277,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.6-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তখন $\\overrightarrow{AG} = \\overrightarrow{AB} + \\overrightarrow{BC} + \\overrightarrow{CD} + \\overrightarrow{DE} + \\overrightarrow{EF} + \\overrightarrow{FG} = <u>u</u> + <u>u</u> + <u>u</u> + <u>u</u> + <u>u</u> + <u>u</u> = 6<u>u</u>$ অন্যদিকে $\\overrightarrow{AG} = \\overrightarrow{AC} + \\overrightarrow{CE} + \\overrightarrow{EG} = 2<u>u</u> + 2<u>u</u> + 2<u>u</u> = 3(2<u>u</u>)$",
+      "image": null,
+      "formulas": [
+        "\\overrightarrow{AG} = \\overrightarrow{AB} + \\overrightarrow{BC} + \\overrightarrow{CD} + \\overrightarrow{DE} + \\overrightarrow{EF} + \\overrightarrow{FG} = <u>u</u> + <u>u</u> + <u>u</u> + <u>u</u> + <u>u</u> + <u>u</u> = 6<u>u</u>",
+        "\\overrightarrow{AG} = \\overrightarrow{AC} + \\overrightarrow{CE} + \\overrightarrow{EG} = 2<u>u</u> + 2<u>u</u> + 2<u>u</u> = 3(2<u>u</u>)"
+      ],
+      "pdfPageStart": 282,
+      "pdfPageEnd": 283,
+      "printedPageStart": 277,
+      "printedPageEnd": 278,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.6-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এবং $\\overrightarrow{AG} = \\overrightarrow{AD} + \\overrightarrow{DG} = 3<u>u</u> + 3<u>u</u> = 2(3<u>u</u>)$",
+      "image": null,
+      "formulas": [
+        "\\overrightarrow{AG} = \\overrightarrow{AD} + \\overrightarrow{DG} = 3<u>u</u> + 3<u>u</u> = 2(3<u>u</u>)"
+      ],
+      "pdfPageStart": 283,
+      "pdfPageEnd": 283,
+      "printedPageStart": 278,
+      "printedPageEnd": 278,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.6-p014",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore 2(3<u>u</u>) = 3(2<u>u</u>) = 2 \\times 3(<u>u</u>)$",
+      "image": null,
+      "formulas": [
+        "\\therefore 2(3<u>u</u>) = 3(2<u>u</u>) = 2 \\times 3(<u>u</u>)"
+      ],
+      "pdfPageStart": 283,
+      "pdfPageEnd": 283,
+      "printedPageStart": 278,
+      "printedPageEnd": 278,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.6-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**দ্রষ্টব্য:** দুটি ভেক্টরের ধারক রেখা অভিন্ন বা সমান্তরাল হলে, এদের একটিকে অপরের সংখ্যা গুণিতক আকারে প্রকাশ করা যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 283,
+      "pdfPageEnd": 283,
+      "printedPageStart": 278,
+      "printedPageEnd": 278,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.6-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বাস্তবে $AB \\parallel CD$ হলে, $\\overrightarrow{AB} = m\\overrightarrow{CD}$ যেখানে, $|m| = \\frac{|\\overrightarrow{AB}|}{|\\overrightarrow{CD}|} = \\frac{AB}{CD}$",
+      "image": null,
+      "formulas": [
+        "AB \\parallel CD",
+        "\\overrightarrow{AB} = m\\overrightarrow{CD}",
+        "|m| = \\frac{|\\overrightarrow{AB}|}{|\\overrightarrow{CD}|} = \\frac{AB}{CD}"
+      ],
+      "pdfPageStart": 283,
+      "pdfPageEnd": 283,
+      "printedPageStart": 278,
+      "printedPageEnd": 278,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.6-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $m > 0$ হলে $\\overrightarrow{AB}$ ও $\\overrightarrow{CD}$ সমমুখী হয়,",
+      "image": null,
+      "formulas": [
+        "m > 0",
+        "\\overrightarrow{AB}",
+        "\\overrightarrow{CD}"
+      ],
+      "pdfPageStart": 283,
+      "pdfPageEnd": 283,
+      "printedPageStart": 278,
+      "printedPageEnd": 278,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.6-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $m < 0$ হলে $\\overrightarrow{AB}$ ও $\\overrightarrow{CD}$ বিপরীতমুখী হয়।",
+      "image": null,
+      "formulas": [
+        "m < 0",
+        "\\overrightarrow{AB}",
+        "\\overrightarrow{CD}"
+      ],
+      "pdfPageStart": 283,
+      "pdfPageEnd": 283,
+      "printedPageStart": 278,
+      "printedPageEnd": 278,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

@@ -168,3 +168,23 @@ test("section numbers with 7 misread as 1 or 9 still follow the sequence", () =>
   const [ch] = buildBookTree([{ number: 37, markdown }]);
   assert.deepEqual(ch.topics.map((t) => t.key), ["2.0", "2.1", "2.2", "2.3", "2.4", "2.5", "2.6", "2.7", "2.8"]);
 });
+
+test("the answer key is its own topic, and a plain heading after an exercise resumes the lesson", () => {
+  const pages = [
+    {
+      number: 228,
+      markdown: [
+        "## অধ্যায় ১০", "### দ্বিপদী বিস্তৃতি (Binomial Expansion)", "ভূমিকা।",
+        "## দ্বিপদী সহগ", "সহগের পাঠ।",
+        "## অনুশীলনী ১০.১", "১. প্রশ্ন এক।",
+        "### $(x + y)^n$ দ্বিপদী এর বিস্তৃতি", "উপপাদ্য ও ব্যাখ্যা।",
+        "## অনুশীলনীর উত্তর", "### অনুশীলনী ১.১", "৫. ক) $x = 8$", "## অনুশীলনী ২", "৬. খ) 56",
+      ].join("\n\n"),
+    },
+  ];
+  const [ch] = buildBookTree(pages);
+  assert.deepEqual(ch.topics.map((t) => t.key), ["10.0", "10.1", "10.ex", "10.2", "10.ans"]);
+  assert.ok(ch.topics.find((t) => t.key === "10.2")!.passages.every((p) => p.kind !== "exercise"));
+  const ans = ch.topics.find((t) => t.key === "10.ans")!;
+  assert.ok(ans.passages.length === 2 && ans.passages.every((p) => p.kind === "answer"));
+});

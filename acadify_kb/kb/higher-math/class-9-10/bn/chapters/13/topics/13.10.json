@@ -1,0 +1,299 @@
+{
+  "id": "higher-math-9-10-bn-c13-t13.10",
+  "key": "13.10",
+  "title": "৪. পিরামিড (Pyramid)",
+  "chapter": 13,
+  "ordinal": 10,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c13-t13.10-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বহুভুজের উপর অবস্থিত যে ঘনবস্তুর একটি শীর্ষবিন্দু থাকে এবং যার পার্শ্বতলগুলোর প্রত্যেকটি ত্রিভুজাকার তাকে পিরামিড বলে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 300,
+      "pdfPageEnd": 300,
+      "printedPageStart": 295,
+      "printedPageEnd": 295,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.10-p002",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: pyramid diagrams with labels",
+      "image": "p300-page_9_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 300,
+      "pdfPageEnd": 300,
+      "printedPageStart": 295,
+      "printedPageEnd": 295,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.10-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "পিরামিডের ভূমি যেকোনো আকারের বহুভুজ এবং তার পার্শ্বতলগুলোও যেকোনো ধরনের ত্রিভুজ হতে পারে। তবে ভূমি সুষম বহুভুজ এবং পার্শ্বতলগুলো সর্বসম ত্রিভুজ হলে তাকে সুষম পিরামিড বলা হয়। সুষম পিরামিডগুলো খুবই দৃষ্টিনন্দন। শীর্ষবিন্দু ও ভূমির যেকোনো কোণিক বিন্দুর সংযোজক রেখাকে পিরামিডের ধার বলে। শীর্ষ হতে ভূমির উপর অঙ্কিত লম্বদৈর্ঘ্যকে পিরামিডের উচ্চতা বলা হয়। তবে আমরা পিরামিড বলতে সচরাচর বর্গাকার ভূমির উপর অবস্থিত চারটি সর্বসম ত্রিভুজ দ্বারা বেষ্টিত ঘনবস্তুকেই বুঝি। এই ধরনের পিরামিডের বহুল ব্যবহার আছে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 300,
+      "pdfPageEnd": 300,
+      "printedPageStart": 295,
+      "printedPageEnd": 295,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.10-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "চারটি সমবাহু ত্রিভুজ দ্বারা বেষ্টিত ঘনবস্তুকে **সুষম চতুস্তলক** (regular tetrahedron) বলে যা একটি পিরামিড। এই পিরামিডের $3 + 3 = 6$ টি ধার ও ৪ টি কোণিক বিন্দু আছে। ইহার শীর্ষ হতে ভূমির উপর অঙ্কিত লম্ব ভূমির ভরকেন্দ্রে পতিত হয়।",
+      "image": null,
+      "formulas": [
+        "3 + 3 = 6"
+      ],
+      "pdfPageStart": 300,
+      "pdfPageEnd": 300,
+      "printedPageStart": 295,
+      "printedPageEnd": 295,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.10-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) পিরামিডের সমগ্রতলের ক্ষেত্রফল $= ভূমির ক্ষেত্রফল + পার্শ্বতলগুলোর ক্ষেত্রফল$ কিন্তু পার্শ্বতলগুলো সর্বসম ত্রিভুজ হলে,",
+      "image": null,
+      "formulas": [
+        "= ভূমির ক্ষেত্রফল + পার্শ্বতলগুলোর ক্ষেত্রফল"
+      ],
+      "pdfPageStart": 300,
+      "pdfPageEnd": 301,
+      "printedPageStart": 295,
+      "printedPageEnd": 296,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.10-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "পিরামিডের সমগ্রতলের ক্ষেত্রফল = ভূমির ক্ষেত্রফল $+ \\frac{1}{2}$ (ভূমির পরিধি $\\times$ হেলানো উচ্চতা)",
+      "image": null,
+      "formulas": [
+        "+ \\frac{1}{2}",
+        "\\times"
+      ],
+      "pdfPageStart": 301,
+      "pdfPageEnd": 301,
+      "printedPageStart": 296,
+      "printedPageEnd": 296,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.10-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কোনো পিরামিডের উচ্চতা $h$, ভূমিক্ষেত্রের অন্তর্বর্তের ব্যাসার্ধ $r$ এবং হেলানো উচ্চতা $l$ হলে, $l = \\sqrt{h^2 + r^2}$",
+      "image": null,
+      "formulas": [
+        "h",
+        "r",
+        "l",
+        "l = \\sqrt{h^2 + r^2}"
+      ],
+      "pdfPageStart": 301,
+      "pdfPageEnd": 301,
+      "printedPageStart": 296,
+      "printedPageEnd": 296,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.10-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) আয়তন $= \\frac{1}{3} \\times$ ভূমির ক্ষেত্রফল $\\times$ উচ্চতা",
+      "image": null,
+      "formulas": [
+        "= \\frac{1}{3} \\times",
+        "\\times"
+      ],
+      "pdfPageStart": 301,
+      "pdfPageEnd": 301,
+      "printedPageStart": 296,
+      "printedPageEnd": 296,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.10-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৩.** 10 সে.মি. বাহুবিশিষ্ট বর্গাকার ভূমির উপর অবস্থিত একটি পিরামিডের উচ্চতা 12 সে.মি.। ইহার সমগ্রতলের ক্ষেত্রফল ও আয়তন নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 301,
+      "pdfPageEnd": 301,
+      "printedPageStart": 296,
+      "printedPageEnd": 296,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.10-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** পিরামিডের ভূমির কেন্দ্রবিন্দু হতে যেকোনো বাহুর লম্ব দূরত্ব $r = \\frac{10}{2}$ সে.মি. $= 5$ সে.মি., পিরামিডের উচ্চতা 12 সে.মি.।",
+      "image": null,
+      "formulas": [
+        "r = \\frac{10}{2}",
+        "= 5"
+      ],
+      "pdfPageStart": 301,
+      "pdfPageEnd": 301,
+      "printedPageStart": 296,
+      "printedPageEnd": 296,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.10-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অতএব ইহার যেকোনো পার্শ্বতলের হেলানো উচ্চতা $= \\sqrt{h^2 + r^2} = \\sqrt{12^2 + 5^2} = \\sqrt{144 + 25} = \\sqrt{169} = 13$ সে.মি.।",
+      "image": null,
+      "formulas": [
+        "= \\sqrt{h^2 + r^2} = \\sqrt{12^2 + 5^2} = \\sqrt{144 + 25} = \\sqrt{169} = 13"
+      ],
+      "pdfPageStart": 301,
+      "pdfPageEnd": 301,
+      "printedPageStart": 296,
+      "printedPageEnd": 296,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.10-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ পিরামিডের সমগ্রতলের ক্ষেত্রফল $= [10 \\times 10 + \\frac{1}{2}(4 \\times 10) \\times 13]$ বর্গ সে.মি.\n$= 100 + 260 = 360$ বর্গ সে.মি.",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "= [10 \\times 10 + \\frac{1}{2}(4 \\times 10) \\times 13]",
+        "= 100 + 260 = 360"
+      ],
+      "pdfPageStart": 301,
+      "pdfPageEnd": 301,
+      "printedPageStart": 296,
+      "printedPageEnd": 296,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.10-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এবং ইহার আয়তন $= \\frac{1}{3} \\times (10 \\times 10) \\times 12$ ঘন সে.মি. $= 10 \\times 10 \\times 4 = 400$ ঘন সে.মি.।",
+      "image": null,
+      "formulas": [
+        "= \\frac{1}{3} \\times (10 \\times 10) \\times 12",
+        "= 10 \\times 10 \\times 4 = 400"
+      ],
+      "pdfPageStart": 301,
+      "pdfPageEnd": 301,
+      "printedPageStart": 296,
+      "printedPageEnd": 296,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.10-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অতএব পিরামিডটির সমগ্রতলের ক্ষেত্রফল 360 বর্গ সে.মি. এবং আয়তন 400 ঘন সে.মি.।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 301,
+      "pdfPageEnd": 301,
+      "printedPageStart": 296,
+      "printedPageEnd": 296,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.10-p015",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "ক) প্রত্যেকে একটি করে সুষম ও একটি করে বিষম (১) প্রিজম ও (২) পিরামিড আঁকো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 301,
+      "pdfPageEnd": 301,
+      "printedPageStart": 296,
+      "printedPageEnd": 296,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.10-p016",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "খ) যেক্ষেত্রে সন্নিব, তোমার আঁকিত ঘনবস্তুটির সমগ্রতলের ক্ষেত্রফল ও আয়তন নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 301,
+      "pdfPageEnd": 301,
+      "printedPageStart": 296,
+      "printedPageEnd": 296,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

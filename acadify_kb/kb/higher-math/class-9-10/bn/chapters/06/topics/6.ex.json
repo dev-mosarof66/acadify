@@ -1,0 +1,767 @@
+{
+  "id": "higher-math-9-10-bn-c06-t6.ex",
+  "key": "6.ex",
+  "title": "অনুশীলনী ৬.১",
+  "chapter": 6,
+  "ordinal": 1,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p001",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "অসমতাগুলো সমাধান করো এবং সংখ্যারেখায় সমাধান সেট দেখাও:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 131,
+      "pdfPageEnd": 131,
+      "printedPageStart": 126,
+      "printedPageEnd": 126,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p002",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১. $y - 3 < 5$\n২. $3(x - 2) < 6$\n৩. $3x - 2 > 2x - 1$\n৪. $z \\le \\frac{1}{2}z + 3$\n৫. $8 \\ge 2 - 2x$\n৬. $x \\le \\frac{x}{3} + 4$\n৭. $5(3 - 2t) \\le 3(4 - 3t)$\n৮. $\\frac{x}{3} + \\frac{x}{4} + \\frac{x}{5} > \\frac{47}{60}$",
+      "image": null,
+      "formulas": [
+        "y - 3 < 5",
+        "3(x - 2) < 6",
+        "3x - 2 > 2x - 1",
+        "z \\le \\frac{1}{2}z + 3",
+        "8 \\ge 2 - 2x",
+        "x \\le \\frac{x}{3} + 4",
+        "5(3 - 2t) \\le 3(4 - 3t)",
+        "\\frac{x}{3} + \\frac{x}{4} + \\frac{x}{5} > \\frac{47}{60}"
+      ],
+      "pdfPageStart": 131,
+      "pdfPageEnd": 131,
+      "printedPageStart": 126,
+      "printedPageEnd": 126,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p003",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৬.২",
+      "caption": null,
+      "body": "১-৫ পর্যন্ত সমস্যাগুলো অসমতার মাধ্যমে প্রকাশ করো এবং $x$ এর সম্ভাব্য মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "x"
+      ],
+      "pdfPageStart": 132,
+      "pdfPageEnd": 132,
+      "printedPageStart": 127,
+      "printedPageEnd": 127,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p004",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৬.২",
+      "caption": null,
+      "body": "১. এক বালক ঘণ্টায় $x$ কি.মি. বেগে ৩ ঘণ্টা হাঁটল এবং ঘণ্টায় $(x + 2)$ কি.মি. বেগে $\\frac{1}{2}$ ঘণ্টা দৌড়াল এবং তার অতিক্রান্ত পথ 29 কি.মি. এর কম।",
+      "image": null,
+      "formulas": [
+        "x",
+        "(x + 2)",
+        "\\frac{1}{2}"
+      ],
+      "pdfPageStart": 132,
+      "pdfPageEnd": 132,
+      "printedPageStart": 127,
+      "printedPageEnd": 127,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p005",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৬.২",
+      "caption": null,
+      "body": "২. একটি বোর্ডিংয়ে রোজ $4x$ কেজি চাল এবং $(x - 3)$ কেজি ডাল লাগে এবং চাল ও ডাল মিলে 40 কেজির বেশি লাগে না।",
+      "image": null,
+      "formulas": [
+        "4x",
+        "(x - 3)"
+      ],
+      "pdfPageStart": 132,
+      "pdfPageEnd": 132,
+      "printedPageStart": 127,
+      "printedPageEnd": 127,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p006",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৬.২",
+      "caption": null,
+      "body": "৩. সোহরাব সাহেব 70 টাকা কেজি দরে $x$ কেজি আম কিনলেন। তিনি বিক্রিতাকে 500 টাকার একখানা নোট দিলেন। বিক্রিতা 20 টাকার $x$ খানা নোটসহ বাকি টাকা ফেরত দিলেন।",
+      "image": null,
+      "formulas": [
+        "x",
+        "x"
+      ],
+      "pdfPageStart": 132,
+      "pdfPageEnd": 132,
+      "printedPageStart": 127,
+      "printedPageEnd": 127,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p007",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৬.২",
+      "caption": null,
+      "body": "৪. একটি গাড়ি ৪ ঘণ্টায় যায় $x$ কি.মি. এবং ৫ ঘণ্টায় যায় $(x + 120)$ কি.মি.। গাড়িটির গড় গতিবেগ ঘণ্টায় 100 কি.মি. এর বেশি নয়।",
+      "image": null,
+      "formulas": [
+        "x",
+        "(x + 120)"
+      ],
+      "pdfPageStart": 132,
+      "pdfPageEnd": 132,
+      "printedPageStart": 127,
+      "printedPageEnd": 127,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p008",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৬.২",
+      "caption": null,
+      "body": "৫. এক টুকরা কাগজের ক্ষেত্রফল 40 বর্গ সে.মি.। তা থেকে $x$ সে.মি. দীর্ঘ এবং ৫ সে.মি. প্রস্থ বিশিষ্ট আয়তাকার কাগজ কেটে নেওয়া হলো।",
+      "image": null,
+      "formulas": [
+        "x"
+      ],
+      "pdfPageStart": 132,
+      "pdfPageEnd": 132,
+      "printedPageStart": 127,
+      "printedPageEnd": 127,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p009",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৬.২",
+      "caption": null,
+      "body": "৬. পুত্রের বয়স মাতার বয়সের এক-তৃতীয়াংশ। পিতা মাতার চেয়ে ৬ বছরের বড়ো। তিনজনের বয়সের সমষ্টি অনূর্ধ্ব 90 বছর। পিতার বয়স অসমতার মাধ্যমে প্রকাশ করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 132,
+      "pdfPageEnd": 132,
+      "printedPageStart": 127,
+      "printedPageEnd": 127,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p010",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৬.২",
+      "caption": null,
+      "body": "৭. জেনি 14 বছর বয়সে জুনিয়র বৃত্তি পরীক্ষা দিয়েছিল। 17 বছর বয়সে সে এস.এস.সি. পরীক্ষা দিবে। তার বর্তমান বয়স অসমতায় প্রকাশ করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 132,
+      "pdfPageEnd": 132,
+      "printedPageStart": 127,
+      "printedPageEnd": 127,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p011",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৬.২",
+      "caption": null,
+      "body": "৮. একখানি জেট প্লেনের গতি প্রতি সেকেন্ডে সর্বাধিক 300 মিটার। প্লেনটি 15 কি.মি. যাওয়ার প্রয়োজনীয় সময় অসমতায় প্রকাশ করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 132,
+      "pdfPageEnd": 132,
+      "printedPageStart": 127,
+      "printedPageEnd": 127,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p012",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৬.২",
+      "caption": null,
+      "body": "৯. ঢাকা থেকে সিঙ্গাপুর বিমানপথে দূরত্ব 2900 কি.মি.। জেট বিমানের সর্বোচ্চ গতিবেগ ঘণ্টায় 900 কি.মি.। কিন্তু ঢাকা থেকে সিঙ্গাপুর যাবার পথে প্রতিকূল দিকে ঘণ্টায় 100 কি.মি. বেগ বায়ু প্রবাহের সম্মুখীন হতে হয়। ঢাকা থেকে সিঙ্গাপুর বিরতিহীন উড্ডয়নের প্রয়োজনীয় সময় একটি অসমতার মাধ্যমে প্রকাশ করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 132,
+      "pdfPageEnd": 132,
+      "printedPageStart": 127,
+      "printedPageEnd": 127,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p013",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৬.২",
+      "caption": null,
+      "body": "১০. পূর্ববর্তী প্রশ্নের সূত্র ধরে, সিঙ্গাপুর থেকে ঢাকা ফেরার পথে উডডয়নের প্রয়োজনীয় সময় একটি অসমতার মাধ্যমে প্রকাশ করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 133,
+      "pdfPageEnd": 133,
+      "printedPageStart": 128,
+      "printedPageEnd": 128,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p014",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৬.২",
+      "caption": null,
+      "body": "১১. কোনো ধনাত্মক পূর্ণ সংখ্যার ৫ গুণ, সংখ্যাটির দ্বিগুণ এবং ১৫ এর সমষ্টি অপেক্ষা ছোটো। সংখ্যাটির সন্ন্য মান অসমতায় প্রকাশ করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 133,
+      "pdfPageEnd": 133,
+      "printedPageStart": 128,
+      "printedPageEnd": 128,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p015",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৬.৩",
+      "caption": null,
+      "body": "১. $5x + 5 > 25$ অসমতাটির সমাধান সেট কোনটি?\nক) $S = \\{x \\in R : x > 4\\}$\nগ) $S = \\{x \\in R : x \\le 4\\}$\nখ) $S = \\{x \\in R : x < 4\\}$\nঘ) $S = \\{x \\in R : x \\ge 4\\}$",
+      "image": null,
+      "formulas": [
+        "5x + 5 > 25",
+        "S = \\{x \\in R : x > 4\\}",
+        "S = \\{x \\in R : x \\le 4\\}",
+        "S = \\{x \\in R : x < 4\\}",
+        "S = \\{x \\in R : x \\ge 4\\}"
+      ],
+      "pdfPageStart": 138,
+      "pdfPageEnd": 138,
+      "printedPageStart": 133,
+      "printedPageEnd": 133,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p016",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৬.৩",
+      "caption": null,
+      "body": "২. $x + y = -2$ সমীকরণটিতে $x$ এর কোন মানের জন্য $y = 0$ হবে?\nক) 2\nখ) 0\nগ) 4\nঘ) -2",
+      "image": null,
+      "formulas": [
+        "x + y = -2",
+        "x",
+        "y = 0"
+      ],
+      "pdfPageStart": 138,
+      "pdfPageEnd": 138,
+      "printedPageStart": 133,
+      "printedPageEnd": 133,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p017",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৬.৩",
+      "caption": null,
+      "body": "৩. নিচের প্রত্যেক অসমতার সমাধান সেটের লেখচিত্র অঙ্কন **করো:**\nক) $x - y > -10$\nগ) $3x - y \\ge 0$\nঙ) $y < -2$\nছ) $y > x + 2$\nঝ) $y \\ge 2x$\nখ) $2x - y < 6$\nঘ) $3x - 2y \\le 12$\nচ) $x \\ge 4$\nজ) $y < x + 2$\nএও) $x + 3y < 0$",
+      "image": null,
+      "formulas": [
+        "x - y > -10",
+        "3x - y \\ge 0",
+        "y < -2",
+        "y > x + 2",
+        "y \\ge 2x",
+        "2x - y < 6",
+        "3x - 2y \\le 12",
+        "x \\ge 4",
+        "y < x + 2",
+        "x + 3y < 0"
+      ],
+      "pdfPageStart": 138,
+      "pdfPageEnd": 138,
+      "printedPageStart": 133,
+      "printedPageEnd": 133,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p018",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৬.৩",
+      "caption": null,
+      "body": "৪. দুটি সংখ্যার ১ম সংখ্যাটির ৩ গুণ থেকে ২য় সংখ্যাটির ৫ গুণ বিয়োগ করলে ৫ অপেক্ষা বৃহত্তর হয়। আবার ১ম সংখ্যা থেকে ২য় সংখ্যার ৩ গুণ বিয়োগ করলে অনূর্ধ্ব ৯ হয়।\nক) উদ্দীপকের সমস্যাগুলোকে অসমতায় দেখাও।\nখ) ১ম সংখ্যাটির ৫ গুণ, ১ম সংখ্যার দ্বিগুণ এবং ১৫ এর সমষ্টি অপেক্ষা ছোটো হলে সংখ্যাটির সন্ন্যায় মান অসমতায় প্রকাশ **করো**।\nগ) ক) এ প্রাপ্ত অসমতা যুগলের সমাধান সেটের লেখচিত্র অঙ্কন **করো**।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 138,
+      "pdfPageEnd": 138,
+      "printedPageStart": 133,
+      "printedPageEnd": 133,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p019",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৬.৩",
+      "caption": null,
+      "body": "৫. একটি কলম, একটি রাবার ও একটি খাতার মূল্য 100 টাকা। খাতার মূল্য দুটি কলমের মূল্যের থেকে বেশি। তিনটি কলমের মূল্য চারটি রাবারের থেকে বেশি এবং তিনটি রাবারের মূল্য একটি খাতার মূল্যের থেকে বেশি। যদি সকল মূল্যই পূর্ণ টাকায় হয় তাহলে প্রত্যেকটির মূল্য কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 138,
+      "pdfPageEnd": 138,
+      "printedPageStart": 133,
+      "printedPageEnd": 133,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p020",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৬.৩",
+      "caption": null,
+      "body": "৬. তিনটি পূর্ণসংখ্যার গুণফল 720 হলে সবচেয়ে ছোটো সংখ্যাটি কত বড়ো হতে পারে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 138,
+      "pdfPageEnd": 138,
+      "printedPageStart": 133,
+      "printedPageEnd": 133,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p021",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৬.৩",
+      "caption": null,
+      "body": "৭. একটি সমদ্বিবাহু ত্রিভুজের কোনো একটি কোণের সমদ্বিখণ্ডক দিয়ে ত্রিভুজকে দুটি সমদ্বিবাহু ত্রিভুজে বিভক্ত করা হলো। প্রথম সমদ্বিবাহু ত্রিভুজের একটি কোণ কত বড়ো হতে পারে? প্রথম সমদ্বিবাহু ত্রিভুজের একটি কোণ কত ছোটো হতে পারে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 138,
+      "pdfPageEnd": 138,
+      "printedPageStart": 133,
+      "printedPageEnd": 133,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p022",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৬.৩",
+      "caption": null,
+      "body": "৮. একটি আয়তাকার ঘরে এক বর্গ মিটার ক্ষেত্রফলের ৭ টি টেবিল বসানো যায়। ঘরের পরিসীমা ১৬ মিটার। তার দৈর্ঘ্য ও প্রস্থ কত হতে পারে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 139,
+      "pdfPageEnd": 139,
+      "printedPageStart": 134,
+      "printedPageEnd": 134,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p023",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৬.৩",
+      "caption": null,
+      "body": "৯. এমন কোনো ত্রিভুজ আছে কি যার কোনো শীর্ষ থেকে অঙ্কিত উচ্চতাই ১ সে.মি. এর বেশি নয় কিন্তু ক্ষেত্রফল ১০০ বর্গ সে.মি.?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 139,
+      "pdfPageEnd": 139,
+      "printedPageStart": 134,
+      "printedPageEnd": 134,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p024",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৬.৩",
+      "caption": null,
+      "body": "১০. সতেজ ও সজীব জমজ ভাই। তাদের দৌড়ানোর বেগ সমান এবং হাঁটার বেগও সমান। একদিন স্কুলে যেতে সতেজ অর্ধেক পথ হাঁটিল আর বাকি অর্ধেক দৌড়াল। কিন্তু সজীব অর্ধেক সময় হাঁটিল আর বাকি অর্ধেক সময় দৌড়াল। স্কুলে যেতে কি তাদের সমান সময় লাগবে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 139,
+      "pdfPageEnd": 139,
+      "printedPageStart": 134,
+      "printedPageEnd": 134,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p025",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "১. $2xy + y = 3$ সমীকরণটির সঠিক স্থানাংক কোনগুলো?\nক) $(1, -1), (2, -1)$\nখ) $(1, 1), (-1, -3)$\nগ) $(1, 1), (-2, 1)$\nঘ) $(-1, 1), (2, -1)$",
+      "image": null,
+      "formulas": [
+        "2xy + y = 3",
+        "(1, -1), (2, -1)",
+        "(1, 1), (-1, -3)",
+        "(1, 1), (-2, 1)",
+        "(-1, 1), (2, -1)"
+      ],
+      "pdfPageStart": 139,
+      "pdfPageEnd": 139,
+      "printedPageStart": 134,
+      "printedPageEnd": 134,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p026",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "২. $a, b$ ও $c$ তিনটি বাস্তব সংখ্যা। $a > b$ এবং $c \\neq 0$ হলে\n(i) $ac > bc$ যখন $c > 0$\n(ii) $ac < bc$ যখন $c < 0$\n(iii) $\\frac{a}{c} > \\frac{b}{c}$ যখন $c > 0$\nনিচের কোনটি সঠিক?\nক) $i, ii$\nখ) $i, iii$\nগ) $ii, iii$\nঘ) $i, ii$ ও $iii$",
+      "image": null,
+      "formulas": [
+        "a, b",
+        "c",
+        "a > b",
+        "c \\neq 0",
+        "ac > bc",
+        "c > 0",
+        "ac < bc",
+        "c < 0",
+        "\\frac{a}{c} > \\frac{b}{c}",
+        "c > 0",
+        "i, ii",
+        "i, iii",
+        "ii, iii",
+        "i, ii",
+        "iii"
+      ],
+      "pdfPageStart": 139,
+      "pdfPageEnd": 139,
+      "printedPageStart": 134,
+      "printedPageEnd": 134,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p027",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "নিম্নোক্ত অসমতাটি থেকে ৩ ও ৪ নম্বর প্রশ্নের উত্তর দাও:\n$$x \\leq \\frac{x}{4} + 3$$",
+      "image": null,
+      "formulas": [
+        "x \\leq \\frac{x}{4} + 3"
+      ],
+      "pdfPageStart": 139,
+      "pdfPageEnd": 139,
+      "printedPageStart": 134,
+      "printedPageEnd": 134,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p028",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৩. অসমতাটির সমাধান সেট কোনটি?\nক) $S = \\{x \\in R : x > 4\\}$\nখ) $S = \\{x \\in R : x < 4\\}$\nগ) $S = \\{x \\in R : x \\leq 4\\}$\nঘ) $S = \\{x \\in R : x \\geq 4\\}$",
+      "image": null,
+      "formulas": [
+        "S = \\{x \\in R : x > 4\\}",
+        "S = \\{x \\in R : x < 4\\}",
+        "S = \\{x \\in R : x \\leq 4\\}",
+        "S = \\{x \\in R : x \\geq 4\\}"
+      ],
+      "pdfPageStart": 139,
+      "pdfPageEnd": 139,
+      "printedPageStart": 134,
+      "printedPageEnd": 134,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p029",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৪. অসমতাটির সমাধান সেটের সংখ্যা রেখা কোনটি?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 139,
+      "pdfPageEnd": 139,
+      "printedPageStart": 134,
+      "printedPageEnd": 134,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p030",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "ক) drawing: number line with open circle at 4",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 139,
+      "pdfPageEnd": 139,
+      "printedPageStart": 134,
+      "printedPageEnd": 134,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p031",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "খ) drawing: number line with closed circle at 4",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 139,
+      "pdfPageEnd": 139,
+      "printedPageStart": 134,
+      "printedPageEnd": 134,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p032",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "গ) drawing: number line with a solid circle at 4 and an arrow pointing left",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 140,
+      "pdfPageEnd": 140,
+      "printedPageStart": 135,
+      "printedPageEnd": 135,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p033",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "ঘ) drawing: number line with a hollow circle at 4 and an arrow pointing right",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 140,
+      "pdfPageEnd": 140,
+      "printedPageStart": 135,
+      "printedPageEnd": 135,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p034",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "৫. হজরত শাহজালাল বিমানবন্দর থেকে সিঙ্গাপুর বিমানবন্দরের দূরত্ব ২৯০০ কি.মি.। বাংলাদেশ বিমানের সর্বোচ্চ গতিবেগ ৫০০ কি.মি./ঘণ্টা। কিন্তু হজরত শাহজালাল বিমানবন্দর থেকে সিঙ্গাপুর যাবার পথে প্রতিকূলে ৬০ কি.মি./ঘণ্টা বেগে বায়ুপ্রবাহের সম্মুখীন হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 140,
+      "pdfPageEnd": 140,
+      "printedPageStart": 135,
+      "printedPageEnd": 135,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p035",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "ক) $10(3 - 2x) \\ge 6(4 - 3x)$ অসমতাটি সমাধান করে সংখ্যারেখায় সমাধান সেট দেখাও।",
+      "image": null,
+      "formulas": [
+        "10(3 - 2x) \\ge 6(4 - 3x)"
+      ],
+      "pdfPageStart": 140,
+      "pdfPageEnd": 140,
+      "printedPageStart": 135,
+      "printedPageEnd": 135,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p036",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "খ) হজরত শাহজালাল বিমানবন্দর থেকে সিঙ্গাপুর বিমানবন্দর পর্যন্ত বিরতিহীন উড্ডয়নের প্রয়োজনীয় সময় ১০ক তে বর্ণিত অসমতা থেকে নির্ণয় কর এবং সংখ্যা রেখায় দেখাও।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 140,
+      "pdfPageEnd": 140,
+      "printedPageStart": 135,
+      "printedPageEnd": 135,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p037",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "গ) সিঙ্গাপুর থেকে হজরত শাহজালাল বিমানবন্দরে ফেরার পথে বিরতিহীন উড্ডয়নের প্রয়োজনীয় সময়কে $x$ ধরে সমস্যাকে অসমতার মাধ্যমে প্রকাশ করে লেখাচিত্রের সাহায্যে সমাধান <mark>করো।</mark>",
+      "image": null,
+      "formulas": [
+        "x"
+      ],
+      "pdfPageStart": 140,
+      "pdfPageEnd": 140,
+      "printedPageStart": 135,
+      "printedPageEnd": 135,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p038",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "৬. (ক) $y < 3$ অসমতার সমাধান সেটের লেখাচিত্র অঙ্কন <mark>করো।</mark>",
+      "image": null,
+      "formulas": [
+        "y < 3"
+      ],
+      "pdfPageStart": 140,
+      "pdfPageEnd": 140,
+      "printedPageStart": 135,
+      "printedPageEnd": 135,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p039",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "(খ) রিতা, মিতা ও বীথির বয়স যথাক্রমে $x$ বছর, $2x$ বছর, $3x$ বছর এবং তাদের তিনজনের বয়সের সমষ্টি অনুধাব ৫৪ বছর হলে, মিতার বয়স সর্বোচ্চ কত হতে পারে নির্ণয় <mark>করো।</mark>",
+      "image": null,
+      "formulas": [
+        "x",
+        "2x",
+        "3x"
+      ],
+      "pdfPageStart": 140,
+      "pdfPageEnd": 140,
+      "printedPageStart": 135,
+      "printedPageEnd": 135,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p040",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "(গ) এক টুকরা কাগজের ক্ষেত্রফল ৪৮ বর্গসেমি এবং তা থেকে $x$ সেমি দৈর্ঘ্য এবং ৬ সেমি প্রস্থ বিশিষ্ট একটি আয়তাকার কাগজ কেটে নেওয়া হলে, $x$ এর সন্ন্যব্য মান নির্ণয় <mark>করো।</mark>",
+      "image": null,
+      "formulas": [
+        "x",
+        "x"
+      ],
+      "pdfPageStart": 140,
+      "pdfPageEnd": 140,
+      "printedPageStart": 135,
+      "printedPageEnd": 135,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.ex-p041",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "(ঘ) কোনো স্বাভাবিক সংখ্যার ৫ গুণ, সংখ্যাটির তিনগুণ এবং ১২এর সমষ্টি অপেক্ষা ছোট। সংখ্যাটির সন্ন্যব্য মানগুলো নির্ণয় <mark>করো।</mark>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 140,
+      "pdfPageEnd": 140,
+      "printedPageStart": 135,
+      "printedPageEnd": 135,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

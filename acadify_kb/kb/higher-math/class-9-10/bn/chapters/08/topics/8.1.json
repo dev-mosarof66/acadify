@@ -1,0 +1,284 @@
+{
+  "id": "higher-math-9-10-bn-c08-t8.1",
+  "key": "8.1",
+  "title": "ধনাত্মক ও ঋণাত্মক কোণ",
+  "chapter": 8,
+  "ordinal": 1,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c08-t8.1-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "উপরের আলোচনায় আমরা $OA$ রশ্মিকে (আগের পৃষ্ঠার চিত্রে) ঘড়ির ক্যারার বিপরীত দিকে ঘুরিয়েছি এবং $OA$ রশ্মি দ্বারা বিভিন্ন চতুর্ভাগে উৎপন্ন কোণসমূহকে ধনাত্মক কোণ হিসেবে বিবেচনা করেছি। কোনো রশ্মিকে ঘড়ির ক্যারার বিপরীত দিকে (anticlockwise) ঘুরালে উৎপন্ন কোণকে ধনাত্মক (positive) কোণ বলা হয় এবং কোনো রশ্মিকে ঘড়ির ক্যারার দিকে (clockwise) ঘুরালে উৎপন্ন কোণকে ঋণাত্মক (negative) কোণ বলা হয়।",
+      "image": null,
+      "formulas": [
+        "OA",
+        "OA"
+      ],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.1-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাই, উপরের আলোচনা থেকে বলা যায় একটি ধনাত্মক কোণের পরিমাণ $90^\\circ$ অপেক্ষা কম হলে ১ম চতুর্ভাগে থাকবে। আবার $360^\\circ$ ও $450^\\circ$ এর মধ্যে থাকলেও কোণটি ১ম চতুর্ভাগেই থাকবে। একইভাবে কোনো ধনাত্মক কোণের মান $180^\\circ$ ও $270^\\circ$ এর মধ্যে থাকলে কোণটি ৩য় চতুর্ভাগে, $90^\\circ$ থেকে $180^\\circ$ এর মধ্যে থাকলে ২য় চতুর্ভাগে এবং $270^\\circ$ ও $360^\\circ$ এর মধ্যে থাকলে ৪র্থ চতুর্ভাগে থাকে। অনুরূপভাবে একটি ঋণাত্মক কোণের পরিমাণ $-90^\\circ$ থেকে $0^\\circ$ এর মধ্যে থাকলে ৪র্থ চতুর্ভাগে, $-180^\\circ$ থেকে $-90^\\circ$ এর মধ্যে ৩য় চতুর্ভাগে, $-270^\\circ$ থেকে $-180^\\circ$ এর মধ্যে ২য় চতুর্ভাগে ও $-360^\\circ$ থেকে $-270^\\circ$ এর মধ্যে হলে ১ম চতুর্ভাগে থাকবে। $180^\\circ$ ও $360^\\circ$ বা এর যেকোনো পূর্ণসাংখ্যিক গুণিতক $XOX'$ রেখার এবং $90^\\circ$ ও $270^\\circ$ বা এদের যেকোনো পূর্ণসাংখ্যিক বিজোড় গুণিতক $YOY'$ রেখার (আগের পৃষ্ঠার চিত্রে) উপর অবস্থান করবে। $\\angle AOA_1$ ১ম চতুর্ভাগে, $\\angle AOA_2$ ২য় চতুর্ভাগে, $\\angle AOA_3$ ৩য় চতুর্ভাগে এবং $\\angle AOA_4$ ৪র্থ চতুর্ভাগে অবস্থান করে।",
+      "image": null,
+      "formulas": [
+        "90^\\circ",
+        "360^\\circ",
+        "450^\\circ",
+        "180^\\circ",
+        "270^\\circ",
+        "90^\\circ",
+        "180^\\circ",
+        "270^\\circ",
+        "360^\\circ",
+        "-90^\\circ",
+        "0^\\circ",
+        "-180^\\circ",
+        "-90^\\circ",
+        "-270^\\circ",
+        "-180^\\circ",
+        "-360^\\circ",
+        "-270^\\circ",
+        "180^\\circ",
+        "360^\\circ",
+        "XOX'",
+        "90^\\circ",
+        "270^\\circ",
+        "YOY'",
+        "\\angle AOA_1",
+        "\\angle AOA_2",
+        "\\angle AOA_3",
+        "\\angle AOA_4"
+      ],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.1-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১.** ক) $430^\\circ$ ও খ) $545^\\circ$ কোণদ্বয়ের অবস্থান কোন চতুর্ভাগে নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "430^\\circ",
+        "545^\\circ"
+      ],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.1-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $430^\\circ = 360^\\circ + 70^\\circ = 4 \\times 90^\\circ + 70^\\circ$। $430^\\circ$ কোণটি ধনাত্মক কোণ এবং ৪ সমকোণ অপেক্ষা বড়ো কিন্তু ৫ সমকোণ অপেক্ষা ছোটো। সুতরাং $430^\\circ$ কোণটি উৎপন্ন করার জন্য কোনো রশ্মিকে ৪ সমকোণ বা একবার সম্পূর্ণ ঘুরার পর আরও $70^\\circ$ ঘুরতে হয়েছে (নিচের বামের চিত্র)। তাই $430^\\circ$ কোণটি ১ম চতুর্ভাগে অবস্থান করে।",
+      "image": null,
+      "formulas": [
+        "430^\\circ = 360^\\circ + 70^\\circ = 4 \\times 90^\\circ + 70^\\circ",
+        "430^\\circ",
+        "430^\\circ",
+        "70^\\circ",
+        "430^\\circ"
+      ],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.1-p005",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane diagram showing a 430 degree angle",
+      "image": "p153-page_3_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.1-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $545^\\circ = 540^\\circ + 5^\\circ = 6 \\times 90^\\circ + 5^\\circ$। $545^\\circ$ কোণটি ধনাত্মক এবং ৬ সমকোণ অপেক্ষা বৃহত্তর কিন্তু ৭ সমকোণ অপেক্ষা ক্ষুদ্রতর। $545^\\circ$ কোণটি উৎপন্ন করতে ঘড়ির ক্যারার বিপরীত দিকে কোনো রশ্মিকে ৬ সমকোণের চেয়ে $5^\\circ$ বেশি বা একবার সম্পূর্ণ ঘুরে আদি অবস্থানে আসার পর আরও দুই সমকোণের চেয়ে $5^\\circ$ বেশি ঘুরতে হয়েছে (উপরের ডানের চিত্র)। তাই $545^\\circ$ কোণটি তৃতীয় চতুর্ভাগে অবস্থান করে।",
+      "image": null,
+      "formulas": [
+        "545^\\circ = 540^\\circ + 5^\\circ = 6 \\times 90^\\circ + 5^\\circ",
+        "545^\\circ",
+        "545^\\circ",
+        "5^\\circ",
+        "5^\\circ",
+        "545^\\circ"
+      ],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.1-p007",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane diagram showing a 545 degree angle",
+      "image": "p153-page_3_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 153,
+      "pdfPageEnd": 153,
+      "printedPageStart": 148,
+      "printedPageEnd": 148,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.1-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:** 330°, 535°, 777° ও 1045° কোণসমূহ কোন চতুর্ভাগে অবস্থান করে তা চিত্রসহ দেখাও।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 154,
+      "pdfPageEnd": 154,
+      "printedPageStart": 149,
+      "printedPageEnd": 149,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.1-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২. ক) -520° ও খ) -750° কোণদ্বয় কোন চতুর্ভাগে আছে নির্ণয় কর।**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 154,
+      "pdfPageEnd": 154,
+      "printedPageStart": 149,
+      "printedPageEnd": 149,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.1-p010",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane showing a -520 degree angle\ndrawing: coordinate plane showing a -750 degree angle",
+      "image": "p154-page_4_image_3_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 154,
+      "pdfPageEnd": 154,
+      "printedPageStart": 149,
+      "printedPageEnd": 149,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.1-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $-520^\\circ = -450^\\circ - 70^\\circ = -5 \\times 90^\\circ - 70^\\circ$। $-520^\\circ$ একটি ঋণাত্মক কোণ এবং $-520^\\circ$ কোণটি উৎপন্ন করতে কোনো রশ্মিকে ঘড়ির কাঁটার দিকে একবার সম্পূর্ণ ঘুরে একই দিকে আরো এক সমকোণ বা $90^\\circ$ এবং $70^\\circ$ ঘুরে তৃতীয় চতুর্ভাগে আসতে হয়েছে (উপরের বামের চিত্র)। সুতরাং, $-540^\\circ$ কোণটি তৃতীয় চতুর্ভাগে অবস্থান করেছে।",
+      "image": null,
+      "formulas": [
+        "-520^\\circ = -450^\\circ - 70^\\circ = -5 \\times 90^\\circ - 70^\\circ",
+        "-520^\\circ",
+        "-520^\\circ",
+        "90^\\circ",
+        "70^\\circ",
+        "-540^\\circ"
+      ],
+      "pdfPageStart": 154,
+      "pdfPageEnd": 154,
+      "printedPageStart": 149,
+      "printedPageEnd": 149,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.1-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $-750^\\circ = -720^\\circ - 30^\\circ = -8 \\times 90^\\circ - 30^\\circ$। $-750^\\circ$ কোণটি ঋণাত্মক কোণ এবং ঘড়ির কাঁটার দিকে দুইবার সম্পূর্ণ (৪ সমকোণ) ঘুরার পর একই দিকে আরও $30^\\circ$ ঘুরতে হয়েছে (উপরের ডানের চিত্র)। সুতরাং $-750^\\circ$ কোণটির অবস্থান চতুর্থ চতুর্ভাগে।",
+      "image": null,
+      "formulas": [
+        "-750^\\circ = -720^\\circ - 30^\\circ = -8 \\times 90^\\circ - 30^\\circ",
+        "-750^\\circ",
+        "30^\\circ",
+        "-750^\\circ"
+      ],
+      "pdfPageStart": 154,
+      "pdfPageEnd": 154,
+      "printedPageStart": 149,
+      "printedPageEnd": 149,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.1-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:** $-100^\\circ$, $-365^\\circ$, $-720^\\circ$ ও $1320^\\circ$ কোণসমূহ কোন চতুর্ভাগে আছে, চিত্রসহ নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "-100^\\circ",
+        "-365^\\circ",
+        "-720^\\circ",
+        "1320^\\circ"
+      ],
+      "pdfPageStart": 154,
+      "pdfPageEnd": 154,
+      "printedPageStart": 149,
+      "printedPageEnd": 149,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

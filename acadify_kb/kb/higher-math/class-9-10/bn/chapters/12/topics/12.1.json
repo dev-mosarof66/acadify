@@ -1,0 +1,343 @@
+{
+  "id": "higher-math-9-10-bn-c12-t12.1",
+  "key": "12.1",
+  "title": "ভেক্টরের সমতা ও বিপরীত ভেক্টর",
+  "chapter": 12,
+  "ordinal": 1,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c12-t12.1-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমান ভেক্টর:** একটি ভেক্টর $<u>u</u>$ কে অপর একটি ভেক্টর $<u>v</u>$ এর সমান বলা হয় যদি",
+      "image": null,
+      "formulas": [
+        "<u>u</u>",
+        "<u>v</u>"
+      ],
+      "pdfPageStart": 277,
+      "pdfPageEnd": 277,
+      "printedPageStart": 272,
+      "printedPageEnd": 272,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.1-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $|<u>u</u>| = |<u>v</u>|$ ($<u>u</u>$ এর দৈর্ঘ্য $<u>v</u>$ এর দৈর্ঘ্যের সমান)",
+      "image": null,
+      "formulas": [
+        "|<u>u</u>| = |<u>v</u>|",
+        "<u>u</u>",
+        "<u>v</u>"
+      ],
+      "pdfPageStart": 277,
+      "pdfPageEnd": 277,
+      "printedPageStart": 272,
+      "printedPageEnd": 272,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.1-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $<u>u</u>$ এর ধারক, $<u>v</u>$ এর ধারকের সঙ্গে অভিন্ন অথবা সমান্তরাল হয়",
+      "image": null,
+      "formulas": [
+        "<u>u</u>",
+        "<u>v</u>"
+      ],
+      "pdfPageStart": 278,
+      "pdfPageEnd": 278,
+      "printedPageStart": 273,
+      "printedPageEnd": 273,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.1-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $<u>u</u>$ এর দিক $<u>v</u>$ এর দিকের সঙ্গে একই মুখী হয়।",
+      "image": null,
+      "formulas": [
+        "<u>u</u>",
+        "<u>v</u>"
+      ],
+      "pdfPageStart": 278,
+      "pdfPageEnd": 278,
+      "printedPageStart": 273,
+      "printedPageEnd": 273,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.1-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$$A \\xrightarrow{<u>u</u>} B \\qquad C \\xrightarrow{<u>u</u>} D \\qquad C \\xrightarrow{<u>v</u>} D$$\n$$A \\xrightarrow{<u>u</u>} B$$",
+      "image": null,
+      "formulas": [
+        "A \\xrightarrow{<u>u</u>} B \\qquad C \\xrightarrow{<u>u</u>} D \\qquad C \\xrightarrow{<u>v</u>} D",
+        "A \\xrightarrow{<u>u</u>} B"
+      ],
+      "pdfPageStart": 278,
+      "pdfPageEnd": 278,
+      "printedPageStart": 273,
+      "printedPageEnd": 273,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.1-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সমতার এই সংজ্ঞা যে নিচের নিয়মগুলো মনে চলে, তা সহজেই বুঝা যায়:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 278,
+      "pdfPageEnd": 278,
+      "printedPageStart": 273,
+      "printedPageEnd": 273,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.1-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $<u>u</u> = <u>u</u>$",
+      "image": null,
+      "formulas": [
+        "<u>u</u> = <u>u</u>"
+      ],
+      "pdfPageStart": 278,
+      "pdfPageEnd": 278,
+      "printedPageStart": 273,
+      "printedPageEnd": 273,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.1-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $<u>u</u> = <u>v</u>$ হলে $<u>v</u> = <u>u</u>$",
+      "image": null,
+      "formulas": [
+        "<u>u</u> = <u>v</u>",
+        "<u>v</u> = <u>u</u>"
+      ],
+      "pdfPageStart": 278,
+      "pdfPageEnd": 278,
+      "printedPageStart": 273,
+      "printedPageEnd": 273,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.1-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $<u>u</u> = <u>v</u>$ এবং $<u>v</u> = <u>w</u>$ হলে $<u>u</u> = <u>w</u>$",
+      "image": null,
+      "formulas": [
+        "<u>u</u> = <u>v</u>",
+        "<u>v</u> = <u>w</u>",
+        "<u>u</u> = <u>w</u>"
+      ],
+      "pdfPageStart": 278,
+      "pdfPageEnd": 278,
+      "printedPageStart": 273,
+      "printedPageEnd": 273,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.1-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$<u>u</u>$ এর ধারক এবং $<u>v</u>$ এর ধারক রেখাদ্বয় অভিন্ন বা সমান্তরাল হলে, আমরা সংক্ষেপে বলব $<u>u</u>$ এবং $<u>v</u>$ সমান্তরাল ভেক্টর।",
+      "image": null,
+      "formulas": [
+        "<u>u</u>",
+        "<u>v</u>",
+        "<u>u</u>",
+        "<u>v</u>"
+      ],
+      "pdfPageStart": 278,
+      "pdfPageEnd": 278,
+      "printedPageStart": 273,
+      "printedPageEnd": 273,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.1-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**দ্রষ্টব্য:** যেকোনো বিন্দু থেকে প্রদত্ত যেকোনো ভেক্টরের সমান করে একটি ভেক্টর টানা যায়। কেননা, বিন্দু $P$ এবং ভেক্টর $<u>u</u>$ দেওয়া থাকলে, আমরা $P$ বিন্দু দিয়ে $<u>u</u>$ এর ধারকের সমান্তরাল করে একটি সরলরেখা টানি, তারপর $P$ বিন্দু থেকে $<u>u</u>$ এর দিক বরাবর $|<u>u</u>|$ এর সমান করে $PQ$ রেখাংশ কেটে নিই। তাহলে অঙ্কন অনুযায়ী $\\vec{PQ} = <u>u</u>$ হয়।",
+      "image": null,
+      "formulas": [
+        "P",
+        "<u>u</u>",
+        "P",
+        "<u>u</u>",
+        "P",
+        "<u>u</u>",
+        "|<u>u</u>|",
+        "PQ",
+        "\\vec{PQ} = <u>u</u>"
+      ],
+      "pdfPageStart": 278,
+      "pdfPageEnd": 278,
+      "printedPageStart": 273,
+      "printedPageEnd": 273,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.1-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**বিপরীত ভেক্টর:** $<u>v</u>$ কে $<u>u</u>$ এর বিপরীত ভেক্টর বলা হয়, যদি",
+      "image": null,
+      "formulas": [
+        "<u>v</u>",
+        "<u>u</u>"
+      ],
+      "pdfPageStart": 278,
+      "pdfPageEnd": 278,
+      "printedPageStart": 273,
+      "printedPageEnd": 273,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.1-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $|<u>v</u>| = |<u>u</u>|$",
+      "image": null,
+      "formulas": [
+        "|<u>v</u>| = |<u>u</u>|"
+      ],
+      "pdfPageStart": 278,
+      "pdfPageEnd": 278,
+      "printedPageStart": 273,
+      "printedPageEnd": 273,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.1-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $<u>v</u>$ এর ধারক, $<u>u</u>$ এর ধারকের সঙ্গে অভিন্ন বা সমান্তরাল হয়",
+      "image": null,
+      "formulas": [
+        "<u>v</u>",
+        "<u>u</u>"
+      ],
+      "pdfPageStart": 278,
+      "pdfPageEnd": 278,
+      "printedPageStart": 273,
+      "printedPageEnd": 273,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.1-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $<u>v</u>$ এর দিক $<u>u</u>$ এর দিকের বিপরীত হয়।",
+      "image": null,
+      "formulas": [
+        "<u>v</u>",
+        "<u>u</u>"
+      ],
+      "pdfPageStart": 278,
+      "pdfPageEnd": 278,
+      "printedPageStart": 273,
+      "printedPageEnd": 273,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.1-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$<u>v</u>$ যদি $<u>u</u>$ এর বিপরীত ভেক্টর হয়, তবে $<u>u</u>$ হবে $<u>v</u>$ এর বিপরীত ভেক্টর। সমতার সংজ্ঞা থেকে বুঝা যায় যে, $<u>v</u>$ এবং $<u>w</u>$ প্রত্যোকে $<u>u</u>$ এর বিপরীত ভেক্টর হলে $<u>v</u> = <u>w</u>$ হয়। $<u>u</u>$ এর বিপরীত ভেক্টর বুঝাতে $-<u>u</u>$ লেখা হয়। $<u>u</u> = \\vec{AB}$ হলে $-<u>u</u> = \\vec{BA}$।",
+      "image": null,
+      "formulas": [
+        "<u>v</u>",
+        "<u>u</u>",
+        "<u>u</u>",
+        "<u>v</u>",
+        "<u>v</u>",
+        "<u>w</u>",
+        "<u>u</u>",
+        "<u>v</u> = <u>w</u>",
+        "<u>u</u>",
+        "-<u>u</u>",
+        "<u>u</u> = \\vec{AB}",
+        "-<u>u</u> = \\vec{BA}"
+      ],
+      "pdfPageStart": 278,
+      "pdfPageEnd": 278,
+      "printedPageStart": 273,
+      "printedPageEnd": 273,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

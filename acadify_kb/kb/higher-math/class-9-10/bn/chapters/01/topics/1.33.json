@@ -55,7 +55,7 @@
       "kind": "text",
       "section": null,
       "caption": null,
-      "body": "বর্গিত ফাংশন হতে $x$ ও $y$ এর নিম্নরূপ সংশ্লিষ্ট মান পাওয়া যায়:",
+      "body": "বর্ণিত ফাংশন হতে $x$ ও $y$ এর নিম্নরূপ সংশ্লিষ্ট মান পাওয়া যায়:",
       "image": null,
       "formulas": [
         "x",
@@ -66,6 +66,7 @@
       "printedPageStart": 31,
       "printedPageEnd": 31,
       "reviewReasons": [
+        "known-confusable-corrected",
         "verify-formula"
       ],
       "needsReview": true

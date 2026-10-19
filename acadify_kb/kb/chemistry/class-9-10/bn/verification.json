@@ -1,0 +1,30 @@
+{
+  "status": "page-checked",
+  "checkedOn": "2026-10-18",
+  "method": "Every page of the extraction was compared with its printed page image by an AI reader (one per chapter). About 980 corrections were proposed; spelling rules fixed 205 of them everywhere they occur; 180 plain word slips were accepted by a corpus check; 568 were re-read by a second AI reader on 200 dpi page halves (546 confirmed, 5 rejected, 17 unsure) and only the confirmed ones were applied. This is a machine reading, not human review.",
+  "scope": {
+    "pdfPages": 305,
+    "passages": 2211,
+    "chapters": 12
+  },
+  "residualCheck": {
+    "note": "A fresh, unprompted check of random pages (3 per chapter) after all corrections were applied.",
+    "pages": 35,
+    "passages": 267,
+    "discrepanciesReported": 13,
+    "genuineContentErrors": 11,
+    "meaningChanging": 2,
+    "meaningChangingWere": "the term সম্পৃক্ত / অসম্পৃক্ত (saturated / unsaturated) garbled twice in one passage pair",
+    "followUp": "All 11 were fixed. About 4% of passages in the sample had a spelling error; about 1% had one that changes meaning, before the fix."
+  },
+  "excluded": {
+    "inventedTables": ["t2.6-p019", "t2.6-p023", "t2.7-p022"],
+    "why": "The parser turned graphs into tables of values that are not in the book."
+  },
+  "knownGaps": [
+    "Section and sub-section headings are missing from the passages; section labels are unreliable and are not used for retrieval.",
+    "About 20 figures have a wrong, cropped or missing picture file; text that points to a figure whose picture is missing is flagged (missingFigures).",
+    "An estimated 3-4% of passages still carry a spelling error; no human has read the book.",
+    "Digits are normalised to Bangla in prose; the printed book often uses Latin digits."
+  ]
+}

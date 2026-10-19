@@ -1,0 +1,1410 @@
+{
+  "id": "higher-math-9-10-bn-c08-t8.5",
+  "key": "8.5",
+  "title": "ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios)",
+  "chapter": 8,
+  "ordinal": 6,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ত্রিকোণমিতির এই অংশে প্রথমে সূক্ষ্মকোণের ক্ষেত্রে ত্রিকোণমিতিক অনুপাতসমূহ (sine, cosine, tangent, secant, cosecant, cotangent) সম্পর্কে আলোচনা করা হবে। সূক্ষ্মকোণের অনুপাতসমূহের মাধ্যমে যেকোনো কোণের ত্রিকোণমিতিক অনুপাতসমূহ নির্ণয়ের কৌশল আলোচনা করা হবে। অনুপাতসমূহের পারস্পরিক সম্পর্ক এবং বিভিন্ন চতুর্ভাগে এদের চিহ্ন কি হবে সে সম্পর্কে ব্যাখ্যা করা হবে। ত্রিকোণমিতিক অনুপাত সংক্রান্ত কতিপয় অভেদ সম্পর্কে ধারণা দেওয়া হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 165,
+      "pdfPageEnd": 165,
+      "printedPageStart": 160,
+      "printedPageEnd": 160,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এছাড়াও আদর্শ কোণসমূহের $(0, \\frac{\\pi}{6}, \\frac{\\pi}{4}, \\frac{\\pi}{3}, \\frac{\\pi}{2})$ ত্রিকোণমিতিক অনুপাত এবং অনুপাতসমূহের সর্বোচ্চ বা সর্বনিম্নমান অর্থাৎ মানের পরিধি সম্পর্কে আলোচনাও এই অংশে অন্তর্ভুক্ত থাকবে।",
+      "image": null,
+      "formulas": [
+        "(0, \\frac{\\pi}{6}, \\frac{\\pi}{4}, \\frac{\\pi}{3}, \\frac{\\pi}{2})"
+      ],
+      "pdfPageStart": 166,
+      "pdfPageEnd": 166,
+      "printedPageStart": 161,
+      "printedPageEnd": 161,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p003",
+      "kind": "text",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ নির্ণয় করার জন্য আমরা একটি সমকোণী ত্রিভুজ $\\triangle OPQ$ বিবেচনা করি। $\\triangle OPQ$ এ $\\angle OQP$ সমকোণ। $\\angle POQ$ এর সাপেক্ষে $OP$ ত্রিভুজের অতিভুজ (hypotenuse), $OQ$ ভূমি (adjacent side), $PQ$ লম্ব (opposite side) এবং $\\angle POQ = \\theta$ (সূক্ষ্মকোণ)। $OPQ$ সমকোণী ত্রিভুজে সূক্ষ্মকোণ $\\theta$ এর জন্য ছয়টি ত্রিকোণমিতিক অনুপাত (sine, cosine, tangent, secant, cosecant, cotangent) নিম্নেুক্তভাবে সংজ্ঞায়িত করা হয়:",
+      "image": null,
+      "formulas": [
+        "\\triangle OPQ",
+        "\\triangle OPQ",
+        "\\angle OQP",
+        "\\angle POQ",
+        "OP",
+        "OQ",
+        "PQ",
+        "\\angle POQ = \\theta",
+        "OPQ",
+        "\\theta"
+      ],
+      "pdfPageStart": 166,
+      "pdfPageEnd": 166,
+      "printedPageStart": 161,
+      "printedPageEnd": 161,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p004",
+      "kind": "figure",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "drawing: A right-angled triangle with vertices O, P, and Q. The angle at O is labeled θ. The side opposite to θ is labeled 'লম্ব' (opposite), the adjacent side is labeled 'ভূমি' (adjacent), and the hypotenuse is labeled 'অতিভুজ' (hypotenuse).",
+      "image": "p166-page_16_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 166,
+      "pdfPageEnd": 166,
+      "printedPageStart": 161,
+      "printedPageEnd": 161,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p005",
+      "kind": "formula",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "$$\\sin \\theta = \\frac{PQ}{OP} = \\frac{লম্ব}{অতিভুজ}$$",
+      "image": null,
+      "formulas": [
+        "\\sin \\theta = \\frac{PQ}{OP} = \\frac{লম্ব}{অতিভুজ}"
+      ],
+      "pdfPageStart": 166,
+      "pdfPageEnd": 166,
+      "printedPageStart": 161,
+      "printedPageEnd": 161,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p006",
+      "kind": "formula",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "$$\\cos \\theta = \\frac{OQ}{OP} = \\frac{ভূমি}{অতিভুজ}$$",
+      "image": null,
+      "formulas": [
+        "\\cos \\theta = \\frac{OQ}{OP} = \\frac{ভূমি}{অতিভুজ}"
+      ],
+      "pdfPageStart": 166,
+      "pdfPageEnd": 166,
+      "printedPageStart": 161,
+      "printedPageEnd": 161,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p007",
+      "kind": "formula",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "$$\\tan \\theta = \\frac{PQ}{OQ} = \\frac{লম্ব}{ভূমি}$$",
+      "image": null,
+      "formulas": [
+        "\\tan \\theta = \\frac{PQ}{OQ} = \\frac{লম্ব}{ভূমি}"
+      ],
+      "pdfPageStart": 166,
+      "pdfPageEnd": 166,
+      "printedPageStart": 161,
+      "printedPageEnd": 161,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p008",
+      "kind": "formula",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "$$\\csc \\theta = \\frac{OP}{PQ} = \\frac{অতিভুজ}{লম্ব}$$",
+      "image": null,
+      "formulas": [
+        "\\csc \\theta = \\frac{OP}{PQ} = \\frac{অতিভুজ}{লম্ব}"
+      ],
+      "pdfPageStart": 166,
+      "pdfPageEnd": 166,
+      "printedPageStart": 161,
+      "printedPageEnd": 161,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p009",
+      "kind": "formula",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "$$\\sec \\theta = \\frac{OP}{OQ} = \\frac{অতিভুজ}{ভূমি}$$",
+      "image": null,
+      "formulas": [
+        "\\sec \\theta = \\frac{OP}{OQ} = \\frac{অতিভুজ}{ভূমি}"
+      ],
+      "pdfPageStart": 166,
+      "pdfPageEnd": 166,
+      "printedPageStart": 161,
+      "printedPageEnd": 161,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p010",
+      "kind": "formula",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "$$\\cot \\theta = \\frac{OQ}{PQ} = \\frac{ভূমি}{লম্ব}$$",
+      "image": null,
+      "formulas": [
+        "\\cot \\theta = \\frac{OQ}{PQ} = \\frac{ভূমি}{লম্ব}"
+      ],
+      "pdfPageStart": 166,
+      "pdfPageEnd": 166,
+      "printedPageStart": 161,
+      "printedPageEnd": 161,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p011",
+      "kind": "text",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "**উদাহরণ ১০.** একটি সমকোণী ত্রিভুজের ক্ষেত্রে $\\tan \\theta = 3$ হলে অন্য ত্রিকোণমিতিক অনুপাতসমূহ নির্ণয় কর।",
+      "image": null,
+      "formulas": [
+        "\\tan \\theta = 3"
+      ],
+      "pdfPageStart": 166,
+      "pdfPageEnd": 166,
+      "printedPageStart": 161,
+      "printedPageEnd": 161,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p012",
+      "kind": "text",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "**সমাধান:** ধরি, $ABC$ একটি সমকোণী ত্রিভুজ যেখানে অতিভুজ $= AC$, ভূমি $= AB$, লম্ব $= BC$ এবং $\\angle BAC = \\theta$",
+      "image": null,
+      "formulas": [
+        "ABC",
+        "= AC",
+        "= AB",
+        "= BC",
+        "\\angle BAC = \\theta"
+      ],
+      "pdfPageStart": 166,
+      "pdfPageEnd": 166,
+      "printedPageStart": 161,
+      "printedPageEnd": 161,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p013",
+      "kind": "text",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "দেওয়া আছে $\\tan \\theta = 3$",
+      "image": null,
+      "formulas": [
+        "\\tan \\theta = 3"
+      ],
+      "pdfPageStart": 166,
+      "pdfPageEnd": 166,
+      "printedPageStart": 161,
+      "printedPageEnd": 161,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p014",
+      "kind": "text",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "বা, $\\tan \\theta = \\frac{লম্ব}{ভূমি} = \\frac{3}{1}$",
+      "image": null,
+      "formulas": [
+        "\\tan \\theta = \\frac{লম্ব}{ভূমি} = \\frac{3}{1}"
+      ],
+      "pdfPageStart": 166,
+      "pdfPageEnd": 166,
+      "printedPageStart": 161,
+      "printedPageEnd": 161,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p015",
+      "kind": "text",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "$\\therefore$ লম্ব $BC = 3$ একক এবং ভূমি $AB = 1$ একক।",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "BC = 3",
+        "AB = 1"
+      ],
+      "pdfPageStart": 166,
+      "pdfPageEnd": 166,
+      "printedPageStart": 161,
+      "printedPageEnd": 161,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p016",
+      "kind": "figure",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "drawing: A right-angled triangle with vertices A, B, and C. Angle A is labeled θ. Side AB is labeled 1, side BC is labeled 3, and hypotenuse AC is labeled √10.",
+      "image": "p166-page_16_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 166,
+      "pdfPageEnd": 166,
+      "printedPageStart": 161,
+      "printedPageEnd": 161,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p017",
+      "kind": "text",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "পিথাগোরাসের উপপাদ্য অনুযায়ী\nঅতিভুজ $AC = \\sqrt{AB^2 + BC^2} = \\sqrt{1^2 + 3^2} = \\sqrt{10}$ একক",
+      "image": null,
+      "formulas": [
+        "AC = \\sqrt{AB^2 + BC^2} = \\sqrt{1^2 + 3^2} = \\sqrt{10}"
+      ],
+      "pdfPageStart": 166,
+      "pdfPageEnd": 166,
+      "printedPageStart": 161,
+      "printedPageEnd": 161,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p018",
+      "kind": "text",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "$\\therefore$ অন্য ত্রিকোণমিতিক অনুপাতসমূহ",
+      "image": null,
+      "formulas": [
+        "\\therefore"
+      ],
+      "pdfPageStart": 166,
+      "pdfPageEnd": 166,
+      "printedPageStart": 161,
+      "printedPageEnd": 161,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p019",
+      "kind": "formula",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "$$\\sin \\theta = \\frac{লম্ব}{অতিভুজ} = \\frac{3}{\\sqrt{10}}$$",
+      "image": null,
+      "formulas": [
+        "\\sin \\theta = \\frac{লম্ব}{অতিভুজ} = \\frac{3}{\\sqrt{10}}"
+      ],
+      "pdfPageStart": 166,
+      "pdfPageEnd": 166,
+      "printedPageStart": 161,
+      "printedPageEnd": 161,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p020",
+      "kind": "formula",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "$$\\csc \\theta = \\frac{অতিভুজ}{লম্ব} = \\frac{\\sqrt{10}}{3}$$",
+      "image": null,
+      "formulas": [
+        "\\csc \\theta = \\frac{অতিভুজ}{লম্ব} = \\frac{\\sqrt{10}}{3}"
+      ],
+      "pdfPageStart": 166,
+      "pdfPageEnd": 166,
+      "printedPageStart": 161,
+      "printedPageEnd": 161,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p021",
+      "kind": "formula",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "$$\\cos\\theta = \\frac{ভূমি}{অতিভুজ} = \\frac{1}{\\sqrt{10}}$$",
+      "image": null,
+      "formulas": [
+        "\\cos\\theta = \\frac{ভূমি}{অতিভুজ} = \\frac{1}{\\sqrt{10}}"
+      ],
+      "pdfPageStart": 167,
+      "pdfPageEnd": 167,
+      "printedPageStart": 162,
+      "printedPageEnd": 162,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p022",
+      "kind": "formula",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "$$\\sec\\theta = \\frac{অতিভুজ}{ভূমি} = \\frac{\\sqrt{10}}{1} = \\sqrt{10}$$",
+      "image": null,
+      "formulas": [
+        "\\sec\\theta = \\frac{অতিভুজ}{ভূমি} = \\frac{\\sqrt{10}}{1} = \\sqrt{10}"
+      ],
+      "pdfPageStart": 167,
+      "pdfPageEnd": 167,
+      "printedPageStart": 162,
+      "printedPageEnd": 162,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p023",
+      "kind": "text",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "এবং $\\cot\\theta = \\frac{ভূমি}{লম্ব} = \\frac{1}{3}$",
+      "image": null,
+      "formulas": [
+        "\\cot\\theta = \\frac{ভূমি}{লম্ব} = \\frac{1}{3}"
+      ],
+      "pdfPageStart": 167,
+      "pdfPageEnd": 167,
+      "printedPageStart": 162,
+      "printedPageEnd": 162,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p024",
+      "kind": "text",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "**লক্ষণীয়:** যেহেতু অনুপাতের কোনো একক থাকে না এবং sine, cosine, tangent, secant, cosecant, cotangent এই ছয়টি ত্রিকোণমিতিক অনুপাত, তাই এদের কোনো একক নেই।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 167,
+      "pdfPageEnd": 167,
+      "printedPageStart": 162,
+      "printedPageEnd": 162,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p025",
+      "kind": "text",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "**কাজ:** $ABC$ একটি সমকোণী ত্রিভুজ এবং $\\sin\\theta = \\frac{2}{\\sqrt{5}}$। অন্য ত্রিকোণমিতিক অনুপাতসমূহ নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "ABC",
+        "\\sin\\theta = \\frac{2}{\\sqrt{5}}"
+      ],
+      "pdfPageStart": 167,
+      "pdfPageEnd": 167,
+      "printedPageStart": 162,
+      "printedPageEnd": 162,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p026",
+      "kind": "text",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "**দ্রষ্টব্য:** ত্রিকোণমিতিক অনুপাতসমূহকে সংক্ষেপে লেখা হয়। যেমন:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 167,
+      "pdfPageEnd": 167,
+      "printedPageStart": 162,
+      "printedPageEnd": 162,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p027",
+      "kind": "text",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "$$\\sin\\theta = \\sin\\theta, \\quad \\cos\\theta = \\cos\\theta, \\quad \\tan\\theta = \\tan\\theta,$$\n$$\\sec\\theta = \\sec\\theta, \\quad \\csc\\theta = \\csc\\theta, \\quad \\cot\\theta = \\cot\\theta$$",
+      "image": null,
+      "formulas": [
+        "\\sin\\theta = \\sin\\theta, \\quad \\cos\\theta = \\cos\\theta, \\quad \\tan\\theta = \\tan\\theta,",
+        "\\sec\\theta = \\sec\\theta, \\quad \\csc\\theta = \\csc\\theta, \\quad \\cot\\theta = \\cot\\theta"
+      ],
+      "pdfPageStart": 167,
+      "pdfPageEnd": 167,
+      "printedPageStart": 162,
+      "printedPageEnd": 162,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p028",
+      "kind": "text",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "(খ) যেকোনো কোণের জন্য ত্রিকোণমিতিক অনুপাতসমূহ: এই অংশে আমরা যেকোনো কোণের জন্য ত্রিকোণমিতিক অনুপাতসমূহ নির্ণয় করব। সে জন্য আমাদের কোনটির প্রমিত বা আদর্শ অবস্থান (Standard position) জানা দরকার। কাতেরসীয় সমতলে মূলবিন্দু থেকে ডানদিকে অর্থাৎ ধনাত্মক $x$-অক্ষকে আদি রশ্মি ধরে কোনটি অঙ্কন করলেই এর আদর্শ অবস্থান পাওয়া যায়। এখানে $\\theta$ কে আমরা ত্রিকোণমিতিক কোণ হিসেবে বিবেচনা করব অর্থাৎ $\\theta$ কোণের পরিমাণ নির্দিষ্ট সীমার মধ্যে থাকবে না।",
+      "image": null,
+      "formulas": [
+        "x",
+        "\\theta",
+        "\\theta"
+      ],
+      "pdfPageStart": 167,
+      "pdfPageEnd": 167,
+      "printedPageStart": 162,
+      "printedPageEnd": 162,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p029",
+      "kind": "text",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "মনে করি, কাতেরসীয় তলে $X'OX$ রেখা $x$-অক্ষ, $Y'OY$ রেখা $y$-অক্ষ এবং $O$ বিন্দু মূলবিন্দু। ঘূর্ণায়মান রশ্মি $OA$ ধনাত্মক $x$-অক্ষ অর্থাৎ $OX$ রশ্মি থেকে শুরু করে ঘড়ির কাঁটার বিপরীত দিকে (anticlockwise) ঘুরে $OA$ অবস্থানে $\\theta$ কোণ উৎপন্ন করেছে (নিচের চিত্র)।",
+      "image": null,
+      "formulas": [
+        "X'OX",
+        "x",
+        "Y'OY",
+        "y",
+        "O",
+        "OA",
+        "x",
+        "OX",
+        "OA",
+        "\\theta"
+      ],
+      "pdfPageStart": 167,
+      "pdfPageEnd": 167,
+      "printedPageStart": 162,
+      "printedPageEnd": 162,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p030",
+      "kind": "figure",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "drawing: A coordinate plane diagram showing a line segment OA at an angle theta to the positive x-axis, with a point P(x,y) on the line and a perpendicular dropped to the x-axis at point Q.",
+      "image": "p167-page_17_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 167,
+      "pdfPageEnd": 167,
+      "printedPageStart": 162,
+      "printedPageEnd": 162,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p031",
+      "kind": "text",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "$OX$ কে $\\theta$ কোণের আদিবাহু (initial side) এবং $OA$ কে প্রান্তিকবাহু (terminal side) বলা হয়। $OA$ প্রান্তিক বাহুর উপর $O$ বিন্দু ভিন্ন $P(x, y)$ একটি বিন্দু নিই। তাহলে $OX$ থেকে বিন্দুটির লম্ব দূরত্ব $y$, $OY$ থেকে এর লম্ব দূরত্ব $x$ এবং $\\angle OQP$ সমকোণ (আগের পৃষ্ঠার চিত্র)।",
+      "image": null,
+      "formulas": [
+        "OX",
+        "\\theta",
+        "OA",
+        "OA",
+        "O",
+        "P(x, y)",
+        "OX",
+        "y",
+        "OY",
+        "x",
+        "\\angle OQP"
+      ],
+      "pdfPageStart": 168,
+      "pdfPageEnd": 168,
+      "printedPageStart": 163,
+      "printedPageEnd": 163,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p032",
+      "kind": "text",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "সুতরাং পীথাগোরাসের সূত্র অনুসারে অতিভুজ $|OP| = r = \\sqrt{x^2 + y^2}$। তাহলে যে কোনো কোণ $\\theta$ এর জন্য ত্রিকোণমিতিক অনুপাতসমূহ হবে:",
+      "image": null,
+      "formulas": [
+        "|OP| = r = \\sqrt{x^2 + y^2}",
+        "\\theta"
+      ],
+      "pdfPageStart": 168,
+      "pdfPageEnd": 168,
+      "printedPageStart": 163,
+      "printedPageEnd": 163,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p033",
+      "kind": "formula",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "$$\\sin \\theta = \\frac{লম্ব}{অতিভুজ} = \\frac{y}{r}$$",
+      "image": null,
+      "formulas": [
+        "\\sin \\theta = \\frac{লম্ব}{অতিভুজ} = \\frac{y}{r}"
+      ],
+      "pdfPageStart": 168,
+      "pdfPageEnd": 168,
+      "printedPageStart": 163,
+      "printedPageEnd": 163,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p034",
+      "kind": "formula",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "$$\\cos \\theta = \\frac{ভূমি}{অতিভুজ} = \\frac{x}{r}$$",
+      "image": null,
+      "formulas": [
+        "\\cos \\theta = \\frac{ভূমি}{অতিভুজ} = \\frac{x}{r}"
+      ],
+      "pdfPageStart": 168,
+      "pdfPageEnd": 168,
+      "printedPageStart": 163,
+      "printedPageEnd": 163,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p035",
+      "kind": "formula",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "$$\\tan \\theta = \\frac{লম্ব}{ভূমি} = \\frac{y}{x} \\quad [x \\neq 0]$$",
+      "image": null,
+      "formulas": [
+        "\\tan \\theta = \\frac{লম্ব}{ভূমি} = \\frac{y}{x} \\quad [x \\neq 0]"
+      ],
+      "pdfPageStart": 168,
+      "pdfPageEnd": 168,
+      "printedPageStart": 163,
+      "printedPageEnd": 163,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p036",
+      "kind": "formula",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "$$\\sec \\theta = \\frac{অতিভুজ}{ভূমি} = \\frac{r}{x} \\quad [x \\neq 0]$$",
+      "image": null,
+      "formulas": [
+        "\\sec \\theta = \\frac{অতিভুজ}{ভূমি} = \\frac{r}{x} \\quad [x \\neq 0]"
+      ],
+      "pdfPageStart": 168,
+      "pdfPageEnd": 168,
+      "printedPageStart": 163,
+      "printedPageEnd": 163,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p037",
+      "kind": "formula",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "$$\\csc \\theta = \\frac{অতিভুজ}{লম্ব} = \\frac{r}{y} \\quad [y \\neq 0]$$",
+      "image": null,
+      "formulas": [
+        "\\csc \\theta = \\frac{অতিভুজ}{লম্ব} = \\frac{r}{y} \\quad [y \\neq 0]"
+      ],
+      "pdfPageStart": 168,
+      "pdfPageEnd": 168,
+      "printedPageStart": 163,
+      "printedPageEnd": 163,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p038",
+      "kind": "formula",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "$$\\cot \\theta = \\frac{ভূমি}{লম্ব} = \\frac{x}{y} \\quad [y \\neq 0]$$",
+      "image": null,
+      "formulas": [
+        "\\cot \\theta = \\frac{ভূমি}{লম্ব} = \\frac{x}{y} \\quad [y \\neq 0]"
+      ],
+      "pdfPageStart": 168,
+      "pdfPageEnd": 168,
+      "printedPageStart": 163,
+      "printedPageEnd": 163,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p039",
+      "kind": "text",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "**লক্ষণীয় ১:** $P$ এবং $O$ বিন্দু ভিন্ন হওয়ায় $r = |OP| > 0$ এবং $\\sin \\theta$ ও $\\cos \\theta$ সবসময়ই অর্থবহ। $OA$ প্রান্তিক বাহু $x$-অক্ষের উপর থাকলে $y = 0$ হয় বলে এরূপ কোণের জন্য $\\csc \\theta$ ও $\\cot \\theta$ সংজ্ঞায়িত নয়।",
+      "image": null,
+      "formulas": [
+        "P",
+        "O",
+        "r = |OP| > 0",
+        "\\sin \\theta",
+        "\\cos \\theta",
+        "OA",
+        "x",
+        "y = 0",
+        "\\csc \\theta",
+        "\\cot \\theta"
+      ],
+      "pdfPageStart": 168,
+      "pdfPageEnd": 168,
+      "printedPageStart": 163,
+      "printedPageEnd": 163,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p040",
+      "kind": "text",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "অনুরূপভাবে, $OA$ প্রান্তিক বাহু $y$-অক্ষের উপর থাকলে $x = 0$ হয় এবং এরূপ কোণের জন্য $\\sec \\theta$ ও $\\tan \\theta$ সংজ্ঞায়িত হয় না।",
+      "image": null,
+      "formulas": [
+        "OA",
+        "y",
+        "x = 0",
+        "\\sec \\theta",
+        "\\tan \\theta"
+      ],
+      "pdfPageStart": 168,
+      "pdfPageEnd": 168,
+      "printedPageStart": 163,
+      "printedPageEnd": 163,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p041",
+      "kind": "text",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "**লক্ষণীয় ২:** প্রান্তিক বাহু $OA$ এর উপর $P(x, y)$ বিন্দু ভিন্ন অন্য কোনো বিন্দু $P_1(x_1, y_1)$ নিই (নিচের বামের চিত্র ও ডানের চিত্র)। $P(x, y)$ ও $P_1(x_1, y_1)$ বিন্দুদ্বয় থেকে $x$-অক্ষের উপর $PM$ ও $P_1M_1$ লম্ব আঁকি। তাহলে $\\triangle OPM$ এবং $\\triangle OP_1M_1$ সদৃশ।",
+      "image": null,
+      "formulas": [
+        "OA",
+        "P(x, y)",
+        "P_1(x_1, y_1)",
+        "P(x, y)",
+        "P_1(x_1, y_1)",
+        "x",
+        "PM",
+        "P_1M_1",
+        "\\triangle OPM",
+        "\\triangle OP_1M_1"
+      ],
+      "pdfPageStart": 168,
+      "pdfPageEnd": 168,
+      "printedPageStart": 163,
+      "printedPageEnd": 163,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p042",
+      "kind": "figure",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "drawing: geometric diagrams showing points P and P1 on a line OA with projections M and M1 on the X-axis",
+      "image": "p168-page_18_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 168,
+      "pdfPageEnd": 168,
+      "printedPageStart": 163,
+      "printedPageEnd": 163,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p043",
+      "kind": "figure",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "drawing: geometric diagram showing points P and P1 on a line OA with projections M and M1 on the X-axis",
+      "image": "p168-page_18_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 168,
+      "pdfPageEnd": 168,
+      "printedPageStart": 163,
+      "printedPageEnd": 163,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p044",
+      "kind": "text",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "অর্থাৎ $\\frac{|x|}{|x_1|} = \\frac{|y|}{|y_1|} = \\frac{|OP|}{|OP_1|} = \\frac{r}{r_1}$",
+      "image": null,
+      "formulas": [
+        "\\frac{|x|}{|x_1|} = \\frac{|y|}{|y_1|} = \\frac{|OP|}{|OP_1|} = \\frac{r}{r_1}"
+      ],
+      "pdfPageStart": 169,
+      "pdfPageEnd": 169,
+      "printedPageStart": 164,
+      "printedPageEnd": 164,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p045",
+      "kind": "text",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "এখানে, $OP = r$, $OP_1 = r_1$, $x$ ও $x_1$ এবং $y$ ও $y_1$ একই চিহ্নযুক্ত।",
+      "image": null,
+      "formulas": [
+        "OP = r",
+        "OP_1 = r_1",
+        "x",
+        "x_1",
+        "y",
+        "y_1"
+      ],
+      "pdfPageStart": 169,
+      "pdfPageEnd": 169,
+      "printedPageStart": 164,
+      "printedPageEnd": 164,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p046",
+      "kind": "text",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "$\\therefore \\frac{x}{x_1} = \\frac{y}{y_1} = \\frac{r}{r_1}$ অর্থাৎ, $\\frac{x}{r} = \\frac{x_1}{r_1}$ এবং $\\frac{y}{r} = \\frac{y_1}{r_1}$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\frac{x}{x_1} = \\frac{y}{y_1} = \\frac{r}{r_1}",
+        "\\frac{x}{r} = \\frac{x_1}{r_1}",
+        "\\frac{y}{r} = \\frac{y_1}{r_1}"
+      ],
+      "pdfPageStart": 169,
+      "pdfPageEnd": 169,
+      "printedPageStart": 164,
+      "printedPageEnd": 164,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p047",
+      "kind": "text",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "সুতরাং $\\sin\\theta = \\frac{y}{r} = \\frac{y_1}{r_1}$",
+      "image": null,
+      "formulas": [
+        "\\sin\\theta = \\frac{y}{r} = \\frac{y_1}{r_1}"
+      ],
+      "pdfPageStart": 169,
+      "pdfPageEnd": 169,
+      "printedPageStart": 164,
+      "printedPageEnd": 164,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p048",
+      "kind": "formula",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "$$\\cos\\theta = \\frac{x}{r} = \\frac{x_1}{r_1} \\quad \\quad \\tan\\theta = \\frac{y}{x} = \\frac{y_1}{x_1}  ইত্যাদি।$$",
+      "image": null,
+      "formulas": [
+        "\\cos\\theta = \\frac{x}{r} = \\frac{x_1}{r_1} \\quad \\quad \\tan\\theta = \\frac{y}{x} = \\frac{y_1}{x_1}  ইত্যাদি।"
+      ],
+      "pdfPageStart": 169,
+      "pdfPageEnd": 169,
+      "printedPageStart": 164,
+      "printedPageEnd": 164,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p049",
+      "kind": "text",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "**সিদ্ধান্ত:** ত্রিকোণমিতিক অনুপাতসমূহের মান প্রান্তিক রশ্মি $OA$ এর উপর নির্বাচিত বিন্দু $P$ এর উপর নির্ভর করে না।",
+      "image": null,
+      "formulas": [
+        "OA",
+        "P"
+      ],
+      "pdfPageStart": 169,
+      "pdfPageEnd": 169,
+      "printedPageStart": 164,
+      "printedPageEnd": 164,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p050",
+      "kind": "text",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "**লক্ষণীয় ৩:** $\\theta$ সূক্ষ্মকোণ হলে প্রমিত বা আদর্শ অবস্থানে এর প্রান্তিক বাহু $OA$ প্রথম চতুর্ভাগে থাকে এবং $\\theta = \\angle XOA$ হয় (পাশের চিত্র)। $OA$ বাহুতে যেকোনো বিন্দু $P(x, y)$ নিয়ে এবং $P$ থেকে $OX$ এর উপর $PM$ লম্ব টেনে দেখা যায় যে, $OM = x$, $PM = y$ এবং $OP = r$ ধরে পূর্ববর্তী আলোচনার (ক) ও (খ) থেকে $\\theta$ কোণের অনুপাতগুলোর একই মান পাওয়া যায়।",
+      "image": null,
+      "formulas": [
+        "\\theta",
+        "OA",
+        "\\theta = \\angle XOA",
+        "OA",
+        "P(x, y)",
+        "P",
+        "OX",
+        "PM",
+        "OM = x",
+        "PM = y",
+        "OP = r",
+        "\\theta"
+      ],
+      "pdfPageStart": 169,
+      "pdfPageEnd": 169,
+      "printedPageStart": 164,
+      "printedPageEnd": 164,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p051",
+      "kind": "figure",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "drawing: geometric diagram showing a line segment OA in the first quadrant with point P on it, forming angle theta with the X-axis, and a perpendicular PM to the X-axis",
+      "image": "p169-page_19_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 169,
+      "pdfPageEnd": 169,
+      "printedPageStart": 164,
+      "printedPageEnd": 164,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p052",
+      "kind": "text",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "**(গ) ত্রিকোণমিতিক অনুপাতগুলোর পারস্পরিক সম্পর্ক:** ত্রিকোণমিতিক অনুপাতসমূহের সংজ্ঞা থেকে আমরা লক্ষ্য করি যে,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 169,
+      "pdfPageEnd": 169,
+      "printedPageStart": 164,
+      "printedPageEnd": 164,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p053",
+      "kind": "formula",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "$$\\sin\\theta = \\frac{লম্ব}{অতিভুজ},  cosec\\theta = \\frac{অতিভুজ}{লম্ব} = \\frac{1}{\\frac{লম্ব}{অতিভুজ}} = \\frac{1}{\\sin\\theta}$$",
+      "image": null,
+      "formulas": [
+        "\\sin\\theta = \\frac{লম্ব}{অতিভুজ},  cosec\\theta = \\frac{অতিভুজ}{লম্ব} = \\frac{1}{\\frac{লম্ব}{অতিভুজ}} = \\frac{1}{\\sin\\theta}"
+      ],
+      "pdfPageStart": 169,
+      "pdfPageEnd": 169,
+      "printedPageStart": 164,
+      "printedPageEnd": 164,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p054",
+      "kind": "formula",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "$$\\therefore \\sin\\theta = \\frac{1}{cosec\\theta}  এবং cosec\\theta = \\frac{1}{\\sin\\theta}$$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\sin\\theta = \\frac{1}{cosec\\theta}  এবং cosec\\theta = \\frac{1}{\\sin\\theta}"
+      ],
+      "pdfPageStart": 169,
+      "pdfPageEnd": 169,
+      "printedPageStart": 164,
+      "printedPageEnd": 164,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p055",
+      "kind": "figure",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "drawing: geometric diagram showing a line segment OA in the first quadrant with point P on it, forming angle theta with the X-axis, and a perpendicular PM to the X-axis",
+      "image": "p169-page_19_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 169,
+      "pdfPageEnd": 169,
+      "printedPageStart": 164,
+      "printedPageEnd": 164,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p056",
+      "kind": "text",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "অনুরূপভাবে, $\\cos\\theta = \\frac{ভূমি}{অতিভুজ}, \\sec\\theta = \\frac{অতিভুজ}{ভূমি} = \\frac{1}{\\frac{ভূমি}{অতিভুজ}} = \\frac{1}{\\cos\\theta}$ অর্থাৎ $\\cos\\theta = \\frac{1}{\\sec\\theta}$ এবং $\\sec\\theta = \\frac{1}{\\cos\\theta}$",
+      "image": null,
+      "formulas": [
+        "\\cos\\theta = \\frac{ভূমি}{অতিভুজ}, \\sec\\theta = \\frac{অতিভুজ}{ভূমি} = \\frac{1}{\\frac{ভূমি}{অতিভুজ}} = \\frac{1}{\\cos\\theta}",
+        "\\cos\\theta = \\frac{1}{\\sec\\theta}",
+        "\\sec\\theta = \\frac{1}{\\cos\\theta}"
+      ],
+      "pdfPageStart": 169,
+      "pdfPageEnd": 170,
+      "printedPageStart": 164,
+      "printedPageEnd": 165,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p057",
+      "kind": "text",
+      "section": "(ক) সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios of Acute Angles):",
+      "caption": null,
+      "body": "একইভাবে, $\\tan\\theta = \\frac{1}{\\cot\\theta}$ এবং $\\cot\\theta = \\frac{1}{\\tan\\theta}$",
+      "image": null,
+      "formulas": [
+        "\\tan\\theta = \\frac{1}{\\cot\\theta}",
+        "\\cot\\theta = \\frac{1}{\\tan\\theta}"
+      ],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p058",
+      "kind": "text",
+      "section": "ত্রিকোণমিতিক অনুপাতসংক্রান্ত কতিপয় সহজ অভেদাবলি (Identities):",
+      "caption": null,
+      "body": "(i) $\\sin^2\\theta + \\cos^2\\theta = 1$",
+      "image": null,
+      "formulas": [
+        "\\sin^2\\theta + \\cos^2\\theta = 1"
+      ],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p059",
+      "kind": "text",
+      "section": "ত্রিকোণমিতিক অনুপাতসংক্রান্ত কতিপয় সহজ অভেদাবলি (Identities):",
+      "caption": null,
+      "body": "**প্রমাণ:** পাশের চিত্র থেকে আমরা দেখি,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p060",
+      "kind": "figure",
+      "section": "ত্রিকোণমিতিক অনুপাতসংক্রান্ত কতিপয় সহজ অভেদাবলি (Identities):",
+      "caption": null,
+      "body": "drawing: A geometric diagram showing a right triangle within a Cartesian coordinate system. The angle θ is at the origin O, with adjacent side x, opposite side y, and hypotenuse r. Point A is at the end of the hypotenuse.",
+      "image": "p170-page_20_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p061",
+      "kind": "formula",
+      "section": "ত্রিকোণমিতিক অনুপাতসংক্রান্ত কতিপয় সহজ অভেদাবলি (Identities):",
+      "caption": null,
+      "body": "$$\\cos\\theta = \\frac{ভূমি}{অতিভুজ} = \\frac{x}{r}$$",
+      "image": null,
+      "formulas": [
+        "\\cos\\theta = \\frac{ভূমি}{অতিভুজ} = \\frac{x}{r}"
+      ],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p062",
+      "kind": "formula",
+      "section": "ত্রিকোণমিতিক অনুপাতসংক্রান্ত কতিপয় সহজ অভেদাবলি (Identities):",
+      "caption": null,
+      "body": "$$\\sin\\theta = \\frac{লম্ব}{অতিভুজ} = \\frac{y}{r}$$",
+      "image": null,
+      "formulas": [
+        "\\sin\\theta = \\frac{লম্ব}{অতিভুজ} = \\frac{y}{r}"
+      ],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p063",
+      "kind": "text",
+      "section": "ত্রিকোণমিতিক অনুপাতসংক্রান্ত কতিপয় সহজ অভেদাবলি (Identities):",
+      "caption": null,
+      "body": "এবং $r^2 = x^2 + y^2$",
+      "image": null,
+      "formulas": [
+        "r^2 = x^2 + y^2"
+      ],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p064",
+      "kind": "formula",
+      "section": "ত্রিকোণমিতিক অনুপাতসংক্রান্ত কতিপয় সহজ অভেদাবলি (Identities):",
+      "caption": null,
+      "body": "$$\\therefore \\sin^2\\theta + \\cos^2\\theta = \\frac{x^2}{r^2} + \\frac{y^2}{r^2} = \\frac{x^2 + y^2}{r^2} = \\frac{r^2}{r^2} = 1$$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\sin^2\\theta + \\cos^2\\theta = \\frac{x^2}{r^2} + \\frac{y^2}{r^2} = \\frac{x^2 + y^2}{r^2} = \\frac{r^2}{r^2} = 1"
+      ],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p065",
+      "kind": "formula",
+      "section": "ত্রিকোণমিতিক অনুপাতসংক্রান্ত কতিপয় সহজ অভেদাবলি (Identities):",
+      "caption": null,
+      "body": "$$\\therefore \\sin^2\\theta + \\cos^2\\theta = 1  (প্রমাণিত)।$$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\sin^2\\theta + \\cos^2\\theta = 1  (প্রমাণিত)।"
+      ],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p066",
+      "kind": "text",
+      "section": "ত্রিকোণমিতিক অনুপাতসংক্রান্ত কতিপয় সহজ অভেদাবলি (Identities):",
+      "caption": null,
+      "body": "(i) নং সূত্র থেকে আমরা পাই, $\\sin^2\\theta = 1 - \\cos^2\\theta$ বা, $\\cos^2\\theta = 1 - \\sin^2\\theta$",
+      "image": null,
+      "formulas": [
+        "\\sin^2\\theta = 1 - \\cos^2\\theta",
+        "\\cos^2\\theta = 1 - \\sin^2\\theta"
+      ],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p067",
+      "kind": "text",
+      "section": "ত্রিকোণমিতিক অনুপাতসংক্রান্ত কতিপয় সহজ অভেদাবলি (Identities):",
+      "caption": null,
+      "body": "অনুরূপভাবে প্রমাণ করা যায় যে,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p068",
+      "kind": "text",
+      "section": "ত্রিকোণমিতিক অনুপাতসংক্রান্ত কতিপয় সহজ অভেদাবলি (Identities):",
+      "caption": null,
+      "body": "(ii) $1 + \\tan^2\\theta = \\sec^2\\theta$ বা, $\\sec^2\\theta - 1 = \\tan^2\\theta$",
+      "image": null,
+      "formulas": [
+        "1 + \\tan^2\\theta = \\sec^2\\theta",
+        "\\sec^2\\theta - 1 = \\tan^2\\theta"
+      ],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p069",
+      "kind": "text",
+      "section": "ত্রিকোণমিতিক অনুপাতসংক্রান্ত কতিপয় সহজ অভেদাবলি (Identities):",
+      "caption": null,
+      "body": "(iii) $1 + \\cot^2\\theta = \\csc^2\\theta$ বা, $\\csc^2\\theta - 1 = \\cot^2\\theta$",
+      "image": null,
+      "formulas": [
+        "1 + \\cot^2\\theta = \\csc^2\\theta",
+        "\\csc^2\\theta - 1 = \\cot^2\\theta"
+      ],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p070",
+      "kind": "text",
+      "section": "ত্রিকোণমিতিক অনুপাতসংক্রান্ত কতিপয় সহজ অভেদাবলি (Identities):",
+      "caption": null,
+      "body": "**কাজ:** প্রমাণ করো যে, (চিত্রের সাহায্যে)",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.5-p071",
+      "kind": "text",
+      "section": "ত্রিকোণমিতিক অনুপাতসংক্রান্ত কতিপয় সহজ অভেদাবলি (Identities):",
+      "caption": null,
+      "body": "ক) $\\sec^2\\theta - \\tan^2\\theta = 1$ খ) $\\csc^2\\theta - \\cot^2\\theta = 1$",
+      "image": null,
+      "formulas": [
+        "\\sec^2\\theta - \\tan^2\\theta = 1",
+        "\\csc^2\\theta - \\cot^2\\theta = 1"
+      ],
+      "pdfPageStart": 170,
+      "pdfPageEnd": 170,
+      "printedPageStart": 165,
+      "printedPageEnd": 165,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

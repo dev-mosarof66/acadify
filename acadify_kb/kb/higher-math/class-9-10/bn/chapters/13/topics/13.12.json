@@ -1,0 +1,777 @@
+{
+  "id": "higher-math-9-10-bn-c13-t13.12",
+  "key": "13.12",
+  "title": "৬. গোলক (Sphere)",
+  "chapter": 13,
+  "ordinal": 12,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কোনো অর্ধবৃত্ত ক্ষেত্রের ব্যাসকে অক্ষ ধরে ঐ ব্যাসের চতুর্দিকে অর্ধবৃত্ত ক্ষেত্রকে একবার ঘুরিয়ে আনলে যে ঘনবস্তু উৎপন্ন হয় তাকে গোলক বলে। অর্ধবৃত্তটির কেন্দ্রই গোলকের কেন্দ্র। এই ঘূর্ণনের ফলে অর্ধবৃত্ত যে তল উৎপন্ন করে তাই হল গোলকের তল।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 303,
+      "pdfPageEnd": 303,
+      "printedPageStart": 298,
+      "printedPageEnd": 298,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p002",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: geometric diagrams of a sphere and its cross-sections",
+      "image": "p303-page_12_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 303,
+      "pdfPageEnd": 303,
+      "printedPageStart": 298,
+      "printedPageEnd": 298,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$CQAR$ গোলকের কেন্দ্র $O$, ব্যাসার্ধ $OA = OB = OC$ এবং কেন্দ্র $O$ থেকে $h$ দূরত্বে $P$ বিন্দুর মধ্য দিয়ে $OA$ রেখার সাথে লম্ব হয় এরূপ একটি সমতল গোলকটিকে ছেদ করে একটি $QBR$ বৃত্ত উৎপন্ন করেছে। এই বৃত্তের কেন্দ্র $P$ এবং ব্যাসার্ধ $PB$।",
+      "image": null,
+      "formulas": [
+        "CQAR",
+        "O",
+        "OA = OB = OC",
+        "O",
+        "h",
+        "P",
+        "OA",
+        "QBR",
+        "P",
+        "PB"
+      ],
+      "pdfPageStart": 303,
+      "pdfPageEnd": 303,
+      "printedPageStart": 298,
+      "printedPageEnd": 298,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p004",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\therefore OB^2 = OP^2 + PB^2$$",
+      "image": null,
+      "formulas": [
+        "\\therefore OB^2 = OP^2 + PB^2"
+      ],
+      "pdfPageStart": 303,
+      "pdfPageEnd": 303,
+      "printedPageStart": 298,
+      "printedPageEnd": 298,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p005",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\therefore PB^2 = OB^2 - OP^2 = r^2 - h^2$$",
+      "image": null,
+      "formulas": [
+        "\\therefore PB^2 = OB^2 - OP^2 = r^2 - h^2"
+      ],
+      "pdfPageStart": 303,
+      "pdfPageEnd": 303,
+      "printedPageStart": 298,
+      "printedPageEnd": 298,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গোলকের ব্যাসার্ধ $r$ হলে,",
+      "image": null,
+      "formulas": [
+        "r"
+      ],
+      "pdfPageStart": 303,
+      "pdfPageEnd": 303,
+      "printedPageStart": 298,
+      "printedPageEnd": 298,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) গোলকের পৃষ্ঠতলের ক্ষেত্রফল $= 4\\pi r^2$ বর্গ একক।",
+      "image": null,
+      "formulas": [
+        "= 4\\pi r^2"
+      ],
+      "pdfPageStart": 303,
+      "pdfPageEnd": 303,
+      "printedPageStart": 298,
+      "printedPageEnd": 298,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) আয়তন $= \\frac{4}{3}\\pi r^3$ ঘন একক।",
+      "image": null,
+      "formulas": [
+        "= \\frac{4}{3}\\pi r^3"
+      ],
+      "pdfPageStart": 303,
+      "pdfPageEnd": 303,
+      "printedPageStart": 298,
+      "printedPageEnd": 298,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $h$ উচ্চতায় তলচ্ছেদে উৎপন্ন বৃত্তের ব্যাসার্ধ $= \\sqrt{r^2 - h^2}$ একক।",
+      "image": null,
+      "formulas": [
+        "h",
+        "= \\sqrt{r^2 - h^2}"
+      ],
+      "pdfPageStart": 303,
+      "pdfPageEnd": 303,
+      "printedPageStart": 298,
+      "printedPageEnd": 298,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:** একটি খেলনা বল বা ফুটবল নিয়ে তার ব্যাসার্ধ ও আয়তন নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 303,
+      "pdfPageEnd": 303,
+      "printedPageStart": 298,
+      "printedPageEnd": 298,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৫.** ৪ সে.মি. ব্যাসের একটি লৌহ গোলককে পিটিয়ে $\\frac{2}{3}$ সে.মি. পুরু একটি বৃত্তাকার লৌহপাত প্রস্তুত করা হল। ঐ পাতের ব্যাসার্ধ কত?",
+      "image": null,
+      "formulas": [
+        "\\frac{2}{3}"
+      ],
+      "pdfPageStart": 303,
+      "pdfPageEnd": 303,
+      "printedPageStart": 298,
+      "printedPageEnd": 298,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** লৌহ গোলকের ব্যাসার্ধ $= \\frac{4}{2} = 2$ সে.মি.।",
+      "image": null,
+      "formulas": [
+        "= \\frac{4}{2} = 2"
+      ],
+      "pdfPageStart": 303,
+      "pdfPageEnd": 303,
+      "printedPageStart": 298,
+      "printedPageEnd": 298,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ তার আয়তন $= \\frac{4}{3}\\pi \\times 2^3 = \\frac{32}{3}\\pi$ ঘন সে.মি.।",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "= \\frac{4}{3}\\pi \\times 2^3 = \\frac{32}{3}\\pi"
+      ],
+      "pdfPageStart": 303,
+      "pdfPageEnd": 303,
+      "printedPageStart": 298,
+      "printedPageEnd": 298,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "মনে করি, পাতের ব্যাসার্ধ $= r$ সে.মি.। পাতটি $\\frac{2}{3}$ সে.মি. পুরু।",
+      "image": null,
+      "formulas": [
+        "= r",
+        "\\frac{2}{3}"
+      ],
+      "pdfPageStart": 303,
+      "pdfPageEnd": 303,
+      "printedPageStart": 298,
+      "printedPageEnd": 298,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ পাতের আয়তন $= \\pi r^2 \\times \\frac{2}{3}$ ঘন সে.মি. $= \\frac{2}{3}\\pi r^2$।",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "= \\pi r^2 \\times \\frac{2}{3}",
+        "= \\frac{2}{3}\\pi r^2"
+      ],
+      "pdfPageStart": 303,
+      "pdfPageEnd": 303,
+      "printedPageStart": 298,
+      "printedPageEnd": 298,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "শর্তানুসারে, $\\frac{2}{3}\\pi r^2 = \\frac{32}{3}\\pi$ বা, $r^2 = 16$ বা, $r = 4$",
+      "image": null,
+      "formulas": [
+        "\\frac{2}{3}\\pi r^2 = \\frac{32}{3}\\pi",
+        "r^2 = 16",
+        "r = 4"
+      ],
+      "pdfPageStart": 304,
+      "pdfPageEnd": 304,
+      "printedPageStart": 299,
+      "printedPageEnd": 299,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ পাতের ব্যাসার্ধ $= 4$ সে.মি.",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "= 4"
+      ],
+      "pdfPageStart": 304,
+      "pdfPageEnd": 304,
+      "printedPageStart": 299,
+      "printedPageEnd": 299,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৬.** সমান উচ্চতা বিশিষ্ট একটি সমবৃত্তভূমিক কোণক, একটি অর্ধ গোলক ও একটি সিলিন্ডার সমান সমান ভূমির উপর অবস্থিত। দেখাও যে, তাদের আয়তনের অনুপাত $1 : 2 : 3$।",
+      "image": null,
+      "formulas": [
+        "1 : 2 : 3"
+      ],
+      "pdfPageStart": 304,
+      "pdfPageEnd": 304,
+      "printedPageStart": 299,
+      "printedPageEnd": 299,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** মনে করি, সাধারণ উচ্চতা ও ভূমির ব্যাসার্ধ যথাক্রমে $h$ এবং $r$ একক। যেহেতু অর্ধ গোলকের উচ্চতা ও ব্যাসার্ধ সমান সুতরাং, $h = r$",
+      "image": null,
+      "formulas": [
+        "h",
+        "r",
+        "h = r"
+      ],
+      "pdfPageStart": 304,
+      "pdfPageEnd": 304,
+      "printedPageStart": 299,
+      "printedPageEnd": 299,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাহলে কোণকের আয়তন $= \\frac{1}{3}\\pi r^2 h = \\frac{1}{3}\\pi r^3$ ঘন একক",
+      "image": null,
+      "formulas": [
+        "= \\frac{1}{3}\\pi r^2 h = \\frac{1}{3}\\pi r^3"
+      ],
+      "pdfPageStart": 304,
+      "pdfPageEnd": 304,
+      "printedPageStart": 299,
+      "printedPageEnd": 299,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্ধ গোলকের আয়তন $= \\frac{1}{2}(\\frac{4}{3}\\pi r^3) = \\frac{2}{3}\\pi r^3$ ঘন একক",
+      "image": null,
+      "formulas": [
+        "= \\frac{1}{2}(\\frac{4}{3}\\pi r^3) = \\frac{2}{3}\\pi r^3"
+      ],
+      "pdfPageStart": 304,
+      "pdfPageEnd": 304,
+      "printedPageStart": 299,
+      "printedPageEnd": 299,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সিলিন্ডারের আয়তন $= \\pi r^2 h = \\pi r^3$ ঘন একক",
+      "image": null,
+      "formulas": [
+        "= \\pi r^2 h = \\pi r^3"
+      ],
+      "pdfPageStart": 304,
+      "pdfPageEnd": 304,
+      "printedPageStart": 299,
+      "printedPageEnd": 299,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণেয় অনুপাত $= \\frac{1}{3}\\pi r^3 : \\frac{2}{3}\\pi r^3 : \\pi r^3 = \\frac{1}{3} : \\frac{2}{3} : 1 = 1 : 2 : 3$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "= \\frac{1}{3}\\pi r^3 : \\frac{2}{3}\\pi r^3 : \\pi r^3 = \\frac{1}{3} : \\frac{2}{3} : 1 = 1 : 2 : 3"
+      ],
+      "pdfPageStart": 304,
+      "pdfPageEnd": 304,
+      "printedPageStart": 299,
+      "printedPageEnd": 299,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৭.** একটি আয়তাকার লৌহফলকের দৈর্ঘ্য, প্রস্থ ও উচ্চতা যথাক্রমে $10, 8$ ও $5\\frac{1}{2}$ সে.মি.। এই ফলকটিকে গলিয়ে $\\frac{1}{2}$ সে.মি. ব্যাসার্ধ বিশিষ্ট কতগুলো গোলকার গুলি প্রস্তুত করা যাবে?",
+      "image": null,
+      "formulas": [
+        "10, 8",
+        "5\\frac{1}{2}",
+        "\\frac{1}{2}"
+      ],
+      "pdfPageStart": 304,
+      "pdfPageEnd": 304,
+      "printedPageStart": 299,
+      "printedPageEnd": 299,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p025",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** লৌহফলকের আয়তন $= 10 \\times 8 \\times 5\\frac{1}{2}$ ঘন সে.মি. $= 440$ ঘন সে.মি.",
+      "image": null,
+      "formulas": [
+        "= 10 \\times 8 \\times 5\\frac{1}{2}",
+        "= 440"
+      ],
+      "pdfPageStart": 304,
+      "pdfPageEnd": 304,
+      "printedPageStart": 299,
+      "printedPageEnd": 299,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p026",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "মনে করি, গুলির সংখ্যা $= n$",
+      "image": null,
+      "formulas": [
+        "= n"
+      ],
+      "pdfPageStart": 304,
+      "pdfPageEnd": 304,
+      "printedPageStart": 299,
+      "printedPageEnd": 299,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p027",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore n$ সংখ্যক গুলির আয়তন $= n \\times \\frac{4}{3}\\pi(\\frac{1}{2})^3 = \\frac{n\\pi}{6}$ ঘন সে.মি.",
+      "image": null,
+      "formulas": [
+        "\\therefore n",
+        "= n \\times \\frac{4}{3}\\pi(\\frac{1}{2})^3 = \\frac{n\\pi}{6}"
+      ],
+      "pdfPageStart": 304,
+      "pdfPageEnd": 304,
+      "printedPageStart": 299,
+      "printedPageEnd": 299,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p028",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "প্রশ্নানুসারে, $\\frac{n\\pi}{6} = 440$ বা, $n = \\frac{440 \\times 6}{\\pi} = 840.34$",
+      "image": null,
+      "formulas": [
+        "\\frac{n\\pi}{6} = 440",
+        "n = \\frac{440 \\times 6}{\\pi} = 840.34"
+      ],
+      "pdfPageStart": 304,
+      "pdfPageEnd": 304,
+      "printedPageStart": 299,
+      "printedPageEnd": 299,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p029",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ নির্ণেয় গুলির সংখ্যা $840$ টি।",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "840"
+      ],
+      "pdfPageStart": 304,
+      "pdfPageEnd": 304,
+      "printedPageStart": 299,
+      "printedPageEnd": 299,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p030",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৮.** একটি সমবৃত্তভূমিক কোণকের আয়তন $V$, বক্রতলের ক্ষেত্রফল $S$, ভূমির ব্যাসার্ধ $r$, উচ্চতা $h$ এবং অর্ধ শীর্ষকোণ $\\alpha$ হলে দেখাও যে,",
+      "image": null,
+      "formulas": [
+        "V",
+        "S",
+        "r",
+        "h",
+        "\\alpha"
+      ],
+      "pdfPageStart": 304,
+      "pdfPageEnd": 304,
+      "printedPageStart": 299,
+      "printedPageEnd": 299,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p031",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $S = \\frac{\\pi h^2 \\tan \\alpha}{\\cos \\alpha} = \\frac{\\pi r^2}{\\sin \\alpha}$ বর্গ একক",
+      "image": null,
+      "formulas": [
+        "S = \\frac{\\pi h^2 \\tan \\alpha}{\\cos \\alpha} = \\frac{\\pi r^2}{\\sin \\alpha}"
+      ],
+      "pdfPageStart": 304,
+      "pdfPageEnd": 304,
+      "printedPageStart": 299,
+      "printedPageEnd": 299,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p032",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $V = \\frac{1}{3}\\pi h^3 \\tan^2 \\alpha = \\frac{\\pi r^3}{3 \\tan \\alpha}$ ঘন একক",
+      "image": null,
+      "formulas": [
+        "V = \\frac{1}{3}\\pi h^3 \\tan^2 \\alpha = \\frac{\\pi r^3}{3 \\tan \\alpha}"
+      ],
+      "pdfPageStart": 304,
+      "pdfPageEnd": 304,
+      "printedPageStart": 299,
+      "printedPageEnd": 299,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p033",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A cone with height h, slant height l, and base radius r, with the vertex angle at the apex labeled α.",
+      "image": "p305-page_14_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 305,
+      "pdfPageEnd": 305,
+      "printedPageStart": 300,
+      "printedPageEnd": 300,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p034",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** উপরের চিত্রে, কোণকের উচ্চতা $OA = h$ হেলানো উচ্চতা $AC = l$, ভূমির ব্যাসার্ধ $OC = r$ এবং অর্ধ শীর্ষকোণ $\\angle OAC = \\alpha$। সুতরাং, হেলানো উচ্চতা $l = \\sqrt{h^2 + r^2}$।",
+      "image": null,
+      "formulas": [
+        "OA = h",
+        "AC = l",
+        "OC = r",
+        "\\angle OAC = \\alpha",
+        "l = \\sqrt{h^2 + r^2}"
+      ],
+      "pdfPageStart": 305,
+      "pdfPageEnd": 305,
+      "printedPageStart": 300,
+      "printedPageEnd": 300,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p035",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "চিত্র হতে দেখা যায় যে, $\\tan \\alpha = \\frac{r}{h}$",
+      "image": null,
+      "formulas": [
+        "\\tan \\alpha = \\frac{r}{h}"
+      ],
+      "pdfPageStart": 305,
+      "pdfPageEnd": 305,
+      "printedPageStart": 300,
+      "printedPageEnd": 300,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p036",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore r = h \\tan \\alpha$ বা, $h = \\frac{r}{\\tan \\alpha} = r \\cot \\alpha$",
+      "image": null,
+      "formulas": [
+        "\\therefore r = h \\tan \\alpha",
+        "h = \\frac{r}{\\tan \\alpha} = r \\cot \\alpha"
+      ],
+      "pdfPageStart": 305,
+      "pdfPageEnd": 305,
+      "printedPageStart": 300,
+      "printedPageEnd": 300,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p037",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $S = \\pi r l = \\pi r \\sqrt{h^2 + h^2 \\tan^2 \\alpha} = \\pi r h \\sqrt{1 + \\tan^2 \\alpha} = \\pi r h \\sqrt{\\sec^2 \\alpha}$\n$= \\pi r h \\sec \\alpha = \\pi (h \\tan \\alpha) h \\sec \\alpha = \\frac{\\pi h^2 \\tan \\alpha}{\\cos \\alpha}$ বর্গ একক",
+      "image": null,
+      "formulas": [
+        "S = \\pi r l = \\pi r \\sqrt{h^2 + h^2 \\tan^2 \\alpha} = \\pi r h \\sqrt{1 + \\tan^2 \\alpha} = \\pi r h \\sqrt{\\sec^2 \\alpha}",
+        "= \\pi r h \\sec \\alpha = \\pi (h \\tan \\alpha) h \\sec \\alpha = \\frac{\\pi h^2 \\tan \\alpha}{\\cos \\alpha}"
+      ],
+      "pdfPageStart": 305,
+      "pdfPageEnd": 305,
+      "printedPageStart": 300,
+      "printedPageEnd": 300,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p038",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার, $S = \\pi r h \\sec \\alpha = \\frac{\\pi r}{\\cos \\alpha} r \\cot \\alpha = \\frac{\\pi r^2}{\\cos \\alpha} \\frac{\\cos \\alpha}{\\sin \\alpha} = \\frac{\\pi r^2}{\\sin \\alpha}$ বর্গ একক",
+      "image": null,
+      "formulas": [
+        "S = \\pi r h \\sec \\alpha = \\frac{\\pi r}{\\cos \\alpha} r \\cot \\alpha = \\frac{\\pi r^2}{\\cos \\alpha} \\frac{\\cos \\alpha}{\\sin \\alpha} = \\frac{\\pi r^2}{\\sin \\alpha}"
+      ],
+      "pdfPageStart": 305,
+      "pdfPageEnd": 305,
+      "printedPageStart": 300,
+      "printedPageEnd": 300,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.12-p039",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $V = \\frac{1}{3} \\pi r^2 h = \\frac{1}{3} \\pi (h \\tan \\alpha)^2 h = \\frac{1}{3} \\pi h^3 \\tan^2 \\alpha = \\frac{1}{3} \\pi \\left( \\frac{r}{\\tan \\alpha} \\right)^3 \\tan^2 \\alpha$\n$= \\frac{\\pi r^3}{3 \\tan \\alpha}$ ঘন একক",
+      "image": null,
+      "formulas": [
+        "V = \\frac{1}{3} \\pi r^2 h = \\frac{1}{3} \\pi (h \\tan \\alpha)^2 h = \\frac{1}{3} \\pi h^3 \\tan^2 \\alpha = \\frac{1}{3} \\pi \\left( \\frac{r}{\\tan \\alpha} \\right)^3 \\tan^2 \\alpha",
+        "= \\frac{\\pi r^3}{3 \\tan \\alpha}"
+      ],
+      "pdfPageStart": 305,
+      "pdfPageEnd": 305,
+      "printedPageStart": 300,
+      "printedPageEnd": 300,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

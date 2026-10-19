@@ -550,7 +550,7 @@
       "kind": "text",
       "section": null,
       "caption": null,
-      "body": "$\\therefore$ নির্ণয়ে সমাধান $x = \\frac{2}{m}$",
+      "body": "$\\therefore$ নির্ণেয় সমাধান $x = \\frac{2}{m}$",
       "image": null,
       "formulas": [
         "\\therefore",
@@ -561,6 +561,7 @@
       "printedPageStart": 104,
       "printedPageEnd": 104,
       "reviewReasons": [
+        "known-confusable-corrected",
         "verify-formula"
       ],
       "needsReview": true
@@ -710,7 +711,7 @@
       "kind": "text",
       "section": null,
       "caption": null,
-      "body": "$\\therefore$ নির্ণয়ে সমাধান $x = \\frac{3}{2}$",
+      "body": "$\\therefore$ নির্ণেয় সমাধান $x = \\frac{3}{2}$",
       "image": null,
       "formulas": [
         "\\therefore",
@@ -721,6 +722,7 @@
       "printedPageStart": 104,
       "printedPageEnd": 104,
       "reviewReasons": [
+        "known-confusable-corrected",
         "verify-formula"
       ],
       "needsReview": true
@@ -864,7 +866,7 @@
       "kind": "text",
       "section": null,
       "caption": null,
-      "body": "$\\therefore$ নির্ণয়ে সমাধান $x = 2$",
+      "body": "$\\therefore$ নির্ণেয় সমাধান $x = 2$",
       "image": null,
       "formulas": [
         "\\therefore",
@@ -875,6 +877,7 @@
       "printedPageStart": 104,
       "printedPageEnd": 104,
       "reviewReasons": [
+        "known-confusable-corrected",
         "verify-formula"
       ],
       "needsReview": true
@@ -1465,7 +1468,7 @@
       "kind": "text",
       "section": null,
       "caption": null,
-      "body": "$\\therefore$ নির্ণয়ে সমাধান $x = 0, 2$",
+      "body": "$\\therefore$ নির্ণেয় সমাধান $x = 0, 2$",
       "image": null,
       "formulas": [
         "\\therefore",
@@ -1476,6 +1479,7 @@
       "printedPageStart": 106,
       "printedPageEnd": 106,
       "reviewReasons": [
+        "known-confusable-corrected",
         "verify-formula"
       ],
       "needsReview": true

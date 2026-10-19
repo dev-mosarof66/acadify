@@ -1,0 +1,77 @@
+{
+  "id": "higher-math-9-10-bn-c07",
+  "textbookId": "higher-math-9-10-bn",
+  "number": 7,
+  "title": "অসীম ধারা",
+  "englishTitle": null,
+  "pdfPages": [
+    141,
+    150
+  ],
+  "printedPages": [
+    136,
+    145
+  ],
+  "topics": [
+    {
+      "key": "7.1",
+      "title": "অসীম ধারা (Infinite Series)",
+      "file": "topics/7.1.json",
+      "passages": 18
+    },
+    {
+      "key": "7.2",
+      "title": "ধারা",
+      "file": "topics/7.2.json",
+      "passages": 2
+    },
+    {
+      "key": "7.3",
+      "title": "অসীম ধারা (Infinite Series)",
+      "file": "topics/7.3.json",
+      "passages": 1
+    },
+    {
+      "key": "7.4",
+      "title": "অসীম ধারার আংশিক সমষ্টি (Partial Sum of Infinite Series)",
+      "file": "topics/7.4.json",
+      "passages": 16
+    },
+    {
+      "key": "7.5",
+      "title": "অসীম গুণোত্তর ধারার সমষ্টি (Sum of Infinite Geometric Series)",
+      "file": "topics/7.5.json",
+      "passages": 31
+    },
+    {
+      "key": "7.6",
+      "title": "পৌনঃপুনিক দশমিকের সাধারণ ভগ্নাংশে রূপান্তর",
+      "file": "topics/7.6.json",
+      "passages": 37
+    },
+    {
+      "key": "7.ex",
+      "title": "অনুশীলনী ৭",
+      "file": "topics/7.ex.json",
+      "passages": 37
+    }
+  ],
+  "stats": {
+    "topics": 7,
+    "passages": 142,
+    "images": 0,
+    "byKind": {
+      "text": 93,
+      "table": 2,
+      "formula": 10,
+      "exercise": 37
+    },
+    "byReason": {
+      "verify-formula": 115,
+      "verify-table": 2,
+      "known-confusable-corrected": 2,
+      "latin-junk": 1
+    },
+    "needsReview": 117
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "status": "page-checked",
+  "checkedOn": "2026-10-18",
+  "method": "Every page of the extraction was compared with its printed page image by an AI reader (one per chapter), mathematics first. About 650 corrections were proposed; spelling rules fixed 168 of them everywhere they occur; 148 plain word slips were accepted by a corpus check; 323 were re-read by a second AI reader on 200 dpi page halves (312 confirmed, 9 rejected, 2 unsure) and only the confirmed ones were applied. This is a machine reading, not human review.",
+  "scope": {
+    "pdfPages": 327,
+    "passages": 4571,
+    "chapters": 14
+  },
+  "structureFixes": [
+    "Lesson text that follows an exercise is no longer tagged as an exercise (Higher Math chapter 10 had about 100 lesson passages tagged as exercises).",
+    "The answer key at the end of chapter 14 (PDF pages 321-332) is its own topic, kind 'answer', and is kept out of lessons and exercises.",
+    "PDF page 211 (chapter 9, exercises 4-7) was extracted as symbol noise; it was replaced with a transcription that was checked against the printed page, and the noise passages are left out."
+  ],
+  "residualCheck": {
+    "note": "A fresh, unprompted check of random pages (3 per chapter) after all corrections were applied.",
+    "pages": 40,
+    "passages": 655,
+    "discrepanciesReported": 11,
+    "genuineContentErrors": 4,
+    "meaningChanging": 2,
+    "meaningChangingWere": "বিপরীত for বিপ্রতীপ (vertically opposite angle), and a garbled Pascal's-triangle array",
+    "followUp": "All were fixed or the passage was left out. The maths in the sampled passages was clean. Six reported 'missing lines' at the top of pages were checked and are present in the chapters."
+  },
+  "excluded": {
+    "garbledPassages": ["t9.ex-p006", "t9.ex-p008 to t9.ex-p025", "t10.2-p004"],
+    "why": "Symbol noise from one page, and a garbled array that duplicated a figure."
+  },
+  "knownGaps": [
+    "Section and sub-section headings are missing from the passages; section labels are unreliable and are not used for retrieval.",
+    "About 26 figures have a wrong, cropped or missing picture file (mostly geometry diagrams); text that points to a figure whose picture is missing is flagged (missingFigures).",
+    "On some pages an exercise block is listed before the passages that finish the previous example, and two-column option lists are read column by column.",
+    "An estimated 1-2% of passages still carry a spelling error; no human has read the book.",
+    "Digits are normalised to Bangla in prose; the printed book often uses Latin digits."
+  ]
+}

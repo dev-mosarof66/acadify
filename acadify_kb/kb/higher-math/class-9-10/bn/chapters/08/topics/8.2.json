@@ -1,0 +1,1028 @@
+{
+  "id": "higher-math-9-10-bn-c08-t8.2",
+  "key": "8.2",
+  "title": "কোণ পরিমাপের একক",
+  "chapter": 8,
+  "ordinal": 2,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কোনো কোণের পরিমাণ নির্ণয়ে সাধারণত দুই প্রকার পদ্ধতি ব্যবহার করা হয়:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 154,
+      "pdfPageEnd": 154,
+      "printedPageStart": 149,
+      "printedPageEnd": 149,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) ষাটমূলক পদ্ধতি (Sexagesimal System) ও\nখ) বৃত্তীয় পদ্ধতি (Circular System)",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 154,
+      "pdfPageEnd": 154,
+      "printedPageStart": 149,
+      "printedPageEnd": 149,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**ষাটমূলক পদ্ধতি:** ষাটমূলক পদ্ধতিতে সমকোণকে কোণ পরিমাপের একক ধরা হয়। এই পদ্ধতিতে এক সমকোণকে সমান 90 ভাগে বিভক্ত করে প্রতি ভাগকে এক ডিগ্রি ($1^\\circ$ = one degree) ধরা হয়।",
+      "image": null,
+      "formulas": [
+        "1^\\circ"
+      ],
+      "pdfPageStart": 154,
+      "pdfPageEnd": 154,
+      "printedPageStart": 149,
+      "printedPageEnd": 149,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এক ডিগ্রিকে সমান 60 ভাগ করে প্রতিভাগকে এক মিনিট ($1'$ = one minute) এবং এক মিনিটকে সমান 60 ভাগ করে প্রতি ভাগকে এক সেকেন্ড ($1''$ = one second) ধরা হয়।",
+      "image": null,
+      "formulas": [
+        "1'",
+        "1''"
+      ],
+      "pdfPageStart": 154,
+      "pdfPageEnd": 154,
+      "printedPageStart": 149,
+      "printedPageEnd": 149,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ, $60''$ (সেকেন্ড) $= 1'$ (মিনিট)",
+      "image": null,
+      "formulas": [
+        "60''",
+        "= 1'"
+      ],
+      "pdfPageStart": 155,
+      "pdfPageEnd": 155,
+      "printedPageStart": 150,
+      "printedPageEnd": 150,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$60'$ (মিনিট) $= 1^\\circ$ (ডিগ্রি)",
+      "image": null,
+      "formulas": [
+        "60'",
+        "= 1^\\circ"
+      ],
+      "pdfPageStart": 155,
+      "pdfPageEnd": 155,
+      "printedPageStart": 150,
+      "printedPageEnd": 150,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$90^\\circ$ (ডিগ্রি) $= 1$ সমকোণ",
+      "image": null,
+      "formulas": [
+        "90^\\circ",
+        "= 1"
+      ],
+      "pdfPageStart": 155,
+      "pdfPageEnd": 155,
+      "printedPageStart": 150,
+      "printedPageEnd": 150,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বৃত্তীয় পদ্ধতি সম্পর্কে জানার পূর্বে রেডিয়ান সম্পর্কে জানা দরকার।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 155,
+      "pdfPageEnd": 155,
+      "printedPageStart": 150,
+      "printedPageEnd": 150,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**রেডিয়ান:** কোনো বৃত্তের ব্যাসার্ধের সমান চাপ ঐ বৃত্তের কেন্দ্রে যে কোণ উৎপন্ন করে সেই কোণকে এক রেডিয়ান বলে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 155,
+      "pdfPageEnd": 155,
+      "printedPageStart": 150,
+      "printedPageEnd": 150,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p010",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A circle with center O, radius r, and points P and Q on the circumference.",
+      "image": "p155-page_5_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 155,
+      "pdfPageEnd": 155,
+      "printedPageStart": 150,
+      "printedPageEnd": 150,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "চিত্রে $PQR$ বৃত্তের কেন্দ্র $O$, বৃত্তের ব্যাসার্ধ $OP = r$ এবং ব্যাসার্ধের সমান চাপ $PQ$। $PQ$ চাপ কেন্দ্র $O$ তে $\\angle POQ$ উৎপন্ন করেছে। উক্ত কোণের পরিমাণই এক রেডিয়ান। অর্থাৎ $\\angle POQ$ এক রেডিয়ান।",
+      "image": null,
+      "formulas": [
+        "PQR",
+        "O",
+        "OP = r",
+        "PQ",
+        "PQ",
+        "O",
+        "\\angle POQ",
+        "\\angle POQ"
+      ],
+      "pdfPageStart": 155,
+      "pdfPageEnd": 155,
+      "printedPageStart": 150,
+      "printedPageEnd": 150,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**বৃত্তীয় পদ্ধতি:** বৃত্তীয় পদ্ধতিতে এক রেডিয়ান (radian) কোণকে কোণ পরিমাপের একক ধরা হয়। কোণের ডিগ্রি পরিমাণ ও রেডিয়ান পরিমাপের সম্পর্ক নির্ণয়ের জন্য নিম্নোক্ত প্রতিজ্ঞাসমূহ এবং কোণের বৃত্তীয় পরিমাণ সম্পর্কে জানা প্রয়োজন।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 155,
+      "pdfPageEnd": 155,
+      "printedPageStart": 150,
+      "printedPageEnd": 150,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রতিজ্ঞা ১.** যেকোনো দুটি বৃত্তের স্ব-স্ব পরিধি ও ব্যাসের অনুপাত সমান।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 155,
+      "pdfPageEnd": 155,
+      "printedPageStart": 150,
+      "printedPageEnd": 150,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:** মনে করি, প্রদত্ত বৃত্ত দুটি সমকেন্দ্রিক এবং উভয়ের কেন্দ্র $O$। বৃহত্তর বৃত্তটির পরিধি $P$ ও ব্যাসার্ধ $R$ এবং ক্ষুদ্রতর বৃত্তটির পরিধি $p$ ও ব্যাসার্ধ $r$ (নিচের চিত্র)। এখন বৃহত্তর বৃত্তটিকে $n$ সংখ্যক $(n > 1)$ সমান ভাগে বিভক্ত করি। কেন্দ্রের সাথে বিভক্ত বিন্দুগুলো যোগ করলে ক্ষুদ্রতর বৃত্তটিও $n$ সংখ্যক সমান ভাগে বিভক্ত হবে। উভয় বৃত্তে বিভক্ত বিন্দুগুলো পরস্পর সংযুক্ত করি। ফলে প্রত্যেক বৃত্তে $n$ সংখ্যক বাহুবিশিষ্ট একটি সুসম বহুভুজ অন্তর্লিখিত হল (বৃহত্তর বৃত্তে $ABCD...$ ও ক্ষুদ্রতর বৃত্তে $abcd...$)।",
+      "image": null,
+      "formulas": [
+        "O",
+        "P",
+        "R",
+        "p",
+        "r",
+        "n",
+        "(n > 1)",
+        "n",
+        "n",
+        "ABCD...",
+        "abcd..."
+      ],
+      "pdfPageStart": 155,
+      "pdfPageEnd": 155,
+      "printedPageStart": 150,
+      "printedPageEnd": 150,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন $\\triangle OAB$ এবং $\\triangle Oab$ সদৃশ, কারণ, $\\angle AOB$ এবং $\\angle aOb$ [সাধারণ কোণ] এবং উভয় ত্রিভুজ সমদ্বিভুজ বলে বাহু সংলগ্ন কোণগুলো সমান।",
+      "image": null,
+      "formulas": [
+        "\\triangle OAB",
+        "\\triangle Oab",
+        "\\angle AOB",
+        "\\angle aOb"
+      ],
+      "pdfPageStart": 156,
+      "pdfPageEnd": 156,
+      "printedPageStart": 151,
+      "printedPageEnd": 151,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p016",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: geometric diagram showing two concentric circles with radii R and r, and points A, B, C, D on the outer circle and a, b, c, d on the inner circle",
+      "image": "p156-page_6_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 156,
+      "pdfPageEnd": 156,
+      "printedPageStart": 151,
+      "printedPageEnd": 151,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p017",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\therefore \\frac{AB}{ab} = \\frac{OA}{Oa} = \\frac{OB}{Ob} = \\frac{R}{r}$$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\frac{AB}{ab} = \\frac{OA}{Oa} = \\frac{OB}{Ob} = \\frac{R}{r}"
+      ],
+      "pdfPageStart": 156,
+      "pdfPageEnd": 156,
+      "printedPageStart": 151,
+      "printedPageEnd": 151,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অনুরূপভাবে,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 156,
+      "pdfPageEnd": 156,
+      "printedPageStart": 151,
+      "printedPageEnd": 151,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p019",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{BC}{bc} = \\frac{R}{r}, \\frac{CD}{cd} = \\frac{R}{r}  ইত্যাদি।$$",
+      "image": null,
+      "formulas": [
+        "\\frac{BC}{bc} = \\frac{R}{r}, \\frac{CD}{cd} = \\frac{R}{r}  ইত্যাদি।"
+      ],
+      "pdfPageStart": 156,
+      "pdfPageEnd": 156,
+      "printedPageStart": 151,
+      "printedPageEnd": 151,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p020",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\therefore \\frac{AB}{ab} = \\frac{BC}{bc} = \\frac{CD}{cd} = \\dots = \\frac{R}{r}$$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\frac{AB}{ab} = \\frac{BC}{bc} = \\frac{CD}{cd} = \\dots = \\frac{R}{r}"
+      ],
+      "pdfPageStart": 156,
+      "pdfPageEnd": 156,
+      "printedPageStart": 151,
+      "printedPageEnd": 151,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p021",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\therefore \\frac{AB + BC + CD + \\dots}{ab + bc + cd + \\dots} = \\frac{R + R + R + \\dots}{r + r + r + \\dots} = \\frac{nR}{nr} = \\frac{R}{r} = \\frac{2R}{2r} \\dots (1)$$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\frac{AB + BC + CD + \\dots}{ab + bc + cd + \\dots} = \\frac{R + R + R + \\dots}{r + r + r + \\dots} = \\frac{nR}{nr} = \\frac{R}{r} = \\frac{2R}{2r} \\dots (1)"
+      ],
+      "pdfPageStart": 156,
+      "pdfPageEnd": 156,
+      "printedPageStart": 151,
+      "printedPageEnd": 151,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$n$ যদি যথেষ্ট বড়ো হয় ($n \\to \\infty$) তাহলে $AB, BC, CD, \\dots$ রেখাংশসমূহ অত্যন্ত ক্ষুদ্র হবে এবং মনে হবে সবাই বৃত্তের ছোটো ছোটো চাপ।",
+      "image": null,
+      "formulas": [
+        "n",
+        "n \\to \\infty",
+        "AB, BC, CD, \\dots"
+      ],
+      "pdfPageStart": 156,
+      "pdfPageEnd": 156,
+      "printedPageStart": 151,
+      "printedPageEnd": 151,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং এক্ষেত্রে, $AB + BC + CD + \\dots \\approx$ বৃহত্তর বৃত্তের পরিধি $P$ এবং",
+      "image": null,
+      "formulas": [
+        "AB + BC + CD + \\dots \\approx",
+        "P"
+      ],
+      "pdfPageStart": 156,
+      "pdfPageEnd": 156,
+      "printedPageStart": 151,
+      "printedPageEnd": 151,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$ab + bc + cd + \\dots \\approx$ ক্ষুদ্রতর বৃত্তের পরিধি $p$",
+      "image": null,
+      "formulas": [
+        "ab + bc + cd + \\dots \\approx",
+        "p"
+      ],
+      "pdfPageStart": 156,
+      "pdfPageEnd": 156,
+      "printedPageStart": 151,
+      "printedPageEnd": 151,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p025",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ সমীকরণ (1) হতে পাই,",
+      "image": null,
+      "formulas": [
+        "\\therefore"
+      ],
+      "pdfPageStart": 156,
+      "pdfPageEnd": 156,
+      "printedPageStart": 151,
+      "printedPageEnd": 151,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p026",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{P}{p} = \\frac{2R}{2r}$$",
+      "image": null,
+      "formulas": [
+        "\\frac{P}{p} = \\frac{2R}{2r}"
+      ],
+      "pdfPageStart": 156,
+      "pdfPageEnd": 156,
+      "printedPageStart": 151,
+      "printedPageEnd": 151,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p027",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ, $\\frac{P}{2R} = \\frac{p}{2r}$",
+      "image": null,
+      "formulas": [
+        "\\frac{P}{2R} = \\frac{p}{2r}"
+      ],
+      "pdfPageStart": 156,
+      "pdfPageEnd": 156,
+      "printedPageStart": 151,
+      "printedPageEnd": 151,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p028",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ, $\\frac{বৃহত্তর বৃত্তের পরিধি}{বৃহত্তর বৃত্তের ব্যাস} = \\frac{ক্ষুদ্রতর বৃত্তের পরিধি}{ক্ষুদ্রতর বৃত্তের ব্যাস}$",
+      "image": null,
+      "formulas": [
+        "\\frac{বৃহত্তর বৃত্তের পরিধি}{বৃহত্তর বৃত্তের ব্যাস} = \\frac{ক্ষুদ্রতর বৃত্তের পরিধি}{ক্ষুদ্রতর বৃত্তের ব্যাস}"
+      ],
+      "pdfPageStart": 156,
+      "pdfPageEnd": 156,
+      "printedPageStart": 151,
+      "printedPageEnd": 151,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p029",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ যেকোনো দুটি বৃত্তের পরিধি ও ব্যাসের অনুপাত সমান।",
+      "image": null,
+      "formulas": [
+        "\\therefore"
+      ],
+      "pdfPageStart": 156,
+      "pdfPageEnd": 156,
+      "printedPageStart": 151,
+      "printedPageEnd": 151,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p030",
+      "kind": "text",
+      "section": "প্রতিজ্ঞা ১ এর আলোকে মন্তব্য ও অনুসিদ্ধান্ত:",
+      "caption": null,
+      "body": "**মন্তব্য:** যেকোনো বৃত্তের পরিধি ও ব্যাসের অনুপাত সবসময় সমান ও একই ধ্রুব সংখ্যা। এ ধ্রুব সংখ্যাটিকে ত্রিক বর্ণ $\\pi$ (পাই) দ্বারা প্রকাশ করা হয়। $\\pi$ একটি অমূলদ সংখ্যা এবং দশমিকে প্রকাশ করলে এটি একটি অসীম দশমিক ভগ্নাংশ সংখ্যা ($\\pi = 3.1415926535897932 \\dots$).",
+      "image": null,
+      "formulas": [
+        "\\pi",
+        "\\pi",
+        "\\pi = 3.1415926535897932 \\dots"
+      ],
+      "pdfPageStart": 156,
+      "pdfPageEnd": 156,
+      "printedPageStart": 151,
+      "printedPageEnd": 151,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p031",
+      "kind": "text",
+      "section": "প্রতিজ্ঞা ১ এর আলোকে মন্তব্য ও অনুসিদ্ধান্ত:",
+      "caption": null,
+      "body": "**মন্তব্য:** সাধারণত চার দশমিক স্থান পর্যন্ত $\\pi$ এর আসন্ন মান $\\pi = 3.1416$ ব্যবহার করা হয়। কম্পিউটারের সাহায্যে $\\pi$ এর মান এক লক্ষ কোটি দশমিক স্থান পর্যন্ত নির্ণীত হয়েছে। যেহেতু $\\pi$ এর আসন্ন মান ব্যবহার করা হয় সেহেতু উত্তরও হবে আসন্ন। তাই উত্তরের পাশে ‘প্রায়’ লেখা অবশ্যই কর্তব্য। পরবর্তী সমস্ত কাজে অন্য কোনোরূপ বলা না থাকলে চার দশমিক স্থান পর্যন্ত $\\pi$ এর আসন্ন মান 3.1416 ব্যবহার করা হবে।",
+      "image": null,
+      "formulas": [
+        "\\pi",
+        "\\pi = 3.1416",
+        "\\pi",
+        "\\pi",
+        "\\pi"
+      ],
+      "pdfPageStart": 156,
+      "pdfPageEnd": 157,
+      "printedPageStart": 151,
+      "printedPageEnd": 152,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p032",
+      "kind": "text",
+      "section": "প্রতিজ্ঞা ১ এর আলোকে মন্তব্য ও অনুসিদ্ধান্ত:",
+      "caption": null,
+      "body": "**অনুসিদ্ধান্ত ২.** বৃত্তের ব্যাসার্ধ $r$ হলে, পরিধি হবে $2\\pi r$.",
+      "image": null,
+      "formulas": [
+        "r",
+        "2\\pi r"
+      ],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p033",
+      "kind": "text",
+      "section": "প্রতিজ্ঞা ১ এর আলোকে মন্তব্য ও অনুসিদ্ধান্ত:",
+      "caption": null,
+      "body": "**প্রমাণ:** প্রতিজ্ঞা ১ এর আলোকে আমরা জানি,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p034",
+      "kind": "formula",
+      "section": "প্রতিজ্ঞা ১ এর আলোকে মন্তব্য ও অনুসিদ্ধান্ত:",
+      "caption": null,
+      "body": "$$\\frac{পরিধি}{ব্যাস} = \\pi$$",
+      "image": null,
+      "formulas": [
+        "\\frac{পরিধি}{ব্যাস} = \\pi"
+      ],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p035",
+      "kind": "text",
+      "section": "প্রতিজ্ঞা ১ এর আলোকে মন্তব্য ও অনুসিদ্ধান্ত:",
+      "caption": null,
+      "body": "বা, পরিধি $= \\pi \\times ব্যাস$",
+      "image": null,
+      "formulas": [
+        "= \\pi \\times ব্যাস"
+      ],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p036",
+      "kind": "formula",
+      "section": "প্রতিজ্ঞা ১ এর আলোকে মন্তব্য ও অনুসিদ্ধান্ত:",
+      "caption": null,
+      "body": "$$= \\pi \\times 2r  [ব্যাস = 2r]$$",
+      "image": null,
+      "formulas": [
+        "= \\pi \\times 2r  [ব্যাস = 2r]"
+      ],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p037",
+      "kind": "formula",
+      "section": "প্রতিজ্ঞা ১ এর আলোকে মন্তব্য ও অনুসিদ্ধান্ত:",
+      "caption": null,
+      "body": "$$= 2\\pi r$$",
+      "image": null,
+      "formulas": [
+        "= 2\\pi r"
+      ],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p038",
+      "kind": "text",
+      "section": "প্রতিজ্ঞা ১ এর আলোকে মন্তব্য ও অনুসিদ্ধান্ত:",
+      "caption": null,
+      "body": "$\\therefore r$ ব্যাসার্ধ বিশিষ্ট যেকোনো বৃত্তের পরিধি $2\\pi r$.",
+      "image": null,
+      "formulas": [
+        "\\therefore r",
+        "2\\pi r"
+      ],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p039",
+      "kind": "text",
+      "section": "প্রতিজ্ঞা ১ এর আলোকে মন্তব্য ও অনুসিদ্ধান্ত:",
+      "caption": null,
+      "body": "**প্রতিজ্ঞা ২.** বৃত্তের কোনো চাপের উপর দন্ডায়মান কেন্দ্রস্থ কোণ ঐ বৃত্তচাপের সমানুপাতিক।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p040",
+      "kind": "figure",
+      "section": "প্রতিজ্ঞা ১ এর আলোকে মন্তব্য ও অনুসিদ্ধান্ত:",
+      "caption": null,
+      "body": "drawing: A circle with center O, points A, B, and P on its circumference, and radii OP and OB.",
+      "image": "p157-page_7_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p041",
+      "kind": "text",
+      "section": "প্রতিজ্ঞা ১ এর আলোকে মন্তব্য ও অনুসিদ্ধান্ত:",
+      "caption": null,
+      "body": "মনে করি, $ABC$ বৃত্তের কেন্দ্র $O$ এবং ব্যাসার্ধ $OB$। $P$ বৃত্তের উপর অন্য একটি বিন্দু। ফলে $BP$ বৃত্তের একটি চাপ এবং $\\angle POB$ বৃত্তের একটি কেন্দ্রস্থ কোণ। তাহলে, কেন্দ্রস্থ $\\angle POB$, চাপ $BP$ এর সমানুপাতিক হবে।\nঅর্থাৎ, কেন্দ্রস্থ $\\angle POB \\propto$ চাপ $BP$.",
+      "image": null,
+      "formulas": [
+        "ABC",
+        "O",
+        "OB",
+        "P",
+        "BP",
+        "\\angle POB",
+        "\\angle POB",
+        "BP",
+        "\\angle POB \\propto",
+        "BP"
+      ],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p042",
+      "kind": "text",
+      "section": "প্রতিজ্ঞা ১ এর আলোকে মন্তব্য ও অনুসিদ্ধান্ত:",
+      "caption": null,
+      "body": "**প্রতিজ্ঞা ৩.** রেডিয়ান কোণ একটি ধ্রুব কোণ।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p043",
+      "kind": "text",
+      "section": "প্রতিজ্ঞা ১ এর আলোকে মন্তব্য ও অনুসিদ্ধান্ত:",
+      "caption": null,
+      "body": "**বিশেষ নির্বাচন:** মনে করি, $O$ কেন্দ্রবিশিষ্ট $ABC$ বৃত্তে $\\angle POB$ এক রেডিয়ান কোণ। প্রমাণ করতে হবে যে, $\\angle POB$ একটি ধ্রুব কোণ।",
+      "image": null,
+      "formulas": [
+        "O",
+        "ABC",
+        "\\angle POB",
+        "\\angle POB"
+      ],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p044",
+      "kind": "text",
+      "section": "প্রতিজ্ঞা ১ এর আলোকে মন্তব্য ও অনুসিদ্ধান্ত:",
+      "caption": null,
+      "body": "**অঙ্কন:** $OB$ রেখাংশের (ব্যাসার্ধের) উপর $OA$ লম্ব আঁকি।",
+      "image": null,
+      "formulas": [
+        "OB",
+        "OA"
+      ],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p045",
+      "kind": "text",
+      "section": "প্রতিজ্ঞা ১ এর আলোকে মন্তব্য ও অনুসিদ্ধান্ত:",
+      "caption": null,
+      "body": "**প্রমাণ:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p046",
+      "kind": "figure",
+      "section": "প্রতিজ্ঞা ১ এর আলোকে মন্তব্য ও অনুসিদ্ধান্ত:",
+      "caption": null,
+      "body": "drawing: A circle with center O, points A, B, and P on its circumference, and radii OA and OB.",
+      "image": "p157-page_7_chart_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p047",
+      "kind": "text",
+      "section": "প্রতিজ্ঞা ১ এর আলোকে মন্তব্য ও অনুসিদ্ধান্ত:",
+      "caption": null,
+      "body": "$OA$ লম্ব বৃত্তের পরিধিকে $A$ বিন্দুতে ছেদ করে।",
+      "image": null,
+      "formulas": [
+        "OA",
+        "A"
+      ],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p048",
+      "kind": "text",
+      "section": "প্রতিজ্ঞা ১ এর আলোকে মন্তব্য ও অনুসিদ্ধান্ত:",
+      "caption": null,
+      "body": "চাপ $AB = পরিধির এক-চতুর্থাংশ = \\frac{1}{4} \\times 2\\pi r = \\frac{\\pi r}{2}$",
+      "image": null,
+      "formulas": [
+        "AB = পরিধির এক-চতুর্থাংশ = \\frac{1}{4} \\times 2\\pi r = \\frac{\\pi r}{2}"
+      ],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p049",
+      "kind": "text",
+      "section": "প্রতিজ্ঞা ১ এর আলোকে মন্তব্য ও অনুসিদ্ধান্ত:",
+      "caption": null,
+      "body": "এবং চাপ $PB = ব্যাসার্ধ  r   [\\angle POB = 1  রেডিয়ান]$",
+      "image": null,
+      "formulas": [
+        "PB = ব্যাসার্ধ  r   [\\angle POB = 1  রেডিয়ান]"
+      ],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p050",
+      "kind": "text",
+      "section": "প্রতিজ্ঞা ১ এর আলোকে মন্তব্য ও অনুসিদ্ধান্ত:",
+      "caption": null,
+      "body": "প্রতিজ্ঞা ২ থেকে পাই,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p051",
+      "kind": "formula",
+      "section": "প্রতিজ্ঞা ১ এর আলোকে মন্তব্য ও অনুসিদ্ধান্ত:",
+      "caption": null,
+      "body": "$$\\frac{\\angle POB}{\\angle AOB} = \\frac{চাপ  PB}{চাপ  AB}$$",
+      "image": null,
+      "formulas": [
+        "\\frac{\\angle POB}{\\angle AOB} = \\frac{চাপ  PB}{চাপ  AB}"
+      ],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p052",
+      "kind": "formula",
+      "section": "প্রতিজ্ঞা ১ এর আলোকে মন্তব্য ও অনুসিদ্ধান্ত:",
+      "caption": null,
+      "body": "$$\\therefore \\angle POB = \\frac{চাপ  PB}{চাপ  AB} \\times \\angle AOB = \\frac{r}{\\pi r} \\times \\frac{1}{2}  এক সমকোণ  [OA  ব্যাসার্ধ এবং  OB  এর উপর লম্ব]$$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\angle POB = \\frac{চাপ  PB}{চাপ  AB} \\times \\angle AOB = \\frac{r}{\\pi r} \\times \\frac{1}{2}  এক সমকোণ  [OA  ব্যাসার্ধ এবং  OB  এর উপর লম্ব]"
+      ],
+      "pdfPageStart": 157,
+      "pdfPageEnd": 157,
+      "printedPageStart": 152,
+      "printedPageEnd": 152,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p053",
+      "kind": "formula",
+      "section": "প্রতিজ্ঞা ১ এর আলোকে মন্তব্য ও অনুসিদ্ধান্ত:",
+      "caption": null,
+      "body": "$$= \\frac{2}{\\pi}  সমকোণ।$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{2}{\\pi}  সমকোণ।"
+      ],
+      "pdfPageStart": 158,
+      "pdfPageEnd": 158,
+      "printedPageStart": 153,
+      "printedPageEnd": 153,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.2-p054",
+      "kind": "text",
+      "section": "প্রতিজ্ঞা ১ এর আলোকে মন্তব্য ও অনুসিদ্ধান্ত:",
+      "caption": null,
+      "body": "যেহেতু সমকোণ ও $\\pi$ ধ্রুবক সেহেতু $\\angle POB$ একটি ধ্রুব কোণ।",
+      "image": null,
+      "formulas": [
+        "\\pi",
+        "\\angle POB"
+      ],
+      "pdfPageStart": 158,
+      "pdfPageEnd": 158,
+      "printedPageStart": 153,
+      "printedPageEnd": 153,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

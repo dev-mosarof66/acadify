@@ -1,0 +1,164 @@
+{
+  "id": "higher-math-9-10-bn-c14-t14.0",
+  "key": "14.0",
+  "title": "ভূমিকা ও শিখনফল",
+  "chapter": 14,
+  "ordinal": 0,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c14-t14.0-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা প্রতিনিয়ত ‘সম্ভাবনা’ শব্দটি ব্যবহার করে থাকি। যেমন এবার এস.এস.সি. পরীক্ষায় যাদবের পাশ করার সম্ভাবনা খুব কম, এশিয়া কাপ ক্রিকেটে বাংলাদেশের জয়ের সম্ভাবনা বেশি, আগামীকাল তাপমাত্রা বৃদ্ধি পাওয়ার সম্ভাবনা বেশি, আজ বৃষ্টি হওয়ার সম্ভাবনা কম ইত্যাদি। অর্থাৎ কোনো ঘটনা ঘটার ক্ষেত্রে অনিশ্চয়তা থাকলেই কেবল আমরা সম্ভাবনার কথা বলি। আর অনিশ্চয়তার মাত্রার উপরই ঘটনাটা ঘটার সম্ভাবনা কম বা বেশি হবে তা নির্ভর করে। কিন্তু কোনো সাংখ্যিক মান দিতে পারে না। এই অধ্যায়ে আমরা কোনো ঘটনা ঘটার সম্ভাবনার সাংখ্যিক মান নির্ণয়ের বিভিন্ন সূত্র এবং নির্ণয় প্রণালী সম্পর্কে জানব এবং নিশ্চিত ঘটনা, অসম্ভব ঘটনা ও সম্ভাব্য ঘটনা বর্ণনা করতে পারব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 311,
+      "pdfPageEnd": 311,
+      "printedPageStart": 306,
+      "printedPageEnd": 306,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.0-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এই অধ্যায় শেষে শিক্ষার্থীরা ---",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 311,
+      "pdfPageEnd": 311,
+      "printedPageStart": 306,
+      "printedPageEnd": 306,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.0-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "* ▶ সম্ভাবনার ধারণা ব্যাখ্যা করতে পারবে;\n* ▶ দৈনদিন বিভিন্ন উদাহরণের সাহায্যে নিশ্চিত ঘটনা, অসম্ভব ও সম্ভাব্য ঘটনার বর্ণনা করতে পারবে;\n* ▶ একই ঘটনার পুনরাবৃত্তি ঘটলে সম্ভাব্য ফলাফল বর্ণনা করতে পারবে;\n* ▶ একই ঘটনার পুনরাবৃত্তি ঘটলে সম্ভাবনা নির্ণয় করতে পারবে;\n* ▶ সম্ভাবনার সহজ ও বাস্তবভিত্তিক সমস্যার সমাধান করতে পারবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 311,
+      "pdfPageEnd": 311,
+      "printedPageStart": 306,
+      "printedPageEnd": 306,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.0-p004",
+      "kind": "text",
+      "section": "সম্ভাবনার সাথে জড়িত কিছু ধারণা",
+      "caption": null,
+      "body": "**দৈব পরীক্ষা (Random Experiment):** যখন কোনো পরীক্ষার সম্ভাব্য সকল ফলাফল আগে থেকে জানা থাকে কিন্তু পরীক্ষাটিতে কোনো একটি নির্দিষ্ট চেষ্টায় কী ফলাফল আসবে তা নিশ্চিত করে বলা যায় না, একে দৈব পরীক্ষা বলে। যেমন একটা মুদ্রা নিক্ষেপ পরীক্ষার সম্ভাব্য ফলাফল কী হবে, তা আমরা আগে থেকেই জানি কিন্তু মুদ্রাটি নিক্ষেপের পূর্বে কোন ফলাফলটি ঘটবে তা আমরা নিশ্চিত করে বলতে পারি না। সুতরাং মুদ্রা নিক্ষেপ পরীক্ষা একটা দৈব পরীক্ষা।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 311,
+      "pdfPageEnd": 311,
+      "printedPageStart": 306,
+      "printedPageEnd": 306,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.0-p005",
+      "kind": "text",
+      "section": "সম্ভাবনার সাথে জড়িত কিছু ধারণা",
+      "caption": null,
+      "body": "**ঘটনা (Event):** কোনো পরীক্ষার ফলাফল বা ফলাফলের সমাহারকে ঘটনা বলে। উদাহরণস্বরূপ, একটা ছক্কা নিক্ষেপ পরীক্ষায় ৩ পাওয়া একটি ঘটনা। আবার জোড় সংখ্যা পাওয়াও একটি ঘটনা।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 311,
+      "pdfPageEnd": 311,
+      "printedPageStart": 306,
+      "printedPageEnd": 306,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.0-p006",
+      "kind": "text",
+      "section": "সম্ভাবনার সাথে জড়িত কিছু ধারণা",
+      "caption": null,
+      "body": "**সমসম্ভাব্য ঘটনাবলী (Equally Likely Events):** যদি কোনো পরীক্ষার ঘটনাগুলো ঘটার সম্ভাবনা সমান হয় অর্থাৎ একটি অপরটির চেয়ে বেশি বা কম সম্ভাব্য না হয় তবে ঘটনাগুলোকে সমসম্ভাব্য বলে। যেমন একটা নিরপেক্ষ মুদ্রা নিক্ষেপে হেড বা টেল আসার সম্ভাবনা সমান। সুতরাং হেড আসা ও টেল আসা ঘটনা দুটি সমসম্ভাব্য ঘটনা।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 311,
+      "pdfPageEnd": 312,
+      "printedPageStart": 306,
+      "printedPageEnd": 307,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.0-p007",
+      "kind": "text",
+      "section": "সম্ভাবনার সাথে জড়িত কিছু ধারণা",
+      "caption": null,
+      "body": "**পরস্পর বিচ্ছিন্ন ঘটনাবলি (Mutually Exclusive Events):** কোনো পরীক্ষায় যদি একটা ঘটনা ঘটেলে অন্যটা অথবা অন্য ঘটনাগুলো না ঘটে পারে তবে উক্ত ঘটনাগুলোকে পরস্পর বিচ্ছিন্ন ঘটনা বলে। যেমন, একটা নিরপেক্ষ মুদ্রা নিক্ষেপ করলে হেড আসা বা টেল আসা দুটি বিচ্ছিন্ন ঘটনা। কেননা হেড আসলে টেল আসতে পারে না। আবার টেল আসলে হেড আসতে পারে না। অর্থাৎ হেড ও টেল একসাথে আসতে পারে না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 312,
+      "pdfPageEnd": 312,
+      "printedPageStart": 307,
+      "printedPageEnd": 307,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.0-p008",
+      "kind": "text",
+      "section": "সম্ভাবনার সাথে জড়িত কিছু ধারণা",
+      "caption": null,
+      "body": "**অনুকূল ফলাফল (Favourable Outcomes):** কোনো পরীক্ষায় একটা ঘটনার স্বপ্নের ফলাফল হলো ঘটনার অনুকূল ফলাফল। একটি ছক্কা নিক্ষেপ করলে বিজোড় সংখ্যা হওয়ার অনুকূল ফলাফল ৩ টি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 312,
+      "pdfPageEnd": 312,
+      "printedPageStart": 307,
+      "printedPageEnd": 307,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.0-p009",
+      "kind": "text",
+      "section": "সম্ভাবনার সাথে জড়িত কিছু ধারণা",
+      "caption": null,
+      "body": "**নমুনাক্ষেত্র (Sample Space) ও নমুনা বিন্দু (Sample Point):** কোনো দৈব পরীক্ষার সম্ভাব্য সকল ফলাফল নিয়ে গঠিত সেটকে নমুনাক্ষেত্র বলে। একটা মুদ্রা নিক্ষেপ করলে দুইটি সম্ভাব্য ফলাফল পাওয়া যায়, যথা হেড ও টেল। এখন $S$ দ্বারা এ পরীক্ষণের ফলাফলের সেটকে সূচিত করলে আমরা লিখতে পারি $S = \\{H, T\\}$। সুতরাং উক্ত পরীক্ষার নমুনাক্ষেত্র, $S = \\{H, T\\}$। মনে করা যাক দুটি মুদ্রা একসাথে নিক্ষেপ করা হলো। তাহলে নমুনাক্ষেত্রটি হবে $S = \\{HH, HT, TH, TT\\}$। নমুনাক্ষেত্রের প্রতিটি উপাদানকে ফলাফলের নমুনা বিন্দু বলে। একটা মুদ্রা একবার নিক্ষেপ পরীক্ষায় নমুনাক্ষেত্র $S = \\{H, T\\}$ এবং এখানে $H, T$ প্রত্যেকেই এক একটা নমুনা বিন্দু।",
+      "image": null,
+      "formulas": [
+        "S",
+        "S = \\{H, T\\}",
+        "S = \\{H, T\\}",
+        "S = \\{HH, HT, TH, TT\\}",
+        "S = \\{H, T\\}",
+        "H, T"
+      ],
+      "pdfPageStart": 312,
+      "pdfPageEnd": 312,
+      "printedPageStart": 307,
+      "printedPageEnd": 307,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

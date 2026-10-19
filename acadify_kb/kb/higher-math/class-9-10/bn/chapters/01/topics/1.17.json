@@ -49,15 +49,17 @@
       "kind": "text",
       "section": null,
       "caption": null,
-      "body": "উপরে ভেনচিট্রের সাহায্যে যাচাই করা হয়েছে। এবার সুনির্দিষ্ট উদাহরণ দিয়ে দেখা যাক।",
+      "body": "উপরে ভেনচিত্রের সাহায্যে যাচাই করা হয়েছে। এবার সুনির্দিষ্ট উদাহরণ দিয়ে দেখা যাক।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 12,
       "pdfPageEnd": 12,
       "printedPageStart": 7,
       "printedPageEnd": 7,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "higher-math-9-10-bn-c01-t1.17-p004",

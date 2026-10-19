@@ -1,0 +1,66 @@
+{
+  "id": "higher-math-9-10-bn-c06",
+  "textbookId": "higher-math-9-10-bn",
+  "number": 6,
+  "title": "অসমতা",
+  "englishTitle": "Inequality",
+  "pdfPages": [
+    128,
+    140
+  ],
+  "printedPages": [
+    123,
+    135
+  ],
+  "topics": [
+    {
+      "key": "6.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/6.0.json",
+      "passages": 55
+    },
+    {
+      "key": "6.ex",
+      "title": "অনুশীলনী ৬.১",
+      "file": "topics/6.ex.json",
+      "passages": 41
+    },
+    {
+      "key": "6.1",
+      "title": "অসমতার ব্যবহার",
+      "file": "topics/6.1.json",
+      "passages": 16
+    },
+    {
+      "key": "6.2",
+      "title": "দুই চলকবিশিষ্ট সরল একঘাত অসমতা",
+      "file": "topics/6.2.json",
+      "passages": 13
+    },
+    {
+      "key": "6.3",
+      "title": "দুই চলকবিশিষ্ট অসমতার লেখচিত্র",
+      "file": "topics/6.3.json",
+      "passages": 35
+    }
+  ],
+  "stats": {
+    "topics": 5,
+    "passages": 160,
+    "images": 7,
+    "byKind": {
+      "text": 102,
+      "formula": 4,
+      "figure": 9,
+      "exercise": 41,
+      "table": 4
+    },
+    "byReason": {
+      "verify-formula": 107,
+      "latin-junk": 6,
+      "known-confusable-corrected": 12,
+      "verify-table": 4
+    },
+    "needsReview": 118
+  }
+}

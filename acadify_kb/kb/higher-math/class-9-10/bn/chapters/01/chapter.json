@@ -177,7 +177,7 @@
     },
     {
       "key": "1.27",
-      "title": "অস্বয় (Relation)",
+      "title": "অন্বয় (Relation)",
       "file": "topics/1.27.json",
       "passages": 6
     },
@@ -243,11 +243,11 @@
       "exercise": 74
     },
     "byReason": {
+      "known-confusable-corrected": 38,
       "verify-formula": 416,
       "verify-table": 3,
-      "latin-junk": 8,
-      "known-confusable-corrected": 5
+      "latin-junk": 8
     },
-    "needsReview": 418
+    "needsReview": 425
   }
 }

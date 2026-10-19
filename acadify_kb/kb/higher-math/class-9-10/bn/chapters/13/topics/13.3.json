@@ -1,0 +1,39 @@
+{
+  "id": "higher-math-9-10-bn-c13-t13.3",
+  "key": "13.3",
+  "title": "স্বতঃসিদ্ধ",
+  "chapter": 13,
+  "ordinal": 3,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c13-t13.3-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) কোনো সমতলের উপরস্থ দুটি বিন্দুর সংযোজক সরলরেখাকে অনির্দিষ্টভাবে বর্ধিত করলেও তা সম্পূর্ণভাবে ঐ সমতলে অবস্থিত থাকবে। সুতরাং একটি সরলরেখা ও একটি সমতলের মধ্যে দুটি সাধারণ বিন্দু থাকলে, ঐ সরলরেখা বরাবর তাদের মধ্যে অসংখ্য সাধারণ বিন্দু থাকবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 296,
+      "pdfPageEnd": 297,
+      "printedPageStart": 291,
+      "printedPageEnd": 292,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.3-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) দুটি নির্দিষ্ট বিন্দু বা একটি সরলরেখার মধ্য দিয়ে অসংখ্য সমতল অঙ্কন করা যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 297,
+      "pdfPageEnd": 297,
+      "printedPageStart": 292,
+      "printedPageEnd": 292,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

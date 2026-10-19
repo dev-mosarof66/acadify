@@ -1,0 +1,208 @@
+{
+  "id": "higher-math-9-10-bn-c08-t8.11",
+  "key": "8.11",
+  "title": "৯. সমাধান করো: (যখন $0 < \\theta < 2\\pi$)",
+  "chapter": 8,
+  "ordinal": 12,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c08-t8.11-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $2 \\sin^2 \\theta + 3 \\cos \\theta = 0$",
+      "image": null,
+      "formulas": [
+        "2 \\sin^2 \\theta + 3 \\cos \\theta = 0"
+      ],
+      "pdfPageStart": 195,
+      "pdfPageEnd": 195,
+      "printedPageStart": 190,
+      "printedPageEnd": 190,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.11-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $\\cot^2 \\theta + \\csc^2 \\theta = 3$",
+      "image": null,
+      "formulas": [
+        "\\cot^2 \\theta + \\csc^2 \\theta = 3"
+      ],
+      "pdfPageStart": 195,
+      "pdfPageEnd": 195,
+      "printedPageStart": 190,
+      "printedPageEnd": 190,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.11-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $4(\\cos^2 \\theta + \\sin \\theta) = 5$",
+      "image": null,
+      "formulas": [
+        "4(\\cos^2 \\theta + \\sin \\theta) = 5"
+      ],
+      "pdfPageStart": 195,
+      "pdfPageEnd": 195,
+      "printedPageStart": 190,
+      "printedPageEnd": 190,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.11-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঘ) $\\tan^2 \\theta + \\cot^2 \\theta = 2$ ঙ) $\\sec^2\\theta + \\tan^2\\theta = \\frac{5}{3}$",
+      "image": null,
+      "formulas": [
+        "\\tan^2 \\theta + \\cot^2 \\theta = 2",
+        "\\sec^2\\theta + \\tan^2\\theta = \\frac{5}{3}"
+      ],
+      "pdfPageStart": 195,
+      "pdfPageEnd": 196,
+      "printedPageStart": 190,
+      "printedPageEnd": 191,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.11-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ছ) $2\\sin x \\cos x = \\sin x$ ($0 \\le x \\le 2\\pi$)",
+      "image": null,
+      "formulas": [
+        "2\\sin x \\cos x = \\sin x",
+        "0 \\le x \\le 2\\pi"
+      ],
+      "pdfPageStart": 196,
+      "pdfPageEnd": 196,
+      "printedPageStart": 191,
+      "printedPageEnd": 191,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.11-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "চ) $5\\csc^2\\theta - 7\\cot\\theta\\csc\\theta - 2 = 0$",
+      "image": null,
+      "formulas": [
+        "5\\csc^2\\theta - 7\\cot\\theta\\csc\\theta - 2 = 0"
+      ],
+      "pdfPageStart": 196,
+      "pdfPageEnd": 196,
+      "printedPageStart": 191,
+      "printedPageEnd": 191,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.11-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "১০. পৃথিবীর ব্যাসার্ধ ৬৪৪০ কিলোমিটার। ঢাকা ও পঞ্চগড় পৃথিবীর কেন্দ্রে $3.5^\\circ$ কোণ উৎপন্ন করে। শীতকালে একজন মানুষ পঞ্চগড়ের অপরূপ নৈসর্গিক দৃশ্য দেখতে চায়। সে ০.৮৪ মিটার ব্যাস বিশিষ্ট চাকাওয়ালা একটি গাড়ি নিয়ে গেল।",
+      "image": null,
+      "formulas": [
+        "3.5^\\circ"
+      ],
+      "pdfPageStart": 196,
+      "pdfPageEnd": 196,
+      "printedPageStart": 191,
+      "printedPageEnd": 191,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.11-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) পৃথিবীর কেন্দ্রে ঢাকা ও পঞ্চগড়ের থেকে অঙ্কিত ব্যাসার্ধ কত রেডিয়ান কোণ উৎপন্ন করে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 196,
+      "pdfPageEnd": 196,
+      "printedPageStart": 191,
+      "printedPageEnd": 191,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.11-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) ঢাকা এবং পঞ্চগড়ের দূরত্ব নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 196,
+      "pdfPageEnd": 196,
+      "printedPageStart": 191,
+      "printedPageEnd": 191,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.11-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) ঢাকা হতে পঞ্চগড় আসা যাওয়ার ক্ষেত্রে গাড়ির প্রতিটি চাকা কতবার ঘুরবে?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 196,
+      "pdfPageEnd": 196,
+      "printedPageStart": 191,
+      "printedPageEnd": 191,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.11-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "১১. একটি সমকোণী ত্রিভুজের সবচেয়ে ছোটো বাহুর দৈর্ঘ্য ৭ সেমি এবং সবচেয়ে ছোট কোণের পরিমাণ $15^\\circ$ হলে তার অতিভুজের দৈর্ঘ্য কত?",
+      "image": null,
+      "formulas": [
+        "15^\\circ"
+      ],
+      "pdfPageStart": 196,
+      "pdfPageEnd": 196,
+      "printedPageStart": 191,
+      "printedPageEnd": 191,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

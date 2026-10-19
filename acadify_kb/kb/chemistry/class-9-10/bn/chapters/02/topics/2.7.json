@@ -1,7 +1,7 @@
 {
   "id": "chemistry-9-10-bn-c02-t2.7",
   "key": "2.7",
-  "title": "পাতন এবং উধর্বপাতন (Distillation and Sublimation)",
+  "title": "পাতন এবং ঊর্ধ্বপাতন (Distillation and Sublimation)",
   "chapter": 2,
   "ordinal": 7,
   "passages": [
@@ -40,15 +40,17 @@
       "kind": "text",
       "section": null,
       "caption": null,
-      "body": "২.১১ নং চিত্রে তাপ প্রয়োগে একটি উদ্দায়ী পদার্থের অবস্থার পরিবর্তন দেখানো হলো।",
+      "body": "২.১১ নং চিত্রে তাপ প্রয়োগে একটি উদ্বায়ী পদার্থের অবস্থার পরিবর্তন দেখানো হলো।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 36,
       "pdfPageEnd": 36,
       "printedPageStart": 31,
       "printedPageEnd": 31,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "chemistry-9-10-bn-c02-t2.7-p004",
@@ -70,30 +72,34 @@
       "kind": "figure",
       "section": null,
       "caption": null,
-      "body": "**চিত্র ২.১১: উদ্দায়ী পদার্থের উধর্বপাতন**",
+      "body": "**চিত্র ২.১১: উদ্বায়ী পদার্থের ঊর্ধ্বপাতন**",
       "image": null,
       "formulas": [],
       "pdfPageStart": 36,
       "pdfPageEnd": 36,
       "printedPageStart": 31,
       "printedPageEnd": 31,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "chemistry-9-10-bn-c02-t2.7-p006",
       "kind": "text",
       "section": null,
       "caption": null,
-      "body": "যে প্রক্রিয়ায় কোনো কঠিন পদার্থে তাপ প্রয়োগ করা হলে কঠিন পদার্থটি তরলে পরিণত না হয়ে সরাসরি বাষ্পে পরিণত হয়, সেই প্রক্রিয়াকে উধর্বপাতন বলে। নিশাদল (NH<sub>4</sub>Cl), কপূর (C<sub>10</sub>H<sub>16</sub>O), ন্যাপথলিন (C<sub>10</sub>H<sub>8</sub>), কঠিন কার্বন ডাই-অক্সাইড (CO<sub>2</sub>), আয়োডিন (I<sub>2</sub>), অ্যালুমিনিয়াম ক্লোরাইড (AlCl<sub>3</sub>) ইত্যাদি পদার্থগুলোতে তাপ প্রয়োগ করা হলে সেগুলো তরলে পরিণত না হয়ে সরাসরি বাষ্পে পরিণত হয়। এই পদার্থগুলোকে উদ্দায়ী পদার্থ বলা হয়।",
+      "body": "যে প্রক্রিয়ায় কোনো কঠিন পদার্থে তাপ প্রয়োগ করা হলে কঠিন পদার্থটি তরলে পরিণত না হয়ে সরাসরি বাষ্পে পরিণত হয়, সেই প্রক্রিয়াকে ঊর্ধ্বপাতন বলে। নিশাদল (NH<sub>4</sub>Cl), কপূর (C<sub>10</sub>H<sub>16</sub>O), ন্যাপথলিন (C<sub>10</sub>H<sub>8</sub>), কঠিন কার্বন ডাই-অক্সাইড (CO<sub>2</sub>), আয়োডিন (I<sub>2</sub>), অ্যালুমিনিয়াম ক্লোরাইড (AlCl<sub>3</sub>) ইত্যাদি পদার্থগুলোতে তাপ প্রয়োগ করা হলে সেগুলো তরলে পরিণত না হয়ে সরাসরি বাষ্পে পরিণত হয়। এই পদার্থগুলোকে উদ্বায়ী পদার্থ বলা হয়।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 36,
       "pdfPageEnd": 36,
       "printedPageStart": 31,
       "printedPageEnd": 31,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "chemistry-9-10-bn-c02-t2.7-p007",
@@ -115,15 +121,17 @@
       "kind": "figure",
       "section": "পরীক্ষা নং: ৭",
       "caption": null,
-      "body": "**চিত্র ২.১২: AlCl<sub>3</sub> এর উধর্বপাতন**",
+      "body": "**চিত্র ২.১২: AlCl<sub>3</sub> এর ঊর্ধ্বপাতন**",
       "image": null,
       "formulas": [],
       "pdfPageStart": 37,
       "pdfPageEnd": 37,
       "printedPageStart": 32,
       "printedPageEnd": 32,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "chemistry-9-10-bn-c02-t2.7-p009",
@@ -143,37 +151,41 @@
     {
       "id": "chemistry-9-10-bn-c02-t2.7-p010",
       "kind": "text",
-      "section": "উধর্বপাতন প্রক্রিয়ার প্রয়োগ",
+      "section": "ঊর্ধ্বপাতন প্রক্রিয়ার প্রয়োগ",
       "caption": null,
-      "body": "কোনো কঠিন পদার্থের মিশ্রণের মধ্যে একটি উদ্দায়ী পদার্থ মিশ্রিত থাকলে ঐ উদ্দায়ী পদার্থকে মিশ্রণ থেকে সহজে পৃথক করা যায়, যেমন - নিশাদল বা অ্যামোনিয়াম ক্লোরাইড (NH<sub>4</sub>Cl) এর সাথে খাদ্য লবণ (NaCl) মিশ্রিত থাকলে উধর্বপাতন পদ্ধতির মাধ্যমে নিশাদলকে পৃথক করা যাবে।",
+      "body": "কোনো কঠিন পদার্থের মিশ্রণের মধ্যে একটি উদ্বায়ী পদার্থ মিশ্রিত থাকলে ঐ উদ্বায়ী পদার্থকে মিশ্রণ থেকে সহজে পৃথক করা যায়, যেমন - নিশাদল বা অ্যামোনিয়াম ক্লোরাইড (NH<sub>4</sub>Cl) এর সাথে খাদ্য লবণ (NaCl) মিশ্রিত থাকলে ঊর্ধ্বপাতন পদ্ধতির মাধ্যমে নিশাদলকে পৃথক করা যাবে।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 37,
       "pdfPageEnd": 37,
       "printedPageStart": 32,
       "printedPageEnd": 32,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "chemistry-9-10-bn-c02-t2.7-p011",
       "kind": "text",
-      "section": "উধর্বপাতন প্রক্রিয়ার প্রয়োগ",
+      "section": "ঊর্ধ্বপাতন প্রক্রিয়ার প্রয়োগ",
       "caption": null,
-      "body": "কঠিন অবস্থায় উধর্বপাতিত পদার্থে তাপ প্রয়োগ করতে থাকলে উধর্বপাতিত পদার্থ সহজেই বাষ্পীভূত হয়। আয়োডিনমিশ্রিত খাদ্যলবণের মধ্যে আয়োডিন একটি উধর্বপাতিত পদার্থ। কাজেই ঐ আয়োডিন মিশ্রিত খাদ্যলবণের মিশ্রণকে তাপ দিলে আয়োডিন সহজেই বাষ্পীভূত হয়। ঐ বাষ্পকে ঠান্ডা করে কঠিন আয়োডিনে পরিণত করা যায়। বালি এবং গ্লুকোজের মিশ্রণের মধ্যে কোনো উদ্দায়ী পদার্থ নেই। কাজেই তাপ প্রয়োগ করে বালি এবং গ্লুকোজের মিশ্রণ থেকে বালি বা গ্লুকোজকে আলাদা করা যায় না।",
+      "body": "কঠিন অবস্থায় ঊর্ধ্বপাতিত পদার্থে তাপ প্রয়োগ করতে থাকলে ঊর্ধ্বপাতিত পদার্থ সহজেই বাষ্পীভূত হয়। আয়োডিনমিশ্রিত খাদ্যলবণের মধ্যে আয়োডিন একটি ঊর্ধ্বপাতিত পদার্থ। কাজেই ঐ আয়োডিন মিশ্রিত খাদ্যলবণের মিশ্রণকে তাপ দিলে আয়োডিন সহজেই বাষ্পীভূত হয়। ঐ বাষ্পকে ঠান্ডা করে কঠিন আয়োডিনে পরিণত করা যায়। বালি এবং গ্লুকোজের মিশ্রণের মধ্যে কোনো উদ্বায়ী পদার্থ নেই। কাজেই তাপ প্রয়োগ করে বালি এবং গ্লুকোজের মিশ্রণ থেকে বালি বা গ্লুকোজকে আলাদা করা যায় না।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 37,
       "pdfPageEnd": 37,
       "printedPageStart": 32,
       "printedPageEnd": 32,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "chemistry-9-10-bn-c02-t2.7-p012",
       "kind": "text",
-      "section": "উধর্বপাতন প্রক্রিয়ার প্রয়োগ",
+      "section": "ঊর্ধ্বপাতন প্রক্রিয়ার প্রয়োগ",
       "caption": null,
       "body": "১. কাপে গরম চা রাখলে নিচের কোন প্রক্রিয়াটি ঘটে?",
       "image": null,
@@ -182,43 +194,49 @@
       "pdfPageEnd": 37,
       "printedPageStart": 32,
       "printedPageEnd": 32,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "chemistry-9-10-bn-c02-t2.7-p013",
       "kind": "text",
-      "section": "উধর্বপাতন প্রক্রিয়ার প্রয়োগ",
+      "section": "ঊর্ধ্বপাতন প্রক্রিয়ার প্রয়োগ",
       "caption": null,
-      "body": "(ক) বাষ্পীভবন                      (খ) উধর্বপাতন\n(গ) ব্যাপন                              (ঘ) নিঃসরণ",
+      "body": "(ক) বাষ্পীভবন                      (খ) ঊর্ধ্বপাতন\n(গ) ব্যাপন                              (ঘ) নিঃসরণ",
       "image": null,
       "formulas": [],
       "pdfPageStart": 37,
       "pdfPageEnd": 37,
       "printedPageStart": 32,
       "printedPageEnd": 32,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "chemistry-9-10-bn-c02-t2.7-p014",
       "kind": "text",
-      "section": "উধর্বপাতন প্রক্রিয়ার প্রয়োগ",
+      "section": "ঊর্ধ্বপাতন প্রক্রিয়ার প্রয়োগ",
       "caption": null,
-      "body": "২. জলীয় বাষ্পকে ঘনীভবন করার পর কণাসমূহের ক্ষেত্রে কী ঘটেবে?",
+      "body": "২. জলীয় বাষ্পকে ঘনীভবন করার পর কণাসমূহের ক্ষেত্রে কী ঘটবে?",
       "image": null,
       "formulas": [],
       "pdfPageStart": 38,
       "pdfPageEnd": 38,
       "printedPageStart": 33,
       "printedPageEnd": 33,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "chemistry-9-10-bn-c02-t2.7-p015",
       "kind": "text",
-      "section": "উধর্বপাতন প্রক্রিয়ার প্রয়োগ",
+      "section": "ঊর্ধ্বপাতন প্রক্রিয়ার প্রয়োগ",
       "caption": null,
       "body": "(ক) আকার সংকুচিত হবে\n(খ) আন্তঃকণা আকর্ষণ হ্রাস পায়\n(গ) একই অবস্থানে থেকে কাঁপতে থাকবে\n(ঘ) গতি শক্তি হ্রাস পাবে",
       "image": null,
@@ -227,13 +245,15 @@
       "pdfPageEnd": 38,
       "printedPageStart": 33,
       "printedPageEnd": 33,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "chemistry-9-10-bn-c02-t2.7-p016",
       "kind": "text",
-      "section": "উধর্বপাতন প্রক্রিয়ার প্রয়োগ",
+      "section": "ঊর্ধ্বপাতন প্রক্রিয়ার প্রয়োগ",
       "caption": null,
       "body": "৩. নিচের কোন চিত্রটি উর্ধ্বপাতনের জন্য প্রয়োজন?",
       "image": null,
@@ -242,13 +262,15 @@
       "pdfPageEnd": 38,
       "printedPageStart": 33,
       "printedPageEnd": 33,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "chemistry-9-10-bn-c02-t2.7-p017",
       "kind": "figure",
-      "section": "উধর্বপাতন প্রক্রিয়ার প্রয়োগ",
+      "section": "ঊর্ধ্বপাতন প্রক্রিয়ার প্রয়োগ",
       "caption": null,
       "body": "drawing: scientific diagram showing phase changes",
       "image": "p38-page_17_image_1_v2.jpg",
@@ -257,13 +279,15 @@
       "pdfPageEnd": 38,
       "printedPageStart": 33,
       "printedPageEnd": 33,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "chemistry-9-10-bn-c02-t2.7-p018",
       "kind": "text",
-      "section": "উধর্বপাতন প্রক্রিয়ার প্রয়োগ",
+      "section": "ঊর্ধ্বপাতন প্রক্রিয়ার প্রয়োগ",
       "caption": null,
       "body": "৪. অজানা কঠিন বস্তু Z-এর তাপীয় বক্ররেখা চিত্র হতে বোঝা যায়—",
       "image": null,
@@ -272,15 +296,17 @@
       "pdfPageEnd": 38,
       "printedPageStart": 33,
       "printedPageEnd": 33,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "chemistry-9-10-bn-c02-t2.7-p019",
       "kind": "text",
-      "section": "উধর্বপাতন প্রক্রিয়ার প্রয়োগ",
+      "section": "ঊর্ধ্বপাতন প্রক্রিয়ার প্রয়োগ",
       "caption": null,
-      "body": "i. Z বস্তুটির গলনাঙ্ক 154°C\nii. Z বস্তুটি উদ্ভায়ী\niii. AB ও CD রেখা বস্তুটির গলনাঙ্ক ও স্ফুটনাঙ্ক বোঝায়",
+      "body": "i. Z বস্তুটির গলনাঙ্ক 154°C\nii. Z বস্তুটি উদ্বায়ী\niii. AB ও CD রেখা বস্তুটির গলনাঙ্ক ও স্ফুটনাঙ্ক বোঝায়",
       "image": null,
       "formulas": [],
       "pdfPageStart": 38,
@@ -288,14 +314,15 @@
       "printedPageStart": 33,
       "printedPageEnd": 33,
       "reviewReasons": [
-        "latin-junk"
+        "latin-junk",
+        "known-confusable-corrected"
       ],
       "needsReview": true
     },
     {
       "id": "chemistry-9-10-bn-c02-t2.7-p020",
       "kind": "text",
-      "section": "উধর্বপাতন প্রক্রিয়ার প্রয়োগ",
+      "section": "ঊর্ধ্বপাতন প্রক্রিয়ার প্রয়োগ",
       "caption": null,
       "body": "নিচের কোনটি সঠিক?",
       "image": null,
@@ -304,13 +331,15 @@
       "pdfPageEnd": 38,
       "printedPageStart": 33,
       "printedPageEnd": 33,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "chemistry-9-10-bn-c02-t2.7-p021",
       "kind": "text",
-      "section": "উধর্বপাতন প্রক্রিয়ার প্রয়োগ",
+      "section": "ঊর্ধ্বপাতন প্রক্রিয়ার প্রয়োগ",
       "caption": null,
       "body": "(ক) i ও ii\n(খ) ii ও iii\n(গ) i ও iii\n(ঘ) i, ii ও iii",
       "image": null,
@@ -320,7 +349,8 @@
       "printedPageStart": 33,
       "printedPageEnd": 33,
       "reviewReasons": [
-        "latin-junk"
+        "latin-junk",
+        "known-confusable-corrected"
       ],
       "needsReview": true
     },

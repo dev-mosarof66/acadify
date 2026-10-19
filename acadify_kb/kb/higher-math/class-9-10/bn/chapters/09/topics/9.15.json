@@ -1,0 +1,57 @@
+{
+  "id": "higher-math-9-10-bn-c09-t9.15",
+  "key": "9.15",
+  "title": "৬. ডোমেন এবং রেঞ্জ উল্লেখসহ লেখচিত্র অঙ্কন করো।",
+  "chapter": 9,
+  "ordinal": 16,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c09-t9.15-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $f(x) = |x|$, যখন $-5 \\le x \\le 5$\nখ) $f(x) = x + |x|$, যখন $-2 \\le x \\le 2$\nগ) $f(x) = \\begin{cases} \\frac{|x|}{x}, & যখন  x \\neq 0 \\\\ 0, & যখন  x = 0 \\end{cases}$",
+      "image": null,
+      "formulas": [
+        "f(x) = |x|",
+        "-5 \\le x \\le 5",
+        "f(x) = x + |x|",
+        "-2 \\le x \\le 2",
+        "f(x) = \\begin{cases} \\frac{|x|}{x}, & যখন  x \\neq 0 \\\\ 0, & যখন  x = 0 \\end{cases}"
+      ],
+      "pdfPageStart": 226,
+      "pdfPageEnd": 226,
+      "printedPageStart": 221,
+      "printedPageEnd": 221,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.15-p002",
+      "kind": "text",
+      "section": "৭. দেওয়া আছে, $2^{2x} \\cdot 2^{y-1} = 64 \\dots (i)$ এবং $6^x \\cdot \\frac{6^{y-2}}{3} = 72 \\dots (ii)$",
+      "caption": null,
+      "body": "ক) $(i)$ ও $(ii)$ কে $x$ ও $y$ চলক বিশিষ্ট সরল সমীকরণে পরিণত করো।\nখ) সমীকরণদ্বয় সমাধান করে শূদ্ধতা যাচাই করো।\nগ) $x$ ও $y$ এর মান যদি কোনো চতুর্ভুজের সম্বিহিত বাহুর দৈর্ঘ্য হয় (যেখানে বাহুদ্বয়ের অন্তর্ভুক্ত কোণ $90^\\circ$) তবে চতুর্ভুজটি আয়ত না বর্গ উল্লেখ কর এবং এর ক্ষেত্রফল ও কর্ণের দৈর্ঘ্য নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "(i)",
+        "(ii)",
+        "x",
+        "y",
+        "x",
+        "y",
+        "90^\\circ"
+      ],
+      "pdfPageStart": 226,
+      "pdfPageEnd": 226,
+      "printedPageStart": 221,
+      "printedPageEnd": 221,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

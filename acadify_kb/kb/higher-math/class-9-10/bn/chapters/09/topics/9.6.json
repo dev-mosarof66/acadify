@@ -1,0 +1,1355 @@
+{
+  "id": "higher-math-9-10-bn-c09-t9.6",
+  "key": "9.6",
+  "title": "লগারিদমের সূত্রাবলি",
+  "chapter": 9,
+  "ordinal": 7,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "নবম-দশম শ্রেণির গণিতে প্রমাণ দেওয়া হয়েছে বিধায় এখানে শুধু সূত্রগুলো দেখানো হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "১. $\\log_a a = 1$ এবং $\\log_a 1 = 0$",
+      "image": null,
+      "formulas": [
+        "\\log_a a = 1",
+        "\\log_a 1 = 0"
+      ],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "২. $\\log_a (M \\times N) = \\log_a M + \\log_a N$",
+      "image": null,
+      "formulas": [
+        "\\log_a (M \\times N) = \\log_a M + \\log_a N"
+      ],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "৩. $\\log_a \\left( \\frac{M}{N} \\right) = \\log_a M - \\log_a N$",
+      "image": null,
+      "formulas": [
+        "\\log_a \\left( \\frac{M}{N} \\right) = \\log_a M - \\log_a N"
+      ],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "৪. $\\log_a (M^N) = N \\log_a M$",
+      "image": null,
+      "formulas": [
+        "\\log_a (M^N) = N \\log_a M"
+      ],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "৫. $\\log_a M = \\log_b M \\times \\log_a b$ [ভিত্তি পরিবর্তনের সূত্র]",
+      "image": null,
+      "formulas": [
+        "\\log_a M = \\log_b M \\times \\log_a b"
+      ],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২০.** $\\log_2 5 + \\log_2 7 + \\log_2 3 = \\log_2(5 \\cdot 7 \\cdot 3) = \\log_2 105$",
+      "image": null,
+      "formulas": [
+        "\\log_2 5 + \\log_2 7 + \\log_2 3 = \\log_2(5 \\cdot 7 \\cdot 3) = \\log_2 105"
+      ],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২১.** $\\log_3 20 - \\log_3 5 = \\log_3 \\frac{20}{5} = \\log_3 4$",
+      "image": null,
+      "formulas": [
+        "\\log_3 20 - \\log_3 5 = \\log_3 \\frac{20}{5} = \\log_3 4"
+      ],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২২.** $\\log_5 64 = \\log_5 2^6 = 6 \\log_5 2$",
+      "image": null,
+      "formulas": [
+        "\\log_5 64 = \\log_5 2^6 = 6 \\log_5 2"
+      ],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**দৃষ্টব্য:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(i) যদি $x > 0, y > 0, a > 0$ এবং $a \\neq 1$ হয় তবে $x = y$ হবে যদি এবং কেবল যদি $\\log_a x = \\log_a y$",
+      "image": null,
+      "formulas": [
+        "x > 0, y > 0, a > 0",
+        "a \\neq 1",
+        "x = y",
+        "\\log_a x = \\log_a y"
+      ],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 213,
+      "printedPageStart": 208,
+      "printedPageEnd": 208,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(ii) যদি $a > 1$ এবং $x > 1$ হয় তবে $\\log_a x > 0$ $(iii)$ যদি $0 < a < 1$ এবং $0 < x < 1$ হয় তবে $\\log_a x > 0$",
+      "image": null,
+      "formulas": [
+        "a > 1",
+        "x > 1",
+        "\\log_a x > 0",
+        "(iii)",
+        "0 < a < 1",
+        "0 < x < 1",
+        "\\log_a x > 0"
+      ],
+      "pdfPageStart": 213,
+      "pdfPageEnd": 214,
+      "printedPageStart": 208,
+      "printedPageEnd": 209,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$(iv)$ যদি $a > 1$ এবং $0 < x < 1$ তবে $\\log_a x < 0$",
+      "image": null,
+      "formulas": [
+        "(iv)",
+        "a > 1",
+        "0 < x < 1",
+        "\\log_a x < 0"
+      ],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৩.** $x$ এর মান নির্ণয় করো যখন",
+      "image": null,
+      "formulas": [
+        "x"
+      ],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $\\log_{\\sqrt{8}} x = 3\\frac{1}{3}$",
+      "image": null,
+      "formulas": [
+        "\\log_{\\sqrt{8}} x = 3\\frac{1}{3}"
+      ],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $\\log_{10} [98 + \\sqrt{x^2 - 12x + 36}] = 2$",
+      "image": null,
+      "formulas": [
+        "\\log_{10} [98 + \\sqrt{x^2 - 12x + 36}] = 2"
+      ],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $\\log_{\\sqrt{8}} x = 3\\frac{1}{3} = \\frac{10}{3}$",
+      "image": null,
+      "formulas": [
+        "\\log_{\\sqrt{8}} x = 3\\frac{1}{3} = \\frac{10}{3}"
+      ],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x = (\\sqrt{8})^{\\frac{10}{3}} = (\\sqrt{2^3})^{\\frac{10}{3}}$",
+      "image": null,
+      "formulas": [
+        "x = (\\sqrt{8})^{\\frac{10}{3}} = (\\sqrt{2^3})^{\\frac{10}{3}}"
+      ],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x = 2^{\\frac{3}{2} \\cdot \\frac{10}{3}} = 2^5 = 32$",
+      "image": null,
+      "formulas": [
+        "x = 2^{\\frac{3}{2} \\cdot \\frac{10}{3}} = 2^5 = 32"
+      ],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p021",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore x = 32$",
+      "image": null,
+      "formulas": [
+        "\\therefore x = 32"
+      ],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) যেহেতু $\\log_{10} [98 + \\sqrt{x^2 - 12x + 36}] = 2$",
+      "image": null,
+      "formulas": [
+        "\\log_{10} [98 + \\sqrt{x^2 - 12x + 36}] = 2"
+      ],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $98 + \\sqrt{x^2 - 12x + 36} = 10^2 = 100$",
+      "image": null,
+      "formulas": [
+        "98 + \\sqrt{x^2 - 12x + 36} = 10^2 = 100"
+      ],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\sqrt{x^2 - 12x + 36} = 2$",
+      "image": null,
+      "formulas": [
+        "\\sqrt{x^2 - 12x + 36} = 2"
+      ],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p025",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x^2 - 12x + 36 = 4$",
+      "image": null,
+      "formulas": [
+        "x^2 - 12x + 36 = 4"
+      ],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p026",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $x^2 - 12x + 32 = 0$",
+      "image": null,
+      "formulas": [
+        "x^2 - 12x + 32 = 0"
+      ],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p027",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $(x - 4)(x - 8) = 0$",
+      "image": null,
+      "formulas": [
+        "(x - 4)(x - 8) = 0"
+      ],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p028",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore x = 4$ বা $x = 8$",
+      "image": null,
+      "formulas": [
+        "\\therefore x = 4",
+        "x = 8"
+      ],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p029",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৪.** দেখাও যে, $a^{\\log_k b - \\log_k c} \\times b^{\\log_k c - \\log_k a} \\times c^{\\log_k a - \\log_k b} = 1$",
+      "image": null,
+      "formulas": [
+        "a^{\\log_k b - \\log_k c} \\times b^{\\log_k c - \\log_k a} \\times c^{\\log_k a - \\log_k b} = 1"
+      ],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p030",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** ধরি, $p = a^{\\log_k b - \\log_k c} \\times b^{\\log_k c - \\log_k a} \\times c^{\\log_k a - \\log_k b}$",
+      "image": null,
+      "formulas": [
+        "p = a^{\\log_k b - \\log_k c} \\times b^{\\log_k c - \\log_k a} \\times c^{\\log_k a - \\log_k b}"
+      ],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p031",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাহলে, $\\log_k p = (\\log_k b - \\log_k c) \\log_k a + (\\log_k c - \\log_k a) \\log_k b + (\\log_k a - \\log_k b) \\log_k c$",
+      "image": null,
+      "formulas": [
+        "\\log_k p = (\\log_k b - \\log_k c) \\log_k a + (\\log_k c - \\log_k a) \\log_k b + (\\log_k a - \\log_k b) \\log_k c"
+      ],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p032",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা $\\log_k p = 0$ বা $p = k^0 = 1$",
+      "image": null,
+      "formulas": [
+        "\\log_k p = 0",
+        "p = k^0 = 1"
+      ],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p033",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore a^{\\log_k b - \\log_k c} \\times b^{\\log_k c - \\log_k a} \\times c^{\\log_k a - \\log_k b} = 1$",
+      "image": null,
+      "formulas": [
+        "\\therefore a^{\\log_k b - \\log_k c} \\times b^{\\log_k c - \\log_k a} \\times c^{\\log_k a - \\log_k b} = 1"
+      ],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p034",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৫.** দেখাও যে, $x^{\\log_a y} = y^{\\log_a x}$",
+      "image": null,
+      "formulas": [
+        "x^{\\log_a y} = y^{\\log_a x}"
+      ],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p035",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** ধরি $p = \\log_a y$, $q = \\log_a x$",
+      "image": null,
+      "formulas": [
+        "p = \\log_a y",
+        "q = \\log_a x"
+      ],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p036",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং $a^p = y$, $a^q = x$",
+      "image": null,
+      "formulas": [
+        "a^p = y",
+        "a^q = x"
+      ],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 214,
+      "printedPageStart": 209,
+      "printedPageEnd": 209,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p037",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore (a^p)^q = y^q$ বা $y^q = a^{pq}$ এবং $(a^q)^p = x^p$ বা $x^p = a^{pq}$",
+      "image": null,
+      "formulas": [
+        "\\therefore (a^p)^q = y^q",
+        "y^q = a^{pq}",
+        "(a^q)^p = x^p",
+        "x^p = a^{pq}"
+      ],
+      "pdfPageStart": 214,
+      "pdfPageEnd": 215,
+      "printedPageStart": 209,
+      "printedPageEnd": 210,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p038",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore x^p = y^q$ বা $x^{\\log_a y} = y^{\\log_a x}$",
+      "image": null,
+      "formulas": [
+        "\\therefore x^p = y^q",
+        "x^{\\log_a y} = y^{\\log_a x}"
+      ],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p039",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৬.** দেখাও যে, $\\log_a p \\times \\log_p q \\times \\log_q r \\times \\log_r b = \\log_a b$",
+      "image": null,
+      "formulas": [
+        "\\log_a p \\times \\log_p q \\times \\log_q r \\times \\log_r b = \\log_a b"
+      ],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p040",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** বামপক্ষ $= \\log_a p \\times \\log_p q \\times \\log_q r \\times \\log_r b$",
+      "image": null,
+      "formulas": [
+        "= \\log_a p \\times \\log_p q \\times \\log_q r \\times \\log_r b"
+      ],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p041",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$= (\\log_a p \\times \\log_p q) \\times (\\log_q r \\times \\log_r b)$",
+      "image": null,
+      "formulas": [
+        "= (\\log_a p \\times \\log_p q) \\times (\\log_q r \\times \\log_r b)"
+      ],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p042",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$= \\log_a q \\times \\log_q b = \\log_a b =$ ডানপক্ষ",
+      "image": null,
+      "formulas": [
+        "= \\log_a q \\times \\log_q b = \\log_a b ="
+      ],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p043",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৭.** দেখাও যে, $\\frac{1}{\\log_a(abc)} + \\frac{1}{\\log_b(abc)} + \\frac{1}{\\log_c(abc)} = 1$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{\\log_a(abc)} + \\frac{1}{\\log_b(abc)} + \\frac{1}{\\log_c(abc)} = 1"
+      ],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p044",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** ধরি, $\\log_a(abc) = x, \\log_b(abc) = y, \\log_c(abc) = z$",
+      "image": null,
+      "formulas": [
+        "\\log_a(abc) = x, \\log_b(abc) = y, \\log_c(abc) = z"
+      ],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p045",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং, $a^x = abc, b^y = abc, c^z = abc$",
+      "image": null,
+      "formulas": [
+        "a^x = abc, b^y = abc, c^z = abc"
+      ],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p046",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore a = (abc)^{\\frac{1}{x}}, b = (abc)^{\\frac{1}{y}}, c = (abc)^{\\frac{1}{z}}$",
+      "image": null,
+      "formulas": [
+        "\\therefore a = (abc)^{\\frac{1}{x}}, b = (abc)^{\\frac{1}{y}}, c = (abc)^{\\frac{1}{z}}"
+      ],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p047",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন, $(abc)^1 = abc = (abc)^{\\frac{1}{x}}(abc)^{\\frac{1}{y}}(abc)^{\\frac{1}{z}} = (abc)^{\\frac{1}{x} + \\frac{1}{y} + \\frac{1}{z}}$",
+      "image": null,
+      "formulas": [
+        "(abc)^1 = abc = (abc)^{\\frac{1}{x}}(abc)^{\\frac{1}{y}}(abc)^{\\frac{1}{z}} = (abc)^{\\frac{1}{x} + \\frac{1}{y} + \\frac{1}{z}}"
+      ],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p048",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\frac{1}{x} + \\frac{1}{y} + \\frac{1}{z} = 1$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\frac{1}{x} + \\frac{1}{y} + \\frac{1}{z} = 1"
+      ],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p049",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ $\\frac{1}{\\log_a(abc)} + \\frac{1}{\\log_b(abc)} + \\frac{1}{\\log_c(abc)} = 1$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{\\log_a(abc)} + \\frac{1}{\\log_b(abc)} + \\frac{1}{\\log_c(abc)} = 1"
+      ],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p050",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৮.** যদি $p = \\log_a(bc), q = \\log_b(ca), r = \\log_c(ab)$ হয় তবে দেখাও যে,",
+      "image": null,
+      "formulas": [
+        "p = \\log_a(bc), q = \\log_b(ca), r = \\log_c(ab)"
+      ],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p051",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{1}{p+1} + \\frac{1}{q+1} + \\frac{1}{r+1} = 1$$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{p+1} + \\frac{1}{q+1} + \\frac{1}{r+1} = 1"
+      ],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p052",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $1 + p = 1 + \\log_a(bc) = \\log_a a + \\log_a(bc) = \\log_a(abc)$",
+      "image": null,
+      "formulas": [
+        "1 + p = 1 + \\log_a(bc) = \\log_a a + \\log_a(bc) = \\log_a(abc)"
+      ],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p053",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "একইভাবে $1 + q = \\log_b(abc)$ এবং $1 + r = \\log_c(abc)$",
+      "image": null,
+      "formulas": [
+        "1 + q = \\log_b(abc)",
+        "1 + r = \\log_c(abc)"
+      ],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p054",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "পূর্ববর্তী উদাহরণে আমরা প্রমাণ করেছি, $\\frac{1}{\\log_a(abc)} + \\frac{1}{\\log_b(abc)} + \\frac{1}{\\log_c(abc)} = 1$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{\\log_a(abc)} + \\frac{1}{\\log_b(abc)} + \\frac{1}{\\log_c(abc)} = 1"
+      ],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p055",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\frac{1}{p+1} + \\frac{1}{q+1} + \\frac{1}{r+1} = 1$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\frac{1}{p+1} + \\frac{1}{q+1} + \\frac{1}{r+1} = 1"
+      ],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p056",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২৯.** যদি $\\frac{\\log a}{y-z} = \\frac{\\log b}{z-x} = \\frac{\\log c}{x-y}$ হয় তবে দেখাও যে, $a^x b^y c^z = 1$",
+      "image": null,
+      "formulas": [
+        "\\frac{\\log a}{y-z} = \\frac{\\log b}{z-x} = \\frac{\\log c}{x-y}",
+        "a^x b^y c^z = 1"
+      ],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p057",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** ধরি, $\\frac{\\log a}{y-z} = \\frac{\\log b}{z-x} = \\frac{\\log c}{x-y} = k$",
+      "image": null,
+      "formulas": [
+        "\\frac{\\log a}{y-z} = \\frac{\\log b}{z-x} = \\frac{\\log c}{x-y} = k"
+      ],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p058",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাহলে, $\\log a = k(y-z), \\log b = k(z-x), \\log c = k(x-y)$",
+      "image": null,
+      "formulas": [
+        "\\log a = k(y-z), \\log b = k(z-x), \\log c = k(x-y)"
+      ],
+      "pdfPageStart": 215,
+      "pdfPageEnd": 215,
+      "printedPageStart": 210,
+      "printedPageEnd": 210,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p059",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\therefore x \\log a + y \\log b + z \\log c = k(xy - zx + yz - xy + zx - yz) = 0$$",
+      "image": null,
+      "formulas": [
+        "\\therefore x \\log a + y \\log b + z \\log c = k(xy - zx + yz - xy + zx - yz) = 0"
+      ],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p060",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\log a^x + \\log b^y + \\log c^z = 0$",
+      "image": null,
+      "formulas": [
+        "\\log a^x + \\log b^y + \\log c^z = 0"
+      ],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p061",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\log(a^x b^y c^z) = 0$",
+      "image": null,
+      "formulas": [
+        "\\log(a^x b^y c^z) = 0"
+      ],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p062",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\log(a^x b^y c^z) = \\log 1$ [$\\because \\log 1 = 0$]",
+      "image": null,
+      "formulas": [
+        "\\log(a^x b^y c^z) = \\log 1",
+        "\\because \\log 1 = 0"
+      ],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p063",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\therefore a^x b^y c^z = 1$$",
+      "image": null,
+      "formulas": [
+        "\\therefore a^x b^y c^z = 1"
+      ],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p064",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p065",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) যদি $\\frac{\\log a}{b - c} = \\frac{\\log b}{c - a} = \\frac{\\log c}{a - b}$ হয়, তাহলে $a^a \\cdot b^b \\cdot c^c$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "\\frac{\\log a}{b - c} = \\frac{\\log b}{c - a} = \\frac{\\log c}{a - b}",
+        "a^a \\cdot b^b \\cdot c^c"
+      ],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p066",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) যদি $a, b, c$ পরপর তিনটি ধনাত্মক অখণ্ড সংখ্যা হয়, তবে প্রমাণ করো যে,\n$\\log(1 + ac) = 2 \\log b$",
+      "image": null,
+      "formulas": [
+        "a, b, c",
+        "\\log(1 + ac) = 2 \\log b"
+      ],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p067",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) যদি $a^2 + b^2 = 7ab$ হয়, তবে দেখাও যে,\n$\\log\\left(\\frac{a + b}{3}\\right) = \\frac{1}{2} \\log(ab) = \\frac{1}{2}(\\log a + \\log b)$",
+      "image": null,
+      "formulas": [
+        "a^2 + b^2 = 7ab",
+        "\\log\\left(\\frac{a + b}{3}\\right) = \\frac{1}{2} \\log(ab) = \\frac{1}{2}(\\log a + \\log b)"
+      ],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p068",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঘ) যদি $\\log\\left(\\frac{x + y}{3}\\right) = \\frac{1}{2}(\\log x + \\log y)$ হয়, তবে দেখাও যে, $\\frac{x}{y} + \\frac{y}{x} = 7$",
+      "image": null,
+      "formulas": [
+        "\\log\\left(\\frac{x + y}{3}\\right) = \\frac{1}{2}(\\log x + \\log y)",
+        "\\frac{x}{y} + \\frac{y}{x} = 7"
+      ],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p069",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঙ) যদি $x = 1 + \\log_a(bc), y = 1 + \\log_b(ca)$ এবং $z = 1 + \\log_c(ab)$ হয়, তবে প্রমাণ করো যে, $xyz = xy + yz + zx$",
+      "image": null,
+      "formulas": [
+        "x = 1 + \\log_a(bc), y = 1 + \\log_b(ca)",
+        "z = 1 + \\log_c(ab)",
+        "xyz = xy + yz + zx"
+      ],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.6-p070",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "চ) যদি $2 \\log_8(A) = p, 2 \\log_2(2A) = q$ এবং $q - p = 4$ হয়, তবে $A$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "2 \\log_8(A) = p, 2 \\log_2(2A) = q",
+        "q - p = 4",
+        "A"
+      ],
+      "pdfPageStart": 216,
+      "pdfPageEnd": 216,
+      "printedPageStart": 211,
+      "printedPageEnd": 211,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

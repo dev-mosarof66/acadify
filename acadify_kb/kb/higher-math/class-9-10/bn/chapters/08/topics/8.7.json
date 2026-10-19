@@ -1,0 +1,44 @@
+{
+  "id": "higher-math-9-10-bn-c08-t8.7",
+  "key": "8.7",
+  "title": "ত্রিকোণমিতিক অনুপাতসমূহ",
+  "chapter": 8,
+  "ordinal": 8,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c08-t8.7-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "নবম-দশম শ্রেণির গণিতে সূক্ষ্মকোণের ত্রিকোণমিতিক অনুপাত সম্পর্কে আলোচনা করা হয়েছে। আমরা এখানে যেকোনো কোণের ত্রিকোণমিতিক অনুপাত সমূহ বর্ণনা করব।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 172,
+      "pdfPageEnd": 172,
+      "printedPageStart": 167,
+      "printedPageEnd": 167,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.7-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কোণের প্রমিত অবস্থান (Standard Position): কাতেরসীয় তলে মূল বিন্দু $O$ তে ধনাত্মক $x$-অক্ষকে আদি রশ্মি ধরে কোণ অঙ্কন করলে কোণটির প্রমিত অবস্থান পাওয়া যায়।",
+      "image": null,
+      "formulas": [
+        "O",
+        "x"
+      ],
+      "pdfPageStart": 172,
+      "pdfPageEnd": 172,
+      "printedPageStart": 167,
+      "printedPageEnd": 167,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

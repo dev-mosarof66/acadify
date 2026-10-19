@@ -1,0 +1,1086 @@
+{
+  "id": "higher-math-9-10-bn-c09-t9.ex",
+  "key": "9.ex",
+  "title": "অনুশীলনী ৯.১",
+  "chapter": 9,
+  "ordinal": 5,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p001",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১. প্রমাণ করো যে, $\\left( a^{\\frac{m}{n}} \\right)^p = a^{\\frac{mp}{n}}$, যেখানে $m, p \\in Z$ এবং $n \\in N$",
+      "image": null,
+      "formulas": [
+        "\\left( a^{\\frac{m}{n}} \\right)^p = a^{\\frac{mp}{n}}",
+        "m, p \\in Z",
+        "n \\in N"
+      ],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p002",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "২. প্রমাণ করো যে, $\\left( a^{\\frac{1}{m}} \\right)^{\\frac{1}{n}} = a^{\\frac{1}{mn}}$, যেখানে $m, n \\in Z, m \\neq 0, n \\neq 0$",
+      "image": null,
+      "formulas": [
+        "\\left( a^{\\frac{1}{m}} \\right)^{\\frac{1}{n}} = a^{\\frac{1}{mn}}",
+        "m, n \\in Z, m \\neq 0, n \\neq 0"
+      ],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p003",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৩. প্রমাণ করো যে, $(ab)^{\\frac{m}{n}} = (a)^{\\frac{m}{n}} (b)^{\\frac{m}{n}}$ যেখানে $m \\in Z, n \\in N$",
+      "image": null,
+      "formulas": [
+        "(ab)^{\\frac{m}{n}} = (a)^{\\frac{m}{n}} (b)^{\\frac{m}{n}}",
+        "m \\in Z, n \\in N"
+      ],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p004",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৪. দেখাও যে,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p005",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "ক) $\\left( a^{\\frac{1}{3}} - b^{\\frac{1}{3}} \\right) \\left( a^{\\frac{2}{3}} + a^{\\frac{1}{3}}b^{\\frac{1}{3}} + b^{\\frac{2}{3}} \\right) = a - b$",
+      "image": null,
+      "formulas": [
+        "\\left( a^{\\frac{1}{3}} - b^{\\frac{1}{3}} \\right) \\left( a^{\\frac{2}{3}} + a^{\\frac{1}{3}}b^{\\frac{1}{3}} + b^{\\frac{2}{3}} \\right) = a - b"
+      ],
+      "pdfPageStart": 210,
+      "pdfPageEnd": 210,
+      "printedPageStart": 205,
+      "printedPageEnd": 205,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p006",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$I = \\frac{I + q_{-x} + v_x}{I} + \\frac{I + v_{-x} + v_x}{I} + \\frac{I + v_{-x} + q_x}{I}$$",
+      "image": null,
+      "formulas": [
+        "I = \\frac{I + q_{-x} + v_x}{I} + \\frac{I + v_{-x} + v_x}{I} + \\frac{I + v_{-x} + q_x}{I}"
+      ],
+      "pdfPageStart": 211,
+      "pdfPageEnd": 211,
+      "printedPageStart": 206,
+      "printedPageEnd": 206,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p007",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "'ᱳ ᱰᱳᱰᱰ ᱳᱰᱰ 'ᱳᱰᱰ 0 = v + q + v ᱳᱳᱳ (᱑)",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 211,
+      "pdfPageEnd": 211,
+      "printedPageStart": 206,
+      "printedPageEnd": 206,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p008",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "0 = v - qv - vq - vq 'ᱳ ᱰᱳᱰᱰ ᱳᱰᱰ 'ᱳᱰᱰ $\\frac{v}{I}v + \\frac{v}{v}v + I = q$ ᱳᱳᱳ (᱒)",
+      "image": null,
+      "formulas": [
+        "\\frac{v}{I}v + \\frac{v}{v}v + I = q"
+      ],
+      "pdfPageStart": 211,
+      "pdfPageEnd": 211,
+      "printedPageStart": 206,
+      "printedPageEnd": 206,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p009",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "$\\frac{v}{I} - q + \\frac{v}{I}v = \\frac{v}{v} \\left( \\frac{v}{q} \\right) + \\frac{v}{v} \\left( \\frac{q}{v} \\right)$ 'ᱳ ᱰᱳᱰᱰ ᱳᱰᱰ 'ᱳᱰᱰ $vq = v^v$ ᱳᱳᱳ (᱓)",
+      "image": null,
+      "formulas": [
+        "\\frac{v}{I} - q + \\frac{v}{I}v = \\frac{v}{v} \\left( \\frac{v}{q} \\right) + \\frac{v}{v} \\left( \\frac{q}{v} \\right)",
+        "vq = v^v"
+      ],
+      "pdfPageStart": 211,
+      "pdfPageEnd": 211,
+      "printedPageStart": 206,
+      "printedPageEnd": 206,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p010",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "8 = v6 + vqv 'ᱳ ᱰᱳᱰᱰ ᱳᱰᱰ 'ᱳᱰᱰ 0 $\\overline{=} v$ ᱳᱳᱳ $\\frac{v}{v}v + \\frac{v}{v}v = v + v^v$ ᱳᱳᱳ (᱔)",
+      "image": null,
+      "formulas": [
+        "\\overline{=} v",
+        "\\frac{v}{v}v + \\frac{v}{v}v = v + v^v"
+      ],
+      "pdfPageStart": 211,
+      "pdfPageEnd": 211,
+      "printedPageStart": 206,
+      "printedPageEnd": 206,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p011",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$0 = v\\overline{z} - x\\overline{z}v - v^x$$",
+      "image": null,
+      "formulas": [
+        "0 = v\\overline{z} - x\\overline{z}v - v^x"
+      ],
+      "pdfPageStart": 211,
+      "pdfPageEnd": 211,
+      "printedPageStart": 206,
+      "printedPageEnd": 206,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p012",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "'ᱳ ᱰᱳᱰᱰ ᱳᱰᱰ 'ᱳᱰᱰ $v^{\\overline{z}} = v\\overline{z} - v^v$ ᱳᱳᱳ $\\frac{v}{I}(q - v) + \\frac{v}{I}(q + v) = x$ ᱳᱳᱳ (᱕)",
+      "image": null,
+      "formulas": [
+        "v^{\\overline{z}} = v\\overline{z} - v^v",
+        "\\frac{v}{I}(q - v) + \\frac{v}{I}(q + v) = x"
+      ],
+      "pdfPageStart": 211,
+      "pdfPageEnd": 211,
+      "printedPageStart": 206,
+      "printedPageEnd": 206,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p013",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$zhxv\\overline{z} = v^z\\overline{z} + v^h\\overline{q} + v^x\\overline{v}$$",
+      "image": null,
+      "formulas": [
+        "zhxv\\overline{z} = v^z\\overline{z} + v^h\\overline{q} + v^x\\overline{v}"
+      ],
+      "pdfPageStart": 211,
+      "pdfPageEnd": 211,
+      "printedPageStart": 206,
+      "printedPageEnd": 206,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p014",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "'ᱳ ᱰᱳᱰᱰ ᱳᱰᱰ 'ᱳᱰᱰ $vq = v^v$ ᱳᱳᱳ 0 = $v\\sqrt{v}z + q\\sqrt{v}h + v\\sqrt{v}x$ ᱳᱳᱳ (᱖)",
+      "image": null,
+      "formulas": [
+        "vq = v^v",
+        "v\\sqrt{v}z + q\\sqrt{v}h + v\\sqrt{v}x"
+      ],
+      "pdfPageStart": 211,
+      "pdfPageEnd": 211,
+      "printedPageStart": 206,
+      "printedPageEnd": 206,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p015",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$I = zhx \\quad ᱳᱰᱰ \\quad 'ᱳᱰᱰ \\quad z(x^b\\overline{h}d) = v^v \\quad ᱳᱳᱳ \\quad b = \\overline{h}^v \\quad 'd = x^v \\quad ᱳᱳᱳ \\quad (᱗)$$",
+      "image": null,
+      "formulas": [
+        "I = zhx \\quad ᱳᱰᱰ \\quad 'ᱳᱰᱰ \\quad z(x^b\\overline{h}d) = v^v \\quad ᱳᱳᱳ \\quad b = \\overline{h}^v \\quad 'd = x^v \\quad ᱳᱳᱳ \\quad (᱗)"
+      ],
+      "pdfPageStart": 211,
+      "pdfPageEnd": 211,
+      "printedPageStart": 206,
+      "printedPageEnd": 206,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p016",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$I = .bd \\quad ᱳᱰᱰ \\quad 'ᱳᱰᱰ \\quad v = .x \\quad ᱳᱳᱳ \\quad v = b\\overline{q} \\quad 'q = d^v \\quad ᱳᱳᱳ \\quad (᱘)$$",
+      "image": null,
+      "formulas": [
+        "I = .bd \\quad ᱳᱰᱰ \\quad 'ᱳᱰᱰ \\quad v = .x \\quad ᱳᱳᱳ \\quad v = b\\overline{q} \\quad 'q = d^v \\quad ᱳᱳᱳ \\quad (᱘)"
+      ],
+      "pdfPageStart": 211,
+      "pdfPageEnd": 211,
+      "printedPageStart": 206,
+      "printedPageEnd": 206,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p017",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$I = \\overline{b-d}z \\cdot \\overline{d-x}h \\cdot \\overline{x-b}x \\quad ᱳᱰᱰ \\quad 'ᱳᱰᱰ \\quad .q\\overline{b+d}v = z \\quad 'bq\\overline{d+x}v = h \\quad 'dq\\overline{x+b}v = x \\quad ᱳᱳᱳ \\quad (᱙)$$",
+      "image": null,
+      "formulas": [
+        "I = \\overline{b-d}z \\cdot \\overline{d-x}h \\cdot \\overline{x-b}x \\quad ᱳᱰᱰ \\quad 'ᱳᱰᱰ \\quad .q\\overline{b+d}v = z \\quad 'bq\\overline{d+x}v = h \\quad 'dq\\overline{x+b}v = x \\quad ᱳᱳᱳ \\quad (᱙)"
+      ],
+      "pdfPageStart": 211,
+      "pdfPageEnd": 211,
+      "printedPageStart": 206,
+      "printedPageEnd": 206,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p018",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "'ᱳ ᱰᱳᱰᱰ ᱰᱳᱳ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 211,
+      "pdfPageEnd": 211,
+      "printedPageStart": 206,
+      "printedPageEnd": 206,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p019",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{q-v(I-v+q)_q(v-v-vq)}{v-q(I-q-v)_v(v-q-v^v)}$$ (᱑)",
+      "image": null,
+      "formulas": [
+        "\\frac{q-v(I-v+q)_q(v-v-vq)}{v-q(I-q-v)_v(v-q-v^v)}"
+      ],
+      "pdfPageStart": 211,
+      "pdfPageEnd": 211,
+      "printedPageStart": 206,
+      "printedPageEnd": 206,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p020",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "$$\\underbrace{\\frac{\\frac{v}{q}x}{\\frac{q}{v}x} \\int_{qv}} \\times \\underbrace{\\frac{\\frac{v}{v}x}{\\frac{v}{v}x} \\int_{v\\overline{v}}}_{\\frac{v}{v}x} \\times \\underbrace{\\frac{\\frac{q}{v}x}{\\frac{v}{q}x} \\int_{vq}}$$ (᱒)",
+      "image": null,
+      "formulas": [
+        "\\underbrace{\\frac{\\frac{v}{q}x}{\\frac{q}{v}x} \\int_{qv}} \\times \\underbrace{\\frac{\\frac{v}{v}x}{\\frac{v}{v}x} \\int_{v\\overline{v}}}_{\\frac{v}{v}x} \\times \\underbrace{\\frac{\\frac{q}{v}x}{\\frac{v}{q}x} \\int_{vq}}"
+      ],
+      "pdfPageStart": 211,
+      "pdfPageEnd": 211,
+      "printedPageStart": 206,
+      "printedPageEnd": 206,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p021",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{uq\\overline{d-v} + uv\\overline{d-v} + I}{I} + \\frac{uv\\overline{u-q} + dv\\overline{u-q} + I}{I} + \\frac{d\\overline{v}u-v + uq\\overline{u-v} + I}{I}$$ (᱓)",
+      "image": null,
+      "formulas": [
+        "\\frac{uq\\overline{d-v} + uv\\overline{d-v} + I}{I} + \\frac{uv\\overline{u-q} + dv\\overline{u-q} + I}{I} + \\frac{d\\overline{v}u-v + uq\\overline{u-v} + I}{I}"
+      ],
+      "pdfPageStart": 211,
+      "pdfPageEnd": 211,
+      "printedPageStart": 206,
+      "printedPageEnd": 206,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p022",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{q-v\\sqrt{\\phantom{x}}}{v\\sqrt{\\phantom{x}}} - \\frac{vq - qv}{qv + \\frac{v}{v}v}$$ (᱔)",
+      "image": null,
+      "formulas": [
+        "\\frac{q-v\\sqrt{\\phantom{x}}}{v\\sqrt{\\phantom{x}}} - \\frac{vq - qv}{qv + \\frac{v}{v}v}"
+      ],
+      "pdfPageStart": 211,
+      "pdfPageEnd": 211,
+      "printedPageStart": 206,
+      "printedPageEnd": 206,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p023",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{\\frac{q-v}{q} \\left( \\frac{v}{q-v} \\right) \\times \\frac{q-v}{q} \\left( \\frac{q}{q+v} \\right)}{\\frac{q-v}{v} \\left( \\frac{v}{q-v} \\right) \\times \\frac{q-v}{v} \\left( \\frac{q}{q+v} \\right)}$$ (᱕)",
+      "image": null,
+      "formulas": [
+        "\\frac{\\frac{q-v}{q} \\left( \\frac{v}{q-v} \\right) \\times \\frac{q-v}{q} \\left( \\frac{q}{q+v} \\right)}{\\frac{q-v}{v} \\left( \\frac{v}{q-v} \\right) \\times \\frac{q-v}{v} \\left( \\frac{q}{q+v} \\right)}"
+      ],
+      "pdfPageStart": 211,
+      "pdfPageEnd": 211,
+      "printedPageStart": 206,
+      "printedPageEnd": 206,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p024",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "'ᱳᱰᱰ ᱳᱰᱰ ᱰᱳᱳ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 211,
+      "pdfPageEnd": 211,
+      "printedPageStart": 206,
+      "printedPageEnd": 206,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p025",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "$$I - \\frac{v}{v-v}v + \\frac{v}{v}v = \\frac{I + \\frac{v}{v-v}v + \\frac{v}{v}v}{I + \\frac{v}{v-v}v + \\frac{v}{v}v}$$ (᱖)",
+      "image": null,
+      "formulas": [
+        "I - \\frac{v}{v-v}v + \\frac{v}{v}v = \\frac{I + \\frac{v}{v-v}v + \\frac{v}{v}v}{I + \\frac{v}{v-v}v + \\frac{v}{v}v}"
+      ],
+      "pdfPageStart": 211,
+      "pdfPageEnd": 211,
+      "printedPageStart": 206,
+      "printedPageEnd": 206,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p026",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৮. ক) যদি $a^x = b$, $b^y = c$ এবং $c^z = 1$ হয়, তবে $xyz$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "a^x = b",
+        "b^y = c",
+        "c^z = 1",
+        "xyz"
+      ],
+      "pdfPageStart": 212,
+      "pdfPageEnd": 212,
+      "printedPageStart": 207,
+      "printedPageEnd": 207,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p027",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "খ) যদি $x^a = y^b = z^c$ এবং $xyz = 1$ হয়, তবে $ab + bc + ca$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "x^a = y^b = z^c",
+        "xyz = 1",
+        "ab + bc + ca"
+      ],
+      "pdfPageStart": 212,
+      "pdfPageEnd": 212,
+      "printedPageStart": 207,
+      "printedPageEnd": 207,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p028",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "গ) যদি $9^x = 27^y$ হয়, তবে $\\frac{x}{y}$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "9^x = 27^y",
+        "\\frac{x}{y}"
+      ],
+      "pdfPageStart": 212,
+      "pdfPageEnd": 212,
+      "printedPageStart": 207,
+      "printedPageEnd": 207,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p029",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৯. সমাধান করো:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 212,
+      "pdfPageEnd": 212,
+      "printedPageStart": 207,
+      "printedPageEnd": 207,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p030",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "ক) $3^{2x+2} + 27^{x+1} = 36$",
+      "image": null,
+      "formulas": [
+        "3^{2x+2} + 27^{x+1} = 36"
+      ],
+      "pdfPageStart": 212,
+      "pdfPageEnd": 212,
+      "printedPageStart": 207,
+      "printedPageEnd": 207,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p031",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "গ) $4^{3y-2} = 16^{x+y}$, $3^{x+2y} = 9^{2x+1}$",
+      "image": null,
+      "formulas": [
+        "4^{3y-2} = 16^{x+y}",
+        "3^{x+2y} = 9^{2x+1}"
+      ],
+      "pdfPageStart": 212,
+      "pdfPageEnd": 212,
+      "printedPageStart": 207,
+      "printedPageEnd": 207,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p032",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "খ) $5^x + 3^y = 8$, $5^{x-1} + 3^{y-1} = 2$",
+      "image": null,
+      "formulas": [
+        "5^x + 3^y = 8",
+        "5^{x-1} + 3^{y-1} = 2"
+      ],
+      "pdfPageStart": 212,
+      "pdfPageEnd": 212,
+      "printedPageStart": 207,
+      "printedPageEnd": 207,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p033",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "ঘ) $2^{2x+1} \\cdot 2^{3y+1} = 8$, $2^{x+2} \\cdot 2^{y+2} = 16$",
+      "image": null,
+      "formulas": [
+        "2^{2x+1} \\cdot 2^{3y+1} = 8",
+        "2^{x+2} \\cdot 2^{y+2} = 16"
+      ],
+      "pdfPageStart": 212,
+      "pdfPageEnd": 212,
+      "printedPageStart": 207,
+      "printedPageEnd": 207,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p034",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৯.২",
+      "caption": null,
+      "body": "১. দেখাও যে,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 225,
+      "pdfPageEnd": 225,
+      "printedPageStart": 220,
+      "printedPageEnd": 220,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p035",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৯.২",
+      "caption": null,
+      "body": "ক) $\\log_k(ab)\\log_k \\left(\\frac{a}{b}\\right) + \\log_k(bc)\\log_k \\left(\\frac{b}{c}\\right) + \\log_k(ca)\\log_k \\left(\\frac{c}{a}\\right) = 0$",
+      "image": null,
+      "formulas": [
+        "\\log_k(ab)\\log_k \\left(\\frac{a}{b}\\right) + \\log_k(bc)\\log_k \\left(\\frac{b}{c}\\right) + \\log_k(ca)\\log_k \\left(\\frac{c}{a}\\right) = 0"
+      ],
+      "pdfPageStart": 225,
+      "pdfPageEnd": 225,
+      "printedPageStart": 220,
+      "printedPageEnd": 220,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p036",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৯.২",
+      "caption": null,
+      "body": "খ) $\\log_{\\sqrt{a}}b \\times \\log_{\\sqrt{b}}c \\times \\log_{\\sqrt{c}}a = 8$",
+      "image": null,
+      "formulas": [
+        "\\log_{\\sqrt{a}}b \\times \\log_{\\sqrt{b}}c \\times \\log_{\\sqrt{c}}a = 8"
+      ],
+      "pdfPageStart": 225,
+      "pdfPageEnd": 225,
+      "printedPageStart": 220,
+      "printedPageEnd": 220,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p037",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৯.২",
+      "caption": null,
+      "body": "গ) $\\log_a \\log_a \\log_a \\left(a^{a^{a^b}}\\right) = b$",
+      "image": null,
+      "formulas": [
+        "\\log_a \\log_a \\log_a \\left(a^{a^{a^b}}\\right) = b"
+      ],
+      "pdfPageStart": 225,
+      "pdfPageEnd": 225,
+      "printedPageStart": 220,
+      "printedPageEnd": 220,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p038",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৯.২",
+      "caption": null,
+      "body": "২. ক) যদি $\\frac{\\log_k a}{b - c} = \\frac{\\log_k b}{c - a} = \\frac{\\log_k c}{a - b}$ হয়, তবে দেখাও যে, $a^a b^b c^c = 1$",
+      "image": null,
+      "formulas": [
+        "\\frac{\\log_k a}{b - c} = \\frac{\\log_k b}{c - a} = \\frac{\\log_k c}{a - b}",
+        "a^a b^b c^c = 1"
+      ],
+      "pdfPageStart": 225,
+      "pdfPageEnd": 225,
+      "printedPageStart": 220,
+      "printedPageEnd": 220,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p039",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৯.২",
+      "caption": null,
+      "body": "খ) যদি $\\frac{\\log_k a}{y - z} = \\frac{\\log_k b}{z - x} = \\frac{\\log_k c}{x - y}$ হয়, তবে দেখাও যে,",
+      "image": null,
+      "formulas": [
+        "\\frac{\\log_k a}{y - z} = \\frac{\\log_k b}{z - x} = \\frac{\\log_k c}{x - y}"
+      ],
+      "pdfPageStart": 225,
+      "pdfPageEnd": 225,
+      "printedPageStart": 220,
+      "printedPageEnd": 220,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p040",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৯.২",
+      "caption": null,
+      "body": "(১) $a^{y+z} b^{z+x} c^{x+y} = 1$",
+      "image": null,
+      "formulas": [
+        "a^{y+z} b^{z+x} c^{x+y} = 1"
+      ],
+      "pdfPageStart": 225,
+      "pdfPageEnd": 225,
+      "printedPageStart": 220,
+      "printedPageEnd": 220,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p041",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৯.২",
+      "caption": null,
+      "body": "(২) $a^{y^2+yz+z^2} \\cdot b^{z^2+zx+x^2} \\cdot c^{x^2+xy+y^2} = 1$",
+      "image": null,
+      "formulas": [
+        "a^{y^2+yz+z^2} \\cdot b^{z^2+zx+x^2} \\cdot c^{x^2+xy+y^2} = 1"
+      ],
+      "pdfPageStart": 225,
+      "pdfPageEnd": 225,
+      "printedPageStart": 220,
+      "printedPageEnd": 220,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p042",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৯.২",
+      "caption": null,
+      "body": "গ) যদি $\\frac{\\log_k(1 + x)}{\\log_k x} = 2$ হয়, তবে দেখাও যে, $x = \\frac{1 + \\sqrt{5}}{2}$",
+      "image": null,
+      "formulas": [
+        "\\frac{\\log_k(1 + x)}{\\log_k x} = 2",
+        "x = \\frac{1 + \\sqrt{5}}{2}"
+      ],
+      "pdfPageStart": 225,
+      "pdfPageEnd": 225,
+      "printedPageStart": 220,
+      "printedPageEnd": 220,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p043",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৯.২",
+      "caption": null,
+      "body": "ঘ) দেখাও যে, $\\log_k \\frac{x - \\sqrt{x^2 - 1}}{x + \\sqrt{x^2 - 1}} = 2 \\log_k (x - \\sqrt{x^2 - 1})$",
+      "image": null,
+      "formulas": [
+        "\\log_k \\frac{x - \\sqrt{x^2 - 1}}{x + \\sqrt{x^2 - 1}} = 2 \\log_k (x - \\sqrt{x^2 - 1})"
+      ],
+      "pdfPageStart": 225,
+      "pdfPageEnd": 225,
+      "printedPageStart": 220,
+      "printedPageEnd": 220,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p044",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৯.২",
+      "caption": null,
+      "body": "ঙ) যদি $a^{3-x} b^{5x} = a^{5+x} b^{3x}$ হয়, তবে দেখাও যে, $x \\log_k \\left(\\frac{b}{a}\\right) = \\log_k a$",
+      "image": null,
+      "formulas": [
+        "a^{3-x} b^{5x} = a^{5+x} b^{3x}",
+        "x \\log_k \\left(\\frac{b}{a}\\right) = \\log_k a"
+      ],
+      "pdfPageStart": 225,
+      "pdfPageEnd": 225,
+      "printedPageStart": 220,
+      "printedPageEnd": 220,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p045",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৯.২",
+      "caption": null,
+      "body": "চ) যদি $xy^{a-1} = p, xy^{b-1} = q, xy^{c-1} = r$ হয়, তবে দেখাও যে,\n$$(b - c)\\log_k p + (c - a)\\log_k q + (a - b)\\log_k r = 0$$",
+      "image": null,
+      "formulas": [
+        "xy^{a-1} = p, xy^{b-1} = q, xy^{c-1} = r",
+        "(b - c)\\log_k p + (c - a)\\log_k q + (a - b)\\log_k r = 0"
+      ],
+      "pdfPageStart": 226,
+      "pdfPageEnd": 226,
+      "printedPageStart": 221,
+      "printedPageEnd": 221,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p046",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৯.২",
+      "caption": null,
+      "body": "ছ) যদি $\\frac{ab \\log_k(ab)}{a + b} = \\frac{bc \\log_k(bc)}{b + c} = \\frac{ca \\log_k(ca)}{c + a}$ হয়, তবে দেখাও যে,\n$$a^a = b^b = c^c$$",
+      "image": null,
+      "formulas": [
+        "\\frac{ab \\log_k(ab)}{a + b} = \\frac{bc \\log_k(bc)}{b + c} = \\frac{ca \\log_k(ca)}{c + a}",
+        "a^a = b^b = c^c"
+      ],
+      "pdfPageStart": 226,
+      "pdfPageEnd": 226,
+      "printedPageStart": 221,
+      "printedPageEnd": 221,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p047",
+      "kind": "exercise",
+      "section": "অনুশীলনী ৯.২",
+      "caption": null,
+      "body": "জ) যদি $\\frac{x(y + z - x)}{\\log_k x} = \\frac{y(z + x - y)}{\\log_k y} = \\frac{z(x + y - z)}{\\log_k z}$ হয়, তবে দেখাও যে,\n$$x^y y^x = y^z z^y = z^x x^z$$",
+      "image": null,
+      "formulas": [
+        "\\frac{x(y + z - x)}{\\log_k x} = \\frac{y(z + x - y)}{\\log_k y} = \\frac{z(x + y - z)}{\\log_k z}",
+        "x^y y^x = y^z z^y = z^x x^z"
+      ],
+      "pdfPageStart": 226,
+      "pdfPageEnd": 226,
+      "printedPageStart": 221,
+      "printedPageEnd": 221,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p048",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "১. $\\left\\{ \\left( x^{\\frac{1}{a}} \\right)^{\\frac{a^2 - b^2}{a - b}} \\right\\}^{\\frac{a}{a + b}}$ এর সরল মান কোনটি?\nক) 0                      খ) 1                      গ) $a$                      ঘ) $x$",
+      "image": null,
+      "formulas": [
+        "\\left\\{ \\left( x^{\\frac{1}{a}} \\right)^{\\frac{a^2 - b^2}{a - b}} \\right\\}^{\\frac{a}{a + b}}",
+        "a",
+        "x"
+      ],
+      "pdfPageStart": 227,
+      "pdfPageEnd": 227,
+      "printedPageStart": 222,
+      "printedPageEnd": 222,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p049",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "২. যদি $a, b, p > 0$ এবং $a \\neq 1, b \\neq 1$ হয়, তবে\n(i) $\\log_a P = \\log_b P \\times \\log_a b$\n(ii) $\\log_a \\sqrt{a} \\times \\log_b \\sqrt{b} \\times \\log_c \\sqrt{c} = 2$\n(iii) $x^{\\log_a y} = y^{\\log_a x}$",
+      "image": null,
+      "formulas": [
+        "a, b, p > 0",
+        "a \\neq 1, b \\neq 1",
+        "\\log_a P = \\log_b P \\times \\log_a b",
+        "\\log_a \\sqrt{a} \\times \\log_b \\sqrt{b} \\times \\log_c \\sqrt{c} = 2",
+        "x^{\\log_a y} = y^{\\log_a x}"
+      ],
+      "pdfPageStart": 227,
+      "pdfPageEnd": 227,
+      "printedPageStart": 222,
+      "printedPageEnd": 222,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p050",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "উপরের তথ্যের আলোকে নিচের কোনটি সঠিক?\nক) $i$ ও $ii$                      খ) $ii$ ও $iii$                      গ) $i$ ও $iii$                      ঘ) $i, ii$ ও $iii$",
+      "image": null,
+      "formulas": [
+        "i",
+        "ii",
+        "ii",
+        "iii",
+        "i",
+        "iii",
+        "i, ii",
+        "iii"
+      ],
+      "pdfPageStart": 227,
+      "pdfPageEnd": 227,
+      "printedPageStart": 222,
+      "printedPageEnd": 222,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p051",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৩ ও ৪ নং প্রশ্নের উত্তর দাও যখন $x, y, z \\neq 0$ এবং $a^x = b^y = c^z$",
+      "image": null,
+      "formulas": [
+        "x, y, z \\neq 0",
+        "a^x = b^y = c^z"
+      ],
+      "pdfPageStart": 227,
+      "pdfPageEnd": 227,
+      "printedPageStart": 222,
+      "printedPageEnd": 222,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p052",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৩. কোনটি সঠিক?\nক) $a = b^{\\frac{y}{z}}$                      খ) $a = c^{\\frac{z}{y}}$                      গ) $a = c^{\\frac{z}{x}}$                      ঘ) $a \\neq \\frac{b^2}{c}$",
+      "image": null,
+      "formulas": [
+        "a = b^{\\frac{y}{z}}",
+        "a = c^{\\frac{z}{y}}",
+        "a = c^{\\frac{z}{x}}",
+        "a \\neq \\frac{b^2}{c}"
+      ],
+      "pdfPageStart": 227,
+      "pdfPageEnd": 227,
+      "printedPageStart": 222,
+      "printedPageEnd": 222,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p053",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৪. $b^2 = ac$ হলে নিচের কোনটি সঠিক?\nক) $\\frac{1}{x} + \\frac{1}{z} = \\frac{2}{y}$                      খ) $\\frac{1}{x} + \\frac{1}{y} = \\frac{2}{z}$                      গ) $\\frac{1}{y} + \\frac{1}{z} = \\frac{2}{x}$                      ঘ) $\\frac{1}{x} + \\frac{1}{y} = \\frac{z}{2}$",
+      "image": null,
+      "formulas": [
+        "b^2 = ac",
+        "\\frac{1}{x} + \\frac{1}{z} = \\frac{2}{y}",
+        "\\frac{1}{x} + \\frac{1}{y} = \\frac{2}{z}",
+        "\\frac{1}{y} + \\frac{1}{z} = \\frac{2}{x}",
+        "\\frac{1}{x} + \\frac{1}{y} = \\frac{z}{2}"
+      ],
+      "pdfPageStart": 227,
+      "pdfPageEnd": 227,
+      "printedPageStart": 222,
+      "printedPageEnd": 222,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p054",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "৫. $f(x) = 3^{2x+2}$ এবং $g(x) = 27^{x+1}$\nক) $f(x)$ এর ডোমেন নির্ণয় করো।\nখ) $f(x) + g(x) = 36$ হলে, $x$ এর মান নির্ণয় করো।\nগ) $q(x) = \\frac{g(x)}{f(x)}$ হলে, $q(x)$ এর লেখচিত্র অঙ্কন করে লেখচিত্র থেকে ডোমেন এবং রেঞ্জ নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "f(x) = 3^{2x+2}",
+        "g(x) = 27^{x+1}",
+        "f(x)",
+        "f(x) + g(x) = 36",
+        "x",
+        "q(x) = \\frac{g(x)}{f(x)}",
+        "q(x)"
+      ],
+      "pdfPageStart": 227,
+      "pdfPageEnd": 227,
+      "printedPageStart": 222,
+      "printedPageEnd": 222,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.ex-p055",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "৬. ক) $\\sqrt[16]{(m^{12})\\sqrt{(m^5)\\sqrt{m^6}}}$ এর মান নির্ণয় করো।\nখ) যদি $a = 2^{\\frac{1}{3}} + 2^{-\\frac{1}{3}}$ হয়, তবে দেখাও যে, $2a^3 - 6a = 5$\nগ) $f(x) = \\ln (x - 2)$ ফাংশনের ডোমেন $D_f$ এবং রেঞ্জ $R_f$ নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "\\sqrt[16]{(m^{12})\\sqrt{(m^5)\\sqrt{m^6}}}",
+        "a = 2^{\\frac{1}{3}} + 2^{-\\frac{1}{3}}",
+        "2a^3 - 6a = 5",
+        "f(x) = \\ln (x - 2)",
+        "D_f",
+        "R_f"
+      ],
+      "pdfPageStart": 227,
+      "pdfPageEnd": 227,
+      "printedPageStart": 222,
+      "printedPageEnd": 222,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

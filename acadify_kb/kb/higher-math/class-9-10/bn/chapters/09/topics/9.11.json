@@ -1,0 +1,244 @@
+{
+  "id": "higher-math-9-10-bn-c09-t9.11",
+  "key": "9.11",
+  "title": "পরমমান",
+  "chapter": 9,
+  "ordinal": 12,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c09-t9.11-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "নবম-দশম শ্রেণির গণিতে এ সম্পর্কে বিস্তারিত বর্ণনা করা হয়েছে। এখানে শুধুমাত্র পরমমানের সংজ্ঞা দেওয়া হলো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 220,
+      "pdfPageEnd": 220,
+      "printedPageStart": 215,
+      "printedPageEnd": 215,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.11-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যেকোনো বাস্তব সংখ্যা $x$ এর মান শূন্য, ধনাত্মক বা ঋণাত্মক। কিন্তু $x$ এর পরমমান সবসময়ই শূন্য বা ধনাত্মক। $x$ এর পরমমানকে $|x|$ দ্বারা প্রকাশ করা হয় এবং পরমমান নিম্নলিখিতভাবে সংজ্ঞায়িত করা হয়।",
+      "image": null,
+      "formulas": [
+        "x",
+        "x",
+        "x",
+        "|x|"
+      ],
+      "pdfPageStart": 220,
+      "pdfPageEnd": 220,
+      "printedPageStart": 215,
+      "printedPageEnd": 215,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.11-p003",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$|x| = \\begin{cases} x, & যখন  x \\ge 0 \\\\ -x, & যখন  x < 0 \\end{cases}$$",
+      "image": null,
+      "formulas": [
+        "|x| = \\begin{cases} x, & যখন  x \\ge 0 \\\\ -x, & যখন  x < 0 \\end{cases}"
+      ],
+      "pdfPageStart": 221,
+      "pdfPageEnd": 221,
+      "printedPageStart": 216,
+      "printedPageEnd": 216,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.11-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৩২.** $|0| = 0, |3| = 3, |-3| = -(-3) = 3$",
+      "image": null,
+      "formulas": [
+        "|0| = 0, |3| = 3, |-3| = -(-3) = 3"
+      ],
+      "pdfPageStart": 221,
+      "pdfPageEnd": 221,
+      "printedPageStart": 216,
+      "printedPageEnd": 216,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.11-p005",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane showing absolute value function graph",
+      "image": "p221-page_24_chart_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 221,
+      "pdfPageEnd": 221,
+      "printedPageStart": 216,
+      "printedPageEnd": 216,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.11-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**পরমমমান ফাংশন (Absolute Value Function)**\nযদি $x \\in R$ হয় তবে\n$$y = f(x) = |x| = \\begin{cases} x & যখন  x \\ge 0 \\\\ -x & যখন  x < 0 \\end{cases}$$\nকে পরমমমান ফাংশন বলা হয়।\n$\\therefore$ ডোমেন $D_f = R$ এবং রেঞ্জ $R_f = [0, \\infty)$",
+      "image": null,
+      "formulas": [
+        "x \\in R",
+        "y = f(x) = |x| = \\begin{cases} x & যখন  x \\ge 0 \\\\ -x & যখন  x < 0 \\end{cases}",
+        "\\therefore",
+        "D_f = R",
+        "R_f = [0, \\infty)"
+      ],
+      "pdfPageStart": 221,
+      "pdfPageEnd": 221,
+      "printedPageStart": 216,
+      "printedPageEnd": 216,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.11-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৩৩.** $f(x) = e^{\\frac{-|x|}{2}}$ যখন $-1 < x < 0$। এর ডোমেন ও রেঞ্জ নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "f(x) = e^{\\frac{-|x|}{2}}",
+        "-1 < x < 0"
+      ],
+      "pdfPageStart": 221,
+      "pdfPageEnd": 221,
+      "printedPageStart": 216,
+      "printedPageEnd": 216,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.11-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $f(x) = e^{\\frac{-|x|}{2}}, -1 < x < 0$",
+      "image": null,
+      "formulas": [
+        "f(x) = e^{\\frac{-|x|}{2}}, -1 < x < 0"
+      ],
+      "pdfPageStart": 221,
+      "pdfPageEnd": 221,
+      "printedPageStart": 216,
+      "printedPageEnd": 216,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.11-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$x$ এর মান যেহেতু $-1$ থেকে $0$ এর মধ্যে নির্দিষ্ট।",
+      "image": null,
+      "formulas": [
+        "x",
+        "-1",
+        "0"
+      ],
+      "pdfPageStart": 221,
+      "pdfPageEnd": 221,
+      "printedPageStart": 216,
+      "printedPageEnd": 216,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.11-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং ডোমেন $D_f = (-1, 0)$",
+      "image": null,
+      "formulas": [
+        "D_f = (-1, 0)"
+      ],
+      "pdfPageStart": 221,
+      "pdfPageEnd": 221,
+      "printedPageStart": 216,
+      "printedPageEnd": 216,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.11-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার $-1 < x < 0$ ব্যবধিতে $f(x) \\in (e^{\\frac{-1}{2}}, 1)$",
+      "image": null,
+      "formulas": [
+        "-1 < x < 0",
+        "f(x) \\in (e^{\\frac{-1}{2}}, 1)"
+      ],
+      "pdfPageStart": 221,
+      "pdfPageEnd": 221,
+      "printedPageStart": 216,
+      "printedPageEnd": 216,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.11-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং রেঞ্জ $f = (e^{\\frac{-1}{2}}, 1)$",
+      "image": null,
+      "formulas": [
+        "f = (e^{\\frac{-1}{2}}, 1)"
+      ],
+      "pdfPageStart": 221,
+      "pdfPageEnd": 221,
+      "printedPageStart": 216,
+      "printedPageEnd": 216,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

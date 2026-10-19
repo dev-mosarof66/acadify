@@ -1,0 +1,177 @@
+{
+  "id": "higher-math-9-10-bn-c14-t14.3",
+  "key": "14.3",
+  "title": "তথ্যভিত্তিক সম্ভাবনা নির্ণয়",
+  "chapter": 14,
+  "ordinal": 3,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c14-t14.3-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যুক্তিভিত্তিক সম্ভাবনা নির্ণয়ে ফলাফলগুলো সমসম্ভাব্য হতে হয়। বাস্তবে সকল ক্ষেত্রে ফলাফলগুলো সমসম্ভাব্য হয় না। তাছাড়া অনেক ক্ষেত্রে সম্ভাবনার যুক্তিভিত্তিক সংজ্ঞার মতো কিছু গণনা করা যায় না। যেমন আবহাওয়ার পূর্বাভাসে বলা হচ্ছে আজ বৃষ্টি হবার সম্ভাবনা 30%, বিশ্বকাপ ফুটবলে ব্রাজিলের জয়ী হওয়ার সম্ভাবনা 40%, এশিয়া কাপ ক্রিকেটে বাংলাদেশের জয়ী হওয়ার সম্ভাবনা 60%। এসব সিদ্ধান্ত নেওয়া হয় অতীতের পরিসংখ্যান হতে এবং এটাই হচ্ছে তথ্যভিত্তিক সম্ভাবনার ধারণা।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 314,
+      "pdfPageEnd": 314,
+      "printedPageStart": 309,
+      "printedPageEnd": 309,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.3-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধরা যাক, একটা মুদ্রা 1000 বার নিক্ষেপ করায় 523 বার হেড পাওয়া গেল। এ ক্ষেত্রে হেডের আপেক্ষিক গণসংখ্যা $\\frac{523}{1000} = 0.523$। ধরা যাক মুদ্রাটিকে 2000 বার নিক্ষেপ করাতে 1030 বার হেড আসে। তাহলে 2000 বারের মধ্যে $H$ এর আপেক্ষিক গণসংখ্যা $\\frac{1030}{2000} = 0.515$। এখান থেকে বুঝা যায় যে, পরীক্ষাটি ক্রমাগত চালিয়ে গেলে (পরীক্ষাটি যতবেশি বার করা যাবে) আপেক্ষিক গণসংখ্যার মানটি এমন একটি সংখ্যার কাছাকাছি হবে যাকে মুদ্রাটি একবার নিক্ষেপ করলে হেড আসার সম্ভাবনা হবে। একেই তথ্যভিত্তিক সম্ভাবনা বলা হয়।",
+      "image": null,
+      "formulas": [
+        "\\frac{523}{1000} = 0.523",
+        "H",
+        "\\frac{1030}{2000} = 0.515"
+      ],
+      "pdfPageStart": 314,
+      "pdfPageEnd": 314,
+      "printedPageStart": 309,
+      "printedPageEnd": 309,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.3-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৪.** আবহাওয়া দপ্তর থেকে পাওয়া রিপোর্ট অনুযায়ী জুলাই মাসে ঢাকা শহরে 21দিন বৃষ্টি হয়েছে। তাহলে 8জুলাই বৃষ্টি হওয়ার সম্ভাবনা কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 314,
+      "pdfPageEnd": 314,
+      "printedPageStart": 309,
+      "printedPageEnd": 309,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.3-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** যেহেতু জুলাই মাস 31দিন এবং জুলাই মাসে 21দিন বৃষ্টি হয়েছে। তাহলে যেকোনো একদিন বৃষ্টি হওয়ার সম্ভাবনা $\\frac{21}{31}$। অতএব 8জুলাই বৃষ্টি হওয়ার সম্ভাবনা $\\frac{21}{31}$।",
+      "image": null,
+      "formulas": [
+        "\\frac{21}{31}",
+        "\\frac{21}{31}"
+      ],
+      "pdfPageStart": 314,
+      "pdfPageEnd": 314,
+      "printedPageStart": 309,
+      "printedPageEnd": 309,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.3-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৫.** কোনো একটি নির্দিষ্ট এলাকায় জরিপে দেখা গেল 65জন প্রথম আলো, 40জন ভোরের কাগজ, 45জন জনকণ্ঠ, 52জন যুগান্তর পত্রিকা পড়ে। এদের মধ্যে হতে একজনকে দৈবভাবে নির্বাচন করলে তিনি যুগান্তর পত্রিকা পড়েন এর সম্ভাবনা কত? তিনি প্রথম আলো পড়েন না এর সম্ভাবনাও কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 314,
+      "pdfPageEnd": 314,
+      "printedPageStart": 309,
+      "printedPageEnd": 309,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.3-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** এখানে পত্রিকা পড়েন মোট $(65 + 40 + 45 + 52) = 202$ জন।",
+      "image": null,
+      "formulas": [
+        "(65 + 40 + 45 + 52) = 202"
+      ],
+      "pdfPageStart": 314,
+      "pdfPageEnd": 314,
+      "printedPageStart": 309,
+      "printedPageEnd": 309,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.3-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যুগান্তর পত্রিকা পড়েন 52জন। সুতরাং, ঐ ব্যক্তির যুগান্তর পত্রিকা পড়ার সম্ভাবনা $\\frac{52}{202}$।",
+      "image": null,
+      "formulas": [
+        "\\frac{52}{202}"
+      ],
+      "pdfPageStart": 314,
+      "pdfPageEnd": 314,
+      "printedPageStart": 309,
+      "printedPageEnd": 309,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.3-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "প্রথম আলো পত্রিকা পড়েন ৬৫ জন। প্রথম আলো পত্রিকা পড়েন না $(202 - 65) = 137$ জন। সুতরাং, প্রথম আলো পত্রিকা পড়েন না এর সম্ভাবনা $= \\frac{137}{202}$",
+      "image": null,
+      "formulas": [
+        "(202 - 65) = 137",
+        "= \\frac{137}{202}"
+      ],
+      "pdfPageStart": 315,
+      "pdfPageEnd": 315,
+      "printedPageStart": 310,
+      "printedPageEnd": 310,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.3-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:** একটি জরিপে দেখা গেল কোন বিশ্ববিদ্যালয়ে প্রথম বর্ষে 284জন ছাত্র অর্থনীতিতে, 106জন ছাত্র ইতিহাসে, 253জন ছাত্র সমাজবিজ্ঞানে, 169জন ছাত্র ইংরেজিতে ভর্তি হয়েছে। এদের একজন ছাত্রকে দৈবভাবে নির্বাচিত করলে নির্বাচিত ছাত্রটি সমাজবিজ্ঞানের হবে না এর সম্ভাবনা কত?",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 315,
+      "pdfPageEnd": 315,
+      "printedPageStart": 310,
+      "printedPageEnd": 310,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

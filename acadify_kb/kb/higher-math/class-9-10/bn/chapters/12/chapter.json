@@ -1,0 +1,105 @@
+{
+  "id": "higher-math-9-10-bn-c12",
+  "textbookId": "higher-math-9-10-bn",
+  "number": 12,
+  "title": "সমতলীয় ভেক্টর",
+  "englishTitle": "Planar Vector",
+  "pdfPages": [
+    276,
+    291
+  ],
+  "printedPages": [
+    271,
+    286
+  ],
+  "topics": [
+    {
+      "key": "12.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/12.0.json",
+      "passages": 12
+    },
+    {
+      "key": "12.1",
+      "title": "ভেক্টরের সমতা ও বিপরীত ভেক্টর",
+      "file": "topics/12.1.json",
+      "passages": 16
+    },
+    {
+      "key": "12.2",
+      "title": "ভেক্টরের যোগ",
+      "file": "topics/12.2.json",
+      "passages": 10
+    },
+    {
+      "key": "12.3",
+      "title": "ভেক্টরের বিয়োগ",
+      "file": "topics/12.3.json",
+      "passages": 7
+    },
+    {
+      "key": "12.4",
+      "title": "শূন্য ভেক্টর",
+      "file": "topics/12.4.json",
+      "passages": 7
+    },
+    {
+      "key": "12.5",
+      "title": "ভেক্টর যোগের বিধিসমূহ",
+      "file": "topics/12.5.json",
+      "passages": 19
+    },
+    {
+      "key": "12.6",
+      "title": "ভেক্টরের সংখ্যা গুণিতক বা স্কেলার গুণিতক (Scalar multiple of a vector)",
+      "file": "topics/12.6.json",
+      "passages": 18
+    },
+    {
+      "key": "12.7",
+      "title": "ভেক্টরের সাংখ্যগুণিতক সংক্রান্ত বর্গটন সূত্র",
+      "file": "topics/12.7.json",
+      "passages": 14
+    },
+    {
+      "key": "12.8",
+      "title": "সূত্র ২. $m(<u>u</u> + <u>v</u>) = m<u>u</u> + m<u>v</u>$",
+      "file": "topics/12.8.json",
+      "passages": 22
+    },
+    {
+      "key": "12.9",
+      "title": "অবস্থান ভেক্টর",
+      "file": "topics/12.9.json",
+      "passages": 8
+    },
+    {
+      "key": "12.10",
+      "title": "কতিপয় উদাহরণ",
+      "file": "topics/12.10.json",
+      "passages": 54
+    },
+    {
+      "key": "12.ex",
+      "title": "অনুশীলনী ১২",
+      "file": "topics/12.ex.json",
+      "passages": 25
+    }
+  ],
+  "stats": {
+    "topics": 12,
+    "passages": 212,
+    "images": 13,
+    "byKind": {
+      "text": 161,
+      "figure": 17,
+      "formula": 10,
+      "exercise": 24
+    },
+    "byReason": {
+      "verify-formula": 165,
+      "known-confusable-corrected": 5
+    },
+    "needsReview": 165
+  }
+}

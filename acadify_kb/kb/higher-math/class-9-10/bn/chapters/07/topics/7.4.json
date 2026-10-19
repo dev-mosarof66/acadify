@@ -1,0 +1,323 @@
+{
+  "id": "higher-math-9-10-bn-c07-t7.4",
+  "key": "7.4",
+  "title": "অসীম ধারার আংশিক সমষ্টি (Partial Sum of Infinite Series)",
+  "chapter": 7,
+  "ordinal": 4,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c07-t7.4-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$u_1 + u_2 + u_3 + \\dots + u_n + \\dots$ অনন্ত ধারার ১ম আংশিক সমষ্টি $S_1 = u_1$",
+      "image": null,
+      "formulas": [
+        "u_1 + u_2 + u_3 + \\dots + u_n + \\dots",
+        "S_1 = u_1"
+      ],
+      "pdfPageStart": 142,
+      "pdfPageEnd": 143,
+      "printedPageStart": 137,
+      "printedPageEnd": 138,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.4-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "২য় আংশিক সমষ্টি $S_2 = u_1 + u_2$",
+      "image": null,
+      "formulas": [
+        "S_2 = u_1 + u_2"
+      ],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.4-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "৩য় আংশিক সমষ্টি $S_3 = u_1 + u_2 + u_3$",
+      "image": null,
+      "formulas": [
+        "S_3 = u_1 + u_2 + u_3"
+      ],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.4-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore n$ তম আংশিক সমষ্টি $S_n = u_1 + u_2 + u_3 + \\dots + u_n$",
+      "image": null,
+      "formulas": [
+        "\\therefore n",
+        "S_n = u_1 + u_2 + u_3 + \\dots + u_n"
+      ],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.4-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ, কোনো অসীম ধারার $n$ তম আংশিক সমষ্টি হচ্ছে ধারাটির প্রথম $n$ সংখ্যক পদের সমষ্টি।",
+      "image": null,
+      "formulas": [
+        "n",
+        "n"
+      ],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.4-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১.** প্রদত্ত অসীম ধারা দুটির আংশিক সমষ্টি নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.4-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) $1 + 2 + 3 + 4 + \\dots$ খ) $1 - 1 + 1 - 1 + \\dots$",
+      "image": null,
+      "formulas": [
+        "1 + 2 + 3 + 4 + \\dots",
+        "1 - 1 + 1 - 1 + \\dots"
+      ],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.4-p008",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "ক) ধারাটি একটি সমানতর ধারা কারণ ধারাটির প্রথম পদ $a = 1$ এবং সাধারণ অন্তর $d = 1$।\nসমানতর ধারার প্রথম $n$ সংখ্যক পদের সমষ্টি $S_n = \\frac{n}{2} \\{2a + (n-1)d\\} = \\frac{n}{2} \\{2 \\cdot 1 + (n-1) \\cdot 1\\}$\nকাজেই $S_n = \\frac{n}{2} \\{2 + n - 1\\} = \\frac{n(n+1)}{2}$",
+      "image": null,
+      "formulas": [
+        "a = 1",
+        "d = 1",
+        "n",
+        "S_n = \\frac{n}{2} \\{2a + (n-1)d\\} = \\frac{n}{2} \\{2 \\cdot 1 + (n-1) \\cdot 1\\}",
+        "S_n = \\frac{n}{2} \\{2 + n - 1\\} = \\frac{n(n+1)}{2}"
+      ],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.4-p009",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "উপরের সূত্রে $n$ এর বিভিন্ন মান বসিয়ে পাই,",
+      "image": null,
+      "formulas": [
+        "n"
+      ],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.4-p010",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$$S_{10} = \\frac{10 \\times 11}{2} = 55 \\qquad S_{1000} = \\frac{1000 \\times 1001}{2} = 500500$$",
+      "image": null,
+      "formulas": [
+        "S_{10} = \\frac{10 \\times 11}{2} = 55 \\qquad S_{1000} = \\frac{1000 \\times 1001}{2} = 500500"
+      ],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.4-p011",
+      "kind": "formula",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$$S_{100000} = \\frac{100000 \\times 100001}{2} = 5000050000$$",
+      "image": null,
+      "formulas": [
+        "S_{100000} = \\frac{100000 \\times 100001}{2} = 5000050000"
+      ],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.4-p012",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "এভাবে, $n$ এর মান যত বড় করা হয়, $S_n$ এর মান তত বড় হয়।\nসুতরাং প্রদত্ত অসীম ধারাটির কোনো সমষ্টি নাই।",
+      "image": null,
+      "formulas": [
+        "n",
+        "S_n"
+      ],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.4-p013",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "খ) $1 - 1 + 1 - 1 + \\dots$ অসীম ধারাটির",
+      "image": null,
+      "formulas": [
+        "1 - 1 + 1 - 1 + \\dots"
+      ],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.4-p014",
+      "kind": "table",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "<table><tr><td>১ম আংশিক সমষ্টি $S_1 = 1$</td><td>৩য় আংশিক সমষ্টি $S_3 = 1 - 1 + 1 = 1$</td></tr>\n<tr><td>২য় আংশিক সমষ্টি $S_2 = 1 - 1 = 0$</td><td>৪র্থ আংশিক সমষ্টি $S_4 = 1 - 1 + 1 - 1 = 0$</td></tr></table>",
+      "image": null,
+      "formulas": [
+        "S_1 = 1",
+        "S_3 = 1 - 1 + 1 = 1",
+        "S_2 = 1 - 1 = 0",
+        "S_4 = 1 - 1 + 1 - 1 = 0"
+      ],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [
+        "verify-formula",
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.4-p015",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "উপরের উদাহরণ থেকে দেখা যায় যে, $n$ বিজোড় সংখ্যা হলে $n$ তম আংশিক সমষ্টি $S_n = 1$ এবং $n$ জোড় সংখ্যা হলে $n$ তম আংশিক সমষ্টি $S_n = 0$।",
+      "image": null,
+      "formulas": [
+        "n",
+        "n",
+        "S_n = 1",
+        "n",
+        "n",
+        "S_n = 0"
+      ],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c07-t7.4-p016",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "তাহলে দেখা যাচ্ছে যে, প্রদত্ত ধারাটির ক্ষেত্রে, এমন কোনো নির্দিষ্ট সংখ্যা পাওয়া যায় না যাকে ধারাটির সমষ্টি বলা যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 143,
+      "pdfPageEnd": 143,
+      "printedPageStart": 138,
+      "printedPageEnd": 138,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "higher-math-9-10-bn-c13-t13.2",
+  "key": "13.2",
+  "title": "দুটি সরলরেখার মধ্যে সম্পর্ক",
+  "chapter": 13,
+  "ordinal": 2,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c13-t13.2-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) দুটি সরলরেখা একতলীয় হতে পারে, সেক্ষেত্রে তারা অবশ্যই সমান্তরাল হবে বা কোনো এক বিন্দুতে পরস্পর ছেদ করবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 296,
+      "pdfPageEnd": 296,
+      "printedPageStart": 291,
+      "printedPageEnd": 291,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.2-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) দুটি সরলরেখা নৈকতলীয় হতে পারে, সেক্ষেত্রে তারা সমান্তরালও হবে না কিংবা কোনো বিন্দুতে ছেদও করবে না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 296,
+      "pdfPageEnd": 296,
+      "printedPageStart": 291,
+      "printedPageEnd": 291,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

@@ -100,15 +100,17 @@
       "kind": "exercise",
       "section": null,
       "caption": null,
-      "body": "৭. ক) সমকোণী ত্রিভুজের অতিভুজ ও অপর দুই বাহুর অন্তর দেওয়া আছে, ত্রিভুজটি ঠাঁকো।\n   খ) একটি ত্রিভুজের মধ্যমাত্রয় দেওয়া আছে ত্রিভুজটি ঠাঁকো।",
+      "body": "৭. ক) সমকোণী ত্রিভুজের অতিভুজ ও অপর দুই বাহুর অন্তর দেওয়া আছে, ত্রিভুজটি আঁকো।\n   খ) একটি ত্রিভুজের মধ্যমাত্রয় দেওয়া আছে ত্রিভুজটি আঁকো।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 99,
       "pdfPageEnd": 99,
       "printedPageStart": 94,
       "printedPageEnd": 94,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "higher-math-9-10-bn-c04-t4.ex-p008",
@@ -160,15 +162,17 @@
       "kind": "exercise",
       "section": null,
       "caption": null,
-      "body": "১১. ভিন্ন ভিন্ন ব্যাসার্ধবিশিষ্ট এরূপ তিনটি বৃত্ত ঠাঁক যেন তারা পরস্পরকে বহিঃস্পর্শ করে।",
+      "body": "১১. ভিন্ন ভিন্ন ব্যাসার্ধবিশিষ্ট এরূপ তিনটি বৃত্ত আঁক যেন তারা পরস্পরকে বহিঃস্পর্শ করে।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 99,
       "pdfPageEnd": 99,
       "printedPageStart": 94,
       "printedPageEnd": 94,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "higher-math-9-10-bn-c04-t4.ex-p012",
@@ -219,7 +223,7 @@
       "kind": "exercise",
       "section": null,
       "caption": null,
-      "body": "১৪. $O$ কেন্দ্র বিশিষ্ট বৃত্তের ব্যাসার্ধ ৩ সে.মি. এবং $O$ হতে ৫ সে.মি. দূরে $T$ বিন্দু অবস্থিত।\n   ক) তথ্যানুসারে চিত্র ঠাঁকো।\n   খ) $T$ হতে বৃত্তে দুটি স্পর্শক ঠাঁকো। (অঙ্কনের চিহ্ন ও বিবরণ আবশ্যক)\n   গ) পিথাগোরাসের উপপাদ্য ব্যবহার করে স্পর্শকদ্বয়ের দৈর্ঘ্যের সমষ্টি নির্ণয় করো।",
+      "body": "১৪. $O$ কেন্দ্র বিশিষ্ট বৃত্তের ব্যাসার্ধ ৩ সে.মি. এবং $O$ হতে ৫ সে.মি. দূরে $T$ বিন্দু অবস্থিত।\n   ক) তথ্যানুসারে চিত্র আঁকো।\n   খ) $T$ হতে বৃত্তে দুটি স্পর্শক আঁকো। (অঙ্কনের চিহ্ন ও বিবরণ আবশ্যক)\n   গ) পিথাগোরাসের উপপাদ্য ব্যবহার করে স্পর্শকদ্বয়ের দৈর্ঘ্যের সমষ্টি নির্ণয় করো।",
       "image": null,
       "formulas": [
         "O",
@@ -232,6 +236,7 @@
       "printedPageStart": 94,
       "printedPageEnd": 94,
       "reviewReasons": [
+        "known-confusable-corrected",
         "verify-formula"
       ],
       "needsReview": true

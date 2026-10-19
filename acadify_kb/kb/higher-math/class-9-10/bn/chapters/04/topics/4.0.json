@@ -1423,7 +1423,7 @@
       "kind": "text",
       "section": "অঙ্কন:",
       "caption": null,
-      "body": "**মনতব্য:** $\\angle x$ এর উপর নির্ভর করে অনেক ক্ষেত্রে দুটি ত্রিভুজ পাওয়া যেতে পারে। এছাড়াও মধ্যমার দৈর্ঘ্য উচ্চতার থেকে কম হলে অঙ্কন করা যাবে না।",
+      "body": "**মন্তব্য:** $\\angle x$ এর উপর নির্ভর করে অনেক ক্ষেত্রে দুটি ত্রিভুজ পাওয়া যেতে পারে। এছাড়াও মধ্যমার দৈর্ঘ্য উচ্চতার থেকে কম হলে অঙ্কন করা যাবে না।",
       "image": null,
       "formulas": [
         "\\angle x"
@@ -1433,6 +1433,7 @@
       "printedPageStart": 86,
       "printedPageEnd": 86,
       "reviewReasons": [
+        "known-confusable-corrected",
         "verify-formula"
       ],
       "needsReview": true

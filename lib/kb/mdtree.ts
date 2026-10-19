@@ -4,7 +4,7 @@
  * Pure functions, no I/O, so they can be tested and re-run on stored pages for free.
  */
 
-export type PassageKind = "text" | "definition" | "formula" | "example" | "exercise" | "activity" | "table" | "objective" | "figure";
+export type PassageKind = "text" | "definition" | "formula" | "example" | "exercise" | "activity" | "table" | "objective" | "figure" | "answer";
 
 export interface PageMarkdown {
   /** 1-based page number in the PDF. */
@@ -85,7 +85,9 @@ function chapterOpener(text: string): { number: number; title: string } | null {
 // "<one word> অধ্যায়" with nothing else: how a chapter opener looks when the number word is misread
 const LOOSE_OPENER = /^\S{2,}\s+অধ্যায়$/;
 
-type Mode = "text" | "objective" | "activity" | "example" | "exercise";
+type Mode = "text" | "objective" | "activity" | "example" | "exercise" | "answer";
+// The answer key printed at the end of a book ("অনুশীলনীর উত্তর") lists answers for many chapters; it is neither lesson nor exercise
+const ANSWER_KEY_RE = /^(অনুশীলনীর উত্তর|উত্তরমালা|উত্তর সংকেত|answers? to (the )?exercises?)/i;
 
 // Headings that change what the following blocks are (not new sections).
 const MODE_RULES: [Mode, RegExp][] = [
@@ -241,6 +243,16 @@ export function buildBookTree(pages: PageMarkdown[], opts: { keepEmpty?: boolean
           chapter.englishTitle = text.slice(1, -1).trim();
           continue;
         }
+        if (ANSWER_KEY_RE.test(text)) {
+          newTopic(chapter, `${chapter.number}.ans`, text);
+          mode = "answer";
+          continue;
+        }
+        // inside the answer key every heading ("অনুশীলনী ১.১", "৫.২") only labels a block of answers
+        if (mode === "answer") {
+          section = text;
+          continue;
+        }
         // The parser reads ৪ as ৮, so "৪.১" can come back as "৮.১" or "8.8"; the order of the sections settles which it is
         const num = normalizeDigits(text).match(SECTION_NO_RE);
         if (num && !num[3] && digitsMatch(num[1], chapter.number) && digitsMatch(num[2], seq + 1)) {
@@ -263,7 +275,8 @@ export function buildBookTree(pages: PageMarkdown[], opts: { keepEmpty?: boolean
           caption = text;
           continue;
         }
-        const startsSection = UNNUMBERED_SECTION_RE.test(text) || (b.level === 2 && PLAIN_SECTION_RE.test(text));
+        // after an exercise the lesson resumes under any plain heading, even a "###" one that carries a formula
+        const startsSection = UNNUMBERED_SECTION_RE.test(text) || ((b.level === 2 || (b.level === 3 && mode === "exercise")) && PLAIN_SECTION_RE.test(text));
         if (!numberedBook && startsSection && !FIGURE_RE.test(text) && !MODE_RULES.some(([, re]) => re.test(text))) {
           // A new lesson section; it also ends any exercise that came before it in the chapter
           seq += 1;
@@ -299,7 +312,7 @@ export function buildBookTree(pages: PageMarkdown[], opts: { keepEmpty?: boolean
       modeBlocks += 1;
       if (mode === "example" && ANSWER_RE.test(body)) closing = true;
 
-      let kind: PassageKind = special ?? mode;
+      let kind: PassageKind = mode === "answer" ? "answer" : (special ?? mode);
       if (!special && DEFINITION_RE.test(body)) kind = "definition";
 
       // A paragraph cut by the page break continues on the next page.

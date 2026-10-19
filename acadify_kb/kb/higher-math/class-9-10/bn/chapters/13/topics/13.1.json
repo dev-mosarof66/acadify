@@ -1,0 +1,488 @@
+{
+  "id": "higher-math-9-10-bn-c13-t13.1",
+  "key": "13.1",
+  "title": "কতিপয় প্রাথমিক সংজ্ঞা",
+  "chapter": 13,
+  "ordinal": 1,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c13-t13.1-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সাধারণত ত্রিমাত্রিক বস্তুর ছবি দ্বিমাত্রিক কাগজ বা বোর্ডে অঙ্কন কিছুটা জটিল। তথাপিও শ্রেণিকক্ষে পাঠদানকালে প্রত্যেকটি সংজ্ঞার ব্যাখ্যার সঙ্গে তার একটি চিত্র অঙ্কন করে দেখিয়ে দিলে বিষয়টি শিক্ষার্থীদের পক্ষে বুঝা ও মনে রাখা সহজতর হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 293,
+      "pdfPageEnd": 293,
+      "printedPageStart": 288,
+      "printedPageEnd": 288,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.1-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "১. **সমতল (Plane surface):** কোনো তলের উপরস্থ যেকোনো দুটি বিন্দুর সংযোজক সরলরেখা সম্পূর্ণরূপে ঐ তলের উপর অবস্থিত হলে, ঐ তলকে সমতল বলা হয়। পুকুরের পানি স্থির থাকলে ঐ পানির উপরিভাগ একটি সমতল। সিমেন্ট দিয়ে নির্মিত বা মোজাইককৃত ঘরের মেঝেকে আমরা সমতল বলে থাকি। কিন্তু জ্যামিতিকভাবে তা সমতল নয়। ঘরের মেঝেতে কিছু উঁচু-নিচু থাকেই। উপরের চিত্রে $ABCD$, $ADEF$, $ABGF$ প্রতিটিই এক একটি সমতল।",
+      "image": null,
+      "formulas": [
+        "ABCD",
+        "ADEF",
+        "ABGF"
+      ],
+      "pdfPageStart": 293,
+      "pdfPageEnd": 293,
+      "printedPageStart": 288,
+      "printedPageEnd": 288,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.1-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**দ্রষ্টব্য:** অন্য কিছু উল্লেখ না থাকলে ঘন জ্যামিতিতে রেখা বা দৈর্ঘ্য এবং তলের বিস্তার অসীম (infinite) বা অনির্দিষ্ট মনে করা হয়। সুতরাং তলের সংজ্ঞা থেকে অনুমান করা যায় যে, কোনো সরল রেখার একটি অংশ কোনো তলের উপর থাকলে ঐ সরল রেখার অপর কোনো অংশ ঐ তলের বাইরে থাকতে পারে না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 293,
+      "pdfPageEnd": 293,
+      "printedPageStart": 288,
+      "printedPageEnd": 288,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.1-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "২. **বক্রতল (Curved surface):** কোনো তলের উপর অবস্থিত যেকোনো দুইটি বিন্দুর সংযোজক সরলরেখা সম্পূর্ণরূপে ঐ তলের উপর অবস্থিত না হলে, ঐ তলকে বক্রতল বলা হয়। গোলকের পৃষ্ঠতল একটি বক্রতল।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 293,
+      "pdfPageEnd": 293,
+      "printedPageStart": 288,
+      "printedPageEnd": 288,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.1-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "৩. **ঘন জ্যামিতি (Solid geometry):** গণিত শাস্ত্রের যে শাখার সাহায্যে ঘনবস্তু এবং তল, রেখা ও বিন্দুর ধর্ম জানা যায়, তাকে ঘন জ্যামিতি (geometry of space) বলা হয়। কখনও কখনও একে জাগতিক জ্যামিতি (geometry of space) বা ত্রিমাত্রিক জ্যামিতিও (geometry of three dimensions) বলা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 293,
+      "pdfPageEnd": 293,
+      "printedPageStart": 288,
+      "printedPageEnd": 288,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.1-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "৪. **একতলীয় রেখা (Coplanar straight lines):** একাধিক সরলরেখা একই সমতলে অবস্থিত হলে, বা তাদের সকলের মধ্য দিয়ে একটি সমতল অঙ্কন সম্ভব হলে ঐ সরলরেখাগুলোকে একতলীয় রেখা বলা হয়। উপরের চিত্রে $AB$ ও $CD$ এক তলীয় রেখা, কিন্তু $EF$ তাদের সাথে একতলীয় নয়।",
+      "image": null,
+      "formulas": [
+        "AB",
+        "CD",
+        "EF"
+      ],
+      "pdfPageStart": 293,
+      "pdfPageEnd": 293,
+      "printedPageStart": 288,
+      "printedPageEnd": 288,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.1-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "৫. **নৈকতলীয় রেখা (Skew or non coplanar lines):** একাধিক সরলরেখা একই সমতলে অবস্থিত না হলে বা তাদের মধ্য দিয়ে একটি সমতল অঙ্কন করা সম্ভব না হলে এগুলোকে নৈকতলীয় সরলরেখা বলা হয়। উপরের চিত্রে $AB$ ও $EF$ নৈকতলীয় রেখা। দুটি পেনসিলকে একটির উপর আর একটি দিয়ে যোগ বা গুণচিহ্ন আকারের একটি বস্তু তৈরি করলেই দুইটি নৈকতলীয় সরলরেখা উৎপন্ন হবে।",
+      "image": null,
+      "formulas": [
+        "AB",
+        "EF"
+      ],
+      "pdfPageStart": 293,
+      "pdfPageEnd": 294,
+      "printedPageStart": 288,
+      "printedPageEnd": 289,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.1-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "৬. **সমান্তরাল সরলরেখা (Parallel lines):** দুইটি একতলীয় সরলরেখা যদি পরস্পর ছেদ না করে অর্থাৎ যদি তাদের কোনো সাধারণ বিন্দু না থাকে, তবে তাদের সমান্তরাল সরলরেখা বলা হয়। উপরের চিত্রে $AB$ ও $CD$ সমান্তরাল সরলরেখা।",
+      "image": null,
+      "formulas": [
+        "AB",
+        "CD"
+      ],
+      "pdfPageStart": 294,
+      "pdfPageEnd": 294,
+      "printedPageStart": 289,
+      "printedPageEnd": 289,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.1-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "৭. **সমান্তরাল তল (Parallel planes):** দুটি সমতল যদি পরস্পর ছেদ না করে অর্থাৎ যদি তাদের কোনো সাধারণ রেখা না থাকে তবে ঐ তলদ্বয়কে সমান্তরাল তল বলা হয়। আগের পৃষ্ঠার চিত্রে $ABCD$ ও তার বিপরীত পাশে থাকা $EFG$ সমতল দুটি পরস্পরের সমান্তরাল তল।",
+      "image": null,
+      "formulas": [
+        "ABCD",
+        "EFG"
+      ],
+      "pdfPageStart": 294,
+      "pdfPageEnd": 294,
+      "printedPageStart": 289,
+      "printedPageEnd": 289,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.1-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "৮. **সমতলের সমান্তরাল রেখা (Parallel to a plane):** একটি সরলরেখা ও একটি সমতলকে অনির্দিষ্টভাবে বর্ধিত করলেও যদি তারা পরস্পর ছেদ না করে, তবে ঐ সরলরেখাকে উক্ত তলের সমান্তরাল রেখা বলা হয়। উপরের চিত্রে $CD$ সরল রেখা $ABGF$ সমতলের সমান্তরাল রেখা।",
+      "image": null,
+      "formulas": [
+        "CD",
+        "ABGF"
+      ],
+      "pdfPageStart": 294,
+      "pdfPageEnd": 294,
+      "printedPageStart": 289,
+      "printedPageEnd": 289,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.1-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "৯. **তলের লম্ব রেখা (Normal or perpendicular to a plane):** কোনো সরলরেখা একটি সমতলের উপরস্থ কোনো বিন্দু থেকে ঐ সমতলের উপর অঙ্কিত যেকোনো রেখার উপর লম্ব হলে, উক্ত সরলরেখাকে ঐ সমতলের উপর লম্ব বলা হয়। নিচের বামের চিত্রে $OP$ রেখা $QR$ সমতলের উপর লম্ব, কারণ $OP$ রেখা $QR$ সমতলে থাকা $AB, CD, EF$ প্রতিটি রেখার ওপরেই লম্ব।",
+      "image": null,
+      "formulas": [
+        "OP",
+        "QR",
+        "OP",
+        "QR",
+        "AB, CD, EF"
+      ],
+      "pdfPageStart": 294,
+      "pdfPageEnd": 294,
+      "printedPageStart": 289,
+      "printedPageEnd": 289,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.1-p012",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: geometric diagrams showing a plane with intersecting lines and a line intersecting a plane",
+      "image": "p294-page_3_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 294,
+      "pdfPageEnd": 294,
+      "printedPageStart": 289,
+      "printedPageEnd": 289,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.1-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "১০. **তির্যক (Oblique) রেখা:** কোনো সরলরেখা একটি সমতলের সাথে সমান্তরাল বা লম্ব না হলে, ঐ সরলরেখাকে সমতলের তির্যক রেখা বলা হয়। উপরের ডানের চিত্রে $MN, ST$ এর তির্যক রেখা।",
+      "image": null,
+      "formulas": [
+        "MN, ST"
+      ],
+      "pdfPageStart": 294,
+      "pdfPageEnd": 294,
+      "printedPageStart": 289,
+      "printedPageEnd": 289,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.1-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "১১. **উল্লম্ব (Vertical) রেখা বা তল:** স্থির অবস্থায় ঝুলন্ত ওলনের সুতার সঙ্গে সমান্তরাল কোনো রেখা বা তলকে খাড়া বা উল্লম্ব তল বলে। নিচের বামের চিত্রে $ABCD$ উল্লম্ব তল এবং $PR$ উল্লম্ব রেখা।",
+      "image": null,
+      "formulas": [
+        "ABCD",
+        "PR"
+      ],
+      "pdfPageStart": 294,
+      "pdfPageEnd": 294,
+      "printedPageStart": 289,
+      "printedPageEnd": 289,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.1-p015",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: geometric diagrams showing a cube and a tetrahedron with labeled vertices A, B, C, D, E, F, P, Q, R",
+      "image": "p295-page_4_image_3_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 295,
+      "pdfPageEnd": 295,
+      "printedPageStart": 290,
+      "printedPageEnd": 290,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.1-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "১২. **অনুভূমিক (Horizontal) তল ও রেখা:** কোনো সমতল একটি খাড়া সরলরেখার সাথে লম্ব হলে, তাকে শয়ান বা অনুভূমিক তল বলা হয়। আবার কোনো অনুভূমিক তলে অবস্থিত যেকোনো সরলরেখাকে অনুভূমিক সরলরেখা বলা হয়। উপরের বামের চিত্রে $ABEF$ একটি অনুভূমিক সমতল এবং $PQ$ একটি অনুভূমিক সরলরেখা।",
+      "image": null,
+      "formulas": [
+        "ABEF",
+        "PQ"
+      ],
+      "pdfPageStart": 295,
+      "pdfPageEnd": 295,
+      "printedPageStart": 290,
+      "printedPageEnd": 290,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.1-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "১৩. **সমতল (Planar) ও নৈকতলীয় (Skew) চতুর্ভুজ:** কোনো চতুর্ভুজের বাহুগুলো সব একই তলে অবস্থিত হলে, তাকে সমতলীয় চতুর্ভুজ বলা হয়। আবার কোনো চতুর্ভুজের বাহুগুলো সকলে একই তলে অবস্থিত না হলে, ঐ চতুর্ভুজকে নৈকতলীয় চতুর্ভুজ বলা হয়। নৈকতলীয় চতুর্ভুজের দুটি সন্নিহিত বাহু একতলে এবং অপর দুটি অন্য তলে অবস্থিত। সুতরাং কোনো নৈকতলীয় চতুর্ভুজের বিপরীত বাহুদ্বয় নৈকতলীয়। উপরের ডানের চিত্রে $ABEF$ একটি সমতলীয় চতুর্ভুজ এবং $BCFE$ একটি নৈকতলীয় চতুর্ভুজ।",
+      "image": null,
+      "formulas": [
+        "ABEF",
+        "BCFE"
+      ],
+      "pdfPageStart": 295,
+      "pdfPageEnd": 295,
+      "printedPageStart": 290,
+      "printedPageEnd": 290,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.1-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "১৪. **নৈকতলীয় রেখার (Skew lines) অন্তর্গত কোণ:** দুটি নৈকতলীয় রেখার অন্তর্গত কোণ তাদের যেকোনো একটি ও তার উপরস্থ কোনো বিন্দু থেকে অঙ্কিত অপরটির সমানতরাল রেখার অন্তর্গত কোণের সমান। আবার দুইটি নৈকতলীয় রেখার প্রত্যেকের সমানতরাল দুটি রেখা কোনো বিন্দুতে অঙ্কন করলে ঐ বিন্দুতে উৎপন্ন কোণের পরিমাণও নৈকতলীয় রেখাদ্বয়ের অন্তর্গত কোণের সমান।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 295,
+      "pdfPageEnd": 295,
+      "printedPageStart": 290,
+      "printedPageEnd": 290,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.1-p019",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: geometric diagram showing two skew lines CD and AB with transversal lines and points O, P, Q, R",
+      "image": "p295-page_4_image_4_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 295,
+      "pdfPageEnd": 295,
+      "printedPageStart": 290,
+      "printedPageEnd": 290,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.1-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "মনে করি, $AB$ ও $CD$ দুটি নৈকতলীয় রেখা। যেকোনো $O$ বিন্দুতে $AB$ ও $CD$ এর সমানতরাল যথাক্রমে $OP$ এবং $OQ$ রেখাদ্বয় অঙ্কন করলে $\\angle POQ$ ই $AB$ ও $CD$ এর অন্তর্গত কোণ নির্দেশ করবে। অন্য কথায় $\\angle BRQ$ ও $AB$ ও $CD$ এর অন্তর্গত কোণ নির্দেশ করে যেখানে $R$ বিন্দুটি $AB$ এর ওপর অবস্থিত এবং $QR$ অবশ্যই $CD$ এর সমানতরাল।",
+      "image": null,
+      "formulas": [
+        "AB",
+        "CD",
+        "O",
+        "AB",
+        "CD",
+        "OP",
+        "OQ",
+        "\\angle POQ",
+        "AB",
+        "CD",
+        "\\angle BRQ",
+        "AB",
+        "CD",
+        "R",
+        "AB",
+        "QR",
+        "CD"
+      ],
+      "pdfPageStart": 295,
+      "pdfPageEnd": 295,
+      "printedPageStart": 290,
+      "printedPageEnd": 290,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.1-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "১৫. **দ্বিতল কোণ (Dihedral angle):** দুইটি সমতল সরলরেখায় ছেদ করলে তাদের ছেদ রেখাস্থ যেকোনো বিন্দু থেকে ঐ সমতলদ্বয়ের প্রত্যেকের উপর ঐ ছেদ রেখার সাথে লম্ব এরূপ একটি করে রেখা অঙ্কন করলে উৎপন্ন কোণই ঐ সমতলদ্বয়ের অন্তর্গত দ্বিতল কোণ।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 295,
+      "pdfPageEnd": 295,
+      "printedPageStart": 290,
+      "printedPageEnd": 290,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.1-p022",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: geometric diagram showing intersecting lines and planes",
+      "image": "p296-page_5_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 296,
+      "pdfPageEnd": 296,
+      "printedPageStart": 291,
+      "printedPageEnd": 291,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.1-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$AB$ ও $CD$ সমতলদ্বয় $AC$ রেখায় পরস্পর ছেদ করেছে। $AC$ রেখাস্থ $O$ বিন্দুতে $AB$ সমতলে $OM$ এবং $CD$ সমতলে $ON$ এরূপ দুটি সরলরেখা অঙ্কন করা হলো যেন তারা উভয়ই $AC$ এর সঙ্গে $O$ বিন্দুতে লম্ব হয়। তাহলে $\\angle MON$ ই $AB$ ও $CD$ সমতলদ্বয়ের অন্তর্গত দ্বিতল কোণ সূচিত করে। দুটি পরস্পরচ্ছেদী সমতলের অন্তর্গত দ্বিতল কোণের পরিমাণ এক সমকোণ হলে ঐ সমতলদ্বয় পরস্পর লম্ব।",
+      "image": null,
+      "formulas": [
+        "AB",
+        "CD",
+        "AC",
+        "AC",
+        "O",
+        "AB",
+        "OM",
+        "CD",
+        "ON",
+        "AC",
+        "O",
+        "\\angle MON",
+        "AB",
+        "CD"
+      ],
+      "pdfPageStart": 296,
+      "pdfPageEnd": 296,
+      "printedPageStart": 291,
+      "printedPageEnd": 291,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.1-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "১৬. **অভিক্ষেপ (Projection):** কোনো বিন্দু থেকে একটি নির্দিষ্ট সরলরেখার উপর বা কোনো সমতলের উপর অঙ্কিত লম্বরেখার পাদবিন্দুকে ঐ রেখা বা সমতলের উপর উক্ত বিন্দুর পাতন বা অভিক্ষেপ (projection) বলা হয়। কোনো সরলরেখা বা বক্ররেখার সকল বিন্দু থেকে কোনো নির্দিষ্ট সমতলের উপর অঙ্কিত লম্বগুলোর পাদবিন্দুসমূহের সেটকে ঐ সমতলের উপর উক্ত সরলরেখা বা বক্ররেখার অভিক্ষেপ বলা হয়। এই অভিক্ষেপকে লম্ব অভিক্ষেপও (orthogonal projection) বলা হয়। চিত্রে $XY$ সমতলের উপর একটি বক্ররেখা $AB$ ও একটি সরলরেখা $CD$ এর অভিক্ষেপ যথাক্রমে বক্ররেখা $ab$ ও সরলরেখা $cd$ দেখানো হয়েছে।",
+      "image": null,
+      "formulas": [
+        "XY",
+        "AB",
+        "CD",
+        "ab",
+        "cd"
+      ],
+      "pdfPageStart": 296,
+      "pdfPageEnd": 296,
+      "printedPageStart": 291,
+      "printedPageEnd": 291,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.1-p025",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: geometric diagram showing projections of a curve AB and a line CD onto a plane XY",
+      "image": "p296-page_5_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 296,
+      "pdfPageEnd": 296,
+      "printedPageStart": 291,
+      "printedPageEnd": 291,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

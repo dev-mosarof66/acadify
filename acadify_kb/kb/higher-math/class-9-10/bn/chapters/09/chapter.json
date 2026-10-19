@@ -1,0 +1,140 @@
+{
+  "id": "higher-math-9-10-bn-c09",
+  "textbookId": "higher-math-9-10-bn",
+  "number": 9,
+  "title": "সূচকীয় ও লগারিদমীয় ফাংশন",
+  "englishTitle": "Exponential and Logarithmic Function",
+  "pdfPages": [
+    198,
+    227
+  ],
+  "printedPages": [
+    193,
+    222
+  ],
+  "topics": [
+    {
+      "key": "9.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/9.0.json",
+      "passages": 14
+    },
+    {
+      "key": "9.1",
+      "title": "অমূলদ সূচক",
+      "file": "topics/9.1.json",
+      "passages": 6
+    },
+    {
+      "key": "9.2",
+      "title": "সূচক সম্পর্কিত সূত্র",
+      "file": "topics/9.2.json",
+      "passages": 71
+    },
+    {
+      "key": "9.3",
+      "title": "মূল এর ব্যাখ্যা",
+      "file": "topics/9.3.json",
+      "passages": 37
+    },
+    {
+      "key": "9.4",
+      "title": "মূলদ ভগ্নাংশ সূচক",
+      "file": "topics/9.4.json",
+      "passages": 109
+    },
+    {
+      "key": "9.ex",
+      "title": "অনুশীলনী ৯.১",
+      "file": "topics/9.ex.json",
+      "passages": 55
+    },
+    {
+      "key": "9.5",
+      "title": "লগারিদম (Logarithm)",
+      "file": "topics/9.5.json",
+      "passages": 23
+    },
+    {
+      "key": "9.6",
+      "title": "লগারিদমের সূত্রাবলি",
+      "file": "topics/9.6.json",
+      "passages": 70
+    },
+    {
+      "key": "9.7",
+      "title": "সূচকীয়, লগারিদমীয় ও পরমমান ফাংশন",
+      "file": "topics/9.7.json",
+      "passages": 6
+    },
+    {
+      "key": "9.8",
+      "title": "সারণি ৩",
+      "file": "topics/9.8.json",
+      "passages": 24
+    },
+    {
+      "key": "9.9",
+      "title": "লগারিদমীয় ফাংশন",
+      "file": "topics/9.9.json",
+      "passages": 5
+    },
+    {
+      "key": "9.10",
+      "title": "$y = \\log_2 x$ এর লেখচিত্র অঙ্কন",
+      "file": "topics/9.10.json",
+      "passages": 24
+    },
+    {
+      "key": "9.11",
+      "title": "পরমমান",
+      "file": "topics/9.11.json",
+      "passages": 12
+    },
+    {
+      "key": "9.12",
+      "title": "ফাংশনের লেখচিত্র",
+      "file": "topics/9.12.json",
+      "passages": 56
+    },
+    {
+      "key": "9.13",
+      "title": "৩. লেখচিত্র অঙ্কন করো।",
+      "file": "topics/9.13.json",
+      "passages": 2
+    },
+    {
+      "key": "9.15",
+      "title": "৬. ডোমেন এবং রেঞ্জ উল্লেখসহ লেখচিত্র অঙ্কন করো।",
+      "file": "topics/9.15.json",
+      "passages": 2
+    },
+    {
+      "key": "9.16",
+      "title": "৮. দেওয়া আছে, $y = 2^x$",
+      "file": "topics/9.16.json",
+      "passages": 1
+    }
+  ],
+  "stats": {
+    "topics": 17,
+    "passages": 517,
+    "images": 9,
+    "byKind": {
+      "text": 389,
+      "definition": 8,
+      "formula": 48,
+      "exercise": 49,
+      "table": 12,
+      "figure": 10,
+      "example": 1
+    },
+    "byReason": {
+      "verify-formula": 447,
+      "latin-junk": 13,
+      "known-confusable-corrected": 4,
+      "verify-table": 12
+    },
+    "needsReview": 460
+  }
+}

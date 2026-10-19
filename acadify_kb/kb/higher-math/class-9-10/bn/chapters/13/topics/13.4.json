@@ -1,0 +1,54 @@
+{
+  "id": "higher-math-9-10-bn-c13-t13.4",
+  "key": "13.4",
+  "title": "সরলরেখা ও সমতলের মধ্যে সম্পর্ক",
+  "chapter": 13,
+  "ordinal": 4,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c13-t13.4-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) কোনো সরলরেখা কোনো সমতলের সমান্তরাল হলে তাদের মধ্যে কোনো সাধারণ বিন্দু থাকবে না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 297,
+      "pdfPageEnd": 297,
+      "printedPageStart": 292,
+      "printedPageEnd": 292,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.4-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) কোনো সরলরেখা কোনো সমতলকে ছেদ করলে তাদের মধ্যে মাত্র একটি সাধারণ বিন্দু থাকবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 297,
+      "pdfPageEnd": 297,
+      "printedPageStart": 292,
+      "printedPageEnd": 292,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.4-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) যদি কোনো সরলরেখা ও সমতলের দুটি সাধারণ বিন্দু থাকে, তাহলে সম্পূর্ণ সরলরেখাটি ঐ সমতলে অবস্থিত হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 297,
+      "pdfPageEnd": 297,
+      "printedPageStart": 292,
+      "printedPageEnd": 292,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

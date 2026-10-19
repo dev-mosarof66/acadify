@@ -14,6 +14,8 @@ export interface AiPassage {
   body: string;
   reviewReasons: string[];
   printedPageStart: number;
+  /** The cropped picture file, for a figure whose picture was found. */
+  image?: string | null;
 }
 
 /** A reviewer's decision about one passage. `original` is the parsed text it was made against. */
@@ -39,14 +41,21 @@ const FIGURE_DESCRIPTION = /^(drawing|illustration|photo|photograph|image|diagra
 /** The parser's own description of a picture ("drawing: a ruler..."), as opposed to the book's caption ("চিত্র ১.২ : ..."). */
 export const isFigureDescription = (body: string) => FIGURE_DESCRIPTION.test(body.trim());
 
-export function classify(p: AiPassage, cur?: Curation): AiDecision {
+/** What is known about the book as a whole. */
+export interface BookTrust {
+  /** The extraction was compared with the printed pages, so unit words like km, atm, litre in Bangla prose are real, not OCR junk. */
+  pageChecked?: boolean;
+}
+
+export function classify(p: AiPassage, cur?: Curation, trust: BookTrust = {}): AiDecision {
   if (cur?.status === "excluded") return { state: "excluded", reason: "left out by a reviewer" };
   if (p.kind === "exercise") return { state: "exercise", reason: "a question, not content" };
   if (p.kind === "objective") return { state: "excluded", reason: "learning outcomes, not content" };
   if (p.kind === "figure" && isFigureDescription(p.body)) return { state: "excluded", reason: "picture description written by the parser" };
   if (!CONTENT_KINDS.has(p.kind)) return { state: "excluded", reason: `${p.kind} is not content` };
   if (cur) return { state: "included", reason: cur.body !== undefined ? "edited by a reviewer" : "checked by a reviewer" };
-  const held = p.reviewReasons.filter((r) => HELD_REASONS.has(r));
+  // Letters from another script are always garbage; stray Latin words in a page-checked book are units and names
+  const held = p.reviewReasons.filter((r) => HELD_REASONS.has(r) && !(trust.pageChecked && r === "latin-junk"));
   if (held.length) return { state: "held", reason: `needs a check: ${held.join(", ")}` };
   return { state: "included", reason: "automatic" };
 }
@@ -87,6 +96,8 @@ export interface AiRecord {
   /** Printed page number in the book, for citations. */
   page: number;
   text: string;
+  /** The picture file of a figure, when there is one. */
+  image: string | null;
   /** True when a person has checked it, or nothing about it needed checking. */
   verified: boolean;
   reviewReasons: string[];
@@ -107,14 +118,14 @@ export interface AiReport {
   reasons: Record<string, number>;
 }
 
-export function buildAiReady(chapter: AiChapterInput): { records: AiRecord[]; exercises: AiRecord[]; report: AiReport } {
+export function buildAiReady(chapter: AiChapterInput, trust: BookTrust = {}): { records: AiRecord[]; exercises: AiRecord[]; report: AiReport } {
   const records: AiRecord[] = [];
   const exercises: AiRecord[] = [];
   const report: AiReport = { included: 0, held: 0, excluded: 0, exercises: 0, reasons: {} };
 
   for (const topic of chapter.topics) {
     for (const p of topic.passages) {
-      const decision = classify(p, p.curation);
+      const decision = classify(p, p.curation, trust);
       if (decision.state === "excluded" || decision.state === "held") {
         report[decision.state] += 1;
         report.reasons[decision.reason] = (report.reasons[decision.reason] ?? 0) + 1;
@@ -131,6 +142,7 @@ export function buildAiReady(chapter: AiChapterInput): { records: AiRecord[]; ex
         kind: p.kind,
         page: p.printedPageStart,
         text: caption + cleanText(p.kind, p.curation?.body ?? p.body),
+        image: p.image ?? null,
         verified: !!p.curation || p.reviewReasons.length === 0,
         reviewReasons: p.reviewReasons,
       };

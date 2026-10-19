@@ -1,0 +1,183 @@
+{
+  "higher-math-9-10-bn-c09-t9.0-p001": {
+    "status": "kept",
+    "body": "সমসাময়িক বাস্তবতায় সূচকীয় ও লগারিদমীয় ফাংশনের অনেক প্রয়োগ বিধায় এর চর্চা অব্যাহত রয়েছে। যেমন জনসংখ্যা বৃদ্ধি, চক্রবৃদ্ধি মুনাফা ইত্যাদিতে উভয় ফাংশনের প্রয়োগ বিদ্যমান।",
+    "original": "সমসাময়িক বাস্তবতায় সূচকীয় ও লগারিদমীয় ফাংশনের অনেক প্রয়োগ বিদায় এর চর্চা অব্যাহত রয়েছে। যেমন জনসংখ্যা বৃদ্ধি, চক্রবৃদ্ধি মুনাফা ইত্যাদিতে উভয় ফাংশনের প্রয়োগ বিদ্যমান।"
+  },
+  "higher-math-9-10-bn-c09-t9.0-p009": {
+    "status": "kept",
+    "body": "ধরি $a$ একটি পূর্ণ সংখ্যা বা ভগ্নাংশ যা ধনাত্মক বা ঋণাত্মক হতে পারে এবং $n$ একটি ধনাত্মক পূর্ণসংখ্যা। তাহলে $a$ কে $n$ বার গুণ করলে গুণফলটিকে লিখা হয় $a^n = a \\cdot a \\cdot a \\cdots$ ($n$ বার) এবং $a^n$ কে বলা হয় $a$ এর $n$ ঘাত। এরূপ ক্ষেত্রে $a$ কে বলা হয় নিধান বা ভিত্তি (base) এবং $n$ কে বলা হয় $a$ এর ঘাত বা সূচক (exponent)।",
+    "original": "ধরি $a$ একটি পূর্ণ সংখ্যা বা ভগ্নাংশ বা ধনাত্মক বা ঋণাত্মক হতে পারে এবং $n$ একটি ধনাত্মক পূর্ণসংখ্যা। তাহলে $a$ কে $n$ বার গুণ করলে গুণফলটিকে লিখা হয় $a^n = a \\cdot a \\cdot a \\cdots$ ($n$ বার) এবং $a^n$ কে বলা হয় $a$ এর $n$ ঘাত। এরূপ ক্ষেত্রে $a$ কে বলা হয় নিধান বা ভিত্তি (base) এবং $n$ কে বলা হয় $a$ এর ঘাত বা সূচক (exponent)।"
+  },
+  "higher-math-9-10-bn-c09-t9.2-p023": {
+    "status": "kept",
+    "body": "[সূত্রদ্বয় আরোহ পদ্ধতিতে প্রমাণ করো ]",
+    "original": "[সূত্রদয় আরোহ পদ্ধতিতে প্রমাণ করো ]"
+  },
+  "higher-math-9-10-bn-c09-t9.2-p041": {
+    "status": "kept",
+    "body": "ঘ) $7^{-2} = \\frac{1}{7^2} = \\frac{1}{49}$ ঙ) $10^{-1} = \\frac{1}{10} = 0.1$",
+    "original": "ঘ) $7^{-2} = \\frac{1}{7^2} = \\frac{1}{49}$ ৬) $10^{-1} = \\frac{1}{10} = 0.1$"
+  },
+  "higher-math-9-10-bn-c09-t9.2-p042": {
+    "status": "kept",
+    "body": "চ) $10^{-2} = \\frac{1}{10^2} = \\frac{1}{100}$",
+    "original": "৮) $10^{-2} = \\frac{1}{10^2} = \\frac{1}{100}$"
+  },
+  "higher-math-9-10-bn-c09-t9.3-p007": {
+    "status": "kept",
+    "body": "(i) যদি $a > 0$ এবং $n \\in N, n > 1$ হয়, তবে $a$ এর একটি অনন্য ধনাত্মক, $n$ তম মূল আছে। এই ধনাত্মক মূলকে $\\sqrt[n]{a}$ দ্বারা সূচিত করা হয় ($\\sqrt[2]{a}$ এর স্থলে $\\sqrt{a}$ লেখা হয়) এবং একে $a$ এর মুখ্য $n$তম মূল বলা হয়। $n$ জোড় সংখ্যা হলে এরূপ $a$ এর অপর একটি $n$ তম মূল আছে এবং তা হলো $-\\sqrt[n]{a}$ $(ii)$ যদি $a < 0$ এবং $n \\in N, n > 1$ বিজোড় সংখ্যা হয়, তবে $a$ এর একটি মাত্র $n$ তম মূল আছে যা ঋণাত্মক। এই মূলকে $-\\sqrt[n]{a}$ দ্বারা সূচিত করা হয়। $n$ জোড় হলে এবং $a$ ঋণাত্মক হলে $a$ এর কোন $n$তম মূল নেই।",
+    "original": "(i) যদি $a > 0$ এবং $n \\in N, n > 1$ হয়, তবে $a$ এর একটি অনন্য ধনাত্মক, $n$ তম মূল আছে। এই ধনাত্মক মূলকে $\\sqrt[n]{a}$ দ্বারা সূচিত করা হয় ($\\sqrt[2]{a}$ এর স্থলে $\\sqrt{a}$ লেখা হয়) এবং একে $a$ এর মুখ্য $n$তম মূল বলা হয়। $n$ জোড় সংখ্যা হলে এরূপ $a$ এর আর একটি $n$ তম মূল আছে এবং তা হলো $-\\sqrt[n]{a}$ $(ii)$ যদি $a < 0$ এবং $n \\in N, n > 1$ বিজোড় সংখ্যা হয়, তবে $a$ এর একটি মাত্র $n$ তম মূল আছে যা ঋণাত্মক। এই মূলকে $-\\sqrt[n]{a}$ দ্বারা সূচিত করা হয়। $n$ জোড় হলে এবং $a$ ঋণাত্মক হলে $a$ এর কোন $n$তম মূল নেই।"
+  },
+  "higher-math-9-10-bn-c09-t9.3-p009": {
+    "status": "kept",
+    "body": "**দ্রষ্টব্য:**",
+    "original": "**দৃষ্টব্য:**"
+  },
+  "higher-math-9-10-bn-c09-t9.4-p003": {
+    "status": "kept",
+    "body": "যদি সকল ক্ষেত্রে সত্য হতে হয়, তবে $\\left(a^{\\frac{1}{n}}\\right)^n = a^{\\frac{n}{n}} = a^1 = a$ হতে হবে, অর্থাৎ $a^{\\frac{1}{n}}$ এর $n$ তম মূল হতে হবে। এজন্য একাধিক মূলের ক্ষেত্রে দ্ব্যর্থতা পরিহারের লক্ষ্যে উপরের সংজ্ঞা বর্ণনা করা হয়েছে।",
+    "original": "যদি সকল ক্ষেত্রে সত্য হতে হয়, তবে $\\left(a^{\\frac{1}{n}}\\right)^n = a^{\\frac{n}{n}} = a^1 = a$ হতে হবে, অর্থাৎ $a^{\\frac{1}{n}}$ এর $n$ তম মূল হতে হবে। এজন্য একাধিক মূলের ক্ষেত্রে দ্বার্তা পরিহারের লক্ষ্যে উপরের সংজ্ঞা বর্ণনা করা হয়েছে।"
+  },
+  "higher-math-9-10-bn-c09-t9.5-p014": {
+    "status": "kept",
+    "body": "**দ্রষ্টব্য:** $a > 0, a \\neq 1$ এবং $b > 0$ হলে $b$ এর অনন্য $a$ ভিত্তিক লগারিদমকে $\\log_a b$ দ্বারা সূচিত করা হয়।",
+    "original": "**দৃষ্টব্য:** $a > 0, a \\neq 1$ এবং $b > 0$ হলে $b$ এর অনন্য $a$ ভিত্তিক লগারিদমকে $\\log_a b$ দ্বারা সূচিত করা হয়।"
+  },
+  "higher-math-9-10-bn-c09-t9.6-p010": {
+    "status": "kept",
+    "body": "**দ্রষ্টব্য:**",
+    "original": "**দৃষ্টব্য:**"
+  },
+  "higher-math-9-10-bn-c09-t9.8-p002": {
+    "status": "kept",
+    "body": "সারণি ১ এ বর্ণিত $x$ এর ভিন্ন ভিন্ন মানের জন্য $y$ এর মানগুলোর অন্তর সমান যা দ্বারা $y = 2x$ ফাংশনটি বর্ণিত হয়েছে। এটা একটি সরলরেখার সমীকরণ।",
+    "original": "সারণি ১ এ বর্ণিত $x$ এর ভিন্ন ভিন্ন মানের জন্য $y$ এর মানগুলোর অন্তর সমান যা দ্বারা $y = 2x$ ফাংশানটি বর্ণিত হয়েছে। এটা একটি সরলরেখার সমীকরণ।"
+  },
+  "higher-math-9-10-bn-c09-t9.8-p003": {
+    "status": "kept",
+    "body": "সারণি ২ এ বর্ণিত $(x,y)$ ক্রমজোড়ের মানগুলো দ্বারা দ্বিঘাত সমীকরণ $y = x^2$ ফাংশনটি বর্ণিত হয়েছে।",
+    "original": "সারণি ২ এ বর্ণিত $(x,y)$ ক্রমজোড়ের মানগুলো দ্বারা দ্বিঘাত সমীকরণ $y = x^2$ ফাংশানটি বর্ণিত হয়েছে।"
+  },
+  "higher-math-9-10-bn-c09-t9.8-p005": {
+    "status": "kept",
+    "body": "সূচক ফাংশন $f(x) = a^x$ সকল বাস্তব সংখ্যা $x$ এর জন্য সংজ্ঞায়িত, যেখানে $a > 0$ এবং $a \\neq 1$। যেমন $y = 2^x, 10^x, x^x, e^x$ ইত্যাদি সূচক ফাংশন।",
+    "original": "সূচক ফাংশন $f(x) = a^x$ সকল বাস্তব সংখ্যা $x$ এর জন্য সংজ্ঞায়িত, যেখানে $a > 0$ এবং $a \\neq 1$। যেমন $y = 2^x, 10^x, x^x, e^x$ ইত্যাদি সূচক ফাংশান।"
+  },
+  "higher-math-9-10-bn-c09-t9.8-p007": {
+    "status": "kept",
+    "body": "ক) নিচের ছকে বর্ণিত সূচক ফাংশন লেখো:",
+    "original": "ক) নিচের ছকে বর্ণিত সূচক ফাংশান লেখো:"
+  },
+  "higher-math-9-10-bn-c09-t9.8-p014": {
+    "status": "kept",
+    "body": "খ) নিচের কোনটি সূচক ফাংশন নির্দেশ করে:",
+    "original": "খ) নিচের কোনটি সূচক ফাংশান নির্দেশ করে:"
+  },
+  "higher-math-9-10-bn-c09-t9.12-p009": {
+    "status": "kept",
+    "body": "$(ii)$ যখন $0 < a < 1$, $x$ এর মান ধনাত্মক বা ঋণাত্মক তখন $y = f(x) = a^x$ সর্বদাই ধনাত্মক।",
+    "original": "$(ii)$ যখন $0 < a < 1$, $x$ এর মান ধনাত্মক বা ঋণাত্মক তখন $y = f(x) = a^x$ সবদাই ধনাত্মক।"
+  },
+  "higher-math-9-10-bn-c09-t9.12-p022": {
+    "status": "kept",
+    "body": "ধাপ ১. যখন $y$ এর ধনাত্মক মান ক্রমাগত বৃদ্ধি পেতে থাকে অর্থাৎ, $y \\to \\infty$ হয় তখন $x$ এর মান শূন্যের দিকে ধাবিত হয় অর্থাৎ $x \\to 0$",
+    "original": "ফর্মা-২৮, উচ্চতর গণিত, ৯ম-১০ম শ্রেণি ধাপ ১. যখন $y$ এর ধনাত্মক মান ক্রমাগত বৃদ্ধি পেতে থাকে অর্থাৎ, $y \\to \\infty$ হয় তখন $x$ এর মান শূন্যের দিকে ধাবিত হয় অর্থাৎ $x \\to 0$"
+  },
+  "higher-math-9-10-bn-c09-t9.12-p024": {
+    "status": "kept",
+    "body": "ধাপ ৩. $y$ এর ঋণাত্মক মান অর্থাৎ $y$ এর মান মূলবিন্দুর নিচের দিকে ক্রমাগত বৃদ্ধি পেতে থাকে অর্থাৎ $y \\to -\\infty$ হয় তাহলে $x$ এর মান ক্রমাগত বৃদ্ধি পেতে থাকে অর্থাৎ $x \\to \\infty$",
+    "original": "ধাপ ৩. $y$ এর ঋণাত্মক মান অর্থাৎ $y$ এর মান মূলবিন্দুর নিচে দিকে ক্রমাগত বৃদ্ধি পেতে থাকে অর্থাৎ $y \\to -\\infty$ হয় তাহলে $x$ এর মান ক্রমাগত বৃদ্ধি পেতে থাকে অর্থাৎ $x \\to \\infty$"
+  },
+  "higher-math-9-10-bn-c09-t9.12-p040": {
+    "status": "kept",
+    "body": "**সমাধান:** ধরি $y = f(x) = \\ln x$\nযেহেতু $e^0 = 1$ কাজেই $y = \\ln 1 = 0$ সুতরাং, রেখাটি $(1, 0)$ বিন্দুগামী। যখন $x \\to 0$ তখন $y \\to -\\infty$। যখন $x \\to \\infty$ তখন $y \\to \\infty$।\n$\\therefore y = \\ln x$ রেখাটি ঊর্ধ্বগামী।\nপাশে রেখাটির লেখচিত্র অঙ্কন করা হলো।\nএখানে $D_f = (0, \\infty)$ এবং $R_f = (-\\infty, \\infty)$।",
+    "original": "**সমাধান:** ধরি $y = f(x) = \\ln x$\nযেহেতু $e^0 = 1$ কাজেই $y = \\ln 1 = 0$ সুতরাং, রেখাটি $(1, 0)$ বিন্দুগামী। যখন $x \\to 0$ তখন $y \\to -\\infty$। যখন $x \\to \\infty$ তখন $y \\to \\infty$।\n$\\therefore y = \\ln x$ রেখাটি উধ্বর্গামী।\nপাশে রেখাটির লেখচিত্র অঙ্কন করা হলো।\nএখানে $D_f = (0, \\infty)$ এবং $R_f = (-\\infty, \\infty)$।"
+  },
+  "higher-math-9-10-bn-c09-t9.15-p002": {
+    "status": "kept",
+    "body": "ক) $(i)$ ও $(ii)$ কে $x$ ও $y$ চলক বিশিষ্ট সরল সমীকরণে পরিণত করো।\nখ) সমীকরণদ্বয় সমাধান করে শুদ্ধতা যাচাই করো।\nগ) $x$ ও $y$ এর মান যদি কোনো চতুর্ভুজের সন্নিহিত বাহুর দৈর্ঘ্য হয় (যেখানে বাহুদ্বয়ের অন্তর্ভুক্ত কোণ $90^\\circ$) তবে চতুর্ভুজটি আয়ত না বর্গ উল্লেখ কর এবং এর ক্ষেত্রফল ও কর্ণের দৈর্ঘ্য নির্ণয় করো।",
+    "original": "ক) $(i)$ ও $(ii)$ কে $x$ ও $y$ চলক বিশিষ্ট সরল সমীকরণে পরিণত করো।\nখ) সমীকরণদ্বয় সমাধান করে শূদ্ধতা যাচাই করো।\nগ) $x$ ও $y$ এর মান যদি কোনো চতুর্ভুজের সম্বিহিত বাহুর দৈর্ঘ্য হয় (যেখানে বাহুদ্বয়ের অন্তর্ভুক্ত কোণ $90^\\circ$) তবে চতুর্ভুজটি আয়ত না বর্গ উল্লেখ কর এবং এর ক্ষেত্রফল ও কর্ণের দৈর্ঘ্য নির্ণয় করো।"
+  },
+  "higher-math-9-10-bn-c09-t9.ex-p007": {
+    "status": "kept",
+    "body": "৪. খ) $\\frac{a^3 + a^{-3} + 1}{a^{\\frac{3}{2}} + a^{-\\frac{3}{2}} + 1} = a^{\\frac{3}{2}} + a^{-\\frac{3}{2}} - 1$\n৫. সরল করো:\nক) $\\dfrac{\\left(\\frac{a+b}{b}\\right)^{\\frac{a}{a-b}} \\times \\left(\\frac{a-b}{a}\\right)^{\\frac{a}{a-b}}}{\\left(\\frac{a+b}{b}\\right)^{\\frac{b}{a-b}} \\times \\left(\\frac{a-b}{a}\\right)^{\\frac{b}{a-b}}}$\nখ) $\\frac{a^{\\frac{3}{2}} + ab}{ab - b^3} - \\frac{\\sqrt{a}}{\\sqrt{a} - b}$\nগ) $\\frac{1}{1 + a^{-m}b^n + a^{-m}c^p} + \\frac{1}{1 + b^{-n}c^p + b^{-n}a^m} + \\frac{1}{1 + c^{-p}a^m + c^{-p}b^n}$\nঘ) $\\sqrt[bc]{\\frac{x^{\\frac{b}{c}}}{x^{\\frac{c}{b}}}} \\times \\sqrt[ca]{\\frac{x^{\\frac{c}{a}}}{x^{\\frac{a}{c}}}} \\times \\sqrt[ab]{\\frac{x^{\\frac{a}{b}}}{x^{\\frac{b}{a}}}}$\nঙ) $\\frac{(a^2 - b^{-2})^a (a - b^{-1})^{b-a}}{(b^2 - a^{-2})^b (b + a^{-1})^{a-b}}$\n৬. দেখাও যে,\nক) যদি $x = a^{q+r}b^p, y = a^{r+p}b^q, z = a^{p+q}b^r$ হয়, তবে $x^{q-r} \\cdot y^{r-p} \\cdot z^{p-q} = 1$\nখ) যদি $a^p = b, b^q = c$ এবং $c^r = a$ হয়, তবে $pqr = 1$\nগ) যদি $a^x = p, a^y = q$ এবং $a^2 = (p^y q^x)^z$ হয়, তবে $xyz = 1$\n৭. ক) যদি $x\\sqrt[3]{a} + y\\sqrt[3]{b} + z\\sqrt[3]{c} = 0$ এবং $a^2 = bc$ হয়, তবে দেখাও যে, $ax^3 + by^3 + cz^3 = 3axyz$\nখ) যদি $x = (a+b)^{\\frac{1}{3}} + (a-b)^{\\frac{1}{3}}$ এবং $a^2 - b^2 = c^3$ হয়, তবে দেখাও যে, $x^3 - 3cx - 2a = 0$\nগ) যদি $a^2 + 2 = 3^{\\frac{2}{3}} + 3^{\\frac{-2}{3}}$ এবং $a \\geq 0$ হয়, তবে দেখাও যে, $3a^3 + 9a = 8$\nঘ) যদি $a^2 = b^3$ হয়, তবে দেখাও যে, $\\left(\\frac{a}{b}\\right)^{\\frac{3}{2}} + \\left(\\frac{b}{a}\\right)^{\\frac{2}{3}} = a^{\\frac{1}{2}} + b^{-\\frac{1}{3}}$\nঙ) যদি $b = 1 + 3^{\\frac{2}{3}} + 3^{\\frac{1}{3}}$ হয়, তবে দেখাও যে, $b^3 - 3b^2 - 6b - 4 = 0$\nচ) যদি $a + b + c = 0$ হয়, তবে দেখাও যে, $\\frac{1}{x^b + x^{-c} + 1} + \\frac{1}{x^c + x^{-a} + 1} + \\frac{1}{x^a + x^{-b} + 1} = 1$",
+    "original": "'ᱳ ᱰᱳᱰᱰ ᱳᱰᱰ 'ᱳᱰᱰ 0 = v + q + v ᱳᱳᱳ (᱑)"
+  },
+  "higher-math-9-10-bn-c09-t9.ex-p006": {
+    "status": "excluded",
+    "original": "$$I = \\frac{I + q_{-x} + v_x}{I} + \\frac{I + v_{-x} + v_x}{I} + \\frac{I + v_{-x} + q_x}{I}$$"
+  },
+  "higher-math-9-10-bn-c09-t9.ex-p008": {
+    "status": "excluded",
+    "original": "0 = v - qv - vq - vq 'ᱳ ᱰᱳᱰᱰ ᱳᱰᱰ 'ᱳᱰᱰ $\\frac{v}{I}v + \\frac{v}{v}v + I = q$ ᱳᱳᱳ (᱒)"
+  },
+  "higher-math-9-10-bn-c09-t9.ex-p009": {
+    "status": "excluded",
+    "original": "$\\frac{v}{I} - q + \\frac{v}{I}v = \\frac{v}{v} \\left( \\frac{v}{q} \\right) + \\frac{v}{v} \\left( \\frac{q}{v} \\right)$ 'ᱳ ᱰᱳᱰᱰ ᱳᱰᱰ 'ᱳᱰᱰ $vq = v^v$ ᱳᱳᱳ (᱓)"
+  },
+  "higher-math-9-10-bn-c09-t9.ex-p010": {
+    "status": "excluded",
+    "original": "8 = v6 + vqv 'ᱳ ᱰᱳᱰᱰ ᱳᱰᱰ 'ᱳᱰᱰ 0 $\\overline{=} v$ ᱳᱳᱳ $\\frac{v}{v}v + \\frac{v}{v}v = v + v^v$ ᱳᱳᱳ (᱔)"
+  },
+  "higher-math-9-10-bn-c09-t9.ex-p011": {
+    "status": "excluded",
+    "original": "$$0 = v\\overline{z} - x\\overline{z}v - v^x$$"
+  },
+  "higher-math-9-10-bn-c09-t9.ex-p012": {
+    "status": "excluded",
+    "original": "'ᱳ ᱰᱳᱰᱰ ᱳᱰᱰ 'ᱳᱰᱰ $v^{\\overline{z}} = v\\overline{z} - v^v$ ᱳᱳᱳ $\\frac{v}{I}(q - v) + \\frac{v}{I}(q + v) = x$ ᱳᱳᱳ (᱕)"
+  },
+  "higher-math-9-10-bn-c09-t9.ex-p013": {
+    "status": "excluded",
+    "original": "$$zhxv\\overline{z} = v^z\\overline{z} + v^h\\overline{q} + v^x\\overline{v}$$"
+  },
+  "higher-math-9-10-bn-c09-t9.ex-p014": {
+    "status": "excluded",
+    "original": "'ᱳ ᱰᱳᱰᱰ ᱳᱰᱰ 'ᱳᱰᱰ $vq = v^v$ ᱳᱳᱳ 0 = $v\\sqrt{v}z + q\\sqrt{v}h + v\\sqrt{v}x$ ᱳᱳᱳ (᱖)"
+  },
+  "higher-math-9-10-bn-c09-t9.ex-p015": {
+    "status": "excluded",
+    "original": "$$I = zhx \\quad ᱳᱰᱰ \\quad 'ᱳᱰᱰ \\quad z(x^b\\overline{h}d) = v^v \\quad ᱳᱳᱳ \\quad b = \\overline{h}^v \\quad 'd = x^v \\quad ᱳᱳᱳ \\quad (᱗)$$"
+  },
+  "higher-math-9-10-bn-c09-t9.ex-p016": {
+    "status": "excluded",
+    "original": "$$I = .bd \\quad ᱳᱰᱰ \\quad 'ᱳᱰᱰ \\quad v = .x \\quad ᱳᱳᱳ \\quad v = b\\overline{q} \\quad 'q = d^v \\quad ᱳᱳᱳ \\quad (᱘)$$"
+  },
+  "higher-math-9-10-bn-c09-t9.ex-p017": {
+    "status": "excluded",
+    "original": "$$I = \\overline{b-d}z \\cdot \\overline{d-x}h \\cdot \\overline{x-b}x \\quad ᱳᱰᱰ \\quad 'ᱳᱰᱰ \\quad .q\\overline{b+d}v = z \\quad 'bq\\overline{d+x}v = h \\quad 'dq\\overline{x+b}v = x \\quad ᱳᱳᱳ \\quad (᱙)$$"
+  },
+  "higher-math-9-10-bn-c09-t9.ex-p018": {
+    "status": "excluded",
+    "original": "'ᱳ ᱰᱳᱰᱰ ᱰᱳᱳ"
+  },
+  "higher-math-9-10-bn-c09-t9.ex-p019": {
+    "status": "excluded",
+    "original": "$$\\frac{q-v(I-v+q)_q(v-v-vq)}{v-q(I-q-v)_v(v-q-v^v)}$$ (᱑)"
+  },
+  "higher-math-9-10-bn-c09-t9.ex-p020": {
+    "status": "excluded",
+    "original": "$$\\underbrace{\\frac{\\frac{v}{q}x}{\\frac{q}{v}x} \\int_{qv}} \\times \\underbrace{\\frac{\\frac{v}{v}x}{\\frac{v}{v}x} \\int_{v\\overline{v}}}_{\\frac{v}{v}x} \\times \\underbrace{\\frac{\\frac{q}{v}x}{\\frac{v}{q}x} \\int_{vq}}$$ (᱒)"
+  },
+  "higher-math-9-10-bn-c09-t9.ex-p021": {
+    "status": "excluded",
+    "original": "$$\\frac{uq\\overline{d-v} + uv\\overline{d-v} + I}{I} + \\frac{uv\\overline{u-q} + dv\\overline{u-q} + I}{I} + \\frac{d\\overline{v}u-v + uq\\overline{u-v} + I}{I}$$ (᱓)"
+  },
+  "higher-math-9-10-bn-c09-t9.ex-p022": {
+    "status": "excluded",
+    "original": "$$\\frac{q-v\\sqrt{\\phantom{x}}}{v\\sqrt{\\phantom{x}}} - \\frac{vq - qv}{qv + \\frac{v}{v}v}$$ (᱔)"
+  },
+  "higher-math-9-10-bn-c09-t9.ex-p023": {
+    "status": "excluded",
+    "original": "$$\\frac{\\frac{q-v}{q} \\left( \\frac{v}{q-v} \\right) \\times \\frac{q-v}{q} \\left( \\frac{q}{q+v} \\right)}{\\frac{q-v}{v} \\left( \\frac{v}{q-v} \\right) \\times \\frac{q-v}{v} \\left( \\frac{q}{q+v} \\right)}$$ (᱕)"
+  },
+  "higher-math-9-10-bn-c09-t9.ex-p024": {
+    "status": "excluded",
+    "original": "'ᱳᱰᱰ ᱳᱰᱰ ᱰᱳᱳ"
+  },
+  "higher-math-9-10-bn-c09-t9.ex-p025": {
+    "status": "excluded",
+    "original": "$$I - \\frac{v}{v-v}v + \\frac{v}{v}v = \\frac{I + \\frac{v}{v-v}v + \\frac{v}{v}v}{I + \\frac{v}{v-v}v + \\frac{v}{v}v}$$ (᱖)"
+  }
+}

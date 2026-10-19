@@ -1,0 +1,100 @@
+{
+  "id": "higher-math-9-10-bn-c11",
+  "textbookId": "higher-math-9-10-bn",
+  "number": 11,
+  "title": "স্থানাঙ্ক জ্যামিতি",
+  "englishTitle": "Coordinate Geometry",
+  "pdfPages": [
+    244,
+    275
+  ],
+  "printedPages": [
+    239,
+    270
+  ],
+  "topics": [
+    {
+      "key": "11.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/11.0.json",
+      "passages": 3
+    },
+    {
+      "key": "11.1",
+      "title": "আয়তাকার কার্তেসীয় স্থানাঙ্ক (Rectangular Cartesian Coordinates)",
+      "file": "topics/11.1.json",
+      "passages": 8
+    },
+    {
+      "key": "11.2",
+      "title": "দুটি বিন্দুর মধ্যবর্তী দূরত্ব (Distance between two points)",
+      "file": "topics/11.2.json",
+      "passages": 45
+    },
+    {
+      "key": "11.ex",
+      "title": "অনুশীলনী ১১.১",
+      "file": "topics/11.ex.json",
+      "passages": 69
+    },
+    {
+      "key": "11.3",
+      "title": "ত্রিভুজক্ষেত্রের ক্ষেত্রফল (Area of triangles)",
+      "file": "topics/11.3.json",
+      "passages": 11
+    },
+    {
+      "key": "11.4",
+      "title": "ত্রিভুজ ক্ষেত্রের ক্ষেত্রফল নির্ণয়ের সূত্র",
+      "file": "topics/11.4.json",
+      "passages": 125
+    },
+    {
+      "key": "11.5",
+      "title": "চতুর্ভুজক্ষেত্রের ক্ষেত্রফল",
+      "file": "topics/11.5.json",
+      "passages": 6
+    },
+    {
+      "key": "11.6",
+      "title": "সুতরাং চতুর্ভুজক্ষেত্র এর ক্ষেত্রফল",
+      "file": "topics/11.6.json",
+      "passages": 12
+    },
+    {
+      "key": "11.7",
+      "title": "সরলরেখার ঢাল (Gradient or slope of a straight line)",
+      "file": "topics/11.7.json",
+      "passages": 1
+    },
+    {
+      "key": "11.8",
+      "title": "ঢাল (Gradient or slope)",
+      "file": "topics/11.8.json",
+      "passages": 51
+    },
+    {
+      "key": "11.9",
+      "title": "সরলরেখার সমীকরণ",
+      "file": "topics/11.9.json",
+      "passages": 115
+    }
+  ],
+  "stats": {
+    "topics": 11,
+    "passages": 446,
+    "images": 30,
+    "byKind": {
+      "text": 283,
+      "figure": 30,
+      "formula": 64,
+      "exercise": 69
+    },
+    "byReason": {
+      "verify-formula": 370,
+      "latin-junk": 47,
+      "known-confusable-corrected": 11
+    },
+    "needsReview": 374
+  }
+}

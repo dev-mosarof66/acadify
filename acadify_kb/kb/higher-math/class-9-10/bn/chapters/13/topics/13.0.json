@@ -1,0 +1,186 @@
+{
+  "id": "higher-math-9-10-bn-c13-t13.0",
+  "key": "13.0",
+  "title": "ভূমিকা ও শিখনফল",
+  "chapter": 13,
+  "ordinal": 0,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c13-t13.0-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বাস্তব জীবনে আমাদের বিভিন্ন আকারের ঘনবস্তুর প্রয়োজন এবং আমরা সেগুলো সর্বদা ব্যবহারও করে থাকি। এর মধ্যে সুসম আকারের ঘনবস্তু যেমন আছে, তেমনি আছে বিষম আকারের ঘনবস্তুও। তবে এই অধ্যায়ে সুসম আকারের ঘনবস্তু এবং দুটি সুসম ঘনবস্তুর সমন্বয়ে গঠিত যৌগিক ঘনবস্তুর আয়তন ও পৃষ্ঠতলের ক্ষেত্রফল নির্ণয় পদ্ধতি আলোচনা করা হবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 292,
+      "pdfPageEnd": 292,
+      "printedPageStart": 287,
+      "printedPageEnd": 287,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.0-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এ অধ্যায় শেষে শিক্ষার্থীরা ---",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 292,
+      "pdfPageEnd": 292,
+      "printedPageStart": 287,
+      "printedPageEnd": 287,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.0-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "* ঘনবস্তুর প্রতীকীয় চিত্র অঙ্কন করতে পারবে;\n* প্রিজম, পিরামিড আকৃতির বস্তু, গোলক ও সমবৃত্তভূমিক কোণকের আয়তন এবং পৃষ্ঠতলের ক্ষেত্রফল নির্ণয় করতে পারবে;\n* ঘন জ্যামিতির ধারণা প্রয়োগ করে সমস্যা সমাধান করতে পারবে;\n* যৌগিক ঘনবস্তুর আয়তন ও পৃষ্ঠতলের ক্ষেত্রফল পরিমাণ করতে পারবে;\n* ঘন জ্যামিতির ধারণা ব্যবহারিক ক্ষেত্রে প্রয়োগ করতে পারবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 292,
+      "pdfPageEnd": 292,
+      "printedPageStart": 287,
+      "printedPageEnd": 287,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.0-p004",
+      "kind": "text",
+      "section": "মৌলিক ধারণা",
+      "caption": null,
+      "body": "মাধ্যমিক জ্যামিতিতে বিন্দু, রেখা ও তলের মৌলিক ধারণা আলোচিত হয়েছে। ঘন জ্যামিতিতেও বিন্দু, রেখা ও তলকে মৌলিক ধারণা হিসেবে গ্রহণ করা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 292,
+      "pdfPageEnd": 292,
+      "printedPageStart": 287,
+      "printedPageEnd": 287,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.0-p005",
+      "kind": "text",
+      "section": "মৌলিক ধারণা",
+      "caption": null,
+      "body": "১. বস্তুর দৈর্ঘ্য, প্রস্তুত ও উচ্চতা প্রত্যেকটিকে ঐ বস্তুর মাত্রা (dimension) বলা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 292,
+      "pdfPageEnd": 292,
+      "printedPageStart": 287,
+      "printedPageEnd": 287,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.0-p006",
+      "kind": "text",
+      "section": "মৌলিক ধারণা",
+      "caption": null,
+      "body": "২. বিন্দুর দৈর্ঘ্য, প্রস্তুত ও উচ্চতা নেই। এটি একটি ধারণা। বাস্তবে বিন্দু বুঝানোর জন্য আমরা একটি ডট (.) ব্যবহার করি। একে অবস্থানের প্রতিরূপ বলা যেতে পারে। সুতরাং বিন্দুর কোনো মাত্রা নেই। তাই বিন্দু শূন্য মাত্রিক।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 292,
+      "pdfPageEnd": 292,
+      "printedPageStart": 287,
+      "printedPageEnd": 287,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.0-p007",
+      "kind": "text",
+      "section": "মৌলিক ধারণা",
+      "caption": null,
+      "body": "৩. রেখার কেবল দৈর্ঘ্য আছে, প্রস্তুত ও উচ্চতা নেই। তাই রেখা একমাত্রিক। যেমন, নিচের চিত্রে $AB$।",
+      "image": null,
+      "formulas": [
+        "AB"
+      ],
+      "pdfPageStart": 292,
+      "pdfPageEnd": 292,
+      "printedPageStart": 287,
+      "printedPageEnd": 287,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.0-p008",
+      "kind": "text",
+      "section": "মৌলিক ধারণা",
+      "caption": null,
+      "body": "৪. তলের দৈর্ঘ্য ও প্রস্তুত আছে, উচ্চতা নেই। তাই তল দ্বিমাত্রিক। যেমন, নিচের চিত্রে $ABGF$।",
+      "image": null,
+      "formulas": [
+        "ABGF"
+      ],
+      "pdfPageStart": 292,
+      "pdfPageEnd": 292,
+      "printedPageStart": 287,
+      "printedPageEnd": 287,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.0-p009",
+      "kind": "text",
+      "section": "মৌলিক ধারণা",
+      "caption": null,
+      "body": "৫. যে বস্তুর দৈর্ঘ্য, প্রস্তুত ও উচ্চতা আছে, তাকে ঘনবস্তু বলা হয়। সুতরাং ঘনবস্তু ত্রিমাত্রিক। যেমন, নিচের চিত্রে $ABCDEFG$।",
+      "image": null,
+      "formulas": [
+        "ABCDEFG"
+      ],
+      "pdfPageStart": 292,
+      "pdfPageEnd": 292,
+      "printedPageStart": 287,
+      "printedPageEnd": 287,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.0-p010",
+      "kind": "text",
+      "section": "মৌলিক ধারণা",
+      "caption": null,
+      "body": "২০২",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 292,
+      "pdfPageEnd": 292,
+      "printedPageStart": 287,
+      "printedPageEnd": 287,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.0-p011",
+      "kind": "figure",
+      "section": "মৌলিক ধারণা",
+      "caption": null,
+      "body": "drawing: A 3D cube with vertices labeled A, B, C, D, E, F, G.",
+      "image": "p293-page_2_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 293,
+      "pdfPageEnd": 293,
+      "printedPageStart": 288,
+      "printedPageEnd": 288,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

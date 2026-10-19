@@ -1,0 +1,118 @@
+{
+  "id": "higher-math-9-10-bn-c13",
+  "textbookId": "higher-math-9-10-bn",
+  "number": 13,
+  "title": "ঘন জ্যামিতি",
+  "englishTitle": "Solid Geometry",
+  "pdfPages": [
+    292,
+    310
+  ],
+  "printedPages": [
+    287,
+    305
+  ],
+  "topics": [
+    {
+      "key": "13.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/13.0.json",
+      "passages": 11
+    },
+    {
+      "key": "13.1",
+      "title": "কতিপয় প্রাথমিক সংজ্ঞা",
+      "file": "topics/13.1.json",
+      "passages": 25
+    },
+    {
+      "key": "13.2",
+      "title": "দুটি সরলরেখার মধ্যে সম্পর্ক",
+      "file": "topics/13.2.json",
+      "passages": 2
+    },
+    {
+      "key": "13.3",
+      "title": "স্বতঃসিদ্ধ",
+      "file": "topics/13.3.json",
+      "passages": 2
+    },
+    {
+      "key": "13.4",
+      "title": "সরলরেখা ও সমতলের মধ্যে সম্পর্ক",
+      "file": "topics/13.4.json",
+      "passages": 3
+    },
+    {
+      "key": "13.5",
+      "title": "দুটি সমতলের মধ্যে সম্পর্ক",
+      "file": "topics/13.5.json",
+      "passages": 2
+    },
+    {
+      "key": "13.6",
+      "title": "যনবস্তু",
+      "file": "topics/13.6.json",
+      "passages": 4
+    },
+    {
+      "key": "13.8",
+      "title": "১. আয়তিক ঘন বা আয়তাকার ঘনবস্তু (Rectangular Parallelopiped)",
+      "file": "topics/13.8.json",
+      "passages": 21
+    },
+    {
+      "key": "13.9",
+      "title": "৩. প্রিজম (Prism)",
+      "file": "topics/13.9.json",
+      "passages": 11
+    },
+    {
+      "key": "13.10",
+      "title": "৪. পিরামিড (Pyramid)",
+      "file": "topics/13.10.json",
+      "passages": 16
+    },
+    {
+      "key": "13.11",
+      "title": "৫. সমবৃত্তভূমিক কোণক (Right circular cone)",
+      "file": "topics/13.11.json",
+      "passages": 14
+    },
+    {
+      "key": "13.12",
+      "title": "৬. গোলক (Sphere)",
+      "file": "topics/13.12.json",
+      "passages": 39
+    },
+    {
+      "key": "13.13",
+      "title": "৭. যৌগিক ঘনবস্তু (Compound solid)",
+      "file": "topics/13.13.json",
+      "passages": 36
+    },
+    {
+      "key": "13.ex",
+      "title": "অনুশীলনী ১৩",
+      "file": "topics/13.ex.json",
+      "passages": 36
+    }
+  ],
+  "stats": {
+    "topics": 14,
+    "passages": 222,
+    "images": 13,
+    "byKind": {
+      "text": 164,
+      "figure": 13,
+      "formula": 9,
+      "exercise": 36
+    },
+    "byReason": {
+      "verify-formula": 116,
+      "known-confusable-corrected": 24,
+      "latin-junk": 8
+    },
+    "needsReview": 132
+  }
+}

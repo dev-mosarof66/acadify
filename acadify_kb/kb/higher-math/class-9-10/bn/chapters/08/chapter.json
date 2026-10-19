@@ -1,0 +1,115 @@
+{
+  "id": "higher-math-9-10-bn-c08",
+  "textbookId": "higher-math-9-10-bn",
+  "number": 8,
+  "title": "ত্রিকোণমিতি",
+  "englishTitle": "Trigonometry",
+  "pdfPages": [
+    151,
+    197
+  ],
+  "printedPages": [
+    146,
+    192
+  ],
+  "topics": [
+    {
+      "key": "8.0",
+      "title": "ভূমিকা ও শিখনফল",
+      "file": "topics/8.0.json",
+      "passages": 7
+    },
+    {
+      "key": "8.1",
+      "title": "ধনাত্মক ও ঋণাত্মক কোণ",
+      "file": "topics/8.1.json",
+      "passages": 13
+    },
+    {
+      "key": "8.2",
+      "title": "কোণ পরিমাপের একক",
+      "file": "topics/8.2.json",
+      "passages": 54
+    },
+    {
+      "key": "8.3",
+      "title": "কোণের বৃত্তীয় পরিমাপ",
+      "file": "topics/8.3.json",
+      "passages": 20
+    },
+    {
+      "key": "8.4",
+      "title": "কোণের ডিগ্রি পরিমাণ ও রেডিয়ান (বৃত্তীয়) পরিমাণের সম্পর্ক",
+      "file": "topics/8.4.json",
+      "passages": 92
+    },
+    {
+      "key": "8.ex",
+      "title": "অনুশীলনী ৮.১",
+      "file": "topics/8.ex.json",
+      "passages": 84
+    },
+    {
+      "key": "8.5",
+      "title": "ত্রিকোণমিতিক অনুপাতসমূহ (Trigonometric Ratios)",
+      "file": "topics/8.5.json",
+      "passages": 71
+    },
+    {
+      "key": "8.6",
+      "title": "বিভিন্ন চতুর্ভাগে ত্রিকোণমিতিক অনুপাতসমূহের চিহ্ন",
+      "file": "topics/8.6.json",
+      "passages": 8
+    },
+    {
+      "key": "8.7",
+      "title": "ত্রিকোণমিতিক অনুপাতসমূহ",
+      "file": "topics/8.7.json",
+      "passages": 2
+    },
+    {
+      "key": "8.8",
+      "title": "অনুপাতসমূহের সংজ্ঞা",
+      "file": "topics/8.8.json",
+      "passages": 131
+    },
+    {
+      "key": "8.9",
+      "title": "বিভিন্ন কোণের ত্রিকোণমিতিক অনুপাতসমূহ",
+      "file": "topics/8.9.json",
+      "passages": 218
+    },
+    {
+      "key": "8.10",
+      "title": "৮. সমাধান করো: (যখন $0 < \\theta < \\frac{\\pi}{2}$)",
+      "file": "topics/8.10.json",
+      "passages": 5
+    },
+    {
+      "key": "8.11",
+      "title": "৯. সমাধান করো: (যখন $0 < \\theta < 2\\pi$)",
+      "file": "topics/8.11.json",
+      "passages": 11
+    }
+  ],
+  "stats": {
+    "topics": 13,
+    "passages": 716,
+    "images": 36,
+    "byKind": {
+      "text": 430,
+      "figure": 37,
+      "formula": 163,
+      "definition": 2,
+      "exercise": 81,
+      "table": 3
+    },
+    "byReason": {
+      "verify-formula": 603,
+      "latin-junk": 72,
+      "known-confusable-corrected": 14,
+      "verify-table": 3
+    },
+    "needsReview": 612
+  }
+}

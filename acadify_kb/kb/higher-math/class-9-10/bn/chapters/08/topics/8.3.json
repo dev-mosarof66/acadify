@@ -1,0 +1,399 @@
+{
+  "id": "higher-math-9-10-bn-c08-t8.3",
+  "key": "8.3",
+  "title": "কোণের বৃত্তীয় পরিমাপ",
+  "chapter": 8,
+  "ordinal": 3,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c08-t8.3-p001",
+      "kind": "definition",
+      "section": null,
+      "caption": null,
+      "body": "**সংজ্ঞা ১.** বৃত্তীয় পদ্ধতিতে (circular system) অর্থাৎ, রেডিয়ান এককে কোনো কোণের পরিমাপকে তার বৃত্তীয় পরিমাপ (circular measure) বলা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 158,
+      "pdfPageEnd": 158,
+      "printedPageStart": 153,
+      "printedPageEnd": 153,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.3-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "মনে করি, $\\angle MON$ যেকোনো একটি কোণ যার বৃত্তীয় পরিমাপ নির্ণয় করতে হবে। $O$ বিন্দুকে কেন্দ্র করে $OA = r$ ব্যাসার্ধ নিয়ে একটি বৃত্ত অঙ্কন করি। বৃত্তটি $OM$ ও $ON$ কে যথাক্রমে $A$ ও $B$ বিন্দুতে ছেদ করে। তাহলে $AB$ চাপ দ্বারা উৎপন্ন কেন্দ্রস্থ কোণ $\\angle AOB$। ব্যাসার্ধ $r$ এর সমান করে $AP$ চাপ নিই (চাপ ও ব্যাসার্ধ একই এককে হতে হবে)।",
+      "image": null,
+      "formulas": [
+        "\\angle MON",
+        "O",
+        "OA = r",
+        "OM",
+        "ON",
+        "A",
+        "B",
+        "AB",
+        "\\angle AOB",
+        "r",
+        "AP"
+      ],
+      "pdfPageStart": 158,
+      "pdfPageEnd": 158,
+      "printedPageStart": 153,
+      "printedPageEnd": 153,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.3-p003",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: geometric diagrams showing a circle with center O, radius r, and points A, B, P, M, N",
+      "image": "p158-page_8_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 158,
+      "pdfPageEnd": 158,
+      "printedPageStart": 153,
+      "printedPageEnd": 153,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.3-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাহলে, $\\angle AOP = 1$ রেডিয়ান।",
+      "image": null,
+      "formulas": [
+        "\\angle AOP = 1"
+      ],
+      "pdfPageStart": 158,
+      "pdfPageEnd": 158,
+      "printedPageStart": 153,
+      "printedPageEnd": 153,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.3-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধরি চাপ $AB = s$।",
+      "image": null,
+      "formulas": [
+        "AB = s"
+      ],
+      "pdfPageStart": 158,
+      "pdfPageEnd": 158,
+      "printedPageStart": 153,
+      "printedPageEnd": 153,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.3-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রতিজ্ঞা ২** অনুযায়ী,",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 158,
+      "pdfPageEnd": 158,
+      "printedPageStart": 153,
+      "printedPageEnd": 153,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.3-p007",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{\\angle MON}{\\angle AOP} = \\frac{চাপ  AB}{চাপ  AP} = \\frac{চাপ  AB}{ব্যাসার্ধ  OA} = \\frac{s}{r}$$",
+      "image": null,
+      "formulas": [
+        "\\frac{\\angle MON}{\\angle AOP} = \\frac{চাপ  AB}{চাপ  AP} = \\frac{চাপ  AB}{ব্যাসার্ধ  OA} = \\frac{s}{r}"
+      ],
+      "pdfPageStart": 158,
+      "pdfPageEnd": 158,
+      "printedPageStart": 153,
+      "printedPageEnd": 153,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.3-p008",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\therefore \\angle MON = \\frac{s}{r} \\times \\angle AOP$$",
+      "image": null,
+      "formulas": [
+        "\\therefore \\angle MON = \\frac{s}{r} \\times \\angle AOP"
+      ],
+      "pdfPageStart": 158,
+      "pdfPageEnd": 158,
+      "printedPageStart": 153,
+      "printedPageEnd": 153,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.3-p009",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= \\frac{s}{r} \\times 1  রেডিয়ান = \\frac{s}{r}  রেডিয়ান$$",
+      "image": null,
+      "formulas": [
+        "= \\frac{s}{r} \\times 1  রেডিয়ান = \\frac{s}{r}  রেডিয়ান"
+      ],
+      "pdfPageStart": 158,
+      "pdfPageEnd": 158,
+      "printedPageStart": 153,
+      "printedPageEnd": 153,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.3-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\angle MON$ এর বৃত্তীয় পরিমাপ $\\frac{s}{r}$, যেখানে কোণটি তার শীর্ষবিন্দুকে কেন্দ্র করে এবং $r$ ব্যাসার্ধ নিয়ে অঙ্কিত বৃত্তে $s$ পরিমাণ চাপ খণ্ডিত করে।",
+      "image": null,
+      "formulas": [
+        "\\therefore \\angle MON",
+        "\\frac{s}{r}",
+        "r",
+        "s"
+      ],
+      "pdfPageStart": 158,
+      "pdfPageEnd": 158,
+      "printedPageStart": 153,
+      "printedPageEnd": 153,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.3-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রতিজ্ঞা ৪.** $r$ ব্যাসার্ধের কোনো বৃত্তে $s$ দৈর্ঘ্যের কোনো চাপ কেন্দ্রে $\\theta$ পরিমাণ কোণ উৎপন্ন করলে $s = r\\theta$ হবে।",
+      "image": null,
+      "formulas": [
+        "r",
+        "s",
+        "\\theta",
+        "s = r\\theta"
+      ],
+      "pdfPageStart": 158,
+      "pdfPageEnd": 158,
+      "printedPageStart": 153,
+      "printedPageEnd": 153,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.3-p012",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A circle with center O, points A, B, P, and C on its circumference, and an angle θ at the center between radii OA and OB.",
+      "image": "p159-page_9_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 159,
+      "pdfPageEnd": 159,
+      "printedPageStart": 154,
+      "printedPageEnd": 154,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.3-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**বিশেষ নির্বাচন:** মনে করি, $O$ কেন্দ্রবিশিষ্ট $ABC$ বৃত্তের ব্যাসার্ধ $OB = r$ একক, চাপ $AB = s$ একক এবং $AB$ চাপ দ্বারা উৎপন্ন কেন্দ্রস্থ $\\angle AOB = \\theta^c$। প্রমাণ করতে হবে যে, $s = r\\theta$.",
+      "image": null,
+      "formulas": [
+        "O",
+        "ABC",
+        "OB = r",
+        "AB = s",
+        "AB",
+        "\\angle AOB = \\theta^c",
+        "s = r\\theta"
+      ],
+      "pdfPageStart": 159,
+      "pdfPageEnd": 159,
+      "printedPageStart": 154,
+      "printedPageEnd": 154,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.3-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**অঙ্কন:** $B$ বিন্দুকে কেন্দ্র করে $OB$ এর সমান ব্যাসার্ধ বিশিষ্ট $BP$ চাপ আঁকি যেন তা $ABC$ বৃত্তের পরিধিকে $P$ বিন্দুতে ছেদ করে। $O, P$ যোগ করি।",
+      "image": null,
+      "formulas": [
+        "B",
+        "OB",
+        "BP",
+        "ABC",
+        "P",
+        "O, P"
+      ],
+      "pdfPageStart": 159,
+      "pdfPageEnd": 159,
+      "printedPageStart": 154,
+      "printedPageEnd": 154,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.3-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:** অঙ্কন অনুসারে $\\angle POB = 1^c$",
+      "image": null,
+      "formulas": [
+        "\\angle POB = 1^c"
+      ],
+      "pdfPageStart": 159,
+      "pdfPageEnd": 159,
+      "printedPageStart": 154,
+      "printedPageEnd": 154,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.3-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা জানি, কোনো বৃত্তচাপ দ্বারা উৎপন্ন কেন্দ্রস্থ কোণ ঐ বৃত্তচাপের সমানুপাতিক।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 159,
+      "pdfPageEnd": 159,
+      "printedPageStart": 154,
+      "printedPageEnd": 154,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.3-p017",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$\\frac{চাপ  AB}{চাপ  PB} = \\frac{\\angle AOB}{\\angle POB}$$",
+      "image": null,
+      "formulas": [
+        "\\frac{চাপ  AB}{চাপ  PB} = \\frac{\\angle AOB}{\\angle POB}"
+      ],
+      "pdfPageStart": 159,
+      "pdfPageEnd": 159,
+      "printedPageStart": 154,
+      "printedPageEnd": 154,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.3-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\frac{s  একক}{r  একক} = \\frac{\\theta^c}{1^c}$",
+      "image": null,
+      "formulas": [
+        "\\frac{s  একক}{r  একক} = \\frac{\\theta^c}{1^c}"
+      ],
+      "pdfPageStart": 159,
+      "pdfPageEnd": 159,
+      "printedPageStart": 154,
+      "printedPageEnd": 154,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.3-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $\\frac{s}{r} = \\theta$",
+      "image": null,
+      "formulas": [
+        "\\frac{s}{r} = \\theta"
+      ],
+      "pdfPageStart": 159,
+      "pdfPageEnd": 159,
+      "printedPageStart": 154,
+      "printedPageEnd": 154,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c08-t8.3-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore s = r\\theta$ (প্রমাণিত)",
+      "image": null,
+      "formulas": [
+        "\\therefore s = r\\theta"
+      ],
+      "pdfPageStart": 159,
+      "pdfPageEnd": 159,
+      "printedPageStart": 154,
+      "printedPageEnd": 154,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

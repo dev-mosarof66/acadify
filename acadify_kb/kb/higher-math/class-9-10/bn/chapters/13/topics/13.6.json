@@ -1,0 +1,75 @@
+{
+  "id": "higher-math-9-10-bn-c13-t13.6",
+  "key": "13.6",
+  "title": "যনবস্তু",
+  "chapter": 13,
+  "ordinal": 6,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c13-t13.6-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা জানি, একখানা বই বা একখানা ইট বা একটি বাক্স বা একটি গোলাকার বল সবই যনবস্তু। তারা প্রত্যেকেই কিছু পরিমাণ স্থান (space) দখল করে থাকে। আবার একখণ্ড পাথর বা কাঠ, ইটের একটি খণ্ড, কয়লার টুকরা, ঐটেল মাটির শুকনা খণ্ড ইত্যাদিও যনবস্তুর উদাহরণ। তবে এগুলো বিষম যনবস্তু।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 297,
+      "pdfPageEnd": 297,
+      "printedPageStart": 292,
+      "printedPageEnd": 292,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.6-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সমতল অথবা বক্রতল দ্বারা বেষ্টিত শূন্যের কিছুটা স্থান দখল করে থাকে এরূপ বস্তুকে যনবস্তু (solid) বলা হয়। সমতলস্থ কোনো স্থানকে বেষ্টিন করতে হলে যেমন কমপক্ষে তিনটি সরল রেখা দরকার তেমনি জাগতিক কোনো স্থানকে বেষ্টিন করতে হলে অন্তত চারটি সমতল দরকার। এই তলগুলো যনবস্তুর তল বা পৃষ্ঠতল (surface) এবং এদের দুটি সমতল যে রেখায় ছেদ করে, তাকে ঐ যনবস্তুর ধার (edge) বলা হয়। একটি বাক্সের বা একখানা ইটের ছয়টি পৃষ্ঠতল আছে এবং বারটি ধার আছে। একটি ক্রিকেট বল মাত্র একটি বক্রতল দ্বারা আবদ্ধ।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 297,
+      "pdfPageEnd": 297,
+      "printedPageStart": 292,
+      "printedPageEnd": 292,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.6-p003",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "ক) তোমরা প্রত্যেকে একটি করে সুষম যনবস্তু ও বিষম যনবস্তুর নাম লেখো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 297,
+      "pdfPageEnd": 297,
+      "printedPageStart": 292,
+      "printedPageEnd": 292,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.6-p004",
+      "kind": "text",
+      "section": "কাজ:",
+      "caption": null,
+      "body": "খ) তোমার উল্লেখিত যনবস্তুগুলোর কয়েকটি ব্যবহার লেখো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 297,
+      "pdfPageEnd": 297,
+      "printedPageStart": 292,
+      "printedPageEnd": 292,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

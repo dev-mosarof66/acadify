@@ -1,0 +1,39 @@
+{
+  "id": "higher-math-9-10-bn-c13-t13.5",
+  "key": "13.5",
+  "title": "দুটি সমতলের মধ্যে সম্পর্ক",
+  "chapter": 13,
+  "ordinal": 5,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c13-t13.5-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) দুটি সমতল পরস্পর সমান্তরাল হলে তাদের মধ্যে কোনো সাধারণ বিন্দু থাকবে না।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 297,
+      "pdfPageEnd": 297,
+      "printedPageStart": 292,
+      "printedPageEnd": 292,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.5-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) দুটি সমতল পরস্পরচ্ছেদী হলে তারা একটি সরলরেখায় ছেদ করবে এবং তাদের অসংখ্য সাধারণ বিন্দু থাকবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 297,
+      "pdfPageEnd": 297,
+      "printedPageStart": 292,
+      "printedPageEnd": 292,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

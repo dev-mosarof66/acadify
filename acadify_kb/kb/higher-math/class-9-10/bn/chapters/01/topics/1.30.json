@@ -10,7 +10,7 @@
       "kind": "text",
       "section": null,
       "caption": null,
-      "body": "নিচের ভেনচিট্রে $f$ ফাংশনের অধীনে ভিন্ন ভিন্ন সদস্যের প্রতিবিম্ব সর্বদা ভিন্ন।",
+      "body": "নিচের ভেনচিত্রে $f$ ফাংশনের অধীনে ভিন্ন ভিন্ন সদস্যের প্রতিবিম্ব সর্বদা ভিন্ন।",
       "image": null,
       "formulas": [
         "f"
@@ -20,6 +20,7 @@
       "printedPageStart": 27,
       "printedPageEnd": 27,
       "reviewReasons": [
+        "known-confusable-corrected",
         "verify-formula"
       ],
       "needsReview": true
@@ -263,7 +264,7 @@
       "kind": "text",
       "section": null,
       "caption": null,
-      "body": "**উদাহরণ ৩২.** $f(x) = \\frac{x}{x - 2}, x \\neq 2$ বর্গিত ফাংশনের জন্য নির্ণয় করো:\nক) $f(5)$\nখ) $f^{-1}(2)$",
+      "body": "**উদাহরণ ৩২.** $f(x) = \\frac{x}{x - 2}, x \\neq 2$ বর্ণিত ফাংশনের জন্য নির্ণয় করো:\nক) $f(5)$\nখ) $f^{-1}(2)$",
       "image": null,
       "formulas": [
         "f(x) = \\frac{x}{x - 2}, x \\neq 2",
@@ -275,6 +276,7 @@
       "printedPageStart": 28,
       "printedPageEnd": 28,
       "reviewReasons": [
+        "known-confusable-corrected",
         "verify-formula"
       ],
       "needsReview": true

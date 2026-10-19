@@ -1,0 +1,140 @@
+{
+  "id": "higher-math-9-10-bn-c12-t12.4",
+  "key": "12.4",
+  "title": "শূন্য ভেক্টর",
+  "chapter": 12,
+  "ordinal": 4,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c12-t12.4-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যে ভেক্টরের মান শূন্য এবং যার দিক নির্ণয় করা যায় না তাকে শূন্য ভেক্টর বলে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 280,
+      "pdfPageEnd": 280,
+      "printedPageStart": 275,
+      "printedPageEnd": 275,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.4-p002",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A line segment connecting points A and B, with a vector u pointing from A to B and a vector -u pointing from B to A.",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 280,
+      "pdfPageEnd": 280,
+      "printedPageStart": 275,
+      "printedPageEnd": 275,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.4-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$<u>u</u>$ যেকোনো ভেক্টর হলে $<u>u</u> + (-<u>u</u>)$ কী হবে?",
+      "image": null,
+      "formulas": [
+        "<u>u</u>",
+        "<u>u</u> + (-<u>u</u>)"
+      ],
+      "pdfPageStart": 280,
+      "pdfPageEnd": 280,
+      "printedPageStart": 275,
+      "printedPageEnd": 275,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.4-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ধরি, $<u>u</u> = \\overrightarrow{AB}$ তখন $-<u>u</u> = \\overrightarrow{BA}$,",
+      "image": null,
+      "formulas": [
+        "<u>u</u> = \\overrightarrow{AB}",
+        "-<u>u</u> = \\overrightarrow{BA}"
+      ],
+      "pdfPageStart": 280,
+      "pdfPageEnd": 280,
+      "printedPageStart": 275,
+      "printedPageEnd": 275,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.4-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ফলে $<u>u</u> - <u>u</u> = \\overrightarrow{AB} + \\overrightarrow{BA} = \\overrightarrow{AA}$ [ত্রিভুজবিধি অনুযায়ী]",
+      "image": null,
+      "formulas": [
+        "<u>u</u> - <u>u</u> = \\overrightarrow{AB} + \\overrightarrow{BA} = \\overrightarrow{AA}"
+      ],
+      "pdfPageStart": 280,
+      "pdfPageEnd": 280,
+      "printedPageStart": 275,
+      "printedPageEnd": 275,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.4-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "কিন্তু $\\overrightarrow{AA}$ কী ধরনের ভেক্টর? এটি একটি বিন্দু ভেক্টর, অর্থাৎ এর আদিবিন্দু ও অন্তবিন্দু একই বিন্দু; সুতরাং দৈর্ঘ্য শূন্য। অর্থাৎ $\\overrightarrow{AA}$ দ্বারা $A$ বিন্দুকেই বুঝতে হবে। দৈর্ঘ্য শূন্য এরূপ ভেক্টরকে শূন্য ভেক্টর বলা হয় এবং $<u>0</u>$ দ্বারা সূচিত করা হয়। এটি একমাত্র ভেক্টর যার কোনো নির্দিষ্ট দিক বা ধারক রেখা নেই।",
+      "image": null,
+      "formulas": [
+        "\\overrightarrow{AA}",
+        "\\overrightarrow{AA}",
+        "A",
+        "<u>0</u>"
+      ],
+      "pdfPageStart": 280,
+      "pdfPageEnd": 281,
+      "printedPageStart": 275,
+      "printedPageEnd": 276,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.4-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "শূন্য ভেক্টরের অবতারণার ফলে আমরা বলতে পারি যে, $<u>u</u> + (-<u>u</u>) = <u>0</u>$ এবং $<u>u</u> + <u>0</u> = <u>0</u> + <u>u</u> = <u>u</u>$ বস্তুত শূন্য ভেক্টরের সঙ্গে শেখো অর্থাৎ নিহিত রয়েছে।",
+      "image": null,
+      "formulas": [
+        "<u>u</u> + (-<u>u</u>) = <u>0</u>",
+        "<u>u</u> + <u>0</u> = <u>0</u> + <u>u</u> = <u>u</u>"
+      ],
+      "pdfPageStart": 281,
+      "pdfPageEnd": 281,
+      "printedPageStart": 276,
+      "printedPageEnd": 276,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

@@ -44,9 +44,9 @@
     },
     "byReason": {
       "verify-formula": 117,
-      "latin-junk": 1,
-      "known-confusable-corrected": 1
+      "known-confusable-corrected": 6,
+      "latin-junk": 1
     },
-    "needsReview": 119
+    "needsReview": 121
   }
 }

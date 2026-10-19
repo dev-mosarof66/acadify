@@ -1,0 +1,9 @@
+{
+  "included": 110,
+  "held": 0,
+  "excluded": 9,
+  "exercises": 41,
+  "reasons": {
+    "picture description written by the parser": 9
+  }
+}

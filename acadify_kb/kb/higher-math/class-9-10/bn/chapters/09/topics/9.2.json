@@ -1,0 +1,1405 @@
+{
+  "id": "higher-math-9-10-bn-c09-t9.2",
+  "key": "9.2",
+  "title": "সূচক সম্পর্কিত সূত্র",
+  "chapter": 9,
+  "ordinal": 2,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সূত্র ১.** $a \\in R$ এবং $n \\in N$ হলে $a^1 = a, a^{n+1} = a^n \\cdot a$.",
+      "image": null,
+      "formulas": [
+        "a \\in R",
+        "n \\in N",
+        "a^1 = a, a^{n+1} = a^n \\cdot a"
+      ],
+      "pdfPageStart": 199,
+      "pdfPageEnd": 199,
+      "printedPageStart": 194,
+      "printedPageEnd": 194,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:** সংজ্ঞানুযায়ী $a^1 = a$ এবং $n \\in N$ এর জন্য $a^{n+1} = \\underbrace{a \\cdot a \\cdot a \\cdots a}_{n  সংখ্যক} \\cdot a = a^n \\cdot a$",
+      "image": null,
+      "formulas": [
+        "a^1 = a",
+        "n \\in N",
+        "a^{n+1} = \\underbrace{a \\cdot a \\cdot a \\cdots a}_{n  সংখ্যক} \\cdot a = a^n \\cdot a"
+      ],
+      "pdfPageStart": 199,
+      "pdfPageEnd": 199,
+      "printedPageStart": 194,
+      "printedPageEnd": 194,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**দ্রষ্টব্য:** $N$ সকল স্বাভাবিক সংখ্যার সেট",
+      "image": null,
+      "formulas": [
+        "N"
+      ],
+      "pdfPageStart": 200,
+      "pdfPageEnd": 200,
+      "printedPageStart": 195,
+      "printedPageEnd": 195,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সূত্র ২.** $a \\in R$ এবং $m, n \\in N$ হলে $a^m \\cdot a^n = a^{m+n}$",
+      "image": null,
+      "formulas": [
+        "a \\in R",
+        "m, n \\in N",
+        "a^m \\cdot a^n = a^{m+n}"
+      ],
+      "pdfPageStart": 200,
+      "pdfPageEnd": 200,
+      "printedPageStart": 195,
+      "printedPageEnd": 195,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:** যেকোনো $m \\in N$ নির্দিষ্ট করে এবং $n$ কে চলক ধরে খোলা বাক্য $a^m \\cdot a^n = a^{m+n} \\dots (1)$ বিবেচনা করি।",
+      "image": null,
+      "formulas": [
+        "m \\in N",
+        "n",
+        "a^m \\cdot a^n = a^{m+n} \\dots (1)"
+      ],
+      "pdfPageStart": 200,
+      "pdfPageEnd": 200,
+      "printedPageStart": 195,
+      "printedPageEnd": 195,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(1) এ $n = 1$ বসিয়ে পাই,",
+      "image": null,
+      "formulas": [
+        "n = 1"
+      ],
+      "pdfPageStart": 200,
+      "pdfPageEnd": 200,
+      "printedPageStart": 195,
+      "printedPageEnd": 195,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বামপক্ষ $= a^m \\cdot a^1 = a^m \\cdot a = a^{m+1} =$ ডানপক্ষ [সূত্র ১]",
+      "image": null,
+      "formulas": [
+        "= a^m \\cdot a^1 = a^m \\cdot a = a^{m+1} ="
+      ],
+      "pdfPageStart": 200,
+      "pdfPageEnd": 200,
+      "printedPageStart": 195,
+      "printedPageEnd": 195,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore n = 1$ এর জন্য (1) সত্য।",
+      "image": null,
+      "formulas": [
+        "\\therefore n = 1"
+      ],
+      "pdfPageStart": 200,
+      "pdfPageEnd": 200,
+      "printedPageStart": 195,
+      "printedPageEnd": 195,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখন ধরি, $n = k$ এর জন্য (1) সত্য। অর্থাৎ, $a^m \\cdot a^k = a^{m+k}$",
+      "image": null,
+      "formulas": [
+        "n = k",
+        "a^m \\cdot a^k = a^{m+k}"
+      ],
+      "pdfPageStart": 200,
+      "pdfPageEnd": 200,
+      "printedPageStart": 195,
+      "printedPageEnd": 195,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাহলে, $a^m \\cdot a^{k+1} = a^m(a^k \\cdot a)$ [সূত্র ১]\n$$= (a^m \\cdot a^k) \\cdot a  [গুণের সহযোগন]$$\n$$= a^{m+k} \\cdot a  [আরোহ কল্পনা]$$\n$$= a^{m+k+1}  [সূত্র ১]$$",
+      "image": null,
+      "formulas": [
+        "a^m \\cdot a^{k+1} = a^m(a^k \\cdot a)",
+        "= (a^m \\cdot a^k) \\cdot a  [গুণের সহযোগন]",
+        "= a^{m+k} \\cdot a  [আরোহ কল্পনা]",
+        "= a^{m+k+1}  [সূত্র ১]"
+      ],
+      "pdfPageStart": 200,
+      "pdfPageEnd": 200,
+      "printedPageStart": 195,
+      "printedPageEnd": 195,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অর্থাৎ, $n = k + 1$ এর জন্য (1) সত্য।",
+      "image": null,
+      "formulas": [
+        "n = k + 1"
+      ],
+      "pdfPageStart": 200,
+      "pdfPageEnd": 200,
+      "printedPageStart": 195,
+      "printedPageEnd": 195,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং গাণিতিক আরোহ পদ্ধতি অনুযায়ী সকল $n \\in N$ এর জন্য (1) সত্য।",
+      "image": null,
+      "formulas": [
+        "n \\in N"
+      ],
+      "pdfPageStart": 200,
+      "pdfPageEnd": 200,
+      "printedPageStart": 195,
+      "printedPageEnd": 195,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ যেকোনো $m, n \\in N$ এর জন্য $a^m \\cdot a^n = a^{m+n}$ $\\square$",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "m, n \\in N",
+        "a^m \\cdot a^n = a^{m+n}",
+        "\\square"
+      ],
+      "pdfPageStart": 200,
+      "pdfPageEnd": 200,
+      "printedPageStart": 195,
+      "printedPageEnd": 195,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "> $a^m \\cdot a^n = a^{m+n}$",
+      "image": null,
+      "formulas": [
+        "a^m \\cdot a^n = a^{m+n}"
+      ],
+      "pdfPageStart": 200,
+      "pdfPageEnd": 200,
+      "printedPageStart": 195,
+      "printedPageEnd": 195,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বর্ণিত সূত্রটিকে সূচকের মৌলিক সূত্র বলা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 200,
+      "pdfPageEnd": 200,
+      "printedPageStart": 195,
+      "printedPageEnd": 195,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সূত্র ৩.** $a \\in R, a \\neq 0$ এবং $m, n \\in N, m \\neq n$ হলে $\\frac{a^m}{a^n} = \\begin{cases} a^{m-n}, & যখন  m > n \\\\ \\frac{1}{a^{n-m}}, & যখন  m < n \\end{cases}$",
+      "image": null,
+      "formulas": [
+        "a \\in R, a \\neq 0",
+        "m, n \\in N, m \\neq n",
+        "\\frac{a^m}{a^n} = \\begin{cases} a^{m-n}, & যখন  m > n \\\\ \\frac{1}{a^{n-m}}, & যখন  m < n \\end{cases}"
+      ],
+      "pdfPageStart": 200,
+      "pdfPageEnd": 200,
+      "printedPageStart": 195,
+      "printedPageEnd": 195,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 200,
+      "pdfPageEnd": 200,
+      "printedPageStart": 195,
+      "printedPageEnd": 195,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "১. মনে করি, $m > n$ তাহলে $m - n \\in N$\n$$\\therefore a^{m-n} \\cdot a^n = a^{(m-n)+n} = a^m  [সূত্র ২]$$\n$$\\therefore \\frac{a^m}{a^n} = a^{m-n}  [ভাগের সংজ্ঞা]$$",
+      "image": null,
+      "formulas": [
+        "m > n",
+        "m - n \\in N",
+        "\\therefore a^{m-n} \\cdot a^n = a^{(m-n)+n} = a^m  [সূত্র ২]",
+        "\\therefore \\frac{a^m}{a^n} = a^{m-n}  [ভাগের সংজ্ঞা]"
+      ],
+      "pdfPageStart": 200,
+      "pdfPageEnd": 200,
+      "printedPageStart": 195,
+      "printedPageEnd": 195,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "২. মনে করি, $m < n$ তাহলে $n - m \\in N$\n$$\\therefore a^{n-m} \\cdot a^m = a^{(n-m)+m} = a^n  [সূত্র ২]$$\n$$\\therefore \\frac{a^m}{a^n} = \\frac{1}{a^{n-m}}  [ভাগের সংজ্ঞা]$$",
+      "image": null,
+      "formulas": [
+        "m < n",
+        "n - m \\in N",
+        "\\therefore a^{n-m} \\cdot a^m = a^{(n-m)+m} = a^n  [সূত্র ২]",
+        "\\therefore \\frac{a^m}{a^n} = \\frac{1}{a^{n-m}}  [ভাগের সংজ্ঞা]"
+      ],
+      "pdfPageStart": 200,
+      "pdfPageEnd": 200,
+      "printedPageStart": 195,
+      "printedPageEnd": 195,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**দ্রষ্টব্য:** সূত্রটি গাণিতিক আরোহ পদ্ধতিতে প্রমাণ করো [সূত্র ২ এর অনুরূপ]",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 201,
+      "pdfPageEnd": 201,
+      "printedPageStart": 196,
+      "printedPageEnd": 196,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সূত্র ৪.** $a \\in R$ এবং $m, n \\in N$ হলে $(a^m)^n = a^{mn}$",
+      "image": null,
+      "formulas": [
+        "a \\in R",
+        "m, n \\in N",
+        "(a^m)^n = a^{mn}"
+      ],
+      "pdfPageStart": 201,
+      "pdfPageEnd": 201,
+      "printedPageStart": 196,
+      "printedPageEnd": 196,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সূত্র ৫.** $a, b \\in R$ এবং $n \\in N$ হলে $(a \\cdot b)^n = a^n \\cdot b^n$",
+      "image": null,
+      "formulas": [
+        "a, b \\in R",
+        "n \\in N",
+        "(a \\cdot b)^n = a^n \\cdot b^n"
+      ],
+      "pdfPageStart": 201,
+      "pdfPageEnd": 201,
+      "printedPageStart": 196,
+      "printedPageEnd": 196,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "[সূত্রদয় আরোহ পদ্ধতিতে প্রমাণ করো ]",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 201,
+      "pdfPageEnd": 201,
+      "printedPageStart": 196,
+      "printedPageEnd": 196,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**শূন্য ও ঋণাত্মক পূর্ণ সাংখ্যিক সূচক:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 201,
+      "pdfPageEnd": 201,
+      "printedPageStart": 196,
+      "printedPageEnd": 196,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p025",
+      "kind": "definition",
+      "section": null,
+      "caption": null,
+      "body": "**সংজ্ঞা:** $a \\in R, a \\neq 0$ হলে,",
+      "image": null,
+      "formulas": [
+        "a \\in R, a \\neq 0"
+      ],
+      "pdfPageStart": 201,
+      "pdfPageEnd": 201,
+      "printedPageStart": 196,
+      "printedPageEnd": 196,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p026",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "৩. $a^0 = 1$",
+      "image": null,
+      "formulas": [
+        "a^0 = 1"
+      ],
+      "pdfPageStart": 201,
+      "pdfPageEnd": 201,
+      "printedPageStart": 196,
+      "printedPageEnd": 196,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p027",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "৪. $a^{-n} = \\frac{1}{a^n}$, যেখানে $n \\in N$",
+      "image": null,
+      "formulas": [
+        "a^{-n} = \\frac{1}{a^n}",
+        "n \\in N"
+      ],
+      "pdfPageStart": 201,
+      "pdfPageEnd": 201,
+      "printedPageStart": 196,
+      "printedPageEnd": 196,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p028",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**মন্তব্য:** সূচকের ধারণা সম্প্রসারণের সময় লক্ষ রাখা হয়, যেন সূচকের মৌলিক সূত্র $a^m \\cdot a^n = a^{m+n}$ সকল ক্ষেত্রেই বৈধ থাকে।",
+      "image": null,
+      "formulas": [
+        "a^m \\cdot a^n = a^{m+n}"
+      ],
+      "pdfPageStart": 201,
+      "pdfPageEnd": 201,
+      "printedPageStart": 196,
+      "printedPageEnd": 196,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p029",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সূত্রটি যদি $m = 0$ এর জন্য সত্য হয়, তবে $a^0 \\cdot a^n = a^{0+n}$ অর্থাৎ, $a^0 = \\frac{a^n}{a^n} = 1$ হতে হবে।",
+      "image": null,
+      "formulas": [
+        "m = 0",
+        "a^0 \\cdot a^n = a^{0+n}",
+        "a^0 = \\frac{a^n}{a^n} = 1"
+      ],
+      "pdfPageStart": 201,
+      "pdfPageEnd": 201,
+      "printedPageStart": 196,
+      "printedPageEnd": 196,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p030",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "একইভাবে, সূত্রটি যদি $m = -n$ ($n \\in N$) এর জন্য সত্য হতে হয়,",
+      "image": null,
+      "formulas": [
+        "m = -n",
+        "n \\in N"
+      ],
+      "pdfPageStart": 201,
+      "pdfPageEnd": 201,
+      "printedPageStart": 196,
+      "printedPageEnd": 196,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p031",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তবে $a^{-n} \\cdot a^n = a^{-n+n} = a^0 = 1$ অর্থাৎ, $a^{-n} = \\frac{1}{a^n}$ হতে হবে। এদিকে লক্ষ রেখেই উপরের সংজ্ঞা বর্ণনা করা হয়েছে।",
+      "image": null,
+      "formulas": [
+        "a^{-n} \\cdot a^n = a^{-n+n} = a^0 = 1",
+        "a^{-n} = \\frac{1}{a^n}"
+      ],
+      "pdfPageStart": 201,
+      "pdfPageEnd": 201,
+      "printedPageStart": 196,
+      "printedPageEnd": 196,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p032",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১.** ক) $2^5 \\cdot 2^6 = 2^{5+6} = 2^{11}$",
+      "image": null,
+      "formulas": [
+        "2^5 \\cdot 2^6 = 2^{5+6} = 2^{11}"
+      ],
+      "pdfPageStart": 201,
+      "pdfPageEnd": 201,
+      "printedPageStart": 196,
+      "printedPageEnd": 196,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p033",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $\\frac{3^5}{3^3} = 3^{5-3} = 3^2$",
+      "image": null,
+      "formulas": [
+        "\\frac{3^5}{3^3} = 3^{5-3} = 3^2"
+      ],
+      "pdfPageStart": 201,
+      "pdfPageEnd": 201,
+      "printedPageStart": 196,
+      "printedPageEnd": 196,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p034",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $\\frac{3^3}{3^5} = \\frac{1}{3^{5-3}} = \\frac{1}{3^2}$",
+      "image": null,
+      "formulas": [
+        "\\frac{3^3}{3^5} = \\frac{1}{3^{5-3}} = \\frac{1}{3^2}"
+      ],
+      "pdfPageStart": 201,
+      "pdfPageEnd": 201,
+      "printedPageStart": 196,
+      "printedPageEnd": 196,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p035",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঘ) $\\left(\\frac{5}{4}\\right)^3 = \\frac{5}{4} \\times \\frac{5}{4} \\times \\frac{5}{4} = \\frac{5 \\times 5 \\times 5}{4 \\times 4 \\times 4} = \\frac{5^3}{4^3}$",
+      "image": null,
+      "formulas": [
+        "\\left(\\frac{5}{4}\\right)^3 = \\frac{5}{4} \\times \\frac{5}{4} \\times \\frac{5}{4} = \\frac{5 \\times 5 \\times 5}{4 \\times 4 \\times 4} = \\frac{5^3}{4^3}"
+      ],
+      "pdfPageStart": 201,
+      "pdfPageEnd": 201,
+      "printedPageStart": 196,
+      "printedPageEnd": 196,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p036",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঙ) $(4^2)^7 = 4^{2 \\times 7} = 4^{14}$",
+      "image": null,
+      "formulas": [
+        "(4^2)^7 = 4^{2 \\times 7} = 4^{14}"
+      ],
+      "pdfPageStart": 201,
+      "pdfPageEnd": 201,
+      "printedPageStart": 196,
+      "printedPageEnd": 196,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p037",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "চ) $(a^2b^3)^5 = (a^2)^5 \\cdot (b^3)^5 = a^{2 \\times 5} \\cdot b^{3 \\times 5} = a^{10}b^{15}$",
+      "image": null,
+      "formulas": [
+        "(a^2b^3)^5 = (a^2)^5 \\cdot (b^3)^5 = a^{2 \\times 5} \\cdot b^{3 \\times 5} = a^{10}b^{15}"
+      ],
+      "pdfPageStart": 201,
+      "pdfPageEnd": 201,
+      "printedPageStart": 196,
+      "printedPageEnd": 196,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p038",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২.** ক) $6^0 = 1$",
+      "image": null,
+      "formulas": [
+        "6^0 = 1"
+      ],
+      "pdfPageStart": 201,
+      "pdfPageEnd": 201,
+      "printedPageStart": 196,
+      "printedPageEnd": 196,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p039",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) $(-6)^0 = 1$",
+      "image": null,
+      "formulas": [
+        "(-6)^0 = 1"
+      ],
+      "pdfPageStart": 201,
+      "pdfPageEnd": 201,
+      "printedPageStart": 196,
+      "printedPageEnd": 196,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p040",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) $7^{-1} = \\frac{1}{7}$",
+      "image": null,
+      "formulas": [
+        "7^{-1} = \\frac{1}{7}"
+      ],
+      "pdfPageStart": 201,
+      "pdfPageEnd": 201,
+      "printedPageStart": 196,
+      "printedPageEnd": 196,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p041",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঘ) $7^{-2} = \\frac{1}{7^2} = \\frac{1}{49}$ ৬) $10^{-1} = \\frac{1}{10} = 0.1$",
+      "image": null,
+      "formulas": [
+        "7^{-2} = \\frac{1}{7^2} = \\frac{1}{49}",
+        "10^{-1} = \\frac{1}{10} = 0.1"
+      ],
+      "pdfPageStart": 201,
+      "pdfPageEnd": 202,
+      "printedPageStart": 196,
+      "printedPageEnd": 197,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p042",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "৮) $10^{-2} = \\frac{1}{10^2} = \\frac{1}{100}$",
+      "image": null,
+      "formulas": [
+        "10^{-2} = \\frac{1}{10^2} = \\frac{1}{100}"
+      ],
+      "pdfPageStart": 202,
+      "pdfPageEnd": 202,
+      "printedPageStart": 197,
+      "printedPageEnd": 197,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p043",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৩.** $m, n \\in N$ হলে $(a^m)^n = a^{mn}$ সূত্রটির সত্যতা স্বীকার করে নিয়ে দেখাও যে, $(a^m)^n = a^{mn}$ যেখানে $a \\neq 0$ এবং $m \\in N$ এবং $n \\in Z$",
+      "image": null,
+      "formulas": [
+        "m, n \\in N",
+        "(a^m)^n = a^{mn}",
+        "(a^m)^n = a^{mn}",
+        "a \\neq 0",
+        "m \\in N",
+        "n \\in Z"
+      ],
+      "pdfPageStart": 202,
+      "pdfPageEnd": 202,
+      "printedPageStart": 197,
+      "printedPageEnd": 197,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p044",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** প্রমাণ করতে হবে, $(a^m)^n = a^{mn} \\dots (1)$",
+      "image": null,
+      "formulas": [
+        "(a^m)^n = a^{mn} \\dots (1)"
+      ],
+      "pdfPageStart": 202,
+      "pdfPageEnd": 202,
+      "printedPageStart": 197,
+      "printedPageEnd": 197,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p045",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যেখানে, $a \\neq 0$ এবং $m \\in N$ এবং $n \\in Z$",
+      "image": null,
+      "formulas": [
+        "a \\neq 0",
+        "m \\in N",
+        "n \\in Z"
+      ],
+      "pdfPageStart": 202,
+      "pdfPageEnd": 202,
+      "printedPageStart": 197,
+      "printedPageEnd": 197,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p046",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**ধাপ ১.** প্রথমে মনে করি, $n > 0$, এক্ষেত্রে (1) এর সত্যতা স্বীকার করে নেওয়া হয়েছে।",
+      "image": null,
+      "formulas": [
+        "n > 0"
+      ],
+      "pdfPageStart": 202,
+      "pdfPageEnd": 202,
+      "printedPageStart": 197,
+      "printedPageEnd": 197,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p047",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**ধাপ ২.** এখন মনে করি, $n = 0$ এক্ষেত্রে $(a^m)^n = (a^m)^0 = 1$",
+      "image": null,
+      "formulas": [
+        "n = 0",
+        "(a^m)^n = (a^m)^0 = 1"
+      ],
+      "pdfPageStart": 202,
+      "pdfPageEnd": 202,
+      "printedPageStart": 197,
+      "printedPageEnd": 197,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p048",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এবং, $a^{mn} = a^0 = 1 [\\because n = 0]$",
+      "image": null,
+      "formulas": [
+        "a^{mn} = a^0 = 1 [\\because n = 0]"
+      ],
+      "pdfPageStart": 202,
+      "pdfPageEnd": 202,
+      "printedPageStart": 197,
+      "printedPageEnd": 197,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p049",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore$ (1) সত্য।",
+      "image": null,
+      "formulas": [
+        "\\therefore"
+      ],
+      "pdfPageStart": 202,
+      "pdfPageEnd": 202,
+      "printedPageStart": 197,
+      "printedPageEnd": 197,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p050",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**ধাপ ৩.** সবশেষে মনে করি, $n < 0$ এবং $n = -k$, যেখানে $k \\in N$",
+      "image": null,
+      "formulas": [
+        "n < 0",
+        "n = -k",
+        "k \\in N"
+      ],
+      "pdfPageStart": 202,
+      "pdfPageEnd": 202,
+      "printedPageStart": 197,
+      "printedPageEnd": 197,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p051",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এক্ষেত্রে $(a^m)^n = (a^m)^{-k} = \\frac{1}{(a^m)^k} = a^{-mk} = a^{m(-k)} = a^{mn}$",
+      "image": null,
+      "formulas": [
+        "(a^m)^n = (a^m)^{-k} = \\frac{1}{(a^m)^k} = a^{-mk} = a^{m(-k)} = a^{mn}"
+      ],
+      "pdfPageStart": 202,
+      "pdfPageEnd": 202,
+      "printedPageStart": 197,
+      "printedPageEnd": 197,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p052",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৪.** দেখাও যে, সকল $m, n \\in N$ এর জন্য $\\frac{a^m}{a^n} = a^{m-n}$, যেখানে $a \\neq 0$",
+      "image": null,
+      "formulas": [
+        "m, n \\in N",
+        "\\frac{a^m}{a^n} = a^{m-n}",
+        "a \\neq 0"
+      ],
+      "pdfPageStart": 202,
+      "pdfPageEnd": 202,
+      "printedPageStart": 197,
+      "printedPageEnd": 197,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p053",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** $m > n$ হলে, $\\frac{a^m}{a^n} = a^{m-n}$ [সূত্র ৩]",
+      "image": null,
+      "formulas": [
+        "m > n",
+        "\\frac{a^m}{a^n} = a^{m-n}"
+      ],
+      "pdfPageStart": 202,
+      "pdfPageEnd": 202,
+      "printedPageStart": 197,
+      "printedPageEnd": 197,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p054",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$m < n$ হলে, $\\frac{a^m}{a^n} = \\frac{1}{a^{n-m}}$ [সূত্র ৩]",
+      "image": null,
+      "formulas": [
+        "m < n",
+        "\\frac{a^m}{a^n} = \\frac{1}{a^{n-m}}"
+      ],
+      "pdfPageStart": 202,
+      "pdfPageEnd": 202,
+      "printedPageStart": 197,
+      "printedPageEnd": 197,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p055",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\frac{a^m}{a^n} = a^{-(n-m)}$ [সংজ্ঞা ৪]",
+      "image": null,
+      "formulas": [
+        "\\therefore \\frac{a^m}{a^n} = a^{-(n-m)}"
+      ],
+      "pdfPageStart": 202,
+      "pdfPageEnd": 202,
+      "printedPageStart": 197,
+      "printedPageEnd": 197,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p056",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$= a^{m-n}$",
+      "image": null,
+      "formulas": [
+        "= a^{m-n}"
+      ],
+      "pdfPageStart": 202,
+      "pdfPageEnd": 202,
+      "printedPageStart": 197,
+      "printedPageEnd": 197,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p057",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$m = n$ হলে, $\\frac{a^m}{a^n} = \\frac{a^n}{a^n} = 1 = a^0$ [সংজ্ঞা ৩]",
+      "image": null,
+      "formulas": [
+        "m = n",
+        "\\frac{a^m}{a^n} = \\frac{a^n}{a^n} = 1 = a^0"
+      ],
+      "pdfPageStart": 202,
+      "pdfPageEnd": 202,
+      "printedPageStart": 197,
+      "printedPageEnd": 197,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p058",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$= a^{m-m} = a^{m-n}$",
+      "image": null,
+      "formulas": [
+        "= a^{m-m} = a^{m-n}"
+      ],
+      "pdfPageStart": 202,
+      "pdfPageEnd": 202,
+      "printedPageStart": 197,
+      "printedPageEnd": 197,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p059",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**দ্রষ্টব্য:** উপরে বর্ণিত সূচকের সংজ্ঞাগুলো থেকে যেকোনো $m \\in Z$ এর জন্য $a^m$ এর ব্যাখ্যা পাওয়া যায়, যেখানে $a \\neq 0$। সূচক ধনাত্মক অথবা শূন্য অথবা ঋণাত্মক ধরে সাধারণভাবে সকল পূর্ণ সাংখ্যিক সূচকের জন্য নিম্নোক্ত সূত্রটি প্রমাণ করা যায়।",
+      "image": null,
+      "formulas": [
+        "m \\in Z",
+        "a^m",
+        "a \\neq 0"
+      ],
+      "pdfPageStart": 202,
+      "pdfPageEnd": 202,
+      "printedPageStart": 197,
+      "printedPageEnd": 197,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p060",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সূত্র ৬.** $a \\neq 0, b \\neq 0$ এবং $m, n \\in Z$ হলে,",
+      "image": null,
+      "formulas": [
+        "a \\neq 0, b \\neq 0",
+        "m, n \\in Z"
+      ],
+      "pdfPageStart": 202,
+      "pdfPageEnd": 202,
+      "printedPageStart": 197,
+      "printedPageEnd": 197,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p061",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "১. $a^m \\cdot a^n = a^{m+n}$",
+      "image": null,
+      "formulas": [
+        "a^m \\cdot a^n = a^{m+n}"
+      ],
+      "pdfPageStart": 202,
+      "pdfPageEnd": 202,
+      "printedPageStart": 197,
+      "printedPageEnd": 197,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p062",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "২. $\\frac{a^m}{a^n} = a^{m-n}$",
+      "image": null,
+      "formulas": [
+        "\\frac{a^m}{a^n} = a^{m-n}"
+      ],
+      "pdfPageStart": 202,
+      "pdfPageEnd": 202,
+      "printedPageStart": 197,
+      "printedPageEnd": 197,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p063",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "৩. $(a^m)^n = a^{mn}$",
+      "image": null,
+      "formulas": [
+        "(a^m)^n = a^{mn}"
+      ],
+      "pdfPageStart": 203,
+      "pdfPageEnd": 203,
+      "printedPageStart": 198,
+      "printedPageEnd": 198,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p064",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "৪. $(ab)^n = a^n b^n$",
+      "image": null,
+      "formulas": [
+        "(ab)^n = a^n b^n"
+      ],
+      "pdfPageStart": 203,
+      "pdfPageEnd": 203,
+      "printedPageStart": 198,
+      "printedPageEnd": 198,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p065",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "৫. $\\left(\\frac{a}{b}\\right)^n = \\frac{a^n}{b^n}$",
+      "image": null,
+      "formulas": [
+        "\\left(\\frac{a}{b}\\right)^n = \\frac{a^n}{b^n}"
+      ],
+      "pdfPageStart": 203,
+      "pdfPageEnd": 203,
+      "printedPageStart": 198,
+      "printedPageEnd": 198,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p066",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 203,
+      "pdfPageEnd": 203,
+      "printedPageStart": 198,
+      "printedPageEnd": 198,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p067",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) গাণিতিক আরোহ পদ্ধতিতে দেখাও যে, $(a^m)^n = a^{mn}$, যেখানে $a \\in R$ এবং $n \\in N$",
+      "image": null,
+      "formulas": [
+        "(a^m)^n = a^{mn}",
+        "a \\in R",
+        "n \\in N"
+      ],
+      "pdfPageStart": 203,
+      "pdfPageEnd": 203,
+      "printedPageStart": 198,
+      "printedPageEnd": 198,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p068",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) গাণিতিক আরোহ পদ্ধতিতে দেখাও যে, $(a \\cdot b)^n = a^n \\cdot b^n$, যেখানে $a, b \\in R$ এবং $n \\in N$",
+      "image": null,
+      "formulas": [
+        "(a \\cdot b)^n = a^n \\cdot b^n",
+        "a, b \\in R",
+        "n \\in N"
+      ],
+      "pdfPageStart": 203,
+      "pdfPageEnd": 203,
+      "printedPageStart": 198,
+      "printedPageEnd": 198,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p069",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) গাণিতিক আরোহ পদ্ধতিতে দেখাও যে, $\\left(\\frac{1}{a}\\right)^n = \\frac{1}{a^n}$ যেখানে, $a > 0$ এবং $n \\in N$",
+      "image": null,
+      "formulas": [
+        "\\left(\\frac{1}{a}\\right)^n = \\frac{1}{a^n}",
+        "a > 0",
+        "n \\in N"
+      ],
+      "pdfPageStart": 203,
+      "pdfPageEnd": 203,
+      "printedPageStart": 198,
+      "printedPageEnd": 198,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p070",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অতঃপর $(ab)^n = a^n b^n$ সূত্র ব্যবহার করে দেখাও যে, $\\left(\\frac{a}{b}\\right)^n = \\frac{a^n}{b^n}$, যেখানে $a, b \\in R, b > 0$ এবং $n \\in N$",
+      "image": null,
+      "formulas": [
+        "(ab)^n = a^n b^n",
+        "\\left(\\frac{a}{b}\\right)^n = \\frac{a^n}{b^n}",
+        "a, b \\in R, b > 0",
+        "n \\in N"
+      ],
+      "pdfPageStart": 203,
+      "pdfPageEnd": 203,
+      "printedPageStart": 198,
+      "printedPageEnd": 198,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.2-p071",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঘ) $a \\neq 0$ এবং $m, n \\in Z$ ধনাত্মক পূর্ণ সাংখ্যিক সূচকের জন্য $a^m \\cdot a^n = a^{m+n}$ সূত্রটির সত্যতা স্বীকার করে দেখাও যে, $a^m \\cdot a^n = a^{m+n}$ যখন (১) $m > 0$ এবং $n < 0$ (২) $m < 0$ এবং $n < 0$।",
+      "image": null,
+      "formulas": [
+        "a \\neq 0",
+        "m, n \\in Z",
+        "a^m \\cdot a^n = a^{m+n}",
+        "a^m \\cdot a^n = a^{m+n}",
+        "m > 0",
+        "n < 0",
+        "m < 0",
+        "n < 0"
+      ],
+      "pdfPageStart": 203,
+      "pdfPageEnd": 203,
+      "printedPageStart": 198,
+      "printedPageEnd": 198,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

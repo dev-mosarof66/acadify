@@ -1,0 +1,379 @@
+{
+  "id": "higher-math-9-10-bn-c12-t12.5",
+  "key": "12.5",
+  "title": "ভেক্টর যোগের বিধিসমূহ",
+  "chapter": 12,
+  "ordinal": 5,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c12-t12.5-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "পাটিগণিতের যোগের মতোই ভেক্টরের যোগে বিনিময়, সংযোগ, ও বর্জন বিধি ব্যবহার করা যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 281,
+      "pdfPageEnd": 281,
+      "printedPageStart": 276,
+      "printedPageEnd": 276,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.5-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**ভেক্টর যোগের বিনিময়বিধি (Commutative law):** যেকোনো $<u>u</u>$, $<u>v</u>$ ভেক্টরের জন্য $<u>u</u> + <u>v</u> = <u>v</u> + <u>u</u>$।",
+      "image": null,
+      "formulas": [
+        "<u>u</u>",
+        "<u>v</u>",
+        "<u>u</u> + <u>v</u> = <u>v</u> + <u>u</u>"
+      ],
+      "pdfPageStart": 281,
+      "pdfPageEnd": 281,
+      "printedPageStart": 276,
+      "printedPageEnd": 276,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.5-p003",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A parallelogram OACB with vectors u and v, showing the diagonal OC as v + u and u + v.",
+      "image": "p281-page_6_image_2_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 281,
+      "pdfPageEnd": 281,
+      "printedPageStart": 276,
+      "printedPageEnd": 276,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.5-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:** মনে করি, $\\overrightarrow{OA} = <u>u</u>$ এবং $\\overrightarrow{OB} = <u>v</u>$। $OACB$ সামানত্রিক ও তার কর্ণ $OC$ অঙ্কন করি। $OA$ ও $BC$ সমান ও সমান্তরাল এবং $OB$ ও $AC$ সমান ও সমান্তরাল।",
+      "image": null,
+      "formulas": [
+        "\\overrightarrow{OA} = <u>u</u>",
+        "\\overrightarrow{OB} = <u>v</u>",
+        "OACB",
+        "OC",
+        "OA",
+        "BC",
+        "OB",
+        "AC"
+      ],
+      "pdfPageStart": 281,
+      "pdfPageEnd": 281,
+      "printedPageStart": 276,
+      "printedPageEnd": 276,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.5-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore \\overrightarrow{OC} = \\overrightarrow{OA} + \\overrightarrow{AC} = <u>u</u> + <u>v</u>$। আবার, $\\overrightarrow{OC} = \\overrightarrow{OB} + \\overrightarrow{BC} = \\overrightarrow{OB} + \\overrightarrow{OA} = <u>v</u> + <u>u</u>$।",
+      "image": null,
+      "formulas": [
+        "\\therefore \\overrightarrow{OC} = \\overrightarrow{OA} + \\overrightarrow{AC} = <u>u</u> + <u>v</u>",
+        "\\overrightarrow{OC} = \\overrightarrow{OB} + \\overrightarrow{BC} = \\overrightarrow{OB} + \\overrightarrow{OA} = <u>v</u> + <u>u</u>"
+      ],
+      "pdfPageStart": 281,
+      "pdfPageEnd": 281,
+      "printedPageStart": 276,
+      "printedPageEnd": 276,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.5-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore <u>u</u> + <u>v</u> = <u>v</u> + <u>u</u>$। সুতরাং ভেক্টর যোগ বিনিময়বিধি সিদ্ধ করে।",
+      "image": null,
+      "formulas": [
+        "\\therefore <u>u</u> + <u>v</u> = <u>v</u> + <u>u</u>"
+      ],
+      "pdfPageStart": 281,
+      "pdfPageEnd": 281,
+      "printedPageStart": 276,
+      "printedPageEnd": 276,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.5-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**ভেক্টর যোগের সংযোগবিধি (Associative law):** যেকোনো $<u>u</u>$, $<u>v</u>$, $<u>w</u>$ ভেক্টরের জন্য",
+      "image": null,
+      "formulas": [
+        "<u>u</u>",
+        "<u>v</u>",
+        "<u>w</u>"
+      ],
+      "pdfPageStart": 281,
+      "pdfPageEnd": 281,
+      "printedPageStart": 276,
+      "printedPageEnd": 276,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.5-p008",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$(<u>u</u> + <u>v</u>) + <u>w</u> = <u>u</u> + (<u>v</u> + <u>w</u>)$$",
+      "image": null,
+      "formulas": [
+        "(<u>u</u> + <u>v</u>) + <u>w</u> = <u>u</u> + (<u>v</u> + <u>w</u>)"
+      ],
+      "pdfPageStart": 281,
+      "pdfPageEnd": 281,
+      "printedPageStart": 276,
+      "printedPageEnd": 276,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.5-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:** মনে করি, $\\overrightarrow{OA} = <u>u</u>$, $\\overrightarrow{AB} = <u>v</u>$, $\\overrightarrow{BC} = <u>w</u>$, অর্থাৎ $<u>u</u>$ এর প্রান্তবিন্দু থেকে $<u>v</u>$ এবং $<u>v</u>$ এর প্রান্তবিন্দু থেকে $<u>w</u>$ অঙ্কন করা হয়েছে। $O, C$; $O, B$ এবং $A, C$ যোগ করি।",
+      "image": null,
+      "formulas": [
+        "\\overrightarrow{OA} = <u>u</u>",
+        "\\overrightarrow{AB} = <u>v</u>",
+        "\\overrightarrow{BC} = <u>w</u>",
+        "<u>u</u>",
+        "<u>v</u>",
+        "<u>v</u>",
+        "<u>w</u>",
+        "O, C",
+        "O, B",
+        "A, C"
+      ],
+      "pdfPageStart": 281,
+      "pdfPageEnd": 281,
+      "printedPageStart": 276,
+      "printedPageEnd": 276,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.5-p010",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: A geometric diagram showing vectors u, v, and w connected in a chain from point O to point B, with a diagonal line AC.",
+      "image": "p281-page_6_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 281,
+      "pdfPageEnd": 281,
+      "printedPageStart": 276,
+      "printedPageEnd": 276,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.5-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাহলে $(<u>u</u> + <u>v</u>) + <u>w</u> = (\\overrightarrow{OA} + \\overrightarrow{AB}) + \\overrightarrow{BC} = \\overrightarrow{OB} + \\overrightarrow{BC} = \\overrightarrow{OC}$",
+      "image": null,
+      "formulas": [
+        "(<u>u</u> + <u>v</u>) + <u>w</u> = (\\overrightarrow{OA} + \\overrightarrow{AB}) + \\overrightarrow{BC} = \\overrightarrow{OB} + \\overrightarrow{BC} = \\overrightarrow{OC}"
+      ],
+      "pdfPageStart": 281,
+      "pdfPageEnd": 281,
+      "printedPageStart": 276,
+      "printedPageEnd": 276,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.5-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আবার, $<u>u</u> + (<u>v</u> + <u>w</u>) = \\overrightarrow{OA} + (\\overrightarrow{AB} + \\overrightarrow{BC}) = \\overrightarrow{OA} + \\overrightarrow{AC} = \\overrightarrow{OC}$",
+      "image": null,
+      "formulas": [
+        "<u>u</u> + (<u>v</u> + <u>w</u>) = \\overrightarrow{OA} + (\\overrightarrow{AB} + \\overrightarrow{BC}) = \\overrightarrow{OA} + \\overrightarrow{AC} = \\overrightarrow{OC}"
+      ],
+      "pdfPageStart": 281,
+      "pdfPageEnd": 281,
+      "printedPageStart": 276,
+      "printedPageEnd": 276,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.5-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore (<u>u</u> + <u>v</u>) + <u>w</u> = <u>u</u> + (<u>v</u> + <u>w</u>)$। সুতরাং ভেক্টর যোগ সংযোগবিধি সিদ্ধ করে।",
+      "image": null,
+      "formulas": [
+        "\\therefore (<u>u</u> + <u>v</u>) + <u>w</u> = <u>u</u> + (<u>v</u> + <u>w</u>)"
+      ],
+      "pdfPageStart": 281,
+      "pdfPageEnd": 281,
+      "printedPageStart": 276,
+      "printedPageEnd": 276,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.5-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অনুসিদ্ধান্ত ১. কোনো ত্রিভুজের তিনটি বাহুর একই ক্রম দ্বারা সূচিত ভেক্টরগুলির যোগফল শূন্য ভেক্টর। উপরের চিত্রে, $\\overrightarrow{OB} + \\overrightarrow{BA} + \\overrightarrow{AO} = \\overrightarrow{OA} + \\overrightarrow{AO} = -\\overrightarrow{AO} + \\overrightarrow{AO} = <u>0</u>$।",
+      "image": null,
+      "formulas": [
+        "\\overrightarrow{OB} + \\overrightarrow{BA} + \\overrightarrow{AO} = \\overrightarrow{OA} + \\overrightarrow{AO} = -\\overrightarrow{AO} + \\overrightarrow{AO} = <u>0</u>"
+      ],
+      "pdfPageStart": 282,
+      "pdfPageEnd": 282,
+      "printedPageStart": 277,
+      "printedPageEnd": 277,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.5-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ভেক্টর যোগের বর্জনবিধি (Cancellation law): যেকোনো $<u>u</u>, <u>v</u>, <u>w</u>$ ভেক্টরের জন্য $<u>u</u> + <u>v</u> = <u>u</u> + <u>w</u>$ হলে $<u>v</u> = <u>w</u>$ হবে।",
+      "image": null,
+      "formulas": [
+        "<u>u</u>, <u>v</u>, <u>w</u>",
+        "<u>u</u> + <u>v</u> = <u>u</u> + <u>w</u>",
+        "<u>v</u> = <u>w</u>"
+      ],
+      "pdfPageStart": 282,
+      "pdfPageEnd": 282,
+      "printedPageStart": 277,
+      "printedPageEnd": 277,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.5-p016",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: vector addition diagram",
+      "image": "p282-page_7_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 282,
+      "pdfPageEnd": 282,
+      "printedPageStart": 277,
+      "printedPageEnd": 277,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.5-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**প্রমাণ:** যেহেতু $<u>u</u> + <u>v</u> = <u>u</u> + <u>w</u>$",
+      "image": null,
+      "formulas": [
+        "<u>u</u> + <u>v</u> = <u>u</u> + <u>w</u>"
+      ],
+      "pdfPageStart": 282,
+      "pdfPageEnd": 282,
+      "printedPageStart": 277,
+      "printedPageEnd": 277,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.5-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$\\therefore <u>u</u> + <u>v</u> + (-<u>u</u>) = <u>u</u> + <u>w</u> + (-<u>u</u>)$ [উভয়পক্ষে $-<u>u</u>$ যোগ করে]",
+      "image": null,
+      "formulas": [
+        "\\therefore <u>u</u> + <u>v</u> + (-<u>u</u>) = <u>u</u> + <u>w</u> + (-<u>u</u>)",
+        "-<u>u</u>"
+      ],
+      "pdfPageStart": 282,
+      "pdfPageEnd": 282,
+      "printedPageStart": 277,
+      "printedPageEnd": 277,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.5-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বা, $<u>u</u> - <u>u</u> + <u>v</u> = <u>u</u> - <u>u</u> + <u>w</u>$ অর্থাৎ $<u>v</u> = <u>w</u>$",
+      "image": null,
+      "formulas": [
+        "<u>u</u> - <u>u</u> + <u>v</u> = <u>u</u> - <u>u</u> + <u>w</u>",
+        "<u>v</u> = <u>w</u>"
+      ],
+      "pdfPageStart": 282,
+      "pdfPageEnd": 282,
+      "printedPageStart": 277,
+      "printedPageEnd": 277,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

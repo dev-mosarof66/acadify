@@ -328,7 +328,7 @@
       "kind": "exercise",
       "section": "অনুশীলনী ৩.২",
       "caption": null,
-      "body": "৫. $ABC$ সমদ্বিভাউ ত্রিভুজের শীর্ষবিন্দু $A$ হতে ভূমি $BC$ এর উপর অঙ্কিত লম্ব $AD$ এবং ত্রিভুজের পরিব্যাসার্ধ $R$ হলে প্রমাণ করো যে, $AB^2 = 2R \\cdot AD$।",
+      "body": "৫. $ABC$ সমদ্বিবাহু ত্রিভুজের শীর্ষবিন্দু $A$ হতে ভূমি $BC$ এর উপর অঙ্কিত লম্ব $AD$ এবং ত্রিভুজের পরিব্যাসার্ধ $R$ হলে প্রমাণ করো যে, $AB^2 = 2R \\cdot AD$।",
       "image": null,
       "formulas": [
         "ABC",
@@ -343,6 +343,7 @@
       "printedPageStart": 79,
       "printedPageEnd": 79,
       "reviewReasons": [
+        "known-confusable-corrected",
         "verify-formula"
       ],
       "needsReview": true

@@ -1,0 +1,532 @@
+{
+  "id": "higher-math-9-10-bn-c14-t14.4",
+  "key": "14.4",
+  "title": "নমুনাক্ষেত্র এবং Probability Tree দ্বারা সম্ভাবনা নির্ণয়",
+  "chapter": 14,
+  "ordinal": 4,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c14-t14.4-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আগেই বলা হয়েছে, কোনো পরীক্ষায় সম্ভাব্য ফলাফলগুলো নিয়ে যে ক্ষেত্র তৈরি হয় তাকে নমুনাক্ষেত্র বলে। অনেক পরীক্ষায় নমুনাক্ষেত্রের আকার বেশ বড় হয়। এসব ক্ষেত্রে নমুনা বিন্দু গণনা করা ও নমুনাক্ষেত্র তৈরি করা সময় সাপেক্ষ এমন কি ভুল হওয়ার সম্ভাবনাও থাকে। সেক্ষেত্রে আমরা probability tree এর সাহায্যে নমুনাক্ষেত্র তৈরি করতে পারি ও বিভিন্ন ঘটনার সম্ভাবনাও বের করতে পারি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 315,
+      "pdfPageEnd": 315,
+      "printedPageStart": 310,
+      "printedPageEnd": 310,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.4-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৬.** মনে করি, দুটি নিরপেক্ষ মুদ্রা একসাথে একবার নিক্ষেপ করা হলো। নমুনাক্ষেত্রটি তৈরি কর। প্রথম মুদ্রায় $H$ এবং দ্বিতীয় মুদ্রায় $T$ আসার সম্ভাবনা নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "H",
+        "T"
+      ],
+      "pdfPageStart": 315,
+      "pdfPageEnd": 315,
+      "printedPageStart": 310,
+      "printedPageEnd": 310,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.4-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** দুটি মুদ্রা নিক্ষেপ পরীক্ষাকে দুই ধাপ হিসেবে বিবেচনা করা যায়। প্রথম ধাপে একটা মুদ্রা নিক্ষেপে 2টি ফলাফল $H$ অথবা $T$ আসতে পারে। দ্বিতীয় ধাপে অপর মুদ্রা নিক্ষেপেও 2টি ফলাফল $H$ অথবা $T$ আসতে পারে। পরীক্ষার মোট ফলাফলকে probability tree এর সাহায্যে নিম্নভাবে দেখানো হয়।",
+      "image": null,
+      "formulas": [
+        "H",
+        "T",
+        "H",
+        "T"
+      ],
+      "pdfPageStart": 315,
+      "pdfPageEnd": 315,
+      "printedPageStart": 310,
+      "printedPageEnd": 310,
+      "reviewReasons": [
+        "latin-junk",
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.4-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "```mermaid\nflowchart TD\n    A[\"প্রথম মুদ্রার পিঠ\"]\n    B[\"দ্বিতীয় মুদ্রার পিঠ\"]\n    C[\"দ্বিতীয় মুদ্রার পিঠ\"]\n    D[\"HH\"]\n    E[\"HT\"]\n    F[\"TH\"]\n    G[\"TT\"]\n    A -- \"H\" --> B\n    A -- \"T\" --> C\n    B -- \"H\" --> D\n    B -- \"T\" --> E\n    C -- \"H\" --> F\n    C -- \"T\" --> G\n```",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 315,
+      "pdfPageEnd": 315,
+      "printedPageStart": 310,
+      "printedPageEnd": 310,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.4-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সম্ভাব্য নমুনা বিন্দুগুলো $HH, HT, TH, TT$। তাহলে নমুনাক্ষেত্রটি হবে $\\{HH, HT, TH, TT\\}$। এখানে নমুনা বিন্দুর সংখ্যা 4 এবং প্রতিটি নমুনা বিন্দুর আসার সম্ভাবনা $\\frac{1}{4}$। তাই প্রথম মুদ্রায় $H$ ও দ্বিতীয় মুদ্রায় $T$ আসার সম্ভাবনা হবে, $P(HT) = \\frac{1}{4}$।",
+      "image": null,
+      "formulas": [
+        "HH, HT, TH, TT",
+        "\\{HH, HT, TH, TT\\}",
+        "\\frac{1}{4}",
+        "H",
+        "T",
+        "P(HT) = \\frac{1}{4}"
+      ],
+      "pdfPageStart": 315,
+      "pdfPageEnd": 315,
+      "printedPageStart": 310,
+      "printedPageEnd": 310,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.4-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৭.** মনে করি, তিনটি মুদ্রা একবার নিক্ষেপ করা হলো। তিনটি নিরপেক্ষ মুদ্রা একসাথে একবার নিক্ষেপ করা হলে, probability tree তৈরি করে নমুনাক্ষেত্রটি দেখাও এবং নিচের ঘটনাগুলোর সম্ভাবনা নির্ণয় করো ক) কেবল একটা টেল, খ) তিনটাই হেড, গ) কমপক্ষে একটা টেল পাওয়ার সম্ভাবনা বের করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 315,
+      "pdfPageEnd": 316,
+      "printedPageStart": 310,
+      "printedPageEnd": 311,
+      "reviewReasons": [
+        "latin-junk",
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.4-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** প্রথমে মুদ্রা তিনটিকে তিন ধাপ হিসেবে বিবেচনা করি এবং প্রতি ধাপে ২টি ফলাফল $H$ অথবা $T$ আসতে পারে। মোট ফলাফলকে probability tree এর সাহায্যে নিম্নভাবে দেখানো যায়:",
+      "image": null,
+      "formulas": [
+        "H",
+        "T"
+      ],
+      "pdfPageStart": 316,
+      "pdfPageEnd": 316,
+      "printedPageStart": 311,
+      "printedPageEnd": 311,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.4-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "```mermaid\nflowchart TD\n    A[\"প্রথম মুদ্রার পিঠ\"]\n    B[\"দ্বিতীয় মুদ্রার পিঠ\"]\n    C[\"দ্বিতীয় মুদ্রার পিঠ\"]\n    D[\"তৃতীয় মুদ্রার পিঠ\"]\n    E[\"তৃতীয় মুদ্রার পিঠ\"]\n    F[\"তৃতীয় মুদ্রার পিঠ\"]\n    G[\"তৃতীয় মুদ্রার পিঠ\"]\n    H1((\"HHH\"))\n    H2((\"HHT\"))\n    H3((\"HTH\"))\n    H4((\"HTT\"))\n    H5((\"THH\"))\n    H6((\"THT\"))\n    H7((\"TTH\"))\n    H8((\"TTT\"))\n    A -- \"H\" --> B\n    A -- \"T\" --> C\n    B -- \"H\" --> D\n    B -- \"T\" --> E\n    C -- \"H\" --> F\n    C -- \"T\" --> G\n    D -- \"H\" --> H1\n    D -- \"T\" --> H2\n    E -- \"H\" --> H3\n    E -- \"T\" --> H4\n    F -- \"H\" --> H5\n    F -- \"T\" --> H6\n    G -- \"H\" --> H7\n    G -- \"T\" --> H8\n```",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 316,
+      "pdfPageEnd": 316,
+      "printedPageStart": 311,
+      "printedPageEnd": 311,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.4-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাহলে নমুনাক্ষেত্রটি হবে: $\\{HHH, HHT, HTH, HTT, THH, THT, TTH, TTT\\}$",
+      "image": null,
+      "formulas": [
+        "\\{HHH, HHT, HTH, HTT, THH, THT, TTH, TTT\\}"
+      ],
+      "pdfPageStart": 316,
+      "pdfPageEnd": 316,
+      "printedPageStart": 311,
+      "printedPageEnd": 311,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.4-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে মোট নমুনা বিন্দু ৪টি এবং এদের যেকোনো একটি ঘটনা ঘটার সম্ভাবনা $\\frac{1}{8}$।",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{8}"
+      ],
+      "pdfPageStart": 316,
+      "pdfPageEnd": 316,
+      "printedPageStart": 311,
+      "printedPageEnd": 311,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.4-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) একটি টেল পাওয়ার অনুকূল ঘটনাগুলো $\\{THH, HHT, HTH\\} = 3$টি।\n$\\therefore P(1T) = \\frac{3}{8}$ (কেননা প্রতিটি নমুনা বিন্দুর ঘটার সম্ভাবনা $\\frac{1}{8}$)",
+      "image": null,
+      "formulas": [
+        "\\{THH, HHT, HTH\\} = 3",
+        "\\therefore P(1T) = \\frac{3}{8}",
+        "\\frac{1}{8}"
+      ],
+      "pdfPageStart": 316,
+      "pdfPageEnd": 316,
+      "printedPageStart": 311,
+      "printedPageEnd": 311,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.4-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) তিনটিই হেড ($H$) পাওয়ার অনুকূল ঘটনা $\\{HHH\\} = 1$টি।\n$\\therefore P(HHH) = \\frac{1}{8}$",
+      "image": null,
+      "formulas": [
+        "H",
+        "\\{HHH\\} = 1",
+        "\\therefore P(HHH) = \\frac{1}{8}"
+      ],
+      "pdfPageStart": 316,
+      "pdfPageEnd": 316,
+      "printedPageStart": 311,
+      "printedPageEnd": 311,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.4-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) কমপক্ষে 1টি টেল ($T$) পাওয়ার অনুকূল ঘটনাগুলো $HHH$ ছাড়া বাকি সবগুলো অর্থাৎ $\\{HHT, HTH, HTT, THH, THT, TTH, TTT\\} = 7$টি।\n$\\therefore P[কমপক্ষে  1T] = \\frac{7}{8}$",
+      "image": null,
+      "formulas": [
+        "T",
+        "HHH",
+        "\\{HHT, HTH, HTT, THH, THT, TTH, TTT\\} = 7",
+        "\\therefore P[কমপক্ষে  1T] = \\frac{7}{8}"
+      ],
+      "pdfPageStart": 316,
+      "pdfPageEnd": 316,
+      "printedPageStart": 311,
+      "printedPageEnd": 311,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.4-p014",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৮.** একটি নিরপেক্ষ ছক্কা ও একটি মুদ্রা একবার নিক্ষেপ করা হলো। Probability tree তৈরি করে নমুনাক্ষেত্রটি লিখ। ছক্কার ৫ এবং মুদ্রায় $H$ আসার সম্ভাবনা বের করো।",
+      "image": null,
+      "formulas": [
+        "H"
+      ],
+      "pdfPageStart": 316,
+      "pdfPageEnd": 316,
+      "printedPageStart": 311,
+      "printedPageEnd": 311,
+      "reviewReasons": [
+        "latin-junk",
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.4-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** একটি ছক্কা ও একটি মুদ্রা নিক্ষেপ পরীক্ষাকে দুই ধাপ হিসেবে বিবেচনা করি। প্রথম ধাপে ছক্কা নিক্ষেপে ৬টি ফলাফল $\\{1, 2, 3, 4, 5, 6\\}$ আসতে পারে। দ্বিতীয় ধাপে মুদ্রা নিক্ষেপে ২টি ফলাফল $H$ অথবা $T$ আসতে পারে। তাই পরীক্ষায় মোট ফলাফলকে probability tree এর সাহায্যে নিম্নভাবে দেখানো যাবে।",
+      "image": null,
+      "formulas": [
+        "\\{1, 2, 3, 4, 5, 6\\}",
+        "H",
+        "T"
+      ],
+      "pdfPageStart": 316,
+      "pdfPageEnd": 316,
+      "printedPageStart": 311,
+      "printedPageEnd": 311,
+      "reviewReasons": [
+        "latin-junk",
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.4-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "flow_chart: probability tree diagram",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 317,
+      "pdfPageEnd": 317,
+      "printedPageStart": 312,
+      "printedPageEnd": 312,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.4-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "```mermaid\nflowchart TD\n    A[\"ছক্কা\"]\n    B[\"মুদ্রা\"]\n    C[\"মুদ্রা\"]\n    D[\"মুদ্রা\"]\n    E[\"মুদ্রা\"]\n    F[\"মুদ্রা\"]\n    G[\"মুদ্রা\"]\n    H[\"1H\"]\n    I[\"1T\"]\n    J[\"2H\"]\n    K[\"2T\"]\n    L[\"3H\"]\n    M[\"3T\"]\n    N[\"4H\"]\n    O[\"4T\"]\n    P[\"5H\"]\n    Q[\"5T\"]\n    R[\"6H\"]\n    S[\"6T\"]\n    A -- \"1\" --> B\n    A -- \"2\" --> C\n    A -- \"3\" --> D\n    A -- \"4\" --> E\n    A -- \"5\" --> F\n    A -- \"6\" --> G\n    B -- \"H\" --> H\n    B -- \"T\" --> I\n    C -- \"H\" --> J\n    C -- \"T\" --> K\n    D -- \"H\" --> L\n    D -- \"T\" --> M\n    E -- \"H\" --> N\n    E -- \"T\" --> O\n    F -- \"H\" --> P\n    F -- \"T\" --> Q\n    G -- \"H\" --> R\n    G -- \"T\" --> S\n```",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 317,
+      "pdfPageEnd": 317,
+      "printedPageStart": 312,
+      "printedPageEnd": 312,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.4-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "তাহলে নমুনাঙ্কেত্রটি হবে: $\\{1H, 1T, 2H, 2T, 3H, 3T, 4H, 4T, 5H, 5T, 6H, 6T\\}$।",
+      "image": null,
+      "formulas": [
+        "\\{1H, 1T, 2H, 2T, 3H, 3T, 4H, 4T, 5H, 5T, 6H, 6T\\}"
+      ],
+      "pdfPageStart": 317,
+      "pdfPageEnd": 317,
+      "printedPageStart": 312,
+      "printedPageEnd": 312,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.4-p019",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে মোট নমুনা বিন্দু 12টি। $\\therefore$ ছক্কায় 5 এবং মুদ্রায় $H$ আসার সম্ভাবনা $P(5H) = \\frac{1}{12}$।",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "H",
+        "P(5H) = \\frac{1}{12}"
+      ],
+      "pdfPageStart": 317,
+      "pdfPageEnd": 317,
+      "printedPageStart": 312,
+      "printedPageEnd": 312,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.4-p020",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৯.** একজন লোকের ঢাকা হতে খুলনায় বাসে যাওয়ার সম্ভাবনা $\\frac{2}{5}$ এবং খুলনা হতে রাজশাহী ট্রেনে যাওয়ার সম্ভাবনা $\\frac{5}{8}$। লোকটি খুলনায় বাসে এবং রাজশাহী ট্রেনে না যাওয়ার সম্ভাবনা কত? Probability tree ব্যবহার করে দেখাও।",
+      "image": null,
+      "formulas": [
+        "\\frac{2}{5}",
+        "\\frac{5}{8}"
+      ],
+      "pdfPageStart": 317,
+      "pdfPageEnd": 317,
+      "printedPageStart": 312,
+      "printedPageEnd": 312,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.4-p021",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** সম্ভাবনার মাধ্যমে probability tree হবে",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 317,
+      "pdfPageEnd": 317,
+      "printedPageStart": 312,
+      "printedPageEnd": 312,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.4-p022",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "flow_chart: probability tree diagram",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 317,
+      "pdfPageEnd": 317,
+      "printedPageStart": 312,
+      "printedPageEnd": 312,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.4-p023",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "```mermaid\nflowchart TD\n    A[\"ঢাকা\"]\n    B[\"খুলনা\"]\n    C[\"খুলনা\"]\n    D[\"রাজশাহী\"]\n    E[\"রাজশাহী\"]\n    F[\"রাজশাহী\"]\n    G[\"রাজশাহী\"]\n    A -- \"বাসে\" --> B\n    A -- \"বাসে নয়\" --> C\n    B -- \"ট্রেনে\" --> D\n    B -- \"ট্রেনে নয়\" --> E\n    C -- \"ট্রেনে\" --> F\n    C -- \"ট্রেনে নয়\" --> G\n    A -- \"বাসে\" -- \"2/5\" --> B\n    A -- \"বাসে নয়\" -- \"3/5\" --> C\n    B -- \"ট্রেনে\" -- \"5/8\" --> D\n    B -- \"ট্রেনে নয়\" -- \"3/8\" --> E\n    C -- \"ট্রেনে\" -- \"5/8\" --> F\n    C -- \"ট্রেনে নয়\" -- \"3/8\" --> G\n```",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 317,
+      "pdfPageEnd": 317,
+      "printedPageStart": 312,
+      "printedPageEnd": 312,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.4-p024",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং লোকটির খুলনায় বাসে এবং রাজশাহীতে ট্রেনে না যাওয়ার সম্ভাবনা",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 317,
+      "pdfPageEnd": 317,
+      "printedPageStart": 312,
+      "printedPageEnd": 312,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.4-p025",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$P[খুলনা বাস, রাজশাহী ট্রেনে নয়] = \\frac{2}{5} \\times \\frac{3}{8} = \\frac{6}{40} = \\frac{3}{20}$$",
+      "image": null,
+      "formulas": [
+        "P[খুলনা বাস, রাজশাহী ট্রেনে নয়] = \\frac{2}{5} \\times \\frac{3}{8} = \\frac{6}{40} = \\frac{3}{20}"
+      ],
+      "pdfPageStart": 317,
+      "pdfPageEnd": 317,
+      "printedPageStart": 312,
+      "printedPageEnd": 312,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.4-p026",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:**",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 317,
+      "pdfPageEnd": 317,
+      "printedPageStart": 312,
+      "printedPageEnd": 312,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.4-p027",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) Probability tree এর সাহায্যে তিনবার মুদ্রা নিষ্কর্ষে সকল সম্ভাব্য ফলাফল লিখ এবং নমুনাঙ্কেত্রটি তৈরি কর। এখান হতে (i) মুদ্রা 3টিতে একই ফলাফল (ii) কমপক্ষে 2T (iii) বড়োজোর 2T আসার সম্ভাবনা নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 317,
+      "pdfPageEnd": 317,
+      "printedPageStart": 312,
+      "printedPageEnd": 312,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c14-t14.4-p028",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) 1টি ছক্কা ও 2টি মুদ্রা নিষ্কর্ষ ঘটনার probability tree তৈরি করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 317,
+      "pdfPageEnd": 317,
+      "printedPageStart": 312,
+      "printedPageEnd": 312,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    }
+  ]
+}

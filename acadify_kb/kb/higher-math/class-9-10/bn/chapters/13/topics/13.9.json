@@ -1,0 +1,200 @@
+{
+  "id": "higher-math-9-10-bn-c13-t13.9",
+  "key": "13.9",
+  "title": "৩. প্রিজম (Prism)",
+  "chapter": 13,
+  "ordinal": 9,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c13-t13.9-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যে ঘনবস্তুর দুই প্রান্ত সর্বসম ও সমান্তরাল বহুভুজ দ্বারা আবদ্ধ এবং অন্য তলগুলো সামান্তরিক তাকে প্রিজম বলে। প্রিজমের দুই প্রান্তকে ইহার ভূমি এবং অন্য তলগুলোকে পার্শ্বতল বলে। সবগুলো পার্শ্বতল আয়তাকার হলে প্রিজমটিকে খাদা বা সমপ্রিজম এবং অন্যক্ষেত্রে প্রিজমটিকে তীর্ষক প্রিজম বলা হয়। বাস্তব ক্ষেত্রে খাদা প্রিজমই অধিক ব্যবহৃত হয়। ভূমির তলের নামের উপর নির্ভর করে কোনো প্রিজমের নামকরণ করা হয়। যেমন, ত্রিভুজাকার প্রিজম, চতুর্ভুজাকার প্রিজম, পঞ্চভুজাকার প্রিজম ইত্যাদি।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 299,
+      "pdfPageEnd": 299,
+      "printedPageStart": 294,
+      "printedPageEnd": 294,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.9-p002",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: two diagrams of prisms labeled with ভূমি (base) and উচ্চতা (height)",
+      "image": "p299-page_8_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 299,
+      "pdfPageEnd": 299,
+      "printedPageStart": 294,
+      "printedPageEnd": 294,
+      "reviewReasons": [
+        "latin-junk"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.9-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ভূমি সুষম বহুভুজ হলে প্রিজমকে সুষম প্রিজম (regular prism) বলে। ভূমি সুষম না হলে ইহাকে বিযম প্রিজম (irregular prism) বলা হয়। সংজ্ঞানুসারে আয়তাকার ঘনবস্তু ও ঘনক উভয়কেই প্রিজম বলা হয়। কঁাচের তৈরি খাদা ত্রিভুজাকার প্রিজম আলোকরশ্মির বিচ্ছুরণের জন্য ব্যবহৃত হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 299,
+      "pdfPageEnd": 299,
+      "printedPageStart": 294,
+      "printedPageEnd": 294,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.9-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) প্রিজমের সমগ্রতলের ক্ষেত্রফল",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 300,
+      "pdfPageEnd": 300,
+      "printedPageStart": 295,
+      "printedPageEnd": 295,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.9-p005",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= 2 (ভূমির ক্ষেত্রফল) + পার্শ্বতলগুলোর ক্ষেত্রফল$$",
+      "image": null,
+      "formulas": [
+        "= 2 (ভূমির ক্ষেত্রফল) + পার্শ্বতলগুলোর ক্ষেত্রফল"
+      ],
+      "pdfPageStart": 300,
+      "pdfPageEnd": 300,
+      "printedPageStart": 295,
+      "printedPageEnd": 295,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.9-p006",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= 2 (ভূমির ক্ষেত্রফল) + ভূমির পরিসীমা \\times উচ্চতা$$",
+      "image": null,
+      "formulas": [
+        "= 2 (ভূমির ক্ষেত্রফল) + ভূমির পরিসীমা \\times উচ্চতা"
+      ],
+      "pdfPageStart": 300,
+      "pdfPageEnd": 300,
+      "printedPageStart": 295,
+      "printedPageEnd": 295,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.9-p007",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) আয়তন $= ভূমির ক্ষেত্রফল \\times উচ্চতা$",
+      "image": null,
+      "formulas": [
+        "= ভূমির ক্ষেত্রফল \\times উচ্চতা"
+      ],
+      "pdfPageStart": 300,
+      "pdfPageEnd": 300,
+      "printedPageStart": 295,
+      "printedPageEnd": 295,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.9-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ২.** একটি ত্রিভুজাকার প্রিজমের ভূমির বাহুগুলোর দৈর্ঘ্য যথাক্রমে ৩, ৪ ও ৫ সে.মি. এবং উচ্চতা ৪ সে.মি.। ইহার সমগ্রতলের ক্ষেত্রফল ও আয়তন নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 300,
+      "pdfPageEnd": 300,
+      "printedPageStart": 295,
+      "printedPageEnd": 295,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.9-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** প্রিজমের ভূমির বাহুগুলোর দৈর্ঘ্য যথাক্রমে ৩, ৪ ও ৫ সে.মি.।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 300,
+      "pdfPageEnd": 300,
+      "printedPageStart": 295,
+      "printedPageEnd": 295,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.9-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "যেহেতু $3^2 + 4^2 = 5^2$, ইহার ভূমি একটি সমকোণী ত্রিভুজ যার ক্ষেত্রফল $= \\frac{1}{2} \\times 4 \\times 3 = 6$ বর্গ সে.মি. সুতরাং, প্রিজমটির সমগ্রতলের ক্ষেত্রফল $= 2 \\times 6 + (3 + 4 + 5) \\times 8 = 12 + 96 = 108$ বর্গ সে.মি. এবং ইহার আয়তন $= 6 \\times 8 = 48$ ঘন সে.মি.",
+      "image": null,
+      "formulas": [
+        "3^2 + 4^2 = 5^2",
+        "= \\frac{1}{2} \\times 4 \\times 3 = 6",
+        "= 2 \\times 6 + (3 + 4 + 5) \\times 8 = 12 + 96 = 108",
+        "= 6 \\times 8 = 48"
+      ],
+      "pdfPageStart": 300,
+      "pdfPageEnd": 300,
+      "printedPageStart": 295,
+      "printedPageEnd": 295,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.9-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "অতএব প্রিজমটির সমগ্রতলের ক্ষেত্রফল ১০৮ বর্গ সে.মি. এবং আয়তন ৪৮ ঘন সে.মি.।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 300,
+      "pdfPageEnd": 300,
+      "printedPageStart": 295,
+      "printedPageEnd": 295,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

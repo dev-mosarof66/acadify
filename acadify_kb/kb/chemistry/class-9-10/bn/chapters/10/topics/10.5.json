@@ -362,15 +362,17 @@
       "kind": "text",
       "section": "সালফিউরিক এসিড",
       "caption": null,
-      "body": "**ধাপ ৩:** উৎপন্ন SO<sub>3</sub> এর সাথে H<sub>2</sub>O এর সংস্পর্শ ঘটলে H<sub>2</sub>SO<sub>4</sub> তৈরি হবে। কিন্তু SO<sub>3</sub> এর সাথে সরাসরি H<sub>2</sub>O বিক্রিয়ায় বাষ্পীয় H<sub>2</sub>SO<sub>4</sub> তৈরি হয় যা ঘন কুয়াশার মতো অবস্থা তৈরি করে। এতে শিল্পকারখানায় কাজের অসুবিধা হয়। এছাড়া এই বাষ্পীয় H<sub>2</sub>SO<sub>4</sub> কে ঘনীভূত করে তরল H<sub>2</sub>SO<sub>4</sub> এ পরিণত করা কঠিন। এজন্য SO<sub>3</sub> কে প্রথমে গ্যুড H<sub>2</sub>SO<sub>4</sub> এর মধ্যে শোষণ করিয়ে ধূমায়মান সালফিউরিক এসিড তৈরি করা হয়। (ধূমায়মান সালফিউরিক এসিডকে অলিয়াম বলে। এর সংকেত H<sub>2</sub>S<sub>2</sub>O<sub>7</sub>)।",
+      "body": "**ধাপ ৩:** উৎপন্ন SO<sub>3</sub> এর সাথে H<sub>2</sub>O এর সংস্পর্শ ঘটলে H<sub>2</sub>SO<sub>4</sub> তৈরি হবে। কিন্তু SO<sub>3</sub> এর সাথে সরাসরি H<sub>2</sub>O বিক্রিয়ায় বাষ্পীয় H<sub>2</sub>SO<sub>4</sub> তৈরি হয় যা ঘন কুয়াশার মতো অবস্থা তৈরি করে। এতে শিল্পকারখানায় কাজের অসুবিধা হয়। এছাড়া এই বাষ্পীয় H<sub>2</sub>SO<sub>4</sub> কে ঘনীভূত করে তরল H<sub>2</sub>SO<sub>4</sub> এ পরিণত করা কঠিন। এজন্য SO<sub>3</sub> কে প্রথমে গাঢ় H<sub>2</sub>SO<sub>4</sub> এর মধ্যে শোষণ করিয়ে ধূমায়মান সালফিউরিক এসিড তৈরি করা হয়। (ধূমায়মান সালফিউরিক এসিডকে অলিয়াম বলে। এর সংকেত H<sub>2</sub>S<sub>2</sub>O<sub>7</sub>)।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 261,
       "pdfPageEnd": 261,
       "printedPageStart": 256,
       "printedPageEnd": 256,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "chemistry-9-10-bn-c10-t10.5-p024",
@@ -430,15 +432,17 @@
       "kind": "text",
       "section": "সালফিউরিক এসিডের ধর্ম",
       "caption": null,
-      "body": "**এসিড ধর্ম:** লঘু H<sub>2</sub>SO<sub>4</sub> বা গ্যুড H<sub>2</sub>SO<sub>4</sub> কোনো ক্ষারের সাথে বিক্রিয়া করে লবণ এবং পানি তৈরি করে। একে H<sub>2</sub>SO<sub>4</sub> এর এসিড ধর্ম বলে। যেমন: সালফিউরিক এসিড ক্যালসিয়াম হাইড্রোক্সাইড এর সাথে বিক্রিয়া করে ক্যালসিয়াম সালফেট লবণ এবং পানি উৎপন্ন করে।",
+      "body": "**এসিড ধর্ম:** লঘু H<sub>2</sub>SO<sub>4</sub> বা গাঢ় H<sub>2</sub>SO<sub>4</sub> কোনো ক্ষারের সাথে বিক্রিয়া করে লবণ এবং পানি তৈরি করে। একে H<sub>2</sub>SO<sub>4</sub> এর এসিড ধর্ম বলে। যেমন: সালফিউরিক এসিড ক্যালসিয়াম হাইড্রোক্সাইড এর সাথে বিক্রিয়া করে ক্যালসিয়াম সালফেট লবণ এবং পানি উৎপন্ন করে।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 261,
       "pdfPageEnd": 261,
       "printedPageStart": 256,
       "printedPageEnd": 256,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "chemistry-9-10-bn-c10-t10.5-p028",
@@ -479,15 +483,17 @@
       "kind": "text",
       "section": "জারণ ধর্ম (Oxidation Property)",
       "caption": null,
-      "body": "H<sub>2</sub>SO<sub>4</sub> এর মধ্যে অনেক বেশি পানি থাকলে অর্থাৎ পানির মধ্যে H<sub>2</sub>SO<sub>4</sub> দিলে সেই H<sub>2</sub>SO<sub>4</sub> কে লঘু H<sub>2</sub>SO<sub>4</sub> এসিড বলে। লঘু H<sub>2</sub>SO<sub>4</sub> এর জারণ ধর্ম নেই। কিন্তু যে H<sub>2</sub>SO<sub>4</sub> এর মধ্যে পানি কম পরিমাণে থাকে সেই H<sub>2</sub>SO<sub>4</sub> কে গ্যুড H<sub>2</sub>SO<sub>4</sub> বলে। গ্যুড H<sub>2</sub>SO<sub>4</sub> এর জারণ ধর্ম আছে। গ্যুড H<sub>2</sub>SO<sub>4</sub> কপারকে জারিত করে কপার সালফেট পরিণত করে এবং নিজে বিজারিত হয়ে সালফার ডাই-অক্সাইড এবং পানি উৎপন্ন করে।",
+      "body": "H<sub>2</sub>SO<sub>4</sub> এর মধ্যে অনেক বেশি পানি থাকলে অর্থাৎ পানির মধ্যে H<sub>2</sub>SO<sub>4</sub> দিলে সেই H<sub>2</sub>SO<sub>4</sub> কে লঘু H<sub>2</sub>SO<sub>4</sub> এসিড বলে। লঘু H<sub>2</sub>SO<sub>4</sub> এর জারণ ধর্ম নেই। কিন্তু যে H<sub>2</sub>SO<sub>4</sub> এর মধ্যে পানি কম পরিমাণে থাকে সেই H<sub>2</sub>SO<sub>4</sub> কে গাঢ় H<sub>2</sub>SO<sub>4</sub> বলে। গাঢ় H<sub>2</sub>SO<sub>4</sub> এর জারণ ধর্ম আছে। গাঢ় H<sub>2</sub>SO<sub>4</sub> কপারকে জারিত করে কপার সালফেট পরিণত করে এবং নিজে বিজারিত হয়ে সালফার ডাই-অক্সাইড এবং পানি উৎপন্ন করে।",
       "image": null,
       "formulas": [],
       "pdfPageStart": 261,
       "pdfPageEnd": 261,
       "printedPageStart": 256,
       "printedPageEnd": 256,
-      "reviewReasons": [],
-      "needsReview": false
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
     },
     {
       "id": "chemistry-9-10-bn-c10-t10.5-p031",

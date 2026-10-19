@@ -1,0 +1,273 @@
+{
+  "id": "higher-math-9-10-bn-c09-t9.0",
+  "key": "9.0",
+  "title": "ভূমিকা ও শিখনফল",
+  "chapter": 9,
+  "ordinal": 0,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c09-t9.0-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সমসাময়িক বাস্তবতায় সূচকীয় ও লগারিদমীয় ফাংশনের অনেক প্রয়োগ বিদায় এর চর্চা অব্যাহত রয়েছে। যেমন জনসংখ্যা বৃদ্ধি, চক্রবৃদ্ধি মুনাফা ইত্যাদিতে উভয় ফাংশনের প্রয়োগ বিদ্যমান।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 198,
+      "pdfPageEnd": 198,
+      "printedPageStart": 193,
+      "printedPageEnd": 193,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.0-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এ অধ্যায় শেষে শিক্ষার্থীরা -",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 198,
+      "pdfPageEnd": 198,
+      "printedPageStart": 193,
+      "printedPageEnd": 193,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.0-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "* মূলদ সূচক ও অমূলদ সূচক ব্যাখ্যা করতে পারবে;\n* মূলদ ও অমূলদ সূচকের জন্য বিভিন্ন সূত্র প্রমাণ ও প্রয়োগ করতে পারবে;\n* সূচক ও লগারিদমের পারস্পরিক সম্পর্ক ব্যাখ্যা করতে পারবে;\n* লগারিদমের বিভিন্ন সূত্র প্রমাণ ও প্রয়োগ করতে পারবে;\n* লগারিদমের ভিত্তি পরিবর্তন করতে পারবে;\n* সূচকীয়, লগারিদমীয় ও পরমমান ফাংশনের ধারণা ব্যাখ্যা করতে পারবে এবং গাণিতিক সমস্যা সমাধান করতে পারবে;\n* ফাংশনসমূহের লেখচিত্র অঙ্কনে আগ্রহী হবে;\n* সূচকীয়, লগারিদমীয় ও পরমমান ফাংশনসমূহকে লেখচিত্রের সাহায্যে উপস্থাপন করতে পারবে;\n* ক্যালকুলেটরের সাহায্যে লগ ও প্রতিলগ নির্ণয় করতে পারবে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 198,
+      "pdfPageEnd": 198,
+      "printedPageStart": 193,
+      "printedPageEnd": 193,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.0-p004",
+      "kind": "text",
+      "section": "মূলদ ও অমূলদ সূচক",
+      "caption": null,
+      "body": "নবম-দশম শ্রেণির গণিতে আলোচিত কিছু বিষয় যা এ অধ্যায়ের আলোচনার স্বার্থে উল্লেখ করা হলো:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 198,
+      "pdfPageEnd": 198,
+      "printedPageStart": 193,
+      "printedPageEnd": 193,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.0-p005",
+      "kind": "text",
+      "section": "মূলদ ও অমূলদ সূচক",
+      "caption": null,
+      "body": "$R$ সকল বাস্তব সংখ্যার সেট",
+      "image": null,
+      "formulas": [
+        "R"
+      ],
+      "pdfPageStart": 198,
+      "pdfPageEnd": 198,
+      "printedPageStart": 193,
+      "printedPageEnd": 193,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.0-p006",
+      "kind": "text",
+      "section": "মূলদ ও অমূলদ সূচক",
+      "caption": null,
+      "body": "$N$ সকল স্বাভাবিক সংখ্যার সেট",
+      "image": null,
+      "formulas": [
+        "N"
+      ],
+      "pdfPageStart": 198,
+      "pdfPageEnd": 198,
+      "printedPageStart": 193,
+      "printedPageEnd": 193,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.0-p007",
+      "kind": "text",
+      "section": "মূলদ ও অমূলদ সূচক",
+      "caption": null,
+      "body": "$Z$ সকল পূর্ণ সংখ্যার সেট",
+      "image": null,
+      "formulas": [
+        "Z"
+      ],
+      "pdfPageStart": 198,
+      "pdfPageEnd": 198,
+      "printedPageStart": 193,
+      "printedPageEnd": 193,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.0-p008",
+      "kind": "text",
+      "section": "মূলদ ও অমূলদ সূচক",
+      "caption": null,
+      "body": "$Q$ সকল মূলদ সংখ্যার সেট নির্দেশ করে।",
+      "image": null,
+      "formulas": [
+        "Q"
+      ],
+      "pdfPageStart": 198,
+      "pdfPageEnd": 198,
+      "printedPageStart": 193,
+      "printedPageEnd": 193,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.0-p009",
+      "kind": "text",
+      "section": "মূলদ ও অমূলদ সূচক",
+      "caption": null,
+      "body": "ধরি $a$ একটি পূর্ণ সংখ্যা বা ভগ্নাংশ বা ধনাত্মক বা ঋণাত্মক হতে পারে এবং $n$ একটি ধনাত্মক পূর্ণসংখ্যা। তাহলে $a$ কে $n$ বার গুণ করলে গুণফলটিকে লিখা হয় $a^n = a \\cdot a \\cdot a \\cdots$ ($n$ বার) এবং $a^n$ কে বলা হয় $a$ এর $n$ ঘাত। এরূপ ক্ষেত্রে $a$ কে বলা হয় নিধান বা ভিত্তি (base) এবং $n$ কে বলা হয় $a$ এর ঘাত বা সূচক (exponent)।",
+      "image": null,
+      "formulas": [
+        "a",
+        "n",
+        "a",
+        "n",
+        "a^n = a \\cdot a \\cdot a \\cdots",
+        "n",
+        "a^n",
+        "a",
+        "n",
+        "a",
+        "n",
+        "a"
+      ],
+      "pdfPageStart": 199,
+      "pdfPageEnd": 199,
+      "printedPageStart": 194,
+      "printedPageEnd": 194,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.0-p010",
+      "kind": "text",
+      "section": "মূলদ ও অমূলদ সূচক",
+      "caption": null,
+      "body": "সুতরাং $3^4$ এর ক্ষেত্রে ভিত্তি 3 এবং সূচক 4।",
+      "image": null,
+      "formulas": [
+        "3^4"
+      ],
+      "pdfPageStart": 199,
+      "pdfPageEnd": 199,
+      "printedPageStart": 194,
+      "printedPageEnd": 194,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.0-p011",
+      "kind": "text",
+      "section": "মূলদ ও অমূলদ সূচক",
+      "caption": null,
+      "body": "আবার $\\left(\\frac{2}{3}\\right)^4$ এর ক্ষেত্রে ভিত্তি $\\frac{2}{3}$ এর সূচক 4।",
+      "image": null,
+      "formulas": [
+        "\\left(\\frac{2}{3}\\right)^4",
+        "\\frac{2}{3}"
+      ],
+      "pdfPageStart": 199,
+      "pdfPageEnd": 199,
+      "printedPageStart": 194,
+      "printedPageEnd": 194,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.0-p012",
+      "kind": "definition",
+      "section": "মূলদ ও অমূলদ সূচক",
+      "caption": null,
+      "body": "**সংজ্ঞা:** সকল $a \\in R$ এর জন্য",
+      "image": null,
+      "formulas": [
+        "a \\in R"
+      ],
+      "pdfPageStart": 199,
+      "pdfPageEnd": 199,
+      "printedPageStart": 194,
+      "printedPageEnd": 194,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.0-p013",
+      "kind": "text",
+      "section": "মূলদ ও অমূলদ সূচক",
+      "caption": null,
+      "body": "১. $a^1 = a$",
+      "image": null,
+      "formulas": [
+        "a^1 = a"
+      ],
+      "pdfPageStart": 199,
+      "pdfPageEnd": 199,
+      "printedPageStart": 194,
+      "printedPageEnd": 194,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c09-t9.0-p014",
+      "kind": "text",
+      "section": "মূলদ ও অমূলদ সূচক",
+      "caption": null,
+      "body": "২. $a^n = a \\cdot a \\cdot a \\cdots a$ ($n$ সংখ্যক উৎপাদক), যেখানে $n \\in N, n > 1$",
+      "image": null,
+      "formulas": [
+        "a^n = a \\cdot a \\cdot a \\cdots a",
+        "n",
+        "n \\in N, n > 1"
+      ],
+      "pdfPageStart": 199,
+      "pdfPageEnd": 199,
+      "printedPageStart": 194,
+      "printedPageEnd": 194,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

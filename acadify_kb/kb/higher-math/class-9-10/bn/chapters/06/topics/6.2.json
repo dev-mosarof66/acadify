@@ -1,0 +1,265 @@
+{
+  "id": "higher-math-9-10-bn-c06-t6.2",
+  "key": "6.2",
+  "title": "দুই চলকবিশিষ্ট সরল একঘাত অসমতা",
+  "chapter": 6,
+  "ordinal": 3,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c06-t6.2-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "আমরা দুই চলকবিশিষ্ট $y = mx + c$ (যার সাধারণ আকার $ax + by + c = 0$) আকারের সরল সমীকরণের লেখচিত্র অঙ্কন করতে শিখেছি (অষ্টম ও নবম-দশম শ্রেণিতে)। আমরা দেখেছি যে, এ রকম প্রত্যেক লেখচিত্রই একটি সরলরেখা। স্থানাঙ্কায়িত $XY$ সমতলে $ax + by + c = 0$ সমীকরণের লেখচিত্রের যেকোনো বিন্দুর স্থানাঙ্ক সমীকরণটিকে সিদ্ধ করে অর্থাৎ সমীকরণটির বামপক্ষে $x$ ও $y$ এর পরিবর্তে যথাক্রমে ঐ বিন্দুর ভুজ ও কোটি বসালে এর মান শূন্য হয়। অন্যদিকে, লেখস্থিত নয় এমন কোনো বিন্দুর স্থানাঙ্ক সমীকরণটিকে সিদ্ধ করে না অর্থাৎ ঐ বিন্দুর ভুজ ও কোটির জন্য $ax + by + c$ এর মান শূন্য অপেক্ষা বড়ো বা ছোটো হয়। সমতলস্থ কোনো বিন্দু $P$ এর ভুজ ও কোটি দ্বারা $ax + by + c$ রাশির $x$ ও $y$ কে যথাক্রমে প্রতিস্থাপন করলে রাশিটির যে মান হয়, তাকে $P$ বিন্দুতে রাশিটির মান বলা হয় এবং উক্ত মানকে সাধারণত $f(P)$ দ্বারা নির্দেশ করা হয়। $P$ বিন্দু লেখস্থিত হলে $f(P) = 0$, $P$ বিন্দু লেখচিত্রের বাহিঃস্থ হলে $f(P) > 0$ অথবা $f(P) < 0$।",
+      "image": null,
+      "formulas": [
+        "y = mx + c",
+        "ax + by + c = 0",
+        "XY",
+        "ax + by + c = 0",
+        "x",
+        "y",
+        "ax + by + c",
+        "P",
+        "ax + by + c",
+        "x",
+        "y",
+        "P",
+        "f(P)",
+        "P",
+        "f(P) = 0",
+        "P",
+        "f(P) > 0",
+        "f(P) < 0"
+      ],
+      "pdfPageStart": 133,
+      "pdfPageEnd": 133,
+      "printedPageStart": 128,
+      "printedPageEnd": 128,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.2-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "বাস্তবে লেখচিত্রের বাহিঃস্থ সকল বিন্দু লেখ দ্বারা দুইটি অর্ধতলে বিভক্ত হয়; একটি অর্ধতলের প্রত্যেক বিন্দু $P$ এর জন্য $f(P) > 0$; অপর অর্ধতলের প্রত্যেক বিন্দু $P$ এর জন্য $f(P) < 0$। বলা বাহুল্য, লেখের উপর অবস্থিত প্রত্যেক বিন্দু $P$ এর জন্য $f(P) = 0$।",
+      "image": null,
+      "formulas": [
+        "P",
+        "f(P) > 0",
+        "P",
+        "f(P) < 0",
+        "P",
+        "f(P) = 0"
+      ],
+      "pdfPageStart": 133,
+      "pdfPageEnd": 133,
+      "printedPageStart": 128,
+      "printedPageEnd": 128,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.2-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৮.** $x + y - 3 = 0$ সমীকরণটি বিবেচনা করি।",
+      "image": null,
+      "formulas": [
+        "x + y - 3 = 0"
+      ],
+      "pdfPageStart": 133,
+      "pdfPageEnd": 133,
+      "printedPageStart": 128,
+      "printedPageEnd": 128,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.2-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সমীকরণটি থেকে পাওয়া যায়: $y = 3 - x$",
+      "image": null,
+      "formulas": [
+        "y = 3 - x"
+      ],
+      "pdfPageStart": 133,
+      "pdfPageEnd": 133,
+      "printedPageStart": 128,
+      "printedPageEnd": 128,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.2-p005",
+      "kind": "table",
+      "section": null,
+      "caption": null,
+      "body": "<table><tr><td><em>x</em></td><td>0</td><td>3</td><td>1</td></tr>\n<tr><td><em>y</em></td><td>3</td><td>0</td><td>2</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 133,
+      "pdfPageEnd": 133,
+      "printedPageStart": 128,
+      "printedPageEnd": 128,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.2-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "$(x, y)$ সমতলে ছক কাগজে ছোটো বর্গক্ষেত্রের বাহুর দৈর্ঘ্যকে একক ধরে সমীকরণটির লেখচিত্রটি নিম্নরূপ হয়:",
+      "image": null,
+      "formulas": [
+        "(x, y)"
+      ],
+      "pdfPageStart": 133,
+      "pdfPageEnd": 133,
+      "printedPageStart": 128,
+      "printedPageEnd": 128,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.2-p007",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: coordinate plane graph showing points (0,3), (1,2), and (3,0) on a line 0,3",
+      "image": "p134-page_7_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.2-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এই লেখচিত্র রেখা সমগ্র তলাটিকে তিনটি অংশে পৃথক করে। যথা:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.2-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "১. রেখার (ক) চিহ্নিত পাশের বিন্দুসমূহ\n২. রেখার (খ) চিহ্নিত পাশের বিন্দুসমূহ এবং\n৩. রেখাস্থিত বিন্দুসমূহ",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.2-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এখানে (ক) চিহ্নিত অংশকে লেখরেখার উপরের অংশ ও (খ) চিহ্নিত অংশকে লেখরেখার নিচের অংশ বলা যায়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.2-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(ক) চিহ্নিত পাশে তিনটি বিন্দু $(3, 3), (4, 1), (6, -1)$ নিহি। এই বিন্দুগুলোতে $x + y - 3$ এর মান যথাক্রমে $3, 2, 2$ যাদের সবকটিই ধনাত্মক।",
+      "image": null,
+      "formulas": [
+        "(3, 3), (4, 1), (6, -1)",
+        "x + y - 3",
+        "3, 2, 2"
+      ],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.2-p012",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "(খ) চিহ্নিত পাশে তিনটি বিন্দু $(0, 0), (1, 1), (-1, -1)$ নিহি। এই বিন্দুগুলোতে $x + y - 3$ এর মান যথাক্রমে $-3, -1, -5$ যাদের সবকটিই ঋণাত্মক।",
+      "image": null,
+      "formulas": [
+        "(0, 0), (1, 1), (-1, -1)",
+        "x + y - 3",
+        "-3, -1, -5"
+      ],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c06-t6.2-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**বিশেষ দ্রষ্টব্য:** $ax + by + c = 0$ লেখরেখার এক পাশে একটি বিন্দু নিয়ে সেখানে $ax + by + c$ এর মান নির্ণয় করে রেখাটির দুই পাশ (ধনাত্মক ও ঋণাত্মক) নির্ণয় করা যায়।",
+      "image": null,
+      "formulas": [
+        "ax + by + c = 0",
+        "ax + by + c"
+      ],
+      "pdfPageStart": 134,
+      "pdfPageEnd": 134,
+      "printedPageStart": 129,
+      "printedPageEnd": 129,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "higher-math-9-10-bn-c09-t9.16",
+  "key": "9.16",
+  "title": "৮. দেওয়া আছে, $y = 2^x$",
+  "chapter": 9,
+  "ordinal": 17,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c09-t9.16-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) প্রদত্ত ফাংশনটির ডোমেন এবং রেঞ্জ নির্ণয় করো।\nখ) ফাংশনটির লেখচিত্র অঙ্কন কর এবং এর বৈশিষ্ট্যগুলি লেখো।\nগ) ফাংশনটির বিপরীত ফাংশন নির্ণয় করে এটি এক-এক কিনা তা নির্ধারণ কর এবং বিপরীত ফাংশনটির লেখচিত্র আঁকো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 226,
+      "pdfPageEnd": 226,
+      "printedPageStart": 221,
+      "printedPageEnd": 221,
+      "reviewReasons": [],
+      "needsReview": false
+    }
+  ]
+}

@@ -1,0 +1,641 @@
+{
+  "id": "higher-math-9-10-bn-c13-t13.13",
+  "key": "13.13",
+  "title": "৭. যৌগিক ঘনবস্তু (Compound solid)",
+  "chapter": 13,
+  "ordinal": 13,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p001",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "দুটি ঘনবস্তুর সমন্বয়ে গঠিত ঘনবস্তুকে যৌগিক ঘনবস্তু বলে। নিমে যৌগিক ঘনবস্তুর কিছু উদাহরণ দেওয়া হলো:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 305,
+      "pdfPageEnd": 305,
+      "printedPageStart": 300,
+      "printedPageEnd": 300,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p002",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) একটি আয়তাকার ঘনবস্তুর উপরের তল যদি একটি খাড়া প্রিজমের কোনো একটি তলের সমান হয় তবে ঘনবস্তুর উপর মিলিয়ে প্রিজমটি বসালে একটি যৌগিক ঘনবস্তু হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 305,
+      "pdfPageEnd": 305,
+      "printedPageStart": 300,
+      "printedPageEnd": 300,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p003",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) একটি প্রিজমের ভূমি ও একটি চতুস্তলকের ভূমি সর্বসম হলে এবং চতুস্তলকটিকে প্রিজমের উপর বসালে একটি যৌগিক ঘনবস্তু হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 305,
+      "pdfPageEnd": 305,
+      "printedPageStart": 300,
+      "printedPageEnd": 300,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p004",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) একটি অর্ধগোলকের ব্যাসার্ধ ও একটি সমবৃত্তভূমিক কোণকের ভূমির ব্যাসার্ধ সমান হলে এবং কোণকটিকে অর্ধগোলকের উপর বসালে একটি নতুন ঘনবস্তু সৃষ্টি হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 305,
+      "pdfPageEnd": 305,
+      "printedPageStart": 300,
+      "printedPageEnd": 300,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p005",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ঘ) দুটি অর্ধগোলক ও একটি সমবৃত্তভূমিক সিলিন্ডারের সমন্বয়ে গঠিত যৌগিক ঘনবস্তুকে ক্যাপসুল বলা যেতে পারে।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 305,
+      "pdfPageEnd": 305,
+      "printedPageStart": 300,
+      "printedPageEnd": 300,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p006",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এভাবে দুই বা দুইয়ের অধিক ঘনবস্তু সমন্বয়ে বিভিন্ন প্রকারের যৌগিক ঘনবস্তু তৈরি করা যায়। অনেক দৃষ্টিদর্শন স্থাপনাও যৌগিক ঘনবস্তু। ব্যয়াম করার অনেক উপকরণও একাধিক ঘনবস্তু সমন্বয়ে তৈরি করা হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 306,
+      "pdfPageEnd": 306,
+      "printedPageStart": 301,
+      "printedPageEnd": 301,
+      "reviewReasons": [
+        "known-confusable-corrected"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p007",
+      "kind": "figure",
+      "section": null,
+      "caption": null,
+      "body": "drawing: three geometric solids: a capsule, a pyramid on a cube, and a wedge on a cube",
+      "image": "p306-page_15_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 306,
+      "pdfPageEnd": 306,
+      "printedPageStart": 301,
+      "printedPageEnd": 301,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p008",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**কাজ:** তোমরা প্রত্যেকে একটি করে যৌগিক ঘনবস্তু অঙ্কন কর ও ইহার বর্ণনা দাও। সমস্ত হলে এর তলসমূহের ক্ষেত্রফল ও আয়তন নির্ণয়ের সূত্র লেখো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 306,
+      "pdfPageEnd": 306,
+      "printedPageStart": 301,
+      "printedPageEnd": 301,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p009",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ৯.** একটি ক্যাপসুলের দৈর্ঘ্য ১৫ সে.মি.। ইহার সিলিন্ডার আকৃতির অংশের ব্যাসার্ধ ৩ সে.মি. হলে, সমগ্রতলের ক্ষেত্রফল ও আয়তন নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 306,
+      "pdfPageEnd": 306,
+      "printedPageStart": 301,
+      "printedPageEnd": 301,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p010",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**সমাধান:** ক্যাপসুলের সম্পূর্ণ দৈর্ঘ্য ১৫ সে.মি.। যেহেতু ক্যাপসুলের দুই প্রান্ত অর্ধগোলকাঙ্কতি, সেহেতু এর সিলিন্ডার আকৃতির অংশের দৈর্ঘ্য $l = 15 - (3 + 3) = 9$ সে.মি.।",
+      "image": null,
+      "formulas": [
+        "l = 15 - (3 + 3) = 9"
+      ],
+      "pdfPageStart": 306,
+      "pdfPageEnd": 306,
+      "printedPageStart": 301,
+      "printedPageEnd": 301,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p011",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "সুতরাং ক্যাপসুলের সমগ্রতলের ক্ষেত্রফল = দুই প্রান্তের অর্ধগোলকাঙ্কতি অংশের পৃষ্ঠতলের ক্ষেত্রফল + সিলিন্ডার আকৃতির অংশের পৃষ্ঠতলের ক্ষেত্রফল",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 306,
+      "pdfPageEnd": 306,
+      "printedPageStart": 301,
+      "printedPageEnd": 301,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p012",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= 2 \\times \\frac{1}{2} \\times 4\\pi r^2 + 2\\pi rl = 4\\pi(3)^2 + 2\\pi \\times 3 \\times 9 = 90\\pi = 282.74  বর্গ সে.মি. (প্রায়)$$",
+      "image": null,
+      "formulas": [
+        "= 2 \\times \\frac{1}{2} \\times 4\\pi r^2 + 2\\pi rl = 4\\pi(3)^2 + 2\\pi \\times 3 \\times 9 = 90\\pi = 282.74  বর্গ সে.মি. (প্রায়)"
+      ],
+      "pdfPageStart": 306,
+      "pdfPageEnd": 306,
+      "printedPageStart": 301,
+      "printedPageEnd": 301,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p013",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "এবং ক্যাপসুলটির আয়তন",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 306,
+      "pdfPageEnd": 306,
+      "printedPageStart": 301,
+      "printedPageEnd": 301,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p014",
+      "kind": "formula",
+      "section": null,
+      "caption": null,
+      "body": "$$= 2 \\times \\frac{1}{2} \\times \\frac{4}{3}\\pi r^3 + \\pi r^2 l = \\frac{4}{3}\\pi(3)^3 + \\pi(3)^2 \\times 9 = 117\\pi = 367.57  ঘন সে.মি. (প্রায়)$$",
+      "image": null,
+      "formulas": [
+        "= 2 \\times \\frac{1}{2} \\times \\frac{4}{3}\\pi r^3 + \\pi r^2 l = \\frac{4}{3}\\pi(3)^3 + \\pi(3)^2 \\times 9 = 117\\pi = 367.57  ঘন সে.মি. (প্রায়)"
+      ],
+      "pdfPageStart": 306,
+      "pdfPageEnd": 306,
+      "printedPageStart": 301,
+      "printedPageEnd": 301,
+      "reviewReasons": [
+        "latin-junk",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p015",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "**উদাহরণ ১০.** একটি লোহার ফাঁপা গোলকের বাইরের ব্যাস ১৫ সে.মি. এবং বেধ ২ সে.মি.।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 306,
+      "pdfPageEnd": 306,
+      "printedPageStart": 301,
+      "printedPageEnd": 301,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p016",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "ক) গোলকের ফাঁপা অংশের আয়তন নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 306,
+      "pdfPageEnd": 306,
+      "printedPageStart": 301,
+      "printedPageEnd": 301,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p017",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "খ) গোলকে ব্যবহৃত লোহা দিয়ে একটি নিরেট গোলক তৈরি করা হলো। নিরেট গোলকের পৃষ্ঠতলের ক্ষেত্রফল নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 306,
+      "pdfPageEnd": 306,
+      "printedPageStart": 301,
+      "printedPageEnd": 301,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p018",
+      "kind": "text",
+      "section": null,
+      "caption": null,
+      "body": "গ) নিরেট গোলকটি একটি ঘনক আকৃতির বাক্ষে ঠিকভাবে ঐটে গেল। বাক্ষটির অনধিকৃত অংশের আয়তন নির্ণয় করো।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 306,
+      "pdfPageEnd": 306,
+      "printedPageStart": 301,
+      "printedPageEnd": 301,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p019",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "ক) দেওয়া আছে, গোলকের বাইরের ব্যাস 15 সে.মি.",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 307,
+      "pdfPageEnd": 307,
+      "printedPageStart": 302,
+      "printedPageEnd": 302,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p020",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore$ গোলকের বাইরের ব্যাসার্ধ $= \\frac{15}{2}$ সে.মি. $= 7.5$ সে.মি. এবং গোলকের বেধ 2 সে.মি.",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "= \\frac{15}{2}",
+        "= 7.5"
+      ],
+      "pdfPageStart": 307,
+      "pdfPageEnd": 307,
+      "printedPageStart": 302,
+      "printedPageEnd": 302,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p021",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore$ গোলকের ফাঁপা অংশের ব্যাসার্ধ $= (7.5 - 2)$ সে.মি. $= 5.5$ সে.মি.",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "= (7.5 - 2)",
+        "= 5.5"
+      ],
+      "pdfPageStart": 307,
+      "pdfPageEnd": 307,
+      "printedPageStart": 302,
+      "printedPageEnd": 302,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p022",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore$ গোলকের ফাঁপা অংশের আয়তন $= \\frac{4}{3}\\pi r^3 = \\frac{4}{3}\\pi \\times (5.5)^3 = 696.9116$ ঘন সে.মি.\n(প্রায়)",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "= \\frac{4}{3}\\pi r^3 = \\frac{4}{3}\\pi \\times (5.5)^3 = 696.9116"
+      ],
+      "pdfPageStart": 307,
+      "pdfPageEnd": 307,
+      "printedPageStart": 302,
+      "printedPageEnd": 302,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p023",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "খ) এখানে, গোলকের ব্যাসার্ধ 7.5 সে.মি.",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 307,
+      "pdfPageEnd": 307,
+      "printedPageStart": 302,
+      "printedPageEnd": 302,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p024",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore$ গোলকের আয়তন $= \\frac{4}{3}\\pi \\times (7.5)^3 = 1767.15$ ঘন সে.মি. (প্রায়)",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "= \\frac{4}{3}\\pi \\times (7.5)^3 = 1767.15"
+      ],
+      "pdfPageStart": 307,
+      "pdfPageEnd": 307,
+      "printedPageStart": 302,
+      "printedPageEnd": 302,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p025",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore$ গোলকে ব্যবহৃত লোহার আয়তন $= (1767.15 - 696.9116) = 1070.2384$ ঘন সে.মি.\n(প্রায়)",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "= (1767.15 - 696.9116) = 1070.2384"
+      ],
+      "pdfPageStart": 307,
+      "pdfPageEnd": 307,
+      "printedPageStart": 302,
+      "printedPageEnd": 302,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p026",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "মনে করি, নিরেট গোলকের ব্যাসার্ধ $r$ সে.মি.",
+      "image": null,
+      "formulas": [
+        "r"
+      ],
+      "pdfPageStart": 307,
+      "pdfPageEnd": 307,
+      "printedPageStart": 302,
+      "printedPageEnd": 302,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p027",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore$ নিরেট গোলকের আয়তন $= \\frac{4}{3}\\pi \\times r^3$ ঘন সে.মি.",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "= \\frac{4}{3}\\pi \\times r^3"
+      ],
+      "pdfPageStart": 307,
+      "pdfPageEnd": 307,
+      "printedPageStart": 302,
+      "printedPageEnd": 302,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p028",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "যেহেতু ফাঁপা গোলকে ব্যবহৃত লোহা দিয়ে নিরেট গোলকটি তৈরি করা হয়েছে, সেহেতু লোহার আয়তন নিরেট গোলকের আয়তনের সমান।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 307,
+      "pdfPageEnd": 307,
+      "printedPageStart": 302,
+      "printedPageEnd": 302,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p029",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore \\frac{4}{3}\\pi \\times r^3 = 1070.2384$ বা, $r^3 = 255.5$ বা, $r = 6.3454$ সে.মি.",
+      "image": null,
+      "formulas": [
+        "\\therefore \\frac{4}{3}\\pi \\times r^3 = 1070.2384",
+        "r^3 = 255.5",
+        "r = 6.3454"
+      ],
+      "pdfPageStart": 307,
+      "pdfPageEnd": 307,
+      "printedPageStart": 302,
+      "printedPageEnd": 302,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p030",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore$ নিরেট গোলকটির পৃষ্ঠতলের ক্ষেত্রফল $= 4\\pi \\times (6.3454)^2 = 505.9748$ বর্গ সে.মি. (প্রায়)",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "= 4\\pi \\times (6.3454)^2 = 505.9748"
+      ],
+      "pdfPageStart": 307,
+      "pdfPageEnd": 307,
+      "printedPageStart": 302,
+      "printedPageEnd": 302,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p031",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "গ) নিরেট গোলকের ব্যাসার্ধ 6.3454 সে.মি.",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 307,
+      "pdfPageEnd": 307,
+      "printedPageStart": 302,
+      "printedPageEnd": 302,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p032",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore$ নিরেট গোলকের ব্যাস $= 2 \\times 6.3454$ সে.মি. $= 12.6908$ সে.মি.",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "= 2 \\times 6.3454",
+        "= 12.6908"
+      ],
+      "pdfPageStart": 307,
+      "pdfPageEnd": 307,
+      "printedPageStart": 302,
+      "printedPageEnd": 302,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p033",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "যেহেতু নিরেট গোলকটি ঘনক আকৃতির বাক্ষে ঠিকভাবে ঐটে যায়, সেহেতু বাক্সটির দৈর্ঘ্য হবে নিরেট গোলকের ব্যাসের সমান। সুতরাং ঘনক আকৃতির বাক্সের দৈর্ঘ্য $= 12.6908$ সে.মি.",
+      "image": null,
+      "formulas": [
+        "= 12.6908"
+      ],
+      "pdfPageStart": 307,
+      "pdfPageEnd": 307,
+      "printedPageStart": 302,
+      "printedPageEnd": 302,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p034",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore$ বাক্সটির আয়তন $= (12.6908)^3 = 2043.9346$ ঘন সে.মি. (প্রায়)",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "= (12.6908)^3 = 2043.9346"
+      ],
+      "pdfPageStart": 307,
+      "pdfPageEnd": 307,
+      "printedPageStart": 302,
+      "printedPageEnd": 302,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p035",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "নিরেট গোলকের আয়তন $=$ ফাঁপা গোলকে ব্যবহৃত লোহার আয়তন $= 1070.2384$ ঘন সে.মি.\n(প্রায়)",
+      "image": null,
+      "formulas": [
+        "=",
+        "= 1070.2384"
+      ],
+      "pdfPageStart": 307,
+      "pdfPageEnd": 307,
+      "printedPageStart": 302,
+      "printedPageEnd": 302,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c13-t13.13-p036",
+      "kind": "text",
+      "section": "সমাধান:",
+      "caption": null,
+      "body": "$\\therefore$ বাক্সটির অনধিকৃত অংশের আয়তন $= (2043.9346 - 1070.2384) = 973.6962$ ঘন সে.মি. (প্রায়)",
+      "image": null,
+      "formulas": [
+        "\\therefore",
+        "= (2043.9346 - 1070.2384) = 973.6962"
+      ],
+      "pdfPageStart": 307,
+      "pdfPageEnd": 307,
+      "printedPageStart": 302,
+      "printedPageEnd": 302,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

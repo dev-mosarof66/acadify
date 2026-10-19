@@ -1,0 +1,761 @@
+{
+  "id": "higher-math-9-10-bn-c10-t10.ex",
+  "key": "10.ex",
+  "title": "অনুশীলনী ১০.১",
+  "chapter": 10,
+  "ordinal": 3,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p001",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১. প্যাসকেলের ত্রিভুজ বা দ্বিপদী বিস্তৃতি ব্যবহার করে $(1 + y)^5$ এর বিস্তৃতি নির্ণয় করো। উক্ত বিস্তৃতির সাহায্যে ক) $(1 - y)^5$ এবং খ) $(1 + 2x)^5$ এর বিস্তৃতি নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "(1 + y)^5",
+        "(1 - y)^5",
+        "(1 + 2x)^5"
+      ],
+      "pdfPageStart": 235,
+      "pdfPageEnd": 235,
+      "printedPageStart": 230,
+      "printedPageEnd": 230,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p002",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "২. $x$ এর ঘাতের উর্ধ্বক্রম অনুসারে ক) $(1 + 4x)^6$ এবং খ) $(1 - 3x)^7$ এর প্রথম চার পদ পর্যন্ত বিস্তৃত করো।",
+      "image": null,
+      "formulas": [
+        "x",
+        "(1 + 4x)^6",
+        "(1 - 3x)^7"
+      ],
+      "pdfPageStart": 235,
+      "pdfPageEnd": 235,
+      "printedPageStart": 230,
+      "printedPageEnd": 230,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p003",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৩. $(1 + x^2)^8$ এর বিস্তৃতির প্রথম চারটি পদ নির্ণয় করো। উক্ত ফলাফল ব্যবহার করে $(1.01)^8$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "(1 + x^2)^8",
+        "(1.01)^8"
+      ],
+      "pdfPageStart": 235,
+      "pdfPageEnd": 235,
+      "printedPageStart": 230,
+      "printedPageEnd": 230,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p004",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৪. $x$ এর উর্ধ্বক্রম অনুসারে নিম্নোক্ত দ্বিপদীসমূহের প্রথম তিনটি পদ নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "x"
+      ],
+      "pdfPageStart": 235,
+      "pdfPageEnd": 235,
+      "printedPageStart": 230,
+      "printedPageEnd": 230,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p005",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "ক) $(1 - 2x)^5$ খ) $(1 + 3x)^9$",
+      "image": null,
+      "formulas": [
+        "(1 - 2x)^5",
+        "(1 + 3x)^9"
+      ],
+      "pdfPageStart": 235,
+      "pdfPageEnd": 235,
+      "printedPageStart": 230,
+      "printedPageEnd": 230,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p006",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৫. নিম্নোক্ত বিস্তৃতিসমূহের প্রথম চারটি পদ নির্ণয় করো। [দ্বিপদী বিস্তৃতি বা প্যাসক্যাল ত্রিভুজ এর যেকোনো একটি ব্যবহার করে]",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 235,
+      "pdfPageEnd": 235,
+      "printedPageStart": 230,
+      "printedPageEnd": 230,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p007",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "ক) $(1 - 2x^2)^7$ খ) $\\left(1 + \\frac{2}{x}\\right)^4$ গ) $\\left(1 - \\frac{1}{2x}\\right)^7$",
+      "image": null,
+      "formulas": [
+        "(1 - 2x^2)^7",
+        "\\left(1 + \\frac{2}{x}\\right)^4",
+        "\\left(1 - \\frac{1}{2x}\\right)^7"
+      ],
+      "pdfPageStart": 235,
+      "pdfPageEnd": 235,
+      "printedPageStart": 230,
+      "printedPageEnd": 230,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p008",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৬. $x^3$ পর্যন্ত ক) $(1 - x)^6$ এবং খ) $(1 + 2x)^6$ বিস্তৃত করো।",
+      "image": null,
+      "formulas": [
+        "x^3",
+        "(1 - x)^6",
+        "(1 + 2x)^6"
+      ],
+      "pdfPageStart": 235,
+      "pdfPageEnd": 235,
+      "printedPageStart": 230,
+      "printedPageEnd": 230,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p009",
+      "kind": "exercise",
+      "section": "অনুশীলনী ১০.২",
+      "caption": null,
+      "body": "১. $(x + y)^5$ -এর বিস্তৃতিতে দ্বিপদী সহগগুলি হলো:\nক) 5, 10, 10, 5\nগ) 10, 5, 5, 10\nখ) 1, 5, 10, 10, 5, 1\nঘ) 1, 2, 3, 3, 2, 1",
+      "image": null,
+      "formulas": [
+        "(x + y)^5"
+      ],
+      "pdfPageStart": 241,
+      "pdfPageEnd": 241,
+      "printedPageStart": 236,
+      "printedPageEnd": 236,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p010",
+      "kind": "exercise",
+      "section": "অনুশীলনী ১০.২",
+      "caption": null,
+      "body": "২. $\\left(x^2 + \\frac{1}{x^2}\\right)^4$ -এর বিস্তৃতিতে $x$ মুক্ত পদ কত?\nক) 4\nখ) 6\nগ) 8\nঘ) 0",
+      "image": null,
+      "formulas": [
+        "\\left(x^2 + \\frac{1}{x^2}\\right)^4",
+        "x"
+      ],
+      "pdfPageStart": 241,
+      "pdfPageEnd": 241,
+      "printedPageStart": 236,
+      "printedPageEnd": 236,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p011",
+      "kind": "exercise",
+      "section": "অনুশীলনী ১০.২",
+      "caption": null,
+      "body": "৩. $(x + y)^4$ বিস্তৃতির সহগগুলি সাজালে আমরা পাই-",
+      "image": null,
+      "formulas": [
+        "(x + y)^4"
+      ],
+      "pdfPageStart": 241,
+      "pdfPageEnd": 241,
+      "printedPageStart": 236,
+      "printedPageEnd": 236,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p012",
+      "kind": "table",
+      "section": "অনুশীলনী ১০.২",
+      "caption": null,
+      "body": "<table><tr><td></td><td></td><td>4</td><td></td></tr>\n<tr><td>ক)</td><td>1</td><td>4</td><td>1</td><td></td><td></td><td>1</td><td></td></tr>\n<tr><td></td><td>1</td><td>4</td><td>1</td><td></td><td></td><td>1</td><td>1</td></tr>\n<tr><td></td><td>1</td><td>5</td><td>5</td><td>1</td><td></td><td>1</td><td>2</td><td>1</td></tr>\n<tr><td></td><td>1</td><td>6</td><td>10</td><td>6</td><td>1</td><td></td><td>1</td><td>3</td><td>3</td><td>1</td></tr>\n<tr><td></td><td></td><td>2</td><td></td><td></td><td></td><td>1</td><td>4</td><td>6</td><td>4</td><td>1</td></tr>\n<tr><td></td><td></td><td>2</td><td>3</td><td>2</td><td></td><td></td><td></td><td>6</td><td></td><td></td></tr>\n<tr><td>গ)</td><td>1</td><td>5</td><td>5</td><td>2</td><td></td><td></td><td></td><td>6</td><td>12</td><td>6</td></tr>\n<tr><td></td><td>2</td><td>7</td><td>10</td><td>7</td><td>2</td><td></td><td></td><td>6</td><td>18</td><td>18</td><td>6</td></tr>\n<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td>6</td><td>24</td><td>36</td><td>24</td><td>6</td></tr></table>",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 241,
+      "pdfPageEnd": 241,
+      "printedPageStart": 236,
+      "printedPageEnd": 236,
+      "reviewReasons": [
+        "verify-table"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p013",
+      "kind": "exercise",
+      "section": "অনুশীলনী ১০.২",
+      "caption": null,
+      "body": "৪. নিম্নকণ্ঠ প্রতিটি ক্ষেত্রে বিস্তৃত করো:\nক) $(2 + x^2)^5$\nখ) $\\left(2 - \\frac{1}{2x}\\right)^6$",
+      "image": null,
+      "formulas": [
+        "(2 + x^2)^5",
+        "\\left(2 - \\frac{1}{2x}\\right)^6"
+      ],
+      "pdfPageStart": 241,
+      "pdfPageEnd": 241,
+      "printedPageStart": 236,
+      "printedPageEnd": 236,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p014",
+      "kind": "exercise",
+      "section": "অনুশীলনী ১০.২",
+      "caption": null,
+      "body": "৫. নিম্নে দ্বিপদী বিস্তৃতিসমূহের প্রথম চারটি পদ নির্ণয় করো।\nক) $(2 + 3x)^6$ খ) $\\left(4 - \\frac{1}{2x}\\right)^5$",
+      "image": null,
+      "formulas": [
+        "(2 + 3x)^6",
+        "\\left(4 - \\frac{1}{2x}\\right)^5"
+      ],
+      "pdfPageStart": 242,
+      "pdfPageEnd": 242,
+      "printedPageStart": 237,
+      "printedPageEnd": 237,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p015",
+      "kind": "exercise",
+      "section": "অনুশীলনী ১০.২",
+      "caption": null,
+      "body": "৬. $\\left(p - \\frac{1}{2}x\\right)^6 = r - 96x + sx^2 + \\dots$ হলে, $p$, $r$ এবং $s$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "\\left(p - \\frac{1}{2}x\\right)^6 = r - 96x + sx^2 + \\dots",
+        "p",
+        "r",
+        "s"
+      ],
+      "pdfPageStart": 242,
+      "pdfPageEnd": 242,
+      "printedPageStart": 237,
+      "printedPageEnd": 237,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p016",
+      "kind": "exercise",
+      "section": "অনুশীলনী ১০.২",
+      "caption": null,
+      "body": "৭. $x$ এর ঘাতের উর্ধ্বক্রম অনুসারে $\\left(2 + \\frac{x}{4}\\right)^6$ কে $x^3$ পর্যন্ত বিস্তৃত করো। উহার সাহায্যে $(1.9975)^6$ এর আসন্ন মান চার দশমিক স্থান পর্যন্ত নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "x",
+        "\\left(2 + \\frac{x}{4}\\right)^6",
+        "x^3",
+        "(1.9975)^6"
+      ],
+      "pdfPageStart": 242,
+      "pdfPageEnd": 242,
+      "printedPageStart": 237,
+      "printedPageEnd": 237,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p017",
+      "kind": "exercise",
+      "section": "অনুশীলনী ১০.২",
+      "caption": null,
+      "body": "৮. দ্বিপদী উপপাদ্য ব্যবহার করে $(1.99)^5$ এর মান চার দশমিক স্থান পর্যন্ত নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "(1.99)^5"
+      ],
+      "pdfPageStart": 242,
+      "pdfPageEnd": 242,
+      "printedPageStart": 237,
+      "printedPageEnd": 237,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p018",
+      "kind": "exercise",
+      "section": "অনুশীলনী ১০.২",
+      "caption": null,
+      "body": "৯. $\\left(1 + \\frac{x}{4}\\right)^n$ এর বিস্তৃতির তৃতীয় পদের সহগ চতুর্থ পদের সহগের দ্বিগুণ। $n$ এর মান নির্ণয় করো। বিস্তৃতির পদসংখ্যা ও মধ্যপদ নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "\\left(1 + \\frac{x}{4}\\right)^n",
+        "n"
+      ],
+      "pdfPageStart": 242,
+      "pdfPageEnd": 242,
+      "printedPageStart": 237,
+      "printedPageEnd": 237,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p019",
+      "kind": "exercise",
+      "section": "অনুশীলনী ১০.২",
+      "caption": null,
+      "body": "১০. $\\left(x^2 + \\frac{k}{x}\\right)^6$ এর বিস্তৃতিতে $x^3$ এর সহগ 160 হলে $k$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "\\left(x^2 + \\frac{k}{x}\\right)^6",
+        "x^3",
+        "k"
+      ],
+      "pdfPageStart": 242,
+      "pdfPageEnd": 242,
+      "printedPageStart": 237,
+      "printedPageEnd": 237,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p020",
+      "kind": "exercise",
+      "section": "অনুশীলনী ১০.২",
+      "caption": null,
+      "body": "১১. $(A + Bx)^n$ একটি বীজগাণিতিক রাশি।\nক) $A = 1$, $B = 2$ এবং $n = 5$ হলে প্যাসকেলের ত্রিভুজ ব্যবহার করে রাশিটির বিস্তৃতি নির্ণয় করো।\nখ) $B = 3$ এবং $n = 7$ হলে রাশিটির বিস্তৃতির $x^4$ এর সহগ 22680 হয়। $A$ এর মান নির্ণয় করো।\nগ) $A = 2$ এবং $B = 1$ হলে রাশিটির বিস্তৃতির পঞ্চম ও ষষ্ঠ পদের সহগ সমান হয়। $n$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "(A + Bx)^n",
+        "A = 1",
+        "B = 2",
+        "n = 5",
+        "B = 3",
+        "n = 7",
+        "x^4",
+        "A",
+        "A = 2",
+        "B = 1",
+        "n"
+      ],
+      "pdfPageStart": 242,
+      "pdfPageEnd": 242,
+      "printedPageStart": 237,
+      "printedPageEnd": 237,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p021",
+      "kind": "exercise",
+      "section": "অনুশীলনী ১০.২",
+      "caption": null,
+      "body": "১২. $a_1, a_2, a_3, a_4$ যদি $(1 + x)^n$ এর বিস্তৃতির চারটি ক্রমিক পদের সহগ হয়ে থাকে তাহলে প্রমাণ করো যে $\\frac{a_1}{a_1 + a_2} + \\frac{a_3}{a_3 + a_4} = \\frac{2a_2}{a_2 + a_3}$",
+      "image": null,
+      "formulas": [
+        "a_1, a_2, a_3, a_4",
+        "(1 + x)^n",
+        "\\frac{a_1}{a_1 + a_2} + \\frac{a_3}{a_3 + a_4} = \\frac{2a_2}{a_2 + a_3}"
+      ],
+      "pdfPageStart": 242,
+      "pdfPageEnd": 242,
+      "printedPageStart": 237,
+      "printedPageEnd": 237,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p022",
+      "kind": "exercise",
+      "section": "অনুশীলনী ১০.২",
+      "caption": null,
+      "body": "১৩. কোনটি বড় $99^{50} + 100^{50}$ না $101^{50}$?",
+      "image": null,
+      "formulas": [
+        "99^{50} + 100^{50}",
+        "101^{50}"
+      ],
+      "pdfPageStart": 242,
+      "pdfPageEnd": 242,
+      "printedPageStart": 237,
+      "printedPageEnd": 237,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p023",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "১. $(1 - x) \\left(1 + \\frac{x}{2}\\right)^8$ -এর বিস্তৃতিতে $x$ এর সহগ\nক) $-1$ খ) $\\frac{1}{2}$ গ) $3$ ঘ) $-\\frac{1}{2}$",
+      "image": null,
+      "formulas": [
+        "(1 - x) \\left(1 + \\frac{x}{2}\\right)^8",
+        "x",
+        "-1",
+        "\\frac{1}{2}",
+        "3",
+        "-\\frac{1}{2}"
+      ],
+      "pdfPageStart": 242,
+      "pdfPageEnd": 242,
+      "printedPageStart": 237,
+      "printedPageEnd": 237,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p024",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "২. $(1 + 2x + x^2)^3$ এর বিস্তৃতিতে-\n    (i) পদসংখ্যা 7                      (ii) ২য় পদ $6x$                      (iii) শেষ পদ $x^6$",
+      "image": null,
+      "formulas": [
+        "(1 + 2x + x^2)^3",
+        "6x",
+        "x^6"
+      ],
+      "pdfPageStart": 243,
+      "pdfPageEnd": 243,
+      "printedPageStart": 238,
+      "printedPageEnd": 238,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p025",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "নিচের কোনটি সঠিক?\n    ক) $i, ii$                      খ) $i, iii$                      গ) $ii, iii$                      ঘ) $i, ii$ ও $iii$",
+      "image": null,
+      "formulas": [
+        "i, ii",
+        "i, iii",
+        "ii, iii",
+        "i, ii",
+        "iii"
+      ],
+      "pdfPageStart": 243,
+      "pdfPageEnd": 243,
+      "printedPageStart": 238,
+      "printedPageEnd": 238,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p026",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "$\\left(x + \\frac{1}{x}\\right)^n$, যেখানে $n$ জোড় সংখ্যা। এই তথ্য থেকে ৩ ও ৪ নং প্রশ্নের উত্তর দাও।",
+      "image": null,
+      "formulas": [
+        "\\left(x + \\frac{1}{x}\\right)^n",
+        "n"
+      ],
+      "pdfPageStart": 243,
+      "pdfPageEnd": 243,
+      "printedPageStart": 238,
+      "printedPageEnd": 238,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p027",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৩. $(r + 1)$ তম পদটি $x$ বর্জিত হলে $r$ এর মান কত?\n    ক) 0                      খ) $\\frac{n}{2}$                      গ) $n$                      ঘ) $2n$",
+      "image": null,
+      "formulas": [
+        "(r + 1)",
+        "x",
+        "r",
+        "\\frac{n}{2}",
+        "n",
+        "2n"
+      ],
+      "pdfPageStart": 243,
+      "pdfPageEnd": 243,
+      "printedPageStart": 238,
+      "printedPageEnd": 238,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p028",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৪. $n = 4$ হলে, চতুর্থ পদ কত?\n    ক) 4                      খ) $4x$                      গ) $\\frac{4}{x}$                      ঘ) $\\frac{4}{x^2}$",
+      "image": null,
+      "formulas": [
+        "n = 4",
+        "4x",
+        "\\frac{4}{x}",
+        "\\frac{4}{x^2}"
+      ],
+      "pdfPageStart": 243,
+      "pdfPageEnd": 243,
+      "printedPageStart": 238,
+      "printedPageEnd": 238,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p029",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "৫. $A = (1 + x)^7$ এবং $B = (1 - x)^8$",
+      "image": null,
+      "formulas": [
+        "A = (1 + x)^7",
+        "B = (1 - x)^8"
+      ],
+      "pdfPageStart": 243,
+      "pdfPageEnd": 243,
+      "printedPageStart": 238,
+      "printedPageEnd": 238,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p030",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "ক) প্যাসকেলের ত্রিভুজ ব্যবহার করে $A$ এর বিস্তৃতি নির্ণয় করো।\n    খ) $B$ এর বিস্তৃতির চার পদ পর্যন্ত নির্ণয় করে উক্ত ফলাফল ব্যবহার করে $(0.99)^8$ এর মান চার দশমিক স্থান পর্যন্ত নির্ণয় করো।\n    গ) $AB$ এর বিস্তৃতির $x^7$ এর সহগ নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "A",
+        "B",
+        "(0.99)^8",
+        "AB",
+        "x^7"
+      ],
+      "pdfPageStart": 243,
+      "pdfPageEnd": 243,
+      "printedPageStart": 238,
+      "printedPageEnd": 238,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p031",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "৬. $A = \\left(2x^2 - \\frac{1}{2x^3}\\right)^{10}$ এবং $B = \\left(3k - \\frac{2x}{3}\\right)^5$",
+      "image": null,
+      "formulas": [
+        "A = \\left(2x^2 - \\frac{1}{2x^3}\\right)^{10}",
+        "B = \\left(3k - \\frac{2x}{3}\\right)^5"
+      ],
+      "pdfPageStart": 243,
+      "pdfPageEnd": 243,
+      "printedPageStart": 238,
+      "printedPageEnd": 238,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p032",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "ক) $A$ এর বিস্তৃতিতে মধ্যপদের মান নির্ণয় করো।\n    খ) $A$ এর বিস্তৃতিতে $x$ মুক্ত পদের মান নির্ণয় করো।\n    গ) $B$ এর বিস্তৃতিতে $k^3$ এর সহগ 30 হলে, $x$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "A",
+        "A",
+        "x",
+        "B",
+        "k^3",
+        "x"
+      ],
+      "pdfPageStart": 243,
+      "pdfPageEnd": 243,
+      "printedPageStart": 238,
+      "printedPageEnd": 238,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p033",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "৭. ক) প্যাসক্যাল এর ত্রিভুজ বিধির সাহায্যে $(1 - 2x^2)^5$ এর বিস্তৃতি নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "(1 - 2x^2)^5"
+      ],
+      "pdfPageStart": 243,
+      "pdfPageEnd": 243,
+      "printedPageStart": 238,
+      "printedPageEnd": 238,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p034",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "খ) $\\left(1 + \\frac{x}{2}\\right)^8$ এর বিস্তৃতির $x^3$ এর সহগ নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "\\left(1 + \\frac{x}{2}\\right)^8",
+        "x^3"
+      ],
+      "pdfPageStart": 243,
+      "pdfPageEnd": 243,
+      "printedPageStart": 238,
+      "printedPageEnd": 238,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p035",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "গ) $\\left(2k - \\frac{x}{2}\\right)^5$ এর বিস্তৃতিতে $k^3$ এর সহগ 720 হলে $x$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "\\left(2k - \\frac{x}{2}\\right)^5",
+        "k^3",
+        "x"
+      ],
+      "pdfPageStart": 243,
+      "pdfPageEnd": 243,
+      "printedPageStart": 238,
+      "printedPageEnd": 238,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c10-t10.ex-p036",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "ঘ) $\\binom{n}{5} = \\binom{n}{7}$ হলে, $n$ এর মান নির্ণয় করো।",
+      "image": null,
+      "formulas": [
+        "\\binom{n}{5} = \\binom{n}{7}",
+        "n"
+      ],
+      "pdfPageStart": 243,
+      "pdfPageEnd": 243,
+      "printedPageStart": 238,
+      "printedPageEnd": 238,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}

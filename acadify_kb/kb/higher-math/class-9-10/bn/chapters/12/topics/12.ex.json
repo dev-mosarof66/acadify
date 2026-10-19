@@ -1,0 +1,551 @@
+{
+  "id": "higher-math-9-10-bn-c12-t12.ex",
+  "key": "12.ex",
+  "title": "অনুশীলনী ১২",
+  "chapter": 12,
+  "ordinal": 11,
+  "passages": [
+    {
+      "id": "higher-math-9-10-bn-c12-t12.ex-p001",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১. দুটি ভেক্টর সমান্তরাল হলে\n    (i) এদের যোগের ক্ষেত্রে সমান্তরিক বিধি প্রযোজ্য\n    (ii) এদের যোগের ক্ষেত্রে ত্রিভুজবিধি প্রযোজ্য\n    (iii) এদের দৈর্ঘ্য সর্বদা সমান\nওপরের তথ্যের আলোকে নিচের কোনটি সঠিক?\nক) $i$                      খ) $ii$                      গ) $i$ ও $ii$                      ঘ) $i, ii$ ও $iii$",
+      "image": null,
+      "formulas": [
+        "i",
+        "ii",
+        "i",
+        "ii",
+        "i, ii",
+        "iii"
+      ],
+      "pdfPageStart": 289,
+      "pdfPageEnd": 289,
+      "printedPageStart": 284,
+      "printedPageEnd": 284,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.ex-p002",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "২. $AB = CD$ এবং $AB \\parallel CD$ হলে নিচের কোনটি সঠিক?\nক) $\\overrightarrow{AB} = \\overrightarrow{CD}$                      খ) $\\overrightarrow{AB} = m \\cdot \\overrightarrow{CD}$, যেখানে $m > 1$\nগ) $\\overrightarrow{AB} + \\overrightarrow{DC} < <u>0</u>$                      ঘ) $\\overrightarrow{AB} + m\\overrightarrow{CD} = <u>0</u>$, যেখানে $m > 1$",
+      "image": null,
+      "formulas": [
+        "AB = CD",
+        "AB \\parallel CD",
+        "\\overrightarrow{AB} = \\overrightarrow{CD}",
+        "\\overrightarrow{AB} = m \\cdot \\overrightarrow{CD}",
+        "m > 1",
+        "\\overrightarrow{AB} + \\overrightarrow{DC} < <u>0</u>",
+        "\\overrightarrow{AB} + m\\overrightarrow{CD} = <u>0</u>",
+        "m > 1"
+      ],
+      "pdfPageStart": 289,
+      "pdfPageEnd": 289,
+      "printedPageStart": 284,
+      "printedPageEnd": 284,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.ex-p003",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৩. $\\triangle ABC$ এর ক্ষেত্রে কোনটি সঠিক?\nক) $\\overrightarrow{AB} + \\overrightarrow{BC} = \\overrightarrow{CA}$                      খ) $\\overrightarrow{AB} + \\overrightarrow{AC} = \\overrightarrow{BC}$\nগ) $\\overrightarrow{CB} + \\overrightarrow{BA} + \\overrightarrow{CA} = <u>0</u>$                      ঘ) $\\overrightarrow{AB} + \\overrightarrow{BC} + \\overrightarrow{CA} = <u>0</u>$",
+      "image": null,
+      "formulas": [
+        "\\triangle ABC",
+        "\\overrightarrow{AB} + \\overrightarrow{BC} = \\overrightarrow{CA}",
+        "\\overrightarrow{AB} + \\overrightarrow{AC} = \\overrightarrow{BC}",
+        "\\overrightarrow{CB} + \\overrightarrow{BA} + \\overrightarrow{CA} = <u>0</u>",
+        "\\overrightarrow{AB} + \\overrightarrow{BC} + \\overrightarrow{CA} = <u>0</u>"
+      ],
+      "pdfPageStart": 289,
+      "pdfPageEnd": 289,
+      "printedPageStart": 284,
+      "printedPageEnd": 284,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.ex-p004",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৪. $ABCD$ সামান্তরিকের কর্ণদ্বয় $\\overrightarrow{AC}$ ও $\\overrightarrow{BD}$ হলে $\\overrightarrow{AB}$ ও $\\overrightarrow{AC}$ ভেক্টরদ্বয়কে $\\overrightarrow{AD}$ ও $\\overrightarrow{BD}$ ভেক্টরদ্বয়ের মাধ্যমে প্রকাশ করো এবং দেখাও যে, $\\overrightarrow{AC} + \\overrightarrow{BD} = 2\\overrightarrow{BC}$ এবং $\\overrightarrow{AC} - \\overrightarrow{BD} = 2\\overrightarrow{AB}$।",
+      "image": null,
+      "formulas": [
+        "ABCD",
+        "\\overrightarrow{AC}",
+        "\\overrightarrow{BD}",
+        "\\overrightarrow{AB}",
+        "\\overrightarrow{AC}",
+        "\\overrightarrow{AD}",
+        "\\overrightarrow{BD}",
+        "\\overrightarrow{AC} + \\overrightarrow{BD} = 2\\overrightarrow{BC}",
+        "\\overrightarrow{AC} - \\overrightarrow{BD} = 2\\overrightarrow{AB}"
+      ],
+      "pdfPageStart": 290,
+      "pdfPageEnd": 290,
+      "printedPageStart": 285,
+      "printedPageEnd": 285,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.ex-p005",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৫. দেখাও যে,\nক) $-(<u>a</u> + <u>b</u>) = -<u>a</u> - <u>b</u>$ খ) $<u>a</u> + <u>b</u> = <u>c</u>$ হলে $<u>a</u> = <u>c</u> - <u>b</u>$",
+      "image": null,
+      "formulas": [
+        "-(<u>a</u> + <u>b</u>) = -<u>a</u> - <u>b</u>",
+        "<u>a</u> + <u>b</u> = <u>c</u>",
+        "<u>a</u> = <u>c</u> - <u>b</u>"
+      ],
+      "pdfPageStart": 290,
+      "pdfPageEnd": 290,
+      "printedPageStart": 285,
+      "printedPageEnd": 285,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.ex-p006",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৬. দেখাও যে,\nক) $<u>a</u> + <u>a</u> = 2<u>a</u>$ খ) $(m - n)<u>a</u> = m<u>a</u> - n<u>a</u>$\nগ) $m(<u>a</u> - <u>b</u>) = m<u>a</u> - m<u>b</u>$",
+      "image": null,
+      "formulas": [
+        "<u>a</u> + <u>a</u> = 2<u>a</u>",
+        "(m - n)<u>a</u> = m<u>a</u> - n<u>a</u>",
+        "m(<u>a</u> - <u>b</u>) = m<u>a</u> - m<u>b</u>"
+      ],
+      "pdfPageStart": 290,
+      "pdfPageEnd": 290,
+      "printedPageStart": 285,
+      "printedPageEnd": 285,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.ex-p007",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৭. ভেক্টরের সাহায্যে প্রমাণ করো যে, ত্রিভুজের এক বাহুর মধ্যবিন্দু থেকে অঙ্কিত অপর বাহুর সমান্তরাল রেখা তৃতীয় বাহুর মধ্যবিন্দুগামী।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 290,
+      "pdfPageEnd": 290,
+      "printedPageStart": 285,
+      "printedPageEnd": 285,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.ex-p008",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৮. প্রমাণ করো যে, কোনো চতুর্ভুজের কর্ণদ্বয় পরস্পরকে সমদ্বিখণ্ডিত করলে তা একটি সামান্তরিক হয়।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 290,
+      "pdfPageEnd": 290,
+      "printedPageStart": 285,
+      "printedPageEnd": 285,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.ex-p009",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "৯. ভেক্টরের সাহায্যে প্রমাণ কর যে, ট্রাপিজিয়ামের অসমান্তরাল বাহুদ্বয়ের মধ্যবিন্দুর সংযোজক সরলরেখা সমান্তরাল বাহুদ্বয়ের সমান্তরাল ও তাদের যোগফলের অর্ধেক।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 290,
+      "pdfPageEnd": 290,
+      "printedPageStart": 285,
+      "printedPageEnd": 285,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.ex-p010",
+      "kind": "exercise",
+      "section": null,
+      "caption": null,
+      "body": "১০. ভেক্টরের সাহায্যে প্রমাণ করো যে, ট্রাপিজিয়ামের কর্ণদ্বয়ের মধ্যবিন্দুর সংযোজক সরলরেখা সমান্তরাল বাহুদ্বয়ের সমান্তরাল এবং তাদের বিয়োগফলের অর্ধেক।",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 290,
+      "pdfPageEnd": 290,
+      "printedPageStart": 285,
+      "printedPageEnd": 285,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.ex-p011",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "১. $<u>a</u>, <u>b</u>$ অশূন্য অসমান্তরাল ভেক্টর এবং $m<u>a</u> + n<u>b</u> = <u>0</u>$ হলে, নিচের কোনটি সঠিক?",
+      "image": null,
+      "formulas": [
+        "<u>a</u>, <u>b</u>",
+        "m<u>a</u> + n<u>b</u> = <u>0</u>"
+      ],
+      "pdfPageStart": 290,
+      "pdfPageEnd": 290,
+      "printedPageStart": 285,
+      "printedPageEnd": 285,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.ex-p012",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) $m<u>a</u> = <u>0</u>$ (খ) $m<u>b</u> = <u>0</u>$",
+      "image": null,
+      "formulas": [
+        "m<u>a</u> = <u>0</u>",
+        "m<u>b</u> = <u>0</u>"
+      ],
+      "pdfPageStart": 290,
+      "pdfPageEnd": 290,
+      "printedPageStart": 285,
+      "printedPageEnd": 285,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.ex-p013",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(গ) $m = n = 0$ (ঘ) $m = n \\neq 0$",
+      "image": null,
+      "formulas": [
+        "m = n = 0",
+        "m = n \\neq 0"
+      ],
+      "pdfPageStart": 290,
+      "pdfPageEnd": 290,
+      "printedPageStart": 285,
+      "printedPageEnd": 285,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.ex-p014",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "২. $AB \\parallel DC$ হলে\n    $(i) \\overrightarrow{AB} = m \\cdot \\overrightarrow{DC}$ যেখানে $m$ একটি স্কেলার রাশি\n    $(ii) \\overrightarrow{AB} = \\overrightarrow{DC}$\n    $(iii) \\overrightarrow{AB} = \\overrightarrow{CD}$\nওপরের তথ্যের আলোকে নিচের কোনটি সঠিক?",
+      "image": null,
+      "formulas": [
+        "AB \\parallel DC",
+        "(i) \\overrightarrow{AB} = m \\cdot \\overrightarrow{DC}",
+        "m",
+        "(ii) \\overrightarrow{AB} = \\overrightarrow{DC}",
+        "(iii) \\overrightarrow{AB} = \\overrightarrow{CD}"
+      ],
+      "pdfPageStart": 290,
+      "pdfPageEnd": 290,
+      "printedPageStart": 285,
+      "printedPageEnd": 285,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.ex-p015",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "ক) $i$ খ) $ii$\nগ) $i$ ও $ii$ ঘ) $i, ii$ ও $iii$",
+      "image": null,
+      "formulas": [
+        "i",
+        "ii",
+        "i",
+        "ii",
+        "i, ii",
+        "iii"
+      ],
+      "pdfPageStart": 290,
+      "pdfPageEnd": 290,
+      "printedPageStart": 285,
+      "printedPageEnd": 285,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.ex-p016",
+      "kind": "figure",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "drawing: A trapezoid ABCD with points P and Q on sides AB and DC respectively.",
+      "image": "p291-page_16_image_1_v2.jpg",
+      "formulas": [],
+      "pdfPageStart": 291,
+      "pdfPageEnd": 291,
+      "printedPageStart": 286,
+      "printedPageEnd": 286,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.ex-p017",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "চিত্রে, $P$ ও $Q$ যথাক্রমে $AB$ ও $DC$ এর মধ্যবিন্দু এবং $AD \\parallel BC$। $A, B, C$ ও $D$ বিন্দুর অবস্থান ভেক্টর যথাক্রমে $<u>a</u>, <u>b</u>, <u>c</u>$ এবং $<u>d</u>$।",
+      "image": null,
+      "formulas": [
+        "P",
+        "Q",
+        "AB",
+        "DC",
+        "AD \\parallel BC",
+        "A, B, C",
+        "D",
+        "<u>a</u>, <u>b</u>, <u>c</u>",
+        "<u>d</u>"
+      ],
+      "pdfPageStart": 291,
+      "pdfPageEnd": 291,
+      "printedPageStart": 286,
+      "printedPageEnd": 286,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.ex-p018",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "উপরের তথ্যের আলোকে ৩ ও ৪ নং প্রশ্নের উত্তর দাও:",
+      "image": null,
+      "formulas": [],
+      "pdfPageStart": 291,
+      "pdfPageEnd": 291,
+      "printedPageStart": 286,
+      "printedPageEnd": 286,
+      "reviewReasons": [],
+      "needsReview": false
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.ex-p019",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৩. $P$ বিন্দুর অবস্থান ভেক্টর কোনটি?",
+      "image": null,
+      "formulas": [
+        "P"
+      ],
+      "pdfPageStart": 291,
+      "pdfPageEnd": 291,
+      "printedPageStart": 286,
+      "printedPageEnd": 286,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.ex-p020",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) $\\frac{<u>a</u> + <u>b</u> - <u>c</u>}{2}$                      (খ) $\\frac{<u>a</u> - <u>b</u>}{2}$                      (গ) $\\frac{<u>b</u> - <u>a</u>}{2}$                      (ঘ) $\\frac{<u>a</u> + <u>b</u>}{2}$",
+      "image": null,
+      "formulas": [
+        "\\frac{<u>a</u> + <u>b</u> - <u>c</u>}{2}",
+        "\\frac{<u>a</u> - <u>b</u>}{2}",
+        "\\frac{<u>b</u> - <u>a</u>}{2}",
+        "\\frac{<u>a</u> + <u>b</u>}{2}"
+      ],
+      "pdfPageStart": 291,
+      "pdfPageEnd": 291,
+      "printedPageStart": 286,
+      "printedPageEnd": 286,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.ex-p021",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "৪. $\\overrightarrow{PQ} =$ কত?",
+      "image": null,
+      "formulas": [
+        "\\overrightarrow{PQ} ="
+      ],
+      "pdfPageStart": 291,
+      "pdfPageEnd": 291,
+      "printedPageStart": 286,
+      "printedPageEnd": 286,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.ex-p022",
+      "kind": "exercise",
+      "section": "বহুনির্বাচনি প্রশ্ন",
+      "caption": null,
+      "body": "(ক) $\\frac{1}{2}(\\overrightarrow{AD} - \\overrightarrow{BC})$                      (খ) $\\frac{1}{2}(\\overrightarrow{BC} + \\overrightarrow{AD})$                      (গ) $(\\overrightarrow{AD} - \\overrightarrow{BC})$                      (ঘ) $(\\overrightarrow{BC} + \\overrightarrow{AD})$",
+      "image": null,
+      "formulas": [
+        "\\frac{1}{2}(\\overrightarrow{AD} - \\overrightarrow{BC})",
+        "\\frac{1}{2}(\\overrightarrow{BC} + \\overrightarrow{AD})",
+        "(\\overrightarrow{AD} - \\overrightarrow{BC})",
+        "(\\overrightarrow{BC} + \\overrightarrow{AD})"
+      ],
+      "pdfPageStart": 291,
+      "pdfPageEnd": 291,
+      "printedPageStart": 286,
+      "printedPageEnd": 286,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.ex-p023",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "৫. $\\triangle ABC$ এর $AB$ ও $AC$ বাহুর মধ্যবিন্দু যথাক্রমে $D$ ও $E$।\nক) $(\\overrightarrow{AD} + \\overrightarrow{DE})$ কে $\\overrightarrow{AC}$ ভেক্টরের মাধ্যমে প্রকাশ করো।\nখ) ভেক্টরের সাহায্যে প্রমাণ করো যে, $BC \\parallel DE$ এবং $DE = \\frac{1}{2}BC$\nগ) $BCED$ ট্রাপিজিয়ামের কর্ণদ্বয়ের মধ্যবিন্দু $M$ ও $N$ হলে ভেক্টরের সাহায্যে প্রমাণ করো যে, $MN \\parallel DE \\parallel BC$ এবং $MN = \\frac{1}{2}(BC - DE)$",
+      "image": null,
+      "formulas": [
+        "\\triangle ABC",
+        "AB",
+        "AC",
+        "D",
+        "E",
+        "(\\overrightarrow{AD} + \\overrightarrow{DE})",
+        "\\overrightarrow{AC}",
+        "BC \\parallel DE",
+        "DE = \\frac{1}{2}BC",
+        "BCED",
+        "M",
+        "N",
+        "MN \\parallel DE \\parallel BC",
+        "MN = \\frac{1}{2}(BC - DE)"
+      ],
+      "pdfPageStart": 291,
+      "pdfPageEnd": 291,
+      "printedPageStart": 286,
+      "printedPageEnd": 286,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.ex-p024",
+      "kind": "exercise",
+      "section": "সৃজনশীল প্রশ্ন",
+      "caption": null,
+      "body": "৬. $\\triangle ABC$ এর $BC, CA$ ও $AB$ বাহুর মধ্যবিন্দু যথাক্রমে $D, E, F$।\nক) $\\overrightarrow{AB}$ ভেক্টরকে $\\overrightarrow{BE}$ ও $\\overrightarrow{CF}$ ভেক্টরের মাধ্যমে প্রকাশ করো।\nখ) প্রমাণ করো যে, $\\overrightarrow{AD} + \\overrightarrow{BE} + \\overrightarrow{CF} = <u>0</u>$\nগ) ভেক্টরের সাহায্যে প্রমাণ করো যে, $F$ বিন্দু দিয়ে অঙ্কিত $BC$ এর সমান্তরাল রেখা অবশ্যই $E$ বিন্দুগামী হবে।",
+      "image": null,
+      "formulas": [
+        "\\triangle ABC",
+        "BC, CA",
+        "AB",
+        "D, E, F",
+        "\\overrightarrow{AB}",
+        "\\overrightarrow{BE}",
+        "\\overrightarrow{CF}",
+        "\\overrightarrow{AD} + \\overrightarrow{BE} + \\overrightarrow{CF} = <u>0</u>",
+        "F",
+        "BC",
+        "E"
+      ],
+      "pdfPageStart": 291,
+      "pdfPageEnd": 291,
+      "printedPageStart": 286,
+      "printedPageEnd": 286,
+      "reviewReasons": [
+        "known-confusable-corrected",
+        "verify-formula"
+      ],
+      "needsReview": true
+    },
+    {
+      "id": "higher-math-9-10-bn-c12-t12.ex-p025",
+      "kind": "exercise",
+      "section": "সংক্ষিপ্ত-উত্তর প্রশ্ন",
+      "caption": null,
+      "body": "৭. ক) দেখাও যে $<u>a</u>, <u>b</u>$ প্রত্যোকে অশূন্য ভেক্টর হলে, $<u>a</u> = m<u>b</u>$ হতে পারে কেবলমাত্র যদি $<u>a</u>, <u>b</u>$ এর সমান্তরাল হয়।\nখ) $A, B, C, D$ বিন্দুগুলোর অবস্থান ভেক্টর যথাক্রমে $<u>a</u>, <u>b</u>, <u>c</u>, <u>d</u>$ হলে দেখাও যে, $ABCD$ সামান্তরিক হবে যদি এবং কেবল যদি $<u>b</u> - <u>a</u> = <u>c</u> - <u>d</u>$ হয়।\nগ) $\\triangle ABC$ এ $BC$ এর মধ্যবিন্দু $D$। দেখাও যে, $\\overrightarrow{AB} + \\overrightarrow{AC} = 2\\overrightarrow{AD}$\nঘ) কোন কোন শর্তে $<u>u</u>$ এবং $<u>v</u>$ কে বিপরীত ভেক্টর বলা যাবে?",
+      "image": null,
+      "formulas": [
+        "<u>a</u>, <u>b</u>",
+        "<u>a</u> = m<u>b</u>",
+        "<u>a</u>, <u>b</u>",
+        "A, B, C, D",
+        "<u>a</u>, <u>b</u>, <u>c</u>, <u>d</u>",
+        "ABCD",
+        "<u>b</u> - <u>a</u> = <u>c</u> - <u>d</u>",
+        "\\triangle ABC",
+        "BC",
+        "D",
+        "\\overrightarrow{AB} + \\overrightarrow{AC} = 2\\overrightarrow{AD}",
+        "<u>u</u>",
+        "<u>v</u>"
+      ],
+      "pdfPageStart": 291,
+      "pdfPageEnd": 291,
+      "printedPageStart": 286,
+      "printedPageEnd": 286,
+      "reviewReasons": [
+        "verify-formula"
+      ],
+      "needsReview": true
+    }
+  ]
+}
