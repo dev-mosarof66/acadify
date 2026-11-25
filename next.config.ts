@@ -4,6 +4,7 @@ const nextConfig: NextConfig = {
   /* config options here */
   experimental: {
     agentFeedback: true,
+    agentUpgrade: "security",
     // Lecture sheets are up to 10 MB (photos 2 MB); leave room for the form's own overhead
     serverActions: {
       bodySizeLimit: "12mb",
